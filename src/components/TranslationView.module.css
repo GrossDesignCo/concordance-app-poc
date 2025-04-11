@@ -1,0 +1,10 @@
+.TranslationView {
+  display: flex;
+  gap: 40px;
+}
+
+.TranslatedText,
+.Details {
+  flex-basis: 0;
+  flex-grow: 1;
+}
