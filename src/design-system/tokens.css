@@ -1,0 +1,160 @@
+:root {
+  /* Base Scale - Colors - Light Theme (Default) */
+  --ds-cream-50: #faf6f0;
+  --ds-cream-100: #f5f0e6;
+  --ds-cream-200: #e9e0d0;
+  --ds-cream-300: #d4c5ad;
+  --ds-cream-400: #bca88a;
+  --ds-cream-500: #a48b67;
+  --ds-cream-600: #8c6e44;
+  --ds-cream-700: #71485d;
+  --ds-cream-800: #3e283a;
+  --ds-cream-900: #2d1a24;
+
+  /* Base Scale - Colors - Dark Theme */
+  --ds-dark-cream-50: #2d1a24;
+  --ds-dark-cream-100: #3e283a;
+  --ds-dark-cream-200: #71485d;
+  --ds-dark-cream-300: #473d4e;
+  --ds-dark-cream-400: #514558;
+  --ds-dark-cream-500: #5b4d62;
+  --ds-dark-cream-600: #65556c;
+  --ds-dark-cream-700: #6f5d76;
+  --ds-dark-cream-800: #796580;
+  --ds-dark-cream-900: #836d8a;
+
+  /* Base Scale - Spacing */
+  --ds-space-1: 0.25rem; /* 4px */
+  --ds-space-2: 0.5rem; /* 8px */
+  --ds-space-3: 0.75rem; /* 12px */
+  --ds-space-4: 1rem; /* 16px */
+  --ds-space-5: 1.5rem; /* 24px */
+  --ds-space-6: 2rem; /* 32px */
+  --ds-space-7: 3rem; /* 48px */
+  --ds-space-8: 4rem; /* 64px */
+  --ds-space-9: 6rem; /* 96px */
+  --ds-space-10: 8rem; /* 128px */
+
+  /* Base Scale - Typography */
+  --ds-font-size-xs: 0.75rem; /* 12px */
+  --ds-font-size-sm: 0.875rem; /* 14px */
+  --ds-font-size-base: 1rem; /* 16px */
+  --ds-font-size-lg: 1.125rem; /* 18px */
+  --ds-font-size-xl: 1.25rem; /* 20px */
+  --ds-font-size-2xl: 1.5rem; /* 24px */
+  --ds-font-size-3xl: 1.875rem; /* 30px */
+  --ds-font-size-4xl: 2.25rem; /* 36px */
+  --ds-font-size-5xl: 3rem; /* 48px */
+
+  /* Base Scale - Line Heights */
+  --ds-line-height-tight: 1.25;
+  --ds-line-height-snug: 1.375;
+  --ds-line-height-normal: 1.5;
+  --ds-line-height-relaxed: 1.625;
+  --ds-line-height-loose: 2;
+
+  /* Base Scale - Border Radius */
+  --ds-radius-sm: 0.125rem;
+  --ds-radius-md: 0.25rem;
+  --ds-radius-lg: 0.5rem;
+  --ds-radius-xl: 0.75rem;
+  --ds-radius-2xl: 1rem;
+  --ds-radius-full: 9999px;
+
+  /* Semantic Tokens - Colors (Light Theme Default) */
+  --ds-bg-primary: var(--ds-cream-50);
+  --ds-bg-secondary: var(--ds-cream-100);
+  --ds-bg-tertiary: var(--ds-cream-200);
+  --ds-bg-elevated: var(--ds-cream-100);
+  --ds-bg-overlay: rgba(250, 246, 240, 0.8);
+
+  --ds-fg-primary: var(--ds-cream-900);
+  --ds-fg-secondary: var(--ds-cream-700);
+  --ds-fg-tertiary: var(--ds-cream-500);
+  --ds-fg-low-contrast: var(--ds-cream-400);
+  --ds-fg-on-primary: var(--ds-cream-50);
+
+  /* Semantic Tokens - Typography */
+  --ds-font-family-base: system-ui, -apple-system, sans-serif;
+  --ds-font-family-heading: var(--ds-font-family-base);
+
+  --ds-text-heading-1: var(--ds-font-size-5xl);
+  --ds-text-heading-2: var(--ds-font-size-4xl);
+  --ds-text-heading-3: var(--ds-font-size-3xl);
+  --ds-text-heading-4: var(--ds-font-size-2xl);
+  --ds-text-body-large: var(--ds-font-size-lg);
+  --ds-text-body: var(--ds-font-size-base);
+  --ds-text-body-small: var(--ds-font-size-sm);
+  --ds-text-caption: var(--ds-font-size-xs);
+
+  /* Semantic Tokens - Spacing */
+  --ds-spacing-container: var(--ds-space-4);
+  --ds-spacing-stack-xs: var(--ds-space-2);
+  --ds-spacing-stack-sm: var(--ds-space-3);
+  --ds-spacing-stack-md: var(--ds-space-4);
+  --ds-spacing-stack-lg: var(--ds-space-6);
+  --ds-spacing-stack-xl: var(--ds-space-8);
+
+  --ds-spacing-inline-xs: var(--ds-space-2);
+  --ds-spacing-inline-sm: var(--ds-space-3);
+  --ds-spacing-inline-md: var(--ds-space-4);
+  --ds-spacing-inline-lg: var(--ds-space-6);
+  --ds-spacing-inline-xl: var(--ds-space-8);
+
+  /* Semantic Tokens - Components */
+  --ds-button-padding-y: var(--ds-space-1);
+  --ds-button-padding-x: var(--ds-space-2);
+  --ds-button-radius: var(--ds-radius-md);
+  --ds-button-font-size: var(--ds-font-size-sm);
+  --ds-button-font-weight: 500;
+
+  --ds-input-height: 2.5rem;
+  --ds-input-padding-x: var(--ds-space-3);
+  --ds-input-radius: var(--ds-radius-md);
+  --ds-input-border-width: 1px;
+  --ds-input-border-color: var(--ds-cream-300);
+}
+
+/* Dark Theme Override */
+[data-theme='dark'] {
+  --ds-bg-primary: var(--ds-dark-cream-900);
+  --ds-bg-secondary: var(--ds-dark-cream-800);
+  --ds-bg-tertiary: var(--ds-dark-cream-700);
+  --ds-bg-elevated: var(--ds-dark-cream-800);
+  --ds-bg-overlay: rgba(43, 37, 48, 0.8);
+
+  --ds-fg-primary: var(--ds-dark-cream-50);
+  --ds-fg-secondary: var(--ds-dark-cream-200);
+  --ds-fg-tertiary: var(--ds-dark-cream-400);
+  --ds-fg-low-contrast: var(--ds-dark-cream-600);
+  --ds-fg-on-primary: var(--ds-dark-cream-900);
+}
+
+/* Manual Theme Overrides */
+.theme-light {
+  --ds-bg-primary: var(--ds-cream-50);
+  --ds-bg-secondary: var(--ds-cream-100);
+  --ds-bg-tertiary: var(--ds-cream-200);
+  --ds-bg-elevated: var(--ds-cream-100);
+  --ds-bg-overlay: rgba(250, 246, 240, 0.8);
+
+  --ds-fg-primary: var(--ds-cream-900);
+  --ds-fg-secondary: var(--ds-cream-700);
+  --ds-fg-tertiary: var(--ds-cream-500);
+  --ds-fg-low-contrast: var(--ds-cream-400);
+  --ds-fg-on-primary: var(--ds-cream-50);
+}
+
+.theme-dark {
+  --ds-bg-primary: var(--ds-dark-cream-900);
+  --ds-bg-secondary: var(--ds-dark-cream-800);
+  --ds-bg-tertiary: var(--ds-dark-cream-700);
+  --ds-bg-elevated: var(--ds-dark-cream-800);
+  --ds-bg-overlay: rgba(43, 37, 48, 0.8);
+
+  --ds-fg-primary: var(--ds-dark-cream-50);
+  --ds-fg-secondary: var(--ds-dark-cream-200);
+  --ds-fg-tertiary: var(--ds-dark-cream-400);
+  --ds-fg-low-contrast: var(--ds-dark-cream-600);
+  --ds-fg-on-primary: var(--ds-dark-cream-900);
+}

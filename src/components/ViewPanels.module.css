@@ -1,0 +1,10 @@
+.ViewPanels {
+  display: flex;
+  gap: 40px;
+}
+
+.ViewPanel {
+  flex-basis: 0;
+  flex-grow: 1;
+  padding: 1rem;
+}

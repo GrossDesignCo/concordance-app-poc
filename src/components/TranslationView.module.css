@@ -8,3 +8,9 @@
   flex-basis: 0;
   flex-grow: 1;
 }
+
+.TranslatedTextWords {
+  display: flex;
+  gap: 0.25em;
+  flex-wrap: wrap;
+}

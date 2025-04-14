@@ -1,5 +1,7 @@
-import { TranslationWord } from '@/types';
-import { useTranslation } from '@/context/TranslationContext';
+import { TranslationWord } from "@/types";
+import { useTranslation } from "@/context/TranslationContext";
+import cx from "classnames";
+import styles from "./TranslationWordView.module.css";
 
 interface TranslationWordViewProps {
   word: TranslationWord;
@@ -15,22 +17,15 @@ export default function TranslationWordView({
   const { showHebrew, showTransliteration } = useTranslation();
 
   return (
-    <span className="relative inline-block" onClick={() => onSelect(word)}>
+    <span onClick={() => onSelect(word)}>
       <span
-        className={`cursor-pointer hover:bg-blue-50 rounded px-1 py-0.5 transition-colors
-          ${isSelected ? 'bg-blue-100 hover:bg-blue-100' : ''}`}
+        className={cx(styles.TranslationWordView, {
+          [styles.selected]: isSelected,
+        })}
       >
-        {showHebrew && (
-          <span className="text-gray-600 text-sm font-hebrew mr-1">
-            {word.hebrew}
-          </span>
-        )}
-        {showTransliteration && (
-          <span className="text-gray-500 text-sm mr-1">
-            ({word.transliteration})
-          </span>
-        )}
-        <span className="text-black">{word.englishLiteral}</span>
+        {showHebrew && <span>{word.hebrew}</span>}
+        {showTransliteration && <span>({word.transliteration})</span>}
+        <span>{word.englishLiteral}</span>
       </span>
     </span>
   );

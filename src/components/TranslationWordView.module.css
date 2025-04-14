@@ -1,0 +1,9 @@
+.TranslationWordView {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+}
+
+.TranslationWordView.selected {
+  background-color: aqua;
+}
