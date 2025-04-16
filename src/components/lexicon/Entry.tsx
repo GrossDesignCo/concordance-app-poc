@@ -1,26 +1,21 @@
-import { TranslationWord } from "@/types";
-import cx from "classnames";
-import styles from "./WordDetailsPanel.module.css";
-import { useState, useEffect } from "react";
-
-interface WordDetailsPanelProps {
-  word: TranslationWord | null;
-  onClose: () => void;
-}
+import cx from 'classnames';
+import styles from './Entry.module.css';
+import { useState, useEffect } from 'react';
+import { useWordSelection } from '@/context/WordSelectionContext';
 
 // Define a type for the MDX component
 type MDXComponent = React.ComponentType<Record<string, never>>;
 
-export default function WordDetailsPanel({
-  word,
-}: // onClose,
-WordDetailsPanelProps) {
+export default function LexiconEntry({}) {
+  const { selectedWord } = useWordSelection();
+
   const [Entry, setEntry] = useState<MDXComponent | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
-    if (!word) return;
+    if (!selectedWord) return;
+    const { transliteration } = selectedWord;
 
     setIsLoading(true);
     setError(null);
@@ -32,26 +27,26 @@ WordDetailsPanelProps) {
     const loadEntry = async () => {
       try {
         const mdxModule = await import(
-          `../data/concordance/hebrew/${word.transliteration}.mdx`
+          `../../data/lexicon/hebrew/${transliteration}.mdx`
         );
         setEntry(() => mdxModule.default);
       } catch (err) {
         console.warn(
-          `Error looking up concordance entry for ${word.transliteration}: ${err}`
+          `Error looking up lexicon entry for ${transliteration}: ${err}`
         );
-        setError(`No entry found for "${word.transliteration}"`);
+        setError(`No entry found for "${transliteration}"`);
       } finally {
         setIsLoading(false);
       }
     };
 
     loadEntry();
-  }, [word]);
+  }, [selectedWord]);
 
-  if (!word) return null;
+  if (!selectedWord) return null;
 
   return (
-    <div className={cx(styles.WordDetailsPanel, "rich-text")}>
+    <div className={cx(styles.LexiconEntry, 'markdown-text')}>
       {isLoading && <p>Loading Entry...</p>}
       {error && <p className={styles.error}>{error}</p>}
       {Entry && <Entry />}

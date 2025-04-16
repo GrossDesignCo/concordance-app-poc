@@ -12,7 +12,7 @@ export const genesis1_1: Verse = {
       hebrew: 'בְּרֵאשִׁ֖ית',
       transliteration: 'beReshit',
       englishLiteral: 'In-heading',
-      englishNatural: 'In the beginning',
+      englishNatural: 'In heading',
       root: 'ראשׁ',
       prefixes: ['ב'],
       order: {
@@ -23,6 +23,9 @@ export const genesis1_1: Verse = {
         gender: 'feminine',
         number: 'singular',
         state: 'absolute',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
       },
     },
     {
@@ -42,6 +45,9 @@ export const genesis1_1: Verse = {
         tense: 'perfect',
         stem: 'qal',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
     },
     {
       hebrew: 'אֱלֹהִ֑ים',
@@ -56,6 +62,9 @@ export const genesis1_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
       },
     },
     {
@@ -87,6 +96,7 @@ export const genesis1_1: Verse = {
       hebrew: 'וְאֵ֥ת',
       transliteration: 'veEt',
       englishLiteral: 'and-↳',
+      englishNatural: 'and',
       prefixes: ['ו'],
       order: {
         hebrew: 6,
@@ -108,6 +118,10 @@ export const genesis1_1: Verse = {
         gender: 'feminine',
         number: 'singular',
       },
+      grammarSuffix: {
+        englishLiteral: '.',
+      },
+      lineBreaksAfter: 2,
     },
   ],
   translations: {
@@ -191,6 +205,10 @@ export const genesis1_2: Verse = {
         number: 'singular',
         state: 'absolute',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'וְחֹ֖שֶׁךְ',
@@ -241,12 +259,16 @@ export const genesis1_2: Verse = {
         number: 'singular',
         state: 'absolute',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: '.',
+      },
     },
     {
       hebrew: 'וְר֣וּחַ',
       transliteration: 'veRuach',
-      englishLiteral: 'and-Wind-of',
-      englishNatural: 'and the Spirit of',
+      englishLiteral: 'And-Wind-of',
+      englishNatural: 'And the Spirit of',
       root: 'רוח',
       prefixes: ['ו'],
       order: {
@@ -258,6 +280,7 @@ export const genesis1_2: Verse = {
         number: 'singular',
         state: 'construct',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אֱלֹהִ֔ים',
@@ -273,11 +296,14 @@ export const genesis1_2: Verse = {
         gender: 'masculine',
         number: 'plural',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
     },
     {
       hebrew: 'מְרַחֶ֖פֶת',
       transliteration: 'meRachefet',
-      englishLiteral: 'stirring',
+      englishLiteral: 'was-stirring',
       englishNatural: 'was hovering',
       root: 'רחף',
       order: {
@@ -287,16 +313,17 @@ export const genesis1_2: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        // person: 'participle',
-        // tense: 'present',
         stem: 'piel',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
       },
     },
     {
       hebrew: 'עַל־פְּנֵ֥י',
       transliteration: 'al-peney',
       englishLiteral: 'on-face-of',
-      englishNatural: 'over',
+      englishNatural: 'on the face of',
       root: 'פנה',
       prefixes: ['על'],
       order: {
@@ -324,6 +351,11 @@ export const genesis1_2: Verse = {
         gender: 'masculine',
         number: 'plural',
       },
+      lineBreaksAfter: 2,
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
     },
   ],
   translations: {
@@ -336,7 +368,145 @@ export const genesis1_2: Verse = {
   },
 };
 
+export const genesis1_3: Verse = {
+  meta: {
+    chapter: 1,
+    verse: 3,
+    paragraphBreak: false,
+  },
+  words: [
+    {
+      hebrew: 'וַיֹּאמֶר',
+      transliteration: 'vaYomer',
+      englishLiteral: 'And-said',
+      englishNatural: 'And said',
+      root: 'אמר',
+      prefixes: ['ו'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
+    },
+    {
+      hebrew: 'אֱלֹהִים',
+      transliteration: 'Elohim',
+      englishLiteral: 'Gods',
+      englishNatural: 'God',
+      root: 'אלה',
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
+    },
+    {
+      hebrew: 'יְהִי',
+      transliteration: 'yehi',
+      englishLiteral: 'be',
+      englishNatural: 'let there be',
+      root: 'היה',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+      },
+      grammarPrefix: {
+        englishLiteral: '“',
+      },
+    },
+    {
+      hebrew: 'אוֹר',
+      transliteration: 'or',
+      englishLiteral: 'light',
+      englishNatural: 'light',
+      root: 'אור',
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'absolute',
+      },
+      grammarSuffix: {
+        englishLiteral: '”',
+      },
+    },
+    {
+      hebrew: 'וַיְהִי',
+      transliteration: 'vaYehi',
+      englishLiteral: 'And-was',
+      englishNatural: 'and there was',
+      root: 'היה',
+      prefixes: ['ו'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+      },
+      lineBreaksBefore: 1,
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
+    },
+    {
+      hebrew: 'אוֹר',
+      transliteration: 'or',
+      englishLiteral: 'light',
+      englishNatural: 'light',
+      root: 'אור',
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'absolute',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+    },
+  ],
+  translations: {
+    literal: 'And-said Gods let-there-be light, And-was light.',
+    natural: 'And God said, "Let there be light," and there was light.',
+    hebrewWordOrder: 'And-said Gods let-there-be light And-was light.',
+  },
+};
+
 export const genesis_1: Chapter = {
   number: 1,
-  verses: [genesis1_1, genesis1_2],
+  verses: [genesis1_1, genesis1_2, genesis1_3],
 };

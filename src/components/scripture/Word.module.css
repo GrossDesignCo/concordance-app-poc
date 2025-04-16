@@ -1,0 +1,14 @@
+.TranslationWord {
+  display: inline-flex;
+}
+
+.Word {
+  display: inline-flex;
+  flex-direction: column;
+  width: max-content;
+}
+
+.Word.selected {
+  background-color: var(--ds-bg-tertiary);
+  border-radius: var(--ds-radius-md);
+}

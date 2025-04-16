@@ -14,5 +14,9 @@ interface ViewPanelProps extends React.PropsWithChildren {
 }
 
 export const ViewPanel = ({ children, className }: ViewPanelProps) => {
-  return <div className={cx(styles.ViewPanel, className)}>{children}</div>;
+  return (
+    <div className={cx(styles.ViewPanel, className)}>
+      <div className={styles.ViewPanelContent}>{children}</div>
+    </div>
+  );
 };

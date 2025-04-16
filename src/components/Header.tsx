@@ -1,5 +1,5 @@
 import React from 'react';
-import TranslationControls from '@/components/TranslationControls';
+import TranslationControls from '@/components/Settings';
 
 import styles from './Header.module.css';
 

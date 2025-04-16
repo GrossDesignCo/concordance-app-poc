@@ -1,20 +1,23 @@
+/**
+ * Grammatical gender of the word
+ * - masculine: Used for male beings and some inanimate objects
+ * - feminine: Used for female beings and some inanimate objects
+ * - neuter: Rare, mainly in borrowed words
+ */
+export type WordGender = 'masculine' | 'feminine' | 'neuter';
+
+/**
+ * Grammatical number indicating quantity
+ * - singular: One item/person
+ * - plural: Multiple items/people
+ * Note: Hebrew also has dual number for pairs, which we might want to add
+ */
+export type WordNumber = 'singular' | 'plural';
+
 // Types for the translation data structure
 export interface WordMorphology {
-  /**
-   * Grammatical gender of the word
-   * - masculine: Used for male beings and some inanimate objects
-   * - feminine: Used for female beings and some inanimate objects
-   * - neuter: Rare, mainly in borrowed words
-   */
-  gender?: 'masculine' | 'feminine' | 'neuter';
-
-  /**
-   * Grammatical number indicating quantity
-   * - singular: One item/person
-   * - plural: Multiple items/people
-   * Note: Hebrew also has dual number for pairs, which we might want to add
-   */
-  number?: 'singular' | 'plural';
+  gender?: WordGender;
+  number?: WordNumber;
 
   /**
    * Person indicates the participant in the discourse
@@ -62,12 +65,12 @@ export interface TranslationWord {
   transliteration: string;
   englishLiteral: string; // Our hyper-literal translation
   englishNatural?: string; // More natural English rendering
-  strongsNumber?: string; // For linking to lexicons
   morphology?: WordMorphology; // Detailed grammatical info
   prefixes?: string[]; // Separable prefixes
   suffixes?: string[]; // Separable suffixes
   root?: string; // Hebrew root if known
-  joinToNext?: boolean; // For handling construct chains and compounds
+  lineBreaksAfter?: number; // number of line breaks to render between this word and the next block (usually for paragraphs)
+  lineBreaksBefore?: number; // number of line breaks to render between this word and the previous block (usually for poetry)
   /**
    * Represents word order in different arrangements
    * Used for maintaining correct order in different display modes
@@ -76,6 +79,10 @@ export interface TranslationWord {
     hebrew: number; // Position in original Hebrew text
     english?: number; // Optional position for English rendering
   };
+
+  // Grammatical elements like commas/periods
+  grammarSuffix?: Grammar;
+  grammarPrefix?: Grammar;
 }
 
 export interface VerseMeta {
@@ -96,6 +103,13 @@ export interface Verse {
     hebrewWordOrder?: string; // Following Hebrew syntax
     // Could add others like 'formal equivalent', 'dynamic equivalent', etc.
   };
+}
+
+export type GrammarSymbol = ',' | '.' | ';' | ':' | '‘' | '’' | '“' | '”';
+
+export interface Grammar {
+  englishLiteral?: GrammarSymbol | GrammarSymbol[];
+  englishNatural?: GrammarSymbol | GrammarSymbol[];
 }
 
 export interface Chapter {

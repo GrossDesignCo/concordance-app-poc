@@ -1,0 +1,8 @@
+.Book {
+  max-width: 75ch;
+}
+
+.BookName {
+  position: sticky;
+  top: 1rem;
+}
