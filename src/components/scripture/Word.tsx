@@ -6,8 +6,8 @@ import styles from './Word.module.css';
 
 interface WordProps {
   word: TranslationWord;
-  onSelect: (word: TranslationWord) => void;
-  isSelected: boolean;
+  onSelect?: (word: TranslationWord) => void;
+  isSelected?: boolean;
 }
 
 export default function Word({ word, onSelect, isSelected }: WordProps) {
@@ -32,7 +32,7 @@ export default function Word({ word, onSelect, isSelected }: WordProps) {
     <>
       {lineBreaksBefore}
 
-      <span onClick={() => onSelect(word)} className={styles.TranslationWord}>
+      <span onClick={() => onSelect?.(word)} className={styles.TranslationWord}>
         <span
           className={cx(styles.Word, {
             [styles.selected]: isSelected,

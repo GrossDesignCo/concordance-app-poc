@@ -75,7 +75,7 @@ export interface TranslationWord {
    * Represents word order in different arrangements
    * Used for maintaining correct order in different display modes
    */
-  order: {
+  order?: {
     hebrew: number; // Position in original Hebrew text
     english?: number; // Optional position for English rendering
   };

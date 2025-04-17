@@ -1,7 +1,6 @@
 .ViewPanels {
   display: flex;
   gap: 40px;
-  max-width: 150ch;
   margin: auto;
 }
 
