@@ -435,6 +435,9 @@ export const genesis1_3: Verse = {
       grammarPrefix: {
         englishLiteral: '“',
       },
+      grammarSuffix: {
+        englishLiteral: ';',
+      },
     },
     {
       hebrew: 'אוֹר',
@@ -452,7 +455,7 @@ export const genesis1_3: Verse = {
         state: 'absolute',
       },
       grammarSuffix: {
-        englishLiteral: '”',
+        englishLiteral: '.”',
       },
     },
     {

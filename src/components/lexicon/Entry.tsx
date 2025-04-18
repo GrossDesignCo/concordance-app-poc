@@ -1,9 +1,9 @@
-import cx from 'classnames';
-import styles from './Entry.module.css';
-import { useState, useEffect } from 'react';
-import { useWordSelection } from '@/context/WordSelectionContext';
-import Word from '../scripture/Word';
-import { Button } from '@/design-system';
+import cx from "classnames";
+import styles from "./Entry.module.css";
+import { useState, useEffect } from "react";
+import { useWordSelection } from "@/context/WordSelectionContext";
+import Word from "../scripture/Word";
+import { Button } from "@/design-system";
 
 // Define a type for the MDX component
 type MDXComponent = React.ComponentType<Record<string, never>>;
@@ -52,10 +52,10 @@ export default function LexiconEntry({}) {
     setError(null);
 
     try {
-      const response = await fetch('/api/lexicon/generate-entry', {
-        method: 'POST',
+      const response = await fetch("/api/lexicon/generate-entry", {
+        method: "POST",
         headers: {
-          'Content-Type': 'application/json',
+          "Content-Type": "application/json",
         },
         body: JSON.stringify({ word: selectedWord }),
       });
@@ -63,14 +63,14 @@ export default function LexiconEntry({}) {
       const data = await response.json();
 
       if (!response.ok) {
-        throw new Error(data.error || 'Failed to generate entry');
+        throw new Error(data.error || "Failed to generate entry");
       }
 
       // Set the text entry instead of a component
       setEntryText(data.completeEntry);
     } catch (err) {
       setError(
-        err instanceof Error ? err.message : 'An unknown error occurred'
+        err instanceof Error ? err.message : "An unknown error occurred"
       );
     } finally {
       setLoading(false);
@@ -80,7 +80,7 @@ export default function LexiconEntry({}) {
   if (!selectedWord) return null;
 
   return (
-    <div className={cx(styles.LexiconEntry, 'markdown-text')}>
+    <div className={cx(styles.LexiconEntry, "markdown-text")}>
       {loading && <p>Loading Entry...</p>}
 
       {error && (

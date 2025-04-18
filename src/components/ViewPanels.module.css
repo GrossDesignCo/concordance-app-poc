@@ -15,3 +15,13 @@
 .ViewPanelContent {
   padding: 1rem;
 }
+
+@media (min-width: 1300px) {
+  .ViewPanels {
+    padding: 1rem;
+  }
+
+  .ViewPanel {
+    max-height: calc(100dvh - var(--header-max-height) - 2rem);
+  }
+}

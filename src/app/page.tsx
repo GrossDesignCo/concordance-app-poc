@@ -1,13 +1,13 @@
-'use client';
-import LexiconEntry from '@/components/lexicon/Entry';
-import { TranslationProvider } from '@/context/SettingsContext';
-import styles from './page.module.css';
-import { Header } from '@/components/Header';
+"use client";
+import LexiconEntry from "@/components/lexicon/Entry";
+import { TranslationProvider } from "@/context/SettingsContext";
+import styles from "./page.module.css";
+import { Header } from "@/components/Header";
 
-import { ViewPanel, ViewPanels } from '@/components/ViewPanels';
-import { WordSelectionProvider } from '@/context/WordSelectionContext';
-import { genesis } from '@/data/scripture/genesis';
-import { Book } from '@/components/scripture/Book';
+import { ViewPanel, ViewPanels } from "@/components/ViewPanels";
+import { WordSelectionProvider } from "@/context/WordSelectionContext";
+import { genesis } from "@/data/scripture/genesis";
+import { Book } from "@/components/scripture/Book";
 
 const Home = () => {
   return (

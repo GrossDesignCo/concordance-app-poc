@@ -14,7 +14,7 @@ body {
   background: var(--ds-bg-primary);
   font-family: 'Noto Sans Hebrew', sans-serif;
   font-size: 1rem;
-  line-height: 1.5em;
+  line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -41,17 +41,9 @@ a {
   direction: rtl;
 }
 
-br + br {
-  margin-block-start: -0.5rem;
-}
-
 ul,
 ol {
   padding-inline-start: 1em;
-}
-
-sup {
-  font-size: 0.75rem;
 }
 
 .markdown-text {

@@ -105,11 +105,9 @@ export interface Verse {
   };
 }
 
-export type GrammarSymbol = ',' | '.' | ';' | ':' | '‘' | '’' | '“' | '”';
-
 export interface Grammar {
-  englishLiteral?: GrammarSymbol | GrammarSymbol[];
-  englishNatural?: GrammarSymbol | GrammarSymbol[];
+  englishLiteral?: string;
+  englishNatural?: string;
 }
 
 export interface Chapter {

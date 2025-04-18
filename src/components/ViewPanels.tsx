@@ -1,5 +1,5 @@
-import cx from 'classnames';
-import styles from './ViewPanels.module.css';
+import cx from "classnames";
+import styles from "./ViewPanels.module.css";
 
 interface ViewPanelsProps extends React.PropsWithChildren {
   className?: string;
