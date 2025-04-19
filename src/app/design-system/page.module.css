@@ -1,0 +1,39 @@
+.container {
+  padding: var(--ds-space-6);
+  min-height: 100vh;
+  background-color: #fff;
+  color: #000;
+}
+
+@media (prefers-color-scheme: dark) {
+  .container {
+    background-color: #000;
+    color: #fff;
+  }
+}
+
+.header {
+  margin-bottom: var(--ds-space-6);
+}
+
+.themeContainer {
+  display: flex;
+  flex-direction: column;
+  gap: var(--ds-space-4);
+  background-color: var(--ds-bg-default);
+  color: var(--ds-fg-default);
+  padding: var(--ds-space-2);
+  border-radius: var(--ds-radius-lg);
+  margin-bottom: var(--ds-space-4);
+}
+
+.cards {
+  display: flex;
+  gap: var(--ds-space-1);
+  align-items: center;
+}
+
+.card {
+  padding: var(--ds-space-6);
+  border-radius: var(--ds-radius-md);
+}

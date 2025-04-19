@@ -1,19 +1,20 @@
 'use client';
 import { useState } from 'react';
 import { useSettings } from '@/context/SettingsContext';
+import { useTheme } from 'next-themes';
 import {
   Dialog,
   DialogTitle,
   DialogClose,
   Button,
   Checkbox,
+  RadioGroup,
   Radio,
 } from '@/design-system';
 import { Gear, X } from '@phosphor-icons/react';
 import styles from './Settings.module.css';
 
 const TranslationControls = () => {
-  const [open, setOpen] = useState(false);
   const {
     showHebrew,
     setShowHebrew,
@@ -23,16 +24,19 @@ const TranslationControls = () => {
     setShowEnglishLiteral,
     showEnglishNatural,
     setShowEnglishNatural,
-    wordOrder,
-    setWordOrder,
   } = useSettings();
+
+  const { theme, setTheme } = useTheme();
+
+  const [open, setOpen] = useState(false);
 
   return (
     <>
       <Button
-        onClick={() => setOpen(true)}
-        aria-label="Open settings"
         variant="ghost"
+        size="sm"
+        onClick={() => setOpen(true)}
+        aria-label="Open translation settings"
       >
         <Gear size={20} weight="regular" />
       </Button>
@@ -67,29 +71,26 @@ const TranslationControls = () => {
             checked={showEnglishNatural}
             onChange={() => setShowEnglishNatural(!showEnglishNatural)}
           />
-          <div className={styles.wordOrderControl}>
-            <span>Word Order:</span>
-            <div className={styles.radioGroup}>
-              <Radio
-                label="English"
-                name="wordOrder"
-                value="english"
-                checked={wordOrder === 'english'}
-                onChange={(e) =>
-                  setWordOrder(e.target.value as 'english' | 'hebrew')
-                }
-              />
-              <Radio
-                label="Hebrew"
-                name="wordOrder"
-                value="hebrew"
-                checked={wordOrder === 'hebrew'}
-                onChange={(e) =>
-                  setWordOrder(e.target.value as 'english' | 'hebrew')
-                }
-              />
-            </div>
-          </div>
+          <RadioGroup label="Theme">
+            <Radio
+              label="Light"
+              value="light"
+              checked={theme === 'light'}
+              onChange={() => setTheme('light')}
+            />
+            <Radio
+              label="Dark"
+              value="dark"
+              checked={theme === 'dark'}
+              onChange={() => setTheme('dark')}
+            />
+            <Radio
+              label="System"
+              value="system"
+              checked={theme === 'system'}
+              onChange={() => setTheme('system')}
+            />
+          </RadioGroup>
         </div>
       </Dialog>
     </>

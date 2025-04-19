@@ -1,12 +1,4 @@
-import {
-  createContext,
-  useContext,
-  useState,
-  ReactNode,
-  useEffect,
-} from 'react';
-
-type WordOrder = 'english' | 'hebrew';
+import { createContext, useContext, useState, ReactNode } from "react";
 
 interface SettingsContextProps {
   showHebrew: boolean;
@@ -17,8 +9,8 @@ interface SettingsContextProps {
   setShowEnglishLiteral: (value: boolean) => void;
   showEnglishNatural: boolean;
   setShowEnglishNatural: (value: boolean) => void;
-  wordOrder: WordOrder;
-  setWordOrder: (value: WordOrder) => void;
+  theme: string;
+  setTheme: (value: string) => void;
 }
 
 const SettingsContext = createContext<SettingsContextProps | undefined>(
@@ -30,13 +22,7 @@ export const TranslationProvider = ({ children }: { children: ReactNode }) => {
   const [showTransliteration, setShowTransliteration] = useState(false);
   const [showEnglishLiteral, setShowEnglishLiteral] = useState(true);
   const [showEnglishNatural, setShowEnglishNatural] = useState(false);
-  const [wordOrder, setWordOrder] = useState<WordOrder>('hebrew');
-
-  useEffect(() => {
-    if (showHebrew && showEnglishLiteral) {
-      setWordOrder('hebrew');
-    }
-  }, [showHebrew, showEnglishLiteral]);
+  const [theme, setTheme] = useState("system");
 
   return (
     <SettingsContext.Provider
@@ -49,8 +35,8 @@ export const TranslationProvider = ({ children }: { children: ReactNode }) => {
         setShowEnglishLiteral,
         showEnglishNatural,
         setShowEnglishNatural,
-        wordOrder,
-        setWordOrder,
+        theme,
+        setTheme,
       }}
     >
       {children}
@@ -60,8 +46,8 @@ export const TranslationProvider = ({ children }: { children: ReactNode }) => {
 
 export const useSettings = () => {
   const context = useContext(SettingsContext);
-  if (!context) {
-    throw new Error('useSettings must be used within a TranslationProvider');
+  if (context === undefined) {
+    throw new Error("useSettings must be used within a TranslationProvider");
   }
   return context;
 };

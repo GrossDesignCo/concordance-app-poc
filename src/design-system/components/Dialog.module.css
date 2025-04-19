@@ -7,7 +7,7 @@
 }
 
 .content {
-  background-color: var(--ds-bg-primary);
+  background-color: var(--ds-bg-default);
   border-radius: 6px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   position: fixed;

@@ -1,0 +1,14 @@
+.radioGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.legend {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 4px;
+} 

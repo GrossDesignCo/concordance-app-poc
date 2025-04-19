@@ -1,4 +1,4 @@
 .scripture {
-  background: white;
+  background: var(--ds-bg-high-contrast);
   border-radius: 12px;
 }

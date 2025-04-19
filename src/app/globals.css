@@ -10,8 +10,8 @@ body {
 }
 
 body {
-  color: var(--ds-fg-primary);
-  background: var(--ds-bg-primary);
+  color: var(--ds-fg-default);
+  background: var(--ds-bg-default);
   font-family: 'Noto Sans Hebrew', sans-serif;
   font-size: 1rem;
   line-height: 1.5;

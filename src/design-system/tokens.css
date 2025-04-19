@@ -1,28 +1,4 @@
 :root {
-  /* Base Scale - Colors - Light Theme (Default) */
-  --ds-cream-50: #faf6f0;
-  --ds-cream-100: #f5f0e6;
-  --ds-cream-200: #e9e0d0;
-  --ds-cream-300: #d4c5ad;
-  --ds-cream-400: #bca88a;
-  --ds-cream-500: #a48b67;
-  --ds-cream-600: #8c6e44;
-  --ds-cream-700: #71485d;
-  --ds-cream-800: #3e283a;
-  --ds-cream-900: #2d1a24;
-
-  /* Base Scale - Colors - Dark Theme */
-  --ds-dark-cream-50: #2d1a24;
-  --ds-dark-cream-100: #3e283a;
-  --ds-dark-cream-200: #71485d;
-  --ds-dark-cream-300: #473d4e;
-  --ds-dark-cream-400: #514558;
-  --ds-dark-cream-500: #5b4d62;
-  --ds-dark-cream-600: #65556c;
-  --ds-dark-cream-700: #6f5d76;
-  --ds-dark-cream-800: #796580;
-  --ds-dark-cream-900: #836d8a;
-
   /* Base Scale - Spacing */
   --ds-space-1: 0.25rem; /* 4px */
   --ds-space-2: 0.5rem; /* 8px */
@@ -60,19 +36,6 @@
   --ds-radius-xl: 0.75rem;
   --ds-radius-2xl: 1rem;
   --ds-radius-full: 9999px;
-
-  /* Semantic Tokens - Colors (Light Theme Default) */
-  --ds-bg-primary: var(--ds-cream-50);
-  --ds-bg-secondary: var(--ds-cream-100);
-  --ds-bg-tertiary: var(--ds-cream-200);
-  --ds-bg-elevated: var(--ds-cream-100);
-  --ds-bg-overlay: rgba(250, 246, 240, 0.8);
-
-  --ds-fg-primary: var(--ds-cream-900);
-  --ds-fg-secondary: var(--ds-cream-700);
-  --ds-fg-tertiary: var(--ds-cream-500);
-  --ds-fg-low-contrast: var(--ds-cream-400);
-  --ds-fg-on-primary: var(--ds-cream-50);
 
   /* Semantic Tokens - Typography */
   --ds-font-family-base: system-ui, -apple-system, sans-serif;
@@ -115,46 +78,53 @@
   --ds-input-border-color: var(--ds-cream-300);
 }
 
-/* Dark Theme Override */
+:root {
+  /* Base Scale - Colors - Light Theme (Default) */
+  --ds-cream-1000: #fff;
+  --ds-cream-900: #faf3f0;
+  --ds-cream-800: #eadedc;
+  --ds-cream-700: #e0cece;
+  --ds-cream-600: #c9a8a8;
+  --ds-cream-500: #9a7777;
+  --ds-cream-400: #876a6e;
+  --ds-cream-300: #634b4d;
+  --ds-cream-200: #432f36;
+  --ds-cream-100: #2b1a23;
+  --ds-cream-0: #1d1b1e;
+}
+
+/* Semantic Tokens - Default to Light Theme */
+:root,
+.theme-light,
+[data-theme='light'] {
+  /* Backgrounds */
+  --ds-bg-high-contrast: var(--ds-cream-1000);
+  --ds-bg-default: var(--ds-cream-900);
+  --ds-bg-low-contrast: var(--ds-cream-800);
+  --ds-bg-container: var(--ds-cream-800);
+  --ds-bg-overlay: radial-gradient(var(--ds-cream-200), var(--ds-cream-400));
+
+  /* Midgrounds */
+  --ds-mg-border: var(--ds-cream-500);
+
+  /* Foregrounds */
+  --ds-fg-high-contrast: var(--ds-cream-0);
+  --ds-fg-default: var(--ds-cream-100);
+  --ds-fg-low-contrast: var(--ds-cream-300);
+}
+
+/* Semantic Tokens - Dark Theme */
+.theme-dark,
 [data-theme='dark'] {
-  --ds-bg-primary: var(--ds-dark-cream-900);
-  --ds-bg-secondary: var(--ds-dark-cream-800);
-  --ds-bg-tertiary: var(--ds-dark-cream-700);
-  --ds-bg-elevated: var(--ds-dark-cream-800);
-  --ds-bg-overlay: rgba(43, 37, 48, 0.8);
+  --ds-bg-high-contrast: var(--ds-cream-0);
+  --ds-bg-default: var(--ds-cream-100);
+  --ds-bg-low-contrast: var(--ds-cream-200);
+  --ds-bg-container: var(--ds-cream-200);
+  --ds-bg-overlay: radial-gradient(var(--ds-cream-200), var(--ds-cream-400));
 
-  --ds-fg-primary: var(--ds-dark-cream-50);
-  --ds-fg-secondary: var(--ds-dark-cream-200);
-  --ds-fg-tertiary: var(--ds-dark-cream-400);
-  --ds-fg-low-contrast: var(--ds-dark-cream-600);
-  --ds-fg-on-primary: var(--ds-dark-cream-900);
-}
+  --ds-mg-border: var(--ds-cream-500);
 
-/* Manual Theme Overrides */
-.theme-light {
-  --ds-bg-primary: var(--ds-cream-50);
-  --ds-bg-secondary: var(--ds-cream-100);
-  --ds-bg-tertiary: var(--ds-cream-200);
-  --ds-bg-elevated: var(--ds-cream-100);
-  --ds-bg-overlay: rgba(250, 246, 240, 0.8);
-
-  --ds-fg-primary: var(--ds-cream-900);
-  --ds-fg-secondary: var(--ds-cream-700);
-  --ds-fg-tertiary: var(--ds-cream-500);
-  --ds-fg-low-contrast: var(--ds-cream-400);
-  --ds-fg-on-primary: var(--ds-cream-50);
-}
-
-.theme-dark {
-  --ds-bg-primary: var(--ds-dark-cream-900);
-  --ds-bg-secondary: var(--ds-dark-cream-800);
-  --ds-bg-tertiary: var(--ds-dark-cream-700);
-  --ds-bg-elevated: var(--ds-dark-cream-800);
-  --ds-bg-overlay: rgba(43, 37, 48, 0.8);
-
-  --ds-fg-primary: var(--ds-dark-cream-50);
-  --ds-fg-secondary: var(--ds-dark-cream-200);
-  --ds-fg-tertiary: var(--ds-dark-cream-400);
-  --ds-fg-low-contrast: var(--ds-dark-cream-600);
-  --ds-fg-on-primary: var(--ds-dark-cream-900);
+  --ds-fg-high-contrast: var(--ds-cream-1000);
+  --ds-fg-default: var(--ds-cream-800);
+  --ds-fg-low-contrast: var(--ds-cream-600);
 }

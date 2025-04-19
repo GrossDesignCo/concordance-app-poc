@@ -11,9 +11,28 @@
 
 .TranslatedText {
   display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.VariantLines {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.VariantLine {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  align-items: baseline;
 }
 
 .VerseNumber {
   padding-inline-end: 0.125rem;
-  color: var(--ds-fg-secondary);
+  color: var(--ds-fg-low-contrast);
+}
+
+.VariantLine.hebrew {
+  flex-direction: row-reverse;
 }

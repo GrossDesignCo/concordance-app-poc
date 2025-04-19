@@ -9,6 +9,6 @@
 }
 
 .Word.selected {
-  background-color: var(--ds-bg-tertiary);
+  background-color: var(--ds-bg-container);
   border-radius: var(--ds-radius-md);
 }
