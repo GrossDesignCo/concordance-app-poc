@@ -16,7 +16,7 @@ export const genesis_1_1: Verse = {
         hebrew: 'ראשׁ',
         transliteration: 'rosh',
         englishLiteral: 'head',
-        englishNatural: 'begin',
+        englishNatural: 'head',
       },
       prefixes: [
         {
@@ -245,6 +245,12 @@ export const genesis_1_2: Verse = {
       transliteration: 'haytah',
       englishLiteral: 'was',
       englishNatural: 'was',
+      root: {
+        hebrew: 'היה',
+        transliteration: 'hayah',
+        englishLiteral: 'to be',
+        englishNatural: 'to be',
+      },
       order: {
         hebrew: 2,
         english: 2,
@@ -262,6 +268,12 @@ export const genesis_1_2: Verse = {
       transliteration: 'Tohu',
       englishLiteral: 'waste',
       englishNatural: 'formless',
+      root: {
+        hebrew: 'תהו',
+        transliteration: 'tohu',
+        englishLiteral: 'waste',
+        englishNatural: 'formlessness',
+      },
       order: {
         hebrew: 3,
         english: 3,
@@ -376,7 +388,12 @@ export const genesis_1_2: Verse = {
       transliteration: 'tehom',
       englishLiteral: 'deep',
       englishNatural: 'the deep',
-      root: 'תהם',
+      root: {
+        hebrew: 'תהום',
+        transliteration: 'tehom',
+        englishLiteral: 'deep',
+        englishNatural: 'deep',
+      },
       order: {
         hebrew: 7,
         english: 7,
@@ -675,7 +692,7 @@ export const genesis_1_3: Verse = {
         stem: 'qal',
       },
       grammarPrefix: {
-        englishLiteral: '“',
+        englishLiteral: '"',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -686,6 +703,12 @@ export const genesis_1_3: Verse = {
       transliteration: 'or',
       englishLiteral: 'light',
       englishNatural: 'light',
+      root: {
+        hebrew: 'אור',
+        transliteration: 'or',
+        englishLiteral: 'light',
+        englishNatural: 'light',
+      },
       order: {
         hebrew: 4,
         english: 4,
@@ -696,7 +719,7 @@ export const genesis_1_3: Verse = {
         state: 'absolute',
       },
       grammarSuffix: {
-        englishLiteral: '.”',
+        englishLiteral: '."',
       },
     },
     {
@@ -739,6 +762,12 @@ export const genesis_1_3: Verse = {
       transliteration: 'or',
       englishLiteral: 'light',
       englishNatural: 'light',
+      root: {
+        hebrew: 'אור',
+        transliteration: 'or',
+        englishLiteral: 'light',
+        englishNatural: 'light',
+      },
       order: {
         hebrew: 6,
         english: 6,

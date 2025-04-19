@@ -9,8 +9,8 @@ export const proverbs_22_3: Verse = {
     {
       hebrew: 'עָרוּם',
       transliteration: 'arum',
-      englishLiteral: 'shrewd',
-      englishNatural: 'the prudent',
+      englishLiteral: 'Shrewd',
+      englishNatural: 'The Shrewd',
       root: {
         hebrew: 'ערם',
         transliteration: 'arum',
@@ -54,12 +54,12 @@ export const proverbs_22_3: Verse = {
       hebrew: 'רָעָה',
       transliteration: 'raʻah',
       englishLiteral: 'bad',
-      englishNatural: 'danger',
+      englishNatural: 'bad',
       root: {
         hebrew: 'רעה',
         transliteration: "ra'ah",
         englishLiteral: 'bad',
-        englishNatural: 'danger',
+        englishNatural: 'bad',
       },
       order: {
         hebrew: 3,
@@ -74,13 +74,13 @@ export const proverbs_22_3: Verse = {
     {
       hebrew: 'וְנִסְתָּר',
       transliteration: 'venistar',
-      englishLiteral: 'and-hides-himself',
-      englishNatural: 'and takes refuge',
+      englishLiteral: 'and-himself-hides',
+      englishNatural: 'and hides himself',
       root: {
         hebrew: 'סתר',
         transliteration: 'satar',
         englishLiteral: 'hide',
-        englishNatural: 'take refuge',
+        englishNatural: 'hide',
       },
       prefixes: [
         {
@@ -93,7 +93,7 @@ export const proverbs_22_3: Verse = {
           hebrew: 'נ',
           transliteration: 'ni',
           englishLiteral: 'himself',
-          englishNatural: '',
+          englishNatural: 'himself',
         },
       ],
       order: {
@@ -115,8 +115,8 @@ export const proverbs_22_3: Verse = {
     {
       hebrew: 'וּפְתָיִים',
       transliteration: 'ufetayim',
-      englishLiteral: 'but-simple-ones',
-      englishNatural: 'but the simple',
+      englishLiteral: 'but-simples',
+      englishNatural: 'but simpletons',
       root: {
         hebrew: 'פתי',
         transliteration: 'peti',
@@ -136,7 +136,7 @@ export const proverbs_22_3: Verse = {
           hebrew: 'ים',
           transliteration: 'im',
           englishLiteral: 's',
-          englishNatural: 'the',
+          englishNatural: 's',
         },
       ],
       order: {
@@ -174,9 +174,9 @@ export const proverbs_22_3: Verse = {
     },
     {
       hebrew: 'וְנֶעֱנָשׁוּ',
-      transliteration: "vene'enashu",
+      transliteration: 'veNeEnashu',
       englishLiteral: 'and-are-punished',
-      englishNatural: 'and suffer for it',
+      englishNatural: 'and are punished',
       root: {
         hebrew: 'ענש',
         transliteration: 'anash',
@@ -194,7 +194,7 @@ export const proverbs_22_3: Verse = {
           hebrew: 'נ',
           transliteration: 'ne',
           englishLiteral: 'are',
-          englishNatural: '',
+          englishNatural: 'are',
         },
       ],
       suffixes: [
@@ -202,7 +202,7 @@ export const proverbs_22_3: Verse = {
           hebrew: 'ו',
           transliteration: 'u',
           englishLiteral: '',
-          englishNatural: 'for it',
+          englishNatural: '',
         },
       ],
       order: {
