@@ -1,5 +1,5 @@
 import { Verse } from '@/types';
-import { prefixes, roots, suffixes } from '../../../dictionary';
+import { prefixes, roots, suffixes } from '../../../dictionary/hebrew';
 
 export const proverbs_22_3: Verse = {
   meta: {

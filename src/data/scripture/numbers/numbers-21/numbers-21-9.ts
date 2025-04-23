@@ -1,5 +1,5 @@
 import { Verse } from '@/types';
-import { prefixes, roots, suffixes, specialElements } from '../../../dictionary';
+import { prefixes, roots, suffixes, specialElements } from '../../../dictionary/hebrew';
 
 export const numbers_21_9: Verse = {
   meta: {

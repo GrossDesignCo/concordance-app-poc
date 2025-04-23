@@ -1,4 +1,5 @@
 import { Verse } from '@/types';
+import { roots } from '../../../../data/dictionary/greek/roots';
 
 export const john_1_1: Verse = {
   meta: {
@@ -11,12 +12,7 @@ export const john_1_1: Verse = {
       transliteration: 'En',
       englishLiteral: 'In',
       englishNatural: 'In',
-      root: {
-        greek: 'ἐν',
-        transliteration: 'en',
-        englishLiteral: 'in',
-        englishNatural: 'in',
-      },
+      root: roots.en,
       order: {
         greek: 1,
         english: 1,
@@ -31,12 +27,7 @@ export const john_1_1: Verse = {
       transliteration: 'archē',
       englishLiteral: 'first',
       englishNatural: 'the beginning',
-      root: {
-        greek: 'ἀρχή',
-        transliteration: 'archē',
-        englishLiteral: 'first',
-        englishNatural: 'beginning',
-      },
+      root: roots.arche,
       order: {
         greek: 2,
         english: 2,
@@ -53,12 +44,7 @@ export const john_1_1: Verse = {
       transliteration: 'ēn',
       englishLiteral: 'was',
       englishNatural: 'was',
-      root: {
-        greek: 'εἰμί',
-        transliteration: 'eimi',
-        englishLiteral: 'to be',
-        englishNatural: 'to be',
-      },
+      root: roots.eimi,
       order: {
         greek: 3,
         english: 3,
@@ -76,12 +62,7 @@ export const john_1_1: Verse = {
       transliteration: 'ho',
       englishLiteral: 'the',
       englishNatural: 'the',
-      root: {
-        greek: 'ὁ',
-        transliteration: 'ho',
-        englishLiteral: 'the',
-        englishNatural: 'the',
-      },
+      root: roots.ho,
       order: {
         greek: 4,
         english: 4,
@@ -98,12 +79,7 @@ export const john_1_1: Verse = {
       transliteration: 'logos',
       englishLiteral: 'Word',
       englishNatural: 'Word',
-      root: {
-        greek: 'λόγος',
-        transliteration: 'logos',
-        englishLiteral: 'word',
-        englishNatural: 'word',
-      },
+      root: roots.logos,
       order: {
         greek: 5,
         english: 5,
@@ -124,12 +100,7 @@ export const john_1_1: Verse = {
       transliteration: 'kai',
       englishLiteral: 'and',
       englishNatural: 'and',
-      root: {
-        greek: 'καί',
-        transliteration: 'kai',
-        englishLiteral: 'and',
-        englishNatural: 'and',
-      },
+      root: roots.kai,
       order: {
         greek: 6,
         english: 6,
@@ -143,12 +114,7 @@ export const john_1_1: Verse = {
       transliteration: 'ho',
       englishLiteral: 'the',
       englishNatural: 'the',
-      root: {
-        greek: 'ὁ',
-        transliteration: 'ho',
-        englishLiteral: 'the',
-        englishNatural: 'the',
-      },
+      root: roots.ho,
       order: {
         greek: 7,
         english: 7,
@@ -165,12 +131,7 @@ export const john_1_1: Verse = {
       transliteration: 'logos',
       englishLiteral: 'Word',
       englishNatural: 'Word',
-      root: {
-        greek: 'λόγος',
-        transliteration: 'logos',
-        englishLiteral: 'word',
-        englishNatural: 'word',
-      },
+      root: roots.logos,
       order: {
         greek: 8,
         english: 8,
@@ -187,12 +148,7 @@ export const john_1_1: Verse = {
       transliteration: 'ēn',
       englishLiteral: 'was',
       englishNatural: 'was',
-      root: {
-        greek: 'εἰμί',
-        transliteration: 'eimi',
-        englishLiteral: 'to be',
-        englishNatural: 'to be',
-      },
+      root: roots.eimi,
       order: {
         greek: 9,
         english: 9,
@@ -210,12 +166,7 @@ export const john_1_1: Verse = {
       transliteration: 'pros',
       englishLiteral: 'with',
       englishNatural: 'with',
-      root: {
-        greek: 'πρός',
-        transliteration: 'pros',
-        englishLiteral: 'toward/with',
-        englishNatural: 'with',
-      },
+      root: roots.pros,
       order: {
         greek: 10,
         english: 10,
@@ -230,12 +181,7 @@ export const john_1_1: Verse = {
       transliteration: 'ton',
       englishLiteral: 'the',
       englishNatural: 'the',
-      root: {
-        greek: 'ὁ',
-        transliteration: 'ho',
-        englishLiteral: 'the',
-        englishNatural: 'the',
-      },
+      root: roots.ho,
       order: {
         greek: 11,
         english: 11,
@@ -252,12 +198,7 @@ export const john_1_1: Verse = {
       transliteration: 'theon',
       englishLiteral: 'God',
       englishNatural: 'God',
-      root: {
-        greek: 'θεός',
-        transliteration: 'theos',
-        englishLiteral: 'God',
-        englishNatural: 'God',
-      },
+      root: roots.theos,
       order: {
         greek: 12,
         english: 12,
@@ -278,12 +219,7 @@ export const john_1_1: Verse = {
       transliteration: 'kai',
       englishLiteral: 'and',
       englishNatural: 'and',
-      root: {
-        greek: 'καί',
-        transliteration: 'kai',
-        englishLiteral: 'and',
-        englishNatural: 'and',
-      },
+      root: roots.kai,
       order: {
         greek: 13,
         english: 13,
@@ -297,12 +233,7 @@ export const john_1_1: Verse = {
       transliteration: 'theos',
       englishLiteral: 'God',
       englishNatural: 'God',
-      root: {
-        greek: 'θεός',
-        transliteration: 'theos',
-        englishLiteral: 'God',
-        englishNatural: 'God',
-      },
+      root: roots.theos,
       order: {
         greek: 14,
         english: 17,
@@ -322,12 +253,7 @@ export const john_1_1: Verse = {
       transliteration: 'ēn',
       englishLiteral: 'was',
       englishNatural: 'was',
-      root: {
-        greek: 'εἰμί',
-        transliteration: 'eimi',
-        englishLiteral: 'to be',
-        englishNatural: 'to be',
-      },
+      root: roots.eimi,
       order: {
         greek: 15,
         english: 16,
@@ -345,12 +271,7 @@ export const john_1_1: Verse = {
       transliteration: 'ho',
       englishLiteral: 'the',
       englishNatural: 'the',
-      root: {
-        greek: 'ὁ',
-        transliteration: 'ho',
-        englishLiteral: 'the',
-        englishNatural: 'the',
-      },
+      root: roots.ho,
       order: {
         greek: 16,
         english: 14,
@@ -367,12 +288,7 @@ export const john_1_1: Verse = {
       transliteration: 'logos',
       englishLiteral: 'Word',
       englishNatural: 'Word',
-      root: {
-        greek: 'λόγος',
-        transliteration: 'logos',
-        englishLiteral: 'word',
-        englishNatural: 'word',
-      },
+      root: roots.logos,
       order: {
         greek: 17,
         english: 15,

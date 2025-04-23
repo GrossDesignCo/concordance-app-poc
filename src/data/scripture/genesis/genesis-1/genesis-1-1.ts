@@ -4,7 +4,7 @@ import {
   roots,
   suffixes,
   specialElements,
-} from '../../../dictionary';
+} from '../../../dictionary/hebrew';
 
 export const genesis_1_1: Verse = {
   meta: {
