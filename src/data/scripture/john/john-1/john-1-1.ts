@@ -1,4 +1,4 @@
-import { Chapter, Verse } from '@/types';
+import { Verse } from '@/types';
 
 export const john_1_1: Verse = {
   meta: {
@@ -96,7 +96,7 @@ export const john_1_1: Verse = {
     {
       greek: 'λόγος',
       transliteration: 'logos',
-      englishLiteral: 'word',
+      englishLiteral: 'Word',
       englishNatural: 'Word',
       root: {
         greek: 'λόγος',
@@ -163,7 +163,7 @@ export const john_1_1: Verse = {
     {
       greek: 'λόγος',
       transliteration: 'logos',
-      englishLiteral: 'word',
+      englishLiteral: 'Word',
       englishNatural: 'Word',
       root: {
         greek: 'λόγος',
@@ -305,13 +305,16 @@ export const john_1_1: Verse = {
       },
       order: {
         greek: 14,
-        english: 14,
+        english: 17,
       },
       morphology: {
         gender: 'masculine',
         number: 'singular',
         case: 'nominative',
         state: 'anarthrous', // without article - significant theological point
+      },
+      grammarSuffix: {
+        englishNatural: '.',
       },
     },
     {
@@ -327,7 +330,7 @@ export const john_1_1: Verse = {
       },
       order: {
         greek: 15,
-        english: 15,
+        english: 16,
       },
       morphology: {
         number: 'singular',
@@ -350,7 +353,7 @@ export const john_1_1: Verse = {
       },
       order: {
         greek: 16,
-        english: 16,
+        english: 14,
       },
       morphology: {
         type: 'article',
@@ -362,7 +365,7 @@ export const john_1_1: Verse = {
     {
       greek: 'λόγος',
       transliteration: 'logos',
-      englishLiteral: 'word',
+      englishLiteral: 'Word',
       englishNatural: 'Word',
       root: {
         greek: 'λόγος',
@@ -372,7 +375,7 @@ export const john_1_1: Verse = {
       },
       order: {
         greek: 17,
-        english: 17,
+        english: 15,
       },
       morphology: {
         gender: 'masculine',
@@ -382,21 +385,15 @@ export const john_1_1: Verse = {
       },
       grammarSuffix: {
         englishLiteral: '.',
-        englishNatural: '.',
       },
     },
   ],
   translations: {
-    literal:
+    greek: 'Ἐν ἀρχῇ ἦν ὁ λόγος καὶ ὁ λόγος ἦν πρὸς τὸν θεόν καὶ θεὸς ἦν ὁ λόγος',
+    transliteration: 'En archē ēn ho logos kai ho logos ēn pros ton theon kai theos ēn ho logos',
+    englishLiteral:
       'In first was the Word, and the Word was with the God, and God was the Word.',
-    natural:
-      'In the beginning was the Word, and the Word was with God, and the Word was God.',
-    greekWordOrder:
-      'In first was the Word, and the Word was with the God, and God was the Word.',
+    englishNatural:
+      'In the beginning was the Word, and the Word was with the God, and the Word was God.',
   },
-};
-
-export const john_1: Chapter = {
-  number: 1,
-  verses: [john_1_1],
 };

@@ -1,4 +1,5 @@
-import { Chapter, Verse } from '@/types';
+import { Verse } from '@/types';
+import { prefixes, roots, suffixes } from '../../../dictionary';
 
 export const genesis_3_1: Verse = {
   meta: {
@@ -9,28 +10,10 @@ export const genesis_3_1: Verse = {
     {
       hebrew: 'וְהַנָּחָשׁ',
       transliteration: 'veHaNachash',
-      englishLiteral: 'And-the-serpent',
-      englishNatural: 'Now the serpent',
-      root: {
-        hebrew: 'נחשׁ',
-        transliteration: 'nachash',
-        englishLiteral: 'serpent',
-        englishNatural: 'serpent',
-      },
-      prefixes: [
-        {
-          hebrew: 'ו',
-          transliteration: 've',
-          englishLiteral: 'and',
-          englishNatural: 'now',
-        },
-        {
-          hebrew: 'ה',
-          transliteration: 'ha',
-          englishLiteral: 'the',
-          englishNatural: 'the',
-        },
-      ],
+      englishLiteral: 'And-the-snake',
+      englishNatural: 'And the snake',
+      root: roots.nachash,
+      prefixes: [prefixes.ve, prefixes.ha],
       order: {
         hebrew: 1,
         english: 1,
@@ -45,6 +28,11 @@ export const genesis_3_1: Verse = {
       transliteration: 'hayah',
       englishLiteral: 'was',
       englishNatural: 'was',
+      root: roots.hayah,
+      rootAppearance: {
+        hebrew: 'הָיָה',
+        conjugation: 'perfect 3rd person masculine singular',
+      },
       order: {
         hebrew: 2,
         english: 2,
@@ -61,7 +49,8 @@ export const genesis_3_1: Verse = {
       hebrew: 'עָרוּם',
       transliteration: 'arum',
       englishLiteral: 'shrewd',
-      englishNatural: 'more crafty',
+      englishNatural: 'shrewd',
+      root: roots.arum,
       order: {
         hebrew: 3,
         english: 3,
@@ -71,26 +60,18 @@ export const genesis_3_1: Verse = {
         number: 'singular',
         state: 'absolute',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'מִכֹּל',
       transliteration: 'miKol',
       englishLiteral: 'from-all',
-      englishNatural: 'than any',
-      root: {
-        hebrew: 'כל',
-        transliteration: 'kol',
-        englishLiteral: 'all',
-        englishNatural: 'any',
-      },
-      prefixes: [
-        {
-          hebrew: 'מ',
-          transliteration: 'mi',
-          englishLiteral: 'from',
-          englishNatural: 'than',
-        },
-      ],
+      englishNatural: 'more than any',
+      root: roots.kol,
+      prefixes: [prefixes.mi],
       order: {
         hebrew: 4,
         english: 4,
@@ -99,23 +80,10 @@ export const genesis_3_1: Verse = {
     {
       hebrew: 'חַיַּת',
       transliteration: 'chayat',
-      englishLiteral: 'living-thing-of',
-      englishNatural: 'beast of',
-      root: {
-        hebrew: 'חיה',
-        transliteration: 'chayah',
-        englishLiteral: 'living-thing',
-        englishNatural: 'beast',
-      },
-      prefixes: [],
-      suffixes: [
-        {
-          hebrew: 'ת',
-          transliteration: '',
-          englishLiteral: 'of',
-          englishNatural: 'of',
-        },
-      ],
+      englishLiteral: 'living_thing-of',
+      englishNatural: 'living thing of',
+      root: roots.chayah,
+      suffixes: [suffixes.construct_t],
       order: {
         hebrew: 5,
         english: 5,
@@ -131,20 +99,8 @@ export const genesis_3_1: Verse = {
       transliteration: 'haSadeh',
       englishLiteral: 'the-field',
       englishNatural: 'the field',
-      root: {
-        hebrew: 'שׂדה',
-        transliteration: 'sadeh',
-        englishLiteral: 'field',
-        englishNatural: 'field',
-      },
-      prefixes: [
-        {
-          hebrew: 'ה',
-          transliteration: 'ha',
-          englishLiteral: 'the',
-          englishNatural: 'the',
-        },
-      ],
+      root: roots.sadeh,
+      prefixes: [prefixes.ha],
       order: {
         hebrew: 6,
         english: 6,
@@ -153,12 +109,17 @@ export const genesis_3_1: Verse = {
         gender: 'masculine',
         number: 'singular',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'אֲשֶׁר',
       transliteration: 'asher',
       englishLiteral: 'which',
       englishNatural: 'which',
+      root: roots.asher,
       order: {
         hebrew: 7,
         english: 7,
@@ -169,6 +130,11 @@ export const genesis_3_1: Verse = {
       transliteration: 'asah',
       englishLiteral: 'made',
       englishNatural: 'had made',
+      root: roots.asah,
+      rootAppearance: {
+        hebrew: 'עָשָׂה',
+        conjugation: 'perfect 3rd person masculine singular',
+      },
       order: {
         hebrew: 8,
         english: 10, // Changes position in English
@@ -187,9 +153,10 @@ export const genesis_3_1: Verse = {
     },
     {
       hebrew: 'יְהוָה',
-      transliteration: 'Iam',
-      englishLiteral: 'Iam',
-      englishNatural: 'the LORD',
+      transliteration: 'YHWH',
+      englishLiteral: 'I_AM',
+      englishNatural: 'IAM',
+      root: roots.yhwh,
       order: {
         hebrew: 9,
         english: 8, // Moves before "made" in English
@@ -200,52 +167,28 @@ export const genesis_3_1: Verse = {
       transliteration: 'Elohim',
       englishLiteral: 'Gods',
       englishNatural: 'God',
-      root: {
-        hebrew: 'אלה',
-        transliteration: 'eloah',
-        englishLiteral: 'God',
-        englishNatural: 'God',
-      },
-      suffixes: [
-        {
-          hebrew: 'ים',
-          transliteration: 'im',
-          englishLiteral: 's',
-          englishNatural: '',
-        },
-      ],
+      root: roots.eloah,
+      suffixes: [suffixes.im],
       order: {
         hebrew: 10,
         english: 9,
       },
-      morphology: {
-        gender: 'masculine',
-        number: 'plural',
-      },
       grammarSuffix: {
         englishLiteral: '.',
-        englishNatural: '.',
       },
     },
     {
       hebrew: 'וַיֹּאמֶר',
       transliteration: 'vaYomer',
       englishLiteral: 'And-said',
-      englishNatural: 'He said',
-      root: {
-        hebrew: 'אמר',
-        transliteration: 'amar',
-        englishLiteral: 'said',
-        englishNatural: 'said',
+      englishNatural: 'And he said',
+      root: roots.amar,
+      prefixes: [prefixes.va],
+      rootAppearance: {
+        hebrew: 'יֹּאמֶר',
+        conjugation:
+          'imperfect 3rd person masculine singular with vav-consecutive',
       },
-      prefixes: [
-        {
-          hebrew: 'ו',
-          transliteration: 'va',
-          englishLiteral: 'and',
-          englishNatural: 'and',
-        },
-      ],
       order: {
         hebrew: 11,
         english: 11,
@@ -258,12 +201,16 @@ export const genesis_3_1: Verse = {
         stem: 'qal',
       },
       lineBreaksBefore: 2,
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
     },
     {
       hebrew: 'אֶל',
       transliteration: 'el',
       englishLiteral: 'to',
       englishNatural: 'to',
+      root: roots.el,
       order: {
         hebrew: 12,
         english: 12,
@@ -274,20 +221,8 @@ export const genesis_3_1: Verse = {
       transliteration: 'haIshah',
       englishLiteral: 'the-woman',
       englishNatural: 'the woman',
-      root: {
-        hebrew: 'אשׁה',
-        transliteration: 'ishah',
-        englishLiteral: 'woman',
-        englishNatural: 'woman',
-      },
-      prefixes: [
-        {
-          hebrew: 'ה',
-          transliteration: 'ha',
-          englishLiteral: 'the',
-          englishNatural: 'the',
-        },
-      ],
+      root: roots.ishah,
+      prefixes: [prefixes.ha],
       order: {
         hebrew: 13,
         english: 13,
@@ -298,6 +233,7 @@ export const genesis_3_1: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
+        englishNatural: ',',
       },
     },
     {
@@ -305,22 +241,26 @@ export const genesis_3_1: Verse = {
       transliteration: 'af',
       englishLiteral: 'Indeed',
       englishNatural: 'Indeed',
+      root: roots.af,
       order: {
         hebrew: 14,
         english: 14,
       },
       grammarPrefix: {
-        englishLiteral: '“',
+        englishLiteral: '"',
+        englishNatural: '"',
       },
       grammarSuffix: {
         englishLiteral: ',',
+        englishNatural: ',',
       },
     },
     {
       hebrew: 'כִּי',
       transliteration: 'ki',
       englishLiteral: 'that',
-      englishNatural: '', // Often not translated in this context
+      englishNatural: 'has', // Often not translated in this context
+      root: roots.ki,
       order: {
         hebrew: 15,
         english: 15,
@@ -330,8 +270,12 @@ export const genesis_3_1: Verse = {
       hebrew: 'אָמַר',
       transliteration: 'amar',
       englishLiteral: 'said',
-      englishNatural: 'did say',
-      root: 'אמר',
+      englishNatural: 'said',
+      root: roots.amar,
+      rootAppearance: {
+        hebrew: 'אָמַר',
+        conjugation: 'perfect 3rd person masculine singular',
+      },
       order: {
         hebrew: 16,
         english: 17, // Position shifts in English
@@ -345,6 +289,7 @@ export const genesis_3_1: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
+        englishNatural: ',',
       },
     },
     {
@@ -352,7 +297,8 @@ export const genesis_3_1: Verse = {
       transliteration: 'Elohim',
       englishLiteral: 'Gods',
       englishNatural: 'God',
-      root: 'אלה',
+      root: roots.eloah,
+      suffixes: [suffixes.im],
       order: {
         hebrew: 17,
         english: 16, // Moves before "said" in English
@@ -368,44 +314,32 @@ export const genesis_3_1: Verse = {
     {
       hebrew: 'לֹא',
       transliteration: 'lo',
-      englishLiteral: 'not',
+      englishLiteral: 'Not',
       englishNatural: 'not',
+      root: roots.lo,
       order: {
         hebrew: 18,
-        english: 18,
+        english: 19,
+      },
+      grammarPrefix: {
+        englishLiteral: "'",
       },
     },
     {
       hebrew: 'תֹאכְלוּ',
       transliteration: 'tokhlu',
       englishLiteral: 'you-shall-eat',
-      englishNatural: 'you shall eat',
-      root: {
-        hebrew: 'אכל',
-        transliteration: 'akhal',
-        englishLiteral: 'eat',
-        englishNatural: 'eat',
+      englishNatural: 'You shall eat',
+      root: roots.akhal,
+      prefixes: [prefixes.tav],
+      suffixes: [suffixes.plural_verb_u],
+      rootAppearance: {
+        hebrew: 'תֹאכְלוּ',
+        conjugation: 'imperfect 2nd person masculine plural',
       },
-      prefixes: [
-        {
-          hebrew: 'ת',
-          transliteration: 'tav',
-          englishLiteral: 'you-shall',
-          englishNatural: 'you shall',
-        },
-      ],
-      suffixes: [
-        {
-          hebrew: 'ו',
-          transliteration: '',
-          englishLiteral: '',
-          englishNatural: '',
-        },
-      ],
-
       order: {
         hebrew: 19,
-        english: 19,
+        english: 18,
       },
       morphology: {
         gender: 'masculine',
@@ -414,26 +348,17 @@ export const genesis_3_1: Verse = {
         tense: 'imperfect',
         stem: 'qal',
       },
+      grammarPrefix: {
+        englishNatural: "'",
+      },
     },
     {
       hebrew: 'מִכֹּל',
       transliteration: 'miKol',
       englishLiteral: 'from-all',
       englishNatural: 'from any',
-      root: {
-        hebrew: 'כל',
-        transliteration: 'kol',
-        englishLiteral: 'all',
-        englishNatural: 'any',
-      },
-      prefixes: [
-        {
-          hebrew: 'מ',
-          transliteration: 'mi',
-          englishLiteral: 'from',
-          englishNatural: 'from',
-        },
-      ],
+      root: roots.kol,
+      prefixes: [prefixes.mi],
       order: {
         hebrew: 20,
         english: 20,
@@ -444,6 +369,7 @@ export const genesis_3_1: Verse = {
       transliteration: 'etz',
       englishLiteral: 'tree',
       englishNatural: 'tree',
+      root: roots.etz,
       order: {
         hebrew: 21,
         english: 21,
@@ -458,21 +384,8 @@ export const genesis_3_1: Verse = {
       transliteration: 'haGan',
       englishLiteral: 'the-garden',
       englishNatural: 'of the garden',
-      root: {
-        hebrew: 'גן',
-        transliteration: 'gan',
-        englishLiteral: 'garden',
-        englishNatural: 'garden',
-      },
-      prefixes: [
-        {
-          hebrew: 'ה',
-          transliteration: 'ha',
-          englishLiteral: 'the',
-          englishNatural: 'of the',
-        },
-      ],
-      suffixes: [],
+      root: roots.gan,
+      prefixes: [prefixes.ha],
       order: {
         hebrew: 22,
         english: 22,
@@ -482,21 +395,19 @@ export const genesis_3_1: Verse = {
         number: 'singular',
       },
       grammarSuffix: {
-        englishLiteral: '?”',
+        englishLiteral: '\'?"',
+        englishNatural: '\'?"',
       },
     },
   ],
   translations: {
-    literal:
-      'And-the-serpent was shrewd from-all living-thing-of the-field which made Iam Gods. And-said,(m,s) to the-woman, indeed, that said Gods not you-shall-eat from-all tree the-garden?',
-    natural:
-      'Now the serpent was more crafty than any beast of the field which the LORD God had made. And he said to the woman, "Indeed, has God said, \'You shall not eat from any tree of the garden\'?"',
-    hebrewWordOrder:
-      'And-the-serpent was shrewd from-all living-thing-of the-field which Iam Gods made. And-said to the-woman, indeed, that Gods said not you-shall-eat from-all tree the-garden?',
+    hebrew:
+      'וְהַנָּחָשׁ הָיָה עָרוּם מִכֹּל חַיַּת הַשָּׂדֶה אֲשֶׁר עָשָׂה יְהוָה אֱלֹהִים וַיֹּאמֶר אֶל הָאִשָּׁה אַף כִּי אָמַר אֱלֹהִים לֹא תֹאכְלוּ מִכֹּל עֵץ הַגָּן',
+    transliteration:
+      'veHaNachash hayah arum miKol chayat haSadeh asher asah YHWH Elohim vaYomer el haIshah af ki amar Elohim lo tokhlu miKol etz haGan',
+    englishLiteral:
+      'And-the-snake was shrewd, from-all living_thing-of the-field, which made, I_AM Gods. And-said, to the-woman, "Indeed, that said, Gods, \'Not you-shall-eat from-all tree the-garden\'?"',
+    englishNatural:
+      'And the snake was shrewd, more than any living thing of the field, which IAM God had made. And he said to the woman, "Indeed, has God said, \'You shall eat not from any tree of the garden\'?"',
   },
-};
-
-export const genesis_3: Chapter = {
-  number: 3,
-  verses: [genesis_3_1],
 };

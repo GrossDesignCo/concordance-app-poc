@@ -352,6 +352,10 @@ export interface TranslationWord {
   prefixes?: (string | TranslationWord)[]; // Separable prefixes
   suffixes?: (string | TranslationWord)[]; // Separable suffixes
   root?: string | TranslationWord; // Hebrew root if known
+  rootAppearance?: {
+    hebrew: string;
+    conjugation: string;
+  }; // For special conjugated forms of the root
   lineBreaksAfter?: number; // number of line breaks to render between this word and the next block (usually for paragraphs)
   lineBreaksBefore?: number; // number of line breaks to render between this word and the previous block (usually for poetry)
   /**
@@ -380,13 +384,13 @@ export interface VerseMeta {
 export interface Verse {
   meta: VerseMeta;
   words: TranslationWord[];
-  // Different renderings of the complete verse
+  // Different renderings of the complete verse for test/validation purposes
   translations?: {
-    literal: string; // Our hyper-literal translation
-    natural?: string; // More natural English
-    hebrewWordOrder?: string; // Following Hebrew syntax
-    greekWordOrder?: string; // Following Greek syntax
-    // Could add others like 'formal equivalent', 'dynamic equivalent', etc.
+    hebrew?: string; // full hebrew string, should follow hebrew word order
+    transliteration?: string; // full transliteration of the hebrew string, should follow hebrew word order
+    englishLiteral: string; // Our hyper-literal translation, should follow hebrew/greek word order
+    englishNatural?: string; // More natural English, should follow english word order
+    greek?: string; // Following Greek syntax, should follow greek word order
   };
 }
 
