@@ -7,7 +7,7 @@ interface WordProps {
   word: TranslationWord;
   onSelect?: (word: TranslationWord) => void;
   isSelected?: boolean;
-  variant: 'hebrew' | 'transliteration' | 'englishLiteral' | 'englishNatural';
+  variant?: 'hebrew' | 'transliteration' | 'englishLiteral' | 'englishNatural';
 }
 
 export default function Word({
@@ -16,13 +16,13 @@ export default function Word({
   isSelected,
   variant,
 }: WordProps) {
-  // const lineBreaksAfter = word.lineBreaksAfter
-  //   ? new Array(word.lineBreaksAfter).fill(<br />)
-  //   : null;
+  const lineBreaksAfter = word.lineBreaksAfter
+    ? new Array(word.lineBreaksAfter).map((l, i) => <br key={i} />)
+    : null;
 
-  // const lineBreaksBefore = word.lineBreaksBefore
-  //   ? new Array(word.lineBreaksBefore).fill(<br />)
-  //   : null;
+  const lineBreaksBefore = word.lineBreaksBefore
+    ? new Array(word.lineBreaksBefore).map((l, i) => <br key={i} />)
+    : null;
 
   const morphology = formatMorphology(word.morphology);
 
@@ -55,7 +55,8 @@ export default function Word({
 
   return (
     <>
-      {/* {lineBreaksBefore} */}
+      {lineBreaksBefore}
+
       <span onClick={() => onSelect?.(word)} className={styles.TranslationWord}>
         <span
           className={cx(styles.Word, {
@@ -64,8 +65,11 @@ export default function Word({
         >
           {renderContent()}
         </span>
+
+        <span className={styles.Root}>{/* <>{word?.root}</> */}</span>
       </span>
-      {/* {lineBreaksAfter} */}
+
+      {lineBreaksAfter}
     </>
   );
 }

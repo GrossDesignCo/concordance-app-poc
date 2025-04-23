@@ -102,6 +102,7 @@
   --ds-bg-default: var(--ds-cream-900);
   --ds-bg-low-contrast: var(--ds-cream-800);
   --ds-bg-container: var(--ds-cream-800);
+  --ds-bg-container-low-contrast: var(--ds-cream-700);
   --ds-bg-overlay: radial-gradient(var(--ds-cream-200), var(--ds-cream-400));
 
   /* Midgrounds */
@@ -120,6 +121,7 @@
   --ds-bg-default: var(--ds-cream-100);
   --ds-bg-low-contrast: var(--ds-cream-200);
   --ds-bg-container: var(--ds-cream-200);
+  --ds-bg-container-low-contrast: var(--ds-cream-300);
   --ds-bg-overlay: radial-gradient(var(--ds-cream-200), var(--ds-cream-400));
 
   --ds-mg-border: var(--ds-cream-500);

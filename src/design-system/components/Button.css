@@ -10,7 +10,7 @@
   line-height: 1;
   background: var(--ds-fg-default);
   color: var(--ds-bg-default);
-  border: 1px solid var(--ds-bg-default);
+  border: 1px solid transparent;
   cursor: pointer;
   transition: all 0.2s ease;
   min-height: 2rem;
@@ -52,14 +52,15 @@
 }
 
 /* Secondary variant */
-.ds-button--low-contrast {
-  background: transparent;
-  border-color: var(--ds-mg-border);
+.ds-button--secondary {
+  background: var(--ds-bg-container);
+  border-color: var(--ds-bg-container);
   color: var(--ds-fg-default);
 }
 
-.ds-button--low-contrast:hover {
-  background: var(--ds-bg-low-contrast);
+.ds-button--secondary:hover {
+  background: var(--ds-bg-container-low-contrast);
+  border-color: var(--ds-bg-container-low-contrast);
 }
 
 .ds-button--ghost {
@@ -70,7 +71,7 @@
 
 .ds-button--ghost:hover {
   background: var(--ds-bg-low-contrast);
-  border-color: var(--ds-mg-border);
+  border-color: var(--ds-bg-low-contrast);
 }
 
 /* Size variants */

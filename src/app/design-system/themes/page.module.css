@@ -37,3 +37,10 @@
   padding: var(--ds-space-6);
   border-radius: var(--ds-radius-md);
 }
+
+.buttons {
+  height: 3em;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--ds-space-2);
+}

@@ -4,10 +4,17 @@ import styles from './page.module.css';
 import { Button } from '@/design-system';
 import { Sun } from '@phosphor-icons/react';
 
-export default function DesignSystem() {
+export default function DesignSystemThemes() {
   const themes = ['light', 'dark'];
   const tokens = {
-    bg: ['high-contrast', 'default', 'low-contrast', 'container', 'overlay'],
+    bg: [
+      'high-contrast',
+      'default',
+      'low-contrast',
+      'container',
+      'container-low-contrast',
+      'overlay',
+    ],
     fg: ['high-contrast', 'default', 'low-contrast'],
   };
   return (
@@ -60,15 +67,20 @@ export default function DesignSystem() {
             </div>
           </div>
 
-          <div className={styles.cards}>
+          <div className={styles.buttons}>
             <Button variant="primary">
-              Button with icon <Sun />
+              <span>Button with icon</span> <Sun />
             </Button>
             <Button variant="secondary">
-              Button with icon <Sun />
+              <span>Button with icon</span> <Sun />
             </Button>
             <Button variant="ghost">
-              Button with icon <Sun />
+              <span>Button with icon</span> <Sun />
+            </Button>
+            <Button variant="secondary">Button with text</Button>
+
+            <Button variant="secondary">
+              <Sun />
             </Button>
           </div>
         </div>
