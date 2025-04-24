@@ -6,6 +6,7 @@ import { useRootSelection } from '@/context/RootSelectionContext';
 
 import cx from 'classnames';
 import styles from './Word.module.css';
+// import { useSettings } from '@/context/SettingsContext';
 
 interface WordProps {
   word: TranslationWord;
@@ -19,6 +20,7 @@ interface WordProps {
 }
 
 export default function Word({ word, variant }: WordProps) {
+  // const { showOriginal, showTransliteration } = useSettings();
   const { selectedWord, setSelectedWord } = useWordSelection();
   const { selectedRoot, setSelectedRoot } = useRootSelection();
   const { resolvedTheme } = useTheme();
@@ -107,13 +109,17 @@ export default function Word({ word, variant }: WordProps) {
         {/* 1. Show the construction: `in • head • ing` */}
         {/* {isSelected && (
           <span className={styles.Root}>
-            {word.prefixes &&
-              word.prefixes.map((prefix) => renderContent(prefix, false))}
-            {word.prefixes && word.root && ` • `}
-            {word.root && renderContent(word.root, false)}
-            {word.root && word.suffixes && ` • `}
-            {word.suffixes &&
-              word.suffixes.map((suffix) => renderContent(suffix, false))}
+            <span>{!showOriginal && showTransliteration && word.hebrew}</span>
+            <span>{!showTransliteration && word.transliteration}</span>
+            <span className={styles.Construction}>
+              {word.prefixes &&
+                word.prefixes.map((prefix) => renderContent(prefix, false))}
+              {word.prefixes && word.root && ` • `}
+              {word.root && renderContent(word.root, false)}
+              {word.root && word.suffixes && ` • `}
+              {word.suffixes &&
+                word.suffixes.map((suffix) => renderContent(suffix, false))}
+            </span>
           </span>
         )} */}
 
