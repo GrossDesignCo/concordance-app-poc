@@ -326,8 +326,8 @@ export const roots: Record<string, RootElement> = {
   nashakh: {
     hebrew: 'נשׁך',
     transliteration: 'nashakh',
-    englishLiteral: 'bite',
-    englishNatural: 'bite',
+    englishLiteral: 'strike',
+    englishNatural: 'strike',
   },
   sim: {
     hebrew: 'שׂים',
@@ -402,7 +402,7 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'captive',
     englishNatural: 'captive',
   },
-  // Additional missing roots 
+  // Additional missing roots
   yashav: {
     hebrew: 'ישׁב',
     transliteration: 'yashav',
@@ -416,4 +416,3 @@ export const roots: Record<string, RootElement> = {
     englishNatural: 'Negev',
   },
 };
-

@@ -1,5 +1,10 @@
 import { Verse } from '@/types';
-import { prefixes, roots, suffixes, specialElements } from '../../../dictionary/hebrew';
+import {
+  prefixes,
+  roots,
+  suffixes,
+  specialElements,
+} from '../../../dictionary/hebrew';
 
 export const numbers_21_8: Verse = {
   meta: {
@@ -16,7 +21,8 @@ export const numbers_21_8: Verse = {
       prefixes: [prefixes.va],
       rootAppearance: {
         hebrew: 'יֹּאמֶר',
-        conjugation: 'imperfect 3rd person masculine singular with vav-consecutive',
+        conjugation:
+          'imperfect 3rd person masculine singular with vav-consecutive',
       },
       order: {
         hebrew: 1,
@@ -215,7 +221,8 @@ export const numbers_21_8: Verse = {
       prefixes: [prefixes.ve],
       rootAppearance: {
         hebrew: 'הָיָה',
-        conjugation: 'perfect 3rd person masculine singular with vav-consecutive',
+        conjugation:
+          'perfect 3rd person masculine singular with vav-consecutive',
       },
       order: {
         hebrew: 12,
@@ -252,8 +259,8 @@ export const numbers_21_8: Verse = {
     {
       hebrew: 'הַנָּשׁוּךְ',
       transliteration: 'haNashukh',
-      englishLiteral: 'the-bitten',
-      englishNatural: 'who is bitten',
+      englishLiteral: 'the-struck',
+      englishNatural: 'who is struck',
       root: roots.nashakh,
       prefixes: [prefixes.ha],
       rootAppearance: {
@@ -284,7 +291,8 @@ export const numbers_21_8: Verse = {
       prefixes: [prefixes.ve],
       rootAppearance: {
         hebrew: 'רָאָה',
-        conjugation: 'perfect 3rd person masculine singular with vav-consecutive',
+        conjugation:
+          'perfect 3rd person masculine singular with vav-consecutive',
       },
       order: {
         hebrew: 15,
@@ -328,7 +336,8 @@ export const numbers_21_8: Verse = {
       prefixes: [prefixes.va],
       rootAppearance: {
         hebrew: 'חָי',
-        conjugation: 'perfect 3rd person masculine singular with vav-consecutive',
+        conjugation:
+          'perfect 3rd person masculine singular with vav-consecutive',
       },
       order: {
         hebrew: 17,
@@ -349,9 +358,13 @@ export const numbers_21_8: Verse = {
     },
   ],
   translations: {
-    hebrew: 'וַיֹּאמֶר יְהוָה אֶל מֹשֶׁה עֲשֵׂה לְךָ שָׂרָף וְשִׂים אֹתוֹ עַל נֵס וְהָיָה כָּל הַנָּשׁוּךְ וְרָאָה אֹתוֹ וָחָי',
-    transliteration: 'vaYomer YHWH el Moshe aseh lekha saraph veSim oto al nes veHayah kol haNashukh veRaah oto vaChai',
-    englishLiteral: 'And-said I_AM to Moses, "Make for-yourself burning_one, and-place it on standard, and-it-will-be, all the-bitten, and-he-will-look at-it, and-will-live."',
-    englishNatural: 'And I-AM said to Moses, "Make for yourself a burning-one, and place it on a standard; and it shall come about, that everyone who is bitten, he will look at it, and will live."',
+    hebrew:
+      'וַיֹּאמֶר יְהוָה אֶל מֹשֶׁה עֲשֵׂה לְךָ שָׂרָף וְשִׂים אֹתוֹ עַל נֵס וְהָיָה כָּל הַנָּשׁוּךְ וְרָאָה אֹתוֹ וָחָי',
+    transliteration:
+      'vaYomer YHWH el Moshe aseh lekha saraph veSim oto al nes veHayah kol haNashukh veRaah oto vaChai',
+    englishLiteral:
+      'And-said I_AM to Moses, "Make for-yourself burning_one, and-place it on standard, and-it-will-be, all the-struck, and-he-will-look at-it, and-will-live."',
+    englishNatural:
+      'And I-AM said to Moses, "Make for yourself a burning-one, and place it on a standard; and it shall come about, that everyone who is struck, he will look at it, and will live."',
   },
-}; 
+};
