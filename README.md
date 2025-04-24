@@ -41,3 +41,24 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 1. Data - translation for references, lexicon entries for in-depth word breakdowns
 2. App - React UI showing translation and lexicon data
+
+## Roadmap
+
+### Data / Translation
+
+Lots of raw translation work needed. To my knowledge no other bible translation has ever attempted to handle the consistency-of-root-words approach, so a significant amount of human effort is required.
+
+### Data / Lexicon Entries
+
+The AI will be able to generate basic entries explaining word usage based on the reference template and example/reference entries, but over time these will need plenty of human review, editing, and expansion to become genuinely useful.
+
+### Architecture
+
+This project will need to handle >20,000 root words, >700,000 total words, and some number of lexicon entries between or above those numbers as folks use and generate new ones.
+
+This will necessitate a couple structural changes from this PoC:
+
+1. Separate data and UI repos.
+
+- Data/Server will live in an independent repo, service a database, then asynchronously commit data to a git repo for long-term archiving/editing
+- UI/Client app will live in it's own repo, provide a local interface, and support offline usage via an optional client-side db/download and PWC system
