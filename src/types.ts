@@ -349,9 +349,9 @@ export interface TranslationWord {
   englishLiteral: string; // Our hyper-literal translation
   englishNatural?: string; // More natural English rendering
   morphology?: HebrewWordMorphology | GreekWordMorphology; // Detailed grammatical info
-  prefixes?: (string | TranslationWord)[]; // Separable prefixes
-  suffixes?: (string | TranslationWord)[]; // Separable suffixes
-  root?: string | TranslationWord; // Hebrew root if known
+  prefixes?: TranslationWord[]; // Separable prefixes
+  suffixes?: TranslationWord[]; // Separable suffixes
+  root?: TranslationWord; // Hebrew root if known
   rootAppearance?: {
     hebrew: string;
     conjugation: string;

@@ -1,12 +1,44 @@
 .TranslationWord {
-  display: inline-flex;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: var(--ds-radius-md);
+  transition: 0.3s ease;
+}
+
+.TranslationWord.selectedRoot {
+  background-color: var(--ds-bg-container);
 }
 
 .Word {
   width: max-content;
+  border-radius: var(--ds-radius-md);
+  user-select: none;
 }
 
-.Word.selected {
+.selected .Word {
+  padding: var(--ds-space-1);
   background-color: var(--ds-bg-container);
-  border-radius: var(--ds-radius-md);
+  color: var(--ds-fg-default);
+  transition: 0.3s ease;
+}
+
+.selectedRoot .Word {
+  padding: var(--ds-space-1);
+  background-color: rgba(var(--ds-accent-rgb), 0.1);
+  color: var(--ds-fg-default);
+  transition: 0.3s ease;
+}
+
+.Root {
+  font-size: 0;
+  transition: 0.3s ease;
+}
+
+.selected .Root {
+  font-size: 1em;
+}
+
+.selectedRoot .Root {
+  font-size: 1em;
 }

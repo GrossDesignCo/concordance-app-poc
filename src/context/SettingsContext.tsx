@@ -1,8 +1,8 @@
 import { createContext, useContext, useState, ReactNode } from "react";
 
 interface SettingsContextProps {
-  showHebrew: boolean;
-  setShowHebrew: (value: boolean) => void;
+  showOriginal: boolean;
+  setShowOriginal: (value: boolean) => void;
   showTransliteration: boolean;
   setShowTransliteration: (value: boolean) => void;
   showEnglishLiteral: boolean;
@@ -18,7 +18,7 @@ const SettingsContext = createContext<SettingsContextProps | undefined>(
 );
 
 export const TranslationProvider = ({ children }: { children: ReactNode }) => {
-  const [showHebrew, setShowHebrew] = useState(false);
+  const [showOriginal, setShowOriginal] = useState(false);
   const [showTransliteration, setShowTransliteration] = useState(false);
   const [showEnglishLiteral, setShowEnglishLiteral] = useState(true);
   const [showEnglishNatural, setShowEnglishNatural] = useState(false);
@@ -27,8 +27,8 @@ export const TranslationProvider = ({ children }: { children: ReactNode }) => {
   return (
     <SettingsContext.Provider
       value={{
-        showHebrew,
-        setShowHebrew,
+        showOriginal,
+        setShowOriginal,
         showTransliteration,
         setShowTransliteration,
         showEnglishLiteral,

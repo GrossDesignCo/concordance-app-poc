@@ -1,7 +1,7 @@
-'use client';
-import { useState } from 'react';
-import { useSettings } from '@/context/SettingsContext';
-import { useTheme } from 'next-themes';
+"use client";
+import { useState } from "react";
+import { useSettings } from "@/context/SettingsContext";
+import { useTheme } from "next-themes";
 import {
   Dialog,
   DialogTitle,
@@ -10,14 +10,14 @@ import {
   Checkbox,
   RadioGroup,
   Radio,
-} from '@/design-system';
-import { Gear, X } from '@phosphor-icons/react';
-import styles from './Settings.module.css';
+} from "@/design-system";
+import { Gear, X } from "@phosphor-icons/react";
+import styles from "./Settings.module.css";
 
 const TranslationControls = () => {
   const {
-    showHebrew,
-    setShowHebrew,
+    showOriginal,
+    setShowOriginal,
     showTransliteration,
     setShowTransliteration,
     showEnglishLiteral,
@@ -52,9 +52,9 @@ const TranslationControls = () => {
         </div>
         <div className={styles.controls}>
           <Checkbox
-            label="Show Hebrew"
-            checked={showHebrew}
-            onChange={() => setShowHebrew(!showHebrew)}
+            label="Show Original"
+            checked={showOriginal}
+            onChange={() => setShowOriginal(!showOriginal)}
           />
           <Checkbox
             label="Show Transliteration"
@@ -75,20 +75,20 @@ const TranslationControls = () => {
             <Radio
               label="Light"
               value="light"
-              checked={theme === 'light'}
-              onChange={() => setTheme('light')}
+              checked={theme === "light"}
+              onChange={() => setTheme("light")}
             />
             <Radio
               label="Dark"
               value="dark"
-              checked={theme === 'dark'}
-              onChange={() => setTheme('dark')}
+              checked={theme === "dark"}
+              onChange={() => setTheme("dark")}
             />
             <Radio
               label="System"
               value="system"
-              checked={theme === 'system'}
-              onChange={() => setTheme('system')}
+              checked={theme === "system"}
+              onChange={() => setTheme("system")}
             />
           </RadioGroup>
         </div>

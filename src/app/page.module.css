@@ -1,4 +1,10 @@
 .scripture {
   background: var(--ds-bg-high-contrast);
-  border-radius: 12px;
+  border-radius: var(--ds-radius-lg);
+}
+
+.bookContainer {
+  display: flex;
+  flex-direction: column;
+  gap: var(--ds-space-4);
 }

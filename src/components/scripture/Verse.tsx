@@ -1,31 +1,23 @@
-"use client";
-import { Fragment } from "react";
-import type { Verse as VerseType, TranslationWord } from "@/types";
-import Word from "./Word";
-import { useSettings } from "@/context/SettingsContext";
-import styles from "./Verse.module.css";
-import cx from "classnames";
+'use client';
+import { Fragment } from 'react';
+import type { Verse as VerseType, TranslationWord } from '@/types';
+import Word from './Word';
+import { useSettings } from '@/context/SettingsContext';
+import styles from './Verse.module.css';
+import cx from 'classnames';
 
 interface VerseProps {
   verse: VerseType;
-  onSelect?: (word: TranslationWord | null) => void;
-  selectedWord: TranslationWord | null;
+}
+
+interface VariantLineProps {
+  words: TranslationWord[];
+  variant: 'original' | 'transliteration' | 'englishLiteral' | 'englishNatural';
+  verseNumber: number;
 }
 
 // Sub-component for rendering a variant line
-const VariantLine = ({
-  words,
-  variant,
-  verseNumber,
-  onSelect,
-  selectedWord,
-}: {
-  words: TranslationWord[];
-  variant: "hebrew" | "transliteration" | "englishLiteral" | "englishNatural";
-  verseNumber: number;
-  onSelect?: (word: TranslationWord) => void;
-  selectedWord: TranslationWord | null;
-}) => {
+const VariantLine = ({ words, variant, verseNumber }: VariantLineProps) => {
   return (
     <div className={cx(styles.VariantLine, styles[variant])}>
       {words.map((word, index) => (
@@ -34,24 +26,19 @@ const VariantLine = ({
             <sup className={styles.VerseNumber}>{verseNumber}</sup>
           )}
 
-          <Word
-            word={word}
-            onSelect={onSelect}
-            isSelected={word === selectedWord}
-            variant={variant}
-          />
-          {index < words.length - 1 && " "}
+          <Word word={word} variant={variant} />
+          {index < words.length - 1 && ' '}
         </Fragment>
       ))}
     </div>
   );
 };
 
-export default function Verse({ verse, onSelect, selectedWord }: VerseProps) {
+export default function Verse({ verse }: VerseProps) {
   const {
     showEnglishLiteral,
     showEnglishNatural,
-    showHebrew,
+    showOriginal,
     showTransliteration,
   } = useSettings();
 
@@ -61,10 +48,6 @@ export default function Verse({ verse, onSelect, selectedWord }: VerseProps) {
     const bPos = b.order?.hebrew ?? 0;
     return aPos - bPos;
   });
-
-  const handleWordSelect = (word: TranslationWord) => {
-    onSelect?.(word === selectedWord ? null : word);
-  };
 
   // Sort words for English natural order
   const englishNaturalWords = [...verse.words].sort((a, b) => {
@@ -76,13 +59,11 @@ export default function Verse({ verse, onSelect, selectedWord }: VerseProps) {
   return (
     <div className={styles.TranslatedText}>
       <div className={styles.VariantLines}>
-        {showHebrew && (
+        {showOriginal && (
           <VariantLine
             words={sortedWords}
-            variant="hebrew"
+            variant="original"
             verseNumber={verse.meta.verse}
-            onSelect={handleWordSelect}
-            selectedWord={selectedWord}
           />
         )}
         {showTransliteration && (
@@ -90,8 +71,6 @@ export default function Verse({ verse, onSelect, selectedWord }: VerseProps) {
             words={sortedWords}
             variant="transliteration"
             verseNumber={verse.meta.verse}
-            onSelect={handleWordSelect}
-            selectedWord={selectedWord}
           />
         )}
         {showEnglishLiteral && (
@@ -99,8 +78,6 @@ export default function Verse({ verse, onSelect, selectedWord }: VerseProps) {
             words={sortedWords}
             variant="englishLiteral"
             verseNumber={verse.meta.verse}
-            onSelect={handleWordSelect}
-            selectedWord={selectedWord}
           />
         )}
         {showEnglishNatural && (
@@ -108,8 +85,6 @@ export default function Verse({ verse, onSelect, selectedWord }: VerseProps) {
             words={englishNaturalWords}
             variant="englishNatural"
             verseNumber={verse.meta.verse}
-            onSelect={handleWordSelect}
-            selectedWord={selectedWord}
           />
         )}
       </div>
