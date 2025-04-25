@@ -1,4 +1,4 @@
-# Lexicai - Name TBD
+# LexiChi - Name TBD
 
 One of the biggest challenges in studying the Bible is bridging the gap between the original writing of the authors and the context of the modern English reader.
 
