@@ -5,6 +5,7 @@ import Word from './Word';
 import { useSettings } from '@/context/SettingsContext';
 import styles from './Verse.module.css';
 import cx from 'classnames';
+import { sortWords } from '@/utils/sortWords';
 
 interface VerseProps {
   verse: VerseType;
@@ -43,18 +44,10 @@ export default function Verse({ verse }: VerseProps) {
   } = useSettings();
 
   // Sort words based on Hebrew order
-  const sortedWords = [...verse.words].sort((a, b) => {
-    const aPos = a.order?.hebrew ?? 0;
-    const bPos = b.order?.hebrew ?? 0;
-    return aPos - bPos;
-  });
+  const sortedWords = sortWords(verse.words, 'hebrew');
 
   // Sort words for English natural order
-  const englishNaturalWords = [...verse.words].sort((a, b) => {
-    const aPos = a.order?.english ?? a.order?.hebrew ?? 0;
-    const bPos = b.order?.english ?? b.order?.hebrew ?? 0;
-    return aPos - bPos;
-  });
+  const englishNaturalWords = sortWords(verse.words, 'english');
 
   return (
     <div className={styles.TranslatedText}>

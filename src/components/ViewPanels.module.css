@@ -12,10 +12,6 @@
   overflow-y: auto;
 }
 
-.ViewPanelContent {
-  padding: 1rem;
-}
-
 @media (min-width: 1300px) {
   .ViewPanels {
     padding: 1rem;

@@ -1,4 +1,4 @@
-import { createContext, useContext, useState, ReactNode } from "react";
+import { createContext, useContext, useState, ReactNode } from 'react';
 
 interface SettingsContextProps {
   showOriginal: boolean;
@@ -17,12 +17,12 @@ const SettingsContext = createContext<SettingsContextProps | undefined>(
   undefined
 );
 
-export const TranslationProvider = ({ children }: { children: ReactNode }) => {
+export const SettingsProvider = ({ children }: { children: ReactNode }) => {
   const [showOriginal, setShowOriginal] = useState(false);
   const [showTransliteration, setShowTransliteration] = useState(false);
   const [showEnglishLiteral, setShowEnglishLiteral] = useState(true);
   const [showEnglishNatural, setShowEnglishNatural] = useState(false);
-  const [theme, setTheme] = useState("system");
+  const [theme, setTheme] = useState('system');
 
   return (
     <SettingsContext.Provider
@@ -47,7 +47,7 @@ export const TranslationProvider = ({ children }: { children: ReactNode }) => {
 export const useSettings = () => {
   const context = useContext(SettingsContext);
   if (context === undefined) {
-    throw new Error("useSettings must be used within a TranslationProvider");
+    throw new Error('useSettings must be used within a SettingsProvider');
   }
   return context;
 };

@@ -2,7 +2,14 @@
 import cx from 'classnames';
 import styles from './page.module.css';
 import { Button } from '@/design-system';
-import { Sun } from '@phosphor-icons/react';
+import {
+  Asclepius,
+  FlagBannerFold,
+  ListMagnifyingGlass,
+  Scribble,
+  SplitVertical,
+  Sun,
+} from '@phosphor-icons/react';
 
 export default function DesignSystemThemes() {
   const themes = ['light', 'dark'];
@@ -33,6 +40,14 @@ export default function DesignSystemThemes() {
           </h2>
 
           <p>This is a paragraph of text</p>
+
+          <div className={styles.icons}>
+            <ListMagnifyingGlass size={20} />
+            <Asclepius size={20} />
+            <FlagBannerFold size={20} />
+            <Scribble size={20} />
+            <SplitVertical size={20} />
+          </div>
 
           <div>
             <h3>Backgrounds</h3>

@@ -1,18 +1,11 @@
-"use client";
-import { useState } from "react";
-import { useSettings } from "@/context/SettingsContext";
-import { useTheme } from "next-themes";
-import {
-  Dialog,
-  DialogTitle,
-  DialogClose,
-  Button,
-  Checkbox,
-  RadioGroup,
-  Radio,
-} from "@/design-system";
-import { Gear, X } from "@phosphor-icons/react";
-import styles from "./Settings.module.css";
+'use client';
+import { useState } from 'react';
+import { useSettings } from '@/context/SettingsContext';
+import { useTheme } from 'next-themes';
+import { Sheet, Button, Checkbox, RadioGroup, Radio } from '@/design-system';
+import { Gear } from '@phosphor-icons/react';
+import styles from './Settings.module.css';
+import { useMediaQuery } from '@/hooks/useMediaQuery';
 
 const TranslationControls = () => {
   const {
@@ -27,6 +20,7 @@ const TranslationControls = () => {
   } = useSettings();
 
   const { theme, setTheme } = useTheme();
+  const isDesktop = useMediaQuery('(min-width: 720px)');
 
   const [open, setOpen] = useState(false);
 
@@ -41,15 +35,15 @@ const TranslationControls = () => {
         <Gear size={20} weight="regular" />
       </Button>
 
-      <Dialog open={open} onOpenChange={setOpen}>
-        <div className={styles.dialogHeader}>
-          <DialogTitle>Translation Settings</DialogTitle>
-          <DialogClose asChild>
-            <Button aria-label="Close dialog" variant="ghost">
-              <X size={20} weight="regular" />
-            </Button>
-          </DialogClose>
-        </div>
+      <Sheet
+        open={open}
+        onOpenChange={setOpen}
+        title="Translation Settings"
+        expanded
+        maxWidth={isDesktop ? '28ch' : undefined}
+        position={isDesktop ? 'right' : 'bottom'}
+        pushContent={isDesktop}
+      >
         <div className={styles.controls}>
           <Checkbox
             label="Show Original"
@@ -75,24 +69,24 @@ const TranslationControls = () => {
             <Radio
               label="Light"
               value="light"
-              checked={theme === "light"}
-              onChange={() => setTheme("light")}
+              checked={theme === 'light'}
+              onChange={() => setTheme('light')}
             />
             <Radio
               label="Dark"
               value="dark"
-              checked={theme === "dark"}
-              onChange={() => setTheme("dark")}
+              checked={theme === 'dark'}
+              onChange={() => setTheme('dark')}
             />
             <Radio
               label="System"
               value="system"
-              checked={theme === "system"}
-              onChange={() => setTheme("system")}
+              checked={theme === 'system'}
+              onChange={() => setTheme('system')}
             />
           </RadioGroup>
         </div>
-      </Dialog>
+      </Sheet>
     </>
   );
 };

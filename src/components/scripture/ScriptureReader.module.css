@@ -1,0 +1,13 @@
+.scripture {
+  background: var(--ds-bg-high-contrast);
+  border-radius: var(--ds-radius-lg);
+  padding: var(--ds-space-6);
+  max-width: 80ch;
+  margin: 0 auto;
+}
+
+.bookContainer {
+  display: flex;
+  flex-direction: column;
+  gap: var(--ds-space-5);
+}

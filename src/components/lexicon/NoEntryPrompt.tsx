@@ -1,12 +1,12 @@
 import cx from 'classnames';
 import styles from './Entry.module.css';
-import { useState, useEffect } from 'react';
-import { useWordSelection } from '@/context/WordSelectionContext';
+import { useState } from 'react';
+import { useSelection } from '@/context/SelectionContext';
 import Word from '../scripture/Word';
 import { Button } from '@/design-system';
 
 export default function NoEntryPrompt({}) {
-  const { selectedWord } = useWordSelection();
+  const { selectedWord } = useSelection();
 
   const [entryText, setEntryText] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -58,6 +58,8 @@ export default function NoEntryPrompt({}) {
           <Button onClick={() => generateNewEntry()}>Generate Entry</Button>
         </>
       )}
+
+      {error && <p className={styles.error}>{error}</p>}
 
       {/* Once markdown is received from the server render a preview of it for now */}
       {entryText && (

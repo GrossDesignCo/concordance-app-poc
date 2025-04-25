@@ -22,15 +22,13 @@
 }
 
 .VariantLine {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.25rem;
-  align-items: center;
+  position: relative;
 }
 
 .VerseNumber {
-  padding-inline-end: 0.125rem;
+  inset-inline-end: calc(0.25rem + 100%);
   color: var(--ds-fg-low-contrast);
+  position: absolute;
 }
 
 .VariantLine.hebrew {

@@ -1,14 +1,14 @@
 import cx from 'classnames';
 import styles from './Entry.module.css';
 import { useState, useEffect } from 'react';
-import { useWordSelection } from '@/context/WordSelectionContext';
+import { useSelection } from '@/context/SelectionContext';
 import NoEntryPrompt from './NoEntryPrompt';
 
 // Define a type for the MDX component
 type MDXComponent = React.ComponentType<Record<string, never>>;
 
 export default function LexiconEntry({}) {
-  const { selectedWord } = useWordSelection();
+  const { selectedWord } = useSelection();
 
   const [Entry, setEntry] = useState<MDXComponent | null>(null);
   const [error, setError] = useState<string | null>(null);
