@@ -1,5 +1,4 @@
 import { Verse } from '@/types';
-import { prefixes, roots, suffixes, specialElements } from '../../../dictionary/hebrew';
 
 export const numbers_21_7: Verse = {
   meta: {
@@ -12,11 +11,12 @@ export const numbers_21_7: Verse = {
       transliteration: 'vaYavo',
       englishLiteral: 'And-came',
       englishNatural: 'came',
-      root: roots.bo,
-      prefixes: [prefixes.va],
+      root: 'bo',
+      prefixes: ['va'],
       rootAppearance: {
         hebrew: 'יָּבֹא',
-        conjugation: 'imperfect 3rd person masculine singular with vav-consecutive',
+        conjugation:
+          'imperfect 3rd person masculine singular with vav-consecutive',
       },
       order: {
         hebrew: 1,
@@ -35,8 +35,8 @@ export const numbers_21_7: Verse = {
       transliteration: 'haAm',
       englishLiteral: 'the-people',
       englishNatural: 'And the people',
-      root: roots.am,
-      prefixes: [prefixes.ha],
+      root: 'am',
+      prefixes: ['ha'],
       order: {
         hebrew: 2,
         english: 1, // Subject first in English
@@ -51,7 +51,7 @@ export const numbers_21_7: Verse = {
       transliteration: 'el',
       englishLiteral: 'to',
       englishNatural: 'to',
-      root: roots.el,
+      root: 'el',
       order: {
         hebrew: 3,
         english: 3,
@@ -62,7 +62,7 @@ export const numbers_21_7: Verse = {
       transliteration: 'Moshe',
       englishLiteral: 'Moses',
       englishNatural: 'Moses',
-      root: roots.moshe,
+      root: 'moshe',
       order: {
         hebrew: 4,
         english: 4,
@@ -77,12 +77,13 @@ export const numbers_21_7: Verse = {
       transliteration: 'vaYomru',
       englishLiteral: 'and-they-said',
       englishNatural: 'and said',
-      root: roots.amar,
-      prefixes: [prefixes.va],
-      suffixes: [suffixes.u],
+      root: 'amar',
+      prefixes: ['va'],
+      suffixes: ['u'],
       rootAppearance: {
         hebrew: 'יֹּאמְרוּ',
-        conjugation: 'imperfect 3rd person masculine plural with vav-consecutive',
+        conjugation:
+          'imperfect 3rd person masculine plural with vav-consecutive',
       },
       order: {
         hebrew: 5,
@@ -105,8 +106,8 @@ export const numbers_21_7: Verse = {
       transliteration: 'chatanu',
       englishLiteral: 'we-have-sinned',
       englishNatural: 'We have sinned',
-      root: roots.chata,
-      suffixes: [suffixes.nu],
+      root: 'chata',
+      suffixes: ['nu'],
       rootAppearance: {
         hebrew: 'חָטָאנוּ',
         conjugation: 'perfect 1st person plural',
@@ -136,7 +137,7 @@ export const numbers_21_7: Verse = {
       transliteration: 'ki',
       englishLiteral: 'because',
       englishNatural: 'because',
-      root: roots.ki,
+      root: 'ki',
       order: {
         hebrew: 7,
         english: 7,
@@ -147,8 +148,8 @@ export const numbers_21_7: Verse = {
       transliteration: 'dibarnu',
       englishLiteral: 'we-have-spoken',
       englishNatural: 'we have spoken',
-      root: roots.dabar,
-      suffixes: [suffixes.nu],
+      root: 'dabar',
+      suffixes: ['nu'],
       rootAppearance: {
         hebrew: 'דִבַּרְנוּ',
         conjugation: 'perfect 1st person plural',
@@ -170,8 +171,8 @@ export const numbers_21_7: Verse = {
       transliteration: 'vaYHWH',
       englishLiteral: 'against-I_AM',
       englishNatural: 'against I-AM',
-      root: roots.yhwh,
-      prefixes: [prefixes.ba],
+      root: 'yhwh',
+      prefixes: ['ba'],
       order: {
         hebrew: 9,
         english: 9,
@@ -182,9 +183,9 @@ export const numbers_21_7: Verse = {
       transliteration: 'vaveKha',
       englishLiteral: 'and-against-you',
       englishNatural: 'and against you',
-      root: roots.atah,
-      prefixes: [prefixes.va, prefixes.be],
-      suffixes: [suffixes.kha],
+      root: 'atah',
+      prefixes: ['va', 'be'],
+      suffixes: ['kha'],
       order: {
         hebrew: 10,
         english: 10,
@@ -204,8 +205,8 @@ export const numbers_21_7: Verse = {
       transliteration: 'hitpalel',
       englishLiteral: 'pray',
       englishNatural: 'pray',
-      root: roots.palal,
-      prefixes: [prefixes.hit],
+      root: 'palal',
+      prefixes: ['hit'],
       rootAppearance: {
         hebrew: 'הִתְפַּלֵּל',
         conjugation: 'imperative masculine singular',
@@ -225,7 +226,7 @@ export const numbers_21_7: Verse = {
       transliteration: 'el',
       englishLiteral: 'to',
       englishNatural: 'to',
-      root: roots.el,
+      root: 'el',
       order: {
         hebrew: 12,
         english: 12,
@@ -236,7 +237,7 @@ export const numbers_21_7: Verse = {
       transliteration: 'YHWH',
       englishLiteral: 'I_AM',
       englishNatural: 'I-AM',
-      root: roots.yhwh,
+      root: 'yhwh',
       order: {
         hebrew: 13,
         english: 13,
@@ -248,11 +249,11 @@ export const numbers_21_7: Verse = {
     },
     {
       hebrew: 'וְיָסֵר',
-      transliteration: 'veYaser',
-      englishLiteral: 'and-may-he-remove',
-      englishNatural: 'and may he remove',
-      root: roots.sur,
-      prefixes: [prefixes.ve],
+      transliteration: 'veYaSer',
+      englishLiteral: 'and-may-he-turn_aside',
+      englishNatural: 'and may he turn-aside',
+      root: 'sur',
+      prefixes: ['ve'],
       rootAppearance: {
         hebrew: 'יָסֵר',
         conjugation: 'jussive 3rd person masculine singular',
@@ -265,37 +266,32 @@ export const numbers_21_7: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '3rd',
-        tense: 'imperfect',
+        tense: 'jussive',
         stem: 'hiphil',
       },
     },
     {
       hebrew: 'מֵעָלֵינוּ',
       transliteration: 'meAleinu',
-      englishLiteral: 'from-upon-us',
+      englishLiteral: 'from-up_on-us',
       englishNatural: 'from upon us',
-      root: roots.al,
-      prefixes: [prefixes.me],
-      suffixes: [suffixes.einu],
+      root: 'al',
+      prefixes: ['me'],
+      suffixes: ['einu'],
       order: {
         hebrew: 15,
-        english: 16, // Object after verb
-      },
-      morphology: {
-        gender: 'common',
-        number: 'plural',
-        person: '1st',
+        english: 16,
       },
       grammarSuffix: {
         englishNatural: '."',
-      }
+      },
     },
     {
       hebrew: 'אֶת',
       transliteration: 'et',
       englishLiteral: '↳',
       englishNatural: '',
-      root: specialElements.directObjectMarker,
+      root: 'et',
       order: {
         hebrew: 16,
         english: 0, // Not translated
@@ -305,12 +301,12 @@ export const numbers_21_7: Verse = {
       hebrew: 'הַנָּחָשׁ',
       transliteration: 'haNachash',
       englishLiteral: 'the-snake',
-      englishNatural: 'the snake', // Plural in English to match context
-      root: roots.nachash,
-      prefixes: [prefixes.ha],
+      englishNatural: 'the snake',
+      root: 'nachash',
+      prefixes: ['ha'],
       order: {
         hebrew: 17,
-        english: 15, // Object before "from us"
+        english: 15,
       },
       morphology: {
         gender: 'masculine',
@@ -325,15 +321,16 @@ export const numbers_21_7: Verse = {
       transliteration: 'vaYitpalel',
       englishLiteral: 'And-prayed',
       englishNatural: 'prayed',
-      root: roots.palal,
-      prefixes: [prefixes.va, prefixes.yit],
+      root: 'palal',
+      prefixes: ['va', 'yit'],
       rootAppearance: {
         hebrew: 'יִּתְפַּלֵּל',
-        conjugation: 'imperfect 3rd person masculine singular with vav-consecutive',
+        conjugation:
+          'imperfect 3rd person masculine singular with vav-consecutive',
       },
       order: {
         hebrew: 18,
-        english: 18, // After subject in English
+        english: 18, // Position shifts in English
       },
       morphology: {
         gender: 'masculine',
@@ -348,10 +345,10 @@ export const numbers_21_7: Verse = {
       transliteration: 'Moshe',
       englishLiteral: 'Moses',
       englishNatural: 'And Moses',
-      root: roots.moshe,
+      root: 'moshe',
       order: {
         hebrew: 19,
-        english: 17, // Subject before verb in English
+        english: 17, // Subject comes first in English
       },
       morphology: {
         gender: 'masculine',
@@ -363,8 +360,8 @@ export const numbers_21_7: Verse = {
       transliteration: 'beAd',
       englishLiteral: 'on-behalf-of',
       englishNatural: 'on behalf of',
-      root: roots.ad,
-      prefixes: [prefixes.be],
+      root: 'ad',
+      prefixes: ['be'],
       order: {
         hebrew: 20,
         english: 19,
@@ -375,8 +372,8 @@ export const numbers_21_7: Verse = {
       transliteration: 'haAm',
       englishLiteral: 'the-people',
       englishNatural: 'the people',
-      root: roots.am,
-      prefixes: [prefixes.ha],
+      root: 'am',
+      prefixes: ['ha'],
       order: {
         hebrew: 21,
         english: 20,
@@ -393,9 +390,13 @@ export const numbers_21_7: Verse = {
     },
   ],
   translations: {
-    hebrew: 'וַיָּבֹא הָעָם אֶל מֹשֶׁה וַיֹּאמְרוּ חָטָאנוּ כִּי דִבַּרְנוּ בַיהוָה וָבָךְ הִתְפַּלֵּל אֶל יְהוָה וְיָסֵר מֵעָלֵינוּ אֶת הַנָּחָשׁ וַיִּתְפַּלֵּל מֹשֶׁה בְּעַד הָעָם',
-    transliteration: 'vaYavo haAm el Moshe vaYomru chatanu ki dibarnu vaYHWH vaveKha hitpalel el YHWH veYaser meAleinu et haNachash vaYitpalel Moshe beAd haAm',
-    englishLiteral: 'And-came the-people to Moses and-they-said, "we-have-sinned, because we-have-spoken against-I_AM and-against-you, pray to I_AM, and-may-he-remove from-upon-us ↳ the-snake." And-prayed Moses on-behalf-of the-people.',
-    englishNatural: 'And the people came to Moses and said, "We have sinned, because we have spoken against I-AM and against you; pray to I-AM, and may he remove the snake from upon us." And Moses prayed on behalf of the people.',
+    hebrew:
+      'וַיָּבֹא הָעָם אֶל מֹשֶׁה וַיֹּאמְרוּ חָטָאנוּ כִּי דִבַּרְנוּ בַיהוָה וָבָךְ הִתְפַּלֵּל אֶל יְהוָה וְיָסֵר מֵעָלֵינוּ אֶת הַנָּחָשׁ וַיִּתְפַּלֵּל מֹשֶׁה בְּעַד הָעָם',
+    transliteration:
+      'vaYavo haAm el Moshe vaYomru chatanu ki dibarnu vaYHWH vaveKha hitpalel el YHWH veYaSer meAleinu et haNachash vaYitpalel Moshe beAd haAm',
+    englishLiteral:
+      'And-came the-people to Moses and-they-said, "we-have-sinned, because we-have-spoken against-I_AM and-against-you, pray to I_AM, and-may-he-turn_aside from-up_on-us ↳ the-snake." And-prayed Moses on-behalf-of the-people.',
+    englishNatural:
+      'And the people came to Moses and said, "We have sinned, because we have spoken against I-AM and against you; pray to I-AM, and may he turn-aside the snake from upon us." And Moses prayed on behalf of the people.',
   },
-}; 
+};

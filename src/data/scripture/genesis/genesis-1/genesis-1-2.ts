@@ -1,5 +1,4 @@
 import { Verse } from '@/types';
-import { prefixes, roots, suffixes } from '../../../dictionary/hebrew';
 
 export const genesis_1_2: Verse = {
   meta: {
@@ -12,8 +11,8 @@ export const genesis_1_2: Verse = {
       transliteration: 'veHaAretz',
       englishLiteral: 'And-the-land',
       englishNatural: 'And the land',
-      root: roots.eretz,
-      prefixes: [prefixes.ve, prefixes.ha],
+      root: 'eretz',
+      prefixes: ['ve', 'ha'],
       order: {
         hebrew: 1,
         english: 1,
@@ -28,7 +27,7 @@ export const genesis_1_2: Verse = {
       transliteration: 'haytah',
       englishLiteral: 'was',
       englishNatural: 'was',
-      root: roots.hayah,
+      root: 'hayah',
       rootAppearance: {
         hebrew: 'הָיְתָ֥ה',
         conjugation: 'perfect 3rd person feminine singular',
@@ -50,7 +49,7 @@ export const genesis_1_2: Verse = {
       transliteration: 'Tohu',
       englishLiteral: 'waste',
       englishNatural: 'waste',
-      root: roots.tohu,
+      root: 'tohu',
       order: {
         hebrew: 3,
         english: 3,
@@ -66,8 +65,8 @@ export const genesis_1_2: Verse = {
       transliteration: 'vaVohu',
       englishLiteral: 'and-void',
       englishNatural: 'and void',
-      root: roots.vohu,
-      prefixes: [prefixes.va],
+      root: 'vohu',
+      prefixes: ['va'],
       order: {
         hebrew: 4,
         english: 4,
@@ -87,8 +86,8 @@ export const genesis_1_2: Verse = {
       transliteration: 'veChoshekh',
       englishLiteral: 'and-darkness',
       englishNatural: 'and darkness',
-      root: roots.choshekh,
-      prefixes: [prefixes.ve],
+      root: 'choshekh',
+      prefixes: ['ve'],
       order: {
         hebrew: 5,
         english: 5,
@@ -108,9 +107,9 @@ export const genesis_1_2: Verse = {
       transliteration: 'al-peney',
       englishLiteral: 'on-face-of',
       englishNatural: 'on the face of',
-      root: roots.panah,
-      prefixes: [prefixes.al],
-      suffixes: [suffixes.ey],
+      root: 'panah',
+      prefixes: ['al'],
+      suffixes: ['ey'],
       order: {
         hebrew: 6,
         english: 6,
@@ -126,7 +125,7 @@ export const genesis_1_2: Verse = {
       transliteration: 'tehom',
       englishLiteral: 'deep',
       englishNatural: 'the deep',
-      root: roots.tehom,
+      root: 'tehom',
       order: {
         hebrew: 7,
         english: 7,
@@ -146,8 +145,8 @@ export const genesis_1_2: Verse = {
       transliteration: 'veRuach',
       englishLiteral: 'And-Wind',
       englishNatural: 'And the Wind of',
-      root: roots.ruach,
-      prefixes: [prefixes.ve],
+      root: 'ruach',
+      prefixes: ['ve'],
       order: {
         hebrew: 8,
         english: 8,
@@ -164,8 +163,8 @@ export const genesis_1_2: Verse = {
       transliteration: 'Elohim',
       englishLiteral: 'Gods',
       englishNatural: 'God',
-      root: roots.eloah,
-      suffixes: [suffixes.im],
+      root: 'eloah',
+      suffixes: ['im'],
       order: {
         hebrew: 9,
         english: 9,
@@ -180,9 +179,9 @@ export const genesis_1_2: Verse = {
       transliteration: 'meRachefet',
       englishLiteral: 'was-stirring',
       englishNatural: 'was stirring',
-      root: roots.rachaf,
-      prefixes: [prefixes.me],
-      suffixes: [suffixes.et],
+      root: 'rachaf',
+      prefixes: ['me'],
+      suffixes: ['et'],
       order: {
         hebrew: 10,
         english: 10,
@@ -198,9 +197,9 @@ export const genesis_1_2: Verse = {
       transliteration: 'al-peney',
       englishLiteral: 'on-face-of',
       englishNatural: 'on the face of',
-      root: roots.panah,
-      prefixes: [prefixes.al],
-      suffixes: [suffixes.ey],
+      root: 'panah',
+      prefixes: ['al'],
+      suffixes: ['ey'],
       order: {
         hebrew: 11,
         english: 11,
@@ -216,8 +215,8 @@ export const genesis_1_2: Verse = {
       transliteration: 'haMayim',
       englishLiteral: 'the-waters',
       englishNatural: 'the waters',
-      root: roots.mayim,
-      prefixes: [prefixes.ha],
+      root: 'mayim',
+      prefixes: ['ha'],
       order: {
         hebrew: 12,
         english: 12,

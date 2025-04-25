@@ -1,5 +1,4 @@
 import { Verse } from '@/types';
-import { prefixes, roots, suffixes } from '../../../dictionary/hebrew';
 
 export const proverbs_22_3: Verse = {
   meta: {
@@ -12,7 +11,7 @@ export const proverbs_22_3: Verse = {
       transliteration: 'arum',
       englishLiteral: 'Shrewd',
       englishNatural: 'The Shrewd',
-      root: roots.arum,
+      root: 'arum',
       order: {
         hebrew: 1,
         english: 1,
@@ -28,7 +27,7 @@ export const proverbs_22_3: Verse = {
       transliteration: "ra'ah",
       englishLiteral: 'sees',
       englishNatural: 'sees',
-      root: roots.raah_see,
+      root: 'raah_see',
       rootAppearance: {
         hebrew: 'רָאָה',
         conjugation: 'perfect 3rd person masculine singular',
@@ -47,10 +46,10 @@ export const proverbs_22_3: Verse = {
     },
     {
       hebrew: 'רָעָה',
-      transliteration: 'raʻah',
+      transliteration: 'ra`ah',
       englishLiteral: 'bad',
       englishNatural: 'bad',
-      root: roots.raah_bad,
+      root: 'raah_bad',
       order: {
         hebrew: 3,
         english: 3,
@@ -66,8 +65,8 @@ export const proverbs_22_3: Verse = {
       transliteration: 'veNiStar',
       englishLiteral: 'and-himself-hides',
       englishNatural: 'and hides himself',
-      root: roots.satar,
-      prefixes: [prefixes.ve, prefixes.ni],
+      root: 'satar',
+      prefixes: ['ve', 'ni'],
       rootAppearance: {
         hebrew: 'סְתָּר',
         conjugation: 'niphal perfect 3rd person masculine singular',
@@ -93,9 +92,9 @@ export const proverbs_22_3: Verse = {
       transliteration: 'uFetayim',
       englishLiteral: 'but-simples',
       englishNatural: 'but the simple',
-      root: roots.peti,
-      prefixes: [prefixes.u],
-      suffixes: [suffixes.im],
+      root: 'peti',
+      prefixes: ['u'],
+      suffixes: ['im'],
       order: {
         hebrew: 5,
         english: 5,
@@ -111,7 +110,7 @@ export const proverbs_22_3: Verse = {
       transliteration: 'avru',
       englishLiteral: 'pass-on',
       englishNatural: 'go on',
-      root: roots.avar,
+      root: 'avar',
       rootAppearance: {
         hebrew: 'עָבְרוּ',
         conjugation: 'qal perfect 3rd person plural',
@@ -133,9 +132,9 @@ export const proverbs_22_3: Verse = {
       transliteration: 'veNeEnashu',
       englishLiteral: 'and-are-punished',
       englishNatural: 'and are punished',
-      root: roots.anash,
-      prefixes: [prefixes.ve, prefixes.ne],
-      suffixes: [suffixes.u],
+      root: 'anash',
+      prefixes: ['ve', 'ne'],
+      suffixes: ['u'],
       rootAppearance: {
         hebrew: 'עֱנָשׁוּ',
         conjugation: 'niphal perfect 3rd person plural',
@@ -159,7 +158,7 @@ export const proverbs_22_3: Verse = {
   ],
   translations: {
     hebrew: 'עָרוּם רָאָה רָעָה וְנִסְתָּר וּפְתָיִים עָבְרוּ וְנֶעֱנָשׁוּ',
-    transliteration: "arum ra'ah raʻah veNiStar uFetayim avru veNeEnashu",
+    transliteration: "arum ra'ah ra`ah veNiStar uFetayim avru veNeEnashu",
     englishLiteral:
       'Shrewd sees bad and-himself-hides, but-simples pass-on and-are-punished.',
     englishNatural:

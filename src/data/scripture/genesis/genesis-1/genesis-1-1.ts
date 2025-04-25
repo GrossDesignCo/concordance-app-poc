@@ -1,10 +1,4 @@
 import { Verse } from '@/types';
-import {
-  prefixes,
-  roots,
-  suffixes,
-  specialElements,
-} from '../../../dictionary/hebrew';
 
 export const genesis_1_1: Verse = {
   meta: {
@@ -17,9 +11,9 @@ export const genesis_1_1: Verse = {
       transliteration: 'beReshit',
       englishLiteral: 'In-heading',
       englishNatural: 'In heading',
-      root: roots.rosh,
-      prefixes: [prefixes.be],
-      suffixes: [suffixes.it],
+      root: 'rosh',
+      prefixes: ['be'],
+      suffixes: ['it'],
       order: {
         hebrew: 1,
         english: 1,
@@ -39,7 +33,7 @@ export const genesis_1_1: Verse = {
       transliteration: 'bara',
       englishLiteral: 'created',
       englishNatural: 'created',
-      root: roots.bara,
+      root: 'bara',
       rootAppearance: {
         hebrew: 'בָּרָ֣א',
         conjugation: 'perfect 3rd person masculine singular',
@@ -64,8 +58,8 @@ export const genesis_1_1: Verse = {
       transliteration: 'Elohim',
       englishLiteral: 'Gods',
       englishNatural: 'God',
-      root: roots.eloah,
-      suffixes: [suffixes.im],
+      root: 'eloah',
+      suffixes: ['im'],
       order: {
         hebrew: 3,
         english: 2, // In English, "God" moves before "created"
@@ -82,7 +76,7 @@ export const genesis_1_1: Verse = {
       hebrew: 'אֵ֥ת',
       transliteration: 'et',
       englishLiteral: '↳',
-      root: specialElements.directObjectMarker,
+      root: 'et',
       order: {
         hebrew: 4,
         english: 4, // Direct object marker typically aligns with its object
@@ -93,8 +87,8 @@ export const genesis_1_1: Verse = {
       transliteration: 'haShamayim',
       englishLiteral: 'the-heavens',
       englishNatural: 'the heavens',
-      root: roots.shamayim,
-      prefixes: [prefixes.ha],
+      root: 'shamayim',
+      prefixes: ['ha'],
       order: {
         hebrew: 5,
         english: 5,
@@ -109,8 +103,8 @@ export const genesis_1_1: Verse = {
       transliteration: 'veEt',
       englishLiteral: 'and-↳',
       englishNatural: 'and',
-      root: specialElements.directObjectMarker,
-      prefixes: [prefixes.ve],
+      root: 'et',
+      prefixes: ['ve'],
       order: {
         hebrew: 6,
         english: 6, // Conjunction and direct object marker stay with their object
@@ -121,8 +115,8 @@ export const genesis_1_1: Verse = {
       transliteration: 'haAretz',
       englishLiteral: 'the-land',
       englishNatural: 'the land',
-      root: roots.eretz,
-      prefixes: [prefixes.ha],
+      root: 'eretz',
+      prefixes: ['ha'],
       order: {
         hebrew: 7,
         english: 7,

@@ -119,7 +119,7 @@ export const roots: Record<string, RootElement> = {
   },
   raah_bad: {
     hebrew: 'רעה',
-    transliteration: "ra'ah",
+    transliteration: 'ra`ah',
     englishLiteral: 'bad',
     englishNatural: 'bad',
   },
@@ -414,5 +414,19 @@ export const roots: Record<string, RootElement> = {
     transliteration: 'negev',
     englishLiteral: 'south',
     englishNatural: 'Negev',
+  },
+  // Add missing root for direct object marker
+  et: {
+    hebrew: 'אֵת',
+    transliteration: 'et',
+    englishLiteral: '↳',
+    englishNatural: '',
+  },
+  // Add missing root for 'on/upon'
+  al: {
+    hebrew: 'עַל',
+    transliteration: 'al',
+    englishLiteral: 'on',
+    englishNatural: 'on',
   },
 };

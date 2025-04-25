@@ -1,10 +1,4 @@
 import { Verse } from '@/types';
-import {
-  prefixes,
-  roots,
-  suffixes,
-  specialElements,
-} from '../../../dictionary/hebrew';
 
 export const numbers_21_8: Verse = {
   meta: {
@@ -17,8 +11,8 @@ export const numbers_21_8: Verse = {
       transliteration: 'vaYomer',
       englishLiteral: 'And-said',
       englishNatural: 'said',
-      root: roots.amar,
-      prefixes: [prefixes.va],
+      root: 'amar',
+      prefixes: ['va'],
       rootAppearance: {
         hebrew: 'יֹּאמֶר',
         conjugation:
@@ -41,7 +35,7 @@ export const numbers_21_8: Verse = {
       transliteration: 'YHWH',
       englishLiteral: 'I_AM',
       englishNatural: 'And I-AM',
-      root: roots.yhwh,
+      root: 'yhwh',
       order: {
         hebrew: 2,
         english: 1, // Subject first in English
@@ -56,7 +50,7 @@ export const numbers_21_8: Verse = {
       transliteration: 'el',
       englishLiteral: 'to',
       englishNatural: 'to',
-      root: roots.el,
+      root: 'el',
       order: {
         hebrew: 3,
         english: 3,
@@ -67,7 +61,7 @@ export const numbers_21_8: Verse = {
       transliteration: 'Moshe',
       englishLiteral: 'Moses',
       englishNatural: 'Moses',
-      root: roots.moshe,
+      root: 'moshe',
       order: {
         hebrew: 4,
         english: 4,
@@ -86,7 +80,7 @@ export const numbers_21_8: Verse = {
       transliteration: 'aseh',
       englishLiteral: 'Make',
       englishNatural: 'Make',
-      root: roots.asah,
+      root: 'asah',
       rootAppearance: {
         hebrew: 'עֲשֵׂה',
         conjugation: 'imperative masculine singular',
@@ -110,9 +104,9 @@ export const numbers_21_8: Verse = {
       transliteration: 'lekha',
       englishLiteral: 'for-yourself',
       englishNatural: 'for yourself',
-      root: roots.atah,
-      prefixes: [prefixes.le],
-      suffixes: [suffixes.kha],
+      root: 'atah',
+      prefixes: ['le'],
+      suffixes: ['kha'],
       order: {
         hebrew: 6,
         english: 6,
@@ -128,7 +122,7 @@ export const numbers_21_8: Verse = {
       transliteration: 'saraph',
       englishLiteral: 'burning_one',
       englishNatural: 'a burning-one',
-      root: roots.saraph,
+      root: 'saraph',
       order: {
         hebrew: 7,
         english: 7,
@@ -148,8 +142,8 @@ export const numbers_21_8: Verse = {
       transliteration: 'veSim',
       englishLiteral: 'and-place',
       englishNatural: 'and place',
-      root: roots.sim,
-      prefixes: [prefixes.ve],
+      root: 'sim',
+      prefixes: ['ve'],
       rootAppearance: {
         hebrew: 'שִׂים',
         conjugation: 'imperative masculine singular',
@@ -169,8 +163,8 @@ export const numbers_21_8: Verse = {
       transliteration: 'oto',
       englishLiteral: 'it',
       englishNatural: 'it',
-      root: specialElements.directObjectMarker,
-      suffixes: [suffixes.o],
+      root: 'et',
+      suffixes: ['o'],
       order: {
         hebrew: 9,
         english: 9,
@@ -186,7 +180,7 @@ export const numbers_21_8: Verse = {
       transliteration: 'al',
       englishLiteral: 'on',
       englishNatural: 'on',
-      root: roots.al,
+      root: 'al',
       order: {
         hebrew: 10,
         english: 10,
@@ -197,7 +191,7 @@ export const numbers_21_8: Verse = {
       transliteration: 'nes',
       englishLiteral: 'standard',
       englishNatural: 'a standard',
-      root: roots.nes,
+      root: 'nes',
       order: {
         hebrew: 11,
         english: 11,
@@ -217,8 +211,8 @@ export const numbers_21_8: Verse = {
       transliteration: 'veHayah',
       englishLiteral: 'and-it-will-be',
       englishNatural: 'and it shall come about',
-      root: roots.hayah,
-      prefixes: [prefixes.ve],
+      root: 'hayah',
+      prefixes: ['ve'],
       rootAppearance: {
         hebrew: 'הָיָה',
         conjugation:
@@ -244,8 +238,8 @@ export const numbers_21_8: Verse = {
       hebrew: 'כָּל',
       transliteration: 'kol',
       englishLiteral: 'all',
-      englishNatural: 'that everyone',
-      root: roots.kol,
+      englishNatural: 'everyone',
+      root: 'kol',
       order: {
         hebrew: 13,
         english: 13,
@@ -261,11 +255,11 @@ export const numbers_21_8: Verse = {
       transliteration: 'haNashukh',
       englishLiteral: 'the-struck',
       englishNatural: 'who is struck',
-      root: roots.nashakh,
-      prefixes: [prefixes.ha],
+      root: 'nashakh',
+      prefixes: ['ha'],
       rootAppearance: {
         hebrew: 'נָּשׁוּךְ',
-        conjugation: 'qal passive participle masculine singular',
+        conjugation: 'passive participle masculine singular',
       },
       order: {
         hebrew: 14,
@@ -274,7 +268,6 @@ export const numbers_21_8: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        tense: 'participle',
         stem: 'qal',
       },
       grammarSuffix: {
@@ -285,10 +278,10 @@ export const numbers_21_8: Verse = {
     {
       hebrew: 'וְרָאָה',
       transliteration: 'veRaah',
-      englishLiteral: 'and-he-will-look',
-      englishNatural: 'he will look',
-      root: roots.raah_see,
-      prefixes: [prefixes.ve],
+      englishLiteral: 'and-sees',
+      englishNatural: 'and sees',
+      root: 'raah_see',
+      prefixes: ['ve'],
       rootAppearance: {
         hebrew: 'רָאָה',
         conjugation:
@@ -309,10 +302,10 @@ export const numbers_21_8: Verse = {
     {
       hebrew: 'אֹתוֹ',
       transliteration: 'oto',
-      englishLiteral: 'at-it',
-      englishNatural: 'at it',
-      root: specialElements.directObjectMarker,
-      suffixes: [suffixes.o],
+      englishLiteral: 'it',
+      englishNatural: 'it',
+      root: 'et',
+      suffixes: ['o'],
       order: {
         hebrew: 16,
         english: 16,
@@ -330,10 +323,10 @@ export const numbers_21_8: Verse = {
     {
       hebrew: 'וָחָי',
       transliteration: 'vaChai',
-      englishLiteral: 'and-will-live',
-      englishNatural: 'and will live',
-      root: roots.chayah,
-      prefixes: [prefixes.va],
+      englishLiteral: 'and-lives',
+      englishNatural: 'will live',
+      root: 'chayah',
+      prefixes: ['va'],
       rootAppearance: {
         hebrew: 'חָי',
         conjugation:
@@ -363,8 +356,8 @@ export const numbers_21_8: Verse = {
     transliteration:
       'vaYomer YHWH el Moshe aseh lekha saraph veSim oto al nes veHayah kol haNashukh veRaah oto vaChai',
     englishLiteral:
-      'And-said I_AM to Moses, "Make for-yourself burning_one, and-place it on standard, and-it-will-be, all the-struck, and-he-will-look at-it, and-will-live."',
+      'And-said I_AM to Moses, "Make for-yourself burning_one, and-place it on standard, and-it-will-be, all the-struck, and-sees it, and-lives."',
     englishNatural:
-      'And I-AM said to Moses, "Make for yourself a burning-one, and place it on a standard; and it shall come about, that everyone who is struck, he will look at it, and will live."',
+      'And I-AM said to Moses, "Make for yourself a burning-one, and place it on a standard; and it shall come about, everyone who is struck, and sees it, will live."',
   },
 };

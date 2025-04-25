@@ -1,5 +1,4 @@
 import { Verse } from '@/types';
-import { prefixes, roots, suffixes } from '../../../dictionary/hebrew';
 
 export const genesis_1_3: Verse = {
   meta: {
@@ -8,14 +7,14 @@ export const genesis_1_3: Verse = {
   },
   words: [
     {
-      hebrew: 'וַיֹּאמֶר',
+      hebrew: 'וַיֹּ֥אמֶר',
       transliteration: 'vaYomer',
       englishLiteral: 'And-said',
       englishNatural: 'said',
-      root: roots.amar,
-      prefixes: [prefixes.va],
+      root: 'amar',
+      prefixes: ['va'],
       rootAppearance: {
-        hebrew: 'יֹּאמֶר',
+        hebrew: 'יֹּ֥אמֶר',
         conjugation:
           'imperfect 3rd person masculine singular with vav-consecutive',
       },
@@ -36,12 +35,12 @@ export const genesis_1_3: Verse = {
       },
     },
     {
-      hebrew: 'אֱלֹהִים',
+      hebrew: 'אֱלֹהִ֖ים',
       transliteration: 'Elohim',
       englishLiteral: 'Gods',
       englishNatural: 'And God',
-      root: roots.eloah,
-      suffixes: [suffixes.im],
+      root: 'eloah',
+      suffixes: ['im'],
       order: {
         hebrew: 2,
         english: 1,
@@ -55,64 +54,58 @@ export const genesis_1_3: Verse = {
       },
     },
     {
-      hebrew: 'יְהִי',
+      hebrew: 'יְהִ֣י',
       transliteration: 'yehi',
-      englishLiteral: 'be',
-      englishNatural: 'be',
-      root: roots.hayah,
-      prefixes: [prefixes.ye],
+      englishLiteral: 'Let-be',
+      englishNatural: 'Let there be',
+      root: 'hayah',
       rootAppearance: {
-        hebrew: 'יְהִי',
+        hebrew: 'יְהִ֣י',
         conjugation: 'jussive 3rd person masculine singular',
       },
       order: {
         hebrew: 3,
-        english: 4,
+        english: 3,
       },
       morphology: {
         gender: 'masculine',
         number: 'singular',
         person: '3rd',
-        tense: 'imperfect',
+        tense: 'jussive',
         stem: 'qal',
       },
       grammarPrefix: {
         englishLiteral: '"',
-      },
-      grammarSuffix: {
-        englishNatural: '."',
+        englishNatural: '"',
       },
     },
     {
-      hebrew: 'אוֹר',
+      hebrew: 'א֑וֹר',
       transliteration: 'or',
       englishLiteral: 'light',
       englishNatural: 'light',
-      root: roots.or,
+      root: 'or',
       order: {
         hebrew: 4,
-        english: 3,
+        english: 4,
       },
       morphology: {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
       },
-      grammarPrefix: {
-        englishNatural: '"',
-      },
       grammarSuffix: {
         englishLiteral: '."',
-        englishNatural: ':',
+        englishNatural: '."',
       },
     },
     {
-      hebrew: 'וַיְהִי',
-      transliteration: 'vaYehi',
-      englishLiteral: 'And-was',
-      englishNatural: 'was',
-      root: roots.hayah,
-      prefixes: [prefixes.va],
+      hebrew: 'וַֽיְהִי',
+      transliteration: 'vayehi',
+      englishLiteral: 'And-there-was',
+      englishNatural: 'And there was',
+      root: 'hayah',
+      prefixes: ['va'],
       rootAppearance: {
         hebrew: 'יְהִי',
         conjugation:
@@ -120,7 +113,7 @@ export const genesis_1_3: Verse = {
       },
       order: {
         hebrew: 5,
-        english: 6,
+        english: 5,
       },
       morphology: {
         gender: 'masculine',
@@ -129,20 +122,16 @@ export const genesis_1_3: Verse = {
         tense: 'imperfect',
         stem: 'qal',
       },
-      lineBreaksBefore: 1,
-      grammarSuffix: {
-        englishNatural: '.',
-      },
     },
     {
-      hebrew: 'אוֹר',
+      hebrew: 'אֽוֹר',
       transliteration: 'or',
       englishLiteral: 'light',
-      englishNatural: 'And light',
-      root: roots.or,
+      englishNatural: 'light',
+      root: 'or',
       order: {
         hebrew: 6,
-        english: 5,
+        english: 6,
       },
       morphology: {
         gender: 'masculine',
@@ -151,13 +140,15 @@ export const genesis_1_3: Verse = {
       },
       grammarSuffix: {
         englishLiteral: '.',
+        englishNatural: '.',
       },
+      lineBreaksAfter: 2,
     },
   ],
   translations: {
-    hebrew: 'וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי אוֹר',
-    transliteration: 'vaYomer Elohim yehi or vaYehi or',
-    englishLiteral: 'And-said, Gods, "be light." And-was light.',
-    englishNatural: 'And God said, "light: be." And light was.',
+    hebrew: 'וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר',
+    transliteration: 'vaYomer Elohim yehi or vayehi or',
+    englishLiteral: 'And-said, Gods, "Let-be light." And-there-was light.',
+    englishNatural: 'And God said, "Let there be light." And there was light.',
   },
 };

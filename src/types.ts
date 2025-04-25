@@ -1,3 +1,13 @@
+import { roots as hebrewRoots, prefixes, suffixes } from '@/data/dictionary/hebrew';
+import { roots as greekRoots } from '@/data/dictionary/greek';
+
+
+export type HebrewRoot = keyof typeof hebrewRoots;
+export type HebrewPrefix = keyof typeof prefixes;
+export type HebrewSuffix = keyof typeof suffixes;
+
+export type GreekRoot = keyof typeof greekRoots;
+
 /**
  * Grammatical gender of the word
  * - masculine: Used for male beings and some inanimate objects
@@ -349,9 +359,9 @@ export interface TranslationWord {
   englishLiteral: string; // Our hyper-literal translation
   englishNatural?: string; // More natural English rendering
   morphology?: HebrewWordMorphology | GreekWordMorphology; // Detailed grammatical info
-  prefixes?: TranslationWord[]; // Separable prefixes
-  suffixes?: TranslationWord[]; // Separable suffixes
-  root?: TranslationWord; // Hebrew root if known
+  root?: HebrewRoot | GreekRoot; // Hebrew root if known
+  prefixes?: HebrewPrefix[]; // Separable prefixes
+  suffixes?: HebrewSuffix[]; // Separable suffixes
   rootAppearance?: {
     hebrew: string;
     conjugation: string;

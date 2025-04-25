@@ -1,5 +1,4 @@
 import { Verse } from '@/types';
-import { prefixes, roots, suffixes, specialElements } from '../../../dictionary/hebrew';
 
 export const numbers_21_9: Verse = {
   meta: {
@@ -12,11 +11,12 @@ export const numbers_21_9: Verse = {
       transliteration: 'vaYaas',
       englishLiteral: 'And-made',
       englishNatural: 'made',
-      root: roots.asah,
-      prefixes: [prefixes.va],
+      root: 'asah',
+      prefixes: ['va'],
       rootAppearance: {
         hebrew: 'יַּעַשׂ',
-        conjugation: 'imperfect 3rd person masculine singular with vav-consecutive',
+        conjugation:
+          'imperfect 3rd person masculine singular with vav-consecutive',
       },
       order: {
         hebrew: 1,
@@ -29,13 +29,16 @@ export const numbers_21_9: Verse = {
         tense: 'imperfect',
         stem: 'qal',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
     },
     {
       hebrew: 'מֹשֶׁה',
       transliteration: 'Moshe',
       englishLiteral: 'Moses',
       englishNatural: 'And Moses',
-      root: roots.moshe,
+      root: 'moshe',
       order: {
         hebrew: 2,
         english: 1, // Subject first in English
@@ -44,50 +47,61 @@ export const numbers_21_9: Verse = {
         gender: 'masculine',
         number: 'singular',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
     },
     {
       hebrew: 'נְחַשׁ',
       transliteration: 'nechash',
-      englishLiteral: 'snake-of',
-      englishNatural: 'a snake of', // Preserving "snake" translation
-      root: roots.nachash,
+      englishLiteral: 'snake',
+      englishNatural: 'snake',
+      root: 'nachash',
       order: {
         hebrew: 3,
-        english: 3,
+        english: 4,
       },
       morphology: {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'נְחֹשֶׁת',
       transliteration: 'nechoshet',
       englishLiteral: 'bronze',
-      englishNatural: 'bronze',
-      root: roots.nechoshet,
+      englishNatural: 'a bronze',
+      root: 'nechoshet',
       order: {
         hebrew: 4,
-        english: 4,
+        english: 3,
       },
       morphology: {
         gender: 'feminine',
         number: 'singular',
         state: 'absolute',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
     },
     {
       hebrew: 'וַיְשִׂמֵהוּ',
-      transliteration: 'vaYesimehu',
+      transliteration: 'vaYeSimehu',
       englishLiteral: 'and-he-placed-it',
-      englishNatural: 'and placed it',
-      root: roots.sim,
-      prefixes: [prefixes.va],
-      suffixes: [suffixes.ehu],
+      englishNatural: 'and he placed it',
+      root: 'sim',
+      prefixes: ['va'],
+      suffixes: ['ehu'],
       rootAppearance: {
         hebrew: 'יְשִׂמֵהוּ',
-        conjugation: 'imperfect 3rd person masculine singular with vav-consecutive + suffix 3rd masc sing',
+        conjugation:
+          'imperfect 3rd person masculine singular with vav-consecutive + suffix 3rd masc sing',
       },
       order: {
         hebrew: 5,
@@ -106,7 +120,7 @@ export const numbers_21_9: Verse = {
       transliteration: 'al',
       englishLiteral: 'on',
       englishNatural: 'on',
-      root: roots.al,
+      root: 'al',
       order: {
         hebrew: 6,
         english: 6,
@@ -117,8 +131,8 @@ export const numbers_21_9: Verse = {
       transliteration: 'haNes',
       englishLiteral: 'the-standard',
       englishNatural: 'the standard',
-      root: roots.nes,
-      prefixes: [prefixes.ha],
+      root: 'nes',
+      prefixes: ['ha'],
       order: {
         hebrew: 7,
         english: 7,
@@ -137,11 +151,12 @@ export const numbers_21_9: Verse = {
       transliteration: 'veHayah',
       englishLiteral: 'and-it-was',
       englishNatural: 'and it came about',
-      root: roots.hayah,
-      prefixes: [prefixes.ve],
+      root: 'hayah',
+      prefixes: ['ve'],
       rootAppearance: {
         hebrew: 'הָיָה',
-        conjugation: 'perfect 3rd person masculine singular with vav-consecutive',
+        conjugation:
+          'perfect 3rd person masculine singular with vav-consecutive',
       },
       order: {
         hebrew: 8,
@@ -164,7 +179,7 @@ export const numbers_21_9: Verse = {
       transliteration: 'im',
       englishLiteral: 'if',
       englishNatural: 'if',
-      root: roots.im,
+      root: 'im',
       order: {
         hebrew: 9,
         english: 9,
@@ -175,7 +190,7 @@ export const numbers_21_9: Verse = {
       transliteration: 'nashakh',
       englishLiteral: 'struck',
       englishNatural: 'struck',
-      root: roots.nashakh,
+      root: 'nashakh',
       rootAppearance: {
         hebrew: 'נָשַׁךְ',
         conjugation: 'perfect 3rd person masculine singular',
@@ -197,8 +212,8 @@ export const numbers_21_9: Verse = {
       transliteration: 'haNachash',
       englishLiteral: 'the-snake',
       englishNatural: 'the snake',
-      root: roots.nachash,
-      prefixes: [prefixes.ha],
+      root: 'nachash',
+      prefixes: ['ha'],
       order: {
         hebrew: 11,
         english: 10, // Position changes in English
@@ -213,7 +228,7 @@ export const numbers_21_9: Verse = {
       transliteration: 'et',
       englishLiteral: '↳',
       englishNatural: '',
-      root: specialElements.directObjectMarker,
+      root: 'et',
       order: {
         hebrew: 12,
         english: 0, // Not translated
@@ -224,7 +239,7 @@ export const numbers_21_9: Verse = {
       transliteration: 'ish',
       englishLiteral: 'man',
       englishNatural: 'a man',
-      root: roots.ish,
+      root: 'ish',
       order: {
         hebrew: 13,
         english: 12,
@@ -244,11 +259,12 @@ export const numbers_21_9: Verse = {
       transliteration: 'veHibit',
       englishLiteral: 'and-he-looked',
       englishNatural: 'and he looked',
-      root: roots.nabat,
-      prefixes: [prefixes.ve, prefixes.hi],
+      root: 'nabat',
+      prefixes: ['ve', 'hi'],
       rootAppearance: {
         hebrew: 'הִבִּיט',
-        conjugation: 'perfect 3rd person masculine singular with vav-consecutive',
+        conjugation:
+          'perfect 3rd person masculine singular with vav-consecutive',
       },
       order: {
         hebrew: 14,
@@ -267,7 +283,7 @@ export const numbers_21_9: Verse = {
       transliteration: 'el',
       englishLiteral: 'to',
       englishNatural: 'to',
-      root: roots.el,
+      root: 'el',
       order: {
         hebrew: 15,
         english: 14,
@@ -278,7 +294,7 @@ export const numbers_21_9: Verse = {
       transliteration: 'nechash',
       englishLiteral: 'snake',
       englishNatural: 'snake',
-      root: roots.nachash,
+      root: 'nachash',
       order: {
         hebrew: 16,
         english: 16,
@@ -298,8 +314,8 @@ export const numbers_21_9: Verse = {
       transliteration: 'haNechoshet',
       englishLiteral: 'the-bronze',
       englishNatural: 'the bronze', // Combined with previous word in English
-      root: roots.nechoshet,
-      prefixes: [prefixes.ha],
+      root: 'nechoshet',
+      prefixes: ['ha'],
       order: {
         hebrew: 17,
         english: 15, // Combined with previous word
@@ -317,11 +333,12 @@ export const numbers_21_9: Verse = {
       transliteration: 'vaChai',
       englishLiteral: 'and-lived',
       englishNatural: 'he lived',
-      root: roots.chayah,
-      prefixes: [prefixes.va],
+      root: 'chayah',
+      prefixes: ['va'],
       rootAppearance: {
         hebrew: 'חָי',
-        conjugation: 'perfect 3rd person masculine singular with vav-consecutive',
+        conjugation:
+          'perfect 3rd person masculine singular with vav-consecutive',
       },
       order: {
         hebrew: 18,
@@ -342,9 +359,13 @@ export const numbers_21_9: Verse = {
     },
   ],
   translations: {
-    hebrew: 'וַיַּעַשׂ מֹשֶׁה נְחַשׁ נְחֹשֶׁת וַיְשִׂמֵהוּ עַל הַנֵּס וְהָיָה אִם נָשַׁךְ הַנָּחָשׁ אֶת אִישׁ וְהִבִּיט אֶל נְחַשׁ הַנְּחֹשֶׁת וָחָי',
-    transliteration: 'vaYaas Moshe nechash nechoshet vaYesimehu al haNes veHayah im nashakh haNachash et ish veHibit el nechash haNechoshet vaChai',
-    englishLiteral: 'And-made Moses snake-of bronze and-he-placed-it on the-standard, and-it-was, if struck the-snake ↳ man, and-he-looked to snake, the-bronze, and-lived.',
-    englishNatural: 'And Moses made a snake of bronze and placed it on the standard; and it came about, if the snake struck a man, and he looked to the bronze snake, he lived.',
+    hebrew:
+      'וַיַּעַשׂ מֹשֶׁה נְחַשׁ נְחֹשֶׁת וַיְשִׂמֵהוּ עַל הַנֵּס וְהָיָה אִם נָשַׁךְ הַנָּחָשׁ אֶת אִישׁ וְהִבִּיט אֶל נְחַשׁ הַנְּחֹשֶׁת וָחָי',
+    transliteration:
+      'vaYaas Moshe nechash nechoshet vaYeSimehu al haNes veHayah im nashakh haNachash et ish veHibit el nechash haNechoshet vaChai',
+    englishLiteral:
+      'And-made, Moses, snake, bronze, and-he-placed-it on the-standard, and-it-was, if struck the-snake ↳ man, and-he-looked to snake, the-bronze, and-lived.',
+    englishNatural:
+      'And Moses made a bronze snake, and he placed it on the standard; and it came about, if the snake struck a man, and he looked to the bronze snake, he lived.',
   },
-}; 
+};
