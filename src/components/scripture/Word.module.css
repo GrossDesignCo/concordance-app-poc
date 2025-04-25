@@ -1,5 +1,5 @@
 .TranslationWord {
-  display: flex;
+  display: inline-flex;
   flex-direction: column;
   align-items: center;
   border-radius: var(--ds-radius-md);
@@ -50,4 +50,8 @@
 
 .selectedRoot .Root {
   font-size: 1em;
+}
+
+.doubleBreak {
+  margin-block-start: 1rem;
 }

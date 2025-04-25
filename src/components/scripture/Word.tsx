@@ -1,8 +1,7 @@
 import { useTheme } from 'next-themes';
 import { TranslationWord } from '@/types';
 import { formatMorphology } from '@/utils/morphology';
-import { useWordSelection } from '@/context/WordSelectionContext';
-import { useRootSelection } from '@/context/RootSelectionContext';
+import { useSelection } from '@/context/SelectionContext';
 
 import cx from 'classnames';
 import styles from './Word.module.css';
@@ -19,71 +18,57 @@ interface WordProps {
     | 'englishNatural';
 }
 
+const LineBreaks = ({ numberOfBreaks }: { numberOfBreaks?: number }) => {
+  switch (numberOfBreaks) {
+    case undefined:
+      return null;
+    case 1:
+      return <br />;
+    case 2:
+      // Special rendering so we can adjust the spacing for single and double breaks
+      return <span className={styles.doubleBreak} />;
+  }
+};
+
+export const WordText = ({ word, variant }: WordProps) => {
+  switch (variant) {
+    case 'original':
+      return word.hebrew ? word.hebrew : word.greek ? word.greek : '';
+    case 'transliteration':
+      return word.transliteration;
+    case 'englishLiteral':
+      return `${word.grammarPrefix?.englishLiteral ?? ''}${
+        word.englishLiteral
+      }${word.grammarSuffix?.englishLiteral ?? ''}`;
+    case 'englishNatural':
+      return `${word.grammarPrefix?.englishNatural ?? ''}${
+        word.englishNatural
+      }${word.grammarSuffix?.englishNatural ?? ''}`;
+  }
+};
+
 export default function Word({ word, variant }: WordProps) {
   // const { showOriginal, showTransliteration } = useSettings();
-  const { selectedWord, setSelectedWord } = useWordSelection();
-  const { selectedRoot, setSelectedRoot } = useRootSelection();
+  const { selectedWord, setSelectedWord } = useSelection();
+  const isSelected = selectedWord === word;
   const { resolvedTheme } = useTheme();
 
-  const lineBreaksAfter = word.lineBreaksAfter
-    ? new Array(word.lineBreaksAfter).map((l, i) => <br key={i} />)
-    : null;
+  const lineBreaksAfter = <LineBreaks numberOfBreaks={word.lineBreaksAfter} />;
+  const lineBreaksBefore = (
+    <LineBreaks numberOfBreaks={word.lineBreaksBefore} />
+  );
 
-  const lineBreaksBefore = word.lineBreaksBefore
-    ? new Array(word.lineBreaksBefore).map((l, i) => <br key={i} />)
-    : null;
-
-  const morphology = formatMorphology(word.morphology);
-
-  const renderContent = (
-    word: TranslationWord,
-    showMorphology: boolean = true
-  ) => {
-    switch (variant) {
-      case 'original':
-        return word.hebrew ? word.hebrew : word.greek ? word.greek : '';
-      case 'transliteration':
-        return word.transliteration;
-      case 'englishLiteral':
-        return (
-          <>
-            {word.grammarPrefix?.englishLiteral}
-            {word.englishLiteral}
-            {isSelected && showMorphology && morphology && (
-              <sub>{morphology}</sub>
-            )}
-            {word.grammarSuffix?.englishLiteral}
-          </>
-        );
-      case 'englishNatural':
-        return (
-          <>
-            {word.grammarPrefix?.englishNatural}
-            {word.englishNatural}
-            {word.grammarSuffix?.englishNatural}
-            {isSelected && showMorphology && morphology && (
-              <sub>{morphology}</sub>
-            )}
-          </>
-        );
-    }
-  };
+  // const morphology = formatMorphology(word.morphology);
 
   const reverseTheme = resolvedTheme === 'light' ? 'dark' : 'light';
 
   // Add this word to the selection array
   const handleSelect = () => {
-    const isDeselecting = word === selectedWord;
-    setSelectedWord(isDeselecting ? null : word);
-
-    if (word.root) {
-      setSelectedRoot(isDeselecting ? null : word.root);
-    }
+    setSelectedWord(isSelected ? null : word);
   };
 
-  const isSelected = selectedWord === word;
   const hasSelectedRoot =
-    word.root && selectedRoot && word.root === selectedRoot;
+    word.root && selectedWord?.root && word.root === selectedWord.root;
 
   return (
     <>
@@ -101,7 +86,7 @@ export default function Word({ word, variant }: WordProps) {
             [`theme-${reverseTheme}`]: isSelected,
           })}
         >
-          {renderContent(word)}
+          <WordText word={word} variant={variant} />
         </span>
 
         {/* Couple Alternate Word Breakdowns: */}

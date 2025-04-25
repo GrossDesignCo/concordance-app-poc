@@ -405,6 +405,9 @@ export interface Chapter {
 }
 
 export interface Book {
-  name: string;
+  meta: {
+    name: string;
+    translationChain: string;
+  };
   chapters: Chapter[];
 }
