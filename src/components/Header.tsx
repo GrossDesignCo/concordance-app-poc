@@ -1,14 +1,16 @@
 import React from 'react';
-import TranslationControls from '@/components/Settings';
+import Settings from '@/components/Settings';
 
 import styles from './Header.module.css';
 
 export const Header = () => {
   return (
     <header className={styles.header}>
-      <h1 className={styles.appTitle}>LexiChi</h1>
+      <div className={styles.headerContent}>
+        <h1 className={styles.appTitle}>LexiChi</h1>
 
-      <TranslationControls />
+        <Settings />
+      </div>
     </header>
   );
 };

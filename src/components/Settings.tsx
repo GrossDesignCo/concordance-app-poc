@@ -7,7 +7,7 @@ import { Gear } from '@phosphor-icons/react';
 import styles from './Settings.module.css';
 import { useMediaQuery } from '@/hooks/useMediaQuery';
 
-const TranslationControls = () => {
+const Settings = () => {
   const {
     showOriginal,
     setShowOriginal,
@@ -91,4 +91,4 @@ const TranslationControls = () => {
   );
 };
 
-export default TranslationControls;
+export default Settings;

@@ -175,7 +175,7 @@ export const numbers_21_7: Verse = {
     },
     {
       hebrew: 'וָבָךְ',
-      transliteration: 'vaveKha',
+      transliteration: 'vaVeKha',
       englishLiteral: 'and-against-you',
       englishNatural: 'and against you',
       root: 'atah',
@@ -388,7 +388,7 @@ export const numbers_21_7: Verse = {
     hebrew:
       'וַיָּבֹא הָעָם אֶל מֹשֶׁה וַיֹּאמְרוּ חָטָאנוּ כִּי דִבַּרְנוּ בַיהוָה וָבָךְ הִתְפַּלֵּל אֶל יְהוָה וְיָסֵר מֵעָלֵינוּ אֶת הַנָּחָשׁ וַיִּתְפַּלֵּל מֹשֶׁה בְּעַד הָעָם',
     transliteration:
-      'vaYavo haAm el Moshe vaYomru chatanu ki dibarnu vaYHWH vaveKha hitpalel el YHWH veYaSer meAleinu et haNachash vaYitpalel Moshe beAd haAm',
+      'vaYavo haAm el Moshe vaYomru chatanu ki dibarnu vaYHWH vaVeKha hitpalel el YHWH veYaSer meAleinu et haNachash vaYitpalel Moshe beAd haAm',
     englishLiteral:
       'And-came the-people to Moses and-they-said, "we-have-sinned, because we-have-spoken against-I_AM and-against-you, pray to I_AM, and-may-he-turn_aside from-up_on-us ↳ the-snake." And-prayed Moses on-behalf-of the-people.',
     englishNatural:

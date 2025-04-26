@@ -7,13 +7,14 @@ import { useSelection } from '@/context/SelectionContext';
 import { ScriptureReader } from './scripture/ScriptureReader';
 import { Sheet } from '@/design-system';
 import { useMediaQuery } from '@/hooks/useMediaQuery';
+import styles from './Main.module.css';
 
 export const Main = () => {
   const { selectedWord, setSelectedWord } = useSelection();
   const isDesktop = useMediaQuery('(min-width: 720px)');
 
   return (
-    <main>
+    <main className={styles.main}>
       <ViewPanels>
         <ViewPanel>
           <ScriptureReader />
@@ -33,7 +34,6 @@ export const Main = () => {
               : 'Word Details'
           }
           position={isDesktop ? 'right' : 'bottom'}
-          maxWidth={isDesktop ? '40ch' : undefined}
           pushContent={isDesktop}
         >
           <LexiconEntry />

@@ -1,9 +1,16 @@
 .header {
+  margin-inline-end: var(--ds-sheet-width);
+}
+
+.headerContent {
   height: var(--header-max-height);
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0 var(--ds-space-6);
+  padding-inline-end: var(--ds-space-3);
+  max-width: 80ch;
+  margin: 0 auto;
 }
 
 .appTitle {

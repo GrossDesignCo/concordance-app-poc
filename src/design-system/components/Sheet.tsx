@@ -48,18 +48,18 @@ export function Sheet({
     if (typeof window === 'undefined' || position !== 'right' || !pushContent)
       return;
 
-    const viewPanelsElement = document.querySelector('[class*="ViewPanels"]');
+    const body = document.querySelector('body');
 
-    if (viewPanelsElement && open) {
-      const sheetWidth = maxWidth || '400px';
-      viewPanelsElement.setAttribute('style', `margin-right: ${sheetWidth};`);
-    } else if (viewPanelsElement && !open) {
-      viewPanelsElement.setAttribute('style', '');
+    if (body && open) {
+      const sheetWidth = maxWidth || 'min(75ch, 50vw)';
+      body.style.setProperty('--ds-sheet-width', sheetWidth);
+    } else if (body && !open) {
+      body.style.setProperty('--ds-sheet-width', '0');
     }
 
     return () => {
-      if (viewPanelsElement) {
-        viewPanelsElement.setAttribute('style', '');
+      if (body) {
+        body.style.setProperty('--ds-sheet-width', '');
       }
     };
   }, [open, pushContent, position, maxWidth]);
@@ -71,6 +71,7 @@ export function Sheet({
           className={cx(
             styles.content,
             {
+              [styles.open]: open,
               [styles.expanded]: expanded,
               [styles.rightPosition]: position === 'right',
             },
