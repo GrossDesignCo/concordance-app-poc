@@ -3,7 +3,7 @@ import { Verse } from '@/types';
 export const genesis_1_2: Verse = {
   meta: {
     chapter: 1,
-    verse: 2,
+    number: 2,
   },
   words: [
     {
@@ -46,7 +46,7 @@ export const genesis_1_2: Verse = {
     },
     {
       hebrew: 'תֹ֙הוּ֙',
-      transliteration: 'Tohu',
+      transliteration: 'tohu',
       englishLiteral: 'waste',
       englishNatural: 'waste',
       root: 'tohu',
@@ -156,7 +156,13 @@ export const genesis_1_2: Verse = {
         number: 'singular',
         state: 'construct',
       },
-      lineBreaksBefore: 1,
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+        english: 1,
+      },
     },
     {
       hebrew: 'אֱלֹהִ֔ים',
@@ -172,6 +178,9 @@ export const genesis_1_2: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
       },
     },
     {
@@ -225,7 +234,10 @@ export const genesis_1_2: Verse = {
         gender: 'masculine',
         number: 'plural',
       },
-      lineBreaksAfter: 2,
+      lineBreaksAfter: {
+        hebrew: 2,
+        english: 2,
+      },
       grammarSuffix: {
         englishLiteral: '.',
         englishNatural: '.',
@@ -236,9 +248,9 @@ export const genesis_1_2: Verse = {
     hebrew:
       'וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֙הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְהֹ֑ום וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם',
     transliteration:
-      'veHaAretz haytah Tohu vaVohu veChoshekh al-peney tehom veRuach Elohim meRachefet al-peney haMayim',
+      'veHaAretz haytah tohu vaVohu veChoshekh al-peney tehom veRuach Elohim meRachefet al-peney haMayim',
     englishLiteral:
-      'And-the-land was waste and-void, and-darkness, on-face-of deep. And-Wind Gods was-stirring on-face-of the-waters.',
+      'And-the-land was waste and-void, and-darkness, on-face-of deep. And-Wind, Gods, was-stirring on-face-of the-waters.',
     englishNatural:
       'And the land was waste and void, and darkness, on the face of the deep. And the Wind of God was stirring on the face of the waters.',
   },

@@ -3,7 +3,7 @@ import { Verse } from '@/types';
 export const john_1_1: Verse = {
   meta: {
     chapter: 1,
-    verse: 1,
+    number: 1,
   },
   words: [
     {
@@ -301,7 +301,6 @@ export const john_1_1: Verse = {
       grammarSuffix: {
         englishLiteral: '.',
       },
-      lineBreaksAfter: 2,
     },
   ],
   translations: {

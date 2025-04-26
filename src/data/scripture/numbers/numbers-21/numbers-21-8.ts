@@ -3,7 +3,7 @@ import { Verse } from '@/types';
 export const numbers_21_8: Verse = {
   meta: {
     chapter: 21,
-    verse: 8,
+    number: 8,
   },
   words: [
     {
@@ -342,7 +342,10 @@ export const numbers_21_8: Verse = {
         englishLiteral: '."',
         englishNatural: '."',
       },
-      lineBreaksAfter: 2,
+      lineBreaksAfter: {
+        hebrew: 2,
+        english: 2,
+      },
     },
   ],
   translations: {

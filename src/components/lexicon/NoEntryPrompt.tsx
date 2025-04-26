@@ -2,7 +2,7 @@ import cx from 'classnames';
 import styles from './Entry.module.css';
 import { useState } from 'react';
 import { useSelection } from '@/context/SelectionContext';
-import Word from '../scripture/Word';
+import Word from '../text/Word';
 import { Button } from '@/design-system';
 
 export default function NoEntryPrompt({}) {

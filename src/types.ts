@@ -1,12 +1,31 @@
-import { roots as hebrewRoots, prefixes, suffixes } from '@/data/dictionary/hebrew';
+import {
+  roots as hebrewRoots,
+  prefixes,
+  suffixes,
+} from '@/data/dictionary/hebrew';
 import { roots as greekRoots } from '@/data/dictionary/greek';
 
-
+// Hebrew Dictionary
 export type HebrewRoot = keyof typeof hebrewRoots;
 export type HebrewPrefix = keyof typeof prefixes;
 export type HebrewSuffix = keyof typeof suffixes;
 
+// Greek Dictionary
 export type GreekRoot = keyof typeof greekRoots;
+
+// Word Keys
+export type LanguageKey =
+  | 'original'
+  | 'transliteration'
+  | 'englishLiteral'
+  | 'englishNatural';
+export type ResolvedLanguageKey =
+  | 'hebrew'
+  | 'greek'
+  | 'transliteration'
+  | 'englishLiteral'
+  | 'englishNatural';
+export type WordOrderKey = 'hebrew' | 'greek' | 'english';
 
 /**
  * Grammatical gender of the word
@@ -366,11 +385,22 @@ export interface TranslationWord {
     hebrew: string;
     conjugation: string;
   }; // For special conjugated forms of the root
-  lineBreaksAfter?: number; // number of line breaks to render between this word and the next block (usually for paragraphs)
-  lineBreaksBefore?: number; // number of line breaks to render between this word and the previous block (usually for poetry)
+
+  // number of line breaks to render between this word and the next block (usually for paragraphs)
+  lineBreaksAfter?: {
+    greek?: number; // Position (optional) in original Greek text
+    hebrew?: number; // Position (optional) in original Hebrew text
+    english?: number; // Optional position (optional) for English rendering
+  };
+  // number of line breaks to render between this word and the previous block (usually for poetry)
+  lineBreaksBefore?: {
+    greek?: number; // Position (optional) in original Greek text
+    hebrew?: number; // Position (optional) in original Hebrew text
+    english?: number; // Optional position (optional) for English rendering
+  };
+
   /**
-   * Represents word order in different arrangements
-   * Used for maintaining correct order in different display modes
+   * Word order key for a given language
    */
   order?: {
     greek?: number; // Position in original Greek text
@@ -385,7 +415,7 @@ export interface TranslationWord {
 
 export interface VerseMeta {
   chapter: number;
-  verse: number;
+  number: number;
   paragraphBreak?: boolean;
   poetryLine?: boolean;
   indent?: number; // For poetry formatting

@@ -21,6 +21,8 @@ const Settings = () => {
 
   const { theme, setTheme } = useTheme();
   const isDesktop = useMediaQuery('(min-width: 720px)');
+  const isLandscape = useMediaQuery('(orientation: landscape)');
+  const isLargeDesktop = useMediaQuery('(min-width: 150ch)');
 
   const [open, setOpen] = useState(false);
 
@@ -41,8 +43,11 @@ const Settings = () => {
         title="Translation Settings"
         expanded
         maxWidth={isDesktop ? '28ch' : undefined}
-        position={isDesktop ? 'right' : 'bottom'}
+        position={
+          (isDesktop && isLandscape) || isLargeDesktop ? 'right' : 'bottom'
+        }
         pushContent={isDesktop}
+        borderless={isLargeDesktop}
       >
         <div className={styles.controls}>
           <Checkbox

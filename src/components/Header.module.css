@@ -1,5 +1,6 @@
 .header {
   margin-inline-end: var(--ds-sheet-width);
+  transition: margin-inline-end 0.3s ease;
 }
 
 .headerContent {
@@ -16,4 +17,9 @@
 .appTitle {
   font-size: 1rem;
   line-height: 1.5;
+}
+
+.controls {
+  display: flex;
+  gap: var(--ds-space-2);
 }

@@ -13,7 +13,7 @@ export const Chapter = ({ chapterData }: ChapterProps) => {
       <h2 className={styles.chapterNumber}>{chapterData.number}</h2>
 
       {chapterData?.verses?.map((v) => {
-        return <Verse verse={v} key={v.meta.verse} />;
+        return <Verse verse={v} key={v.meta.number} />;
       })}
     </div>
   );

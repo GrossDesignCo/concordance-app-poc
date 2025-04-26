@@ -8,6 +8,7 @@
 
 .TranslationWord.selectedRoot {
   background-color: var(--ds-bg-container);
+  /* border: 1px solid var(--ds-fg-default); */
 }
 
 /* Additional wrapper for selected word, to help encapsulate construction info */
@@ -36,22 +37,6 @@
   transition: 0.3s ease;
 }
 
-.Root {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  font-size: 0;
-  transition: 0.3s ease;
-}
-
-.selected .Root {
-  font-size: 1em;
-}
-
-.selectedRoot .Root {
-  font-size: 1em;
-}
-
-.doubleBreak {
-  margin-block-start: 1rem;
+.TranslationWord:focus-visible {
+  outline: 2px solid var(--ds-mg-border);
 }

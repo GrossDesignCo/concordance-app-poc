@@ -2,8 +2,11 @@ import { TranslationWord } from '@/types';
 import { createContext, useContext, useState, ReactNode } from 'react';
 
 interface SelectionContextProps {
-  selectedWord: TranslationWord | null;
-  setSelectedWord: (word: TranslationWord | null) => void;
+  selectedWords: TranslationWord[];
+  toggleWordSelection: (word: TranslationWord) => void;
+  addWordToSelection: (word: TranslationWord) => void;
+  selectRange: (startWord: TranslationWord, endWord: TranslationWord) => void;
+  clearSelection: () => void;
 }
 
 const SelectionContext = createContext<SelectionContextProps | undefined>(
@@ -11,15 +14,44 @@ const SelectionContext = createContext<SelectionContextProps | undefined>(
 );
 
 export const SelectionProvider = ({ children }: { children: ReactNode }) => {
-  const [selectedWord, setSelectedWord] = useState<TranslationWord | null>(
-    null
-  );
+  const [selectedWords, setSelectedWords] = useState<TranslationWord[]>([]);
+
+  const toggleWordSelection = (word: TranslationWord) => {
+    setSelectedWords((prev) => {
+      if (prev.includes(word)) {
+        return prev.filter((w) => w !== word);
+      }
+      return [...prev, word];
+    });
+  };
+
+  const addWordToSelection = (word: TranslationWord) => {
+    if (!selectedWords.includes(word)) {
+      setSelectedWords((prev) => [...prev, word]);
+    }
+  };
+
+  const selectRange = (
+    startWord: TranslationWord,
+    endWord: TranslationWord
+  ) => {
+    // This will be populated by the Verse component
+    // We'll just set the start and end words for now
+    setSelectedWords([startWord, endWord]);
+  };
+
+  const clearSelection = () => {
+    setSelectedWords([]);
+  };
 
   return (
     <SelectionContext.Provider
       value={{
-        selectedWord,
-        setSelectedWord,
+        selectedWords,
+        toggleWordSelection,
+        addWordToSelection,
+        selectRange,
+        clearSelection,
       }}
     >
       {children}

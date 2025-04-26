@@ -7,7 +7,7 @@ import { X } from '@phosphor-icons/react';
 
 interface SheetProps {
   open: boolean;
-  onOpenChange: (open: boolean) => void;
+  onOpenChange?: (open: boolean) => void;
   children: ReactNode;
   className?: string;
   title: string;
@@ -15,6 +15,7 @@ interface SheetProps {
   maxWidth?: string;
   position?: 'bottom' | 'right';
   pushContent?: boolean;
+  borderless?: boolean;
 }
 
 export function Sheet({
@@ -27,6 +28,7 @@ export function Sheet({
   maxWidth,
   position = 'bottom',
   pushContent = false,
+  borderless = false,
 }: SheetProps) {
   const [expanded, setExpanded] = useState(initialExpanded);
   const contentRef = useRef<HTMLDivElement>(null);
@@ -74,6 +76,7 @@ export function Sheet({
               [styles.open]: open,
               [styles.expanded]: expanded,
               [styles.rightPosition]: position === 'right',
+              [styles.borderless]: borderless,
             },
             className
           )}
@@ -94,7 +97,7 @@ export function Sheet({
                 size="sm"
                 aria-label="Close dialog"
                 className={styles.closeButton}
-                onClick={() => onOpenChange(false)}
+                onClick={() => onOpenChange?.(false)}
               >
                 <X size={20} weight="regular" />
               </Button>

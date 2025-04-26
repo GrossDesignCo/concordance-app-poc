@@ -1,36 +1,8 @@
-.Verse {
-  display: flex;
-  gap: 40px;
-}
-
-.TranslatedText,
-.Details {
-  flex-basis: 0;
-  flex-grow: 1;
-}
-
-.TranslatedText {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-
-.VariantLines {
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-}
-
-.VariantLine {
-  position: relative;
-}
-
 .VerseNumber {
   inset-inline-end: calc(0.25rem + 100%);
   color: var(--ds-fg-low-contrast);
-  position: absolute;
 }
 
-.VariantLine.hebrew {
-  flex-direction: row-reverse;
+.VerseAsBlock {
+  margin-bottom: 1rem;
 }

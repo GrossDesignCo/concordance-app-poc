@@ -3,7 +3,7 @@ import { Verse } from '@/types';
 export const numbers_21_9: Verse = {
   meta: {
     chapter: 21,
-    verse: 9,
+    number: 9,
   },
   words: [
     {

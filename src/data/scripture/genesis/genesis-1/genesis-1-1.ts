@@ -3,7 +3,7 @@ import { Verse } from '@/types';
 export const genesis_1_1: Verse = {
   meta: {
     chapter: 1,
-    verse: 1,
+    number: 1,
   },
   words: [
     {
@@ -125,7 +125,10 @@ export const genesis_1_1: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
-      lineBreaksAfter: 2,
+      lineBreaksAfter: {
+        hebrew: 2,
+        english: 2,
+      },
     },
   ],
   translations: {

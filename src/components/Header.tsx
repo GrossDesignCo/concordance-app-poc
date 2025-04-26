@@ -2,6 +2,7 @@ import React from 'react';
 import Settings from '@/components/Settings';
 
 import styles from './Header.module.css';
+import { ClearSelectionControl } from './ClearSelectionControl';
 
 export const Header = () => {
   return (
@@ -9,7 +10,10 @@ export const Header = () => {
       <div className={styles.headerContent}>
         <h1 className={styles.appTitle}>LexiChi</h1>
 
-        <Settings />
+        <div className={styles.controls}>
+          <ClearSelectionControl />
+          <Settings />
+        </div>
       </div>
     </header>
   );

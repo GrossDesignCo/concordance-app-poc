@@ -3,20 +3,28 @@ import styles from './Entry.module.css';
 import { useState, useEffect } from 'react';
 import { useSelection } from '@/context/SelectionContext';
 import NoEntryPrompt from './NoEntryPrompt';
+import { sortWords } from '@/utils/sortWords';
+import { formatWord } from '@/utils/formatWord';
 
 // Define a type for the MDX component
 type MDXComponent = React.ComponentType<Record<string, never>>;
 
 export default function LexiconEntry({}) {
-  const { selectedWord } = useSelection();
+  const { selectedWords } = useSelection();
 
   const [Entry, setEntry] = useState<MDXComponent | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    if (!selectedWord) return;
-    const { transliteration } = selectedWord;
+    if (!selectedWords.length) return;
+    const sortedWords = sortWords(selectedWords, 'transliteration');
+    const entryKey = sortedWords
+      .map((word) => {
+        const { wordText } = formatWord(word, 'transliteration');
+        return wordText;
+      })
+      .join('-');
 
     setLoading(true);
     setError(null);
@@ -28,23 +36,21 @@ export default function LexiconEntry({}) {
     const loadEntry = async () => {
       try {
         const mdxModule = await import(
-          `../../data/lexicon/hebrew/${transliteration}.mdx`
+          `../../data/lexicon/hebrew/${entryKey}.mdx`
         );
         setEntry(() => mdxModule.default);
       } catch (err) {
-        console.warn(
-          `Error looking up lexicon entry for ${transliteration}: ${err}`
-        );
-        setError(`No entry found for "${transliteration}"`);
+        console.warn(`Error looking up lexicon entry for ${entryKey}: ${err}`);
+        setError(`No entry found for "${entryKey}"`);
       } finally {
         setLoading(false);
       }
     };
 
     loadEntry();
-  }, [selectedWord]);
+  }, [selectedWords]);
 
-  if (!selectedWord) return null;
+  if (!selectedWords) return null;
 
   return (
     <div className={cx(styles.LexiconEntry, 'markdown-text')}>

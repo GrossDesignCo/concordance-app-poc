@@ -8,10 +8,35 @@ import { ScriptureReader } from './scripture/ScriptureReader';
 import { Sheet } from '@/design-system';
 import { useMediaQuery } from '@/hooks/useMediaQuery';
 import styles from './Main.module.css';
+import { LanguageKey } from '@/types';
+import { formatWord } from '@/utils/formatWord';
+import { sortWords } from '@/utils/sortWords';
+
+const languages: LanguageKey[] = [
+  'original',
+  'transliteration',
+  'englishLiteral',
+];
 
 export const Main = () => {
-  const { selectedWord, setSelectedWord } = useSelection();
+  const { selectedWords } = useSelection();
   const isDesktop = useMediaQuery('(min-width: 720px)');
+  const isLandscape = useMediaQuery('(orientation: landscape)');
+  const isLargeDesktop = useMediaQuery('(min-width: 150ch)');
+  const open = selectedWords.length > 0;
+
+  const sheetTitle = languages
+    .map((language) => {
+      const sortedWords = sortWords(selectedWords, language);
+
+      return sortedWords
+        .map((word) => {
+          const { formattedWordText } = formatWord(word, language);
+          return formattedWordText;
+        })
+        .join(' ');
+    })
+    .join(', ');
 
   return (
     <main className={styles.main}>
@@ -26,15 +51,13 @@ export const Main = () => {
         </ViewPanel> */}
 
         <Sheet
-          open={Boolean(selectedWord)}
-          onOpenChange={() => setSelectedWord(null)}
-          title={
-            selectedWord
-              ? `${selectedWord.hebrew} (${selectedWord.transliteration}, ${selectedWord.englishLiteral})`
-              : 'Word Details'
+          open={open}
+          title={sheetTitle || 'Word Details'}
+          position={
+            (isDesktop && isLandscape) || isLargeDesktop ? 'right' : 'bottom'
           }
-          position={isDesktop ? 'right' : 'bottom'}
           pushContent={isDesktop}
+          borderless={isLargeDesktop}
         >
           <LexiconEntry />
         </Sheet>
