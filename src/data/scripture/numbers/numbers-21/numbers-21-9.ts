@@ -13,11 +13,6 @@ export const numbers_21_9: Verse = {
       englishNatural: 'made',
       root: 'asah',
       prefixes: ['va'],
-      rootAppearance: {
-        hebrew: 'יַּעַשׂ',
-        conjugation:
-          'imperfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 1,
         english: 2, // In English, subject comes first
@@ -98,11 +93,6 @@ export const numbers_21_9: Verse = {
       root: 'sim',
       prefixes: ['va'],
       suffixes: ['ehu'],
-      rootAppearance: {
-        hebrew: 'יְשִׂמֵהוּ',
-        conjugation:
-          'imperfect 3rd person masculine singular with vav-consecutive + suffix 3rd masc sing',
-      },
       order: {
         hebrew: 5,
         english: 5,
@@ -153,11 +143,6 @@ export const numbers_21_9: Verse = {
       englishNatural: 'and it came about',
       root: 'hayah',
       prefixes: ['ve'],
-      rootAppearance: {
-        hebrew: 'הָיָה',
-        conjugation:
-          'perfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 8,
         english: 8,
@@ -191,10 +176,6 @@ export const numbers_21_9: Verse = {
       englishLiteral: 'struck',
       englishNatural: 'struck',
       root: 'nashakh',
-      rootAppearance: {
-        hebrew: 'נָשַׁךְ',
-        conjugation: 'perfect 3rd person masculine singular',
-      },
       order: {
         hebrew: 10,
         english: 11, // Position changes in English
@@ -261,11 +242,6 @@ export const numbers_21_9: Verse = {
       englishNatural: 'and he looked',
       root: 'nabat',
       prefixes: ['ve', 'hi'],
-      rootAppearance: {
-        hebrew: 'הִבִּיט',
-        conjugation:
-          'perfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 14,
         english: 13,
@@ -335,11 +311,6 @@ export const numbers_21_9: Verse = {
       englishNatural: 'he lived',
       root: 'chayah',
       prefixes: ['va'],
-      rootAppearance: {
-        hebrew: 'חָי',
-        conjugation:
-          'perfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 18,
         english: 17,

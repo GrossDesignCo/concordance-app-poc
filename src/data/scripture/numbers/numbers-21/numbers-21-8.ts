@@ -13,11 +13,6 @@ export const numbers_21_8: Verse = {
       englishNatural: 'said',
       root: 'amar',
       prefixes: ['va'],
-      rootAppearance: {
-        hebrew: 'יֹּאמֶר',
-        conjugation:
-          'imperfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 1,
         english: 2, // In English, subject comes first

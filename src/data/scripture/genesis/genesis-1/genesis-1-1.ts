@@ -34,10 +34,6 @@ export const genesis_1_1: Verse = {
       englishLiteral: 'created',
       englishNatural: 'created',
       root: 'bara',
-      rootAppearance: {
-        hebrew: 'בָּרָ֣א',
-        conjugation: 'perfect 3rd person masculine singular',
-      },
       order: {
         hebrew: 2,
         english: 3, // In English, "created" comes after "God"

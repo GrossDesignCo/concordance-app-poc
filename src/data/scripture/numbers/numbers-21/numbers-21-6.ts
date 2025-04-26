@@ -13,11 +13,6 @@ export const numbers_21_6: Verse = {
       englishNatural: 'sent',
       root: 'shalach',
       prefixes: ['va'],
-      rootAppearance: {
-        hebrew: 'יְשַׁלַּח',
-        conjugation:
-          'imperfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 1,
         english: 2, // In English, "LORD" comes first
