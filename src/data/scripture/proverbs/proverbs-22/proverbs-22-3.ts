@@ -20,6 +20,7 @@ export const proverbs_22_3: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
+        type: 'noun'
       },
     },
     {
@@ -42,6 +43,7 @@ export const proverbs_22_3: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
+        type: 'verb'
       },
     },
     {
@@ -58,6 +60,7 @@ export const proverbs_22_3: Verse = {
         gender: 'feminine',
         number: 'singular',
         state: 'absolute',
+        type: 'noun'
       },
     },
     {
@@ -81,6 +84,7 @@ export const proverbs_22_3: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'niphal',
+        type: 'verb'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -103,6 +107,7 @@ export const proverbs_22_3: Verse = {
         gender: 'masculine',
         number: 'plural',
         state: 'absolute',
+        type: 'noun'
       },
     },
     {
@@ -125,6 +130,7 @@ export const proverbs_22_3: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
+        type: 'verb'
       },
     },
     {
@@ -149,6 +155,7 @@ export const proverbs_22_3: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'niphal',
+        type: 'verb'
       },
       grammarSuffix: {
         englishLiteral: '.',

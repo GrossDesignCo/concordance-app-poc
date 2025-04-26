@@ -22,6 +22,7 @@ export const genesis_1_1: Verse = {
         gender: 'feminine',
         number: 'singular',
         state: 'absolute',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -44,6 +45,7 @@ export const genesis_1_1: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
+        type: 'verb'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -63,6 +65,7 @@ export const genesis_1_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -92,6 +95,7 @@ export const genesis_1_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
+        type: 'noun'
       },
     },
     {
@@ -120,6 +124,7 @@ export const genesis_1_1: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: '.',

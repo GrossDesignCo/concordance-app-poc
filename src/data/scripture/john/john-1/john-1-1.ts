@@ -35,7 +35,8 @@ export const john_1_1: Verse = {
         gender: 'feminine',
         number: 'singular',
         case: 'dative',
-        state: 'anarthrous', // without article
+        state: 'anarthrous',
+        type: 'noun'
       },
     },
     {
@@ -54,6 +55,7 @@ export const john_1_1: Verse = {
         tense: 'imperfect',
         voice: 'active',
         mood: 'indicative',
+        type: 'verb'
       },
     },
     {
@@ -71,6 +73,8 @@ export const john_1_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         case: 'nominative',
+        state: 'definite',
+        type: 'noun'
       },
     },
     {
@@ -87,7 +91,8 @@ export const john_1_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         case: 'nominative',
-        state: 'definite', // with article (from previous word)
+        state: 'definite',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -123,6 +128,8 @@ export const john_1_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         case: 'nominative',
+        state: 'definite',
+        type: 'noun'
       },
     },
     {
@@ -139,7 +146,8 @@ export const john_1_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         case: 'nominative',
-        state: 'definite', // with article (from previous word)
+        state: 'definite',
+        type: 'noun'
       },
     },
     {
@@ -158,6 +166,7 @@ export const john_1_1: Verse = {
         tense: 'imperfect',
         voice: 'active',
         mood: 'indicative',
+        type: 'verb'
       },
     },
     {
@@ -190,6 +199,8 @@ export const john_1_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         case: 'accusative',
+        state: 'definite',
+        type: 'noun'
       },
     },
     {
@@ -206,7 +217,8 @@ export const john_1_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         case: 'accusative',
-        state: 'definite', // with article (from previous word)
+        state: 'definite',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -241,7 +253,8 @@ export const john_1_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         case: 'nominative',
-        state: 'anarthrous', // without article - significant theological point
+        state: 'anarthrous',
+        type: 'noun'
       },
       grammarSuffix: {
         englishNatural: '.',
@@ -263,6 +276,7 @@ export const john_1_1: Verse = {
         tense: 'imperfect',
         voice: 'active',
         mood: 'indicative',
+        type: 'verb'
       },
     },
     {
@@ -280,6 +294,8 @@ export const john_1_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         case: 'nominative',
+        state: 'definite',
+        type: 'noun'
       },
     },
     {
@@ -296,7 +312,8 @@ export const john_1_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         case: 'nominative',
-        state: 'definite', // with article (from previous word)
+        state: 'definite',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: '.',

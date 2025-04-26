@@ -23,6 +23,7 @@ export const numbers_21_8: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
+        type: 'verb'
       },
     },
     {
@@ -38,6 +39,7 @@ export const numbers_21_8: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
+        type: 'noun'
       },
     },
     {
@@ -49,6 +51,9 @@ export const numbers_21_8: Verse = {
       order: {
         hebrew: 3,
         english: 3,
+      },
+      morphology: {
+        type: 'preposition'
       },
     },
     {
@@ -64,6 +69,7 @@ export const numbers_21_8: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -88,6 +94,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         stem: 'qal',
+        type: 'verb'
       },
       grammarPrefix: {
         englishLiteral: '"',
@@ -110,6 +117,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '2nd',
+        type: 'preposition'
       },
     },
     {
@@ -126,6 +134,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -151,6 +160,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         stem: 'qal',
+        type: 'verb'
       },
     },
     {
@@ -168,6 +178,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '3rd',
+        type: 'pronoun'
       },
     },
     {
@@ -195,6 +206,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -223,6 +235,7 @@ export const numbers_21_8: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
+        type: 'verb'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -243,6 +256,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
+        type: 'adjective'
       },
     },
     {
@@ -264,6 +278,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         stem: 'qal',
+        type: 'verb'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -292,6 +307,7 @@ export const numbers_21_8: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
+        type: 'verb'
       },
     },
     {
@@ -309,6 +325,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '3rd',
+        type: 'pronoun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -337,6 +354,7 @@ export const numbers_21_8: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
+        type: 'verb'
       },
       grammarSuffix: {
         englishLiteral: '."',

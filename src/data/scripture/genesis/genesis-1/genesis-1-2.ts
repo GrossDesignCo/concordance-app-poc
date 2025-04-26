@@ -20,6 +20,7 @@ export const genesis_1_2: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
+        type: 'noun'
       },
     },
     {
@@ -42,6 +43,7 @@ export const genesis_1_2: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
+        type: 'verb'
       },
     },
     {
@@ -58,6 +60,7 @@ export const genesis_1_2: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
+        type: 'adjective'
       },
     },
     {
@@ -75,6 +78,7 @@ export const genesis_1_2: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
+        type: 'adjective'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -96,6 +100,7 @@ export const genesis_1_2: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
+        type: 'adjective'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -118,6 +123,7 @@ export const genesis_1_2: Verse = {
         gender: 'masculine',
         number: 'plural',
         state: 'construct',
+        type: 'preposition'
       },
     },
     {
@@ -134,6 +140,7 @@ export const genesis_1_2: Verse = {
         gender: 'feminine',
         number: 'singular',
         state: 'absolute',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -155,6 +162,7 @@ export const genesis_1_2: Verse = {
         gender: 'feminine',
         number: 'singular',
         state: 'construct',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -178,6 +186,7 @@ export const genesis_1_2: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -199,6 +208,7 @@ export const genesis_1_2: Verse = {
         gender: 'feminine',
         number: 'singular',
         stem: 'piel',
+        type: 'verb'
       },
     },
     {
@@ -217,6 +227,7 @@ export const genesis_1_2: Verse = {
         gender: 'masculine',
         number: 'plural',
         state: 'construct',
+        type: 'preposition'
       },
     },
     {
@@ -233,6 +244,7 @@ export const genesis_1_2: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
+        type: 'noun'
       },
       lineBreaksAfter: {
         hebrew: 2,

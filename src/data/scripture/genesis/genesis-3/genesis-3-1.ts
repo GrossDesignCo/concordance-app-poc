@@ -20,6 +20,7 @@ export const genesis_3_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
+        type: 'noun'
       },
     },
     {
@@ -42,6 +43,7 @@ export const genesis_3_1: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
+        type: 'verb'
       },
     },
     {
@@ -58,6 +60,7 @@ export const genesis_3_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
+        type: 'adjective'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -91,6 +94,7 @@ export const genesis_3_1: Verse = {
         gender: 'feminine',
         number: 'singular',
         state: 'construct',
+        type: 'noun'
       },
     },
     {
@@ -107,6 +111,7 @@ export const genesis_3_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -144,6 +149,7 @@ export const genesis_3_1: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
+        type: 'verb'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -198,6 +204,7 @@ export const genesis_3_1: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
+        type: 'verb'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -228,6 +235,7 @@ export const genesis_3_1: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -287,6 +295,7 @@ export const genesis_3_1: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
+        type: 'verb'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -306,6 +315,7 @@ export const genesis_3_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -346,6 +356,7 @@ export const genesis_3_1: Verse = {
         person: '2nd',
         tense: 'imperfect',
         stem: 'qal',
+        type: 'verb'
       },
       grammarPrefix: {
         englishNatural: "'",
@@ -377,6 +388,7 @@ export const genesis_3_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
+        type: 'noun'
       },
     },
     {
@@ -393,6 +405,7 @@ export const genesis_3_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: '\'?"',

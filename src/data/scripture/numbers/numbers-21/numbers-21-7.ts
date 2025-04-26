@@ -23,6 +23,7 @@ export const numbers_21_7: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
+        type: 'verb'
       },
     },
     {
@@ -39,6 +40,7 @@ export const numbers_21_7: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
+        type: 'noun'
       },
     },
     {
@@ -50,6 +52,9 @@ export const numbers_21_7: Verse = {
       order: {
         hebrew: 3,
         english: 3,
+      },
+      morphology: {
+        type: 'preposition'
       },
     },
     {
@@ -65,6 +70,7 @@ export const numbers_21_7: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
+        type: 'noun'
       },
     },
     {
@@ -90,6 +96,7 @@ export const numbers_21_7: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
+        type: 'verb'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -117,6 +124,7 @@ export const numbers_21_7: Verse = {
         person: '1st',
         tense: 'perfect',
         stem: 'qal',
+        type: 'verb'
       },
       grammarPrefix: {
         englishLiteral: '"',
@@ -136,6 +144,9 @@ export const numbers_21_7: Verse = {
       order: {
         hebrew: 7,
         english: 7,
+      },
+      morphology: {
+        type: 'conjunction'
       },
     },
     {
@@ -159,6 +170,7 @@ export const numbers_21_7: Verse = {
         person: '1st',
         tense: 'perfect',
         stem: 'piel',
+        type: 'verb'
       },
     },
     {
@@ -189,6 +201,7 @@ export const numbers_21_7: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '2nd',
+        type: 'preposition'
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -214,6 +227,7 @@ export const numbers_21_7: Verse = {
         gender: 'masculine',
         number: 'singular',
         stem: 'hithpael',
+        type: 'verb'
       },
     },
     {
@@ -225,6 +239,9 @@ export const numbers_21_7: Verse = {
       order: {
         hebrew: 12,
         english: 12,
+      },
+      morphology: {
+        type: 'preposition'
       },
     },
     {
@@ -263,6 +280,7 @@ export const numbers_21_7: Verse = {
         person: '3rd',
         tense: 'jussive',
         stem: 'hiphil',
+        type: 'verb'
       },
     },
     {
@@ -280,6 +298,9 @@ export const numbers_21_7: Verse = {
       grammarSuffix: {
         englishNatural: '."',
       },
+      morphology: {
+        type: 'noun'
+      },
     },
     {
       hebrew: 'אֶת',
@@ -290,6 +311,9 @@ export const numbers_21_7: Verse = {
       order: {
         hebrew: 16,
         english: 0, // Not translated
+      },
+      morphology: {
+        type: 'conjunction'
       },
     },
     {
@@ -306,6 +330,7 @@ export const numbers_21_7: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: '."',
@@ -333,6 +358,7 @@ export const numbers_21_7: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'hithpael',
+        type: 'verb'
       },
     },
     {
@@ -348,6 +374,7 @@ export const numbers_21_7: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
+        type: 'noun'
       },
     },
     {
@@ -376,6 +403,7 @@ export const numbers_21_7: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
+        type: 'noun'
       },
       grammarSuffix: {
         englishLiteral: '.',
