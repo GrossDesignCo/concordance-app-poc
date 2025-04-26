@@ -1,8 +1,10 @@
-import { forwardRef } from "react";
-import { Choice, ChoiceProps } from "./Choice";
+import { forwardRef } from 'react';
+import { Choice, ChoiceProps } from './Choice';
 
 // Extends ChoiceProps but omits the 'type' property since it's always 'checkbox'
-export interface CheckboxProps extends Omit<ChoiceProps, "type"> {}
+export interface CheckboxProps extends Omit<ChoiceProps, 'type'> {
+  indeterminate?: boolean;
+}
 
 export const Checkbox = forwardRef<HTMLInputElement, CheckboxProps>(
   (props, ref) => {
@@ -10,4 +12,4 @@ export const Checkbox = forwardRef<HTMLInputElement, CheckboxProps>(
   }
 );
 
-Checkbox.displayName = "Checkbox";
+Checkbox.displayName = 'Checkbox';

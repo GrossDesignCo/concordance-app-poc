@@ -2,7 +2,6 @@ import { LanguageKey, TranslationWord } from '@/types';
 import { sortWords } from '@/utils/sortWords';
 import { Fragment } from 'react';
 import Word from './Word';
-import { resolveWordOrderKey } from '@/utils/resolveWordOrderKey';
 import cx from 'classnames';
 import styles from './String.module.css';
 import { resolveLanguage } from '@/utils/resolveLanguage';
