@@ -20,8 +20,8 @@ const SettingsContext = createContext<SettingsContextProps | undefined>(
 export const SettingsProvider = ({ children }: { children: ReactNode }) => {
   const [showOriginal, setShowOriginal] = useState(false);
   const [showTransliteration, setShowTransliteration] = useState(false);
-  const [showEnglishLiteral, setShowEnglishLiteral] = useState(true);
-  const [showEnglishNatural, setShowEnglishNatural] = useState(false);
+  const [showEnglishLiteral, setShowEnglishLiteral] = useState(false);
+  const [showEnglishNatural, setShowEnglishNatural] = useState(true);
   const [theme, setTheme] = useState('system');
 
   return (

@@ -13,19 +13,16 @@ export interface WordProps {
   language: LanguageKey;
   showGrammar?: boolean;
   asRawText?: boolean;
+  onClick?: (word: TranslationWord) => void;
 }
 
 export default function Word({
   word,
   language = 'englishLiteral',
   showGrammar,
+  onClick,
 }: WordProps) {
-  const {
-    selectedWords,
-    toggleWordSelection,
-    addWordToSelection,
-    selectRange,
-  } = useSelection();
+  const { selectedWords } = useSelection();
 
   const isSelected = selectedWords.includes(word);
   const selectedRoots = selectedWords.map((w) => w.root);
@@ -38,30 +35,16 @@ export default function Word({
   const { hasEntry } = useLexicon();
   const showEntryLink = hasEntry(word.transliteration);
 
-  // Handle desktop interactions
-  const handleClick = (e: React.MouseEvent) => {
-    if (e.shiftKey) {
-      // Range selection
-      if (selectedWords.length > 0) {
-        selectRange(selectedWords[0], word);
-      } else {
-        toggleWordSelection(word);
-      }
-    } else if (e.metaKey) {
-      // Add to selection
-      addWordToSelection(word);
-    } else {
-      // Toggle single word
-      toggleWordSelection(word);
-    }
-  };
-
   // Get the actual text of the word to render based on props + data
   const { wordText, formattedWordText } = formatWord(
     word,
     language,
     showGrammar
   );
+
+  if (!wordText) {
+    return null;
+  }
 
   // Accessibility attributes
   const ariaLabel = `${wordText}${isSelected ? ', selected' : ''}`;
@@ -81,7 +64,7 @@ export default function Word({
       {lineBreaksBefore}
 
       <span
-        onClick={handleClick}
+        onClick={() => onClick?.(word)}
         role="button"
         aria-label={ariaLabel}
         aria-pressed={ariaPressed}

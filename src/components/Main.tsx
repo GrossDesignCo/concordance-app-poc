@@ -11,6 +11,7 @@ import styles from './Main.module.css';
 import { LanguageKey } from '@/types';
 import { formatWord } from '@/utils/formatWord';
 import { sortWords } from '@/utils/sortWords';
+import { useEffect, useState } from 'react';
 
 const languages: LanguageKey[] = [
   'original',
@@ -23,7 +24,14 @@ export const Main = () => {
   const isDesktop = useMediaQuery('(min-width: 720px)');
   const isLandscape = useMediaQuery('(orientation: landscape)');
   const isLargeDesktop = useMediaQuery('(min-width: 150ch)');
-  const open = selectedWords.length > 0;
+
+  const [open, setOpen] = useState(false);
+
+  useEffect(() => {
+    if (selectedWords.length) {
+      setOpen(true);
+    }
+  }, [selectedWords.length]);
 
   const sheetTitle = languages
     .map((language) => {
@@ -58,6 +66,7 @@ export const Main = () => {
           }
           pushContent={isDesktop}
           borderless={isLargeDesktop}
+          onOpenChange={() => setOpen(false)}
         >
           <LexiconEntry />
         </Sheet>

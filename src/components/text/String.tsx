@@ -14,13 +14,15 @@ interface StringProps {
   delimiter?: string;
   showGrammar?: boolean;
   asRawText?: boolean;
+  onClick?: (word: TranslationWord, index: number) => void;
 }
 
 export const String = ({
   words,
   language,
   delimiter = ' ',
-  showGrammar,
+  onClick,
+  ...rest
 }: StringProps) => {
   const resolvedLanguage = resolveLanguage(words?.[0], language);
   // Get sorted words based on language order
@@ -34,7 +36,12 @@ export const String = ({
       {sortedWords.map((word, i) => {
         return (
           <Fragment key={`${word.transliteration}-${i}`}>
-            <Word word={word} language={language} showGrammar={showGrammar} />
+            <Word
+              word={word}
+              language={language}
+              onClick={(word) => onClick?.(word, i)}
+              {...rest}
+            />
             {i < words.length && delimiter}
           </Fragment>
         );

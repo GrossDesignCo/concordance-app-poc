@@ -1,10 +1,11 @@
 'use client';
-import type { Verse as VerseType, LanguageKey } from '@/types';
+import type { Verse as VerseType, LanguageKey, TranslationWord } from '@/types';
 import { useSettings } from '@/context/SettingsContext';
 import { String } from '../text/String';
 import styles from './Verse.module.css';
 import { useLexicon } from '@/context/LexiconContext';
 import { useEffect } from 'react';
+import { useSelection } from '@/context/SelectionContext';
 
 interface VerseProps {
   verse: VerseType;
@@ -17,6 +18,7 @@ export default function Verse({ verse }: VerseProps) {
     showOriginal,
     showTransliteration,
   } = useSettings();
+  const { toggleWordSelection } = useSelection();
 
   const languages: Record<LanguageKey, boolean> = {
     original: showOriginal,
@@ -41,6 +43,12 @@ export default function Verse({ verse }: VerseProps) {
     queryWordsForEntries,
   ]);
 
+  const handleClick = (word: TranslationWord, index: number) => {
+    console.log({ word, index });
+
+    toggleWordSelection(word);
+  };
+
   return (
     <>
       {verse.meta.number ? (
@@ -56,11 +64,14 @@ export default function Verse({ verse }: VerseProps) {
             language={language as LanguageKey}
             key={language}
             showGrammar
+            onClick={handleClick}
           />
         );
 
         return isShowingMultiple ? (
-          <div className={styles.VerseAsBlock}>{renderedString}</div>
+          <div className={styles.VerseAsBlock} key={language}>
+            {renderedString}
+          </div>
         ) : (
           renderedString
         );
