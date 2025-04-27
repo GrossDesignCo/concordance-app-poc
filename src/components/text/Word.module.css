@@ -3,12 +3,17 @@
   flex-direction: column;
   align-items: center;
   border-radius: var(--ds-radius-md);
+  box-shadow: 0 6px 0 -4px transparent;
   transition: 0.3s ease;
 }
 
 .TranslationWord.selectedRoot {
   background-color: var(--ds-bg-container);
   /* border: 1px solid var(--ds-fg-default); */
+}
+
+.TranslationWord.hasEntry:not(.selected, .selectedRoot) {
+  box-shadow: 0 6px 0 -4px var(--ds-bg-container-low-contrast);
 }
 
 /* Additional wrapper for selected word, to help encapsulate construction info */

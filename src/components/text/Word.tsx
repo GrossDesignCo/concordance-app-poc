@@ -6,6 +6,7 @@ import styles from './Word.module.css';
 import { LineBreaks } from './LineBreaks';
 import { resolveWordOrderKey } from '@/utils/resolveWordOrderKey';
 import { formatWord } from '@/utils/formatWord';
+import { useLexicon } from '@/context/LexiconContext';
 
 export interface WordProps {
   word: TranslationWord;
@@ -33,6 +34,9 @@ export default function Word({
   const { resolvedTheme } = useTheme();
 
   const reverseTheme = resolvedTheme === 'light' ? 'dark' : 'light';
+
+  const { hasEntry } = useLexicon();
+  const showEntryLink = hasEntry(word.transliteration);
 
   // Handle desktop interactions
   const handleClick = (e: React.MouseEvent) => {
@@ -85,6 +89,7 @@ export default function Word({
         className={cx(styles.TranslationWord, [`word=${wordText}`], {
           [styles.selected]: isSelected,
           [styles.selectedRoot]: hasSelectedRoot && !isSelected,
+          [styles.hasEntry]: showEntryLink,
         })}
       >
         <span

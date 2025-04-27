@@ -3,6 +3,8 @@ import type { Verse as VerseType, LanguageKey } from '@/types';
 import { useSettings } from '@/context/SettingsContext';
 import { String } from '../text/String';
 import styles from './Verse.module.css';
+import { useLexicon } from '@/context/LexiconContext';
+import { useEffect } from 'react';
 
 interface VerseProps {
   verse: VerseType;
@@ -26,6 +28,18 @@ export default function Verse({ verse }: VerseProps) {
   // (If there are multiple translations being shown)
   const isShowingMultiple =
     Object.values(languages).filter((val) => val === true).length > 1;
+
+  // Track which words have lexicon entries (used/rendered in Word component)
+  const { queryWordsForEntries } = useLexicon();
+
+  useEffect(() => {
+    queryWordsForEntries(verse.words.map((word) => word.transliteration));
+  }, [
+    verse.words,
+    verse.meta.chapter,
+    verse.meta.number,
+    queryWordsForEntries,
+  ]);
 
   return (
     <>
