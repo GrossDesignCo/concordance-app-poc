@@ -20,7 +20,7 @@ export const genesis_1_2: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -39,7 +39,7 @@ export const genesis_1_2: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -56,7 +56,7 @@ export const genesis_1_2: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
-        type: 'adjective'
+        type: 'adjective',
       },
     },
     {
@@ -74,7 +74,7 @@ export const genesis_1_2: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
-        type: 'adjective'
+        type: 'adjective',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -96,7 +96,7 @@ export const genesis_1_2: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
-        type: 'adjective'
+        type: 'adjective',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -119,7 +119,7 @@ export const genesis_1_2: Verse = {
         gender: 'masculine',
         number: 'plural',
         state: 'construct',
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -136,7 +136,7 @@ export const genesis_1_2: Verse = {
         gender: 'feminine',
         number: 'singular',
         state: 'absolute',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -158,7 +158,7 @@ export const genesis_1_2: Verse = {
         gender: 'feminine',
         number: 'singular',
         state: 'construct',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -182,7 +182,7 @@ export const genesis_1_2: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -204,7 +204,7 @@ export const genesis_1_2: Verse = {
         gender: 'feminine',
         number: 'singular',
         stem: 'piel',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -223,7 +223,7 @@ export const genesis_1_2: Verse = {
         gender: 'masculine',
         number: 'plural',
         state: 'construct',
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -240,7 +240,7 @@ export const genesis_1_2: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksAfter: {
         hebrew: 2,
@@ -261,5 +261,6 @@ export const genesis_1_2: Verse = {
       'And-the-land was waste and-void, and-darkness, on-face-of deep. And-Wind, Gods, was-stirring on-face-of the-waters.',
     englishNatural:
       'And the land was waste and void, and darkness, on the face of the deep. And the Wind of God was stirring on the face of the waters.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-04-28' },
   },
 };

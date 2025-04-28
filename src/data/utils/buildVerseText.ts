@@ -52,9 +52,20 @@ export function buildVerseText(
       result += word.grammarSuffix?.[type] || '';
     }
 
-    // Add space unless it's the last word
+    // Add space unless:
+    // 1. It's the last word
+    // 2. For Hebrew text, the current word ends with a maqaf (־)
+    // 3. For transliteration text, the current word ends with a hyphen (-)
     if (index < orderedWords.length - 1) {
-      result += ' ';
+      const wordText = word[type];
+      if (
+        (type === 'hebrew' && wordText?.endsWith('־')) ||
+        (type === 'transliteration' && wordText?.endsWith('-'))
+      ) {
+        // Don't add space after dash/maqaf
+      } else {
+        result += ' ';
+      }
     }
   });
 

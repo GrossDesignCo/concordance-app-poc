@@ -23,7 +23,7 @@ export const numbers_21_7: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -40,7 +40,7 @@ export const numbers_21_7: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -54,7 +54,7 @@ export const numbers_21_7: Verse = {
         english: 3,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -70,7 +70,7 @@ export const numbers_21_7: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -91,7 +91,7 @@ export const numbers_21_7: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -115,7 +115,7 @@ export const numbers_21_7: Verse = {
         person: '1st',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarPrefix: {
         englishLiteral: '"',
@@ -129,15 +129,15 @@ export const numbers_21_7: Verse = {
     {
       hebrew: 'כִּי',
       transliteration: 'ki',
-      englishLiteral: 'because',
-      englishNatural: 'because',
+      englishLiteral: 'that',
+      englishNatural: 'that',
       root: 'ki',
       order: {
         hebrew: 7,
         english: 7,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
     },
     {
@@ -157,7 +157,7 @@ export const numbers_21_7: Verse = {
         person: '1st',
         tense: 'perfect',
         stem: 'piel',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -188,7 +188,7 @@ export const numbers_21_7: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '2nd',
-        type: 'preposition'
+        type: 'preposition',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -210,7 +210,7 @@ export const numbers_21_7: Verse = {
         gender: 'masculine',
         number: 'singular',
         stem: 'hithpael',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -224,7 +224,7 @@ export const numbers_21_7: Verse = {
         english: 12,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -259,7 +259,7 @@ export const numbers_21_7: Verse = {
         person: '3rd',
         tense: 'jussive',
         stem: 'hiphil',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -278,7 +278,7 @@ export const numbers_21_7: Verse = {
         englishNatural: '."',
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -292,7 +292,7 @@ export const numbers_21_7: Verse = {
         english: 0, // Not translated
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
     },
     {
@@ -309,7 +309,7 @@ export const numbers_21_7: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '."',
@@ -332,7 +332,7 @@ export const numbers_21_7: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'hithpael',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -348,7 +348,7 @@ export const numbers_21_7: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -377,7 +377,7 @@ export const numbers_21_7: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -395,8 +395,8 @@ export const numbers_21_7: Verse = {
     transliteration:
       'vaYavo haAm el Moshe vaYomru chatanu ki dibarnu vaYHWH vaVeKha hitpalel el YHWH veYaSer meAleinu et haNachash vaYitpalel Moshe beAd haAm',
     englishLiteral:
-      'And-came the-people to Moses and-they-said, "we-have-sinned, because we-have-spoken against-I_AM and-against-you, pray to I_AM, and-may-he-turn_aside from-up_on-us ↳ the-snake." And-prayed Moses on-behalf-of the-people.',
+      'And-came the-people to Moses and-they-said, "we-have-sinned, that we-have-spoken against-I_AM and-against-you, pray to I_AM, and-may-he-turn_aside from-up_on-us ↳ the-snake." And-prayed Moses on-behalf-of the-people.',
     englishNatural:
-      'And the people came to Moses and said, "We have sinned, because we have spoken against I-AM and against you; pray to I-AM, and may he turn-aside the snake from upon us." And Moses prayed on behalf of the people.',
+      'And the people came to Moses and said, "We have sinned, that we have spoken against I-AM and against you; pray to I-AM, and may he turn-aside the snake from upon us." And Moses prayed on behalf of the people.',
   },
 };

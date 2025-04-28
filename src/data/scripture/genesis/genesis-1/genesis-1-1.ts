@@ -22,7 +22,7 @@ export const genesis_1_1: Verse = {
         gender: 'feminine',
         number: 'singular',
         state: 'absolute',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -45,7 +45,7 @@ export const genesis_1_1: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -65,7 +65,7 @@ export const genesis_1_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -95,7 +95,7 @@ export const genesis_1_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -124,7 +124,7 @@ export const genesis_1_1: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -141,5 +141,6 @@ export const genesis_1_1: Verse = {
     transliteration: 'beReshit bara Elohim et haShamayim veEt haAretz',
     englishLiteral: 'In-heading, created, Gods, ↳ the-heavens and-↳ the-land.',
     englishNatural: 'In heading, God created the heavens and the land.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-04-28' },
   },
 };

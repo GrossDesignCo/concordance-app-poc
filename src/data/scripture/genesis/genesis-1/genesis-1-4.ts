@@ -10,12 +10,12 @@ export const genesis_1_4: Verse = {
       hebrew: 'וַיַּ֧רְא',
       transliteration: 'vaYar',
       englishLiteral: 'And-saw',
-      englishNatural: 'And he saw',
+      englishNatural: 'saw',
       root: 'raah',
       prefixes: ['va'],
       order: {
         hebrew: 1,
-        english: 1,
+        english: 2,
       },
       morphology: {
         gender: 'masculine',
@@ -23,28 +23,27 @@ export const genesis_1_4: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
-        englishNatural: ',',
       },
     },
     {
       hebrew: 'אֱלֹהִ֛ים',
       transliteration: 'Elohim',
       englishLiteral: 'Gods',
-      englishNatural: 'God',
+      englishNatural: 'And God',
       root: 'eloah',
       suffixes: ['im'],
       order: {
         hebrew: 2,
-        english: 2,
+        english: 1,
       },
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -75,28 +74,31 @@ export const genesis_1_4: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishNatural: ';',
       },
     },
     {
       hebrew: 'כִּי־',
       transliteration: 'ki-',
       englishLiteral: 'that',
-      englishNatural: 'that',
+      englishNatural: '',
       root: 'ki',
       order: {
         hebrew: 5,
         english: 5,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
     },
     {
       hebrew: 'ט֑וֹב',
       transliteration: 'tov',
       englishLiteral: 'good',
-      englishNatural: 'it was good',
+      englishNatural: 'good',
       root: 'tov',
       order: {
         hebrew: 6,
@@ -106,23 +108,23 @@ export const genesis_1_4: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
-        type: 'adjective'
+        type: 'adjective',
       },
       grammarSuffix: {
-        englishLiteral: ',',
-        englishNatural: ',',
+        englishLiteral: '.',
+        englishNatural: '.',
       },
     },
     {
       hebrew: 'וַיַּבְדֵּ֣ל',
       transliteration: 'vaYavdel',
       englishLiteral: 'And-separated',
-      englishNatural: 'And he separated',
+      englishNatural: 'separated',
       root: 'badal',
       prefixes: ['va'],
       order: {
         hebrew: 7,
-        english: 7,
+        english: 8,
       },
       morphology: {
         gender: 'masculine',
@@ -130,31 +132,36 @@ export const genesis_1_4: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'piel',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
-        englishNatural: ',',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
       },
     },
     {
       hebrew: 'אֱלֹהִ֔ים',
       transliteration: 'Elohim',
       englishLiteral: 'Gods',
-      englishNatural: 'God',
+      englishNatural: 'And God',
       root: 'eloah',
       suffixes: ['im'],
       order: {
         hebrew: 8,
-        english: 8,
+        english: 7,
       },
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -168,7 +175,7 @@ export const genesis_1_4: Verse = {
         english: 9,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -185,7 +192,7 @@ export const genesis_1_4: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -200,7 +207,7 @@ export const genesis_1_4: Verse = {
         english: 11,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -217,7 +224,7 @@ export const genesis_1_4: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -230,9 +237,13 @@ export const genesis_1_4: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ׃',
-    transliteration: 'vaYar Elohim et-haOr ki-tov vaYavdel Elohim beyn haOr uBeyn haChoshekh',
-    englishLiteral: 'And-saw, Gods, ↳ the-light that good, And-separated, Gods, between the-light and-between the-darkness.',
-    englishNatural: 'And God saw the light, that it was good, and God separated between the light and between the darkness.',
+    hebrew:
+      'וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ',
+    transliteration:
+      'vaYar Elohim et-haOr ki-tov vaYavdel Elohim beyn haOr uBeyn haChoshekh',
+    englishLiteral:
+      'And-saw, Gods, ↳ the-light that good. And-separated, Gods, between the-light and-between the-darkness.',
+    englishNatural:
+      'And God saw the light; good. And God separated between the light and between the darkness.',
   },
-}; 
+};
