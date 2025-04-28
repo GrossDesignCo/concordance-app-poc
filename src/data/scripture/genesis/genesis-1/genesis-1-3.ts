@@ -58,7 +58,7 @@ export const genesis_1_3: Verse = {
       root: 'hayah',
       order: {
         hebrew: 3,
-        english: 3,
+        english: 4,
       },
       morphology: {
         gender: 'masculine',
@@ -70,6 +70,8 @@ export const genesis_1_3: Verse = {
       },
       grammarPrefix: {
         englishLiteral: '"',
+      },
+      grammarSuffix: {
         englishNatural: '."',
       },
     },
@@ -81,7 +83,7 @@ export const genesis_1_3: Verse = {
       root: 'or',
       order: {
         hebrew: 4,
-        english: 4,
+        english: 3,
       },
       morphology: {
         gender: 'masculine',
@@ -105,7 +107,7 @@ export const genesis_1_3: Verse = {
       prefixes: ['va'],
       order: {
         hebrew: 5,
-        english: 5,
+        english: 6,
       },
       morphology: {
         gender: 'masculine',
@@ -118,6 +120,9 @@ export const genesis_1_3: Verse = {
       grammarSuffix: {
         englishNatural: '.',
       },
+      lineBreaksAfter: {
+        english: 2,
+      },
     },
     {
       hebrew: 'אֽוֹר',
@@ -127,7 +132,7 @@ export const genesis_1_3: Verse = {
       root: 'or',
       order: {
         hebrew: 6,
-        english: 6,
+        english: 5,
       },
       morphology: {
         gender: 'masculine',
@@ -135,15 +140,11 @@ export const genesis_1_3: Verse = {
         state: 'absolute',
         type: 'noun',
       },
-      grammarPrefix: {
-        englishNatural: '"',
-      },
       grammarSuffix: {
         englishLiteral: '.',
       },
       lineBreaksAfter: {
         hebrew: 2,
-        english: 2,
       },
     },
   ],
@@ -153,5 +154,5 @@ export const genesis_1_3: Verse = {
     englishLiteral: 'And-said, Gods, "Let-be light." And-was light.',
     englishNatural: 'And God said, "Let light be." And light was.',
     lastReviewed: { name: 'Matt Gross', date: '2025-04-28' },
-},
+  },
 };

@@ -36,7 +36,9 @@ describe('Verse Translation Validation Tests: Ensure data + grammar matches expe
         expectedTranslations.hebrew ? 'hebrew' : 'greek'
       );
       expect(generatedTransliteration).toBeTruthy();
-      expect(generatedTransliteration).toMatch(expectedTranslations.transliteration); // Strings should match exactly
+      expect(generatedTransliteration).toMatch(
+        expectedTranslations.transliteration
+      ); // Strings should match exactly
     } else {
       fail('Verse is missing transliteration translation');
     }
@@ -57,7 +59,9 @@ describe('Verse Translation Validation Tests: Ensure data + grammar matches expe
         expectedTranslations.hebrew ? 'hebrew' : 'greek'
       );
       expect(generatedEnglishLiteral).toBeTruthy();
-      expect(generatedEnglishLiteral).toMatch(expectedTranslations.englishLiteral); // Strings should match exactly
+      expect(generatedEnglishLiteral).toMatch(
+        expectedTranslations.englishLiteral
+      ); // Strings should match exactly
     } else {
       fail('Verse is missing englishLiteral translation');
     }
@@ -78,7 +82,9 @@ describe('Verse Translation Validation Tests: Ensure data + grammar matches expe
         'english'
       );
       expect(generatedEnglishNatural).toBeTruthy();
-      expect(generatedEnglishNatural).toMatch(expectedTranslations.englishNatural); // Strings should match exactly
+      expect(generatedEnglishNatural).toMatch(
+        expectedTranslations.englishNatural
+      ); // Strings should match exactly
     } else {
       fail('Verse is missing englishNatural translation');
     }
@@ -87,13 +93,13 @@ describe('Verse Translation Validation Tests: Ensure data + grammar matches expe
   // Test all verses in scripture
   // Iterate through all books
   scripture.books.forEach((book) => {
-    describe(`${book.name}`, () => {
+    describe(`${book.meta.name}`, () => {
       // Iterate through all chapters in the book
       book.chapters.forEach((chapter) => {
         describe(`Chapter ${chapter.number}`, () => {
           // Iterate through all verses in the chapter
           chapter.verses.forEach((verse) => {
-            const reference = `${book.name} ${chapter.number}:${verse.meta.verse}`;
+            const reference = `${book.meta.name} ${chapter.number}:${verse.meta.number}`;
 
             test(`${reference} hebrew translation matches data`, () => {
               testVerseHebrew(verse);
