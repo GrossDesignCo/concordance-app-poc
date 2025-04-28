@@ -40,9 +40,9 @@ export type WordGender = 'masculine' | 'feminine' | 'neuter' | 'common';
  * Grammatical number indicating quantity
  * - singular: One item/person
  * - plural: Multiple items/people
- * Note: Hebrew also has dual number for pairs, which we might want to add
+ * - dual: Exactly two items (Hebrew feature for pairs)
  */
-export type WordNumber = 'singular' | 'plural';
+export type WordNumber = 'singular' | 'plural' | 'dual';
 
 /**
  * Person indicates the participant in the discourse
@@ -381,10 +381,6 @@ export interface TranslationWord {
   root?: HebrewRoot | GreekRoot; // Hebrew root if known
   prefixes?: HebrewPrefix[]; // Separable prefixes
   suffixes?: HebrewSuffix[]; // Separable suffixes
-  rootAppearance?: {
-    hebrew: string;
-    conjugation: string;
-  }; // For special conjugated forms of the root
 
   // number of line breaks to render between this word and the next block (usually for paragraphs)
   lineBreaksAfter?: {

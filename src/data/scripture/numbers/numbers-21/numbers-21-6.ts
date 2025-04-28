@@ -134,11 +134,6 @@ export const numbers_21_6: Verse = {
       root: 'nashakh',
       prefixes: ['va'],
       suffixes: ['u'],
-      rootAppearance: {
-        hebrew: 'יְנַשְּׁכוּ',
-        conjugation:
-          'imperfect 3rd person masculine plural with vav-consecutive',
-      },
       order: {
         hebrew: 7,
         english: 6,
@@ -194,11 +189,6 @@ export const numbers_21_6: Verse = {
       englishNatural: 'died',
       root: 'mut',
       prefixes: ['va'],
-      rootAppearance: {
-        hebrew: 'יָּמָת',
-        conjugation:
-          'imperfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 10,
         english: 11, // Order shifts in English

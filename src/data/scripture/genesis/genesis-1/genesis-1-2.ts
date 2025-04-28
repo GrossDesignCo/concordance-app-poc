@@ -29,10 +29,6 @@ export const genesis_1_2: Verse = {
       englishLiteral: 'was',
       englishNatural: 'was',
       root: 'hayah',
-      rootAppearance: {
-        hebrew: 'הָיְתָ֥ה',
-        conjugation: 'perfect 3rd person feminine singular',
-      },
       order: {
         hebrew: 2,
         english: 2,

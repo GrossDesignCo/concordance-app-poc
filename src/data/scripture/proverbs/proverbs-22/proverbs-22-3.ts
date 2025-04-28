@@ -29,10 +29,6 @@ export const proverbs_22_3: Verse = {
       englishLiteral: 'sees',
       englishNatural: 'sees',
       root: 'raah_see',
-      rootAppearance: {
-        hebrew: 'רָאָה',
-        conjugation: 'perfect 3rd person masculine singular',
-      },
       order: {
         hebrew: 2,
         english: 2,
@@ -70,10 +66,6 @@ export const proverbs_22_3: Verse = {
       englishNatural: 'and hides himself',
       root: 'satar',
       prefixes: ['ve', 'ni'],
-      rootAppearance: {
-        hebrew: 'סְתָּר',
-        conjugation: 'niphal perfect 3rd person masculine singular',
-      },
       order: {
         hebrew: 4,
         english: 4,
@@ -116,10 +108,6 @@ export const proverbs_22_3: Verse = {
       englishLiteral: 'pass-on',
       englishNatural: 'go on',
       root: 'avar',
-      rootAppearance: {
-        hebrew: 'עָבְרוּ',
-        conjugation: 'qal perfect 3rd person plural',
-      },
       order: {
         hebrew: 6,
         english: 6,
@@ -141,10 +129,6 @@ export const proverbs_22_3: Verse = {
       root: 'anash',
       prefixes: ['ve', 'ne'],
       suffixes: ['u'],
-      rootAppearance: {
-        hebrew: 'עֱנָשׁוּ',
-        conjugation: 'niphal perfect 3rd person plural',
-      },
       order: {
         hebrew: 7,
         english: 7,

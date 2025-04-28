@@ -81,11 +81,6 @@ export const numbers_21_7: Verse = {
       root: 'amar',
       prefixes: ['va'],
       suffixes: ['u'],
-      rootAppearance: {
-        hebrew: 'יֹּאמְרוּ',
-        conjugation:
-          'imperfect 3rd person masculine plural with vav-consecutive',
-      },
       order: {
         hebrew: 5,
         english: 5,
@@ -110,10 +105,6 @@ export const numbers_21_7: Verse = {
       englishNatural: 'We have sinned',
       root: 'chata',
       suffixes: ['nu'],
-      rootAppearance: {
-        hebrew: 'חָטָאנוּ',
-        conjugation: 'perfect 1st person plural',
-      },
       order: {
         hebrew: 6,
         english: 6,
@@ -156,10 +147,6 @@ export const numbers_21_7: Verse = {
       englishNatural: 'we have spoken',
       root: 'dabar',
       suffixes: ['nu'],
-      rootAppearance: {
-        hebrew: 'דִבַּרְנוּ',
-        conjugation: 'perfect 1st person plural',
-      },
       order: {
         hebrew: 8,
         english: 8,
@@ -215,10 +202,6 @@ export const numbers_21_7: Verse = {
       englishNatural: 'pray',
       root: 'palal',
       prefixes: ['hit'],
-      rootAppearance: {
-        hebrew: 'הִתְפַּלֵּל',
-        conjugation: 'imperative masculine singular',
-      },
       order: {
         hebrew: 11,
         english: 11,
@@ -266,10 +249,6 @@ export const numbers_21_7: Verse = {
       englishNatural: 'and may he turn-aside',
       root: 'sur',
       prefixes: ['ve'],
-      rootAppearance: {
-        hebrew: 'יָסֵר',
-        conjugation: 'jussive 3rd person masculine singular',
-      },
       order: {
         hebrew: 14,
         english: 14,
@@ -343,11 +322,6 @@ export const numbers_21_7: Verse = {
       englishNatural: 'prayed',
       root: 'palal',
       prefixes: ['va', 'yit'],
-      rootAppearance: {
-        hebrew: 'יִּתְפַּלֵּל',
-        conjugation:
-          'imperfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 18,
         english: 18, // Position shifts in English

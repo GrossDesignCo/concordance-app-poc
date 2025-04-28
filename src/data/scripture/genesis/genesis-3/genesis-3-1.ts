@@ -29,10 +29,6 @@ export const genesis_3_1: Verse = {
       englishLiteral: 'was',
       englishNatural: 'was',
       root: 'hayah',
-      rootAppearance: {
-        hebrew: 'הָיָה',
-        conjugation: 'perfect 3rd person masculine singular',
-      },
       order: {
         hebrew: 2,
         english: 2,
@@ -135,10 +131,6 @@ export const genesis_3_1: Verse = {
       englishLiteral: 'made',
       englishNatural: 'had made',
       root: 'asah',
-      rootAppearance: {
-        hebrew: 'עָשָׂה',
-        conjugation: 'perfect 3rd person masculine singular',
-      },
       order: {
         hebrew: 8,
         english: 10, // Changes position in English
@@ -189,11 +181,6 @@ export const genesis_3_1: Verse = {
       englishNatural: 'And he said',
       root: 'amar',
       prefixes: ['va'],
-      rootAppearance: {
-        hebrew: 'יֹּאמֶר',
-        conjugation:
-          'imperfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 11,
         english: 11,
@@ -281,10 +268,6 @@ export const genesis_3_1: Verse = {
       englishLiteral: 'Said',
       englishNatural: 'said',
       root: 'amar',
-      rootAppearance: {
-        hebrew: 'אָמַר',
-        conjugation: 'perfect 3rd person masculine singular',
-      },
       order: {
         hebrew: 16,
         english: 17, // Changes position in English
@@ -342,10 +325,6 @@ export const genesis_3_1: Verse = {
       englishNatural: 'You shall eat',
       root: 'akhal',
       suffixes: ['u'],
-      rootAppearance: {
-        hebrew: 'תֹאכְלוּ',
-        conjugation: 'imperfect 2nd person plural',
-      },
       order: {
         hebrew: 19,
         english: 18,

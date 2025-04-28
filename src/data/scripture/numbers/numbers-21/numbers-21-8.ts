@@ -82,10 +82,6 @@ export const numbers_21_8: Verse = {
       englishLiteral: 'Make',
       englishNatural: 'Make',
       root: 'asah',
-      rootAppearance: {
-        hebrew: 'עֲשֵׂה',
-        conjugation: 'imperative masculine singular',
-      },
       order: {
         hebrew: 5,
         english: 5,
@@ -148,10 +144,6 @@ export const numbers_21_8: Verse = {
       englishNatural: 'and place',
       root: 'sim',
       prefixes: ['ve'],
-      rootAppearance: {
-        hebrew: 'שִׂים',
-        conjugation: 'imperative masculine singular',
-      },
       order: {
         hebrew: 8,
         english: 8,
@@ -220,11 +212,6 @@ export const numbers_21_8: Verse = {
       englishNatural: 'and it shall come about',
       root: 'hayah',
       prefixes: ['ve'],
-      rootAppearance: {
-        hebrew: 'הָיָה',
-        conjugation:
-          'perfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 12,
         english: 12,
@@ -266,10 +253,6 @@ export const numbers_21_8: Verse = {
       englishNatural: 'who is struck',
       root: 'nashakh',
       prefixes: ['ha'],
-      rootAppearance: {
-        hebrew: 'נָּשׁוּךְ',
-        conjugation: 'passive participle masculine singular',
-      },
       order: {
         hebrew: 14,
         english: 14,
@@ -292,11 +275,6 @@ export const numbers_21_8: Verse = {
       englishNatural: 'and sees',
       root: 'raah_see',
       prefixes: ['ve'],
-      rootAppearance: {
-        hebrew: 'רָאָה',
-        conjugation:
-          'perfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 15,
         english: 15,
@@ -339,11 +317,6 @@ export const numbers_21_8: Verse = {
       englishNatural: 'will live',
       root: 'chayah',
       prefixes: ['va'],
-      rootAppearance: {
-        hebrew: 'חָי',
-        conjugation:
-          'perfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 17,
         english: 17,

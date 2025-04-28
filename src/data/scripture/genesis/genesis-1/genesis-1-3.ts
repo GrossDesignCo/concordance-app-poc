@@ -13,11 +13,6 @@ export const genesis_1_3: Verse = {
       englishNatural: 'said',
       root: 'amar',
       prefixes: ['va'],
-      rootAppearance: {
-        hebrew: 'יֹּ֥אמֶר',
-        conjugation:
-          'imperfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 1,
         english: 2,
@@ -61,10 +56,6 @@ export const genesis_1_3: Verse = {
       englishLiteral: 'Let-be',
       englishNatural: 'Let there be',
       root: 'hayah',
-      rootAppearance: {
-        hebrew: 'יְהִ֣י',
-        conjugation: 'jussive 3rd person masculine singular',
-      },
       order: {
         hebrew: 3,
         english: 3,
@@ -110,11 +101,6 @@ export const genesis_1_3: Verse = {
       englishNatural: 'And there was',
       root: 'hayah',
       prefixes: ['va'],
-      rootAppearance: {
-        hebrew: 'יְהִי',
-        conjugation:
-          'imperfect 3rd person masculine singular with vav-consecutive',
-      },
       order: {
         hebrew: 5,
         english: 5,

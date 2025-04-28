@@ -75,10 +75,10 @@ describe('Word Reference Validation Tests: Ensure all string references exist in
         describe(`Chapter ${chapter.number}`, () => {
           // Iterate through all verses in the chapter
           chapter.verses.forEach((verse) => {
-            const reference = `${book.meta.name} ${chapter.number}:${verse.meta.verse}`;
+            const reference = `${book.meta.name} ${chapter.number}:${verse.meta.number}`;
             
             describe(`${reference}`, () => {
-              validateVerse(verse, book.meta.name, chapter.number, verse.meta.verse);
+              validateVerse(verse, book.meta.name, chapter.number, verse.meta.number);
             });
           });
         });

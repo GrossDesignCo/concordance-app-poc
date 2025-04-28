@@ -74,7 +74,7 @@ export const prefixes: Record<string, PrefixElement> = {
       hebrew: 'מ',
       transliteration: 'mi',
       englishLiteral: 'from',
-      englishNatural: 'than',
+      englishNatural: 'from',
     },
     tav: {
       hebrew: 'ת',
@@ -102,10 +102,10 @@ export const prefixes: Record<string, PrefixElement> = {
       englishNatural: '',
     },
     le: {
-      hebrew: 'לְ',
+      hebrew: 'ל',
       transliteration: 'le',
-      englishLiteral: 'for',
-      englishNatural: 'for',
+      englishLiteral: 'to',
+      englishNatural: 'to',
     },
     hit: {
       hebrew: 'הִתְ',
@@ -113,5 +113,42 @@ export const prefixes: Record<string, PrefixElement> = {
       englishLiteral: 'self',
       englishNatural: '',
     },
+    bi: {
+      hebrew: 'ב',
+      transliteration: 'bi',
+      englishLiteral: 'with',
+      englishNatural: 'with',
+    },
+    ye: {
+      hebrew: 'י',
+      transliteration: 'ye',
+      englishLiteral: 'he-will',
+      englishNatural: 'he will',
+    },
+    va: {
+      hebrew: 'ו',
+      transliteration: 'va',
+      englishLiteral: 'and',
+      englishNatural: 'and',
+    },
+    ha: {
+      hebrew: 'ה',
+      transliteration: 'ha',
+      englishLiteral: 'the',
+      englishNatural: 'the',
+    },
+    ti: {
+      hebrew: 'ת',
+      transliteration: 'ti',
+      englishLiteral: 'you-shall',
+      englishNatural: 'you shall',
+    },
+    me: {
+      hebrew: 'מ',
+      transliteration: 'me',
+      englishLiteral: 'from',
+      englishNatural: 'from',
+    },
+    // Isaiah prefixes
     // Add other common prefixes
   };

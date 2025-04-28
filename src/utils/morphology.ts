@@ -4,8 +4,10 @@ const morphologyMap: Record<WordGender | WordNumber, string> = {
   masculine: 'm',
   feminine: 'f',
   neuter: 'n',
+  common: 'c',
   plural: 'p',
   singular: 's',
+  dual: 'd',
 };
 
 interface Morphology {
