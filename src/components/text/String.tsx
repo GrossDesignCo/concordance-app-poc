@@ -24,15 +24,15 @@ export const String = ({
   onClick,
   ...rest
 }: StringProps) => {
-  const resolvedLanguage = resolveLanguage(words?.[0], language);
+  // Resolve `original` to actual language used for styling
+  const resolvedLanguage = resolveLanguage(words?.[0], language as LanguageKey);
+
   // Get sorted words based on language order
   const sortedWords = sortWords(words, language);
+  const dir = resolvedLanguage === 'hebrew' ? 'rtl' : undefined;
 
   return (
-    <span
-      className={cx(styles.String, styles[language])}
-      dir={resolvedLanguage === 'hebrew' ? 'rtl' : undefined}
-    >
+    <span className={cx(styles.String, styles[language])} dir={dir}>
       {sortedWords.map((word, i) => {
         return (
           <Fragment key={`${word.transliteration}-${i}`}>

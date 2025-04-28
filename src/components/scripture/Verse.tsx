@@ -6,6 +6,7 @@ import styles from './Verse.module.css';
 import { useLexicon } from '@/context/LexiconContext';
 import { useEffect } from 'react';
 import { useSelection } from '@/context/SelectionContext';
+import { resolveLanguage } from '@/utils/resolveLanguage';
 
 interface VerseProps {
   verse: VerseType;
@@ -58,18 +59,24 @@ export default function Verse({ verse }: VerseProps) {
       {Object.entries(languages).map(([language, show]) => {
         if (!show) return null;
 
+        // Resolve `original` to actual language used for styling
+        const resolvedLanguage = resolveLanguage(
+          verse.words?.[0],
+          language as LanguageKey
+        );
+        const dir = resolvedLanguage === 'hebrew' ? 'rtl' : undefined;
         const renderedString = (
           <String
             words={verse.words}
             language={language as LanguageKey}
-            key={language}
+            key={resolvedLanguage}
             showGrammar
             onClick={handleClick}
           />
         );
 
         return isShowingMultiple ? (
-          <div className={styles.VerseAsBlock} key={language}>
+          <div className={styles.VerseAsBlock} dir={dir} key={language}>
             {renderedString}
           </div>
         ) : (

@@ -4,6 +4,7 @@ import cx from 'classnames';
 import styles from './Sheet.module.css';
 import { Button } from '../components/Button';
 import { X } from '@phosphor-icons/react';
+import { useMediaQuery } from '@/hooks/useMediaQuery';
 
 interface SheetProps {
   open: boolean;
@@ -32,6 +33,7 @@ export function Sheet({
 }: SheetProps) {
   const [expanded, setExpanded] = useState(initialExpanded);
   const contentRef = useRef<HTMLDivElement>(null);
+  const isDesktop = useMediaQuery('(min-width: 720px)');
 
   // Reset expanded state when sheet is closed
   useEffect(() => {
@@ -51,23 +53,40 @@ export function Sheet({
       return;
 
     const body = document.querySelector('body');
+    if (!body) return;
 
-    if (body && open) {
-      const sheetWidth = maxWidth || 'min(75ch, 50vw)';
-      body.style.setProperty('--ds-sheet-width', sheetWidth);
-    } else if (body && !open) {
-      body.style.setProperty('--ds-sheet-width', '0');
-    }
-
-    return () => {
-      if (body) {
-        body.style.setProperty('--ds-sheet-width', '');
+    const updateSheetWidth = () => {
+      console.log('updateSheetWidth', { open, isDesktop });
+      if (open && isDesktop) {
+        const sheetWidth = maxWidth || 'min(75ch, 50vw)';
+        body.style.setProperty('--ds-sheet-width', sheetWidth);
       }
     };
-  }, [open, pushContent, position, maxWidth]);
+
+    // Initial update
+    updateSheetWidth();
+
+    // Add resize listener
+    window.addEventListener('resize', updateSheetWidth);
+
+    return () => {
+      window.removeEventListener('resize', updateSheetWidth);
+    };
+  }, [open, pushContent, position, maxWidth, isDesktop]);
 
   return (
-    <DialogPrimitive.Root open={open} onOpenChange={onOpenChange} modal={false}>
+    <DialogPrimitive.Root
+      open={open}
+      onOpenChange={(open: boolean) => {
+        onOpenChange?.(open);
+        // Clean up offset value
+        if (!open) {
+          const body = document.querySelector('body');
+          body?.style.setProperty('--ds-sheet-width', '0');
+        }
+      }}
+      modal={false}
+    >
       <DialogPrimitive.Portal>
         <DialogPrimitive.Content
           className={cx(
