@@ -214,4 +214,34 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'serve',
     englishNatural: 'serve',
   },
+  eido: {
+    greek: 'εἶδον',
+    transliteration: 'eidon',
+    englishLiteral: 'I-saw',
+    englishNatural: 'I saw',
+  },
+  ek: {
+    greek: 'ἐκ',
+    transliteration: 'ek',
+    englishLiteral: 'out-of',
+    englishNatural: 'from',
+  },
+  ouranos: {
+    greek: 'οὐρανός',
+    transliteration: 'ouranos',
+    englishLiteral: 'heaven',
+    englishNatural: 'heaven',
+  },
+  echo: {
+    greek: 'ἔχω',
+    transliteration: 'echo',
+    englishLiteral: 'have',
+    englishNatural: 'have',
+  },
+  epi: {
+    greek: 'ἐπί',
+    transliteration: 'epi',
+    englishLiteral: 'upon',
+    englishNatural: 'in',
+  },
 }; 

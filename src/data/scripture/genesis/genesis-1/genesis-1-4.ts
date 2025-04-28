@@ -11,7 +11,7 @@ export const genesis_1_4: Verse = {
       transliteration: 'vaYar',
       englishLiteral: 'And-saw',
       englishNatural: 'saw',
-      root: 'raah',
+      root: 'raah_see',
       prefixes: ['va'],
       order: {
         hebrew: 1,
@@ -245,5 +245,6 @@ export const genesis_1_4: Verse = {
       'And-saw, Gods, ↳ the-light that good. And-separated, Gods, between the-light and-between the-darkness.',
     englishNatural:
       'And God saw the light; good. And God separated between the light and between the darkness.',
-  },
+    lastReviewed: { name: 'Matt Gross', date: '2025-04-28' },
+},
 };

@@ -658,4 +658,22 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'fruit',
     englishNatural: 'fruit',
   },
+  tov: {
+    hebrew: 'טוב',
+    transliteration: 'tov',
+    englishLiteral: 'good',
+    englishNatural: 'good',
+  },
+  badal: {
+    hebrew: 'בדל',
+    transliteration: 'badal',
+    englishLiteral: 'separate',
+    englishNatural: 'separate',
+  },
+  beyn: {
+    hebrew: 'בין',
+    transliteration: 'beyn',
+    englishLiteral: 'between',
+    englishNatural: 'between',
+  },
 };
