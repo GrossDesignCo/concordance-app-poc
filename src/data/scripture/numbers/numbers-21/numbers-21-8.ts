@@ -339,7 +339,7 @@ export const numbers_21_8: Verse = {
       },
     },
   ],
-  translations: {
+  expectedTranslations: {
     hebrew:
       'וַיֹּאמֶר יְהוָה אֶל מֹשֶׁה עֲשֵׂה לְךָ שָׂרָף וְשִׂים אֹתוֹ עַל נֵס וְהָיָה כָּל הַנָּשׁוּךְ וְרָאָה אֹתוֹ וָחָי',
     transliteration:

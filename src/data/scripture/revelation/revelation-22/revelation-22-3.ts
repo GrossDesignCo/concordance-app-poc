@@ -384,7 +384,7 @@ export const revelation_22_3: Verse = {
       },
     },
   ],
-  translations: {
+  expectedTranslations: {
     greek: 'καὶ πᾶν κατάθεμα οὐκ ἔσται ἔτι· καὶ ὁ θρόνος τοῦ θεοῦ καὶ τοῦ ἀρνίου ἐν αὐτῇ ἔσται, καὶ οἱ δοῦλοι αὐτοῦ λατρεύσουσιν αὐτῷ·',
     transliteration: 'kai pan katathema ouk estai eti; kai ho thronos tou theou kai tou arniou en autē estai, kai hoi douloi autou latreusousin autō;',
     englishLiteral: 'and every curse not will-be any-longer; and the throne of-the God and of-the Lamb in it will-be, and the servants his will-serve him;',

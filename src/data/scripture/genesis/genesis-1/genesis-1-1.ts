@@ -136,7 +136,7 @@ export const genesis_1_1: Verse = {
       },
     },
   ],
-  translations: {
+  expectedTranslations: {
     hebrew: 'בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ',
     transliteration: 'beReshit bara Elohim et haShamayim veEt haAretz',
     englishLiteral: 'In-heading, created, Gods, ↳ the-heavens and-↳ the-land.',

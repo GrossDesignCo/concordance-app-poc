@@ -320,7 +320,7 @@ export const john_1_1: Verse = {
       },
     },
   ],
-  translations: {
+  expectedTranslations: {
     greek:
       'Ἐν ἀρχῇ ἦν ὁ λόγος καὶ ὁ λόγος ἦν πρὸς τὸν θεόν καὶ θεὸς ἦν ὁ λόγος',
     transliteration:

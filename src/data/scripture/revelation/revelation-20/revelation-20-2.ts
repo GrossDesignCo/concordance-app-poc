@@ -356,7 +356,7 @@ export const revelation_20_2: Verse = {
       },
     },
   ],
-  translations: {
+  expectedTranslations: {
     greek: 'καὶ ἐκράτησεν τὸν δράκοντα, τὸν ὄφιν τὸν ἀρχαῖον, ὅς ἐστιν Διάβολος καὶ ὁ Σατανᾶς, καὶ ἔδησεν αὐτὸν χίλια ἔτη.',
     transliteration: 'kai ekratēsen ton drakonta ton ophin ton archaion hos estin Diabolos kai ho Satanas kai edēsen auton chilia etē',
     englishLiteral: 'and he-seized the dragon, the snake, the ancient, who is Accuser and the Adversary, and he-bound him thousand years',

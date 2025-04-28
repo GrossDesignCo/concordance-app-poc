@@ -147,7 +147,7 @@ export const proverbs_22_3: Verse = {
       },
     },
   ],
-  translations: {
+  expectedTranslations: {
     hebrew: 'עָרוּם רָאָה רָעָה וְנִסְתָּר וּפְתָיִים עָבְרוּ וְנֶעֱנָשׁוּ',
     transliteration: "arum ra'ah ra`ah veNiStar uFetayim avru veNeEnashu",
     englishLiteral:

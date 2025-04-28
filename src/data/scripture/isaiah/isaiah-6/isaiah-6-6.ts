@@ -193,7 +193,7 @@ export const isaiah_6_6: Verse = {
       },
     },
   ],
-  translations: {
+  expectedTranslations: {
     hebrew: 'וַיָּעָף אֵלַי אֶחָד מִן הַשְּׂרָפִים וּבְיָדוֹ רִצְפָּה בְּמֶלְקַחַיִם לָקַח מֵעַל הַמִּזְבֵּחַ',
     transliteration: 'vaYaof elai echad min haSeraphim uVeYado ritspah beMelkachayim lakach meAl haMizbeach',
     englishLiteral: 'And-flew to-me one from the-burning_ones and-in-his-hand live_coal with-the-tongs he-took from-upon the-altar',

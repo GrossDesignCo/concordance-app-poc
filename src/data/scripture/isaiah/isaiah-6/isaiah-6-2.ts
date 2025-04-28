@@ -266,7 +266,7 @@ export const isaiah_6_2: Verse = {
       },
     },
   ],
-  translations: {
+  expectedTranslations: {
     hebrew: 'שְׂרָפִים עֹמְדִים מִמַּעַל לוֹ שֵׁשׁ כְּנָפַיִם לְאֶחָד בִּשְׁתַּיִם יְכַסֶּה פָּנָיו וּבִשְׁתַּיִם יְכַסֶּה רַגְלָיו וּבִשְׁתַּיִם יְעוֹפֵף',
     transliteration: 'seraphim omedim miMaal lo shesh kenafayim leEchad biShtayim yeKhasseh panav uViShtayim yeKhasseh raglav uViShtayim yeOfef',
     englishLiteral: 'burning_ones standing from-above to-him six wings to-one with-two he-covers his-face and-with-two he-covers his-feet and-with-two he-flies',

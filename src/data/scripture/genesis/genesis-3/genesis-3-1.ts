@@ -392,7 +392,7 @@ export const genesis_3_1: Verse = {
       },
     },
   ],
-  translations: {
+  expectedTranslations: {
     hebrew:
       'וְהַנָּחָשׁ הָיָה עָרוּם מִכֹּל חַיַּת הַשָּׂדֶה אֲשֶׁר עָשָׂה יְהוָה אֱלֹהִים וַיֹּאמֶר אֶל הָאִשָּׁה אַף כִּי אָמַר אֱלֹהִים לֹא תֹאכְלוּ מִכֹּל עֵץ הַגָּן',
     transliteration:

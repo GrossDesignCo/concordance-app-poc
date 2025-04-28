@@ -421,7 +421,11 @@ export interface Verse {
   meta: VerseMeta;
   words: TranslationWord[];
   // Different renderings of the complete verse for test/validation purposes
-  translations?: {
+  expectedTranslations?: {
+    lastReviewed?: {
+      date: string;
+      translator: string;
+    };
     hebrew?: string; // full hebrew string, should follow hebrew word order
     transliteration?: string; // full transliteration of the hebrew string, should follow hebrew word order
     englishLiteral: string; // Our hyper-literal translation, should follow hebrew/greek word order

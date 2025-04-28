@@ -272,7 +272,7 @@ export const numbers_21_6: Verse = {
       },
     },
   ],
-  translations: {
+  expectedTranslations: {
     hebrew:
       'וַיְשַׁלַּח יְהוָה בָּעָם אֵת הַנְּחָשִׁים הַשְּׂרָפִים וַיְנַשְּׁכוּ אֶת הָעָם וַיָּמָת עַם רָב מִיִּשְׂרָאֵל',
     transliteration:

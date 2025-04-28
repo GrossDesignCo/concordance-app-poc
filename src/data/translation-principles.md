@@ -1,66 +1,59 @@
 # Translation Principles
 
-The goal is to create as close to a 1:1 Hebrew:English mapping as possible, even when treating words/concepts in seemingly strange ways to a typical english reader. Ideally over time, this mapping can become both a useful tool to students of scripture and maybe to some degree help bring a familiarity with the biblical mind/conceptualization to English speakers.
+The goal is to create as close to a 1:1 Hebrew:English mapping as possible, even when treating words/concepts in seemingly strange ways to a typical English reader. This mapping serves as both a useful tool for students of scripture and helps bring familiarity with the biblical mind/conceptualization to English speakers.
 
-## Principles
+## AI Usage
+
+1. Translations may be initially AI-generated, then later human-reviewed/edited
+2. AIs should never edit translations or entries that have been human-approved without explicit permission
+
+## Transliteration Principles
+
+1. Use underscores for single Hebrew words translated as English phrases
+   - "Hesed" = "steadfast_love"
+   - "Eleazer" = "God_My_Help"
+      - "God_My_Help will inherit my house"
+   - "Israel" = "Struggles_With_God"
+
+2. Compound words should use camelCase to indicate prefixes
+   - "בְּרֵאשִׁ֖ית" = "beReshit" = "in-heading"
+
+## English Literal Translation Principles
+
+1. Remove transliterations in favor of direct translations (for both traditionally transliterated words and names)
+   - Greek "Angelos" = "Messenger"
+   - Hebrew "Seraphim" = "Burning Ones"
+      - Always use the translated meaning rather than the transliterated form
+   - Noah = Rest
+      - "God rested Man in the garden"
+      - "And he called his name Rest, saying 'At last this one will give us rest'"
 
 1. Remove filler words
+   - Typical translation of Gen 1:3: "then God said 'Let there be light', and there was light"
+   - Actual Hebrew: "vaiYomer elohim yehi owr wayHi owr"
+   - Literal translation: "And-said, God, 'be, light,' and-was, light."
 
-- Typical translation of Gen 1:3: “then God said ‘Let there be light’, and there was light”
-- Actual hebrew: “vaiyomer elohim yehi owr wayhi owr”
-- Syntactically literal translation: “And-he-said, God, be, light, and-was, light.”
-- More literal translation: “And God said ‘light be.’ and light was.”
+2. Preserve the direct root in the English
+   - Use a 1:1 Hebrew-to-English mapping whenever possible
+   - Hebrew "ruach" = "wind" (not "spirit" or "breath")
+   - Allow context and usage to reshape the meaning of the English words over successive readings
 
-2. Remove transliterations
+3. Match word complexity where possible
+   - "Ra'ah" = "bad" (not "disaster" or "evil")
 
-- English “Angel” = Greek “Angelos” = Messenger
-- Just translate Angelos as Messenger all the time
-- Hebrew “Seraphim”, just translate as “Fire-serpents”
+4. Preserve word distinctions
+   - When translating multiple related Hebrew words with different roots, always use different English words
+   - Hebrew "Leviathan" = "Sea-Dragon", Hebrew "Tannin" = "Sea_Serpent", Hebrew "Nachash" = "Snake"
+   - Maintain the distinction between similar concepts
 
-3. Translate names to capture word-play between people and actions
+5. Expressly render Hebrew את / et (direct object marker)
+   - Keep Hebrew word order
+   - Use ↳ to mark every direct object that Hebrew marks with את
+   - Don't add interpretive markers
+   - Let the "strangeness" of some constructions help readers recognize Hebrew's distinct way of expressing relationships   
 
-- Noah = Rest
-- God rested Man in the garden
-- And he called his name Rest (Noah), saying “At last this one will give us rest”
+## English Natural Translation Principles
 
-4. Use a 1:1 Hebrew-to-English mapping where possible, even if awkward
-
-- Eg. “Ruach” = “wind” or “breath” or “spirit”. Go with “wind”, and then just render it as wind everywhere ruach is used.
-- Allow the context and usage to re-shape the meaning of “wind” in the English reader’s mind over many successive readings.
-
-5. Match the word-complexity where possible
-
-- Eg “Raah”, one syllable, means “bad”
-- Instead of translating it as “disaster” or “evil”, just use “bad” always
-
-6. Use dashes when translating a single Hebrew word or name as an English phrase or multiple words
-
-- Eg. “Hesed” = “steadfast-love”
-- “Eleazer” = “God-my-help”
-- “God-My-Help (Eleazer) will inherit my house”
-
-7. Compound words should also be dashed
-
-- Eg. “beReshit” = “in-heading
-
-7. Multiple word phrases in hebrew should not be dashed
-
-- Eg. “Tohu vaVohu” = “Waste and-Void”
-
-9. When translating multiple related words in hebrew that have different roots, always use different english words to preserve the distinction.
-10. For prefixes and small grammatical elements:
-
-- Always use dashes to connect inseparable prepositions to their words (be-, le-, ke-, etc.)
-- Only include 'the' in translation when הַ (ha-) is actually present in the Hebrew
-- Preserve the difference between construct chains (no 'the') and definite nouns (with ha-)"
-
-11. Expressly render את / et. / direct-object-marker / ↳
-
-- Keep Hebrew word order
-- Use ↳ to mark every direct object that Hebrew marks with את
-- Don't add interpretive markers, even for features like totality
-- Let the "strangeness" of some constructions help readers recognize Hebrew's distinct way of expressing relationships
-
-12. Note gender/plurality when present in hebrew
-
-- Eg. And-said,(m,s) Gods, 'be light,' - (m,s) = (masculine, singular), which helps counter confusion when reading “Gods” for Elohim
+1. Maintain readability while preserving meaning
+   - Balance literal accuracy with natural English expression
+   - Ensure the translation remains comprehensible while staying true to the original phrasing

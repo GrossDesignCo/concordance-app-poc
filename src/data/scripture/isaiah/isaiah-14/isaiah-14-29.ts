@@ -283,7 +283,7 @@ export const isaiah_14_29: Verse = {
       },
     },
   ],
-  translations: {
+  expectedTranslations: {
     hebrew: 'אַל תִּשְׂמְחִי פְלֶשֶׁת כֻּלֵּךְ כִּי נִשְׁבַּר שֵׁבֶט מַכֵּךְ כִּי מִשֹּׁרֶשׁ נָחָשׁ יֵצֵא צֶפַע וּפִרְיוֹ שָׂרָף מְעוֹפֵף',
     transliteration: 'al tiSmechi Peleshet kulekh ki nishbar shevet makekh ki miShoresh nachash yetze tsefa uFiryo saraph meOfef',
     englishLiteral: 'Do-not you-shall-rejoice Philistia all-of-you because is-broken rod of-him-who-strikes-you for from-root snake shall-come-forth viper and-its-fruit burning_one flying',

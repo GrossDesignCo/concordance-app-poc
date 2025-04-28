@@ -252,7 +252,7 @@ export const genesis_1_2: Verse = {
       },
     },
   ],
-  translations: {
+  expectedTranslations: {
     hebrew:
       'וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֙הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְהֹ֑ום וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם',
     transliteration:
