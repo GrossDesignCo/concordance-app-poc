@@ -35,6 +35,34 @@ This project uses a distinctive approach to translation that prioritizes:
 
 For complete details, see [translation-principles.md](./translation-principles.md).
 
+## Translation Review System
+
+### LastReviewed Field
+Each verse file includes a `lastReviewed` field in its `expectedTranslations` object:
+```typescript
+expectedTranslations: {
+  // ... translations ...
+  lastReviewed: {
+    name: 'Reviewer Name', // from git config user.name
+    date: '2024-04-28'    // ISO date format
+  }
+}
+```
+
+This field is automatically updated via a pre-commit hook when verse files are modified.
+
+### Automated Review System
+- Uses Husky and lint-staged for pre-commit hooks
+- Script: `scripts/update-last-reviewed.js`
+- Triggers on any changes to files matching `src/data/scripture/**/*.ts`
+- Updates `lastReviewed` with the current git user and date
+
+### Purpose
+The review system ensures that:
+1. All translation changes are tracked
+2. Human oversight is documented
+3. Changes by AI assistants are properly reviewed and validated
+
 ## Getting Started
 
 To work with this data:
