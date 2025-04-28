@@ -1,8 +1,7 @@
 #!/usr/bin/env node
 
-const fs = require('fs');
-const path = require('path');
-const { execSync } = require('child_process');
+import { readFileSync, writeFileSync } from 'fs';
+import { execSync } from 'child_process';
 
 // Get git user name and current date
 const gitUser = execSync('git config user.name').toString().trim();
@@ -18,29 +17,35 @@ if (!filePath) {
 
 try {
   // Read the file content
-  let content = fs.readFileSync(filePath, 'utf8');
+  let content = readFileSync(filePath, 'utf8');
   
-  // Check if the file has a translations object
-  if (content.includes('translations:')) {
-    // Check if lastReviewed already exists
-    if (content.includes('lastReviewed:')) {
-      // Update existing lastReviewed
-      content = content.replace(
-        /lastReviewed: \{([^}]*)\}/,
-        `lastReviewed: { name: '${gitUser}', date: '${currentDate}' }`
-      );
-    } else {
-      // Add lastReviewed before the closing brace of translations
-      content = content.replace(
-        /(translations: \{)([^}]*)(\})/,
-        `$1$2  lastReviewed: { name: '${gitUser}', date: '${currentDate}' },\n$3`
-      );
+  // Function to update lastReviewed in a translations object
+  const updateTranslations = (translationsKey) => {
+    if (content.includes(`${translationsKey}:`)) {
+      // Check if lastReviewed already exists
+      if (content.includes('lastReviewed:')) {
+        // Update existing lastReviewed
+        content = content.replace(
+          /lastReviewed: \{([^}]*)\}/,
+          `lastReviewed: { name: '${gitUser}', date: '${currentDate}' }`
+        );
+      } else {
+        // Add lastReviewed before the closing brace of translations
+        content = content.replace(
+          new RegExp(`(${translationsKey}: \\{)([^}]*)(\\})`),
+          `$1$2  lastReviewed: { name: '${gitUser}', date: '${currentDate}' },\n$3`
+        );
+      }
     }
-    
-    // Write the updated content back to the file
-    fs.writeFileSync(filePath, content);
-    console.log(`Updated lastReviewed in ${filePath}`);
-  }
+  };
+
+  // Try both translations and expectedTranslations
+  updateTranslations('translations');
+  updateTranslations('expectedTranslations');
+  
+  // Write the updated content back to the file
+  writeFileSync(filePath, content);
+  console.log(`Updated lastReviewed in ${filePath}`);
 } catch (error) {
   console.error(`Error processing ${filePath}:`, error);
   process.exit(1);

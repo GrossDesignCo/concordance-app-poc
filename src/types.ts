@@ -424,7 +424,7 @@ export interface Verse {
   expectedTranslations?: {
     lastReviewed?: {
       date: string;
-      translator: string;
+      name: string;
     };
     hebrew?: string; // full hebrew string, should follow hebrew word order
     transliteration?: string; // full transliteration of the hebrew string, should follow hebrew word order

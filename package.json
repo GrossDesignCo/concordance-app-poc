@@ -2,6 +2,7 @@
   "name": "concordance-app",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -49,7 +50,7 @@
   },
   "lint-staged": {
     "src/data/scripture/**/*.ts": [
-      "node scripts/update-last-reviewed.js"
+      "node --experimental-modules scripts/update-last-reviewed.js"
     ]
   }
 }
