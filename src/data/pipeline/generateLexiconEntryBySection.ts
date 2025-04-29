@@ -180,6 +180,7 @@ Remember to follow these principles:
   console.log({ newSection });
 
   // Get the generated content for this section
+  // @ts-expect-error - Anthropic types don't match docs
   return newSection.content[0].text.trim();
 }
 
@@ -212,6 +213,7 @@ export async function generateLexiconEntry(word: TranslationWord) {
 
     // Skip sections marked for skipping
     if (sectionContent !== 'SKIP_SECTION') {
+      // @ts-expect-error - id comes from above but TS can't read it
       generatedSections[section.id] = sectionContent;
       completeEntry += sectionContent + '\n\n';
     }

@@ -19,7 +19,7 @@ export default function Verse({ verse }: VerseProps) {
     showOriginal,
     showTransliteration,
   } = useSettings();
-  const { selectSingleWord, toggleWordSelection } = useSelection();
+  const { selectSingleWord } = useSelection();
 
   // Determine what to show
   const languages: Record<LanguageKey, boolean> = {

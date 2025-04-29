@@ -87,5 +87,6 @@ It should generally have the following sections
   });
 
   // Get the generated content for this section
+  // @ts-expect-error - Anthropic types don't match docs
   return result.content[0].text.trim();
 }
