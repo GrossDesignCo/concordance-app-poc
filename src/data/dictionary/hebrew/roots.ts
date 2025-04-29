@@ -238,6 +238,49 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'not',
     englishNatural: 'not',
   },
+  // Genesis 3:3 roots
+  peri: {
+    hebrew: 'פְּרִי',
+    transliteration: 'peri',
+    englishLiteral: 'fruit',
+    englishNatural: 'fruit',
+  },
+  tokh: {
+    hebrew: 'תָּוֶךְ',
+    transliteration: 'tokh',
+    englishLiteral: 'midst',
+    englishNatural: 'midst',
+  },
+  min: {
+    hebrew: 'מִן',
+    transliteration: 'min',
+    englishLiteral: 'from',
+    englishNatural: 'from',
+  },
+  naga: {
+    hebrew: 'נגע',
+    transliteration: 'naga',
+    englishLiteral: 'touch',
+    englishNatural: 'touch',
+  },
+  be: {
+    hebrew: 'בְּ',
+    transliteration: 'be',
+    englishLiteral: 'in',
+    englishNatural: 'in',
+  },
+  mut: {
+    hebrew: 'מות',
+    transliteration: 'mut',
+    englishLiteral: 'die',
+    englishNatural: 'die',
+  },
+  pen: {
+    hebrew: 'פֶּן',
+    transliteration: 'pen',
+    englishLiteral: 'lest',
+    englishNatural: 'lest',
+  },
   // Numbers 21:6-9 roots
   saraph: {
     hebrew: 'שׂרף',
@@ -250,12 +293,6 @@ export const roots: Record<string, RootElement> = {
     transliteration: 'shalach',
     englishLiteral: 'send',
     englishNatural: 'send',
-  },
-  mut: {
-    hebrew: 'מות',
-    transliteration: 'mut',
-    englishLiteral: 'die',
-    englishNatural: 'die',
   },
   rav: {
     hebrew: 'רב',
@@ -364,12 +401,6 @@ export const roots: Record<string, RootElement> = {
     transliteration: 'yisrael',
     englishLiteral: 'Israel',
     englishNatural: 'Israel',
-  },
-  min: {
-    hebrew: 'מִן',
-    transliteration: 'min',
-    englishLiteral: 'from',
-    englishNatural: 'from',
   },
   // Additional roots from Numbers 21:1-9
   derekh: {
@@ -651,12 +682,6 @@ export const roots: Record<string, RootElement> = {
     transliteration: 'nakah',
     englishLiteral: 'strike',
     englishNatural: 'strike',
-  },
-  peri: {
-    hebrew: 'פְּרִי',
-    transliteration: 'peri',
-    englishLiteral: 'fruit',
-    englishNatural: 'fruit',
   },
   tov: {
     hebrew: 'טוב',

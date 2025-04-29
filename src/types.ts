@@ -421,15 +421,15 @@ export interface Verse {
   meta: VerseMeta;
   words: TranslationWord[];
   // Different renderings of the complete verse for test/validation purposes
-  expectedTranslations?: {
+  expectedTranslations: {
     lastReviewed?: {
       date: string;
       name: string;
     };
     hebrew?: string; // full hebrew string, should follow hebrew word order
-    transliteration?: string; // full transliteration of the hebrew string, should follow hebrew word order
+    transliteration: string; // full transliteration of the hebrew string, should follow hebrew word order
     englishLiteral: string; // Our hyper-literal translation, should follow hebrew/greek word order
-    englishNatural?: string; // More natural English, should follow english word order
+    englishNatural: string; // More natural English, should follow english word order
     greek?: string; // Following Greek syntax, should follow greek word order
   };
 }
@@ -437,6 +437,8 @@ export interface Verse {
 export interface Grammar {
   englishLiteral?: string;
   englishNatural?: string;
+  greek?: string;
+  transliteration?: string;
 }
 
 export interface Chapter {

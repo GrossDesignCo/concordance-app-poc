@@ -53,6 +53,13 @@ export const suffixes: Record<string, SuffixElement> = {
       englishNatural: 'of',
       function: 'feminine construct marker',
     },
+    construct_y: {
+      hebrew: 'י',
+      transliteration: 'y',
+      englishLiteral: 'of',
+      englishNatural: 'of',
+      function: 'masculine construct marker',
+    },
     plural_verb_u: {
       hebrew: 'ו',
       transliteration: '',
@@ -60,7 +67,6 @@ export const suffixes: Record<string, SuffixElement> = {
       englishNatural: '',
       function: 'plural verb marker',
     },
-    // Numbers 21:6-9 suffixes
     nu: {
       hebrew: 'נו',
       transliteration: 'nu',
@@ -103,48 +109,12 @@ export const suffixes: Record<string, SuffixElement> = {
       englishNatural: 'them',
       function: '3rd person masculine singular/plural object',
     },
-    // Isaiah suffixes
     ayim: {
       hebrew: 'ים',
       transliteration: 'ayim',
       englishLiteral: 's',
       englishNatural: '',
       function: 'dual',
-    },
-    o: {
-      hebrew: 'ו',
-      transliteration: 'o',
-      englishLiteral: 'his',
-      englishNatural: 'his',
-      function: '3rd person masculine singular possessive',
-    },
-    nu: {
-      hebrew: 'נו',
-      transliteration: 'nu',
-      englishLiteral: 'our',
-      englishNatural: 'our',
-      function: '1st person plural possessive',
-    },
-    kha: {
-      hebrew: 'ך',
-      transliteration: 'kha',
-      englishLiteral: 'your',
-      englishNatural: 'your',
-      function: '2nd person masculine singular possessive',
-    },
-    ehu: {
-      hebrew: 'הו',
-      transliteration: 'ehu',
-      englishLiteral: 'him',
-      englishNatural: 'him',
-      function: '3rd person masculine singular object',
-    },
-    enu: {
-      hebrew: 'נו',
-      transliteration: 'enu',
-      englishLiteral: 'us',
-      englishNatural: 'us',
-      function: '1st person plural object',
     },
     av: {
       hebrew: 'יו',
@@ -174,5 +144,11 @@ export const suffixes: Record<string, SuffixElement> = {
       englishNatural: 'you',
       function: '2nd person feminine singular',
     },
-    // Add other common suffixes
+    un: {
+      hebrew: 'וּן',
+      transliteration: 'un',
+      englishLiteral: 'you',
+      englishNatural: 'you',
+      function: '2nd person plural imperfect',
+    },
   };

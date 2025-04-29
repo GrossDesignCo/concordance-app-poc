@@ -82,6 +82,12 @@ export const prefixes: Record<string, PrefixElement> = {
       englishLiteral: 'you-shall',
       englishNatural: 'you shall',
     },
+    pen: {
+      hebrew: 'פֶּן',
+      transliteration: 'pen',
+      englishLiteral: 'lest',
+      englishNatural: 'lest',
+    },
     // Numbers 21:6-9 prefixes
     ba: {
       hebrew: 'בַּ',
@@ -119,35 +125,11 @@ export const prefixes: Record<string, PrefixElement> = {
       englishLiteral: 'with',
       englishNatural: 'with',
     },
-    ye: {
-      hebrew: 'י',
-      transliteration: 'ye',
-      englishLiteral: 'he-will',
-      englishNatural: 'he will',
-    },
-    va: {
-      hebrew: 'ו',
-      transliteration: 'va',
-      englishLiteral: 'and',
-      englishNatural: 'and',
-    },
-    ha: {
-      hebrew: 'ה',
-      transliteration: 'ha',
-      englishLiteral: 'the',
-      englishNatural: 'the',
-    },
     ti: {
       hebrew: 'ת',
       transliteration: 'ti',
       englishLiteral: 'you-shall',
       englishNatural: 'you shall',
-    },
-    me: {
-      hebrew: 'מ',
-      transliteration: 'me',
-      englishLiteral: 'from',
-      englishNatural: 'from',
     },
     // Isaiah prefixes
     // Add other common prefixes

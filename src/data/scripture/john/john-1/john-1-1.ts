@@ -36,7 +36,7 @@ export const john_1_1: Verse = {
         number: 'singular',
         case: 'dative',
         state: 'anarthrous',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -55,7 +55,7 @@ export const john_1_1: Verse = {
         tense: 'imperfect',
         voice: 'active',
         mood: 'indicative',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -74,7 +74,6 @@ export const john_1_1: Verse = {
         number: 'singular',
         case: 'nominative',
         state: 'definite',
-        type: 'noun'
       },
     },
     {
@@ -92,11 +91,13 @@ export const john_1_1: Verse = {
         number: 'singular',
         case: 'nominative',
         state: 'definite',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
         englishNatural: ',',
+        greek: ',',
+        transliteration: ',',
       },
     },
     {
@@ -129,7 +130,6 @@ export const john_1_1: Verse = {
         number: 'singular',
         case: 'nominative',
         state: 'definite',
-        type: 'noun'
       },
     },
     {
@@ -147,7 +147,7 @@ export const john_1_1: Verse = {
         number: 'singular',
         case: 'nominative',
         state: 'definite',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -166,7 +166,7 @@ export const john_1_1: Verse = {
         tense: 'imperfect',
         voice: 'active',
         mood: 'indicative',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -200,7 +200,6 @@ export const john_1_1: Verse = {
         number: 'singular',
         case: 'accusative',
         state: 'definite',
-        type: 'noun'
       },
     },
     {
@@ -218,11 +217,13 @@ export const john_1_1: Verse = {
         number: 'singular',
         case: 'accusative',
         state: 'definite',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
         englishNatural: ',',
+        greek: ',',
+        transliteration: ',',
       },
     },
     {
@@ -254,10 +255,11 @@ export const john_1_1: Verse = {
         number: 'singular',
         case: 'nominative',
         state: 'anarthrous',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishNatural: '.',
+        greek: ',',
       },
     },
     {
@@ -276,7 +278,7 @@ export const john_1_1: Verse = {
         tense: 'imperfect',
         voice: 'active',
         mood: 'indicative',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -295,7 +297,6 @@ export const john_1_1: Verse = {
         number: 'singular',
         case: 'nominative',
         state: 'definite',
-        type: 'noun'
       },
     },
     {
@@ -313,10 +314,12 @@ export const john_1_1: Verse = {
         number: 'singular',
         case: 'nominative',
         state: 'definite',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '.',
+        greek: '.',
+        transliteration: '.',
       },
     },
   ],
@@ -324,10 +327,11 @@ export const john_1_1: Verse = {
     greek:
       'Ἐν ἀρχῇ ἦν ὁ λόγος καὶ ὁ λόγος ἦν πρὸς τὸν θεόν καὶ θεὸς ἦν ὁ λόγος',
     transliteration:
-      'En archē ēn ho logos kai ho logos ēn pros ton theon kai theos ēn ho logos',
+      'En archē ēn ho logos, kai ho logos ēn pros ton theon, kai theos ēn ho logos',
     englishLiteral:
       'In first was the Word, and the Word was with the God, and God was the Word.',
     englishNatural:
       'In the beginning was the Word, and the Word was with the God, and the Word was God.',
-  },
+    lastReviewed: { name: 'Matt Gross', date: '2025-04-29' },
+},
 };

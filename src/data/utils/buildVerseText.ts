@@ -29,15 +29,20 @@ export function buildVerseText(
 
   let result = '';
 
+  const languagesWithGrammar = [
+    'greek',
+    'transliteration',
+    'englishLiteral',
+    'englishNatural',
+  ];
+
   orderedWords.forEach((word, index) => {
     // Skip words that don't have the requested property
     if (!word[type]) return;
 
     // Add any grammar prefix if present and includeSuffixes is true
-    if (
-      (type === 'englishLiteral' || type === 'englishNatural') &&
-      word.grammarPrefix
-    ) {
+    if (languagesWithGrammar.includes(type) && word.grammarPrefix) {
+      // @ts-expect-error - using a subset of grammar keys, which TS doesn't recognize
       result += word.grammarPrefix?.[type] || '';
     }
 
@@ -45,10 +50,8 @@ export function buildVerseText(
     result += word[type];
 
     // Add any grammar suffix if present and includeSuffixes is true
-    if (
-      (type === 'englishLiteral' || type === 'englishNatural') &&
-      word.grammarSuffix
-    ) {
+    if (languagesWithGrammar.includes(type) && word.grammarSuffix) {
+      // @ts-expect-error - using a subset of grammar keys, which TS doesn't recognize
       result += word.grammarSuffix?.[type] || '';
     }
 

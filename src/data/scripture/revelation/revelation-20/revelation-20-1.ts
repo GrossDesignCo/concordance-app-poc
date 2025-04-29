@@ -129,6 +129,8 @@ export const revelation_20_1: Verse = {
       grammarSuffix: {
         englishLiteral: ',',
         englishNatural: ',',
+        greek: ',',
+        transliteration: ',',
       },
     },
     {
@@ -225,6 +227,8 @@ export const revelation_20_1: Verse = {
       grammarSuffix: {
         englishLiteral: ',',
         englishNatural: ',',
+        greek: ',',
+        transliteration: ',',
       },
     },
     {
@@ -346,6 +350,8 @@ export const revelation_20_1: Verse = {
       grammarSuffix: {
         englishLiteral: '.',
         englishNatural: '.',
+        greek: '.',
+        transliteration: '.',
       },
     },
   ],
@@ -353,11 +359,11 @@ export const revelation_20_1: Verse = {
     greek:
       'Καὶ εἶδον ἄγγελον καταβαίνοντα ἐκ τοῦ οὐρανοῦ ἔχοντα τὴν κλεῖν τῆς ἀβύσσου καὶ ἅλυσιν μεγάλην ἐπὶ τὴν χεῖρα αὐτοῦ',
     transliteration:
-      'Kai eidon angelon katabainonta ek tou ouranou echonta tēn klein tēs abussou kai halusin megalēn epi tēn cheira autou',
+      'Kai eidon angelon katabainonta ek tou ouranou, echonta tēn klein tēs abussou, kai halusin megalēn epi tēn cheira autou.',
     englishLiteral:
       'and I-saw messenger descending out-of the heaven, having the key the abyss, and chain great upon the hand his.',
     englishNatural:
       'and I saw a messenger descending from the heaven, having the key the abyss, and a chain great in the hand of his.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-04-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-04-29' },
   },
 };

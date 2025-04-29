@@ -18,10 +18,15 @@ The goal is to create as close to a 1:1 Hebrew:English mapping as possible, even
 
 1. Compound words should use camelCase to indicate prefixes.
 
-   - "בְּרֵאשִׁ֖ית" = "beReshit"
-   - "וְאֵ֥ת הָאָֽרֶץ" - "veEt haAretz"
+   - "בְּרֵאשִׁ֖ית" -> "beReshit"
+   - "וְאֵ֥ת הָאָֽרֶץ" -> "veEt haAretz"
 
 1. Like Hebrew and Greek, transliterations should not include any additional grammar/punctuation marks unless explicitly present in the original language.
+
+1. Transliterations should not use special characters, as these are frequently used as both keys in data/files as well as words.
+
+   - "ἐγὼ" -> ego
+   - "ἀποστέλλω" -> apostello
 
 ## English-Literal Translation Principles
 

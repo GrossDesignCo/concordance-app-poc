@@ -71,10 +71,10 @@ export const roots: Record<string, RootElement> = {
     englishNatural: 'ancient',
   },
   hos: {
-    greek: 'ὅς',
+    greek: 'ὡς',
     transliteration: 'hos',
-    englishLiteral: 'who',
-    englishNatural: 'who',
+    englishLiteral: 'as',
+    englishNatural: 'as',
   },
   diabolos: {
     greek: 'Διάβολος',
@@ -244,4 +244,76 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'upon',
     englishNatural: 'in',
   },
-}; 
+  idou: {
+    greek: 'Ἰδοὺ',
+    transliteration: 'idou',
+    englishLiteral: 'behold',
+    englishNatural: 'behold',
+  },
+  ego: {
+    greek: 'ἐγὼ',
+    transliteration: 'ego',
+    englishLiteral: 'I',
+    englishNatural: 'I',
+  },
+  apostello: {
+    greek: 'ἀποστέλλω',
+    transliteration: 'apostello',
+    englishLiteral: 'send',
+    englishNatural: 'send',
+  },
+  su: {
+    greek: 'ὑμᾶς',
+    transliteration: 'humas',
+    englishLiteral: 'you',
+    englishNatural: 'you',
+  },
+  probaton: {
+    greek: 'πρόβατα',
+    transliteration: 'probata',
+    englishLiteral: 'sheep',
+    englishNatural: 'sheep',
+  },
+  mesos: {
+    greek: 'μέσῳ',
+    transliteration: 'meso',
+    englishLiteral: 'middle',
+    englishNatural: 'middle',
+  },
+  lukos: {
+    greek: 'λύκων',
+    transliteration: 'lukon',
+    englishLiteral: 'wolf',
+    englishNatural: 'wolf',
+  },
+  ginomai: {
+    greek: 'γίνεσθε',
+    transliteration: 'ginesthe',
+    englishLiteral: 'become',
+    englishNatural: 'become',
+  },
+  oun: {
+    greek: 'οὖν',
+    transliteration: 'oun',
+    englishLiteral: 'therefore',
+    englishNatural: 'therefore',
+  },
+  phronimos: {
+    greek: 'φρόνιμοι',
+    transliteration: 'phronimoi',
+    englishLiteral: 'shrewd',
+    englishNatural: 'shrewd',
+  },
+  akeraios: {
+    greek: 'ἀκέραιοι',
+    transliteration: 'akeraioi',
+    englishLiteral: 'innocent',
+    englishNatural: 'innocent',
+  },
+  peristera: {
+    greek: 'περιστεραί',
+    transliteration: 'peristerai',
+    englishLiteral: 'doves',
+    englishNatural: 'doves',
+  },
+};
