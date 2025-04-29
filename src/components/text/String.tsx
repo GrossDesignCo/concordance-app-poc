@@ -14,7 +14,7 @@ interface StringProps {
   delimiter?: string;
   showGrammar?: boolean;
   asRawText?: boolean;
-  onClick?: (word: TranslationWord, index: number) => void;
+  onClick?: (e: MouseEvent, word: TranslationWord, index: number) => void;
 }
 
 export const String = ({
@@ -39,7 +39,7 @@ export const String = ({
             <Word
               word={word}
               language={language}
-              onClick={(word) => onClick?.(word, i)}
+              onClick={(e, word) => onClick?.(e, word, i)}
               {...rest}
             />
             {i < words.length && delimiter}

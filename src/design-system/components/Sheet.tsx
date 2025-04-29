@@ -60,6 +60,8 @@ export function Sheet({
       if (open && isDesktop) {
         const sheetWidth = maxWidth || 'min(75ch, 50vw)';
         body.style.setProperty('--ds-sheet-width', sheetWidth);
+      } else {
+        body?.style.setProperty('--ds-sheet-width', '0');
       }
     };
 
@@ -80,10 +82,10 @@ export function Sheet({
       onOpenChange={(open: boolean) => {
         onOpenChange?.(open);
         // Clean up offset value
-        if (!open) {
-          const body = document.querySelector('body');
-          body?.style.setProperty('--ds-sheet-width', '0');
-        }
+        // if (!open) {
+        //   const body = document.querySelector('body');
+        //   body?.style.setProperty('--ds-sheet-width', '0');
+        // }
       }}
       modal={false}
     >

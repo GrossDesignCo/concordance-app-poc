@@ -3,6 +3,7 @@ import { createContext, useContext, useState, ReactNode } from 'react';
 
 interface SelectionContextProps {
   selectedWords: TranslationWord[];
+  selectSingleWord: (word: TranslationWord) => void;
   toggleWordSelection: (word: TranslationWord) => void;
   addWordToSelection: (word: TranslationWord) => void;
   selectRange: (startWord: TranslationWord, endWord: TranslationWord) => void;
@@ -16,11 +17,16 @@ const SelectionContext = createContext<SelectionContextProps | undefined>(
 export const SelectionProvider = ({ children }: { children: ReactNode }) => {
   const [selectedWords, setSelectedWords] = useState<TranslationWord[]>([]);
 
+  const selectSingleWord = (word: TranslationWord) => {
+    setSelectedWords(selectedWords.includes(word) ? [] : [word]);
+  };
+
   const toggleWordSelection = (word: TranslationWord) => {
     setSelectedWords((prev) => {
       if (prev.includes(word)) {
         return prev.filter((w) => w !== word);
       }
+
       return [...prev, word];
     });
   };
@@ -48,6 +54,7 @@ export const SelectionProvider = ({ children }: { children: ReactNode }) => {
     <SelectionContext.Provider
       value={{
         selectedWords,
+        selectSingleWord,
         toggleWordSelection,
         addWordToSelection,
         selectRange,

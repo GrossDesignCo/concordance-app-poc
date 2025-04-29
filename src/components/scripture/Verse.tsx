@@ -19,8 +19,9 @@ export default function Verse({ verse }: VerseProps) {
     showOriginal,
     showTransliteration,
   } = useSettings();
-  const { toggleWordSelection } = useSelection();
+  const { selectSingleWord, toggleWordSelection } = useSelection();
 
+  // Determine what to show
   const languages: Record<LanguageKey, boolean> = {
     original: showOriginal,
     transliteration: showTransliteration,
@@ -44,10 +45,10 @@ export default function Verse({ verse }: VerseProps) {
     queryWordsForEntries,
   ]);
 
-  const handleClick = (word: TranslationWord, index: number) => {
-    console.log({ word, index });
-
-    toggleWordSelection(word);
+  // Handle selecting/de-selecting words within this verse
+  const handleClick = (e: MouseEvent, word: TranslationWord) => {
+    console.log('click word', { metaKey: e.metaKey });
+    selectSingleWord(word);
   };
 
   return (
@@ -75,6 +76,7 @@ export default function Verse({ verse }: VerseProps) {
           />
         );
 
+        // If showing multiple renderings of the verse, block them to make it more clear
         return isShowingMultiple ? (
           <div className={styles.VerseAsBlock} dir={dir} key={language}>
             {renderedString}

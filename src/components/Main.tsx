@@ -11,7 +11,6 @@ import styles from './Main.module.css';
 import { LanguageKey } from '@/types';
 import { formatWord } from '@/utils/formatWord';
 import { sortWords } from '@/utils/sortWords';
-import { useEffect, useState } from 'react';
 
 const languages: LanguageKey[] = [
   'original',
@@ -20,18 +19,10 @@ const languages: LanguageKey[] = [
 ];
 
 export const Main = () => {
-  const { selectedWords } = useSelection();
+  const { selectedWords, clearSelection } = useSelection();
   const isDesktop = useMediaQuery('(min-width: 720px)');
   const isLandscape = useMediaQuery('(orientation: landscape)');
   const isLargeDesktop = useMediaQuery('(min-width: 150ch)');
-
-  const [open, setOpen] = useState(false);
-
-  useEffect(() => {
-    if (selectedWords.length) {
-      setOpen(true);
-    }
-  }, [selectedWords.length]);
 
   const sheetTitle = languages
     .map((language) => {
@@ -59,14 +50,16 @@ export const Main = () => {
         </ViewPanel> */}
 
         <Sheet
-          open={open}
+          open={selectedWords.length > 0}
           title={sheetTitle || 'Word Details'}
           position={
             (isDesktop && isLandscape) || isLargeDesktop ? 'right' : 'bottom'
           }
           pushContent={isDesktop}
           borderless={isLargeDesktop}
-          onOpenChange={() => setOpen(false)}
+          onOpenChange={(open) => {
+            if (!open) clearSelection();
+          }}
         >
           <LexiconEntry />
         </Sheet>

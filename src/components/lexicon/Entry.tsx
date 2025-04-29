@@ -17,7 +17,17 @@ export default function LexiconEntry({}) {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    if (!selectedWords.length) return;
+    console.log('Selection changed:', selectedWords);
+
+    // Reset state when selection changes
+    setEntry(null);
+    setError(null);
+    setLoading(false);
+
+    if (!selectedWords.length) {
+      return;
+    }
+
     const sortedWords = sortWords(selectedWords, 'transliteration');
     const entryKey = sortedWords
       .map((word) => {
@@ -26,11 +36,8 @@ export default function LexiconEntry({}) {
       })
       .join('-');
 
+    console.log('Loading entry for:', entryKey);
     setLoading(true);
-    setError(null);
-
-    // Reset Entry when word changes
-    setEntry(null);
 
     // Use a try-catch block to handle import errors
     const loadEntry = async () => {
@@ -40,7 +47,7 @@ export default function LexiconEntry({}) {
         );
         setEntry(() => mdxModule.default);
       } catch (err) {
-        console.warn(`Error looking up lexicon entry for ${entryKey}: ${err}`);
+        console.warn(`Error looking up lexicon entry for ${entryKey}:`, err);
         setError(`No entry found for "${entryKey}"`);
       } finally {
         setLoading(false);

@@ -13,7 +13,7 @@ export interface WordProps {
   language: LanguageKey;
   showGrammar?: boolean;
   asRawText?: boolean;
-  onClick?: (word: TranslationWord) => void;
+  onClick?: (e: MouseEvent, word: TranslationWord) => void;
 }
 
 export default function Word({
@@ -64,7 +64,8 @@ export default function Word({
       {lineBreaksBefore}
 
       <span
-        onClick={() => onClick?.(word)}
+        // @ts-expect-error - MouseEvents are dumb
+        onClick={(e) => onClick?.(e, word)}
         role="button"
         aria-label={ariaLabel}
         aria-pressed={ariaPressed}
