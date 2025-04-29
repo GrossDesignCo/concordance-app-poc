@@ -453,3 +453,13 @@ export interface Book {
   };
   chapters: Chapter[];
 }
+
+export type WordOrWordArray =
+  | {
+      word: TranslationWord;
+      wordArray: never;
+    }
+  | {
+      word: never;
+      wordArray: TranslationWord[];
+    };

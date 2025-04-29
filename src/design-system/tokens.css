@@ -65,10 +65,10 @@
   --ds-spacing-inline-xl: var(--ds-space-8);
 
   /* Semantic Tokens - Components */
-  --ds-button-padding-y: var(--ds-space-1);
-  --ds-button-padding-x: var(--ds-space-2);
+  --ds-button-padding-y: 0.5rem;
+  --ds-button-padding-x: 0.75rem;
   --ds-button-radius: var(--ds-radius-md);
-  --ds-button-font-size: var(--ds-font-size-sm);
+  --ds-button-font-size: 1rem;
   --ds-button-font-weight: 500;
 
   --ds-input-height: 2.5rem;

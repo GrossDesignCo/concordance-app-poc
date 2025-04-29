@@ -7,6 +7,7 @@ import { LineBreaks } from './LineBreaks';
 import { resolveWordOrderKey } from '@/utils/resolveWordOrderKey';
 import { formatWord } from '@/utils/formatWord';
 import { useLexicon } from '@/context/LexiconContext';
+import { useEffect, useState } from 'react';
 
 export interface WordProps {
   word: TranslationWord;
@@ -22,20 +23,24 @@ export default function Word({
   showGrammar,
   onClick,
 }: WordProps) {
-  const { selectedWords } = useSelection();
+  // Whenever the lexicon is updated, refresh the check for whether the lexicon includes this word
+  const { lexiconState, hasEntry } = useLexicon();
+  const [showEntryLink, setShowEntryLink] = useState(false);
 
+  useEffect(() => {
+    setShowEntryLink(hasEntry(word.transliteration));
+  }, [lexiconState, hasEntry, word.transliteration, word, language]);
+
+  // Visual states
+  const { selectedWords } = useSelection();
   const isSelected = selectedWords.includes(word);
   const selectedRoots = selectedWords.map((w) => w.root);
   const hasSelectedRoot = word.root && selectedRoots.includes(word.root);
 
   const { resolvedTheme } = useTheme();
-
   const reverseTheme = resolvedTheme === 'light' ? 'dark' : 'light';
 
-  const { hasEntry } = useLexicon();
-  const showEntryLink = hasEntry(word.transliteration);
-
-  // Get the actual text of the word to render based on props + data
+  // Get the actual text + grammar of the word to render based on props + data
   const { wordText, formattedWordText } = formatWord(
     word,
     language,

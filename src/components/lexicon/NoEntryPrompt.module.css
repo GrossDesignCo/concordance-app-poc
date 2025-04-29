@@ -1,0 +1,10 @@
+.NoEntryPrompt {
+  background-color: var(--ds-bg-low-contrast);
+  padding: var(--ds-space-5);
+  border-radius: var(--ds-radius-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--ds-space-2);
+}

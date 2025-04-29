@@ -1,3 +1,4 @@
+import { ResolvedLanguageKey } from '@/types';
 import {
   createContext,
   useContext,
@@ -11,58 +12,77 @@ type LexiconState = {
 };
 
 interface LexiconContextType {
+  lexiconOpen: boolean;
+  setLexiconOpen: (open: boolean) => void;
   lexiconState: LexiconState;
   isLoading: boolean;
   error: Error | null;
-  queryWordsForEntries: (words: string[]) => Promise<void>;
+  checkWordsForEntryPresence: (
+    words: string[],
+    language: ResolvedLanguageKey
+  ) => Promise<void>;
   hasEntry: (word: string) => boolean;
 }
 
 const LexiconContext = createContext<LexiconContextType | null>(null);
 
 export function LexiconProvider({ children }: { children: ReactNode }) {
+  const [open, setOpen] = useState(false);
   const [lexiconState, setLexiconState] = useState<LexiconState>({});
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<Error | null>(null);
 
-  const queryWordsForEntries = useCallback(async (words: string[]) => {
-    if (words.length === 0) return;
+  // console.log('run LexiconProvider', { open });
 
-    setIsLoading(true);
-    setError(null);
+  const handleSetOpen = (newOpen: boolean) => {
+    // console.log('handleSetOpen', newOpen);
+    setOpen(newOpen);
+  };
 
-    try {
-      const response = await fetch('/api/lexicon/check-if-entry-exists', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ words }),
-      });
+  const checkWordsForEntryPresence = useCallback(
+    async (words: string[], language: ResolvedLanguageKey) => {
+      if (words.length === 0) return;
 
-      if (!response.ok) {
-        throw new Error('Failed to check lexicon entries');
-      }
+      setIsLoading(true);
+      setError(null);
 
-      const { results } = await response.json();
+      try {
+        const response = await fetch(
+          '/api/lexicon/check-words-for-entry-presence',
+          {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ words, language }),
+          }
+        );
 
-      // Use functional update to avoid dependency on lexiconState
-      setLexiconState((prevState) => {
-        const newState = { ...prevState };
-        words.forEach((word, index) => {
-          newState[word] = results[index];
+        if (!response.ok) {
+          throw new Error('Failed to check lexicon entries');
+        }
+
+        const { results } = await response.json();
+
+        // Use functional update to avoid dependency on lexiconState
+        setLexiconState((prevState) => {
+          const newState = { ...prevState };
+          words.forEach((word, index) => {
+            newState[word] = results[index];
+          });
+
+          return newState;
         });
-
-        return newState;
-      });
-    } catch (err) {
-      setError(
-        err instanceof Error ? err : new Error('Unknown error occurred')
-      );
-    } finally {
-      setIsLoading(false);
-    }
-  }, []);
+      } catch (err) {
+        setError(
+          err instanceof Error ? err : new Error('Unknown error occurred')
+        );
+      } finally {
+        setIsLoading(false);
+      }
+    },
+    []
+  );
 
   const hasEntry = useCallback(
     (word: string) => {
@@ -74,10 +94,12 @@ export function LexiconProvider({ children }: { children: ReactNode }) {
   return (
     <LexiconContext.Provider
       value={{
+        lexiconOpen: open,
+        setLexiconOpen: handleSetOpen,
         lexiconState,
         isLoading,
         error,
-        queryWordsForEntries,
+        checkWordsForEntryPresence,
         hasEntry,
       }}
     >

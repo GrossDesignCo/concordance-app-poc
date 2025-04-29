@@ -29,9 +29,9 @@ const Settings = () => {
   return (
     <>
       <Button
-        variant="ghost"
+        variant={open ? 'secondary' : 'ghost'}
         size="sm"
-        onClick={() => setOpen(true)}
+        onClick={() => setOpen(!open)}
         aria-label="Open translation settings"
       >
         <Gear size={20} weight="regular" />

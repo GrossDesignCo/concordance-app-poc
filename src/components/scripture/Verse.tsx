@@ -34,15 +34,19 @@ export default function Verse({ verse }: VerseProps) {
     Object.values(languages).filter((val) => val === true).length > 1;
 
   // Track which words have lexicon entries (used/rendered in Word component)
-  const { queryWordsForEntries } = useLexicon();
+  const { checkWordsForEntryPresence } = useLexicon();
 
   useEffect(() => {
-    queryWordsForEntries(verse.words.map((word) => word.transliteration));
+    const resolvedOGLanguage = resolveLanguage(verse.words?.[0], 'original');
+    checkWordsForEntryPresence(
+      verse.words.map((word) => word.transliteration),
+      resolvedOGLanguage
+    );
   }, [
     verse.words,
     verse.meta.chapter,
     verse.meta.number,
-    queryWordsForEntries,
+    checkWordsForEntryPresence,
   ]);
 
   // Handle selecting/de-selecting words within this verse

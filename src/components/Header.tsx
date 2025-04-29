@@ -3,6 +3,7 @@ import Settings from '@/components/Settings';
 
 import styles from './Header.module.css';
 import { ClearSelectionControl } from './ClearSelectionControl';
+import { ShowLexiconControl } from './ShowLexiconControl';
 
 export const Header = () => {
   return (
@@ -11,6 +12,7 @@ export const Header = () => {
         <h1 className={styles.appTitle}>LexiChi</h1>
 
         <div className={styles.controls}>
+          <ShowLexiconControl />
           <ClearSelectionControl />
           <Settings />
         </div>

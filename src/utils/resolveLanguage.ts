@@ -2,12 +2,12 @@ import { LanguageKey, ResolvedLanguageKey, TranslationWord } from '@/types';
 
 export const resolveLanguage = (
   word: TranslationWord,
-  language: LanguageKey
+  language?: LanguageKey
 ) => {
   let key: ResolvedLanguageKey;
 
   // Resolve non-language keywords into their specific languages for the given word
-  if (language === 'original') {
+  if (language === 'original' || language === undefined) {
     // Assume either hebrew or greek for now
     key = word.hebrew ? 'hebrew' : 'greek';
   }

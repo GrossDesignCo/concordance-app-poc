@@ -14,6 +14,7 @@ body {
   background: var(--ds-bg-default);
   font-family: 'Noto Sans Hebrew', sans-serif;
   font-size: 1rem;
+  font-weight: 400;
   line-height: 1.5;
   display: flex;
   flex-direction: column;

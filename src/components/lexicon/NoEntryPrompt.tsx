@@ -1,72 +1,80 @@
-import cx from 'classnames';
-import styles from './Entry.module.css';
-// import { useState } from 'react';
-// import { useSelection } from '@/context/SelectionContext';
-// import Word from '../text/Word';
-// import { Button } from '@/design-system';
+import { useState } from 'react';
+import { useSelection } from '@/context/SelectionContext';
+import { Button } from '@/design-system';
+import styles from './NoEntryPrompt.module.css';
+import { resolveLanguage } from '@/utils/resolveLanguage';
 
-export default function NoEntryPrompt({}) {
-  // const { selectedWord } = useSelection();
+// Define a type for the MDX component
+type MDXComponent = React.ComponentType<Record<string, never>>;
 
-  // const [entryText, setEntryText] = useState<string | null>(null);
-  // const [error, setError] = useState<string | null>(null);
-  // const [loading, setLoading] = useState(false);
+interface NoEntryPromptProps {
+  onGenerate?: (entry: MDXComponent) => void;
+}
 
-  // const generateNewEntry = async () => {
-  //   setLoading(true);
-  //   setError(null);
+export default function NoEntryPrompt({ onGenerate }: NoEntryPromptProps) {
+  const { selectedWords } = useSelection();
 
-  //   try {
-  //     const response = await fetch('/api/lexicon/generate-entry', {
-  //       method: 'POST',
-  //       headers: {
-  //         'Content-Type': 'application/json',
-  //       },
-  //       body: JSON.stringify({ word: selectedWord }),
-  //     });
+  const [error, setError] = useState<string | null>(null);
+  const [generating, setGenerating] = useState(false);
 
-  //     const data = await response.json();
+  const generateNewEntry = async () => {
+    setGenerating(true);
+    setError(null);
+    const resolvedOGLanguage = resolveLanguage(selectedWords?.[0], 'original');
 
-  //     if (!response.ok) {
-  //       throw new Error(data.error || 'Failed to generate entry');
-  //     }
+    try {
+      const response = await fetch('/api/lexicon/generate-entry', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          wordArray: selectedWords,
+          language: resolvedOGLanguage,
+        }),
+      });
 
-  //     // Set the text entry instead of a component
-  //     setEntryText(data.completeEntry);
-  //   } catch (err) {
-  //     setError(
-  //       err instanceof Error ? err.message : 'An unknown error occurred'
-  //     );
-  //   } finally {
-  //     setLoading(false);
-  //   }
-  // };
+      const data = await response.json();
 
-  // if (!selectedWord) return null;
+      if (!response.ok) {
+        throw new Error(data.error || 'Failed to generate entry');
+      }
+
+      if (data) onGenerate?.(data);
+    } catch (err) {
+      setError(
+        err instanceof Error ? err.message : 'An unknown error occurred'
+      );
+    } finally {
+      setGenerating(false);
+    }
+  };
+
+  if (error) {
+    return (
+      <div className={styles.NoEntryPrompt}>
+        <div>There was an error generating this entry</div>
+        <pre>
+          <code>{JSON.stringify({ error })}</code>
+        </pre>
+      </div>
+    );
+  }
 
   return (
-    <div className={cx(styles.LexiconEntry, 'markdown-text')}>
-      {/* {loading ? (
-        <p>Loading Entry...</p>
+    <div className={styles.NoEntryPrompt}>
+      {generating ? (
+        <p>Generating Entry, this will take a minute.</p>
       ) : (
         <>
           <p>
-            Break down {'"'}
-            <Word word={selectedWord} />
-            {'"'}
+            You may generate a new Lexicon entry to more deeply explore this
+            pattern.
           </p>
-          <Button onClick={() => generateNewEntry()}>Generate Entry</Button>
+          <p>This may take a minute.</p>
+          <Button onClick={() => generateNewEntry()}>Generate</Button>
         </>
       )}
-
-      {error && <p className={styles.error}>{error}</p>} */}
-
-      {/* Once markdown is received from the server render a preview of it for now */}
-      {/* {entryText && (
-        <pre>
-          <code>{entryText}</code>
-        </pre>
-      )} */}
     </div>
   );
 }

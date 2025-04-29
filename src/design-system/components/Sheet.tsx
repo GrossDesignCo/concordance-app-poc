@@ -56,7 +56,6 @@ export function Sheet({
     if (!body) return;
 
     const updateSheetWidth = () => {
-      console.log('updateSheetWidth', { open, isDesktop });
       if (open && isDesktop) {
         const sheetWidth = maxWidth || 'min(75ch, 50vw)';
         body.style.setProperty('--ds-sheet-width', sheetWidth);
@@ -76,17 +75,15 @@ export function Sheet({
     };
   }, [open, pushContent, position, maxWidth, isDesktop]);
 
+  console.log('render', { open });
+
   return (
     <DialogPrimitive.Root
       open={open}
-      onOpenChange={(open: boolean) => {
-        onOpenChange?.(open);
-        // Clean up offset value
-        // if (!open) {
-        //   const body = document.querySelector('body');
-        //   body?.style.setProperty('--ds-sheet-width', '0');
-        // }
-      }}
+      // onOpenChange={(newOpen: boolean) => {
+      //   console.log("onOpenChange", newOpen);
+      //   onOpenChange?.(newOpen);
+      // }}
       modal={false}
     >
       <DialogPrimitive.Portal>
@@ -102,7 +99,6 @@ export function Sheet({
             className
           )}
           ref={contentRef}
-          onPointerDownOutside={(e) => e.preventDefault()}
           style={maxWidth ? { maxWidth } : undefined}
         >
           <div className={styles.handle} onClick={handleToggleExpanded}>

@@ -5,6 +5,7 @@
   gap: var(--ds-space-2);
   padding: var(--ds-button-padding-y) var(--ds-button-padding-x);
   border-radius: var(--ds-button-radius);
+  font-family: inherit;
   font-size: var(--ds-button-font-size);
   font-weight: var(--ds-button-font-weight);
   line-height: 1;

@@ -4,9 +4,10 @@
  *   but starts to skimp/trim towards the end
  * - Relies heavily on excellent example entries
  */
-import { TranslationWord } from '@/types';
+import { WordOrWordArray } from '@/types';
 import { loadLexiconExamples } from '@/data/pipeline/loadLexiconExamples';
 import Anthropic from '@anthropic-ai/sdk';
+import { resolveLanguage } from '@/utils/resolveLanguage';
 
 const anthropic = new Anthropic({
   // apiKey, // defaults to process.env["ANTHROPIC_API_KEY"]
@@ -32,9 +33,32 @@ const examplesPrompt = `
 ${examplesAsText}
 </examples>`;
 
-export async function generateLexiconEntry(word: TranslationWord) {
+export async function generateLexiconEntry({
+  word,
+  wordArray,
+}: WordOrWordArray) {
   // Simplify word data to only what the api needs
-  const { hebrew, transliteration, englishLiteral } = word;
+  let original;
+  let transliteration;
+  let englishLiteral;
+
+  const resolvedOGLang = resolveLanguage(
+    wordArray ? wordArray?.[0] : word,
+    'original'
+  );
+
+  if (wordArray) {
+    original = wordArray.map((w) => w[resolvedOGLang]).join(' ');
+    transliteration = wordArray.map((w) => w.transliteration).join(' ');
+    englishLiteral = wordArray.map((w) => w.englishLiteral).join(' ');
+  } else if (word) {
+    original = word[resolvedOGLang];
+    transliteration = word.transliteration;
+    englishLiteral = word.englishLiteral;
+  } else {
+    console.error('No word provided from which to generate a lexicon entry.');
+    return;
+  }
 
   // All good, proceed with generation
   const systemPrompt: Anthropic.Messages.TextBlockParam[] = [
@@ -51,7 +75,7 @@ export async function generateLexiconEntry(word: TranslationWord) {
     },
   ];
 
-  const userPrompt = `Create a detailed lexicon/concordance entry for the word/phrase "${hebrew} / ${transliteration} / ${englishLiteral}".
+  const userPrompt = `Create a detailed lexicon/concordance entry for the word/phrase "${original} / ${transliteration} / ${englishLiteral}".
     
 It should hold to these principles:
 1. Accuracy and preservation of the meaning in the biblical text is critical.
@@ -75,7 +99,7 @@ It should generally have the following sections
   const result = await anthropic.messages.create({
     // model: 'claude-3-5-haiku-20241022', // simpler model for cheaper tasks
     model: 'claude-3-7-sonnet-20250219', // standard model
-    max_tokens: 3000,
+    max_tokens: 5000,
     temperature: 0.5, // Low temperature for consistent outputs
     system: systemPrompt,
     messages: [
