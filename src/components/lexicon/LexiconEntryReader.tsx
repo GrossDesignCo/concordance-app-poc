@@ -1,3 +1,5 @@
+'use client';
+
 import cx from 'classnames';
 import styles from './Entry.module.css';
 import { useState, useEffect } from 'react';
@@ -6,14 +8,12 @@ import NoEntryPrompt from './NoEntryPrompt';
 import { resolveLanguage } from '@/utils/resolveLanguage';
 import { SelectWordPrompt } from './SelectWordPrompt';
 import { getLexiconEntryKey } from '@/utils/getLexiconEntryKey';
+import ReactMarkdown from 'react-markdown';
 
-// Define a type for the MDX component
-type MDXComponent = React.ComponentType<Record<string, never>>;
-
-export default function LexiconEntry({}) {
+export default function LexiconEntryReader({}) {
   const { selectedWords } = useSelection();
 
-  const [Entry, setEntry] = useState<MDXComponent | null>(null);
+  const [entryContent, setEntryContent] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
 
@@ -22,11 +22,11 @@ export default function LexiconEntry({}) {
     if (!selectedWords.length) return;
 
     // Reset state when selection changes
-    setEntry(null);
+    setEntryContent(null);
     setError(null);
     setLoading(false);
 
-    const resolvedLanguage = resolveLanguage(selectedWords?.[0], 'original');
+    const resolvedOGLanguage = resolveLanguage(selectedWords?.[0], 'original');
     const entryKey = getLexiconEntryKey(selectedWords);
 
     setLoading(true);
@@ -34,10 +34,26 @@ export default function LexiconEntry({}) {
     // Use a try-catch block to handle import errors
     const loadEntry = async () => {
       try {
-        const mdxModule = await import(
-          `../../data/lexicon/${resolvedLanguage}/${entryKey}.mdx`
-        );
-        setEntry(() => mdxModule.default);
+        const response = await fetch('/api/lexicon/get-entry', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            key: entryKey,
+            language: resolvedOGLanguage,
+          }),
+        });
+
+        const data = await response.json();
+
+        if (!response.ok) {
+          throw new Error(data.error || 'Failed to fetch entry');
+        }
+
+        if (data.lexiconEntry) {
+          setEntryContent(data.lexiconEntry);
+        }
       } catch (err) {
         console.warn(`Error looking up lexicon entry for ${entryKey}:`, err);
         setError(`No Lexicon entry found for "${entryKey}"`);
@@ -55,10 +71,16 @@ export default function LexiconEntry({}) {
   return (
     <div className={cx(styles.LexiconEntry, 'markdown-text')}>
       {error && <p className={styles.error}>{error}</p>}
-      {Entry ? (
-        <Entry />
+
+      {entryContent ? (
+        <ReactMarkdown>{entryContent}</ReactMarkdown>
       ) : (
-        <NoEntryPrompt onGenerate={(entry: MDXComponent) => setEntry(entry)} />
+        <NoEntryPrompt
+          onGenerate={(entry: string) => {
+            setEntryContent(entry);
+            setError(null);
+          }}
+        />
       )}
     </div>
   );

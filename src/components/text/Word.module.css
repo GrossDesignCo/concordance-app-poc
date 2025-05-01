@@ -1,11 +1,14 @@
 .TranslationWord {
   display: inline-flex;
-  flex-direction: column;
-  align-items: center;
   border-radius: var(--ds-radius-md);
   box-shadow: 0 6px 0 -4px transparent;
   transition: 0.3s ease;
 }
+
+/* Better for copy/pasting, but leads to jank when selecting/de-selecting */
+/* .TranslationWord:is(.selected, .selectedRoot) {
+  display: inline-flex;
+} */
 
 .TranslationWord.selectedRoot {
   background-color: var(--ds-bg-container);

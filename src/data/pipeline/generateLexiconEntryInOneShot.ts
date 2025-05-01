@@ -4,10 +4,8 @@
  *   but starts to skimp/trim towards the end
  * - Relies heavily on excellent example entries
  */
-import { WordOrWordArray } from '@/types';
 import { loadLexiconExamples } from '@/data/pipeline/loadLexiconExamples';
 import Anthropic from '@anthropic-ai/sdk';
-import { resolveLanguage } from '@/utils/resolveLanguage';
 
 const anthropic = new Anthropic({
   // apiKey, // defaults to process.env["ANTHROPIC_API_KEY"]
@@ -34,31 +32,14 @@ ${examplesAsText}
 </examples>`;
 
 export async function generateLexiconEntry({
-  word,
-  wordArray,
-}: WordOrWordArray) {
-  // Simplify word data to only what the api needs
-  let original;
-  let transliteration;
-  let englishLiteral;
-
-  const resolvedOGLang = resolveLanguage(
-    wordArray ? wordArray?.[0] : word,
-    'original'
-  );
-
-  if (wordArray) {
-    original = wordArray.map((w) => w[resolvedOGLang]).join(' ');
-    transliteration = wordArray.map((w) => w.transliteration).join(' ');
-    englishLiteral = wordArray.map((w) => w.englishLiteral).join(' ');
-  } else if (word) {
-    original = word[resolvedOGLang];
-    transliteration = word.transliteration;
-    englishLiteral = word.englishLiteral;
-  } else {
-    console.error('No word provided from which to generate a lexicon entry.');
-    return;
-  }
+  key,
+  supplementalData,
+}: {
+  key: string;
+  supplementalData: Record<string, unknown>;
+}) {
+  // Convert from key to phrase
+  const phrase = key.split('-');
 
   // All good, proceed with generation
   const systemPrompt: Anthropic.Messages.TextBlockParam[] = [
@@ -75,7 +56,7 @@ export async function generateLexiconEntry({
     },
   ];
 
-  const userPrompt = `Create a detailed lexicon/concordance entry for the word/phrase "${original} / ${transliteration} / ${englishLiteral}".
+  const userPrompt = `Create a detailed lexicon/concordance entry for the word/phrase "${phrase}".
     
 It should hold to these principles:
 1. Accuracy and preservation of the meaning in the biblical text is critical.
@@ -83,7 +64,7 @@ It should hold to these principles:
 3. Each entry should be usable as a topical sermon outline.
 4. Pay careful attention to the englishLiteral mapping and use that exact word.
 5. Use transliterations alongside hebrew whenever possible.
-6. Use camelCase to identify prefixes, eg. \"תֹ֙הוּ֙ וָבֹ֔הוּ\" should become “Tohu vaVohu”
+6. Use camelCase to identify prefixes, eg. \"תֹ֙הוּ֙ וָבֹ֔הוּ\" should become “tohu vaVohu”
 7. Entries should not be overly redundant
 
 It should generally have the following sections
@@ -94,7 +75,9 @@ It should generally have the following sections
 5. Compound Forms: _If_ this word frequently appears as part of a phrase, list short examples for each phrase. Otherwise skip this section.
 6. Greek/Septuagint Usage: A list of examples of the greek translations for this word used in Jesus's time. Include examples of NT usage of the same words, especially if Jesus quoted the OT using them.
 7. Patterns: If there are distinctive patterns in this word's usage, or distinctive word-plays like seven/perfect, list each pattern as a sub-section with summary and usage examples. Otherwise skip this section.
-8. Cultural Context: Bridge the gap between modern English readers and the ancient Hebrew writers. Help us understand the impression/context/links this word would have triggered in readers at the time.`;
+8. Cultural Context: Bridge the gap between modern English readers and the ancient Hebrew writers. Help us understand the impression/context/links this word would have triggered in readers at the time.
+
+Here also is an info-dump of supplemental data from the translation: ${supplementalData}`;
 
   const result = await anthropic.messages.create({
     // model: 'claude-3-5-haiku-20241022', // simpler model for cheaper tasks

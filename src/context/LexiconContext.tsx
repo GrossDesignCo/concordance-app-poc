@@ -12,8 +12,6 @@ type LexiconState = {
 };
 
 interface LexiconContextType {
-  lexiconOpen: boolean;
-  setLexiconOpen: (open: boolean) => void;
   lexiconState: LexiconState;
   isLoading: boolean;
   error: Error | null;
@@ -27,17 +25,9 @@ interface LexiconContextType {
 const LexiconContext = createContext<LexiconContextType | null>(null);
 
 export function LexiconProvider({ children }: { children: ReactNode }) {
-  const [open, setOpen] = useState(false);
   const [lexiconState, setLexiconState] = useState<LexiconState>({});
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<Error | null>(null);
-
-  // console.log('run LexiconProvider', { open });
-
-  const handleSetOpen = (newOpen: boolean) => {
-    // console.log('handleSetOpen', newOpen);
-    setOpen(newOpen);
-  };
 
   const checkWordsForEntryPresence = useCallback(
     async (words: string[], language: ResolvedLanguageKey) => {
@@ -94,8 +84,6 @@ export function LexiconProvider({ children }: { children: ReactNode }) {
   return (
     <LexiconContext.Provider
       value={{
-        lexiconOpen: open,
-        setLexiconOpen: handleSetOpen,
         lexiconState,
         isLoading,
         error,

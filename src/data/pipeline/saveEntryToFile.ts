@@ -20,7 +20,7 @@ export async function saveEntryToFile(
 
     // Sanitize the filename
     const sanitized =
-      key?.replace(/[^a-zA-Z0-9]/g, '') ||
+      key?.replace(/[^a-zA-Z0-9'`]/g, '') ||
       `New-Entry-from-${new Date().toISOString()}`;
     const fileName = `${sanitized}.mdx`;
     const filePath = path.join(dirPath, fileName);
@@ -28,7 +28,7 @@ export async function saveEntryToFile(
     // Write entry to file
     await fs.writeFile(filePath, entry, 'utf-8');
 
-    console.log('Wrote entry to:', filePath);
+    console.info('Wrote entry to:', filePath);
     return { success: true, path: filePath };
   } catch (err) {
     console.error('Error saving entry file:', err);

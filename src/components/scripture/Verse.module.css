@@ -1,4 +1,5 @@
 .VerseNumber {
+  line-height: 1.5;
   inset-inline-end: calc(0.25rem + 100%);
   color: var(--ds-fg-low-contrast);
 }

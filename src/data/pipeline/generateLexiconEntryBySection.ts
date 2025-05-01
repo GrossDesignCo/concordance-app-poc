@@ -177,7 +177,7 @@ Remember to follow these principles:
     ],
   });
 
-  console.log({ newSection });
+  // console.log({ newSection });
 
   // Get the generated content for this section
   // @ts-expect-error - Anthropic types don't match docs
@@ -200,7 +200,7 @@ export async function generateLexiconEntry(word: TranslationWord) {
 
   for (let i = 0; i < sections.length; i++) {
     const section = sections[i];
-    console.log(
+    console.info(
       `Generating section ${i + 1}/${sections.length}: ${section.name}`
     );
 

@@ -1,10 +1,10 @@
+'use client';
 import * as DialogPrimitive from '@radix-ui/react-dialog';
 import { ReactNode, useRef, useState, useEffect } from 'react';
 import cx from 'classnames';
 import styles from './Sheet.module.css';
 import { Button } from '../components/Button';
 import { X } from '@phosphor-icons/react';
-import { useMediaQuery } from '@/hooks/useMediaQuery';
 
 interface SheetProps {
   open: boolean;
@@ -26,14 +26,9 @@ export function Sheet({
   className,
   title,
   expanded: initialExpanded = false,
-  maxWidth,
-  position = 'bottom',
-  pushContent = false,
-  borderless = false,
 }: SheetProps) {
   const [expanded, setExpanded] = useState(initialExpanded);
   const contentRef = useRef<HTMLDivElement>(null);
-  const isDesktop = useMediaQuery('(min-width: 720px)');
 
   // Reset expanded state when sheet is closed
   useEffect(() => {
@@ -46,36 +41,6 @@ export function Sheet({
   const handleToggleExpanded = () => {
     setExpanded(!expanded);
   };
-
-  // Effect to push content when sheet is open (desktop only)
-  useEffect(() => {
-    if (typeof window === 'undefined' || position !== 'right' || !pushContent)
-      return;
-
-    const body = document.querySelector('body');
-    if (!body) return;
-
-    const updateSheetWidth = () => {
-      if (open && isDesktop) {
-        const sheetWidth = maxWidth || 'min(75ch, 50vw)';
-        body.style.setProperty('--ds-sheet-width', sheetWidth);
-      } else {
-        body?.style.setProperty('--ds-sheet-width', '0');
-      }
-    };
-
-    // Initial update
-    updateSheetWidth();
-
-    // Add resize listener
-    window.addEventListener('resize', updateSheetWidth);
-
-    return () => {
-      window.removeEventListener('resize', updateSheetWidth);
-    };
-  }, [open, pushContent, position, maxWidth, isDesktop]);
-
-  console.log('render', { open });
 
   return (
     <DialogPrimitive.Root
@@ -93,13 +58,10 @@ export function Sheet({
             {
               [styles.open]: open,
               [styles.expanded]: expanded,
-              [styles.rightPosition]: position === 'right',
-              [styles.borderless]: borderless,
             },
             className
           )}
           ref={contentRef}
-          style={maxWidth ? { maxWidth } : undefined}
         >
           <div className={styles.handle} onClick={handleToggleExpanded}>
             <div className={styles.handleBar} />

@@ -1,32 +1,31 @@
 import { generateLexiconEntry } from '@/data/pipeline/generateLexiconEntryInOneShot';
 import { saveEntryToFile } from '@/data/pipeline/saveEntryToFile';
-import { WordOrWordArray } from '@/types';
-import { getLexiconEntryKey } from '@/utils/getLexiconEntryKey';
 import { NextResponse } from 'next/server';
 import { NextRequest } from 'next/server';
 
 export async function POST(request: NextRequest) {
   try {
-    const { word, wordArray, language } = await request.json();
+    const { key, language, supplementalData } = await request.json();
 
-    if (!word && !wordArray) {
+    if (!key || !language) {
       // UI didn't provide needed params
       return NextResponse.json(
-        { error: 'A word/key-phrase is required to generate an entry' },
+        {
+          error:
+            'A word/key-phrase + language is required to generate an entry, eg. { key: "tohu-vaVohu", language: "hebrew" }',
+        },
         { status: 400 }
       );
     }
 
     // All good, proceed with generation
     const entry = await generateLexiconEntry({
-      word,
-      wordArray,
-    } as WordOrWordArray);
-
-    const lexiconKey = getLexiconEntryKey(word ? [word] : wordArray);
+      key,
+      supplementalData,
+    });
 
     // Save entry to mdx for future use
-    saveEntryToFile(lexiconKey, language, entry);
+    saveEntryToFile(key, language, entry);
 
     // Return entry to UI
     return NextResponse.json({

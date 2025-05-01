@@ -41,17 +41,17 @@ for (const filePath of filePaths) {
   try {
     // Read the file content
     let content = readFileSync(filePath, 'utf8');
-    
+
     // Try both translations and expectedTranslations
     content = updateTranslations(content, 'translations');
     content = updateTranslations(content, 'expectedTranslations');
-    
+
     // Write the updated content back to the file
     writeFileSync(filePath, content);
-    console.log(`Updated lastReviewed in ${filePath}`);
+    console.info(`Updated lastReviewed in ${filePath}`);
   } catch (error) {
     console.error(`Error processing ${filePath}:`, error);
     // Continue processing other files even if one fails
     continue;
   }
-} 
+}

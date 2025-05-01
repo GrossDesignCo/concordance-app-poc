@@ -1,3 +1,7 @@
+.String {
+  line-height: 1.5;
+}
+
 .String.hebrew {
   font-size: 1.125em;
 }

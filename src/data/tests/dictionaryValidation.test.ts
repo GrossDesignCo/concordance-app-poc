@@ -7,15 +7,15 @@ describe('Dictionary Validation Tests: Ensure no duplicate entries exist', () =>
   const findDuplicates = (dictionary: Record<string, unknown>): string[] => {
     const seen = new Set<string>();
     const duplicates = new Set<string>();
-    
-    Object.keys(dictionary).forEach(key => {
+
+    Object.keys(dictionary).forEach((key) => {
       if (seen.has(key)) {
         duplicates.add(key);
       } else {
         seen.add(key);
       }
     });
-    
+
     return Array.from(duplicates);
   };
 
@@ -23,7 +23,7 @@ describe('Dictionary Validation Tests: Ensure no duplicate entries exist', () =>
     const duplicates = findDuplicates(hebrewRoots);
     expect(duplicates).toHaveLength(0);
     if (duplicates.length > 0) {
-      console.log('Duplicate Hebrew roots found:', duplicates);
+      console.info('Duplicate Hebrew roots found:', duplicates);
     }
   });
 
@@ -31,7 +31,7 @@ describe('Dictionary Validation Tests: Ensure no duplicate entries exist', () =>
     const duplicates = findDuplicates(hebrewPrefixes);
     expect(duplicates).toHaveLength(0);
     if (duplicates.length > 0) {
-      console.log('Duplicate Hebrew prefixes found:', duplicates);
+      console.info('Duplicate Hebrew prefixes found:', duplicates);
     }
   });
 
@@ -39,7 +39,7 @@ describe('Dictionary Validation Tests: Ensure no duplicate entries exist', () =>
     const duplicates = findDuplicates(hebrewSuffixes);
     expect(duplicates).toHaveLength(0);
     if (duplicates.length > 0) {
-      console.log('Duplicate Hebrew suffixes found:', duplicates);
+      console.info('Duplicate Hebrew suffixes found:', duplicates);
     }
   });
-}); 
+});

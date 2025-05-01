@@ -1,12 +1,12 @@
 /* Global App/Layout Tokens */
 :root {
   --header-max-height: 3rem;
+  --text-content-max-width: 80ch;
 }
 
 html,
 body {
   max-width: 100vw;
-  overflow-x: hidden;
 }
 
 body {

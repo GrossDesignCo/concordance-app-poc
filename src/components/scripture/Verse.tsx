@@ -51,7 +51,7 @@ export default function Verse({ verse }: VerseProps) {
 
   // Handle selecting/de-selecting words within this verse
   const handleClick = (e: MouseEvent, word: TranslationWord) => {
-    console.log('click word', { metaKey: e.metaKey });
+    // console.log('click word', { metaKey: e.metaKey });
     selectSingleWord(word);
   };
 

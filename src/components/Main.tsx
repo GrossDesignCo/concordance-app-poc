@@ -1,26 +1,96 @@
 'use client';
-// import styles from './Main.module.css';
-
-import { ViewPanel, ViewPanels } from '@/components/ViewPanels';
+import { Header } from '@/components/Header';
 import { ScriptureReader } from './scripture/ScriptureReader';
 import styles from './Main.module.css';
-import { LexiconSheet } from './lexicon/LexiconSheet';
+import { useMediaBreakpoints } from '@/hooks/useMediaBreakpoints';
+import { useSelection } from '@/context/SelectionContext';
+import { useViewPanels } from '@/context/ViewPanelsContext';
+import LexiconEntryReader from './lexicon/LexiconEntryReader';
+import { Sheet } from '@/design-system';
+import { formatWord } from '@/utils/formatWord';
+import { sortWords } from '@/utils/sortWords';
+import Settings from './Settings';
+import { LanguageKey } from '@/types';
+import { useEffect } from 'react';
+
+const languages: LanguageKey[] = [
+  'original',
+  'transliteration',
+  'englishLiteral',
+  'englishNatural',
+];
 
 export const Main = () => {
+  const { isDesktop } = useMediaBreakpoints();
+  const { selectedWords } = useSelection();
+  const { secondaryPanel, setSecondaryPanel } = useViewPanels();
+
+  const possibleTitles = {
+    settings: 'Settings',
+    lexicon:
+      selectedWords.length > 0
+        ? languages
+            .map((language) => {
+              const sortedWords = sortWords(selectedWords, language);
+
+              return sortedWords
+                .map((word) => {
+                  const { formattedWordText } = formatWord(word, language);
+                  return formattedWordText;
+                })
+                .join(' ');
+            })
+            .join(' → ')
+        : 'Lexicon',
+  };
+
+  // @ts-expect-error - ts doesn't see that null won't be made a key here
+  const secondaryPanelTitle = possibleTitles[secondaryPanel || ''];
+
+  const secondaryPanelContent = (
+    <>
+      {secondaryPanel === 'lexicon' && <LexiconEntryReader />}
+      {secondaryPanel === 'settings' && <Settings />}
+    </>
+  );
+
+  useEffect(() => {
+    const maxWidths = {
+      settings: '28ch',
+      lexicon: 'min(50vw, 80ch)',
+    };
+
+    // @ts-expect-error - ts doesn't see that null won't be made a key here
+    const maxWidth = maxWidths[secondaryPanel || ''] || '0';
+    const body = document.querySelector('body');
+
+    body?.style.setProperty('--main-secondary-panel-width', maxWidth);
+  }, [secondaryPanel, isDesktop]);
+
   return (
     <main className={styles.main}>
-      <ViewPanels>
-        <ViewPanel>
-          <ScriptureReader />
-        </ViewPanel>
+      <div className={styles.primaryPanel}>
+        <ScriptureReader />
+        <Header />
+      </div>
 
-        {/* Alt for testing: Render Lexicon entry side by side */}
-        {/* <ViewPanel>
-          <LexiconEntry />
-        </ViewPanel> */}
-
-        <LexiconSheet />
-      </ViewPanels>
+      {/* On mobile by default, just render the secondary panel items as sheets */}
+      {isDesktop ? (
+        <div className={styles.secondaryPanel}>
+          <h2 className={styles.secondaryPanelTitle}>{secondaryPanelTitle}</h2>
+          {secondaryPanelContent}
+        </div>
+      ) : (
+        <Sheet
+          open={Boolean(secondaryPanel)}
+          onOpenChange={(open) => {
+            if (!open) setSecondaryPanel(null);
+          }}
+          title={secondaryPanelTitle}
+        >
+          {secondaryPanelContent}
+        </Sheet>
+      )}
     </main>
   );
 };

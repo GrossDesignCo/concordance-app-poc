@@ -22,39 +22,6 @@
   height: calc(100dvh - 3rem);
 }
 
-.content.borderless {
-  box-shadow: none;
-}
-
-/* Right-side sheet positioning */
-.content.rightPosition {
-  left: auto;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  height: 100dvh;
-  max-height: 100dvh;
-  width: min(75ch, 50vw);
-  transform: translateX(0);
-  border-radius: var(--ds-space-4) 0 0 var(--ds-space-4);
-  transition: transform 0.3s ease;
-  will-change: transform, width;
-}
-
-.content.rightPosition.open {
-  transform: translateX(calc(100% - var(--ds-sheet-width)));
-  animation: slideIn 0.3s ease;
-}
-
-@keyframes slideIn {
-  from {
-    transform: translateX(100%);
-  }
-  to {
-    transform: translateX(calc(100% - var(--ds-sheet-width)));
-  }
-}
-
 .handle {
   display: flex;
   align-items: center;
@@ -87,11 +54,6 @@
   opacity: 0.5;
 }
 
-/* Adjust handle bar for right position */
-.rightPosition .handleBar {
-  display: none;
-}
-
 .title {
   font-weight: bold;
   font-size: var(--ds-font-size-base);
@@ -106,22 +68,4 @@
   overscroll-behavior: contain;
   touch-action: pan-y;
   flex-grow: 1;
-}
-
-/* @keyframes contentShow {
-  from {
-    transform: translateY(100%);
-  }
-  to {
-    transform: translateY(0);
-  }
-} */
-
-@media (min-width: 720px) {
-  .content:not(.rightPosition) {
-    max-width: 75ch;
-    margin: 0 auto;
-    right: 0;
-    left: 0;
-  }
 }

@@ -1,15 +1,15 @@
 import { Button } from '@/design-system';
 import { TextT } from '@phosphor-icons/react';
-import { useLexicon } from '@/context/LexiconContext';
+import { useViewPanels } from '@/context/ViewPanelsContext';
 
 export const ShowLexiconControl = () => {
-  const { lexiconOpen, setLexiconOpen } = useLexicon();
+  const { secondaryPanel, setSecondaryPanel } = useViewPanels();
 
   return (
     <Button
       aria-label="Show Lexicon"
-      variant={lexiconOpen ? 'secondary' : 'ghost'}
-      onClick={() => setLexiconOpen(!lexiconOpen)}
+      variant={secondaryPanel === 'lexicon' ? 'secondary' : 'ghost'}
+      onClick={() => setSecondaryPanel('lexicon')}
     >
       <TextT size={20} weight="regular" />
     </Button>

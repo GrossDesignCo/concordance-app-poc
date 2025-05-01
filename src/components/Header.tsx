@@ -1,9 +1,8 @@
 import React from 'react';
-import Settings from '@/components/Settings';
-
-import styles from './Header.module.css';
-import { ClearSelectionControl } from './ClearSelectionControl';
+// import { ClearSelectionControl } from './ClearSelectionControl';
 import { ShowLexiconControl } from './ShowLexiconControl';
+import { ShowSettingsControl } from './ShowSettingsControl';
+import styles from './Header.module.css';
 
 export const Header = () => {
   return (
@@ -12,9 +11,9 @@ export const Header = () => {
         <h1 className={styles.appTitle}>LexiChi</h1>
 
         <div className={styles.controls}>
+          {/* <ClearSelectionControl /> */}
           <ShowLexiconControl />
-          <ClearSelectionControl />
-          <Settings />
+          <ShowSettingsControl />
         </div>
       </div>
     </header>

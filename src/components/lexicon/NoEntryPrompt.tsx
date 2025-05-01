@@ -3,12 +3,10 @@ import { useSelection } from '@/context/SelectionContext';
 import { Button } from '@/design-system';
 import styles from './NoEntryPrompt.module.css';
 import { resolveLanguage } from '@/utils/resolveLanguage';
-
-// Define a type for the MDX component
-type MDXComponent = React.ComponentType<Record<string, never>>;
+import { getLexiconEntryKey } from '@/utils/getLexiconEntryKey';
 
 interface NoEntryPromptProps {
-  onGenerate?: (entry: MDXComponent) => void;
+  onGenerate?: (entry: string) => void;
 }
 
 export default function NoEntryPrompt({ onGenerate }: NoEntryPromptProps) {
@@ -20,17 +18,19 @@ export default function NoEntryPrompt({ onGenerate }: NoEntryPromptProps) {
   const generateNewEntry = async () => {
     setGenerating(true);
     setError(null);
-    const resolvedOGLanguage = resolveLanguage(selectedWords?.[0], 'original');
 
     try {
+      const language = resolveLanguage(selectedWords?.[0], 'original');
+      const key = getLexiconEntryKey(selectedWords);
+
       const response = await fetch('/api/lexicon/generate-entry', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          wordArray: selectedWords,
-          language: resolvedOGLanguage,
+          key,
+          language,
         }),
       });
 
@@ -40,7 +40,7 @@ export default function NoEntryPrompt({ onGenerate }: NoEntryPromptProps) {
         throw new Error(data.error || 'Failed to generate entry');
       }
 
-      if (data) onGenerate?.(data);
+      if (data.entry) onGenerate?.(data.entry);
     } catch (err) {
       setError(
         err instanceof Error ? err.message : 'An unknown error occurred'
@@ -55,7 +55,7 @@ export default function NoEntryPrompt({ onGenerate }: NoEntryPromptProps) {
       <div className={styles.NoEntryPrompt}>
         <div>There was an error generating this entry</div>
         <pre>
-          <code>{JSON.stringify({ error })}</code>
+          <code>{JSON.stringify({ error }, null, 2)}</code>
         </pre>
       </div>
     );

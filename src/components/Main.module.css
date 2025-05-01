@@ -3,3 +3,33 @@
   transition: margin-inline-end 0.3s ease;
   flex-grow: 1;
 }
+
+@media (min-width: 80ch) {
+  .main {
+    display: flex;
+  }
+
+  .primaryPanel {
+    flex-grow: 1;
+    overflow: auto;
+    max-height: 100dvh;
+    padding: var(--ds-space-4) var(--ds-space-4) 0;
+  }
+
+  .secondaryPanel {
+    overflow: auto;
+    max-height: 100dvh;
+    max-width: min(80ch, 50vw);
+    width: var(--main-secondary-panel-width);
+    padding-block-end: var(--header-max-height);
+    transition: 0.3s ease width;
+  }
+
+  .secondaryPanel > * {
+    padding: var(--ds-space-4);
+  }
+
+  .secondaryPanelTitle {
+    font-size: 1rem;
+  }
+}

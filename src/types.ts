@@ -463,3 +463,8 @@ export type WordOrWordArray =
       word: never;
       wordArray: TranslationWord[];
     };
+
+export type LexiconReference = {
+  key: string;
+  language?: ResolvedLanguageKey;
+};
