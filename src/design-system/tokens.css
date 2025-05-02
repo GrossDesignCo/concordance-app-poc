@@ -90,7 +90,8 @@
   --ds-cream-300: #634b4d;
   --ds-cream-200: #432f36;
   --ds-cream-100: #2b1a23;
-  --ds-cream-0: #1d1b1e;
+  --ds-cream-50: #1d1b1e;
+  --ds-cream-0: #131213;
 }
 
 /* Semantic Tokens - Default to Light Theme */
@@ -118,7 +119,7 @@
 .theme-dark,
 [data-theme='dark'] {
   --ds-bg-high-contrast: var(--ds-cream-0);
-  --ds-bg-default: var(--ds-cream-100);
+  --ds-bg-default: var(--ds-cream-50);
   --ds-bg-low-contrast: var(--ds-cream-200);
   --ds-bg-container: var(--ds-cream-200);
   --ds-bg-container-low-contrast: var(--ds-cream-300);

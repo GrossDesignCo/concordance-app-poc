@@ -23,6 +23,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+[data-theme='dark'] body {
+  background: var(--ds-bg-high-contrast);
+}
+
 * {
   box-sizing: border-box;
   padding: 0;

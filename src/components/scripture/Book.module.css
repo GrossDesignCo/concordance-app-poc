@@ -4,6 +4,10 @@
   padding: var(--ds-space-6);
 }
 
+:global([data-theme='dark']) .Book {
+  background-color: var(--ds-bg-default);
+}
+
 /* .BookName {
   position: sticky;
   top: 1rem;
