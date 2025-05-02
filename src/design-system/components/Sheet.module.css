@@ -18,6 +18,11 @@
   will-change: height, transform;
 }
 
+:global([data-theme='dark']) .content {
+  background-color: var(--ds-bg-container);
+  box-shadow: 0 0 var(--ds-space-4) var(--ds-bg-high-contrast);
+}
+
 .content.expanded {
   height: calc(100dvh - 3rem);
 }
@@ -36,6 +41,10 @@
   flex-shrink: 0;
   background-color: var(--ds-bg-default);
   z-index: 1;
+}
+
+:global([data-theme='dark']) .handle {
+  background-color: var(--ds-bg-container);
 }
 
 .handle:active {
