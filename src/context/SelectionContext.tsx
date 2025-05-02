@@ -5,7 +5,7 @@ interface SelectionContextProps {
   selectedWords: TranslationWord[];
   selectSingleWord: (word: TranslationWord) => void;
   toggleWordSelection: (word: TranslationWord) => void;
-  addWordToSelection: (word: TranslationWord) => void;
+  selectAdditionalWord: (word: TranslationWord) => void;
   selectRange: (startWord: TranslationWord, endWord: TranslationWord) => void;
   clearSelection: () => void;
 }
@@ -31,8 +31,12 @@ export const SelectionProvider = ({ children }: { children: ReactNode }) => {
     });
   };
 
-  const addWordToSelection = (word: TranslationWord) => {
-    if (!selectedWords.includes(word)) {
+  const selectAdditionalWord = (word: TranslationWord) => {
+    // If selected, de-select
+    if (selectedWords.includes(word) && selectedWords.length < 6) {
+      setSelectedWords((prev) => [...prev.filter((w) => w !== word)]);
+    } else {
+      // If not already selected, select this word
       setSelectedWords((prev) => [...prev, word]);
     }
   };
@@ -56,7 +60,7 @@ export const SelectionProvider = ({ children }: { children: ReactNode }) => {
         selectedWords,
         selectSingleWord,
         toggleWordSelection,
-        addWordToSelection,
+        selectAdditionalWord,
         selectRange,
         clearSelection,
       }}

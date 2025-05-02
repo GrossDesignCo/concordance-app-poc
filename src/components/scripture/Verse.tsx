@@ -1,11 +1,10 @@
 'use client';
-import type { Verse as VerseType, LanguageKey, TranslationWord } from '@/types';
+import type { Verse as VerseType, LanguageKey } from '@/types';
 import { useSettings } from '@/context/SettingsContext';
 import { String } from '../text/String';
 import styles from './Verse.module.css';
 import { useLexicon } from '@/context/LexiconContext';
 import { useEffect } from 'react';
-import { useSelection } from '@/context/SelectionContext';
 import { resolveLanguage } from '@/utils/resolveLanguage';
 
 interface VerseProps {
@@ -19,7 +18,6 @@ export default function Verse({ verse }: VerseProps) {
     showOriginal,
     showTransliteration,
   } = useSettings();
-  const { selectSingleWord } = useSelection();
 
   // Determine what to show
   const languages: Record<LanguageKey, boolean> = {
@@ -49,12 +47,6 @@ export default function Verse({ verse }: VerseProps) {
     checkWordsForEntryPresence,
   ]);
 
-  // Handle selecting/de-selecting words within this verse
-  const handleClick = (e: MouseEvent, word: TranslationWord) => {
-    // console.log('click word', { metaKey: e.metaKey });
-    selectSingleWord(word);
-  };
-
   return (
     <>
       {verse.meta.number ? (
@@ -76,7 +68,6 @@ export default function Verse({ verse }: VerseProps) {
             language={language as LanguageKey}
             key={resolvedLanguage}
             showGrammar
-            onClick={handleClick}
           />
         );
 
