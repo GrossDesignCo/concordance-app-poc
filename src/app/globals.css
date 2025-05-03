@@ -15,7 +15,7 @@ body {
   font-family: 'Noto Sans Hebrew', sans-serif;
   font-size: 1rem;
   font-weight: 400;
-  line-height: 1.5;
+  line-height: 1.65;
   display: flex;
   flex-direction: column;
   min-height: 100dvh;
@@ -52,6 +52,12 @@ a {
 ul,
 ol {
   padding-inline-start: 1em;
+}
+
+blockquote {
+  background-color: var(--ds-bg-high-contrast);
+  padding: var(--ds-space-2);
+  border-radius: var(--ds-radius-lg);
 }
 
 .markdown-text {

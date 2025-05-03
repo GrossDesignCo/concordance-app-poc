@@ -19,12 +19,26 @@
   margin: 0 auto;
 }
 
+.appTitleContainer {
+  display: flex;
+  align-items: center;
+  gap: var(--ds-space-2);
+  color: var(--ds-fg-low-contrast);
+}
+
 .appTitle {
   font-size: 1rem;
   line-height: 1.5;
 }
 
+.appTitleContainer a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .controls {
   display: flex;
+  align-items: center;
   gap: var(--ds-space-2);
 }
