@@ -83,7 +83,7 @@ export default function Word({
       >
         <span
           className={cx(styles.Word, {
-            [`theme-${reverseTheme}`]: isSelected,
+            // [`theme-${reverseTheme}`]: isSelected,
           })}
         >
           {formattedWordText}

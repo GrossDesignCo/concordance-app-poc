@@ -30,8 +30,8 @@
 .selected .Word {
   padding: var(--ds-space-1);
   /* Selected words are also rendered in reversed theme */
-  background-color: var(--ds-bg-default);
-  color: var(--ds-fg-high-contrast);
+  background-color: var(--ds-fg-default);
+  color: var(--ds-bg-default);
 }
 
 .selectedRoot .Word {
