@@ -101,6 +101,12 @@ export const prefixes: Record<string, PrefixElement> = {
       englishLiteral: 'he-will-himself',
       englishNatural: '',
     },
+    yi: {
+      hebrew: 'יִ',
+      transliteration: 'yi',
+      englishLiteral: 'let',
+      englishNatural: 'let',
+    },
     hi: {
       hebrew: 'הִ',
       transliteration: 'hi',
@@ -130,6 +136,12 @@ export const prefixes: Record<string, PrefixElement> = {
       transliteration: 'ti',
       englishLiteral: 'you-shall',
       englishNatural: 'you shall',
+    },
+    la: {
+      hebrew: 'לַ',
+      transliteration: 'la',
+      englishLiteral: 'to',
+      englishNatural: 'to',
     },
     // Isaiah prefixes
     // Add other common prefixes

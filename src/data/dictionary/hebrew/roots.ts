@@ -251,6 +251,12 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'midst',
     englishNatural: 'midst',
   },
+  ken: {
+    hebrew: 'כֵּן',
+    transliteration: 'ken',
+    englishLiteral: 'so',
+    englishNatural: 'so',
+  },
   min: {
     hebrew: 'מִן',
     transliteration: 'min',
@@ -457,8 +463,8 @@ export const roots: Record<string, RootElement> = {
   al: {
     hebrew: 'עַל',
     transliteration: 'al',
-    englishLiteral: 'on',
-    englishNatural: 'on',
+    englishLiteral: 'over',
+    englishNatural: 'over',
   },
   // Isaiah roots
   seraph: {
@@ -562,6 +568,12 @@ export const roots: Record<string, RootElement> = {
     transliteration: 'shevet',
     englishLiteral: 'rod',
     englishNatural: 'rod',
+  },
+  tachat: {
+    hebrew: 'תחת',
+    transliteration: 'tachat',
+    englishLiteral: 'under',
+    englishNatural: 'under',
   },
   makah: {
     hebrew: 'מכה',
@@ -700,5 +712,59 @@ export const roots: Record<string, RootElement> = {
     transliteration: 'beyn',
     englishLiteral: 'between',
     englishNatural: 'between',
+  },
+  qara: {
+    hebrew: 'קרא',
+    transliteration: 'qara',
+    englishLiteral: 'call',
+    englishNatural: 'call',
+  },
+  yom: {
+    hebrew: 'יום',
+    transliteration: 'yom',
+    englishLiteral: 'day',
+    englishNatural: 'day',
+  },
+  layil: {
+    hebrew: 'ליל',
+    transliteration: 'layil',
+    englishLiteral: 'night',
+    englishNatural: 'night',
+  },
+  raqia: {
+    hebrew: 'רקיע',
+    transliteration: 'raqia',
+    englishLiteral: 'canopy',
+    englishNatural: 'canopy',
+  },
+  qavah: {
+    hebrew: 'קוה',
+    transliteration: 'qavah',
+    englishLiteral: 'gather',
+    englishNatural: 'gather',
+  },
+  maqom: {
+    hebrew: 'מקום',
+    transliteration: 'maqom',
+    englishLiteral: 'place',
+    englishNatural: 'place',
+  },
+  raah: {
+    hebrew: 'ראה',
+    transliteration: 'raah',
+    englishLiteral: 'appear',
+    englishNatural: 'appear',
+  },
+  yabashah: {
+    hebrew: 'יבשה',
+    transliteration: 'yabashah',
+    englishLiteral: 'dry-land',
+    englishNatural: 'dry land',
+  },
+  yam: {
+    hebrew: 'ים',
+    transliteration: 'yam',
+    englishLiteral: 'sea',
+    englishNatural: 'sea',
   },
 };

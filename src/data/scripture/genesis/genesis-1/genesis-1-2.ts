@@ -106,8 +106,8 @@ export const genesis_1_2: Verse = {
     {
       hebrew: 'עַל־פְּנֵ֣י',
       transliteration: 'al-peney',
-      englishLiteral: 'on-face-of',
-      englishNatural: 'on the face of',
+      englishLiteral: 'over-face-of',
+      englishNatural: 'over the face of',
       root: 'panah',
       prefixes: ['al'],
       suffixes: ['ey'],
@@ -210,8 +210,8 @@ export const genesis_1_2: Verse = {
     {
       hebrew: 'עַל־פְּנֵ֥י',
       transliteration: 'al-peney',
-      englishLiteral: 'on-face-of',
-      englishNatural: 'on the face of',
+      englishLiteral: 'over-face-of',
+      englishNatural: 'over the face of',
       root: 'panah',
       prefixes: ['al'],
       suffixes: ['ey'],
@@ -258,9 +258,9 @@ export const genesis_1_2: Verse = {
     transliteration:
       'veHaAretz haytah tohu vaVohu veChoshekh al-peney tehom veRuach Elohim meRachefet al-peney haMayim',
     englishLiteral:
-      'And-the-land was waste and-void, and-darkness, on-face-of deep. And-Wind, Gods, was-stirring on-face-of the-waters.',
+      'And-the-land was waste and-void, and-darkness, over-face-of deep. And-Wind, Gods, was-stirring over-face-of the-waters.',
     englishNatural:
-      'And the land was waste and void, and darkness, on the face of the deep. And the Wind of God was stirring on the face of the waters.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-04-28' },
+      'And the land was waste and void, and darkness, over the face of the deep. And the Wind of God was stirring over the face of the waters.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
   },
 };

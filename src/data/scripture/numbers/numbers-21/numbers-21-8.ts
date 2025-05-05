@@ -176,8 +176,8 @@ export const numbers_21_8: Verse = {
     {
       hebrew: 'עַל',
       transliteration: 'al',
-      englishLiteral: 'on',
-      englishNatural: 'on',
+      englishLiteral: 'over',
+      englishNatural: 'over',
       root: 'al',
       order: {
         hebrew: 10,
@@ -345,8 +345,9 @@ export const numbers_21_8: Verse = {
     transliteration:
       'vaYomer YHWH el Moshe aseh lekha saraph veSim oto al nes veHayah kol haNashukh veRaah oto vaChai',
     englishLiteral:
-      'And-said I_AM to Moses, "Make for-yourself burning_one, and-place it on standard, and-it-will-be, all the-struck, and-sees it, and-lives."',
+      'And-said I_AM to Moses, "Make for-yourself burning_one, and-place it over standard, and-it-will-be, all the-struck, and-sees it, and-lives."',
     englishNatural:
-      'And I-AM said to Moses, "Make for yourself a burning-one, and place it on a standard; and it shall come about, everyone who is struck, and sees it, will live."',
-  },
+      'And I-AM said to Moses, "Make for yourself a burning-one, and place it over a standard; and it shall come about, everyone who is struck, and sees it, will live."',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+},
 };
