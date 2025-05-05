@@ -104,6 +104,7 @@ export const genesis_1_8: Verse = {
     transliteration: 'vaYiqra Elohim laRaqia shamayim',
     englishLiteral: 'And-called, Gods, to_the-canopy, "Heavens."',
     englishNatural: 'And God called the canopy, "Heavens."',
+    kjv: 'And God called the firmament Heaven.',
     lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
   },
 }; 

@@ -281,5 +281,7 @@ export const numbers_21_6: Verse = {
       'And-sent, I_AM, among-the-people ↳ the-snakes, the-burning_ones, and-they-struck ↳ the-people, and-died, people, many, from-Struggles_With_God.',
     englishNatural:
       'And I-AM sent the snakes, the burning-ones, among the people, and they struck the people; and many people of Struggles-With-God died.',
-  },
+    kjv: 'And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+},
 };

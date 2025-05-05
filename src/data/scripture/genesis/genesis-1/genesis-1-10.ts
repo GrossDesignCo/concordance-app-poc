@@ -274,6 +274,7 @@ export const genesis_1_10: Verse = {
     transliteration: 'vaYiqra Elohim laYabashah eretz uLeMiQveh haMayim qara yamim vaYar Elohim ki-tov',
     englishLiteral: 'And-called, Gods, to-the-dry_ground, "Land," and-to-gathering, the-waters, called, "Seas." And-saw, Gods, that, good.',
     englishNatural: 'And God called the dry-ground "Land," and called the gathering of the waters "Seas." And God saw that-it-was good.',
+    kjv: 'And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.',
     lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
   },
 }; 

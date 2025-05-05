@@ -10,7 +10,8 @@ export const genesis_3_2: Verse = {
     transliteration: 'vaTomar haIshah el-haNachash miPri etz-haGan nochil',
     englishLiteral: 'And-said, the-woman, to, the-snake, "from-fruit-of tree the-garden, we-eat."',
     englishNatural: 'And the woman said to the snake, "From the fruit of the tree of the garden we may eat."',
-    lastReviewed: { name: 'Matt Gross', date: '2025-04-29' },
+    kjv: 'And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
 },
   words: [
     {

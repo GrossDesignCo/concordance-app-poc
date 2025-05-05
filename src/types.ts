@@ -431,6 +431,7 @@ export interface Verse {
     englishLiteral: string; // Our hyper-literal translation, should follow hebrew/greek word order
     englishNatural: string; // More natural English, should follow english word order
     greek?: string; // Following Greek syntax, should follow greek word order
+    kjv?: string; // King James Version translation
   };
 }
 

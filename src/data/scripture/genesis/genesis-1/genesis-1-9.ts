@@ -289,6 +289,7 @@ export const genesis_1_9: Verse = {
     transliteration: 'vaYomer Elohim yiqqavu haMayim miTachat haShamayim el-maqom echad veTeraah haYabashah vaYehi-ken',
     englishLiteral: 'And-said, Gods, "Let-gather, the-waters, from-under the-heavens, to→ place, one. And-let-appear, the-dry_ground." And-it-was so.',
     englishNatural: 'And God said, "Let the waters gather from under the heavens to one place. And let the dry-ground appear." And it was so.',
+    kjv: 'And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.',
     lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
   },
 }; 

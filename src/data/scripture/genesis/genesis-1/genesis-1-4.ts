@@ -245,6 +245,7 @@ export const genesis_1_4: Verse = {
       'And-saw, Gods, ↳ the-light that good. And-separated, Gods, between the-light and-between the-darkness.',
     englishNatural:
       'And God saw the light; good. And God separated between the light and between the darkness.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-04-28' },
-},
+    kjv: 'And God saw the light, that it was good: and God divided the light from the darkness.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+  },
 };

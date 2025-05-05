@@ -102,7 +102,7 @@ export const genesis_1_7: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
-        englishNatural: ',',
+        englishNatural: '',
       },
     },
     {
@@ -267,6 +267,44 @@ export const genesis_1_7: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
+    },
+    {
+      hebrew: 'וַֽיְהִי־',
+      transliteration: 'vaYehi-',
+      englishLiteral: 'And-it-was',
+      englishNatural: 'And it was',
+      root: 'hayah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'כֵֽן׃',
+      transliteration: 'ken',
+      englishLiteral: 'so',
+      englishNatural: 'so',
+      root: 'ken',
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
       lineBreaksAfter: {
         hebrew: 2,
         english: 2,
@@ -274,14 +312,11 @@ export const genesis_1_7: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew:
-      'וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־הָרָקִ֖יעַ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֙יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֖יִם אֲשֶׁ֥ר מֵעַ֣ל לָרָקִ֑יעַ',
-    transliteration:
-      'vaYaas Elohim et-haRaqia vaYavdel beyn haMayim asher miTachat laRaqia uBeyn haMayim asher meAl laRaqia',
-    englishLiteral:
-      'And-made, Gods, ↳ the-canopy, and-separated, between the-waters which from-under to_the-canopy, and-between the-waters which from-over to_the-canopy.',
-    englishNatural:
-      'And God made the canopy, and separated, between the waters which were under the canopy, and between the waters which were over the canopy.',
+    hebrew: 'וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־הָרָקִ֖יעַ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֙יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֖יִם אֲשֶׁ֥ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי־כֵֽן׃',
+    transliteration: 'vaYaas Elohim et-haRaqia vaYavdel beyn haMayim asher miTachat laRaqia uBeyn haMayim asher meAl laRaqia vaYehi-ken',
+    englishLiteral: 'And-made, Gods, ↳ the-canopy, and-separated, between the-waters which from-under to_the-canopy, and-between the-waters which from-over to_the-canopy. And-it-was so.',
+    englishNatural: 'And God made the canopy, and separated between the waters which were under the canopy, and between the waters which were over the canopy. And it was so.',
+    kjv: 'And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.',
     lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
   },
 }; 

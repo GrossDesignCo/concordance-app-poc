@@ -271,5 +271,7 @@ export const isaiah_6_2: Verse = {
     transliteration: 'seraphim omedim miMaal lo shesh kenafayim leEchad biShtayim yeKhasseh panav uViShtayim yeKhasseh raglav uViShtayim yeOfef',
     englishLiteral: 'burning_ones standing from-above to-him six wings to-one with-two he-covers his-face and-with-two he-covers his-feet and-with-two he-flies',
     englishNatural: 'burning-ones standing from above to him six wings to each one with two he covers his face and with two he covers his feet and with two he flies',
-  },
+    kjv: 'Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+},
 }; 

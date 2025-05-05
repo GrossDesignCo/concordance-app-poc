@@ -154,5 +154,7 @@ export const proverbs_22_3: Verse = {
       'Shrewd sees bad and-himself-hides, but-simples pass-on and-are-punished.',
     englishNatural:
       'The Shrewd sees bad and hides himself, but the simple go on and are punished.',
-  },
+    kjv: 'A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+},
 };

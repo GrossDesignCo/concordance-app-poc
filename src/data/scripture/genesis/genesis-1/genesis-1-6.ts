@@ -229,6 +229,7 @@ export const genesis_1_6: Verse = {
     transliteration: 'vaYomer Elohim yehi raqia beTokh haMayim vihi mavdil beyn mayim laMayim',
     englishLiteral: 'And-said, Gods, Let-be canopy in-midst-of the-waters, and-let-be separating between waters to-waters.',
     englishNatural: 'And God said, "Let canopy be in the midst of the waters, and let it be separating between waters and waters."',
+    kjv: 'And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.',
     lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
   },
 }; 

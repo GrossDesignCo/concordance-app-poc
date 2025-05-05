@@ -153,6 +153,7 @@ export const genesis_1_3: Verse = {
     transliteration: 'vaYomer Elohim yehi or vaYehi or',
     englishLiteral: 'And-said, Gods, "Let-be light." And-was light.',
     englishNatural: 'And God said, "Let light be." And light was.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-04-28' },
+    kjv: 'And God said, Let there be light: and there was light.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
   },
 };

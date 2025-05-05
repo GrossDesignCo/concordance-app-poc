@@ -50,6 +50,18 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'land',
     englishNatural: 'land',
   },
+  erev: {
+    hebrew: 'ערב',
+    transliteration: 'erev',
+    englishLiteral: 'evening',
+    englishNatural: 'evening',
+  },
+  boqer: {
+    hebrew: 'בקר',
+    transliteration: 'boqer',
+    englishLiteral: 'morning',
+    englishNatural: 'morning',
+  },
   tohu: {
     hebrew: 'תהו',
     transliteration: 'tohu',

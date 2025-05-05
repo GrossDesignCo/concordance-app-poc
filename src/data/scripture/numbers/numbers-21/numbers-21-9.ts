@@ -363,5 +363,7 @@ export const numbers_21_9: Verse = {
       'And-made, Moses, snake, bronze, and-he-placed-it on the-standard, and-it-was, if struck the-snake ↳ man, and-he-looked to snake, the-bronze, and-lived.',
     englishNatural:
       'And Moses made a bronze snake, and he placed it on the standard; and it came about, if the snake struck a man, and he looked to the bronze snake, he lived.',
-  },
+    kjv: 'And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+},
 };

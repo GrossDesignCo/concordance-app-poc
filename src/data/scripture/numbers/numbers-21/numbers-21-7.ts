@@ -265,8 +265,8 @@ export const numbers_21_7: Verse = {
     {
       hebrew: 'מֵעָלֵינוּ',
       transliteration: 'meAleinu',
-      englishLiteral: 'from-up_on-us',
-      englishNatural: 'from upon us',
+      englishLiteral: 'from-over-us',
+      englishNatural: 'from over us',
       root: 'al',
       prefixes: ['me'],
       suffixes: ['einu'],
@@ -395,8 +395,10 @@ export const numbers_21_7: Verse = {
     transliteration:
       'vaYavo haAm el Moshe vaYomru chatanu ki dibarnu vaYHWH vaVeKha hitpalel el YHWH veYaSer meAleinu et haNachash vaYitpalel Moshe beAd haAm',
     englishLiteral:
-      'And-came the-people to Moses and-they-said, "we-have-sinned, that we-have-spoken against-I_AM and-against-you, pray to I_AM, and-may-he-turn_aside from-up_on-us ↳ the-snake." And-prayed Moses on-behalf-of the-people.',
+      'And-came the-people to Moses and-they-said, "we-have-sinned, that we-have-spoken against-I_AM and-against-you, pray to I_AM, and-may-he-turn_aside from-over-us ↳ the-snake." And-prayed Moses on-behalf-of the-people.',
     englishNatural:
-      'And the people came to Moses and said, "We have sinned, that we have spoken against I-AM and against you; pray to I-AM, and may he turn-aside the snake from upon us." And Moses prayed on behalf of the people.',
-  },
+      'And the people came to Moses and said, "We have sinned, that we have spoken against I-AM and against you; pray to I-AM, and may he turn-aside the snake from over us." And Moses prayed on behalf of the people.',
+    kjv: 'Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+},
 };

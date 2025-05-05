@@ -261,6 +261,7 @@ export const genesis_1_2: Verse = {
       'And-the-land was waste and-void, and-darkness, over-face-of deep. And-Wind, Gods, was-stirring over-face-of the-waters.',
     englishNatural:
       'And the land was waste and void, and darkness, over the face of the deep. And the Wind of God was stirring over the face of the waters.',
+    kjv: 'And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.',
     lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
   },
 };

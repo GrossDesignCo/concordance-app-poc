@@ -348,6 +348,7 @@ export const numbers_21_8: Verse = {
       'And-said I_AM to Moses, "Make for-yourself burning_one, and-place it over standard, and-it-will-be, all the-struck, and-sees it, and-lives."',
     englishNatural:
       'And I-AM said to Moses, "Make for yourself a burning-one, and place it over a standard; and it shall come about, everyone who is struck, and sees it, will live."',
+    kjv: 'And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.',
     lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
-},
+  },
 };

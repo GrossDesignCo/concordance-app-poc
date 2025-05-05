@@ -364,6 +364,7 @@ export const revelation_20_1: Verse = {
       'and I-saw messenger descending out-of the heaven, having the key the abyss, and chain great upon the hand his.',
     englishNatural:
       'and I saw a messenger descending from the heaven, having the key the abyss, and a chain great in the hand of his.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-04-29' },
+    kjv: 'And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
   },
 };

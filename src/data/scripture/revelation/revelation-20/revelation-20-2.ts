@@ -361,5 +361,7 @@ export const revelation_20_2: Verse = {
     transliteration: 'kai ekratēsen ton drakonta ton ophin ton archaion hos estin Diabolos kai ho Satanas kai edēsen auton chilia etē',
     englishLiteral: 'and he-seized the dragon, the snake, the ancient, who is Accuser and the Adversary, and he-bound him thousand years',
     englishNatural: 'and he seized the dragon, the snake, the ancient, who is the Accuser and the Adversary, and he bound him a thousand years',
-  },
+    kjv: 'And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+},
 }; 

@@ -141,6 +141,7 @@ export const genesis_1_1: Verse = {
     transliteration: 'beReshit bara Elohim et haShamayim veEt haAretz',
     englishLiteral: 'In-heading, created, Gods, ↳ the-heavens and-↳ the-land.',
     englishNatural: 'In heading, God created the heavens and the land.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-04-28' },
+    kjv: 'In the beginning God created the heaven and the earth.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
   },
 };

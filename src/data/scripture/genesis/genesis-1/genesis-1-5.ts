@@ -166,7 +166,7 @@ export const genesis_1_5: Verse = {
     {
       hebrew: 'וַֽיְהִי',
       transliteration: 'vaYehi',
-      englishLiteral: 'and-was',
+      englishLiteral: 'And-was',
       englishNatural: 'was',
       root: 'hayah',
       prefixes: ['va'],
@@ -194,7 +194,7 @@ export const genesis_1_5: Verse = {
       hebrew: 'עֶ֥רֶב',
       transliteration: 'erev',
       englishLiteral: 'evening',
-      englishNatural: 'and evening',
+      englishNatural: 'And evening',
       root: 'erev',
       order: {
         hebrew: 9,
@@ -207,7 +207,7 @@ export const genesis_1_5: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
-        englishNatural: ',',
+        englishNatural: '',
       },
       lineBreaksBefore: {
         english: 1,
@@ -216,7 +216,7 @@ export const genesis_1_5: Verse = {
     {
       hebrew: 'וַֽיְהִי',
       transliteration: 'vaYehi',
-      englishLiteral: 'and-was',
+      englishLiteral: 'And-was',
       englishNatural: 'was',
       root: 'hayah',
       prefixes: ['va'],
@@ -244,7 +244,7 @@ export const genesis_1_5: Verse = {
       hebrew: 'בֹ֖קֶר',
       transliteration: 'voqer',
       englishLiteral: 'morning',
-      englishNatural: 'and morning',
+      englishNatural: 'And morning',
       root: 'boqer',
       order: {
         hebrew: 11,
@@ -257,21 +257,20 @@ export const genesis_1_5: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
-        englishNatural: ',',
       },
       lineBreaksBefore: {
-        english: 1,
+        hebrew: 1,
       },
     },
     {
       hebrew: 'י֥וֹם',
       transliteration: 'yom',
-      englishLiteral: 'day',
-      englishNatural: 'day',
+      englishLiteral: 'Day',
+      englishNatural: 'Day',
       root: 'yom',
       order: {
         hebrew: 12,
-        english: 12,
+        english: 11,
       },
       morphology: {
         gender: 'masculine',
@@ -290,7 +289,7 @@ export const genesis_1_5: Verse = {
       root: 'echad',
       order: {
         hebrew: 13,
-        english: 13,
+        english: 12,
       },
       morphology: {
         gender: 'masculine',
@@ -310,8 +309,9 @@ export const genesis_1_5: Verse = {
   expectedTranslations: {
     hebrew: 'וַיִּקְרָ֨א אֱלֹהִ֤ים לָא֔וֹר י֑וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם אֶחָֽד',
     transliteration: 'vaYiqra Elohim laOr yom veLaChoshekh qara laylah vaYehi erev vaYehi voqer yom echad',
-    englishLiteral: 'And-called, Gods, to-light, "Day," and-to-darkness, called, "Night." And-was, evening, And-was, morning, day one.',
-    englishNatural: 'And God called light "Day," and called darkness "Night." And was evening, and was morning, day one.',
+    englishLiteral: 'And-called, Gods, to-light, "Day," and-to-darkness, called, "Night." And-was, evening, And-was, morning, Day one.',
+    englishNatural: 'And God called light "Day," and called darkness "Night." And evening was, And morning was, Day one.',
+    kjv: 'And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.',
     lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
   },
 }; 
