@@ -1,4 +1,4 @@
-import { useTheme } from 'next-themes';
+// import { useTheme } from 'next-themes';
 import { LanguageKey, TranslationWord } from '@/types';
 import { useSelection } from '@/context/SelectionContext';
 import cx from 'classnames';
@@ -37,8 +37,8 @@ export default function Word({
   const selectedRoots = selectedWords.map((w) => w.root);
   const hasSelectedRoot = word.root && selectedRoots.includes(word.root);
 
-  const { resolvedTheme } = useTheme();
-  const reverseTheme = resolvedTheme === 'light' ? 'dark' : 'light';
+  // const { resolvedTheme } = useTheme();
+  // const reverseTheme = resolvedTheme === 'light' ? 'dark' : 'light';
 
   // Get the actual text + grammar of the word to render based on props + data
   const { wordText, formattedWordText } = formatWord(
