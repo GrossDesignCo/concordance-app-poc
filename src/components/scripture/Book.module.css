@@ -18,7 +18,11 @@
   flex-direction: column;
   gap: 1rem;
   margin-block-start: 1rem;
-  background: var(--ds-bg-default);
+  background: var(--ds-bg-high-contrast);
   border-radius: var(--ds-radius-lg);
   padding: var(--ds-space-6);
+}
+
+[data-theme="dark"] .chapters {
+  background: var(--ds-bg-default);
 }
