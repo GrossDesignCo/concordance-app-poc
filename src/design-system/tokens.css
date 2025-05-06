@@ -84,14 +84,14 @@
   --ds-cream-900: #faf3f0;
   --ds-cream-800: #eadedc;
   --ds-cream-700: #e0cece;
-  --ds-cream-600: #c9a8a8;
+  --ds-cream-600: #c8afaf;
   --ds-cream-500: #9a7777;
   --ds-cream-400: #876a6e;
   --ds-cream-300: #634b4d;
   --ds-cream-200: #432f36;
-  --ds-cream-100: #2b1a23;
-  --ds-cream-50: #1d1b1e;
-  --ds-cream-0: #131213;
+  --ds-cream-100: #2e2027;
+  --ds-cream-50: #23161c;
+  --ds-cream-0: #160d11;
 }
 
 /* Semantic Tokens - Default to Light Theme */
@@ -121,8 +121,8 @@
   --ds-bg-high-contrast: var(--ds-cream-0);
   --ds-bg-default: var(--ds-cream-50);
   --ds-bg-low-contrast: var(--ds-cream-100);
-  --ds-bg-container: var(--ds-cream-0);
-  --ds-bg-container-low-contrast: var(--ds-cream-300);
+  --ds-bg-container: var(--ds-cream-100);
+  --ds-bg-container-low-contrast: var(--ds-cream-200);
   --ds-bg-overlay: radial-gradient(var(--ds-cream-200), var(--ds-cream-400));
 
   --ds-mg-border: var(--ds-cream-500);

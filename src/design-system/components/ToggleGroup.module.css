@@ -1,0 +1,47 @@
+.toggleGroup {
+  display: flex;
+  gap: var(--ds-space-2);
+  flex-wrap: wrap;
+}
+
+.toggleOption {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--ds-space-2);
+  padding: var(--ds-space-3);
+  border-radius: var(--ds-radius-md);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background: var(--ds-bg-container);
+}
+
+.toggleOption:hover {
+  background: var(--ds-bg-container-low-contrast);
+}
+
+.toggleOption.selected {
+  background: var(--ds-bg-container-low-contrast);
+}
+
+.preview {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--ds-font-size-lg);
+}
+
+.label {
+  font-size: var(--ds-font-size-sm);
+  color: var(--ds-fg-default);
+}
+
+.input {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+} 

@@ -19,6 +19,10 @@
   margin: 0 auto;
 }
 
+[data-theme='dark'] .headerContent {
+  background-color: var(--ds-bg-high-contrast);
+}
+
 .appTitleContainer {
   display: flex;
   align-items: center;

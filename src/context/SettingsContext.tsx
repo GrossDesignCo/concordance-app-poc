@@ -11,6 +11,8 @@ interface SettingsContextProps {
   setShowEnglishNatural: (value: boolean) => void;
   theme: string;
   setTheme: (value: string) => void;
+  font: 'sans' | 'serif';
+  setFont: (value: 'sans' | 'serif') => void;
 }
 
 const SettingsContext = createContext<SettingsContextProps | undefined>(
@@ -23,6 +25,7 @@ export const SettingsProvider = ({ children }: { children: ReactNode }) => {
   const [showEnglishLiteral, setShowEnglishLiteral] = useState(false);
   const [showEnglishNatural, setShowEnglishNatural] = useState(true);
   const [theme, setTheme] = useState('system');
+  const [font, setFont] = useState<'sans' | 'serif'>('sans');
 
   return (
     <SettingsContext.Provider
@@ -37,6 +40,8 @@ export const SettingsProvider = ({ children }: { children: ReactNode }) => {
         setShowEnglishNatural,
         theme,
         setTheme,
+        font,
+        setFont,
       }}
     >
       {children}

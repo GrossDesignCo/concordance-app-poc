@@ -14,6 +14,8 @@ const Settings = () => {
     setShowEnglishLiteral,
     showEnglishNatural,
     setShowEnglishNatural,
+    font,
+    setFont,
   } = useSettings();
 
   const { theme, setTheme } = useTheme();
@@ -40,6 +42,20 @@ const Settings = () => {
         checked={showEnglishNatural}
         onChange={() => setShowEnglishNatural(!showEnglishNatural)}
       />
+      <RadioGroup label="Font">
+        <Radio
+          label="Sans"
+          value="sans"
+          checked={font === 'sans'}
+          onChange={() => setFont('sans')}
+        />
+        <Radio
+          label="Serif"
+          value="serif"
+          checked={font === 'serif'}
+          onChange={() => setFont('serif')}
+        />
+      </RadioGroup>
       <RadioGroup label="Theme">
         <Radio
           label="Light"

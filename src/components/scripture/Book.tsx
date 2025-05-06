@@ -10,10 +10,12 @@ interface BookProps {
 export const Book = ({ bookData }: BookProps) => {
   return (
     <div className={styles.Book}>
-      <h1 className={styles.BookName}>{bookData?.meta?.name}</h1>
+      <div className={styles.bookMeta}>
+        <h1 className={styles.BookName}>{bookData?.meta?.name}</h1>
 
-      <div className={styles.translationChain}>
-        {bookData?.meta?.translationChain}
+        <div className={styles.translationChain}>
+          {bookData?.meta?.translationChain}
+        </div>
       </div>
 
       <div className={styles.chapters}>

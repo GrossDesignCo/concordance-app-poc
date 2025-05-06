@@ -3,6 +3,14 @@
   margin: 0 auto;
 }
 
+.scripture.sans {
+  font-family: 'Noto Sans Hebrew', sans-serif;
+}
+
+.scripture.serif {
+  font-family: 'Noto Serif Hebrew', serif;
+}
+
 .bookContainer {
   display: flex;
   flex-direction: column;
