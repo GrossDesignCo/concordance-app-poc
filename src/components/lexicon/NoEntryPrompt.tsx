@@ -4,6 +4,7 @@ import { Button } from '@/design-system';
 import styles from './NoEntryPrompt.module.css';
 import { resolveLanguage } from '@/utils/resolveLanguage';
 import { getLexiconEntryKey } from '@/utils/getLexiconEntryKey';
+import { getLexiconEntryPhrase } from '@/utils/getLexiconEntryPhrase';
 
 interface NoEntryPromptProps {
   onGenerate?: (entry: string) => void;
@@ -23,6 +24,8 @@ export default function NoEntryPrompt({ onGenerate }: NoEntryPromptProps) {
       const language = resolveLanguage(selectedWords?.[0], 'original');
       const key = getLexiconEntryKey(selectedWords);
 
+      const phrase = getLexiconEntryPhrase(selectedWords);
+
       const response = await fetch('/api/lexicon/generate-entry', {
         method: 'POST',
         headers: {
@@ -31,6 +34,10 @@ export default function NoEntryPrompt({ onGenerate }: NoEntryPromptProps) {
         body: JSON.stringify({
           key,
           language,
+          phrase,
+          supplementalData: {
+            selectedWords,
+          },
         }),
       });
 

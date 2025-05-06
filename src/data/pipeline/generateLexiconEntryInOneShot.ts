@@ -33,13 +33,15 @@ ${examplesAsText}
 
 export async function generateLexiconEntry({
   key,
+  phrase,
   supplementalData,
 }: {
   key: string;
+  phrase: string;
   supplementalData: Record<string, unknown>;
 }) {
   // Convert from key to phrase
-  const phrase = key.split('-');
+  const phraseToTranslate = phrase || key.split('-');
 
   // All good, proceed with generation
   const systemPrompt: Anthropic.Messages.TextBlockParam[] = [
@@ -56,7 +58,7 @@ export async function generateLexiconEntry({
     },
   ];
 
-  const userPrompt = `Create a detailed lexicon/concordance entry for the word/phrase "${phrase}".
+  const userPrompt = `Create a detailed lexicon/concordance entry for the word/phrase "${phraseToTranslate}".
     
 It should hold to these principles:
 1. Accuracy and preservation of the meaning in the biblical text is critical.
@@ -77,7 +79,7 @@ It should generally have the following sections
 7. Patterns: If there are distinctive patterns in this word's usage, or distinctive word-plays like seven/perfect, list each pattern as a sub-section with summary and usage examples. Otherwise skip this section.
 8. Cultural Context: Bridge the gap between modern English readers and the ancient Hebrew writers. Help us understand the impression/context/links this word would have triggered in readers at the time.
 
-Here also is an info-dump of supplemental data from the translation: ${supplementalData}`;
+Here also is an info-dump of supplemental data from our translation, pay close attention to the specific translation we've chosen for this word: ${supplementalData}`;
 
   const result = await anthropic.messages.create({
     // model: 'claude-3-5-haiku-20241022', // simpler model for cheaper tasks

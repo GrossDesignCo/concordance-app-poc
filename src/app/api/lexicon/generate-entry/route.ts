@@ -5,7 +5,7 @@ import { NextRequest } from 'next/server';
 
 export async function POST(request: NextRequest) {
   try {
-    const { key, language, supplementalData } = await request.json();
+    const { key, language, phrase, supplementalData } = await request.json();
 
     if (!key || !language) {
       // UI didn't provide needed params
@@ -21,6 +21,7 @@ export async function POST(request: NextRequest) {
     // All good, proceed with generation
     const entry = await generateLexiconEntry({
       key,
+      phrase,
       supplementalData,
     });
 
