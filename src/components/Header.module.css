@@ -1,7 +1,12 @@
 .header {
   position: sticky;
   bottom: 0;
-  padding-top: var(--ds-space-4);
+}
+
+@media (min-width: 80ch) {
+  .header {
+    padding: var(--ds-space-4) var(--ds-space-4) 0;
+  }
 }
 
 .headerContent {

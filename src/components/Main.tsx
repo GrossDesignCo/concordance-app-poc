@@ -68,29 +68,34 @@ export const Main = () => {
   }, [secondaryPanel, isDesktop]);
 
   return (
-    <main className={styles.main}>
-      <div className={styles.primaryPanel}>
-        <ScriptureReader />
-        <Header />
-      </div>
-
-      {/* On mobile by default, just render the secondary panel items as sheets */}
-      {isDesktop ? (
-        <div className={styles.secondaryPanel}>
-          <h2 className={styles.secondaryPanelTitle}>{secondaryPanelTitle}</h2>
-          {secondaryPanelContent}
+    <>
+      <main className={styles.main}>
+        <div className={styles.primaryPanel}>
+          <ScriptureReader />
         </div>
-      ) : (
-        <Sheet
-          open={Boolean(secondaryPanel)}
-          onOpenChange={(open) => {
-            if (!open) setSecondaryPanel(null);
-          }}
-          title={secondaryPanelTitle}
-        >
-          {secondaryPanelContent}
-        </Sheet>
-      )}
-    </main>
+
+        {/* On mobile by default, just render the secondary panel items as sheets */}
+        {isDesktop ? (
+          <div className={styles.secondaryPanel}>
+            <h2 className={styles.secondaryPanelTitle}>
+              {secondaryPanelTitle}
+            </h2>
+            {secondaryPanelContent}
+          </div>
+        ) : (
+          <Sheet
+            open={Boolean(secondaryPanel)}
+            onOpenChange={(open) => {
+              if (!open) setSecondaryPanel(null);
+            }}
+            title={secondaryPanelTitle}
+          >
+            {secondaryPanelContent}
+          </Sheet>
+        )}
+      </main>
+
+      <Header />
+    </>
   );
 };
