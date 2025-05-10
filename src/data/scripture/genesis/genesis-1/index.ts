@@ -10,7 +10,7 @@ import { genesis_1_8 } from './genesis-1-8';
 import { genesis_1_9 } from './genesis-1-9';
 import { genesis_1_10 } from './genesis-1-10';
 
-export const genesis_1: Chapter = {
+const chapter: Chapter = {
   number: 1,
   verses: [
     genesis_1_1,
@@ -25,3 +25,5 @@ export const genesis_1: Chapter = {
     genesis_1_10,
   ],
 };
+
+export default chapter;

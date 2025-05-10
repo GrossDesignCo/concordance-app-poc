@@ -52,8 +52,8 @@ export const genesis_1_8: Verse = {
     {
       hebrew: 'לָֽרָקִ֖יעַ',
       transliteration: 'laRaqia',
-      englishLiteral: 'to_the-canopy',
-      englishNatural: 'the canopy',
+      englishLiteral: 'to_the-hammered_out_work',
+      englishNatural: 'the hammered-out-work',
       root: 'raqia',
       prefixes: ['la'],
       order: {
@@ -73,8 +73,8 @@ export const genesis_1_8: Verse = {
     {
       hebrew: 'שָׁמָ֑יִם',
       transliteration: 'shamayim',
-      englishLiteral: 'Heavens',
-      englishNatural: 'Heavens',
+      englishLiteral: 'Skies',
+      englishNatural: 'Skies',
       root: 'shamayim',
       order: {
         hebrew: 4,
@@ -102,9 +102,9 @@ export const genesis_1_8: Verse = {
   expectedTranslations: {
     hebrew: 'וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם',
     transliteration: 'vaYiqra Elohim laRaqia shamayim',
-    englishLiteral: 'And-called, Gods, to_the-canopy, "Heavens."',
-    englishNatural: 'And God called the canopy, "Heavens."',
+    englishLiteral: 'And-called, Gods, to_the-hammered_out_work, "Skies."',
+    englishNatural: 'And God called the hammered-out-work, "Skies."',
     kjv: 'And God called the firmament Heaven.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
   },
 }; 

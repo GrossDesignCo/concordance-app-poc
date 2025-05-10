@@ -1,0 +1,1 @@
+Kai eidon angelon katabainonta ek tou ouranou, echonta tēn klein tēs abussou, kai halusin megalēn epi tēn cheira autou. kai ekratēsen ton drakonta ton ophin ton archaion hos estin Diabolos kai ho Satanas kai edēsen auton chilia etē 

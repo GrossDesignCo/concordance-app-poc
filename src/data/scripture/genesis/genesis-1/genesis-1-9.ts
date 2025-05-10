@@ -118,8 +118,8 @@ export const genesis_1_9: Verse = {
     {
       hebrew: 'הַשָּׁמַ֙יִם֙',
       transliteration: 'haShamayim',
-      englishLiteral: 'the-heavens',
-      englishNatural: 'the heavens',
+      englishLiteral: 'the-skies',
+      englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
       order: {
@@ -287,9 +287,9 @@ export const genesis_1_9: Verse = {
   expectedTranslations: {
     hebrew: 'וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֙יִם֙ אֶל־מָקֹ֣ום אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי־כֵֽן׃',
     transliteration: 'vaYomer Elohim yiqqavu haMayim miTachat haShamayim el-maqom echad veTeraah haYabashah vaYehi-ken',
-    englishLiteral: 'And-said, Gods, "Let-gather, the-waters, from-under the-heavens, to→ place, one. And-let-appear, the-dry_ground." And-it-was so.',
-    englishNatural: 'And God said, "Let the waters gather from under the heavens to one place. And let the dry-ground appear." And it was so.',
+    englishLiteral: 'And-said, Gods, "Let-gather, the-waters, from-under the-skies, to→ place, one. And-let-appear, the-dry_ground." And-it-was so.',
+    englishNatural: 'And God said, "Let the waters gather from under the skies to one place. And let the dry-ground appear." And it was so.',
     kjv: 'And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
   },
-}; 
+};

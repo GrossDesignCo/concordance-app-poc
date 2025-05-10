@@ -1,5 +1,5 @@
 import { Book } from '@/types';
-import { revelation_20 } from './revelation-20';
+import revelation_20 from './revelation-20';
 
 export const revelation: Book = {
   meta: {

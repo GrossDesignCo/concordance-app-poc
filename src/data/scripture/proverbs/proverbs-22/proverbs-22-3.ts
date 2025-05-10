@@ -101,6 +101,7 @@ export const proverbs_22_3: Verse = {
         state: 'absolute',
         type: 'noun'
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'עָבְרוּ',
@@ -145,6 +146,7 @@ export const proverbs_22_3: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
+      lineBreaksAfter: 2,
     },
   ],
   expectedTranslations: {
@@ -155,6 +157,6 @@ export const proverbs_22_3: Verse = {
     englishNatural:
       'The Shrewd sees bad and hides himself, but the simple go on and are punished.',
     kjv: 'A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
 },
 };

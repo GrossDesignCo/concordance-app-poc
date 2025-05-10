@@ -12,7 +12,7 @@ describe('Verse Translation Validation Tests: Ensure data + grammar matches expe
 
     // Test Hebrew text generation using Hebrew word order
     if (expectedTranslations.hebrew) {
-      const generatedHebrew = buildVerseText(verse, 'hebrew', 'hebrew');
+      const generatedHebrew = buildVerseText(verse, 'original', true, false);
       // Only test if there are Hebrew words (ignore for greek verses)
       if (verse.words.some((word) => word.hebrew)) {
         expect(generatedHebrew).toBeTruthy();
@@ -33,7 +33,8 @@ describe('Verse Translation Validation Tests: Ensure data + grammar matches expe
       const generatedTransliteration = buildVerseText(
         verse,
         'transliteration',
-        expectedTranslations.hebrew ? 'hebrew' : 'greek'
+        true,
+        false
       );
       expect(generatedTransliteration).toBeTruthy();
       expect(generatedTransliteration).toMatch(
@@ -56,7 +57,8 @@ describe('Verse Translation Validation Tests: Ensure data + grammar matches expe
       const generatedEnglishLiteral = buildVerseText(
         verse,
         'englishLiteral',
-        expectedTranslations.hebrew ? 'hebrew' : 'greek'
+        true,
+        false
       );
       expect(generatedEnglishLiteral).toBeTruthy();
       expect(generatedEnglishLiteral).toMatch(
@@ -79,7 +81,8 @@ describe('Verse Translation Validation Tests: Ensure data + grammar matches expe
       const generatedEnglishNatural = buildVerseText(
         verse,
         'englishNatural',
-        'english'
+        true,
+        false
       );
       expect(generatedEnglishNatural).toBeTruthy();
       expect(generatedEnglishNatural).toMatch(

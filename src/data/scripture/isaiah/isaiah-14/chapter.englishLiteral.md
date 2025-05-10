@@ -1,0 +1,1 @@
+Do-not you-shall-rejoice Philistia all-of-you because is-broken rod of-him-who-strikes-you for from-root snake shall-come-forth viper and-its-fruit burning_one flying. 

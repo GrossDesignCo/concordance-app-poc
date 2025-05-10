@@ -1,0 +1,1 @@
+Do not rejoice Philistia all of you because is broken the rod of him who strikes you for from the root of a snake shall come forth a viper and its fruit a burning-one flying. 

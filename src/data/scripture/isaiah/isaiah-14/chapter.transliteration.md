@@ -1,0 +1,1 @@
+al tiSmechi Peleshet kulekh ki nishbar shevet makekh ki miShoresh nachash yetze tsefa uFiryo saraph meOfef 

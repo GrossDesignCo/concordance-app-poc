@@ -29,6 +29,9 @@ export const genesis_1_3: Verse = {
         englishLiteral: ',',
         englishNatural: ',',
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'אֱלֹהִ֖ים',
@@ -48,6 +51,9 @@ export const genesis_1_3: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -74,6 +80,9 @@ export const genesis_1_3: Verse = {
       grammarSuffix: {
         englishNatural: '."',
       },
+      lineBreaksAfter: {
+        english: 1,
+      },
     },
     {
       hebrew: 'א֑וֹר',
@@ -96,6 +105,9 @@ export const genesis_1_3: Verse = {
       },
       grammarSuffix: {
         englishLiteral: '."',
+      },
+      lineBreaksAfter: {
+        hebrew: 1,
       },
     },
     {
@@ -121,7 +133,7 @@ export const genesis_1_3: Verse = {
         englishNatural: '.',
       },
       lineBreaksAfter: {
-        english: 2,
+        english: 1,
       },
     },
     {
@@ -144,7 +156,7 @@ export const genesis_1_3: Verse = {
         englishLiteral: '.',
       },
       lineBreaksAfter: {
-        hebrew: 2,
+        hebrew: 1,
       },
     },
   ],
@@ -154,6 +166,6 @@ export const genesis_1_3: Verse = {
     englishLiteral: 'And-said, Gods, "Let-be light." And-was light.',
     englishNatural: 'And God said, "Let light be." And light was.',
     kjv: 'And God said, Let there be light: and there was light.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
   },
 };

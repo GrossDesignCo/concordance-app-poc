@@ -113,8 +113,8 @@ export const roots: Record<string, RootElement> = {
   shamayim: {
     hebrew: 'שמים',
     transliteration: 'shamayim',
-    englishLiteral: 'heavens',
-    englishNatural: 'heavens',
+    englishLiteral: 'skies',
+    englishNatural: 'skies',
   },
   // Proverbs roots
   arum: {
@@ -746,8 +746,14 @@ export const roots: Record<string, RootElement> = {
   raqia: {
     hebrew: 'רקיע',
     transliteration: 'raqia',
-    englishLiteral: 'canopy',
-    englishNatural: 'canopy',
+    englishLiteral: 'hammered_out_work',
+    englishNatural: 'hammered-out-work',
+  },
+  raqa: {
+    hebrew: 'רקע',
+    transliteration: 'raqa',
+    englishLiteral: 'to hammer_out',
+    englishNatural: 'to hammer-out',
   },
   qavah: {
     hebrew: 'קוה',

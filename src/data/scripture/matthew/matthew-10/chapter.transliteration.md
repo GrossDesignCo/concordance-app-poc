@@ -1,0 +1,1 @@
+Idou ego apostello humas hos probata en meso lukon; ginesthe oun phronimoi hos hoi opheis kai akeraioi hos hai peristerai. 

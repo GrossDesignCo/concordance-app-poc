@@ -1,5 +1,5 @@
 import { Book } from '@/types';
-import { matthew_10 } from './matthew-10';
+import matthew_10 from './matthew-10';
 
 export const matthew: Book = {
   meta: {

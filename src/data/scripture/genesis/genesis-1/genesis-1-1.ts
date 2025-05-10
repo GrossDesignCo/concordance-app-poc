@@ -37,7 +37,7 @@ export const genesis_1_1: Verse = {
       root: 'bara',
       order: {
         hebrew: 2,
-        english: 3, // In English, "created" comes after "God"
+        english: 3, // In English verb comes after object
       },
       morphology: {
         gender: 'masculine',
@@ -46,9 +46,6 @@ export const genesis_1_1: Verse = {
         tense: 'perfect',
         stem: 'qal',
         type: 'verb',
-      },
-      grammarSuffix: {
-        englishLiteral: ',',
       },
     },
     {
@@ -67,9 +64,6 @@ export const genesis_1_1: Verse = {
         number: 'plural',
         type: 'noun',
       },
-      grammarSuffix: {
-        englishLiteral: ',',
-      },
     },
     {
       hebrew: 'אֵ֥ת',
@@ -84,8 +78,8 @@ export const genesis_1_1: Verse = {
     {
       hebrew: 'הַשָּׁמַ֖יִם',
       transliteration: 'haShamayim',
-      englishLiteral: 'the-heavens',
-      englishNatural: 'the heavens',
+      englishLiteral: 'the-skies',
+      englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
       order: {
@@ -127,21 +121,17 @@ export const genesis_1_1: Verse = {
         type: 'noun',
       },
       grammarSuffix: {
-        englishLiteral: '.',
         englishNatural: '.',
       },
-      lineBreaksAfter: {
-        hebrew: 2,
-        english: 2,
-      },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
     hebrew: 'בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ',
     transliteration: 'beReshit bara Elohim et haShamayim veEt haAretz',
-    englishLiteral: 'In-heading, created, Gods, ↳ the-heavens and-↳ the-land.',
-    englishNatural: 'In heading, God created the heavens and the land.',
+    englishLiteral: 'In-heading, created Gods ↳ the-skies and-↳ the-land',
+    englishNatural: 'In heading, God created the skies and the land.',
     kjv: 'In the beginning God created the heaven and the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
   },
 };

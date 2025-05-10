@@ -25,8 +25,8 @@ export const genesis_1_4: Verse = {
         stem: 'qal',
         type: 'verb',
       },
-      grammarSuffix: {
-        englishLiteral: ',',
+      lineBreaksBefore: {
+        hebrew: 1,
       },
     },
     {
@@ -45,8 +45,8 @@ export const genesis_1_4: Verse = {
         number: 'plural',
         type: 'noun',
       },
-      grammarSuffix: {
-        englishLiteral: ',',
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -111,6 +111,7 @@ export const genesis_1_4: Verse = {
         type: 'adjective',
       },
       grammarSuffix: {
+        transliteration: '.',
         englishLiteral: '.',
         englishNatural: '.',
       },
@@ -134,9 +135,6 @@ export const genesis_1_4: Verse = {
         stem: 'piel',
         type: 'verb',
       },
-      grammarSuffix: {
-        englishLiteral: ',',
-      },
       lineBreaksBefore: {
         hebrew: 1,
       },
@@ -156,9 +154,6 @@ export const genesis_1_4: Verse = {
         gender: 'masculine',
         number: 'plural',
         type: 'noun',
-      },
-      grammarSuffix: {
-        englishLiteral: ',',
       },
       lineBreaksBefore: {
         english: 1,
@@ -194,6 +189,11 @@ export const genesis_1_4: Verse = {
         number: 'singular',
         type: 'noun',
       },
+      grammarSuffix: {
+        transliteration: ',',
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'וּבֵ֥ין',
@@ -227,6 +227,7 @@ export const genesis_1_4: Verse = {
         type: 'noun',
       },
       grammarSuffix: {
+        transliteration: '.',
         englishLiteral: '.',
         englishNatural: '.',
       },
@@ -240,12 +241,12 @@ export const genesis_1_4: Verse = {
     hebrew:
       'וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ',
     transliteration:
-      'vaYar Elohim et-haOr ki-tov vaYavdel Elohim beyn haOr uBeyn haChoshekh',
+      'vaYar Elohim et-haOr ki-tov. vaYavdel Elohim beyn haOr, uBeyn haChoshekh.',
     englishLiteral:
-      'And-saw, Gods, ↳ the-light that good. And-separated, Gods, between the-light and-between the-darkness.',
+      'And-saw Gods ↳ the-light that good. And-separated Gods between the-light, and-between the-darkness.',
     englishNatural:
-      'And God saw the light; good. And God separated between the light and between the darkness.',
+      'And God saw the light; good. And God separated between the light, and between the darkness.',
     kjv: 'And God saw the light, that it was good: and God divided the light from the darkness.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
   },
 };

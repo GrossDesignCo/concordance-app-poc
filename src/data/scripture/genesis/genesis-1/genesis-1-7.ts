@@ -25,8 +25,8 @@ export const genesis_1_7: Verse = {
         stem: 'qal',
         type: 'verb',
       },
-      grammarSuffix: {
-        englishLiteral: ',',
+      lineBreaksBefore: {
+        hebrew: 1,
       },
     },
     {
@@ -45,8 +45,8 @@ export const genesis_1_7: Verse = {
         number: 'plural',
         type: 'noun',
       },
-      grammarSuffix: {
-        englishLiteral: ',',
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -63,8 +63,8 @@ export const genesis_1_7: Verse = {
     {
       hebrew: 'הָרָקִ֖יעַ',
       transliteration: 'haRaqia',
-      englishLiteral: 'the-canopy',
-      englishNatural: 'the canopy',
+      englishLiteral: 'the-hammered_out_work',
+      englishNatural: 'the hammered-out-work',
       root: 'raqia',
       prefixes: ['ha'],
       order: {
@@ -104,6 +104,7 @@ export const genesis_1_7: Verse = {
         englishLiteral: ',',
         englishNatural: '',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'בֵּ֤ין',
@@ -168,8 +169,8 @@ export const genesis_1_7: Verse = {
     {
       hebrew: 'לָרָקִ֔יעַ',
       transliteration: 'laRaqia',
-      englishLiteral: 'to_the-canopy',
-      englishNatural: 'the canopy',
+      englishLiteral: 'to_the-hammered_out_work',
+      englishNatural: 'the hammered-out-work',
       root: 'raqia',
       prefixes: ['la'],
       order: {
@@ -250,8 +251,8 @@ export const genesis_1_7: Verse = {
     {
       hebrew: 'לָרָקִ֑יעַ',
       transliteration: 'laRaqia',
-      englishLiteral: 'to_the-canopy',
-      englishNatural: 'the canopy',
+      englishLiteral: 'to_the-hammered_out_work',
+      englishNatural: 'the hammered-out-work',
       root: 'raqia',
       prefixes: ['la'],
       order: {
@@ -287,6 +288,7 @@ export const genesis_1_7: Verse = {
         stem: 'qal',
         type: 'verb',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'כֵֽן׃',
@@ -314,9 +316,9 @@ export const genesis_1_7: Verse = {
   expectedTranslations: {
     hebrew: 'וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־הָרָקִ֖יעַ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֙יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֖יִם אֲשֶׁ֥ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי־כֵֽן׃',
     transliteration: 'vaYaas Elohim et-haRaqia vaYavdel beyn haMayim asher miTachat laRaqia uBeyn haMayim asher meAl laRaqia vaYehi-ken',
-    englishLiteral: 'And-made, Gods, ↳ the-canopy, and-separated, between the-waters which from-under to_the-canopy, and-between the-waters which from-over to_the-canopy. And-it-was so.',
-    englishNatural: 'And God made the canopy, and separated between the waters which were under the canopy, and between the waters which were over the canopy. And it was so.',
+    englishLiteral: 'And-made Gods ↳ the-hammered_out_work, and-separated, between the-waters which from-under to_the-hammered_out_work, and-between the-waters which from-over to_the-hammered_out_work. And-it-was so.',
+    englishNatural: 'And God made the hammered-out-work, and separated between the waters which were under the hammered-out-work, and between the waters which were over the hammered-out-work. And it was so.',
     kjv: 'And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
   },
 }; 

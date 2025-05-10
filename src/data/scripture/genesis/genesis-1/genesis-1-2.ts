@@ -22,6 +22,7 @@ export const genesis_1_2: Verse = {
         number: 'singular',
         type: 'noun',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'הָיְתָ֥ה',
@@ -77,8 +78,9 @@ export const genesis_1_2: Verse = {
         type: 'adjective',
       },
       grammarSuffix: {
-        englishLiteral: ',',
-        englishNatural: ',',
+        transliteration: ';',
+        englishLiteral: ';',
+        englishNatural: ';',
       },
     },
     {
@@ -98,10 +100,7 @@ export const genesis_1_2: Verse = {
         state: 'absolute',
         type: 'adjective',
       },
-      grammarSuffix: {
-        englishLiteral: ',',
-        englishNatural: ',',
-      },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'עַל־פְּנֵ֣י',
@@ -139,9 +138,11 @@ export const genesis_1_2: Verse = {
         type: 'noun',
       },
       grammarSuffix: {
+        transliteration: '.',
         englishLiteral: '.',
         englishNatural: '.',
       },
+      lineBreaksAfter: 1,
     },
     {
       hebrew: 'וְר֣וּחַ',
@@ -162,10 +163,6 @@ export const genesis_1_2: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
-      },
-      lineBreaksBefore: {
-        hebrew: 1,
-        english: 1,
       },
     },
     {
@@ -242,11 +239,9 @@ export const genesis_1_2: Verse = {
         number: 'plural',
         type: 'noun',
       },
-      lineBreaksAfter: {
-        hebrew: 2,
-        english: 2,
-      },
+      lineBreaksAfter: 1,
       grammarSuffix: {
+        transliteration: '.',
         englishLiteral: '.',
         englishNatural: '.',
       },
@@ -256,12 +251,12 @@ export const genesis_1_2: Verse = {
     hebrew:
       'וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֙הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְהֹ֑ום וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם',
     transliteration:
-      'veHaAretz haytah tohu vaVohu veChoshekh al-peney tehom veRuach Elohim meRachefet al-peney haMayim',
+      'veHaAretz haytah tohu vaVohu; veChoshekh al-peney tehom. veRuach Elohim meRachefet al-peney haMayim.',
     englishLiteral:
-      'And-the-land was waste and-void, and-darkness, over-face-of deep. And-Wind, Gods, was-stirring over-face-of the-waters.',
+      'And-the-land was waste and-void; and-darkness over-face-of deep. And-Wind, Gods, was-stirring over-face-of the-waters.',
     englishNatural:
-      'And the land was waste and void, and darkness, over the face of the deep. And the Wind of God was stirring over the face of the waters.',
+      'And the land was waste and void; and darkness over the face of the deep. And the Wind of God was stirring over the face of the waters.',
     kjv: 'And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
   },
 };

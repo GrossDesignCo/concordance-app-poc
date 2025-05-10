@@ -25,9 +25,6 @@ export const genesis_1_5: Verse = {
         stem: 'qal',
         type: 'verb',
       },
-      grammarSuffix: {
-        englishLiteral: ',',
-      },
     },
     {
       hebrew: 'אֱלֹהִ֤ים',
@@ -44,9 +41,6 @@ export const genesis_1_5: Verse = {
         gender: 'masculine',
         number: 'plural',
         type: 'noun',
-      },
-      grammarSuffix: {
-        englishLiteral: ',',
       },
     },
     {
@@ -259,7 +253,7 @@ export const genesis_1_5: Verse = {
         englishLiteral: ',',
       },
       lineBreaksBefore: {
-        hebrew: 1,
+        english: 1,
       },
     },
     {
@@ -277,9 +271,7 @@ export const genesis_1_5: Verse = {
         number: 'singular',
         type: 'noun',
       },
-      lineBreaksBefore: {
-        english: 1,
-      },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אֶחָֽד',
@@ -300,18 +292,15 @@ export const genesis_1_5: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
-      lineBreaksAfter: {
-        hebrew: 2,
-        english: 2,
-      },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
     hebrew: 'וַיִּקְרָ֨א אֱלֹהִ֤ים לָא֔וֹר י֑וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם אֶחָֽד',
     transliteration: 'vaYiqra Elohim laOr yom veLaChoshekh qara laylah vaYehi erev vaYehi voqer yom echad',
-    englishLiteral: 'And-called, Gods, to-light, "Day," and-to-darkness, called, "Night." And-was, evening, And-was, morning, Day one.',
+    englishLiteral: 'And-called Gods to-light, "Day," and-to-darkness, called, "Night." And-was, evening, And-was, morning, Day one.',
     englishNatural: 'And God called light "Day," and called darkness "Night." And evening was, And morning was, Day one.',
     kjv: 'And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
   },
 }; 

@@ -1,0 +1,1 @@
+En archē ēn ho logos, kai ho logos ēn pros ton theon, kai theos ēn ho logos. 

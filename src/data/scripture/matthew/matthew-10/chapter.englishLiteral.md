@@ -1,0 +1,1 @@
+Behold, I send you as sheep in midst wolves; be therefore shrewd as the snakes and innocent as the doves. 
