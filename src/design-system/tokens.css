@@ -102,6 +102,10 @@
   --ds-bg-high-contrast: var(--ds-cream-1000);
   --ds-bg-default: var(--ds-cream-900);
   --ds-bg-low-contrast: var(--ds-cream-800);
+
+  --ds-bg-page: var(--ds-bg-default);
+  --ds-bg-page-lit: var(--ds-bg-high-contrast);
+
   --ds-bg-container: var(--ds-cream-800);
   --ds-bg-container-low-contrast: var(--ds-cream-700);
   --ds-bg-overlay: radial-gradient(var(--ds-cream-200), var(--ds-cream-400));
@@ -121,6 +125,10 @@
   --ds-bg-high-contrast: var(--ds-cream-0);
   --ds-bg-default: var(--ds-cream-50);
   --ds-bg-low-contrast: var(--ds-cream-100);
+
+  --ds-bg-page: var(--ds-bg-high-contrast);
+  --ds-bg-page-lit: var(--ds-bg-default);
+
   --ds-bg-container: var(--ds-cream-100);
   --ds-bg-container-low-contrast: var(--ds-cream-200);
   --ds-bg-overlay: radial-gradient(var(--ds-cream-200), var(--ds-cream-400));

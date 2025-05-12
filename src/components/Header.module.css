@@ -11,7 +11,7 @@
 
 .headerContent {
   height: var(--header-max-height);
-  background-color: var(--ds-bg-default);
+  background-color: var(--ds-bg-page);
   border-radius: var(--ds-radius-xl) var(--ds-radius-xl) 0 0;
   border: 1px solid var(--ds-bg-container);
   border-bottom: none;
@@ -20,12 +20,9 @@
   justify-content: space-between;
   padding: 0 var(--ds-space-6);
   padding-inline-end: var(--ds-space-3);
+  padding-block-end: env(safe-area-inset-bottom, 0);
   max-width: var(--text-content-max-width);
   margin: 0 auto;
-}
-
-[data-theme='dark'] .headerContent {
-  background-color: var(--ds-bg-high-contrast);
 }
 
 .appTitleContainer {

@@ -11,7 +11,7 @@ body {
 
 body {
   color: var(--ds-fg-default);
-  background: var(--ds-bg-default);
+  background: var(--ds-bg-page);
   font-family: 'Noto Sans Hebrew', sans-serif;
   font-size: 1rem;
   font-weight: 400;
@@ -21,10 +21,6 @@ body {
   min-height: 100dvh;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-[data-theme='dark'] body {
-  background: var(--ds-bg-high-contrast);
 }
 
 * {
@@ -55,7 +51,7 @@ ol {
 }
 
 blockquote {
-  background-color: var(--ds-bg-high-contrast);
+  background-color: var(--ds-bg-page-lit);
   padding: var(--ds-space-2);
   border-radius: var(--ds-radius-lg);
 }

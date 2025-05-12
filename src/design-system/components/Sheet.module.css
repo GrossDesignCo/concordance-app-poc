@@ -1,5 +1,5 @@
 .content {
-  background-color: var(--ds-bg-default);
+  background-color: var(--ds-bg-page);
   border-radius: var(--ds-space-4) var(--ds-space-4) 0 0;
   box-shadow: 0 0 var(--ds-space-4) var(--ds-bg-container-low-contrast);
   position: fixed;
@@ -18,11 +18,6 @@
   will-change: height, transform;
 }
 
-:global([data-theme='dark']) .content {
-  background-color: var(--ds-bg-container);
-  box-shadow: 0 0 var(--ds-space-4) var(--ds-bg-high-contrast);
-}
-
 .content.expanded {
   height: calc(100dvh - 3rem);
 }
@@ -39,12 +34,8 @@
   position: relative;
   min-height: 3em;
   flex-shrink: 0;
-  background-color: var(--ds-bg-default);
+  background-color: var(--ds-bg-page);
   z-index: 1;
-}
-
-:global([data-theme='dark']) .handle {
-  background-color: var(--ds-bg-container);
 }
 
 .handle:active {
