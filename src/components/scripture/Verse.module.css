@@ -4,6 +4,22 @@
   color: var(--ds-fg-low-contrast);
 }
 
+.VersesAsBlocks {
+  position: relative;
+}
+
+.VersesAsBlocks::before {
+  content: '';
+  position: absolute;
+  display: block;
+  inset-inline-start: calc(0.5rem * -1);
+  inset-block-start: 2px;
+  inset-block-end: 2px;
+  width: 2px;
+  background-color: var(--ds-bg-container-low-contrast);
+  border-radius: 2px;
+}
+
 .VerseAsBlock {
   margin-bottom: 1rem;
 }

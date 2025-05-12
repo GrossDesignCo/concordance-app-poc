@@ -5,6 +5,7 @@ import cx from 'classnames';
 import styles from './Word.module.css';
 import { LineBreaks } from './LineBreaks';
 import { resolveWordOrderKey } from '@/utils/resolveWordOrderKey';
+import { resolveLineBreaks } from '@/utils/resolveLineBreaks';
 import { formatWord } from '@/utils/formatWord';
 import { useLexicon } from '@/context/LexiconContext';
 import { useEffect, useState } from 'react';
@@ -58,10 +59,14 @@ export default function Word({
   // Determine what kind of line breaks to show
   const wordOrderKey = resolveWordOrderKey(word, language);
   const lineBreaksAfter = showGrammar ? (
-    <LineBreaks numberOfBreaks={word?.lineBreaksAfter?.[wordOrderKey]} />
+    <LineBreaks
+      numberOfBreaks={resolveLineBreaks(word?.lineBreaksAfter, wordOrderKey)}
+    />
   ) : null;
   const lineBreaksBefore = showGrammar ? (
-    <LineBreaks numberOfBreaks={word?.lineBreaksBefore?.[wordOrderKey]} />
+    <LineBreaks
+      numberOfBreaks={resolveLineBreaks(word?.lineBreaksBefore, wordOrderKey)}
+    />
   ) : null;
 
   return (

@@ -1,11 +1,11 @@
-import { LanguageKey, TranslationWord } from "@/types";
-import { sortWords } from "@/utils/sortWords";
-import { Fragment } from "react";
-import { useSelection } from "@/context/SelectionContext";
-import Word from "./Word";
-import cx from "classnames";
-import styles from "./String.module.css";
-import { resolveLanguage } from "@/utils/resolveLanguage";
+import { LanguageKey, TranslationWord } from '@/types';
+import { sortWords } from '@/utils/sortWords';
+import { Fragment } from 'react';
+import { useSelection } from '@/context/SelectionContext';
+import Word from './Word';
+import cx from 'classnames';
+import styles from './String.module.css';
+import { resolveLanguage } from '@/utils/resolveLanguage';
 
 interface StringProps {
   words: TranslationWord[];
@@ -20,7 +20,7 @@ interface StringProps {
 export const String = ({
   words,
   language,
-  delimiter = " ",
+  delimiter = ' ',
   ...rest
 }: StringProps) => {
   // Resolve `original` to actual language used for styling
@@ -28,7 +28,7 @@ export const String = ({
 
   // Get sorted words based on language order
   const sortedWords = sortWords(words, language);
-  const dir = resolvedLanguage === "hebrew" ? "rtl" : undefined;
+  const dir = resolvedLanguage === 'hebrew' ? 'rtl' : undefined;
 
   // Handle selecting/de-selecting words within this verse
   const { selectSingleWord, selectAdditionalWord } = useSelection();
@@ -46,7 +46,11 @@ export const String = ({
   };
 
   return (
-    <span className={cx(styles.String, styles[language])} dir={dir}>
+    <span
+      className={cx(styles.String, styles[resolvedLanguage])}
+      dir={dir}
+      lang={resolvedLanguage}
+    >
       {sortedWords.map((word, i) => {
         return (
           <Fragment key={`${word.transliteration}-${i}`}>

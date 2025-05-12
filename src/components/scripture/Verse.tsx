@@ -47,7 +47,7 @@ export default function Verse({ verse }: VerseProps) {
     checkWordsForEntryPresence,
   ]);
 
-  return (
+  const verseContent = (
     <>
       {verse.meta.number ? (
         <sup className={styles.VerseNumber}>{verse.meta.number}</sup>
@@ -81,5 +81,11 @@ export default function Verse({ verse }: VerseProps) {
         );
       })}
     </>
+  );
+
+  return isShowingMultiple ? (
+    <div className={styles.VersesAsBlocks}>{verseContent}</div>
+  ) : (
+    verseContent
   );
 }
