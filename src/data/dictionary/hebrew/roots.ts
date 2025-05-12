@@ -785,4 +785,53 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'sea',
     englishNatural: 'sea',
   },
+  // Proverbs 22:1-2 roots
+  shem: {
+    hebrew: 'שם',
+    transliteration: 'shem',
+    englishLiteral: 'name',
+    englishNatural: 'name',
+  },
+  shemen: {
+    hebrew: 'שמן',
+    transliteration: 'shemen',
+    englishLiteral: 'oil',
+    englishNatural: 'oil',
+  },
+  mavet: {
+    hebrew: 'מות',
+    transliteration: 'mavet',
+    englishLiteral: 'death',
+    englishNatural: 'death',
+  },
+  yalad: {
+    hebrew: 'ילד',
+    transliteration: 'yalad',
+    englishLiteral: 'bear',
+    englishNatural: 'bear',
+  },
+  ashar: {
+    hebrew: 'עשר',
+    transliteration: 'ashar',
+    englishLiteral: 'rich',
+    englishNatural: 'rich',
+  },
+  rash: {
+    hebrew: 'רש',
+    transliteration: 'rash',
+    englishLiteral: 'poor',
+    englishNatural: 'poor',
+  },
+  pagash: {
+    hebrew: 'פגש',
+    transliteration: 'pagash',
+    englishLiteral: 'meet',
+    englishNatural: 'meet',
+  },
+  zeh: {
+    hebrew: 'זה',
+    transliteration: 'zeh',
+    englishLiteral: 'this',
+    englishNatural: 'this',
+  },
 };

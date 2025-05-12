@@ -307,10 +307,7 @@ export const genesis_1_7: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
-      lineBreaksAfter: {
-        hebrew: 2,
-        english: 2,
-      },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
@@ -319,6 +316,6 @@ export const genesis_1_7: Verse = {
     englishLiteral: 'And-made Gods ↳ the-hammered_out_work, and-separated, between the-waters which from-under to_the-hammered_out_work, and-between the-waters which from-over to_the-hammered_out_work. And-it-was so.',
     englishNatural: 'And God made the hammered-out-work, and separated between the waters which were under the hammered-out-work, and between the waters which were over the hammered-out-work. And it was so.',
     kjv: 'And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
   },
 }; 

@@ -14,18 +14,14 @@ export type HebrewSuffix = keyof typeof suffixes;
 export type GreekRoot = keyof typeof greekRoots;
 
 // Word Keys
-export type LanguageKey =
-  | 'original'
-  | 'transliteration'
-  | 'englishLiteral'
-  | 'englishNatural';
-export type ResolvedLanguageKey =
-  | 'hebrew'
-  | 'greek'
-  | 'transliteration'
-  | 'englishLiteral'
-  | 'englishNatural';
-export type WordOrderKey = 'hebrew' | 'greek' | 'english';
+export const LANGUAGE_KEYS = ['original', 'transliteration', 'englishLiteral', 'englishNatural'] as const;
+export type LanguageKey = (typeof LANGUAGE_KEYS)[number];
+
+export const RESOLVED_LANGUAGE_KEYS = ['hebrew', 'greek', 'transliteration', 'englishLiteral', 'englishNatural'] as const;
+export type ResolvedLanguageKey = (typeof RESOLVED_LANGUAGE_KEYS)[number];
+
+export const WORD_ORDER_KEYS = ['hebrew', 'greek', 'english'] as const;
+export type WordOrderKey = (typeof WORD_ORDER_KEYS)[number];
 
 /**
  * Grammatical gender of the word
@@ -382,18 +378,10 @@ export interface TranslationWord {
   prefixes?: HebrewPrefix[]; // Separable prefixes
   suffixes?: HebrewSuffix[]; // Separable suffixes
 
-  // number of line breaks to render between this word and the next block (usually for paragraphs)
-  lineBreaksAfter?: {
-    greek?: number; // Position (optional) in original Greek text
-    hebrew?: number; // Position (optional) in original Hebrew text
-    english?: number; // Optional position (optional) for English rendering
-  };
-  // number of line breaks to render between this word and the previous block (usually for poetry)
-  lineBreaksBefore?: {
-    greek?: number; // Position (optional) in original Greek text
-    hebrew?: number; // Position (optional) in original Hebrew text
-    english?: number; // Optional position (optional) for English rendering
-  };
+  // number of line breaks to render between this word and the next block (as needed)
+  lineBreaksAfter?: LineBreak;
+  // number of line breaks to render between this word and the previous block (determined by cantillation marks)
+  lineBreaksBefore?: LineBreak;
 
   /**
    * Word order key for a given language
@@ -435,11 +423,19 @@ export interface Verse {
   };
 }
 
+// Either a consistent number or broken down by language
+export type LineBreak = number | {
+  greek?: number;
+  hebrew?: number;
+  english?: number;
+}
+
 export interface Grammar {
+  greek?: string;
+  hebrew?: string;
+  transliteration?: string;
   englishLiteral?: string;
   englishNatural?: string;
-  greek?: string;
-  transliteration?: string;
 }
 
 export interface Chapter {

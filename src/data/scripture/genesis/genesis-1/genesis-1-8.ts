@@ -28,6 +28,9 @@ export const genesis_1_8: Verse = {
       grammarSuffix: {
         englishLiteral: ',',
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'אֱלֹהִ֛ים',
@@ -47,6 +50,9 @@ export const genesis_1_8: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -93,10 +99,7 @@ export const genesis_1_8: Verse = {
         englishLiteral: '."',
         englishNatural: '."',
       },
-      lineBreaksAfter: {
-        hebrew: 2,
-        english: 2,
-      },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
@@ -105,6 +108,6 @@ export const genesis_1_8: Verse = {
     englishLiteral: 'And-called, Gods, to_the-hammered_out_work, "Skies."',
     englishNatural: 'And God called the hammered-out-work, "Skies."',
     kjv: 'And God called the firmament Heaven.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
   },
 }; 

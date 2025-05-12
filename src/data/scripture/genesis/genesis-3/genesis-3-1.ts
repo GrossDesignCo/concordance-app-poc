@@ -22,6 +22,7 @@ export const genesis_3_1: Verse = {
         number: 'singular',
         type: 'noun'
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'הָיָה',
@@ -196,6 +197,7 @@ export const genesis_3_1: Verse = {
       grammarSuffix: {
         englishLiteral: ',',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אֶל',
@@ -390,6 +392,7 @@ export const genesis_3_1: Verse = {
         englishLiteral: '\'?"',
         englishNatural: '\'?"',
       },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
@@ -402,6 +405,6 @@ export const genesis_3_1: Verse = {
     englishNatural:
       'And the snake was shrewd, more than any living-thing of the field, which I-AM God had made. And he said to the woman, "Indeed? Has God said \'You shall eat not from any tree of the garden\'?"',
     kjv: 'Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
 },
 };

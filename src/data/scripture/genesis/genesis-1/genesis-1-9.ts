@@ -29,6 +29,9 @@ export const genesis_1_9: Verse = {
         englishLiteral: ',',
         englishNatural: ',',
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'אֱלֹהִ֗ים',
@@ -48,6 +51,9 @@ export const genesis_1_9: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -278,10 +284,7 @@ export const genesis_1_9: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
-      lineBreaksAfter: {
-        hebrew: 2,
-        english: 2,
-      },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
@@ -290,6 +293,6 @@ export const genesis_1_9: Verse = {
     englishLiteral: 'And-said, Gods, "Let-gather, the-waters, from-under the-skies, to→ place, one. And-let-appear, the-dry_ground." And-it-was so.',
     englishNatural: 'And God said, "Let the waters gather from under the skies to one place. And let the dry-ground appear." And it was so.',
     kjv: 'And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
   },
 };

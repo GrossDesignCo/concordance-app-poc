@@ -20,7 +20,7 @@ And-said Gods "Let-be hammered_out_work in-midst-of the-waters,
 and-let-be separating between waters to-waters."
 
 And-made Gods ↳ the-hammered_out_work, 
-And-separated, between the-waters which from-under to_the-hammered_out_work, and-between the-waters which from-over to_the-hammered_out_work. 
+and-separated, between the-waters which from-under to_the-hammered_out_work, and-between the-waters which from-over to_the-hammered_out_work. 
 And-it-was so.
 
 And-called, Gods, to_the-hammered_out_work, "Skies."

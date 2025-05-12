@@ -28,6 +28,9 @@ export const numbers_21_6: Verse = {
       grammarSuffix: {
         englishLiteral: ',',
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'יְהוָה',
@@ -46,6 +49,9 @@ export const numbers_21_6: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -282,6 +288,6 @@ export const numbers_21_6: Verse = {
     englishNatural:
       'And I-AM sent the snakes, the burning-ones, among the people, and they struck the people; and many people of Struggles-With-God died.',
     kjv: 'And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
+  },
 };
