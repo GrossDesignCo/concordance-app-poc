@@ -1,3 +1,4 @@
+
 And I-AM sent the snakes, the burning-ones, among the people, and they struck the people; and many people of Struggles-With-God died.
 
 And the people came to Moses and said, "We have sinned, that we have spoken against I-AM and against you; pray to I-AM, and may he turn-aside the snake from over us." And Moses prayed on behalf of the people.
