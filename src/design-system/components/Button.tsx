@@ -1,6 +1,6 @@
 import { ButtonHTMLAttributes, forwardRef } from 'react';
 import cx from 'classnames';
-import './Button.css';
+import styles from './Button.module.css';
 
 export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   variant?: 'primary' | 'secondary' | 'ghost';
@@ -10,8 +10,11 @@ export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
 export const Button = forwardRef<HTMLButtonElement, ButtonProps>(
   ({ children, className = '', variant, size, ...props }, ref) => {
     const classes = cx(
-      'ds-button',
-      { [`ds-button--${variant}`]: variant, [`ds-button--${size}`]: size },
+      styles['ds-button'],
+      {
+        [styles[`ds-button-${variant}`]]: variant,
+        [styles[`ds-button-${size}`]]: size,
+      },
       className
     );
 

@@ -53,30 +53,30 @@
 }
 
 /* Secondary variant */
-.ds-button--secondary {
+.ds-button-secondary {
   background: var(--ds-bg-container);
   border-color: var(--ds-bg-container);
   color: var(--ds-fg-default);
 }
 
-.ds-button--secondary:hover {
+.ds-button-secondary:hover {
   background: var(--ds-bg-container-low-contrast);
   border-color: var(--ds-bg-container-low-contrast);
 }
 
-.ds-button--ghost {
+.ds-button-ghost {
   background: transparent;
   border-color: transparent;
   color: var(--ds-fg-default);
 }
 
-.ds-button--ghost:hover {
+.ds-button-ghost:hover {
   background: var(--ds-bg-low-contrast);
   border-color: var(--ds-bg-low-contrast);
 }
 
 /* Size variants */
-.ds-button--sm {
+.ds-button-sm {
   padding: calc(var(--ds-button-padding-y) * 0.75)
     calc(var(--ds-button-padding-x) * 0.75);
   font-size: calc(var(--ds-button-font-size) * 0.875);
@@ -84,7 +84,7 @@
   min-width: 1.5rem;
 }
 
-.ds-button--lg {
+.ds-button-lg {
   padding: calc(var(--ds-button-padding-y) * 1.25)
     calc(var(--ds-button-padding-x) * 1.25);
   font-size: calc(var(--ds-button-font-size) * 1.125);
