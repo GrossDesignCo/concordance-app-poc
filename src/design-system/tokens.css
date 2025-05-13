@@ -10,6 +10,8 @@
   --ds-space-8: 4rem; /* 64px */
   --ds-space-9: 6rem; /* 96px */
   --ds-space-10: 8rem; /* 128px */
+  --ds-space-11: 12rem; /* 192px */
+  --ds-space-12: 16rem; /* 256px */
 
   /* Base Scale - Typography */
   --ds-font-size-xs: 0.75rem; /* 12px */

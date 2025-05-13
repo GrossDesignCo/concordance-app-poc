@@ -1,5 +1,5 @@
-import "./layout.css";
-import { NavLinks } from "@/components/NavLinks";
+import './layout.css';
+import { NavLinks } from '@/components/NavLinks';
 
 export default function StaticPageLayout({
   children,
@@ -12,14 +12,22 @@ export default function StaticPageLayout({
         <NavLinks
           links={[
             {
-              href: "/",
-              label: "< Back",
+              href: '/',
+              label: 'Back',
+            },
+            {
+              href: '/about',
+              label: 'About',
+            },
+            {
+              href: '/about/contribute',
+              label: 'Contribute',
             },
           ]}
         />
       </div>
 
-      <div className="markdown-text">{children}</div>
+      <main className="main-text markdown-text">{children}</main>
     </div>
   );
 }

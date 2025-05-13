@@ -1,12 +1,17 @@
 .page-shell {
-  padding: var(--ds-space-4) var(--ds-space-4) var(--ds-space-8);
+  padding: var(--ds-space-4) var(--ds-space-7);
 }
 
 .links {
+  max-width: 80ch;
+  margin: 0 auto;
   padding-block-end: var(--ds-space-4);
+  display: flex;
+  gap: var(--ds-space-4);
 }
 
-.markdown-text {
+.main-text {
+  padding: var(--ds-space-10) 0 var(--ds-space-12);
   max-width: 80ch;
   margin: 0 auto;
 }

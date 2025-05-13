@@ -1,6 +1,6 @@
 'use client';
 
-import Link from 'next/link';
+import { Link } from '@/design-system';
 
 type Link = {
   href: string;
@@ -8,11 +8,11 @@ type Link = {
   target?: '_blank';
 };
 
-interface NavLinks {
+interface NavLinksProps {
   links: Link[];
 }
 
-export const NavLinks = ({ links }: NavLinks) => {
+export const NavLinks = ({ links }: NavLinksProps) => {
   return (
     <>
       {links.map((link) => {
