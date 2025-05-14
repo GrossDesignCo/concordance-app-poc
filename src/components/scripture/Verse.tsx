@@ -4,8 +4,9 @@ import { useSettings } from '@/context/SettingsContext';
 import { String } from '../text/String';
 import styles from './Verse.module.css';
 import { useLexicon } from '@/context/LexiconContext';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { resolveLanguage } from '@/utils/resolveLanguage';
+import { useSelection } from '@/context/SelectionContext';
 
 interface VerseProps {
   verse: VerseType;
@@ -33,6 +34,26 @@ export default function Verse({ verse }: VerseProps) {
     checkWordsForEntryPresence,
   ]);
 
+  // Track whether this verse should be filtered out
+  // Used in logic that only shows verses with matching words/roots
+  const { selectedWords, filterVerses } = useSelection();
+  const [isFilteredOut, setIsFilteredOut] = useState<boolean>(false);
+
+  useEffect(() => {
+    if (filterVerses) {
+      const roots = verse.words.map((word) => word.root);
+      const shouldRender = selectedWords.find((word) =>
+        roots.includes(word.root)
+      );
+      setIsFilteredOut(!Boolean(shouldRender));
+    } else {
+      setIsFilteredOut(false);
+    }
+  }, [filterVerses, selectedWords, verse.words]);
+
+  if (Boolean(selectedWords.length) && isFilteredOut) return;
+
+  // Render Content
   const verseContent = (
     <>
       {verse.meta.number ? (
@@ -67,6 +88,7 @@ export default function Verse({ verse }: VerseProps) {
     </>
   );
 
+  // Wrap the whole thing in an extra container for visual effects if showing multiple
   return isShowingMultiple ? (
     <div className={styles.VersesAsBlocks}>{verseContent}</div>
   ) : (

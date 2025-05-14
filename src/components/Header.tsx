@@ -1,11 +1,12 @@
-import React from "react";
+import React from 'react';
 // import { ClearSelectionControl } from './ClearSelectionControl';
-import { ShowLexiconControl } from "./ShowLexiconControl";
-import { ShowSettingsControl } from "./ShowSettingsControl";
-import styles from "./Header.module.css";
-import Link from "next/link";
-import { Info } from "@phosphor-icons/react";
-import { Button, Tooltip } from "@/design-system";
+import { ShowLexiconControl } from './ShowLexiconControl';
+import { ShowSettingsControl } from './ShowSettingsControl';
+import styles from './Header.module.css';
+import Link from 'next/link';
+import { Info } from '@phosphor-icons/react';
+import { Button, Tooltip } from '@/design-system';
+import { ConcordanceModeControl } from './ConcordanceModeControl';
 
 export const Header = () => {
   return (
@@ -25,6 +26,8 @@ export const Header = () => {
 
         <div className={styles.controls}>
           {/* <ClearSelectionControl /> */}
+
+          <ConcordanceModeControl />
           <ShowLexiconControl />
           <ShowSettingsControl />
         </div>

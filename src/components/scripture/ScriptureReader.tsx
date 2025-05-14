@@ -8,7 +8,6 @@ import cx from 'classnames';
 export const ScriptureReader = () => {
   const { font } = useSettings();
 
-  console.log(font);
   return (
     <div className={cx(styles.scripture, font ? styles[font] : '')}>
       <div className={styles.bookContainer}>

@@ -8,6 +8,8 @@ interface SelectionContextProps {
   selectAdditionalWord: (word: TranslationWord) => void;
   selectRange: (startWord: TranslationWord, endWord: TranslationWord) => void;
   clearSelection: () => void;
+  filterVerses: boolean;
+  setFilterVerses: (shouldFilter: boolean) => void;
 }
 
 const SelectionContext = createContext<SelectionContextProps | undefined>(
@@ -16,6 +18,7 @@ const SelectionContext = createContext<SelectionContextProps | undefined>(
 
 export const SelectionProvider = ({ children }: { children: ReactNode }) => {
   const [selectedWords, setSelectedWords] = useState<TranslationWord[]>([]);
+  const [filterVerses, setFilterVerses] = useState<boolean>(false);
 
   const selectSingleWord = (word: TranslationWord) => {
     setSelectedWords(selectedWords.includes(word) ? [] : [word]);
@@ -63,6 +66,8 @@ export const SelectionProvider = ({ children }: { children: ReactNode }) => {
         selectAdditionalWord,
         selectRange,
         clearSelection,
+        filterVerses,
+        setFilterVerses,
       }}
     >
       {children}

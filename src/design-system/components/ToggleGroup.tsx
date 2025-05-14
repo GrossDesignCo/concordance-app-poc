@@ -34,7 +34,6 @@ export function ToggleGroup({
   };
 
   const handleChange = (val: string) => {
-    console.log('handleChange', { val, value });
     if (Array.isArray(value)) {
       const newValues = value.includes(val)
         ? value.filter((v) => v !== val)
