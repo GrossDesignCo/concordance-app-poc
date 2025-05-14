@@ -58,17 +58,38 @@ ol {
 }
 
 blockquote {
+  position: relative;
   background-color: var(--ds-bg-page-lit);
-  padding: var(--ds-space-2);
+  padding: var(--ds-space-4) var(--ds-space-6);
+  margin: var(--ds-space-4) 0;
   border-radius: var(--ds-radius-lg);
+  box-shadow: 0 0 var(--ds-space-5) 0 var(--ds-bg-container-low-contrast);
+}
+
+blockquote::before {
+  content: '';
+  position: absolute;
+  inset-inline-start: var(--ds-space-4);
+  inset-block: var(--ds-space-3);
+  width: 0.2em;
+  border-radius: 0.1em;
+  background-color: var(--ds-mg-border);
+}
+
+blockquote + blockquote {
+  margin-block-start: 0;
 }
 
 .markdown-text {
   display: flex;
   flex-direction: column;
-  gap: 1em;
+  gap: var(--ds-space-4);
 }
 
 .markdown-text :is(h1, h2, h3, h4, h5, h6):not(:first-child) {
-  padding-block-start: 0.5em;
+  padding-block-start: var(--ds-space-2);
+}
+
+.markdown-text :is(ol, ul) {
+  padding-inline-start: var(--ds-space-6);
 }
