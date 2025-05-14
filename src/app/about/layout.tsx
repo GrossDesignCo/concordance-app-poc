@@ -23,6 +23,11 @@ export default function StaticPageLayout({
               href: '/about/contribute',
               label: 'Contribute',
             },
+            {
+              href: 'https://github.com/GrossDesignCo/concordance-app-poc',
+              target: '_blank',
+              label: 'GitHub/Source',
+            },
           ]}
         />
       </div>

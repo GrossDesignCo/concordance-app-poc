@@ -1,0 +1,45 @@
+.NavLink {
+  position: relative;
+}
+
+.NavLink::after {
+  content: '';
+  display: block;
+  position: absolute;
+  inset: 0;
+  box-shadow: 0 8px 0 -6px var(--ds-mg-border);
+  opacity: 0;
+  transform: translateY(0);
+  transition: 0.3s ease;
+}
+
+.NavLink.active::after {
+  content: '';
+  opacity: 1;
+  transform: translateY(4px);
+  box-shadow: 0 8px 0 -6px var(--ds-mg-border);
+}
+
+.NavLink::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 100%;
+  inset-inline: 0;
+  margin: auto;
+  height: 4px;
+  width: 4px;
+  z-index: 1;
+  background-color: var(--ds-bg-page);
+  box-shadow: -2px -2px 0 0 var(--ds-mg-border), 0 0 0 4px var(--ds-bg-page);
+  opacity: 0;
+  transform: translateY(12px) rotate(45deg);
+  transition: 0.3s ease;
+}
+
+.NavLink.active::before {
+  content: '';
+  opacity: 1;
+  transform: translateY(6px) rotate(45deg);
+  box-shadow: -2px -2px 0 0 var(--ds-mg-border), 0 0 0 4px var(--ds-bg-page);
+}

@@ -1,6 +1,8 @@
 'use client';
-
 import { Link } from '@/design-system';
+import styles from './NavLink.module.css';
+import { usePathname } from 'next/navigation';
+import cx from 'classnames';
 
 type Link = {
   href: string;
@@ -13,12 +15,21 @@ interface NavLinksProps {
 }
 
 export const NavLinks = ({ links }: NavLinksProps) => {
+  const pathname = usePathname();
+
   return (
     <>
-      {links.map((link) => {
+      {links.map(({ label, href, ...rest }) => {
+        const active = pathname === href;
+
         return (
-          <Link href={link.href} key={link.href}>
-            {link.label}
+          <Link
+            href={href}
+            key={href}
+            className={cx(styles.NavLink, { [styles.active]: active })}
+            {...rest}
+          >
+            {label}
           </Link>
         );
       })}

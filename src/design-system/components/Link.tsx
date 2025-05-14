@@ -7,6 +7,15 @@ interface LinkProps extends ComponentProps<typeof NextLink> {
   className?: string;
 }
 
-export const Link = ({ className, ...rest }: LinkProps) => {
-  return <NextLink className={cx(styles['ds-link'], className)} {...rest} />;
+export const Link = ({ className, href, ...rest }: LinkProps) => {
+  const target = href.toString().includes('http') ? '_blank' : undefined;
+
+  return (
+    <NextLink
+      href={href}
+      target={target}
+      className={cx(styles['ds-link'], className)}
+      {...rest}
+    />
+  );
 };
