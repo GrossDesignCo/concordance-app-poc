@@ -13,11 +13,26 @@ export type HebrewSuffix = keyof typeof suffixes;
 // Greek Dictionary
 export type GreekRoot = keyof typeof greekRoots;
 
+// Settings Keys
+export const FONT_KEYS = ['sans', 'serif'] as const;
+export type FontKey = (typeof FONT_KEYS)[number];
+
 // Word Keys
-export const LANGUAGE_KEYS = ['original', 'transliteration', 'englishLiteral', 'englishNatural'] as const;
+export const LANGUAGE_KEYS = [
+  'original',
+  'transliteration',
+  'englishLiteral',
+  'englishNatural',
+] as const;
 export type LanguageKey = (typeof LANGUAGE_KEYS)[number];
 
-export const RESOLVED_LANGUAGE_KEYS = ['hebrew', 'greek', 'transliteration', 'englishLiteral', 'englishNatural'] as const;
+export const RESOLVED_LANGUAGE_KEYS = [
+  'hebrew',
+  'greek',
+  'transliteration',
+  'englishLiteral',
+  'englishNatural',
+] as const;
 export type ResolvedLanguageKey = (typeof RESOLVED_LANGUAGE_KEYS)[number];
 
 export const WORD_ORDER_KEYS = ['hebrew', 'greek', 'english'] as const;
@@ -424,11 +439,13 @@ export interface Verse {
 }
 
 // Either a consistent number or broken down by language
-export type LineBreak = number | {
-  greek?: number;
-  hebrew?: number;
-  english?: number;
-}
+export type LineBreak =
+  | number
+  | {
+      greek?: number;
+      hebrew?: number;
+      english?: number;
+    };
 
 export interface Grammar {
   greek?: string;

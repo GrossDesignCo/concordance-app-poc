@@ -1,18 +1,14 @@
+import { FontKey, LanguageKey } from '@/types';
 import { createContext, useContext, useState, ReactNode } from 'react';
 
 interface SettingsContextProps {
-  showOriginal: boolean;
-  setShowOriginal: (value: boolean) => void;
-  showTransliteration: boolean;
-  setShowTransliteration: (value: boolean) => void;
-  showEnglishLiteral: boolean;
-  setShowEnglishLiteral: (value: boolean) => void;
-  showEnglishNatural: boolean;
-  setShowEnglishNatural: (value: boolean) => void;
+  languages: LanguageKey[];
+  setLanguages: (lang: LanguageKey[]) => void;
+  toggleLanguage: (lang: LanguageKey) => void;
   theme: string;
   setTheme: (value: string) => void;
-  font: 'sans' | 'serif';
-  setFont: (value: 'sans' | 'serif') => void;
+  font: FontKey;
+  setFont: (value: FontKey) => void;
 }
 
 const SettingsContext = createContext<SettingsContextProps | undefined>(
@@ -20,24 +16,32 @@ const SettingsContext = createContext<SettingsContextProps | undefined>(
 );
 
 export const SettingsProvider = ({ children }: { children: ReactNode }) => {
-  const [showOriginal, setShowOriginal] = useState(false);
-  const [showTransliteration, setShowTransliteration] = useState(false);
-  const [showEnglishLiteral, setShowEnglishLiteral] = useState(false);
-  const [showEnglishNatural, setShowEnglishNatural] = useState(true);
+  const [languages, setLanguages] = useState<LanguageKey[]>(['englishNatural']);
   const [theme, setTheme] = useState('system');
-  const [font, setFont] = useState<'sans' | 'serif'>('sans');
+  const [font, setFont] = useState<FontKey>('sans');
+
+  // Toggle an individual language
+  const toggleLanguage = (lang: LanguageKey) => {
+    if (languages.includes(lang)) {
+      setLanguages((langs) => langs.filter((l) => l !== lang));
+    } else {
+      setLanguages((langs) => [...langs, lang]);
+    }
+  };
+
+  const handleSetLanguages = (languages: LanguageKey[]) => {
+    // If someone tries to unset all languages just revert to the default so that one is always selected
+    setLanguages(languages.length === 0 ? ['englishNatural'] : languages);
+  };
+
+  console.log('SettingsContext', { languages });
 
   return (
     <SettingsContext.Provider
       value={{
-        showOriginal,
-        setShowOriginal,
-        showTransliteration,
-        setShowTransliteration,
-        showEnglishLiteral,
-        setShowEnglishLiteral,
-        showEnglishNatural,
-        setShowEnglishNatural,
+        languages,
+        setLanguages: handleSetLanguages,
+        toggleLanguage,
         theme,
         setTheme,
         font,

@@ -1,6 +1,7 @@
 .scripture {
   max-width: 80ch;
   margin: 0 auto;
+  padding: var(--ds-space-10) 0 var(--ds-space-8);
 }
 
 .scripture.sans {

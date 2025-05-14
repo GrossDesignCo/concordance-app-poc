@@ -65,7 +65,6 @@
 }
 
 .label {
-  font-size: 14px;
   color: var(--ds-color-neutral-900);
   user-select: none;
 }

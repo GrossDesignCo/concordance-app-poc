@@ -12,24 +12,10 @@ interface VerseProps {
 }
 
 export default function Verse({ verse }: VerseProps) {
-  const {
-    showEnglishLiteral,
-    showEnglishNatural,
-    showOriginal,
-    showTransliteration,
-  } = useSettings();
-
-  // Determine what to show
-  const languages: Record<LanguageKey, boolean> = {
-    original: showOriginal,
-    transliteration: showTransliteration,
-    englishLiteral: showEnglishLiteral,
-    englishNatural: showEnglishNatural,
-  };
+  const { languages } = useSettings();
 
   // (If there are multiple translations being shown)
-  const isShowingMultiple =
-    Object.values(languages).filter((val) => val === true).length > 1;
+  const isShowingMultiple = languages.length > 1;
 
   // Track which words have lexicon entries (used/rendered in Word component)
   const { checkWordsForEntryPresence } = useLexicon();
@@ -53,9 +39,7 @@ export default function Verse({ verse }: VerseProps) {
         <sup className={styles.VerseNumber}>{verse.meta.number}</sup>
       ) : null}
 
-      {Object.entries(languages).map(([language, show]) => {
-        if (!show) return null;
-
+      {languages.map((language) => {
         // Resolve `original` to actual language used for styling
         const resolvedLanguage = resolveLanguage(
           verse.words?.[0],

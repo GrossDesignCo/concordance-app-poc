@@ -40,8 +40,8 @@
   --ds-radius-full: 9999px;
 
   /* Semantic Tokens - Typography */
-  --ds-font-family-base: system-ui, -apple-system, sans-serif;
-  --ds-font-family-heading: var(--ds-font-family-base);
+  --ds-font-family-sans-serif: 'Noto Sans Hebrew', sans-serif;
+  --ds-font-family-serif: 'Noto Serif Hebrew', serif;
 
   --ds-text-heading-1: var(--ds-font-size-5xl);
   --ds-text-heading-2: var(--ds-font-size-4xl);

@@ -10,11 +10,12 @@ export interface ToggleOption {
 
 interface ToggleGroupProps {
   options: ToggleOption[];
-  value: string | string[];
-  onChange: (value: string | string[]) => void;
+  value?: string | string[];
+  onChange?: (value: string | string[]) => void;
   name: string;
   type?: 'radio' | 'checkbox';
   className?: string;
+  label?: string;
 }
 
 export function ToggleGroup({
@@ -22,53 +23,62 @@ export function ToggleGroup({
   value,
   onChange,
   name,
-  type = 'radio',
+  type,
   className,
+  label,
 }: ToggleGroupProps) {
-  const isChecked = (optionValue: string) => {
-    if (type === 'checkbox') {
-      return Array.isArray(value) && value.includes(optionValue);
-    }
-    return value === optionValue;
+  const realType = type ?? Array.isArray(value) ? 'checkbox' : 'radio';
+
+  const isChecked = (val: string) => {
+    return Array.isArray(value) ? value.includes(val) : value === val;
   };
 
-  const handleChange = (optionValue: string) => {
-    if (type === 'checkbox') {
-      const currentValues = Array.isArray(value) ? value : [];
-      const newValues = currentValues.includes(optionValue)
-        ? currentValues.filter((v) => v !== optionValue)
-        : [...currentValues, optionValue];
-      onChange(newValues);
+  const handleChange = (val: string) => {
+    console.log('handleChange', { val, value });
+    if (Array.isArray(value)) {
+      const newValues = value.includes(val)
+        ? value.filter((v) => v !== val)
+        : [...value, val];
+
+      onChange?.(newValues);
     } else {
-      onChange(optionValue);
+      onChange?.(val);
     }
   };
 
   return (
-    <div
+    <fieldset
       className={cx(styles.toggleGroup, className)}
       role="group"
       aria-label={name}
+      name={name}
     >
-      {options.map((option) => (
-        <label
-          key={option.value}
-          className={cx(styles.toggleOption, {
-            [styles.selected]: isChecked(option.value),
-          })}
-        >
-          <input
-            type={type}
-            name={name}
-            value={option.value}
-            checked={isChecked(option.value)}
-            onChange={() => handleChange(option.value)}
-            className={styles.input}
-          />
-          <div className={styles.preview}>{option.preview}</div>
-          <span className={styles.label}>{option.label}</span>
-        </label>
-      ))}
-    </div>
+      <legend className={styles.toggleGroupLabel}>{label}</legend>
+
+      {options.map(({ ...option }) => {
+        const checked = isChecked(option.value);
+
+        return (
+          <label
+            key={option.value}
+            className={cx(styles.toggleOption, {
+              [styles.selected]: checked,
+            })}
+            {...option}
+          >
+            <input
+              type={realType}
+              value={option.value}
+              checked={checked}
+              onChange={() => handleChange(option.value)}
+              className={styles.input}
+            />
+
+            <div className={styles.preview}>{option.preview}</div>
+            <span className={styles.label}>{option.label}</span>
+          </label>
+        );
+      })}
+    </fieldset>
   );
 }

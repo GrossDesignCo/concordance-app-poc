@@ -12,7 +12,7 @@ body {
 body {
   color: var(--ds-fg-default);
   background: var(--ds-bg-page);
-  font-family: 'Noto Sans Hebrew', sans-serif;
+  font-family: var(--ds-font-family-sans-serif);
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.65;
@@ -41,8 +41,15 @@ a {
 }
 
 .font-hebrew {
-  font-family: 'Noto Sans Hebrew', sans-serif;
   direction: rtl;
+}
+
+.sans {
+  font-family: var(--ds-font-family-sans-serif);
+}
+
+.serif {
+  font-family: var(--ds-font-family-serif);
 }
 
 ul,

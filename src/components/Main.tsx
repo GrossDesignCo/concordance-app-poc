@@ -55,16 +55,16 @@ export const Main = () => {
   );
 
   useEffect(() => {
-    const maxWidths = {
-      settings: '28ch',
+    const minWidths = {
+      settings: '32ch',
       lexicon: 'min(50vw, 80ch)',
     };
 
     // @ts-expect-error - ts doesn't see that null won't be made a key here
-    const maxWidth = maxWidths[secondaryPanel || ''] || '0';
+    const minWidth = minWidths[secondaryPanel || ''] || '0';
     const body = document.querySelector('body');
 
-    body?.style.setProperty('--main-secondary-panel-width', maxWidth);
+    body?.style.setProperty('--main-secondary-panel-width', minWidth);
   }, [secondaryPanel, isDesktop]);
 
   return (
@@ -72,6 +72,8 @@ export const Main = () => {
       <main className={styles.main}>
         <div className={styles.primaryPanel}>
           <ScriptureReader />
+
+          <Header />
         </div>
 
         {/* On mobile by default, just render the secondary panel items as sheets */}
@@ -94,8 +96,6 @@ export const Main = () => {
           </Sheet>
         )}
       </main>
-
-      <Header />
     </>
   );
 };

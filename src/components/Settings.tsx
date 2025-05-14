@@ -1,81 +1,147 @@
 'use client';
 import { useSettings } from '@/context/SettingsContext';
 import { useTheme } from 'next-themes';
-import { Checkbox, RadioGroup, Radio } from '@/design-system';
+import { ToggleGroup } from '@/design-system';
 import styles from './Settings.module.css';
+import { FontKey, LanguageKey } from '@/types';
 
 const Settings = () => {
-  const {
-    showOriginal,
-    setShowOriginal,
-    showTransliteration,
-    setShowTransliteration,
-    showEnglishLiteral,
-    setShowEnglishLiteral,
-    showEnglishNatural,
-    setShowEnglishNatural,
-    font,
-    setFont,
-  } = useSettings();
+  const { languages, setLanguages, font, setFont } = useSettings();
 
   const { theme, setTheme } = useTheme();
 
   return (
     <div className={styles.settings}>
-      <Checkbox
-        label="Show Original"
-        checked={showOriginal}
-        onChange={() => setShowOriginal(!showOriginal)}
+      <ToggleGroup
+        label="Languages"
+        options={[
+          {
+            value: 'original',
+            label: 'Original',
+            preview: (
+              <>
+                <div className={styles.originalLanguage}>
+                  <span>יְהוָה</span>
+                  <span>ἐγὼ</span>
+                </div>
+              </>
+            ),
+          },
+          {
+            value: 'transliteration',
+            label: 'Translit.',
+            preview: (
+              <>
+                <div className={styles.transliteration}>
+                  <span>YHWH</span>
+                </div>
+              </>
+            ),
+          },
+          {
+            value: 'englishLiteral',
+            label: 'English-Lit.',
+            preview: (
+              <>
+                <div className={styles.englishLiteral}>
+                  <span>I_AM</span>
+                </div>
+              </>
+            ),
+          },
+          {
+            value: 'englishNatural',
+            label: 'English-Nat.',
+            preview: (
+              <>
+                <div className={styles.englishNatural}>
+                  <span>I-AM</span>
+                </div>
+              </>
+            ),
+          },
+        ]}
+        value={languages}
+        onChange={(langs) => setLanguages(langs as LanguageKey[])}
+        name="languages"
       />
-      <Checkbox
-        label="Show Transliteration"
-        checked={showTransliteration}
-        onChange={() => setShowTransliteration(!showTransliteration)}
+
+      <ToggleGroup
+        label="Font"
+        options={[
+          {
+            value: 'sans',
+            label: 'Sans Serif',
+            preview: (
+              <>
+                <div className="sans">
+                  <span>Aa</span>
+                </div>
+              </>
+            ),
+          },
+          {
+            value: 'serif',
+            label: 'Serif',
+            preview: (
+              <>
+                <div className="serif">
+                  <span>Aa</span>
+                </div>
+              </>
+            ),
+          },
+        ]}
+        value={font}
+        onChange={(font) => setFont(font as FontKey)}
+        name="font"
       />
-      <Checkbox
-        label="Show English Literal"
-        checked={showEnglishLiteral}
-        onChange={() => setShowEnglishLiteral(!showEnglishLiteral)}
+
+      <ToggleGroup
+        label="Theme"
+        options={[
+          {
+            value: 'light',
+            label: 'Light',
+            // @ts-expect-error - using custom prop to pass data-attr
+            ['data-theme']: 'light',
+            preview: (
+              <>
+                <div className={styles.light}>
+                  <span>Aa</span>
+                </div>
+              </>
+            ),
+          },
+          {
+            value: 'dark',
+            label: 'Dark',
+            // @ts-expect-error - using custom prop to pass data-attr
+            ['data-theme']: 'dark',
+            preview: (
+              <>
+                <div className={styles.dark}>
+                  <span>Aa</span>
+                </div>
+              </>
+            ),
+          },
+          {
+            value: 'system',
+            label: 'System',
+            preview: (
+              <>
+                <div className="system">
+                  <span>Aa</span>
+                </div>
+              </>
+            ),
+          },
+        ]}
+        value={theme}
+        onChange={(theme) => setTheme(theme as string)}
+        name="theme"
       />
-      <Checkbox
-        label="Show English Natural"
-        checked={showEnglishNatural}
-        onChange={() => setShowEnglishNatural(!showEnglishNatural)}
-      />
-      <RadioGroup label="Font">
-        <Radio
-          label="Sans"
-          value="sans"
-          checked={font === 'sans'}
-          onChange={() => setFont('sans')}
-        />
-        <Radio
-          label="Serif"
-          value="serif"
-          checked={font === 'serif'}
-          onChange={() => setFont('serif')}
-        />
-      </RadioGroup>
-      <RadioGroup label="Theme">
-        <Radio
-          label="Light"
-          value="light"
-          checked={theme === 'light'}
-          onChange={() => setTheme('light')}
-        />
-        <Radio
-          label="Dark"
-          value="dark"
-          checked={theme === 'dark'}
-          onChange={() => setTheme('dark')}
-        />
-        <Radio
-          label="System"
-          value="system"
-          checked={theme === 'system'}
-          onChange={() => setTheme('system')}
-        />
-      </RadioGroup>
     </div>
   );
 };
