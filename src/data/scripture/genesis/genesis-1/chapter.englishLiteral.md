@@ -11,7 +11,8 @@ And-saw Gods ↳ the-light that good.
 And-separated Gods between the-light, and-between the-darkness.
 
 And-called Gods to-light, "Day,"
-and-to-darkness, called, "Night." 
+and-to-darkness, called, "Night."
+
 And-was, evening, 
 And-was, morning, 
 Day one.
@@ -25,6 +26,10 @@ And-it-was so.
 
 And-called, Gods, to_the-hammered_out_work, "Skies."
 
+And-was evening, 
+And-was morning, 
+Day second.
+
 And-said, Gods, "Let-gather, the-waters, from-under the-skies, to→ place, one.
 And-let-appear, the-dry_ground."
 And-it-was so.
@@ -32,3 +37,13 @@ And-it-was so.
 And-called, Gods, to-the-dry_ground, "Land,"
 and-to-gathering, the-waters, called, "Seas."
 And-saw, Gods, that, good.
+
+And-said Gods, "Let-sprout the-land grass, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed-in-it, over-the-land, 
+And-it_was-so.
+
+And-brought-forth the-land grass, herb seeding seed to-its-kind, and-tree making fruit which its-seed-in-it to-its-kind. 
+And-saw Gods that good.
+
+And-was evening, 
+And-was morning, 
+Day third.

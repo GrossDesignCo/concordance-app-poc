@@ -11,7 +11,8 @@ vaYar Elohim et-haOr ki-tov.
 vaYavdel Elohim beyn haOr, uBeyn haChoshekh.
 
 vaYiqra Elohim laOr yom
-veLaChoshekh qara laylah 
+veLaChoshekh qara laylah
+
 vaYehi erev 
 vaYehi voqer 
 yom echad
@@ -25,6 +26,10 @@ vaYehi-ken
 
 vaYiqra Elohim laRaqia shamayim
 
+vaYehi erev 
+vaYehi voqer 
+yom sheni
+
 vaYomer Elohim yiqqavu haMayim miTachat haShamayim el-maqom echad
 veTeraah haYabashah
 vaYehi-ken
@@ -32,3 +37,13 @@ vaYehi-ken
 vaYiqra Elohim laYabashah eretz
 uLeMiQveh haMayim qara yamim
 vaYar Elohim ki-tov
+
+vaYomer Elohim tadShe haAretz deshe esev maZria zera etz pri oseh pri leMino asher zarO-bo al-haAretz 
+vaYehi-ken
+
+vaToTze haAretz deshe esev maZria zera leMinehu veEtz oseh pri asher zarO-bo leMinehu 
+vaYar Elohim ki-tov
+
+vaYehi-erev 
+vaYehi-boqer 
+yom shlishi

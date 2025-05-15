@@ -116,6 +116,61 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'skies',
     englishNatural: 'skies',
   },
+  shesh: {
+    hebrew: 'שש',
+    transliteration: 'shesh',
+    englishLiteral: 'six',
+    englishNatural: 'six',
+  },
+  sheva: {
+    hebrew: 'שבע',
+    transliteration: 'sheva',
+    englishLiteral: 'seven',
+    englishNatural: 'seven',
+  },
+  // Numbers - Ordinal (order)
+  rishon: {
+    hebrew: 'ראשון',
+    transliteration: 'rishon',
+    englishLiteral: 'first',
+    englishNatural: 'first',
+  },
+  sheni: {
+    hebrew: 'שני',
+    transliteration: 'sheni',
+    englishLiteral: 'second',
+    englishNatural: 'second',
+  },
+  shlishi: {
+    hebrew: 'שלישי',
+    transliteration: 'shlishi',
+    englishLiteral: 'third',
+    englishNatural: 'third',
+  },
+  revii: {
+    hebrew: 'רביעי',
+    transliteration: 'revii',
+    englishLiteral: 'fourth',
+    englishNatural: 'fourth',
+  },
+  chamishi: {
+    hebrew: 'חמישי',
+    transliteration: 'chamishi',
+    englishLiteral: 'fifth',
+    englishNatural: 'fifth',
+  },
+  shishi: {
+    hebrew: 'ששי',
+    transliteration: 'shishi',
+    englishLiteral: 'sixth',
+    englishNatural: 'sixth',
+  },
+  shevii: {
+    hebrew: 'שביעי',
+    transliteration: 'shevii',
+    englishLiteral: 'seventh',
+    englishNatural: 'seventh',
+  },
   // Proverbs roots
   arum: {
     hebrew: 'ערם',
@@ -250,6 +305,36 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'not',
     englishNatural: 'not',
   },
+  dasha: {
+    hebrew: 'דשא',
+    transliteration: 'dasha',
+    englishLiteral: 'sprout',
+    englishNatural: 'sprout',
+  },
+  esev: {
+    hebrew: 'עשב',
+    transliteration: 'esev',
+    englishLiteral: 'herb',
+    englishNatural: 'herb',
+  },
+  zara: {
+    hebrew: 'זרע',
+    transliteration: 'zara',
+    englishLiteral: 'seed',
+    englishNatural: 'seed',
+  },
+  pri: {
+    hebrew: 'פרי',
+    transliteration: 'pri',
+    englishLiteral: 'fruit',
+    englishNatural: 'fruit',
+  },
+  min: {
+    hebrew: 'מין',
+    transliteration: 'min',
+    englishLiteral: 'kind',
+    englishNatural: 'kind',
+  },
   // Genesis 3:3 roots
   peri: {
     hebrew: 'פְּרִי',
@@ -268,12 +353,6 @@ export const roots: Record<string, RootElement> = {
     transliteration: 'ken',
     englishLiteral: 'so',
     englishNatural: 'so',
-  },
-  min: {
-    hebrew: 'מִן',
-    transliteration: 'min',
-    englishLiteral: 'from',
-    englishNatural: 'from',
   },
   naga: {
     hebrew: 'נגע',
@@ -496,12 +575,6 @@ export const roots: Record<string, RootElement> = {
     transliteration: 'maal',
     englishLiteral: 'above',
     englishNatural: 'above',
-  },
-  shesh: {
-    hebrew: 'שש',
-    transliteration: 'shesh',
-    englishLiteral: 'six',
-    englishNatural: 'six',
   },
   kenaf: {
     hebrew: 'כנף',

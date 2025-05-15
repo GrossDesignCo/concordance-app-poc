@@ -143,6 +143,18 @@ export const prefixes: Record<string, PrefixElement> = {
       englishLiteral: 'to',
       englishNatural: 'to',
     },
+    ta: {
+      hebrew: 'תַּ',
+      transliteration: 'ta',
+      englishLiteral: 'let',
+      englishNatural: 'let',
+    },
+    ma: {
+      hebrew: 'מַ',
+      transliteration: 'ma',
+      englishLiteral: 'one-who',
+      englishNatural: 'one who',
+    },
     // Isaiah prefixes
     // Add other common prefixes
   };

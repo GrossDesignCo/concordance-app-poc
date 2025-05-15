@@ -151,4 +151,18 @@ export const suffixes: Record<string, SuffixElement> = {
       englishNatural: 'you',
       function: '2nd person plural imperfect',
     },
+    hu: {
+      hebrew: 'וֹ',
+      transliteration: 'hu',
+      englishLiteral: 'its',
+      englishNatural: 'its',
+      function: '3rd person masculine singular possessive',
+    },
+    construct_i: {
+      hebrew: 'י',
+      transliteration: 'i',
+      englishLiteral: 'of',
+      englishNatural: 'of',
+      function: 'construct state',
+    },
   };

@@ -11,10 +11,11 @@ And God saw the light; good.
 And God separated between the light, and between the darkness.
 
 And God called light "Day,"
-and called darkness "Night." 
+and called darkness "Night."
+
 And evening was, 
 And morning was, 
-Day one.
+One day.
 
 And God said, "Let hammered-out-work be in the midst of the waters,
 and let it be separating between waters and waters."
@@ -25,9 +26,23 @@ And it was so.
 
 And God called the hammered-out-work, "Skies."
 
+And evening was, 
+And morning was, 
+A second day.
+
 And God said, "Let the waters gather from under the skies to one place. And let the dry-ground appear."
 And it was so.
 
 And God called the dry-ground "Land,"
 and called the gathering of the waters "Seas."
 And God saw that-it-was good.
+
+And God said, "Let the land sprout grass, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." 
+And it was so.
+
+And the land brought forth grass, herb seeding seed after its kind, and tree making fruit which has its seed in it after its kind. 
+And God saw that-it-was good.
+
+And evening was, 
+And morning was, 
+A third day.

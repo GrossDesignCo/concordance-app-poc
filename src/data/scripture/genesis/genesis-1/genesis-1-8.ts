@@ -101,13 +101,160 @@ export const genesis_1_8: Verse = {
       },
       lineBreaksAfter: 1,
     },
+    {
+      hebrew: 'וַֽיְהִי',
+      transliteration: 'vaYehi',
+      englishLiteral: 'And-was',
+      englishNatural: 'was',
+      root: 'hayah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 5,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+    },
+    {
+      hebrew: 'עֶ֥רֶב',
+      transliteration: 'erev',
+      englishLiteral: 'evening',
+      englishNatural: 'And evening',
+      root: 'erev',
+      order: {
+        hebrew: 6,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'וַֽיְהִי',
+      transliteration: 'vaYehi',
+      englishLiteral: 'And-was',
+      englishNatural: 'was',
+      root: 'hayah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 7,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+    },
+    {
+      hebrew: 'בֹ֖קֶר',
+      transliteration: 'voqer',
+      englishLiteral: 'morning',
+      englishNatural: 'And morning',
+      root: 'boqer',
+      order: {
+        hebrew: 8,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: '',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'י֥וֹם',
+      transliteration: 'yom',
+      englishLiteral: 'Day',
+      englishNatural: 'day',
+      root: 'yom',
+      order: {
+        hebrew: 9,
+        english: 10,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishNatural: '.',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+      lineBreaksAfter: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'שֵׁנִֽי׃',
+      transliteration: 'sheni',
+      englishLiteral: 'second',
+      englishNatural: 'A second',
+      root: 'sheni',
+      order: {
+        hebrew: 10,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'adjective',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+      lineBreaksAfter: {
+        hebrew: 1,
+      },
+    },
   ],
   expectedTranslations: {
-    hebrew: 'וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם',
-    transliteration: 'vaYiqra Elohim laRaqia shamayim',
-    englishLiteral: 'And-called, Gods, to_the-hammered_out_work, "Skies."',
-    englishNatural: 'And God called the hammered-out-work, "Skies."',
-    kjv: 'And God called the firmament Heaven.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
+    hebrew: 'וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם שֵׁנִֽי׃',
+    transliteration: 'vaYiqra Elohim laRaqia shamayim vaYehi erev vaYehi voqer yom sheni',
+    englishLiteral: 'And-called, Gods, to_the-hammered_out_work, "Skies." And-was evening, And-was morning, Day second.',
+    englishNatural: 'And God called the hammered-out-work, "Skies." And evening was, And morning was, A second day.',
+    kjv: 'And God called the firmament Heaven. And the evening and the morning were the second day.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-15' },
   },
 }; 
