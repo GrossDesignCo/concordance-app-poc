@@ -1,5 +1,5 @@
 import { useSelection } from '@/context/SelectionContext';
-import { Button } from '@/design-system';
+import { Button, Tooltip } from '@/design-system';
 import {
   ArrowsInLineVertical,
   ArrowsOutLineVertical,
@@ -11,17 +11,19 @@ export const ConcordanceModeControl = () => {
   if (!selectedWords.length) return null;
 
   return (
-    <Button
-      onClick={() => {
-        setFilterVerses(!filterVerses);
-      }}
-      variant={filterVerses ? 'primary' : 'secondary'}
-    >
-      {filterVerses ? (
-        <ArrowsOutLineVertical size={20} />
-      ) : (
-        <ArrowsInLineVertical size={20} />
-      )}
-    </Button>
+    <Tooltip label="Concordance View">
+      <Button
+        onClick={() => {
+          setFilterVerses(!filterVerses);
+        }}
+        variant={filterVerses ? 'primary' : 'secondary'}
+      >
+        {filterVerses ? (
+          <ArrowsOutLineVertical size={20} />
+        ) : (
+          <ArrowsInLineVertical size={20} />
+        )}
+      </Button>
+    </Tooltip>
   );
 };

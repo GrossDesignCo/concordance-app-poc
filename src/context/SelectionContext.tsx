@@ -1,5 +1,11 @@
 import { TranslationWord } from '@/types';
-import { createContext, useContext, useState, ReactNode } from 'react';
+import {
+  createContext,
+  useContext,
+  useState,
+  ReactNode,
+  useEffect,
+} from 'react';
 
 interface SelectionContextProps {
   selectedWords: TranslationWord[];
@@ -56,6 +62,11 @@ export const SelectionProvider = ({ children }: { children: ReactNode }) => {
   const clearSelection = () => {
     setSelectedWords([]);
   };
+
+  // Clear the filtering/concordance mode if there's nothing to filter on
+  useEffect(() => {
+    if (selectedWords.length === 0) setFilterVerses(false);
+  }, [selectedWords]);
 
   return (
     <SelectionContext.Provider
