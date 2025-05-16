@@ -1,0 +1,5 @@
+.translation-progress-layout {
+  display: flex;
+  flex-direction: column;
+  gap: var(--ds-space-6);
+}
