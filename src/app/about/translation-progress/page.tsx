@@ -3,10 +3,10 @@ import Content from './content.mdx';
 import './page.css';
 import { getTranslationProgress } from '@/data/pipeline/getTranslationProgress';
 
-// Get translation progress statically from file system during build
-const progress = await getTranslationProgress();
-
 export default async function TranslationProgressPage({}) {
+  // Get translation progress statically from file system during build
+  const progress = await getTranslationProgress();
+
   // Vercel url doesn't include protocol
   // const vercelUrl = process.env.VERCEL_URL
   //   ? `https://${process.env.VERCEL_URL}`
