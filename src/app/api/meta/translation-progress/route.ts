@@ -1,10 +1,13 @@
 import { NextResponse } from 'next/server';
-import { getTranslationProgress } from '@/data/pipeline/getTranslationProgress';
+import fs from 'fs';
+import path from 'path';
 
-const progress = await getTranslationProgress();
+const PROGRESS_PATH = path.join(process.cwd(), 'src/data/meta/translation-progress.json');
 
 export async function GET() {
   try {
+    const file = fs.readFileSync(PROGRESS_PATH, 'utf-8');
+    const progress = JSON.parse(file);
     return NextResponse.json(progress, {
       status: 200,
       headers: {
