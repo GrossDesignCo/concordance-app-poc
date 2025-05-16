@@ -20,6 +20,10 @@ export default function StaticPageLayout({
               label: 'About',
             },
             {
+              href: '/about/translation-progress',
+              label: 'Progress',
+            },
+            {
               href: '/about/contribute',
               label: 'Contribute',
             },
