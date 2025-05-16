@@ -1,10 +1,14 @@
 import styles from './TranslationProgressMeter.module.css';
 import cx from 'classnames';
-import { getTranslationProgress } from '@/data/pipeline/getTranslationProgress';
+import { TranslationProgressData } from '@/data/pipeline/getTranslationProgress';
 
-const progress = await getTranslationProgress();
+interface TranslationProgressProps {
+  progress: TranslationProgressData;
+}
 
-export function TranslationProgressMeter() {
+export function TranslationProgressMeter({
+  progress,
+}: TranslationProgressProps) {
   if (!progress) {
     return null;
   }
