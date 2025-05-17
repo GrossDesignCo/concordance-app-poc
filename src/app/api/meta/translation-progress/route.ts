@@ -1,5 +1,5 @@
-import progress from '@/data/meta/translation-progress.json';
 import { NextResponse } from 'next/server';
+import { getTranslationProgress } from '@/data/pipeline/getTranslationProgress';
 
 /**
  * Statically serve data for the translation progress meter/viz
@@ -7,7 +7,9 @@ import { NextResponse } from 'next/server';
  */
 export async function GET() {
   try {
-    return NextResponse.json(progress, {
+    const translationProgress = await getTranslationProgress();
+
+    return NextResponse.json(translationProgress, {
       status: 200,
       headers: {
         'Content-Type': 'application/json',

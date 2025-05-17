@@ -1,19 +1,8 @@
-import progress from '@/data/meta/translation-progress.json';
 import { TranslationProgressMeter } from '@/components/TranslationProgressMeter';
 import Content from './content.mdx';
 import './page.css';
 
 export default function TranslationProgressPage() {
-  // Vercel url doesn't include protocol
-  // const vercelUrl = process.env.VERCEL_URL
-  //   ? `https://${process.env.VERCEL_URL}`
-  //   : undefined;
-  // const localUrl = process.env.URL;
-  // const baseUrl = (vercelUrl || localUrl) ?? '';
-
-  // const progressData = await fetch(baseUrl + '/api/meta/translation-progress');
-  // const progress = await progressData.json();
-
   return (
     <div className="translation-progress-layout">
       <div className="markdown-text">
@@ -21,7 +10,7 @@ export default function TranslationProgressPage() {
       </div>
 
       <div>
-        <TranslationProgressMeter progress={progress} />
+        <TranslationProgressMeter />
       </div>
     </div>
   );
