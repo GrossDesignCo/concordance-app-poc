@@ -12,6 +12,8 @@ import { genesis_1_10 } from './genesis-1-10';
 import { genesis_1_11 } from './genesis-1-11';
 import { genesis_1_12 } from './genesis-1-12';
 import { genesis_1_13 } from './genesis-1-13';
+import { genesis_1_14 } from './genesis-1-14';
+import { genesis_1_15 } from './genesis-1-15';
 
 const chapter: Chapter = {
   number: 1,
@@ -29,6 +31,8 @@ const chapter: Chapter = {
     genesis_1_11,
     genesis_1_12,
     genesis_1_13,
+    genesis_1_14,
+    genesis_1_15,
   ],
 };
 

@@ -155,6 +155,12 @@ export const prefixes: Record<string, PrefixElement> = {
       englishLiteral: 'one-who',
       englishNatural: 'one who',
     },
+    li: {
+      hebrew: 'לִ',
+      transliteration: 'li',
+      englishLiteral: 'to',
+      englishNatural: 'to',
+    },
     // Isaiah prefixes
     // Add other common prefixes
   };

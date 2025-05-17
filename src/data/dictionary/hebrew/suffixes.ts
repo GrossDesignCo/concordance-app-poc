@@ -165,4 +165,11 @@ export const suffixes: Record<string, SuffixElement> = {
       englishNatural: 'of',
       function: 'construct state',
     },
+    ot: {
+      hebrew: 'ות',
+      transliteration: 'ot',
+      englishLiteral: 'plural',
+      englishNatural: 'plural',
+      function: 'feminine plural',
+    },
   };

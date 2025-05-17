@@ -901,4 +901,28 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'this',
     englishNatural: 'this',
   },
+  ot: {
+    hebrew: 'אות',
+    transliteration: 'ot',
+    englishLiteral: 'sign',
+    englishNatural: 'sign',
+  },
+  moed: {
+    hebrew: 'מועד',
+    transliteration: 'moed',
+    englishLiteral: 'appointed-time',
+    englishNatural: 'appointed time',
+  },
+  shanah: {
+    hebrew: 'שנה',
+    transliteration: 'shanah',
+    englishLiteral: 'year',
+    englishNatural: 'year',
+  },
+  peri: {
+    hebrew: 'פרי',
+    transliteration: 'peri',
+    englishLiteral: 'fruit',
+    englishNatural: 'fruit',
+  },
 };
