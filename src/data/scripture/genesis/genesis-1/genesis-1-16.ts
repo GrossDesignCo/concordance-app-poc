@@ -132,6 +132,9 @@ export const genesis_1_16: Verse = {
         hebrew: 7,
         english: 7,
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'הַמָּא֤וֹר',
@@ -148,6 +151,9 @@ export const genesis_1_16: Verse = {
         gender: 'masculine',
         number: 'singular',
         type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
