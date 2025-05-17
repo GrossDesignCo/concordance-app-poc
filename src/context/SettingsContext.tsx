@@ -30,11 +30,20 @@ export const SettingsProvider = ({ children }: { children: ReactNode }) => {
   };
 
   const handleSetLanguages = (languages: LanguageKey[]) => {
+    const languageOrder = [
+      'original',
+      'transliteration',
+      'englishLiteral',
+      'englishNatural',
+    ];
+    const sortedLanguages = languages.sort(
+      (a, b) => languageOrder.indexOf(a) - languageOrder.indexOf(b)
+    );
     // If someone tries to unset all languages just revert to the default so that one is always selected
-    setLanguages(languages.length === 0 ? ['englishNatural'] : languages);
+    setLanguages(
+      sortedLanguages.length === 0 ? ['englishNatural'] : sortedLanguages
+    );
   };
-
-  console.log('SettingsContext', { languages });
 
   return (
     <SettingsContext.Provider
