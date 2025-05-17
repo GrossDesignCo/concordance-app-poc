@@ -172,4 +172,11 @@ export const suffixes: Record<string, SuffixElement> = {
       englishNatural: 'plural',
       function: 'feminine plural',
     },
+    am: {
+      hebrew: 'ם',
+      transliteration: 'am',
+      englishLiteral: 'them',
+      englishNatural: 'them',
+      function: '3rd person masculine plural object',
+    },
   };

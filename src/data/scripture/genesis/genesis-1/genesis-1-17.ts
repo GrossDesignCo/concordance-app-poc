@@ -1,0 +1,169 @@
+import { Verse } from '@/types';
+
+export const genesis_1_17: Verse = {
+  meta: {
+    chapter: 1,
+    number: 17,
+  },
+  words: [
+    {
+      hebrew: 'וַיִּתֵּ֥ן',
+      transliteration: 'vaYiten',
+      englishLiteral: 'And-put',
+      englishNatural: 'put',
+      root: 'natan',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+    },
+    {
+      hebrew: 'אֹתָ֛ם',
+      transliteration: 'otam',
+      englishLiteral: 'them',
+      englishNatural: 'them',
+      root: 'et',
+      suffixes: ['am'],
+      order: {
+        hebrew: 2,
+        english: 3,
+      },
+      morphology: {
+        type: 'pronoun',
+      },
+    },
+    {
+      hebrew: 'אֱלֹהִ֖ים',
+      transliteration: 'Elohim',
+      englishLiteral: 'Gods',
+      englishNatural: 'And God',
+      root: 'eloah',
+      suffixes: ['im'],
+      order: {
+        hebrew: 3,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'בִּרְקִ֣יעַ',
+      transliteration: 'birQia',
+      englishLiteral: 'in-hammered_out_work',
+      englishNatural: 'in the hammered-out-work',
+      root: 'raqia',
+      prefixes: ['be'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'הַשָּׁמָ֑יִם',
+      transliteration: 'haShamayim',
+      englishLiteral: 'the-skies',
+      englishNatural: 'the skies',
+      root: 'shamayim',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'לְהָאִ֖יר',
+      transliteration: 'leHair',
+      englishLiteral: 'to-shine_light',
+      englishNatural: 'to shine-light',
+      root: 'or',
+      prefixes: ['le'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'עַל־',
+      transliteration: 'al-',
+      englishLiteral: 'over',
+      englishNatural: 'over',
+      root: 'al',
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'הָאָֽרֶץ׃',
+      transliteration: 'haAretz',
+      englishLiteral: 'the-land',
+      englishNatural: 'the land',
+      root: 'eretz',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew: 'וַיִּתֵּ֥ן אֹתָ֛ם אֱלֹהִ֖ים בִּרְקִ֣יעַ הַשָּׁמָ֑יִם לְהָאִ֖יר עַל־הָאָֽרֶץ׃',
+    transliteration: 'vaYiten otam Elohim birQia haShamayim leHair al-haAretz',
+    englishLiteral: 'And-put them Gods in-hammered_out_work, the-skies, to-shine_light over the-land.',
+    englishNatural: 'And God put them in the hammered-out-work, the skies, to shine-light over the land.',
+    kjv: 'And God set them in the firmament of the heaven to give light upon the earth,',
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-17' },
+  },
+}; 

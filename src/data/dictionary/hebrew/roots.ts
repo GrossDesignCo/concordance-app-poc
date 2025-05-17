@@ -925,4 +925,35 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'fruit',
     englishNatural: 'fruit',
   },
+  // Additional missing roots from Genesis 1:16-17
+  gadol: {
+    hebrew: 'גדל',
+    transliteration: 'gadol',
+    englishLiteral: 'great',
+    englishNatural: 'great',
+  },
+  mashal: {
+    hebrew: 'משל',
+    transliteration: 'mashal',
+    englishLiteral: 'rule',
+    englishNatural: 'rule',
+  },
+  qatan: {
+    hebrew: 'קטן',
+    transliteration: 'qatan',
+    englishLiteral: 'small',
+    englishNatural: 'small',
+  },
+  kokhav: {
+    hebrew: 'כוכב',
+    transliteration: 'kokhav',
+    englishLiteral: 'star',
+    englishNatural: 'star',
+  },
+  natan: {
+    hebrew: 'נתן',
+    transliteration: 'natan',
+    englishLiteral: 'give',
+    englishNatural: 'give',
+  },
 };

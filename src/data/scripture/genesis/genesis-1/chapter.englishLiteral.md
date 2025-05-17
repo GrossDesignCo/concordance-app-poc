@@ -47,3 +47,14 @@ And-saw Gods that good.
 And-was evening, 
 And-was morning, 
 Day third.
+
+And-said Gods, "Let-be lights in-hammered_out_work, the-skies, to-separate between the-day, and-between the-night, 
+And-they-will-be for-signs, and-for-appointed_times, and-for-days, and-years.
+
+And-they-will-be for-lights in-hammered_out_work the-skies, to-shine over the-land.
+
+And-made Gods ↳ two, the-light_bearers, the-greats, ↳ the-light_bearer the-great, for-the-ruling-of the-day, 
+And-↳ the-light_bearer the-small, for-the-ruling-of the-night, 
+And-↳ the-stars.
+
+And-put them Gods in-hammered_out_work, the-skies, to-shine_light over the-land.

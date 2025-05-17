@@ -46,3 +46,13 @@ And God saw that-it-was good.
 And evening was, 
 And morning was, 
 A third day.
+
+And God said, "Let there be lights in the hammered-out-work, the skies, to separate between the day, and between the night, 
+And they will be for signs, and for appointed times, and for days, and years.
+And they will be for lights in the hammered-out-work, the skies, to shine over the land.
+
+And God made two, the light-bearers, the greats, the light-bearer the great, for the ruling of the day, 
+And the light-bearer the small, for the ruling of the night, 
+And the stars.
+
+And God put them in the hammered-out-work, the skies, to shine-light over the land.
