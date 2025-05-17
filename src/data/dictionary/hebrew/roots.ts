@@ -336,12 +336,6 @@ export const roots: Record<string, RootElement> = {
     englishNatural: 'kind',
   },
   // Genesis 3:3 roots
-  peri: {
-    hebrew: 'פְּרִי',
-    transliteration: 'peri',
-    englishLiteral: 'fruit',
-    englishNatural: 'fruit',
-  },
   tokh: {
     hebrew: 'תָּוֶךְ',
     transliteration: 'tokh',

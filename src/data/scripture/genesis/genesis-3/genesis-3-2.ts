@@ -11,7 +11,7 @@ export const genesis_3_2: Verse = {
     englishLiteral: 'And-said, the-woman, to, the-snake, "from-fruit-of tree the-garden, we-eat."',
     englishNatural: 'And the woman said to the snake, "From the fruit of the tree of the garden we may eat."',
     kjv: 'And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-17' },
 },
   words: [
     {
@@ -106,7 +106,7 @@ export const genesis_3_2: Verse = {
       transliteration: 'miPri',
       englishLiteral: 'from-fruit-of',
       englishNatural: 'From the fruit of',
-      root: 'peri',
+      root: 'pri',
       prefixes: ['mi'],
       suffixes: ['construct_y'],
       order: {
