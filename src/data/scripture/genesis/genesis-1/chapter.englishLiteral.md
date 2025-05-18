@@ -53,7 +53,8 @@ And-they-will-be for-signs, and-for-appointed_times, and-for-days, and-years.
 
 And-they-will-be for-lights in-hammered_out_work the-skies, to-shine over the-land.
 
-And-made Gods ↳ two, the-light_bearers, the-greats, ↳ the-light_bearer the-great, for-the-ruling-of the-day, 
+And-made Gods ↳ two, the-light_bearers, the-greats, 
+↳ the-light_bearer the-great, for-the-ruling-of the-day, 
 And-↳ the-light_bearer the-small, for-the-ruling-of the-night, 
 And-↳ the-stars.
 

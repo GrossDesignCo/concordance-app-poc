@@ -89,8 +89,8 @@ export const genesis_1_15: Verse = {
     {
       hebrew: 'לְהָאִ֖יר',
       transliteration: 'leHair',
-      englishLiteral: 'to-shine',
-      englishNatural: 'to shine',
+      englishLiteral: 'to-shine_light',
+      englishNatural: 'to shine-light',
       root: 'or',
       prefixes: ['le'],
       order: {
@@ -141,9 +141,9 @@ export const genesis_1_15: Verse = {
   expectedTranslations: {
     hebrew: 'וְהָי֤וּ לִמְאוֹרֹ֖ת בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהָאִ֖יר עַל־הָאָ֑רֶץ',
     transliteration: 'veHayu liMeOrot birQia haShamayim leHair al-haAretz',
-    englishLiteral: 'And-they-will-be for-lights in-hammered_out_work the-skies, to-shine over the-land.',
-    englishNatural: 'And they will be for lights in the hammered-out-work, the skies, to shine over the land.',
+    englishLiteral: 'And-they-will-be for-lights in-hammered_out_work the-skies, to-shine_light over the-land.',
+    englishNatural: 'And they will be for lights in the hammered-out-work, the skies, to shine-light over the land.',
     kjv: 'And let them be for lights in the firmament of the heaven to give light upon the earth:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-17' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-18' },
   },
 }; 

@@ -53,7 +53,8 @@ veHayu leOtot uLeMoedim uLeYamim veShanim
 
 veHayu liMeOrot birQia haShamayim leHair al-haAretz
 
-vaYaas Elohim et-shney haMeOrot haGdolim et-haMaor haGadol leMemShelet haYom 
+vaYaas Elohim et-shney haMeOrot haGdolim 
+et-haMaor haGadol leMemShelet haYom 
 veEt-haMaor haQaton leMemShelet haLaylah 
 veEt haKokhavim
 

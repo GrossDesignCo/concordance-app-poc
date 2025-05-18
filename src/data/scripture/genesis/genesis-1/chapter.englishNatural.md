@@ -51,7 +51,8 @@ And God said, "Let there be lights in the hammered-out-work, the skies, to separ
 And they will be for signs, and for appointed times, and for days, and years.
 And they will be for lights in the hammered-out-work, the skies, to shine over the land.
 
-And God made two, the light-bearers, the greats, the light-bearer the great, for the ruling of the day, 
+And God made two, the light-bearers, the greats, 
+the light-bearer the great, for the ruling of the day, 
 And the light-bearer the small, for the ruling of the night, 
 And the stars.
 
