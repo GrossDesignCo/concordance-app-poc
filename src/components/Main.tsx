@@ -6,12 +6,13 @@ import { useMediaBreakpoints } from '@/hooks/useMediaBreakpoints';
 import { useSelection } from '@/context/SelectionContext';
 import { useViewPanels } from '@/context/ViewPanelsContext';
 import LexiconEntryReader from './lexicon/LexiconEntryReader';
-import { Sheet } from '@/design-system';
+import { Button, Sheet } from '@/design-system';
 import { formatWord } from '@/utils/formatWord';
 import { sortWords } from '@/utils/sortWords';
 import Settings from './Settings';
 import { LanguageKey } from '@/types';
 import { useEffect } from 'react';
+import { X } from '@phosphor-icons/react';
 
 const languages: LanguageKey[] = [
   'original',
@@ -80,7 +81,16 @@ export const Main = () => {
         {isDesktop ? (
           <div className={styles.secondaryPanel}>
             <h2 className={styles.secondaryPanelTitle}>
-              {secondaryPanelTitle}
+              <span className={styles.secondaryPanelTitleText}>
+                {secondaryPanelTitle}
+              </span>
+              <Button
+                variant="ghost"
+                size="sm"
+                onClick={() => setSecondaryPanel(null)}
+              >
+                <X size={16} weight="regular" />
+              </Button>
             </h2>
             {secondaryPanelContent}
           </div>
