@@ -49,7 +49,7 @@ A third day.
 
 And God said, "Let there be lights in the hammering-out, the skies, to separate between the day, and between the night, 
 And they will be for signs, and for appointed times, and for days, and years.
-And they will be for lights in the hammering-out, the skies, to shine over the land.
+And they will be for lights in the hammering-out, the skies, to shine-light over the land.
 
 And God made two, the light-sources, the greats, 
 the light-source the great, for the ruling of the day, 
@@ -57,3 +57,10 @@ And the light-source the small, for the ruling of the night,
 And the stars.
 
 And God put them in the hammering-out, the skies, to shine-light over the land.
+And to rule in the day, and in the night, 
+and to separate between the light, and between the darkness, 
+And God saw that it was good.
+
+And evening was, 
+And morning was, 
+A fourth day.

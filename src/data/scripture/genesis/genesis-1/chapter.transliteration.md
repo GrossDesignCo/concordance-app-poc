@@ -59,3 +59,11 @@ veEt-haMaor haQaton leMemShelet haLaylah
 veEt haKokhavim
 
 vaYiten otam Elohim birQia haShamayim leHair al-haAretz
+
+veLiMshol baYom uBaLaylah 
+uLeHavdil beyn haOr uBeyn haHoshekh 
+vaYar Elohim ki-tov
+
+vaYehi-erev 
+vaYehi-boqer 
+yom reviyi
