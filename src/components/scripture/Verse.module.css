@@ -23,3 +23,13 @@
 .VerseAsBlock {
   margin-bottom: 1rem;
 }
+
+.VerseNumber:has( + span > br:first-child),
+span:has(> br:first-child) + .VerseNumber,
+h2 + .VerseNumber {
+  position: absolute;
+}
+
+.VerseNumber:has( + span > br:first-child) {
+  margin-inline-start: 0.5rem;
+}
