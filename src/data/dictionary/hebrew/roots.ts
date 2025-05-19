@@ -813,8 +813,8 @@ export const roots: Record<string, RootElement> = {
   raqia: {
     hebrew: 'רקיע',
     transliteration: 'raqia',
-    englishLiteral: 'hammered_out_work',
-    englishNatural: 'hammered-out-work',
+    englishLiteral: 'hammering_out',
+    englishNatural: 'hammering-out',
   },
   raqa: {
     hebrew: 'רקע',

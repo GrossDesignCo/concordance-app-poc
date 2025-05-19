@@ -58,8 +58,8 @@ export const genesis_1_8: Verse = {
     {
       hebrew: 'לָֽרָקִ֖יעַ',
       transliteration: 'laRaqia',
-      englishLiteral: 'to_the-hammered_out_work',
-      englishNatural: 'the hammered-out-work',
+      englishLiteral: 'to_the-hammering_out',
+      englishNatural: 'the hammering-out',
       root: 'raqia',
       prefixes: ['la'],
       order: {
@@ -252,9 +252,9 @@ export const genesis_1_8: Verse = {
   expectedTranslations: {
     hebrew: 'וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם שֵׁנִֽי׃',
     transliteration: 'vaYiqra Elohim laRaqia shamayim vaYehi erev vaYehi voqer yom sheni',
-    englishLiteral: 'And-called, Gods, to_the-hammered_out_work, "Skies." And-was evening, And-was morning, Day second.',
-    englishNatural: 'And God called the hammered-out-work, "Skies." And evening was, And morning was, A second day.',
+    englishLiteral: 'And-called, Gods, to_the-hammering_out, "Skies." And-was evening, And-was morning, Day second.',
+    englishNatural: 'And God called the hammering-out, "Skies." And evening was, And morning was, A second day.',
     kjv: 'And God called the firmament Heaven. And the evening and the morning were the second day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-15' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-19' },
   },
 }; 

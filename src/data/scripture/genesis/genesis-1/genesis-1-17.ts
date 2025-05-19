@@ -67,8 +67,8 @@ export const genesis_1_17: Verse = {
     {
       hebrew: 'בִּרְקִ֣יעַ',
       transliteration: 'birQia',
-      englishLiteral: 'in-hammered_out_work',
-      englishNatural: 'in the hammered-out-work',
+      englishLiteral: 'in-hammering_out',
+      englishNatural: 'in the hammering-out',
       root: 'raqia',
       prefixes: ['be'],
       order: {
@@ -161,9 +161,9 @@ export const genesis_1_17: Verse = {
   expectedTranslations: {
     hebrew: 'וַיִּתֵּ֥ן אֹתָ֛ם אֱלֹהִ֖ים בִּרְקִ֣יעַ הַשָּׁמָ֑יִם לְהָאִ֖יר עַל־הָאָֽרֶץ׃',
     transliteration: 'vaYiten otam Elohim birQia haShamayim leHair al-haAretz',
-    englishLiteral: 'And-put them Gods in-hammered_out_work, the-skies, to-shine_light over the-land.',
-    englishNatural: 'And God put them in the hammered-out-work, the skies, to shine-light over the land.',
+    englishLiteral: 'And-put them Gods in-hammering_out, the-skies, to-shine_light over the-land.',
+    englishNatural: 'And God put them in the hammering-out, the skies, to shine-light over the land.',
     kjv: 'And God set them in the firmament of the heaven to give light upon the earth,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-17' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-19' },
   },
 }; 

@@ -17,14 +17,14 @@ And-was, evening,
 And-was, morning, 
 Day one.
 
-And-said Gods "Let-be hammered_out_work in-midst-of the-waters,
+And-said Gods "Let-be hammering_out in-midst-of the-waters,
 and-let-be separating between waters to-waters."
 
-And-made Gods ↳ the-hammered_out_work, 
-and-separated, between the-waters which from-under to_the-hammered_out_work, and-between the-waters which from-over to_the-hammered_out_work. 
+And-made Gods ↳ the-hammering_out, 
+and-separated, between the-waters which from-under to_the-hammering_out, and-between the-waters which from-over to_the-hammering_out. 
 And-it-was so.
 
-And-called, Gods, to_the-hammered_out_work, "Skies."
+And-called, Gods, to_the-hammering_out, "Skies."
 
 And-was evening, 
 And-was morning, 
@@ -48,14 +48,14 @@ And-was evening,
 And-was morning, 
 Day third.
 
-And-said Gods, "Let-be lights in-hammered_out_work, the-skies, to-separate between the-day, and-between the-night, 
+And-said Gods, "Let-be lights in-hammering_out, the-skies, to-separate between the-day, and-between the-night, 
 And-they-will-be for-signs, and-for-appointed_times, and-for-days, and-years.
 
-And-they-will-be for-lights in-hammered_out_work the-skies, to-shine over the-land.
+And-they-will-be for-lights in-hammering_out the-skies, to-shine over the-land.
 
-And-made Gods ↳ two, the-light_bearers, the-greats, 
-↳ the-light_bearer the-great, for-the-ruling-of the-day, 
-And-↳ the-light_bearer the-small, for-the-ruling-of the-night, 
+And-made Gods ↳ two, the-light_sources, the-greats, 
+↳ the-light_source the-great, for-the-ruling-of the-day, 
+And-↳ the-light_source the-small, for-the-ruling-of the-night, 
 And-↳ the-stars.
 
-And-put them Gods in-hammered_out_work, the-skies, to-shine_light over the-land.
+And-put them Gods in-hammering_out, the-skies, to-shine_light over the-land.

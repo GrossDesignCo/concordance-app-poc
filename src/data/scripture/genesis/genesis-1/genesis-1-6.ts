@@ -78,8 +78,8 @@ export const genesis_1_6: Verse = {
     {
       hebrew: 'רָקִיעַ',
       transliteration: 'raqia',
-      englishLiteral: 'hammered_out_work',
-      englishNatural: 'Let hammered-out-work',
+      englishLiteral: 'hammering_out',
+      englishNatural: 'Let hammering-out',
       root: 'raqia',
       order: {
         hebrew: 4,
@@ -226,9 +226,9 @@ export const genesis_1_6: Verse = {
   expectedTranslations: {
     hebrew: 'וַיֹּאמֶר אֱלֹהִים יְהִי רָקִיעַ בְּתוֹךְ הַמָּיִם֙ וִיהִי מַבְדִּיל בֵּין מַיִם לָמָיִם',
     transliteration: 'vaYomer Elohim yehi raqia beTokh haMayim vihi mavdil beyn mayim laMayim',
-    englishLiteral: 'And-said Gods "Let-be hammered_out_work in-midst-of the-waters, and-let-be separating between waters to-waters."',
-    englishNatural: 'And God said, "Let hammered-out-work be in the midst of the waters, and let it be separating between waters and waters."',
+    englishLiteral: 'And-said Gods "Let-be hammering_out in-midst-of the-waters, and-let-be separating between waters to-waters."',
+    englishNatural: 'And God said, "Let hammering-out be in the midst of the waters, and let it be separating between waters and waters."',
     kjv: 'And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-19' },
   },
 }; 

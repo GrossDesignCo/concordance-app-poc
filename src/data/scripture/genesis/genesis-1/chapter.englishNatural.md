@@ -17,14 +17,14 @@ And evening was,
 And morning was, 
 One day.
 
-And God said, "Let hammered-out-work be in the midst of the waters,
+And God said, "Let hammering-out be in the midst of the waters,
 and let it be separating between waters and waters."
 
-And God made the hammered-out-work, 
-and separated between the waters which were under the hammered-out-work, and between the waters which were over the hammered-out-work. 
+And God made the hammering-out, 
+and separated between the waters which were under the hammering-out, and between the waters which were over the hammering-out. 
 And it was so.
 
-And God called the hammered-out-work, "Skies."
+And God called the hammering-out, "Skies."
 
 And evening was, 
 And morning was, 
@@ -47,13 +47,13 @@ And evening was,
 And morning was, 
 A third day.
 
-And God said, "Let there be lights in the hammered-out-work, the skies, to separate between the day, and between the night, 
+And God said, "Let there be lights in the hammering-out, the skies, to separate between the day, and between the night, 
 And they will be for signs, and for appointed times, and for days, and years.
-And they will be for lights in the hammered-out-work, the skies, to shine over the land.
+And they will be for lights in the hammering-out, the skies, to shine over the land.
 
-And God made two, the light-bearers, the greats, 
-the light-bearer the great, for the ruling of the day, 
-And the light-bearer the small, for the ruling of the night, 
+And God made two, the light-sources, the greats, 
+the light-source the great, for the ruling of the day, 
+And the light-source the small, for the ruling of the night, 
 And the stars.
 
-And God put them in the hammered-out-work, the skies, to shine-light over the land.
+And God put them in the hammering-out, the skies, to shine-light over the land.

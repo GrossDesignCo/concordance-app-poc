@@ -81,8 +81,8 @@ export const genesis_1_16: Verse = {
     {
       hebrew: 'הַמְּאֹרֹ֖ת',
       transliteration: 'haMeOrot',
-      englishLiteral: 'the-light_bearers',
-      englishNatural: 'the light-bearers',
+      englishLiteral: 'the-light_sources',
+      englishNatural: 'the light-sources',
       root: 'or',
       prefixes: ['ha', 'me'],
       suffixes: ['ot'],
@@ -139,8 +139,8 @@ export const genesis_1_16: Verse = {
     {
       hebrew: 'הַמָּא֤וֹר',
       transliteration: 'haMaor',
-      englishLiteral: 'the-light_bearer',
-      englishNatural: 'the light-bearer',
+      englishLiteral: 'the-light_source',
+      englishNatural: 'the light-source',
       root: 'or',
       prefixes: ['ha', 'ma'],
       order: {
@@ -229,8 +229,8 @@ export const genesis_1_16: Verse = {
     {
       hebrew: 'הַמָּא֤וֹר',
       transliteration: 'haMaor',
-      englishLiteral: 'the-light_bearer',
-      englishNatural: 'the light-bearer',
+      englishLiteral: 'the-light_source',
+      englishNatural: 'the light-source',
       root: 'or',
       prefixes: ['ha', 'ma'],
       order: {
@@ -340,9 +340,9 @@ export const genesis_1_16: Verse = {
   expectedTranslations: {
     hebrew: 'וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת־הַמָּא֤וֹר הַגָּדֹ֔ל לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם וְאֶת־הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים׃',
     transliteration: 'vaYaas Elohim et-shney haMeOrot haGdolim et-haMaor haGadol leMemShelet haYom veEt-haMaor haQaton leMemShelet haLaylah veEt haKokhavim',
-    englishLiteral: 'And-made Gods ↳ two, the-light_bearers, the-greats, ↳ the-light_bearer the-great, for-the-ruling-of the-day, And-↳ the-light_bearer the-small, for-the-ruling-of the-night, And-↳ the-stars.',
-    englishNatural: 'And God made two, the light-bearers, the greats, the light-bearer the great, for the ruling of the day, And the light-bearer the small, for the ruling of the night, And the stars.',
+    englishLiteral: 'And-made Gods ↳ two, the-light_sources, the-greats, ↳ the-light_source the-great, for-the-ruling-of the-day, And-↳ the-light_source the-small, for-the-ruling-of the-night, And-↳ the-stars.',
+    englishNatural: 'And God made two, the light-sources, the greats, the light-source the great, for the ruling of the day, And the light-source the small, for the ruling of the night, And the stars.',
     kjv: 'And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-17' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-19' },
   },
 }; 
