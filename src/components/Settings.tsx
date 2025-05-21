@@ -8,7 +8,7 @@ import { FontKey, LanguageKey } from '@/types';
 const Settings = () => {
   const { languages, setLanguages, font, setFont } = useSettings();
 
-  const { theme, setTheme } = useTheme();
+  const { theme, setTheme, systemTheme } = useTheme();
 
   return (
     <div className={styles.settings}>
@@ -129,6 +129,8 @@ const Settings = () => {
           {
             value: 'system',
             label: 'System',
+            // @ts-expect-error - using custom prop to pass data-attr
+            ['data-theme']: systemTheme,
             preview: (
               <>
                 <div className="system">
