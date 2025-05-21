@@ -1,5 +1,0 @@
-{
-    "includeFiles": [
-        "src/data/scripture/**/*.ts"
-    ]
-}
