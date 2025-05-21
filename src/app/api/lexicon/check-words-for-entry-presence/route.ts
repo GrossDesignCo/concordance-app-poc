@@ -1,10 +1,21 @@
 import { NextResponse } from 'next/server';
-import { readdir } from 'fs/promises';
+import { readFile } from 'fs/promises';
 import path from 'path';
+
+let lexiconIndex: { [key: string]: boolean } | null = null;
+
+async function loadLexiconIndex(language: string) {
+  if (lexiconIndex === null) {
+    const indexPath = path.join(process.cwd(), `public/lexicon/${language}/index.json`);
+    const indexData = await readFile(indexPath, 'utf-8');
+    lexiconIndex = JSON.parse(indexData);
+  }
+  return lexiconIndex;
+}
 
 export async function POST(request: Request) {
   try {
-    const { words, language } = await request.json();
+    const { words, language = 'hebrew' } = await request.json();
 
     if (!Array.isArray(words)) {
       return NextResponse.json(
@@ -13,21 +24,17 @@ export async function POST(request: Request) {
       );
     }
 
-    // console.log({ firstWord: words?.[0], language });
+    // Load the lexicon index
+    const index = await loadLexiconIndex(language);
+    if (!index) {
+      return NextResponse.json(
+        { error: 'Lexicon index not found' },
+        { status: 500 }
+      );
+    }
 
-    // Get list of all lexicon entries
-    const lexiconDir = path.join(process.cwd(), `src/data/lexicon/${language}`);
-    const files = await readdir(lexiconDir);
-    const entries = new Set(
-      files
-        .filter((file) => file.endsWith('.mdx'))
-        .map((file) => file.replace('.mdx', ''))
-    );
-
-    // console.log({ lexiconDir, files, entries });
-
-    // Check each word against the entries
-    const results = words.map((word) => entries.has(word));
+    // Check each word against the index
+    const results = words.map(word => index[word.toLowerCase()] || false);
 
     return NextResponse.json({ results });
   } catch (error) {
@@ -37,4 +44,4 @@ export async function POST(request: Request) {
       { status: 500 }
     );
   }
-}
+} 

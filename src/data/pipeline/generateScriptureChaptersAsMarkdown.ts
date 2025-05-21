@@ -1,3 +1,14 @@
+/**
+ * Generates markdown for each chapter of the scripture
+ * 
+ * Generates `public/scripture/[language]/[book]-[chapter].md`
+ * 
+ * Run with:
+ * 
+ * ```bash
+ * npm run build:data-scripture-chapters-as-markdown
+ * ```
+ */
 import fs from 'fs';
 import path from 'path';
 import { buildChapterText } from '../utils/buildChapterText';

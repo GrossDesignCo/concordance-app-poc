@@ -1,3 +1,12 @@
+/** Creates a map of books/chapters/verses with their translation status/progress
+ * 
+ * Generates `public/meta/translation-progress.json`
+ * 
+ * Run with:
+ * 
+ * ```bash
+ * npm run build:meta-translation-progress
+ */
 import fs from 'fs';
 import path from 'path';
 import { getTranslationProgress } from './getTranslationProgress';

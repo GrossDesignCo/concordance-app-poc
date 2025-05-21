@@ -1,5 +1,3 @@
-import fs from 'fs';
-import path from 'path';
 import { Verse, LanguageKey } from '@/types';
 import { buildVerseText } from './buildVerseText';
 
