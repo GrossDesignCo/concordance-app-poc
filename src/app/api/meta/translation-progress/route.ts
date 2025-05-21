@@ -1,23 +1,26 @@
 import { NextResponse } from 'next/server';
-import { getTranslationProgress } from '@/data/pipeline/getTranslationProgress';
+import fs from 'fs';
+import path from 'path';
 
 /**
- * Statically serve data for the translation progress meter/viz
+ * Serve the pre-generated translation progress data from the public directory
  * @returns a `TranslationProgress` object
  */
 export async function GET() {
   try {
-    const translationProgress = await getTranslationProgress();
+    const filePath = path.join(process.cwd(), 'public', 'meta', 'translation-progress.json');
+    const fileContents = fs.readFileSync(filePath, 'utf-8');
+    const translationProgress = JSON.parse(fileContents);
 
     return NextResponse.json(translationProgress, {
       status: 200,
       headers: {
         'Content-Type': 'application/json',
-        // 'Cache-Control': 'public, s-maxage=3600, stale-while-revalidate=86400',
+        'Cache-Control': 'public, s-maxage=3600, stale-while-revalidate=86400',
       },
     });
   } catch (error) {
-    console.error('Error fetching translation progress:', error);
+    console.error('Error reading translation progress:', error);
     return NextResponse.json(
       { error: 'Failed to fetch translation progress' },
       { status: 500 }

@@ -2,6 +2,8 @@ import { TranslationProgressMeter } from '@/components/TranslationProgressMeter'
 import Content from './content.mdx';
 import './page.css';
 
+import translationProgress from '@/../public/meta/translation-progress.json';
+
 export default function TranslationProgressPage() {
   return (
     <div className="translation-progress-layout">
@@ -10,7 +12,7 @@ export default function TranslationProgressPage() {
       </div>
 
       <div>
-        <TranslationProgressMeter />
+        <TranslationProgressMeter progress={translationProgress} />
       </div>
     </div>
   );
