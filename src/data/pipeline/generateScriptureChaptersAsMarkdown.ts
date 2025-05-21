@@ -1,9 +1,25 @@
 import fs from 'fs';
 import path from 'path';
-import { buildChapterText, writeChapterMarkdown } from './buildChapterText';
+import { buildChapterText } from '../utils/buildChapterText';
 import { Chapter, LANGUAGE_KEYS } from '@/types';
 
 const SCRIPTURE_DIR = path.join(process.cwd(), 'src/data/scripture');
+const PUBLIC_SCRIPTURE_DIR = path.join(process.cwd(), 'public/scripture');
+
+export function writeChapterMarkdown(chapterPath: string, language: string, markdown: string): void {
+  // Extract book and chapter from the source path
+  const relativePath = path.relative(SCRIPTURE_DIR, path.dirname(chapterPath));
+  const [book, chapterDir] = relativePath.split(path.sep);
+  const chapterNumber = chapterDir.split('-')[1]; // Extract chapter number from dir name (e.g., "genesis-1" -> "1")
+  
+  const targetDir = path.join(PUBLIC_SCRIPTURE_DIR, relativePath);
+  
+  // Ensure the target directory exists
+  fs.mkdirSync(targetDir, { recursive: true });
+  
+  const markdownPath = path.join(targetDir, `${book}-${chapterNumber}.${language}.md`);
+  fs.writeFileSync(markdownPath, markdown);
+}
 
 async function processChapter(chapterDir: string) {
   const indexPath = path.join(chapterDir, 'index.ts');

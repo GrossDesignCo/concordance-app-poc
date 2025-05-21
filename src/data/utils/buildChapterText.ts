@@ -28,9 +28,3 @@ export function buildChapterText({chapterData, language}: ChapterData): string {
   return markdown;
 }
 
-export function writeChapterMarkdown(chapterPath: string, language: string, markdown: string): void {
-  const markdownPath = path.join(path.dirname(chapterPath), `chapter.${language}.md`);
-
-  fs.writeFileSync(markdownPath, markdown);
-}
-

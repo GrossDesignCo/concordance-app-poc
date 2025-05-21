@@ -25,7 +25,7 @@ export const john_1_1: Verse = {
       greek: 'ἀρχῇ',
       transliteration: 'archē',
       englishLiteral: 'first',
-      englishNatural: 'the beginning',
+      englishNatural: 'the first',
       root: 'arche',
       order: {
         greek: 2,
@@ -333,6 +333,6 @@ export const john_1_1: Verse = {
     englishNatural:
       'In the beginning was the Word, and the Word was with the God, and the Word was God.',
     kjv: 'In the beginning was the Word, and the Word was with God, and the Word was God.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-21' },
   },
 };

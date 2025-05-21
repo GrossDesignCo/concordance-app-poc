@@ -65,14 +65,14 @@ And evening was,
 And morning was, 
 A fourth day.
 
-And God said, "Let the waters swarm with swarm living throat, 
-And let flyer fly over the land, over the face of the hammering-out, the skies.
+And God said, "Let the waters swarm with a swarm, living throat, 
+And let flyer fly over the land, over the face of the hammering-out, the skies."
 
 And God created the monsters, the greats, 
-And all throat the living the crawling which swarmed the waters, to their kind, And all flyer winged to its kind, 
+And all throat the living the crawling which swarmed the waters, to their kind, And all winged flyer to its kind, 
 And God saw that-it-was good.
 
-And God blessed them saying, Be fruitful and multiply and fill the waters in the seas, and the flying things let multiply in the land.
+And God blessed them, saying, "Be fruitful and multiply and fill the waters in the seas, and let the flyer multiply in the land."
 
 And evening was, 
 And morning was, 
