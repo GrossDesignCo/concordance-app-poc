@@ -67,3 +67,16 @@ And-saw Gods that good.
 And-was evening, 
 And-was morning, 
 Day fourth.
+
+And-said Gods, "Let-swarm the-waters swarm throat living, 
+And-flyer let-fly over the-land, over face-of hammering_out, the-skies.
+
+And-created Gods ↳ the-monsters, the-greats, 
+And-↳ all throat the-living the-crawling which swarmed the-waters, to-their-kind, And-↳ all flyer wing to-its-kind, 
+And-saw Gods that good.
+
+And-blessed them Gods saying, Be-fruitful and-multiply and-fill ↳ the-waters in-the-seas, and-the-flying-thing let-multiply in-the-land.
+
+And-was evening, 
+And-was morning, 
+Day fifth.

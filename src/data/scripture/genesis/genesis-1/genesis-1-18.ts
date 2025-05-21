@@ -200,7 +200,7 @@ export const genesis_1_18: Verse = {
       hebrew: 'כִּי־',
       transliteration: 'ki-',
       englishLiteral: 'that',
-      englishNatural: 'that',
+      englishNatural: 'that-it-was',
       root: 'ki',
       order: {
         hebrew: 11,
@@ -214,7 +214,7 @@ export const genesis_1_18: Verse = {
       hebrew: 'טֽוֹב׃',
       transliteration: 'tov',
       englishLiteral: 'good',
-      englishNatural: 'it was good',
+      englishNatural: 'good',
       root: 'tov',
       order: {
         hebrew: 12,
@@ -234,8 +234,8 @@ export const genesis_1_18: Verse = {
     hebrew: 'וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֧רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃',
     transliteration: 'veLiMshol baYom uBaLaylah uLeHavdil beyn haOr uBeyn haHoshekh vaYar Elohim ki-tov',
     englishLiteral: 'And-to-rule in-the-day, and-in-the-night, and-to-separate between the-light, and-between the-darkness, And-saw Gods that good.',
-    englishNatural: 'And to rule in the day, and in the night, and to separate between the light, and between the darkness, And God saw that it was good.',
+    englishNatural: 'And to rule in the day, and in the night, and to separate between the light, and between the darkness, And God saw that-it-was good.',
     kjv: 'And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-19' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-21' },
   },
 }; 

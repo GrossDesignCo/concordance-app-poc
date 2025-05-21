@@ -48,7 +48,7 @@ And morning was,
 A third day.
 
 And God said, "Let there be lights in the hammering-out, the skies, to separate between the day, and between the night, 
-And they will be for signs, and for appointed times, and for days, and years.
+And they will be for signs, and for appointed-times, and for days, and years.
 And they will be for lights in the hammering-out, the skies, to shine-light over the land.
 
 And God made two, the light-sources, the greats, 
@@ -59,8 +59,21 @@ And the stars.
 And God put them in the hammering-out, the skies, to shine-light over the land.
 And to rule in the day, and in the night, 
 and to separate between the light, and between the darkness, 
-And God saw that it was good.
+And God saw that-it-was good.
 
 And evening was, 
 And morning was, 
 A fourth day.
+
+And God said, "Let the waters swarm with swarm living throat, 
+And let flyer fly over the land, over the face of the hammering-out, the skies.
+
+And God created the monsters, the greats, 
+And all throat the living the crawling which swarmed the waters, to their kind, And all flyer winged to its kind, 
+And God saw that-it-was good.
+
+And God blessed them saying, Be fruitful and multiply and fill the waters in the seas, and the flying things let multiply in the land.
+
+And evening was, 
+And morning was, 
+A fifth day.

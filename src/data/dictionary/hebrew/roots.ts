@@ -956,4 +956,58 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'give',
     englishNatural: 'give',
   },
+  sharats: {
+    hebrew: 'שרץ',
+    transliteration: 'sharats',
+    englishLiteral: 'swarm',
+    englishNatural: 'swarm',
+  },
+  nephesh: {
+    hebrew: 'נפש',
+    transliteration: 'nephesh',
+    englishLiteral: 'throat',
+    englishNatural: 'throat',
+  },
+  tannin: {
+    hebrew: 'תנין',
+    transliteration: 'tannin',
+    englishLiteral: 'monster',
+    englishNatural: 'monster',
+  },
+  ramas: {
+    hebrew: 'רמש',
+    transliteration: 'ramas',
+    englishLiteral: 'crawl',
+    englishNatural: 'crawl',
+  },
+  barakh: {
+    hebrew: 'ברך',
+    transliteration: 'barakh',
+    englishLiteral: 'bless',
+    englishNatural: 'bless',
+  },
+  parah: {
+    hebrew: 'פרה',
+    transliteration: 'parah',
+    englishLiteral: 'be fruitful',
+    englishNatural: 'be fruitful',
+  },
+  ravah: {
+    hebrew: 'רבה',
+    transliteration: 'ravah',
+    englishLiteral: 'multiply',
+    englishNatural: 'multiply',
+  },
+  male: {
+    hebrew: 'מלא',
+    transliteration: 'male',
+    englishLiteral: 'fill',
+    englishNatural: 'fill',
+  },
+  hamish: {
+    hebrew: 'חמש',
+    transliteration: 'hamish',
+    englishLiteral: 'fifth',
+    englishNatural: 'fifth',
+  },
 };

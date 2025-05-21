@@ -163,4 +163,10 @@ export const prefixes: Record<string, PrefixElement> = {
     },
     // Isaiah prefixes
     // Add other common prefixes
+    ka: {
+      hebrew: 'כָּ',
+      transliteration: 'ka',
+      englishLiteral: 'like',
+      englishNatural: 'like',
+    },
   };

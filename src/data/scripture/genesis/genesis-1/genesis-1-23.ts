@@ -1,9 +1,9 @@
 import { Verse } from '@/types';
 
-export const genesis_1_19: Verse = {
+export const genesis_1_23: Verse = {
   meta: {
     chapter: 1,
-    number: 19,
+    number: 23,
   },
   words: [
     {
@@ -96,7 +96,7 @@ export const genesis_1_19: Verse = {
         type: 'noun',
       },
       grammarSuffix: {
-        englishLiteral: ','
+        englishLiteral: ',',
       },
       lineBreaksBefore: {
         english: 1,
@@ -128,16 +128,19 @@ export const genesis_1_19: Verse = {
       },
     },
     {
-      hebrew: 'רְבִיעִֽי׃',
-      transliteration: 'reviyi',
-      englishLiteral: 'fourth',
-      englishNatural: 'A fourth',
-      root: 'revii',
+      hebrew: 'חֲמִישִֽׁי׃',
+      transliteration: 'hamishi',
+      englishLiteral: 'fifth',
+      englishNatural: 'A fifth',
+      root: 'hamish',
+      suffixes: ['i'],
       order: {
         hebrew: 6,
         english: 5,
       },
       morphology: {
+        gender: 'masculine',
+        number: 'singular',
         type: 'adjective',
       },
       grammarSuffix: {
@@ -152,11 +155,11 @@ export const genesis_1_19: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם רְבִיעִֽי׃',
-    transliteration: 'vaYehi-erev vaYehi-boqer yom reviyi',
-    englishLiteral: 'And-was evening, And-was morning, Day fourth.',
-    englishNatural: 'And evening was, And morning was, A fourth day.',
-    kjv: 'And the evening and the morning were the fourth day.',
+    hebrew: 'וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם חֲמִישִֽׁי׃',
+    transliteration: 'vaYehi-erev vaYehi-boqer yom hamishi',
+    englishLiteral: 'And-was evening, And-was morning, Day fifth.',
+    englishNatural: 'And evening was, And morning was, A fifth day.',
+    kjv: 'And the evening and the morning were the fifth day.',
     lastReviewed: { name: 'Matt Gross', date: '2025-05-21' },
   },
 }; 

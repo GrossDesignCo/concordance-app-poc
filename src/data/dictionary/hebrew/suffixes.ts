@@ -179,4 +179,11 @@ export const suffixes: Record<string, SuffixElement> = {
       englishNatural: 'them',
       function: '3rd person masculine plural object',
     },
+    hem: {
+      hebrew: 'ם',
+      transliteration: 'hem',
+      englishLiteral: 'their',
+      englishNatural: 'their',
+      function: '3rd person masculine plural possessive',
+    },
   };

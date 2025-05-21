@@ -67,3 +67,16 @@ vaYar Elohim ki-tov
 vaYehi-erev 
 vaYehi-boqer 
 yom reviyi
+
+vaYomer Elohim yiShretsu haMayim sherets nephesh chayah 
+veOf yeOfef al-haAretz al-peNey reQia haShamayim
+
+vaYiVra Elohim et-haTanninim haGdolim 
+veEt kol-nephesh haChayah haRomeshet asher sharTsu haMayim leMinehem veEt kol-of kaNaf leMinehu 
+vaYar Elohim ki-tov
+
+vaYeVarekh otam Elohim leMor peRu uReVu uMilU et-haMayim baYamim veHaOf yiRev baAretz
+
+vaYehi-erev 
+vaYehi-boqer 
+yom hamishi
