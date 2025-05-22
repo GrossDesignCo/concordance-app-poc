@@ -66,7 +66,7 @@ export async function GET(request: Request) {
     // Process each root
     for (const root of roots) {
       // Add books
-      const books = booksByRoot[root] || [];
+      const books = (booksByRoot[root] || []) as string[];
       filteredStructure.books = [...new Set([...filteredStructure.books, ...books])].sort();
 
       // Add chapters
@@ -88,11 +88,12 @@ export async function GET(request: Request) {
         }
         for (const [chapter, verseList] of Object.entries(bookData)) {
           const chapterNum = parseInt(chapter);
+          const typedVerseList = verseList as number[];
           if (!filteredStructure.verses[book][chapterNum]) {
             filteredStructure.verses[book][chapterNum] = [];
           }
           filteredStructure.verses[book][chapterNum] = [
-            ...new Set([...filteredStructure.verses[book][chapterNum], ...verseList])
+            ...new Set([...filteredStructure.verses[book][chapterNum], ...typedVerseList])
           ].sort((a, b) => a - b);
         }
       }
