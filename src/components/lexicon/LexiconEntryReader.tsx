@@ -71,7 +71,7 @@ export default function LexiconEntryReader({}) {
   return (
     <div className={cx(styles.LexiconEntry, 'markdown-text')}>
       {error && <p className={styles.error}>{error}</p>}
-
+      TEST
       {entryContent ? (
         <ReactMarkdown>{entryContent}</ReactMarkdown>
       ) : (

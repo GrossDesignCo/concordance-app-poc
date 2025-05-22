@@ -1,0 +1,582 @@
+{
+  "rosh": [
+    "genesis"
+  ],
+  "bara": [
+    "genesis"
+  ],
+  "eloah": [
+    "genesis"
+  ],
+  "amar": [
+    "genesis",
+    "numbers"
+  ],
+  "hayah": [
+    "genesis",
+    "numbers"
+  ],
+  "or": [
+    "genesis"
+  ],
+  "eretz": [
+    "genesis"
+  ],
+  "erev": [
+    "genesis"
+  ],
+  "boqer": [
+    "genesis"
+  ],
+  "tohu": [
+    "genesis"
+  ],
+  "vohu": [
+    "genesis"
+  ],
+  "choshekh": [
+    "genesis"
+  ],
+  "panah": [
+    "genesis",
+    "isaiah"
+  ],
+  "tehom": [
+    "genesis"
+  ],
+  "ruach": [
+    "genesis"
+  ],
+  "rachaf": [
+    "genesis"
+  ],
+  "mayim": [
+    "genesis"
+  ],
+  "shamayim": [
+    "genesis"
+  ],
+  "shesh": [
+    "isaiah"
+  ],
+  "sheni": [
+    "genesis"
+  ],
+  "shlishi": [
+    "genesis"
+  ],
+  "revii": [
+    "genesis"
+  ],
+  "arum": [
+    "genesis",
+    "proverbs"
+  ],
+  "raah_see": [
+    "genesis",
+    "numbers",
+    "proverbs"
+  ],
+  "raah_bad": [
+    "proverbs"
+  ],
+  "satar": [
+    "proverbs"
+  ],
+  "peti": [
+    "proverbs"
+  ],
+  "avar": [
+    "proverbs"
+  ],
+  "anash": [
+    "proverbs"
+  ],
+  "nachash": [
+    "genesis",
+    "isaiah",
+    "numbers"
+  ],
+  "kol": [
+    "genesis",
+    "isaiah",
+    "numbers"
+  ],
+  "chayah": [
+    "genesis",
+    "numbers"
+  ],
+  "sadeh": [
+    "genesis"
+  ],
+  "asah": [
+    "genesis",
+    "numbers",
+    "proverbs"
+  ],
+  "ishah": [
+    "genesis"
+  ],
+  "akhal": [
+    "genesis"
+  ],
+  "gan": [
+    "genesis"
+  ],
+  "etz": [
+    "genesis"
+  ],
+  "asher": [
+    "genesis"
+  ],
+  "yhwh": [
+    "genesis",
+    "numbers",
+    "proverbs"
+  ],
+  "el": [
+    "genesis",
+    "isaiah",
+    "numbers"
+  ],
+  "af": [
+    "genesis"
+  ],
+  "ki": [
+    "genesis",
+    "isaiah",
+    "numbers"
+  ],
+  "lo": [
+    "genesis"
+  ],
+  "dasha": [
+    "genesis"
+  ],
+  "esev": [
+    "genesis"
+  ],
+  "zara": [
+    "genesis"
+  ],
+  "pri": [
+    "genesis"
+  ],
+  "min": [
+    "genesis",
+    "isaiah"
+  ],
+  "tokh": [
+    "genesis"
+  ],
+  "ken": [
+    "genesis"
+  ],
+  "mut": [
+    "numbers"
+  ],
+  "saraph": [
+    "isaiah",
+    "numbers"
+  ],
+  "shalach": [
+    "numbers"
+  ],
+  "rav": [
+    "numbers"
+  ],
+  "am": [
+    "numbers"
+  ],
+  "bo": [
+    "numbers"
+  ],
+  "chata": [
+    "numbers"
+  ],
+  "dabar": [
+    "numbers"
+  ],
+  "palal": [
+    "numbers"
+  ],
+  "sur": [
+    "numbers"
+  ],
+  "ad": [
+    "numbers"
+  ],
+  "moshe": [
+    "numbers"
+  ],
+  "atah": [
+    "numbers"
+  ],
+  "nes": [
+    "numbers"
+  ],
+  "nashakh": [
+    "numbers"
+  ],
+  "sim": [
+    "numbers"
+  ],
+  "im": [
+    "numbers",
+    "proverbs"
+  ],
+  "nechoshet": [
+    "numbers"
+  ],
+  "ish": [
+    "numbers"
+  ],
+  "nabat": [
+    "numbers"
+  ],
+  "yisrael": [
+    "numbers"
+  ],
+  "et": [
+    "genesis",
+    "numbers"
+  ],
+  "al": [
+    "genesis",
+    "isaiah",
+    "numbers"
+  ],
+  "maal": [
+    "isaiah"
+  ],
+  "regel": [
+    "isaiah"
+  ],
+  "ofaf": [
+    "genesis"
+  ],
+  "mizbeach": [
+    "isaiah"
+  ],
+  "shevet": [
+    "isaiah"
+  ],
+  "tachat": [
+    "genesis"
+  ],
+  "shoresh": [
+    "isaiah"
+  ],
+  "yatsa": [
+    "genesis",
+    "isaiah"
+  ],
+  "tsefa": [
+    "isaiah"
+  ],
+  "amad": [
+    "isaiah"
+  ],
+  "hu": [
+    "isaiah"
+  ],
+  "kanaf": [
+    "genesis",
+    "isaiah"
+  ],
+  "echad": [
+    "genesis",
+    "isaiah"
+  ],
+  "shtayim": [
+    "genesis",
+    "isaiah"
+  ],
+  "kasah": [
+    "isaiah"
+  ],
+  "uf": [
+    "genesis",
+    "isaiah"
+  ],
+  "yad": [
+    "isaiah"
+  ],
+  "ritspah": [
+    "isaiah"
+  ],
+  "lakach": [
+    "isaiah"
+  ],
+  "samach": [
+    "isaiah"
+  ],
+  "peleshet": [
+    "isaiah"
+  ],
+  "melkachayim": [
+    "isaiah"
+  ],
+  "shabar": [
+    "isaiah"
+  ],
+  "nakah": [
+    "isaiah"
+  ],
+  "tov": [
+    "genesis",
+    "proverbs"
+  ],
+  "badal": [
+    "genesis"
+  ],
+  "beyn": [
+    "genesis"
+  ],
+  "qara": [
+    "genesis"
+  ],
+  "yom": [
+    "genesis",
+    "proverbs"
+  ],
+  "layil": [
+    "genesis"
+  ],
+  "raqia": [
+    "genesis"
+  ],
+  "raqa": [
+    "genesis"
+  ],
+  "qavah": [
+    "genesis"
+  ],
+  "maqom": [
+    "genesis"
+  ],
+  "raah": [
+    "genesis"
+  ],
+  "yabashah": [
+    "genesis"
+  ],
+  "yam": [
+    "genesis"
+  ],
+  "shem": [
+    "proverbs"
+  ],
+  "shemen": [
+    "proverbs"
+  ],
+  "mavet": [
+    "proverbs"
+  ],
+  "yalad": [
+    "proverbs"
+  ],
+  "ashar": [
+    "proverbs"
+  ],
+  "rash": [
+    "proverbs"
+  ],
+  "pagash": [
+    "proverbs"
+  ],
+  "zeh": [
+    "proverbs"
+  ],
+  "ot": [
+    "genesis"
+  ],
+  "moed": [
+    "genesis"
+  ],
+  "shanah": [
+    "genesis"
+  ],
+  "peri": [
+    "isaiah"
+  ],
+  "gadol": [
+    "genesis"
+  ],
+  "mashal": [
+    "genesis"
+  ],
+  "qatan": [
+    "genesis"
+  ],
+  "kokhav": [
+    "genesis"
+  ],
+  "natan": [
+    "genesis"
+  ],
+  "sharats": [
+    "genesis"
+  ],
+  "nephesh": [
+    "genesis"
+  ],
+  "tannin": [
+    "genesis"
+  ],
+  "ramas": [
+    "genesis"
+  ],
+  "barakh": [
+    "genesis"
+  ],
+  "parah": [
+    "genesis"
+  ],
+  "ravah": [
+    "genesis"
+  ],
+  "male": [
+    "genesis"
+  ],
+  "hamish": [
+    "genesis"
+  ],
+  "en": [
+    "john",
+    "matthew"
+  ],
+  "arche": [
+    "john"
+  ],
+  "eimi": [
+    "john",
+    "revelation"
+  ],
+  "ho": [
+    "john",
+    "matthew",
+    "revelation"
+  ],
+  "logos": [
+    "john"
+  ],
+  "kai": [
+    "john",
+    "matthew",
+    "revelation"
+  ],
+  "pros": [
+    "john"
+  ],
+  "theos": [
+    "john"
+  ],
+  "ophis": [
+    "matthew",
+    "revelation"
+  ],
+  "archaios": [
+    "revelation"
+  ],
+  "hos": [
+    "matthew",
+    "revelation"
+  ],
+  "diabolos": [
+    "revelation"
+  ],
+  "satanas": [
+    "revelation"
+  ],
+  "autos": [
+    "revelation"
+  ],
+  "chilioi": [
+    "revelation"
+  ],
+  "krateo": [
+    "revelation"
+  ],
+  "drakon": [
+    "revelation"
+  ],
+  "deo": [
+    "revelation"
+  ],
+  "etos": [
+    "revelation"
+  ],
+  "katabaino": [
+    "revelation"
+  ],
+  "kleis": [
+    "revelation"
+  ],
+  "abussos": [
+    "revelation"
+  ],
+  "halusis": [
+    "revelation"
+  ],
+  "megas": [
+    "revelation"
+  ],
+  "cheir": [
+    "revelation"
+  ],
+  "angelos": [
+    "revelation"
+  ],
+  "eido": [
+    "revelation"
+  ],
+  "ek": [
+    "revelation"
+  ],
+  "ouranos": [
+    "revelation"
+  ],
+  "echo": [
+    "revelation"
+  ],
+  "epi": [
+    "revelation"
+  ],
+  "idou": [
+    "matthew"
+  ],
+  "ego": [
+    "matthew"
+  ],
+  "apostello": [
+    "matthew"
+  ],
+  "su": [
+    "matthew"
+  ],
+  "probaton": [
+    "matthew"
+  ],
+  "mesos": [
+    "matthew"
+  ],
+  "lukos": [
+    "matthew"
+  ],
+  "ginomai": [
+    "matthew"
+  ],
+  "oun": [
+    "matthew"
+  ],
+  "phronimos": [
+    "matthew"
+  ],
+  "akeraios": [
+    "matthew"
+  ],
+  "peristera": [
+    "matthew"
+  ]
+}

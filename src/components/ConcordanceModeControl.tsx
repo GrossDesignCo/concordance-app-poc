@@ -10,20 +10,26 @@ export const ConcordanceModeControl = () => {
   // Only show the filter button if there are words to filter by
   if (!selectedWords.length) return null;
 
+  // const words = selectedWords.map((word) => word.root).join(' ');
+
   return (
-    <Tooltip label="Concordance View">
-      <Button
-        onClick={() => {
-          setFilterVerses(!filterVerses);
-        }}
-        variant={filterVerses ? 'primary' : 'secondary'}
-      >
-        {filterVerses ? (
-          <ArrowsOutLineVertical size={20} />
-        ) : (
-          <ArrowsInLineVertical size={20} />
-        )}
-      </Button>
-    </Tooltip>
+    <>
+      {/* <span className="text-sm">{words}</span> */}
+
+      <Tooltip label="Concordance View">
+        <Button
+          onClick={() => {
+            setFilterVerses(!filterVerses);
+          }}
+          variant={filterVerses ? 'primary' : 'secondary'}
+        >
+          {filterVerses ? (
+            <ArrowsOutLineVertical size={20} />
+          ) : (
+            <ArrowsInLineVertical size={20} />
+          )}
+        </Button>
+      </Tooltip>
+    </>
   );
 };

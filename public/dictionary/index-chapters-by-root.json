@@ -1,0 +1,1036 @@
+{
+  "rosh": {
+    "genesis": [
+      1
+    ]
+  },
+  "bara": {
+    "genesis": [
+      1
+    ]
+  },
+  "eloah": {
+    "genesis": [
+      1,
+      3
+    ]
+  },
+  "amar": {
+    "genesis": [
+      1,
+      3
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  "hayah": {
+    "genesis": [
+      1,
+      3
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  "or": {
+    "genesis": [
+      1
+    ]
+  },
+  "eretz": {
+    "genesis": [
+      1
+    ]
+  },
+  "erev": {
+    "genesis": [
+      1
+    ]
+  },
+  "boqer": {
+    "genesis": [
+      1
+    ]
+  },
+  "tohu": {
+    "genesis": [
+      1
+    ]
+  },
+  "vohu": {
+    "genesis": [
+      1
+    ]
+  },
+  "choshekh": {
+    "genesis": [
+      1
+    ]
+  },
+  "panah": {
+    "genesis": [
+      1
+    ],
+    "isaiah": [
+      6
+    ]
+  },
+  "tehom": {
+    "genesis": [
+      1
+    ]
+  },
+  "ruach": {
+    "genesis": [
+      1
+    ]
+  },
+  "rachaf": {
+    "genesis": [
+      1
+    ]
+  },
+  "mayim": {
+    "genesis": [
+      1
+    ]
+  },
+  "shamayim": {
+    "genesis": [
+      1
+    ]
+  },
+  "shesh": {
+    "isaiah": [
+      6
+    ]
+  },
+  "sheni": {
+    "genesis": [
+      1
+    ]
+  },
+  "shlishi": {
+    "genesis": [
+      1
+    ]
+  },
+  "revii": {
+    "genesis": [
+      1
+    ]
+  },
+  "arum": {
+    "genesis": [
+      3
+    ],
+    "proverbs": [
+      22
+    ]
+  },
+  "raah_see": {
+    "genesis": [
+      1
+    ],
+    "numbers": [
+      21
+    ],
+    "proverbs": [
+      22
+    ]
+  },
+  "raah_bad": {
+    "proverbs": [
+      22
+    ]
+  },
+  "satar": {
+    "proverbs": [
+      22
+    ]
+  },
+  "peti": {
+    "proverbs": [
+      22
+    ]
+  },
+  "avar": {
+    "proverbs": [
+      22
+    ]
+  },
+  "anash": {
+    "proverbs": [
+      22
+    ]
+  },
+  "nachash": {
+    "genesis": [
+      3
+    ],
+    "isaiah": [
+      14
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  "kol": {
+    "genesis": [
+      1,
+      3
+    ],
+    "isaiah": [
+      14
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  "chayah": {
+    "genesis": [
+      1,
+      3
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  "sadeh": {
+    "genesis": [
+      3
+    ]
+  },
+  "asah": {
+    "genesis": [
+      1,
+      3
+    ],
+    "numbers": [
+      21
+    ],
+    "proverbs": [
+      22
+    ]
+  },
+  "ishah": {
+    "genesis": [
+      3
+    ]
+  },
+  "akhal": {
+    "genesis": [
+      3
+    ]
+  },
+  "gan": {
+    "genesis": [
+      3
+    ]
+  },
+  "etz": {
+    "genesis": [
+      1,
+      3
+    ]
+  },
+  "asher": {
+    "genesis": [
+      1,
+      3
+    ]
+  },
+  "yhwh": {
+    "genesis": [
+      3
+    ],
+    "numbers": [
+      21
+    ],
+    "proverbs": [
+      22
+    ]
+  },
+  "el": {
+    "genesis": [
+      1,
+      3
+    ],
+    "isaiah": [
+      6
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  "af": {
+    "genesis": [
+      3
+    ]
+  },
+  "ki": {
+    "genesis": [
+      1,
+      3
+    ],
+    "isaiah": [
+      14
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  "lo": {
+    "genesis": [
+      3
+    ]
+  },
+  "dasha": {
+    "genesis": [
+      1
+    ]
+  },
+  "esev": {
+    "genesis": [
+      1
+    ]
+  },
+  "zara": {
+    "genesis": [
+      1
+    ]
+  },
+  "pri": {
+    "genesis": [
+      1,
+      3
+    ]
+  },
+  "min": {
+    "genesis": [
+      1
+    ],
+    "isaiah": [
+      6
+    ]
+  },
+  "tokh": {
+    "genesis": [
+      1
+    ]
+  },
+  "ken": {
+    "genesis": [
+      1
+    ]
+  },
+  "mut": {
+    "numbers": [
+      21
+    ]
+  },
+  "saraph": {
+    "isaiah": [
+      6,
+      14
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  "shalach": {
+    "numbers": [
+      21
+    ]
+  },
+  "rav": {
+    "numbers": [
+      21
+    ]
+  },
+  "am": {
+    "numbers": [
+      21
+    ]
+  },
+  "bo": {
+    "numbers": [
+      21
+    ]
+  },
+  "chata": {
+    "numbers": [
+      21
+    ]
+  },
+  "dabar": {
+    "numbers": [
+      21
+    ]
+  },
+  "palal": {
+    "numbers": [
+      21
+    ]
+  },
+  "sur": {
+    "numbers": [
+      21
+    ]
+  },
+  "ad": {
+    "numbers": [
+      21
+    ]
+  },
+  "moshe": {
+    "numbers": [
+      21
+    ]
+  },
+  "atah": {
+    "numbers": [
+      21
+    ]
+  },
+  "nes": {
+    "numbers": [
+      21
+    ]
+  },
+  "nashakh": {
+    "numbers": [
+      21
+    ]
+  },
+  "sim": {
+    "numbers": [
+      21
+    ]
+  },
+  "im": {
+    "numbers": [
+      21
+    ],
+    "proverbs": [
+      22
+    ]
+  },
+  "nechoshet": {
+    "numbers": [
+      21
+    ]
+  },
+  "ish": {
+    "numbers": [
+      21
+    ]
+  },
+  "nabat": {
+    "numbers": [
+      21
+    ]
+  },
+  "yisrael": {
+    "numbers": [
+      21
+    ]
+  },
+  "et": {
+    "genesis": [
+      1
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  "al": {
+    "genesis": [
+      1
+    ],
+    "isaiah": [
+      6,
+      14
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  "maal": {
+    "isaiah": [
+      6
+    ]
+  },
+  "regel": {
+    "isaiah": [
+      6
+    ]
+  },
+  "ofaf": {
+    "genesis": [
+      1
+    ]
+  },
+  "mizbeach": {
+    "isaiah": [
+      6
+    ]
+  },
+  "shevet": {
+    "isaiah": [
+      14
+    ]
+  },
+  "tachat": {
+    "genesis": [
+      1
+    ]
+  },
+  "shoresh": {
+    "isaiah": [
+      14
+    ]
+  },
+  "yatsa": {
+    "genesis": [
+      1
+    ],
+    "isaiah": [
+      14
+    ]
+  },
+  "tsefa": {
+    "isaiah": [
+      14
+    ]
+  },
+  "amad": {
+    "isaiah": [
+      6
+    ]
+  },
+  "hu": {
+    "isaiah": [
+      6
+    ]
+  },
+  "kanaf": {
+    "genesis": [
+      1
+    ],
+    "isaiah": [
+      6
+    ]
+  },
+  "echad": {
+    "genesis": [
+      1
+    ],
+    "isaiah": [
+      6
+    ]
+  },
+  "shtayim": {
+    "genesis": [
+      1
+    ],
+    "isaiah": [
+      6
+    ]
+  },
+  "kasah": {
+    "isaiah": [
+      6
+    ]
+  },
+  "uf": {
+    "genesis": [
+      1
+    ],
+    "isaiah": [
+      6,
+      14
+    ]
+  },
+  "yad": {
+    "isaiah": [
+      6
+    ]
+  },
+  "ritspah": {
+    "isaiah": [
+      6
+    ]
+  },
+  "lakach": {
+    "isaiah": [
+      6
+    ]
+  },
+  "samach": {
+    "isaiah": [
+      14
+    ]
+  },
+  "peleshet": {
+    "isaiah": [
+      14
+    ]
+  },
+  "melkachayim": {
+    "isaiah": [
+      6
+    ]
+  },
+  "shabar": {
+    "isaiah": [
+      14
+    ]
+  },
+  "nakah": {
+    "isaiah": [
+      14
+    ]
+  },
+  "tov": {
+    "genesis": [
+      1
+    ],
+    "proverbs": [
+      22
+    ]
+  },
+  "badal": {
+    "genesis": [
+      1
+    ]
+  },
+  "beyn": {
+    "genesis": [
+      1
+    ]
+  },
+  "qara": {
+    "genesis": [
+      1
+    ]
+  },
+  "yom": {
+    "genesis": [
+      1
+    ],
+    "proverbs": [
+      22
+    ]
+  },
+  "layil": {
+    "genesis": [
+      1
+    ]
+  },
+  "raqia": {
+    "genesis": [
+      1
+    ]
+  },
+  "raqa": {
+    "genesis": [
+      1
+    ]
+  },
+  "qavah": {
+    "genesis": [
+      1
+    ]
+  },
+  "maqom": {
+    "genesis": [
+      1
+    ]
+  },
+  "raah": {
+    "genesis": [
+      1
+    ]
+  },
+  "yabashah": {
+    "genesis": [
+      1
+    ]
+  },
+  "yam": {
+    "genesis": [
+      1
+    ]
+  },
+  "shem": {
+    "proverbs": [
+      22
+    ]
+  },
+  "shemen": {
+    "proverbs": [
+      22
+    ]
+  },
+  "mavet": {
+    "proverbs": [
+      22
+    ]
+  },
+  "yalad": {
+    "proverbs": [
+      22
+    ]
+  },
+  "ashar": {
+    "proverbs": [
+      22
+    ]
+  },
+  "rash": {
+    "proverbs": [
+      22
+    ]
+  },
+  "pagash": {
+    "proverbs": [
+      22
+    ]
+  },
+  "zeh": {
+    "proverbs": [
+      22
+    ]
+  },
+  "ot": {
+    "genesis": [
+      1
+    ]
+  },
+  "moed": {
+    "genesis": [
+      1
+    ]
+  },
+  "shanah": {
+    "genesis": [
+      1
+    ]
+  },
+  "peri": {
+    "isaiah": [
+      14
+    ]
+  },
+  "gadol": {
+    "genesis": [
+      1
+    ]
+  },
+  "mashal": {
+    "genesis": [
+      1
+    ]
+  },
+  "qatan": {
+    "genesis": [
+      1
+    ]
+  },
+  "kokhav": {
+    "genesis": [
+      1
+    ]
+  },
+  "natan": {
+    "genesis": [
+      1
+    ]
+  },
+  "sharats": {
+    "genesis": [
+      1
+    ]
+  },
+  "nephesh": {
+    "genesis": [
+      1
+    ]
+  },
+  "tannin": {
+    "genesis": [
+      1
+    ]
+  },
+  "ramas": {
+    "genesis": [
+      1
+    ]
+  },
+  "barakh": {
+    "genesis": [
+      1
+    ]
+  },
+  "parah": {
+    "genesis": [
+      1
+    ]
+  },
+  "ravah": {
+    "genesis": [
+      1
+    ]
+  },
+  "male": {
+    "genesis": [
+      1
+    ]
+  },
+  "hamish": {
+    "genesis": [
+      1
+    ]
+  },
+  "en": {
+    "john": [
+      1
+    ],
+    "matthew": [
+      10
+    ]
+  },
+  "arche": {
+    "john": [
+      1
+    ]
+  },
+  "eimi": {
+    "john": [
+      1
+    ],
+    "revelation": [
+      20
+    ]
+  },
+  "ho": {
+    "john": [
+      1
+    ],
+    "matthew": [
+      10
+    ],
+    "revelation": [
+      20
+    ]
+  },
+  "logos": {
+    "john": [
+      1
+    ]
+  },
+  "kai": {
+    "john": [
+      1
+    ],
+    "matthew": [
+      10
+    ],
+    "revelation": [
+      20
+    ]
+  },
+  "pros": {
+    "john": [
+      1
+    ]
+  },
+  "theos": {
+    "john": [
+      1
+    ]
+  },
+  "ophis": {
+    "matthew": [
+      10
+    ],
+    "revelation": [
+      20
+    ]
+  },
+  "archaios": {
+    "revelation": [
+      20
+    ]
+  },
+  "hos": {
+    "matthew": [
+      10
+    ],
+    "revelation": [
+      20
+    ]
+  },
+  "diabolos": {
+    "revelation": [
+      20
+    ]
+  },
+  "satanas": {
+    "revelation": [
+      20
+    ]
+  },
+  "autos": {
+    "revelation": [
+      20
+    ]
+  },
+  "chilioi": {
+    "revelation": [
+      20
+    ]
+  },
+  "krateo": {
+    "revelation": [
+      20
+    ]
+  },
+  "drakon": {
+    "revelation": [
+      20
+    ]
+  },
+  "deo": {
+    "revelation": [
+      20
+    ]
+  },
+  "etos": {
+    "revelation": [
+      20
+    ]
+  },
+  "katabaino": {
+    "revelation": [
+      20
+    ]
+  },
+  "kleis": {
+    "revelation": [
+      20
+    ]
+  },
+  "abussos": {
+    "revelation": [
+      20
+    ]
+  },
+  "halusis": {
+    "revelation": [
+      20
+    ]
+  },
+  "megas": {
+    "revelation": [
+      20
+    ]
+  },
+  "cheir": {
+    "revelation": [
+      20
+    ]
+  },
+  "angelos": {
+    "revelation": [
+      20
+    ]
+  },
+  "eido": {
+    "revelation": [
+      20
+    ]
+  },
+  "ek": {
+    "revelation": [
+      20
+    ]
+  },
+  "ouranos": {
+    "revelation": [
+      20
+    ]
+  },
+  "echo": {
+    "revelation": [
+      20
+    ]
+  },
+  "epi": {
+    "revelation": [
+      20
+    ]
+  },
+  "idou": {
+    "matthew": [
+      10
+    ]
+  },
+  "ego": {
+    "matthew": [
+      10
+    ]
+  },
+  "apostello": {
+    "matthew": [
+      10
+    ]
+  },
+  "su": {
+    "matthew": [
+      10
+    ]
+  },
+  "probaton": {
+    "matthew": [
+      10
+    ]
+  },
+  "mesos": {
+    "matthew": [
+      10
+    ]
+  },
+  "lukos": {
+    "matthew": [
+      10
+    ]
+  },
+  "ginomai": {
+    "matthew": [
+      10
+    ]
+  },
+  "oun": {
+    "matthew": [
+      10
+    ]
+  },
+  "phronimos": {
+    "matthew": [
+      10
+    ]
+  },
+  "akeraios": {
+    "matthew": [
+      10
+    ]
+  },
+  "peristera": {
+    "matthew": [
+      10
+    ]
+  }
+}

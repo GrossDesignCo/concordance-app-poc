@@ -1,4 +1,5 @@
 'use client';
+import { useSelection } from '@/context/SelectionContext';
 import styles from './ScriptureReader.module.css';
 import { Book } from '@/components/scripture/Book';
 import { useSettings } from '@/context/SettingsContext';
@@ -7,12 +8,37 @@ import cx from 'classnames';
 
 export const ScriptureReader = () => {
   const { font } = useSettings();
+  const { filterVerses, filteredStructure } = useSelection();
+
+  // Filter books based on filteredStructure
+  const filteredBooks = scripture.books.filter((book) => {
+    if (!filterVerses || !filteredStructure) return true;
+    return filteredStructure.books.includes(book.meta.name.toLowerCase());
+  });
 
   return (
     <div className={cx(styles.scripture, font ? styles[font] : '')}>
       <div className={styles.bookContainer}>
-        {scripture.books.map((book) => {
-          return <Book bookData={book} key={book.meta.name} />;
+        {filteredBooks.map((book) => {
+          // Filter chapters based on filteredStructure
+          const filteredChapters = book.chapters.filter((chapter) => {
+            if (!filterVerses || !filteredStructure) return true;
+            const bookName = book.meta.name.toLowerCase();
+            return filteredStructure.chapters[bookName]?.includes(
+              chapter.number
+            );
+          });
+
+          // Only render the book if it has chapters to show
+          if (filteredChapters.length === 0) return null;
+
+          // Create a filtered version of the book
+          const filteredBook = {
+            ...book,
+            chapters: filteredChapters,
+          };
+
+          return <Book bookData={filteredBook} key={book.meta.name} />;
         })}
       </div>
     </div>

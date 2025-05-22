@@ -482,3 +482,21 @@ export type LexiconReference = {
   key: string;
   language?: ResolvedLanguageKey;
 };
+
+export interface RootIndex {
+  verses: {
+    [root: string]: {
+      [book: string]: {
+        [chapter: number]: number[]; // verse numbers
+      };
+    };
+  };
+  chapters: {
+    [root: string]: {
+      [book: string]: number[]; // chapter numbers
+    };
+  };
+  books: {
+    [root: string]: string[]; // book names
+  };
+}
