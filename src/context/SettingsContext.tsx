@@ -1,5 +1,6 @@
 import { FontKey, LanguageKey } from '@/types';
-import { createContext, useContext, useState, ReactNode } from 'react';
+import { createContext, useContext, ReactNode } from 'react';
+import { useLocalStorage } from '@/hooks/useLocalStorage';
 
 interface SettingsContextProps {
   languages: LanguageKey[];
@@ -16,16 +17,24 @@ const SettingsContext = createContext<SettingsContextProps | undefined>(
 );
 
 export const SettingsProvider = ({ children }: { children: ReactNode }) => {
-  const [languages, setLanguages] = useState<LanguageKey[]>(['englishNatural']);
-  const [theme, setTheme] = useState('system');
-  const [font, setFont] = useState<FontKey>('sans');
+  const { settings, setSettings, hydrated } = useLocalStorage();
+  const { languages, theme, font } = settings;
+
+  // Don't render children until hydrated to avoid hydration mismatch
+  if (!hydrated) return null;
 
   // Toggle an individual language
   const toggleLanguage = (lang: LanguageKey) => {
     if (languages.includes(lang)) {
-      setLanguages((langs) => langs.filter((l) => l !== lang));
+      setSettings({
+        ...settings,
+        languages: languages.filter((l: LanguageKey) => l !== lang),
+      });
     } else {
-      setLanguages((langs) => [...langs, lang]);
+      setSettings({
+        ...settings,
+        languages: [...languages, lang],
+      });
     }
   };
 
@@ -40,9 +49,25 @@ export const SettingsProvider = ({ children }: { children: ReactNode }) => {
       (a, b) => languageOrder.indexOf(a) - languageOrder.indexOf(b)
     );
     // If someone tries to unset all languages just revert to the default so that one is always selected
-    setLanguages(
-      sortedLanguages.length === 0 ? ['englishNatural'] : sortedLanguages
-    );
+    setSettings({
+      ...settings,
+      languages:
+        sortedLanguages.length === 0 ? ['englishNatural'] : sortedLanguages,
+    });
+  };
+
+  const handleSetTheme = (theme: string) => {
+    setSettings({
+      ...settings,
+      theme,
+    });
+  };
+
+  const handleSetFont = (font: FontKey) => {
+    setSettings({
+      ...settings,
+      font,
+    });
   };
 
   return (
@@ -52,9 +77,9 @@ export const SettingsProvider = ({ children }: { children: ReactNode }) => {
         setLanguages: handleSetLanguages,
         toggleLanguage,
         theme,
-        setTheme,
+        setTheme: handleSetTheme,
         font,
-        setFont,
+        setFont: handleSetFont,
       }}
     >
       {children}
