@@ -169,4 +169,16 @@ export const prefixes: Record<string, PrefixElement> = {
       englishLiteral: 'like',
       englishNatural: 'like',
     },
+    na: {
+      hebrew: 'נַ',
+      transliteration: 'na',
+      englishLiteral: 'let-us',
+      englishNatural: 'let us',
+    },
+    ki: {
+      hebrew: 'כִּי',
+      transliteration: 'ki',
+      englishLiteral: 'that',
+      englishNatural: 'that',
+    },
   };

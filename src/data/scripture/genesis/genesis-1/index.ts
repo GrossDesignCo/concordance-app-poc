@@ -22,6 +22,14 @@ import { genesis_1_20 } from './genesis-1-20';
 import { genesis_1_21 } from './genesis-1-21';
 import { genesis_1_22 } from './genesis-1-22';
 import { genesis_1_23 } from './genesis-1-23';
+import { genesis_1_24 } from './genesis-1-24';
+import { genesis_1_25 } from './genesis-1-25';
+import { genesis_1_26 } from './genesis-1-26';
+import { genesis_1_27 } from './genesis-1-27';
+import { genesis_1_28 } from './genesis-1-28';
+import { genesis_1_29 } from './genesis-1-29';
+import { genesis_1_30 } from './genesis-1-30';
+import { genesis_1_31 } from './genesis-1-31';
 
 const chapter: Chapter = {
   number: 1,
@@ -49,6 +57,14 @@ const chapter: Chapter = {
     genesis_1_21,
     genesis_1_22,
     genesis_1_23,
+    genesis_1_24,
+    genesis_1_25,
+    genesis_1_26,
+    genesis_1_27,
+    genesis_1_28,
+    genesis_1_29,
+    genesis_1_30,
+    genesis_1_31,
   ],
 };
 

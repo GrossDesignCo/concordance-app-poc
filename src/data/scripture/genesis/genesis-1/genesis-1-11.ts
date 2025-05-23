@@ -101,8 +101,8 @@ export const genesis_1_11: Verse = {
     {
       hebrew: 'דֶּ֗שֶׁא',
       transliteration: 'deshe',
-      englishLiteral: 'grass',
-      englishNatural: 'grass',
+      englishLiteral: 'sprout',
+      englishNatural: 'sprout',
       root: 'dasha',
       order: {
         hebrew: 5,
@@ -308,24 +308,43 @@ export const genesis_1_11: Verse = {
       },
     },
     {
-      hebrew: 'וַֽיְהִי־כֵֽן׃',
-      transliteration: 'vaYehi-ken',
-      englishLiteral: 'And-it_was-so',
-      englishNatural: 'And it was so',
+      hebrew: 'וַֽיְהִי־',
+      transliteration: 'vaVayhi-',
+      englishLiteral: 'And-was',
+      englishNatural: 'And was',
       root: 'hayah',
       prefixes: ['va'],
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'כֵֽן׃',
+      transliteration: 'ken',
+      englishLiteral: 'so',
+      englishNatural: 'so',
+      root: 'ken',
       order: {
         hebrew: 17,
         english: 17,
       },
       morphology: {
-        type: 'verb',
+        type: 'adverb',
       },
       grammarSuffix: {
         englishLiteral: '.',
         englishNatural: '.',
       },
-      lineBreaksBefore: 1,
       lineBreaksAfter: 1,
     },
   ],
@@ -333,12 +352,12 @@ export const genesis_1_11: Verse = {
     hebrew:
       'וַיֹּ֥אמֶר אֱלֹהִ֖ים תַּֽדְשֵׁ֣א הָאָ֑רֶץ דֶּ֗שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינ֔וֹ אֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃',
     transliteration:
-      'vaYomer Elohim tadShe haAretz deshe esev maZria zera etz pri oseh pri leMino asher zarO-bo al-haAretz vaYehi-ken',
+      'vaYomer Elohim tadShe haAretz deshe esev maZria zera etz pri oseh pri leMino asher zarO-bo al-haAretz vaVayhi-ken',
     englishLiteral:
-      'And-said Gods, "Let-sprout the-land grass, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed-in-it, over-the-land, And-it_was-so.',
+      'And-said Gods, "Let-sprout the-land sprout, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed-in-it, over-the-land, And-was so.',
     englishNatural:
-      'And God said, "Let the land sprout grass, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." And it was so.',
+      'And God said, "Let the land sprout sprout, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." And was so.',
     kjv: 'And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-15' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
   },
 };

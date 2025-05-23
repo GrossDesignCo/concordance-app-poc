@@ -46,7 +46,7 @@ export const isaiah_14_29: Verse = {
       transliteration: 'Peleshet',
       englishLiteral: 'Philistia',
       englishNatural: 'Philistia',
-      root: 'peleshet',
+      root: 'Peleshet',
       order: {
         hebrew: 3,
         english: 3,
@@ -94,7 +94,7 @@ export const isaiah_14_29: Verse = {
       transliteration: 'nishbar',
       englishLiteral: 'is-broken',
       englishNatural: 'is broken',
-      root: 'shabar',
+      root: 'shavar',
       prefixes: ['ni'],
       order: {
         hebrew: 6,
@@ -289,6 +289,6 @@ export const isaiah_14_29: Verse = {
     englishLiteral: 'Do-not you-shall-rejoice Philistia all-of-you because is-broken rod of-him-who-strikes-you for from-root snake shall-come-forth viper and-its-fruit burning_one flying',
     englishNatural: 'Do not rejoice Philistia all of you because is broken the rod of him who strikes you for from the root of a snake shall come forth a viper and its fruit a burning-one flying',
     kjv: 'Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent\'s root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
 },
 }; 

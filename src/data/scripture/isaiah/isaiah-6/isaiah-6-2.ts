@@ -26,8 +26,8 @@ export const isaiah_6_2: Verse = {
     {
       hebrew: 'עֹמְדִים',
       transliteration: 'omedim',
-      englishLiteral: 'standing',
-      englishNatural: 'standing',
+      englishLiteral: 'standing_ones',
+      englishNatural: 'standing-ones',
       root: 'amad',
       suffixes: ['im'],
       order: {
@@ -95,7 +95,7 @@ export const isaiah_6_2: Verse = {
       transliteration: 'kenafayim',
       englishLiteral: 'wings',
       englishNatural: 'wings',
-      root: 'kanaf',
+      root: 'kenaf',
       suffixes: ['ayim'],
       order: {
         hebrew: 6,
@@ -144,7 +144,7 @@ export const isaiah_6_2: Verse = {
       transliteration: 'yeKhasseh',
       englishLiteral: 'he-covers',
       englishNatural: 'he covers',
-      root: 'kasah',
+      root: 'khasah',
       prefixes: ['ye'],
       order: {
         hebrew: 9,
@@ -197,7 +197,7 @@ export const isaiah_6_2: Verse = {
       transliteration: 'yeKhasseh',
       englishLiteral: 'he-covers',
       englishNatural: 'he covers',
-      root: 'kasah',
+      root: 'khasah',
       prefixes: ['ye'],
       order: {
         hebrew: 12,
@@ -269,9 +269,9 @@ export const isaiah_6_2: Verse = {
   expectedTranslations: {
     hebrew: 'שְׂרָפִים עֹמְדִים מִמַּעַל לוֹ שֵׁשׁ כְּנָפַיִם לְאֶחָד בִּשְׁתַּיִם יְכַסֶּה פָּנָיו וּבִשְׁתַּיִם יְכַסֶּה רַגְלָיו וּבִשְׁתַּיִם יְעוֹפֵף',
     transliteration: 'seraphim omedim miMaal lo shesh kenafayim leEchad biShtayim yeKhasseh panav uViShtayim yeKhasseh raglav uViShtayim yeOfef',
-    englishLiteral: 'burning_ones standing from-above to-him six wings to-one with-two he-covers his-face and-with-two he-covers his-feet and-with-two he-flies',
-    englishNatural: 'burning-ones standing from above to him six wings to each one with two he covers his face and with two he covers his feet and with two he flies',
+    englishLiteral: 'burning_ones standing_ones from-above to-him six wings to-one with-two he-covers his-face and-with-two he-covers his-feet and-with-two he-flies',
+    englishNatural: 'burning-ones standing-ones from above to him six wings to each one with two he covers his face and with two he covers his feet and with two he flies',
     kjv: 'Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
 },
 }; 

@@ -178,7 +178,7 @@ export const genesis_1_20: Verse = {
       transliteration: 'yeOfef',
       englishLiteral: 'let-fly',
       englishNatural: 'fly',
-      root: 'ofaf',
+      root: 'uf',
       prefixes: ['ye'],
       order: {
         hebrew: 9,
@@ -300,6 +300,6 @@ export const genesis_1_20: Verse = {
     englishLiteral: 'And-said Gods, "Let-swarm the-waters swarm throat living, And-flyer let-fly over the-land, over face-of hammering_out, the-skies."',
     englishNatural: 'And God said, "Let the waters swarm with a swarm, living throat, And let flyer fly over the land, over the face of the hammering-out, the skies."',
     kjv: 'And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
   },
 }; 

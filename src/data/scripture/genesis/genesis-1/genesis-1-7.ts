@@ -271,9 +271,9 @@ export const genesis_1_7: Verse = {
     },
     {
       hebrew: 'וַֽיְהִי־',
-      transliteration: 'vaYehi-',
-      englishLiteral: 'And-it-was',
-      englishNatural: 'And it was',
+      transliteration: 'vaVayhi-',
+      englishLiteral: 'And-was',
+      englishNatural: 'And was',
       root: 'hayah',
       prefixes: ['va'],
       order: {
@@ -312,10 +312,10 @@ export const genesis_1_7: Verse = {
   ],
   expectedTranslations: {
     hebrew: 'וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־הָרָקִ֖יעַ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֙יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֖יִם אֲשֶׁ֥ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי־כֵֽן׃',
-    transliteration: 'vaYaas Elohim et-haRaqia vaYavdel beyn haMayim asher miTachat laRaqia uBeyn haMayim asher meAl laRaqia vaYehi-ken',
-    englishLiteral: 'And-made Gods ↳ the-hammering_out, and-separated, between the-waters which from-under to_the-hammering_out, and-between the-waters which from-over to_the-hammering_out. And-it-was so.',
-    englishNatural: 'And God made the hammering-out, and separated between the waters which were under the hammering-out, and between the waters which were over the hammering-out. And it was so.',
+    transliteration: 'vaYaas Elohim et-haRaqia vaYavdel beyn haMayim asher miTachat laRaqia uBeyn haMayim asher meAl laRaqia vaVayhi-ken',
+    englishLiteral: 'And-made Gods ↳ the-hammering_out, and-separated, between the-waters which from-under to_the-hammering_out, and-between the-waters which from-over to_the-hammering_out. And-was so.',
+    englishNatural: 'And God made the hammering-out, and separated between the waters which were under the hammering-out, and between the waters which were over the hammering-out. And was so.',
     kjv: 'And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-19' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
   },
 }; 

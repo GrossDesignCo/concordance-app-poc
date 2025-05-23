@@ -186,4 +186,11 @@ export const suffixes: Record<string, SuffixElement> = {
       englishNatural: 'their',
       function: '3rd person masculine plural possessive',
     },
+    ah: {
+      hebrew: 'ה',
+      transliteration: 'ah',
+      englishLiteral: 'feminine singular',
+      englishNatural: 'feminine singular',
+      function: 'feminine singular marker or abstract noun formation',
+    },
   };

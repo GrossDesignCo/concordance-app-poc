@@ -331,8 +331,8 @@ export const john_1_1: Verse = {
     englishLiteral:
       'In first was the Word, and the Word was with the God, and God was the Word.',
     englishNatural:
-      'In the beginning was the Word, and the Word was with the God, and the Word was God.',
+      'In the first was the Word, and the Word was with the God, and the Word was God.',
     kjv: 'In the beginning was the Word, and the Word was with God, and the Word was God.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
   },
 };

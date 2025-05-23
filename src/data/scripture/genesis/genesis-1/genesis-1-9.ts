@@ -199,10 +199,10 @@ export const genesis_1_9: Verse = {
     },
     {
       hebrew: 'וְתֵרָאֶ֖ה',
-      transliteration: 'veTeraah',
-      englishLiteral: 'And-let-appear',
-      englishNatural: 'appear',
-      root: 'raah',
+      transliteration: 'veTeRaah',
+      englishLiteral: 'And-be-seen',
+      englishNatural: 'be seen',
+      root: 'raah_see',
       prefixes: ['ve'],
       order: {
         hebrew: 10,
@@ -249,9 +249,9 @@ export const genesis_1_9: Verse = {
     },
     {
       hebrew: 'וַֽיְהִי־',
-      transliteration: 'vaYehi-',
-      englishLiteral: 'And-it-was',
-      englishNatural: 'And it was',
+      transliteration: 'vaVayhi-',
+      englishLiteral: 'And-was',
+      englishNatural: 'And was',
       root: 'hayah',
       prefixes: ['va'],
       order: {
@@ -289,10 +289,10 @@ export const genesis_1_9: Verse = {
   ],
   expectedTranslations: {
     hebrew: 'וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֙יִם֙ אֶל־מָקֹ֣ום אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי־כֵֽן׃',
-    transliteration: 'vaYomer Elohim yiqqavu haMayim miTachat haShamayim el-maqom echad veTeraah haYabashah vaYehi-ken',
-    englishLiteral: 'And-said, Gods, "Let-gather, the-waters, from-under the-skies, to→ place, one. And-let-appear, the-dry_ground." And-it-was so.',
-    englishNatural: 'And God said, "Let the waters gather from under the skies to one place. And let the dry-ground appear." And it was so.',
+    transliteration: 'vaYomer Elohim yiqqavu haMayim miTachat haShamayim el-maqom echad veTeRaah haYabashah vaVayhi-ken',
+    englishLiteral: 'And-said, Gods, "Let-gather, the-waters, from-under the-skies, to→ place, one. And-be-seen, the-dry_ground." And-was so.',
+    englishNatural: 'And God said, "Let the waters gather from under the skies to one place. And let the dry-ground be seen." And was so.',
     kjv: 'And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
   },
 };

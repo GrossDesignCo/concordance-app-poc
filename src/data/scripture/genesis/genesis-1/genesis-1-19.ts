@@ -8,7 +8,7 @@ export const genesis_1_19: Verse = {
   words: [
     {
       hebrew: 'וַֽיְהִי־',
-      transliteration: 'vaYehi-',
+      transliteration: 'vaVayhi-',
       englishLiteral: 'And-was',
       englishNatural: 'was',
       root: 'hayah',
@@ -56,7 +56,7 @@ export const genesis_1_19: Verse = {
     },
     {
       hebrew: 'וַֽיְהִי־',
-      transliteration: 'vaYehi-',
+      transliteration: 'vaVayhi-',
       englishLiteral: 'And-was',
       englishNatural: 'was',
       root: 'hayah',
@@ -153,10 +153,10 @@ export const genesis_1_19: Verse = {
   ],
   expectedTranslations: {
     hebrew: 'וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם רְבִיעִֽי׃',
-    transliteration: 'vaYehi-erev vaYehi-boqer yom reviyi',
+    transliteration: 'vaVayhi-erev vaVayhi-boqer yom reviyi',
     englishLiteral: 'And-was evening, And-was morning, Day fourth.',
     englishNatural: 'And evening was, And morning was, A fourth day.',
     kjv: 'And the evening and the morning were the fourth day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
   },
 }; 
