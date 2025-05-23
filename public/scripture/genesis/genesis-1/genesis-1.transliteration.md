@@ -22,7 +22,7 @@ vihi mavdil beyn mayim laMayim
 
 vaYaas Elohim et-haRaqia 
 vaYavdel beyn haMayim asher miTachat laRaqia uBeyn haMayim asher meAl laRaqia 
-vaYehi-ken
+vaVayhi-ken
 
 vaYiqra Elohim laRaqia shamayim
 
@@ -31,21 +31,21 @@ vaYehi voqer
 yom sheni
 
 vaYomer Elohim yiqqavu haMayim miTachat haShamayim el-maqom echad
-veTeraah haYabashah
-vaYehi-ken
+veTeRaah haYabashah
+vaVayhi-ken
 
 vaYiqra Elohim laYabashah eretz
 uLeMiQveh haMayim qara yamim
 vaYar Elohim ki-tov
 
 vaYomer Elohim tadShe haAretz deshe esev maZria zera etz pri oseh pri leMino asher zarO-bo al-haAretz 
-vaYehi-ken
+vaVayhi-ken
 
 vaToTze haAretz deshe esev maZria zera leMinehu veEtz oseh pri asher zarO-bo leMinehu 
 vaYar Elohim ki-tov
 
-vaYehi-erev 
-vaYehi-boqer 
+vaVayhi-erev 
+vaVayhi-boqer 
 yom shlishi
 
 vaYomer Elohim yehi meOrot birQia haShamayim leHavdil beyn haYom uBeyn haLaylah 
@@ -64,8 +64,8 @@ veLiMshol baYom uBaLaylah
 uLeHavdil beyn haOr uBeyn haHoshekh 
 vaYar Elohim ki-tov
 
-vaYehi-erev 
-vaYehi-boqer 
+vaVayhi-erev 
+vaVayhi-boqer 
 yom reviyi
 
 vaYomer Elohim yiShretsu haMayim sherets nephesh chayah 
@@ -77,6 +77,41 @@ vaYar Elohim ki-tov
 
 vaYeVarekh otam Elohim leMor peRu uReVu uMilU et-haMayim baYamim veHaOf yiRev baAretz
 
-vaYehi-erev 
-vaYehi-boqer 
+vaVayhi-erev 
+vaVayhi-boqer 
 yom hamishi
+
+vaYomer Elohim totze haAretz nephesh chayah leMinah behemah vaRemes veChayto-eretz
+
+vaYaas Elohim et-chayat haAretz leMinah 
+veEt-haBehemah leMinah 
+veEt kol-remes haAdamah leMinehu 
+vaYar Elohim ki-tov
+
+vaYomer Elohim naAseh Adam beTzalmenu kiDmuteinu 
+veYirdu biDgat haYam 
+uVeOf haShamayim 
+uVaBehemah 
+uVeKol-haAretz 
+uVeKol-haRemes haRomes al-haAretz
+
+vaYiVra Elohim et-haAdam beTsalmo
+beTselem Elohim bara oto 
+zakhar uNekevah bara otam
+
+vaYeVarech otam Elohim 
+vaYomer lahem Elohim peru uRevu uMilu et-haAretz 
+veKivshuah uRedu biDgat haYam uVeOf haShamayim uVeKol-chayah haRomeset al-haAretz
+
+vaYomer Elohim hineh natati lakhem et-kol-esev zorea zera asher al-penei kol-haAretz 
+veEt-kol-haEtz asher-bo peri-etz zorea zara lakhem yihyeh leOchlah
+
+uLeKol-chayat haAretz uLeKol-of haShamayim uLeKol romes al-haAretz asher-bo nephesh chayah et-kol-yerek esev leOchlah 
+vaVayhi-ken
+
+vaYar Elohim et kol asher asah 
+veHinneh tov meod
+
+vaYehi erev 
+vaYehi boqer 
+yom haShishi

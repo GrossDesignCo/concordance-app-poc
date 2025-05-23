@@ -22,7 +22,7 @@ and-let-be separating between waters to-waters."
 
 And-made Gods ↳ the-hammering_out, 
 and-separated, between the-waters which from-under to_the-hammering_out, and-between the-waters which from-over to_the-hammering_out. 
-And-it-was so.
+And-was so.
 
 And-called, Gods, to_the-hammering_out, "Skies."
 
@@ -31,15 +31,15 @@ And-was morning,
 Day second.
 
 And-said, Gods, "Let-gather, the-waters, from-under the-skies, to→ place, one.
-And-let-appear, the-dry_ground."
-And-it-was so.
+And-be-seen, the-dry_ground."
+And-was so.
 
 And-called, Gods, to-the-dry_ground, "Land,"
 and-to-gathering, the-waters, called, "Seas."
 And-saw, Gods, that, good.
 
-And-said Gods, "Let-sprout the-land grass, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed-in-it, over-the-land, 
-And-it_was-so.
+And-said Gods, "Let-sprout the-land sprout, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed-in-it, over-the-land, 
+And-was so.
 
 And-brought-forth the-land grass, herb seeding seed to-its-kind, and-tree making fruit which its-seed-in-it to-its-kind. 
 And-saw Gods that good.
@@ -80,3 +80,38 @@ And-blessed them, Gods saying, "Be-fruitful and-multiply and-fill ↳ the-waters
 And-was evening, 
 And-was morning, 
 Day fifth.
+
+And-said Gods, "Let-bring_forth the-land throat living, to-its-kind, beast, and-crawler, and-living_thing-of land."
+
+And-made Gods, ↳ living_thing-of the-land, to-its-kind, 
+And-↳ the-beast, to-its-kind, 
+And-↳ all crawler the-ground, to-its-kind, 
+And-saw Gods, that good.
+
+And-said Gods, "Let_us-make Human, in-our-image, as-our-likeness, 
+And-let-them-subjugate, in-fish-of the-sea, 
+And-in-flyer-of the-skies, 
+And-in-the-beast, 
+And-in-all the-land, 
+And-in-all the-crawler, the-crawling, over the-land."
+
+And-created Gods, ↳ the-human, in-his-image,
+in-image-of Gods, created him, 
+male and-female, created them.
+
+And-blessed them Gods, 
+And-said to-them Gods, "Be-fruitful and-multiply and-fill ↳ the-land, 
+And-conquer and-subjugate in-fish-of the-sea, and-in-flyer-of the-skies, and-in-all living-thing the-crawling over the-land."
+
+And-said Gods, "Notice, I-give to-you ↳ all herb seeding seed, which over face-of all the-land, 
+And-↳ all the-tree which in-it fruit-of tree seeding seed, to-you it-shall-be for-food.
+
+And-to-all living_thing-of the-land, and-to-all flyer-of the-skies, and-to-all crawler over the-land, which in-it throat living ↳ all green herb for-food." 
+And-was so.
+
+And-saw Gods, ↳ all which made, 
+And-notice, good very.
+
+And-was evening, 
+And-was morning, 
+Day the-sixth.

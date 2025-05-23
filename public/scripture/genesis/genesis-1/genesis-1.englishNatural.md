@@ -22,7 +22,7 @@ and let it be separating between waters and waters."
 
 And God made the hammering-out, 
 and separated between the waters which were under the hammering-out, and between the waters which were over the hammering-out. 
-And it was so.
+And was so.
 
 And God called the hammering-out, "Skies."
 
@@ -30,15 +30,15 @@ And evening was,
 And morning was, 
 A second day.
 
-And God said, "Let the waters gather from under the skies to one place. And let the dry-ground appear."
-And it was so.
+And God said, "Let the waters gather from under the skies to one place. And let the dry-ground be seen."
+And was so.
 
 And God called the dry-ground "Land,"
 and called the gathering of the waters "Seas."
 And God saw that-it-was good.
 
-And God said, "Let the land sprout grass, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." 
-And it was so.
+And God said, "Let the land sprout sprout, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." 
+And was so.
 
 And the land brought forth grass, herb seeding seed after its kind, and tree making fruit which has its seed in it after its kind. 
 And God saw that-it-was good.
@@ -77,3 +77,36 @@ And God blessed them, saying, "Be fruitful and multiply and fill the waters in t
 And evening was, 
 And morning was, 
 A fifth day.
+
+And God said, "Let the land bring forth living throat, to its kind, beast, and crawler, and living-thing of land."
+
+And God made, living-thing of the land, to its kind, 
+And the beast, to its kind, 
+And all crawler the ground, to its kind, 
+And God saw, that-it-was good.
+
+And God said, "Let us make Human, in our image, as our likeness, 
+And let them subjugate, among fish of the sea, 
+And among flyer of the skies, 
+And among the beast, 
+And among all the land, 
+And among all the crawler, the crawling, over the land."
+
+And God created the human, in his image,
+in image of God, created him, 
+male and female, created them.
+And God blessed them, 
+And God said to them, "Be fruitful and multiply and fill the land, 
+And conquer and subjugate among fish of the sea, and among flyer of the skies, and among all the crawling living thing over the land."
+
+And God said, "Notice, I give to you all herb seeding seed, which over the face of all the land, 
+And all the tree which in it is fruit of tree seeding seed, to you it shall be for food.
+And to all living-thing of the land, and to all flyer of the skies, and to all crawler over the land, which in it living throat: all green herb for food." 
+And was so.
+
+And God saw, all which was made, 
+And notice, very good.
+
+And evening was, 
+And morning was, 
+The sixth day.

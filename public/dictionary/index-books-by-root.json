@@ -57,6 +57,7 @@
     "genesis"
   ],
   "shesh": [
+    "genesis",
     "isaiah"
   ],
   "sheni": [
@@ -172,6 +173,9 @@
   "ken": [
     "genesis"
   ],
+  "be": [
+    "genesis"
+  ],
   "mut": [
     "numbers"
   ],
@@ -249,13 +253,23 @@
   "maal": [
     "isaiah"
   ],
+  "kenaf": [
+    "genesis",
+    "isaiah"
+  ],
+  "khasah": [
+    "isaiah"
+  ],
   "regel": [
     "isaiah"
   ],
-  "ofaf": [
-    "genesis"
+  "ritzpah": [
+    "isaiah"
   ],
-  "mizbeach": [
+  "melkach": [
+    "isaiah"
+  ],
+  "shavar": [
     "isaiah"
   ],
   "shevet": [
@@ -274,14 +288,7 @@
   "tsefa": [
     "isaiah"
   ],
-  "amad": [
-    "isaiah"
-  ],
   "hu": [
-    "isaiah"
-  ],
-  "kanaf": [
-    "genesis",
     "isaiah"
   ],
   "echad": [
@@ -292,9 +299,6 @@
     "genesis",
     "isaiah"
   ],
-  "kasah": [
-    "isaiah"
-  ],
   "uf": [
     "genesis",
     "isaiah"
@@ -302,22 +306,10 @@
   "yad": [
     "isaiah"
   ],
-  "ritspah": [
-    "isaiah"
-  ],
   "lakach": [
     "isaiah"
   ],
-  "samach": [
-    "isaiah"
-  ],
-  "peleshet": [
-    "isaiah"
-  ],
-  "melkachayim": [
-    "isaiah"
-  ],
-  "shabar": [
+  "Peleshet": [
     "isaiah"
   ],
   "nakah": [
@@ -355,9 +347,6 @@
   "maqom": [
     "genesis"
   ],
-  "raah": [
-    "genesis"
-  ],
   "yabashah": [
     "genesis"
   ],
@@ -379,6 +368,9 @@
   "ashar": [
     "proverbs"
   ],
+  "mizbeach": [
+    "isaiah"
+  ],
   "rash": [
     "proverbs"
   ],
@@ -398,6 +390,7 @@
     "genesis"
   ],
   "peri": [
+    "genesis",
     "isaiah"
   ],
   "gadol": [
@@ -441,6 +434,66 @@
   ],
   "hamish": [
     "genesis"
+  ],
+  "adamah": [
+    "genesis"
+  ],
+  "behemah": [
+    "genesis"
+  ],
+  "adam": [
+    "genesis"
+  ],
+  "tselem": [
+    "genesis"
+  ],
+  "demut": [
+    "genesis"
+  ],
+  "radah": [
+    "genesis"
+  ],
+  "dagah": [
+    "genesis"
+  ],
+  "zakhar": [
+    "genesis"
+  ],
+  "neqevah": [
+    "genesis"
+  ],
+  "hinneh": [
+    "genesis"
+  ],
+  "okhel": [
+    "genesis"
+  ],
+  "of": [
+    "genesis"
+  ],
+  "yerek": [
+    "genesis"
+  ],
+  "meod": [
+    "genesis"
+  ],
+  "kavash": [
+    "genesis"
+  ],
+  "lakhem": [
+    "genesis"
+  ],
+  "zera": [
+    "genesis"
+  ],
+  "panim": [
+    "genesis"
+  ],
+  "amad": [
+    "isaiah"
+  ],
+  "samach": [
+    "isaiah"
   ],
   "en": [
     "john",

@@ -10,7 +10,7 @@
     "build:meta-translation-progress": "tsx src/data/pipeline/generateTranslationProgress.ts",
     "build:data-lexicon-index-by-word": "tsx src/data/pipeline/generateLexiconIndex.ts",
     "build:data-root-indexes": "tsx src/data/pipeline/generateRootIndexes.ts",
-    "build:all": "npm-run-all build:data-chapters-as-markdown build:translation-progress build:data-lexicon-index && npm run build",
+    "build:all": "npm-run-all build:data-chapters-as-markdown build:meta-translation-progress build:data-lexicon-index-by-word build:data-root-indexes && npm run build",
     "start": "next start",
     "lint": "next lint",
     "test": "jest",

@@ -29,16 +29,16 @@
             "21": true,
             "22": true,
             "23": true,
-            "24": false,
-            "25": false,
-            "26": false,
-            "27": false,
-            "28": false,
-            "29": false,
-            "30": false,
-            "31": false
+            "24": true,
+            "25": true,
+            "26": true,
+            "27": true,
+            "28": true,
+            "29": true,
+            "30": true,
+            "31": true
           },
-          "progress": 74.19354838709677
+          "progress": 100
         },
         "2": {
           "chapterNumber": 2,
@@ -1837,7 +1837,7 @@
           "progress": 0
         }
       },
-      "progress": 1.6307893020221786
+      "progress": 2.152641878669276
     },
     "EXODUS": {
       "bookName": "Exodus",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 0.12538983377809215
+  "totalProgress": 0.15111082532231618
 }

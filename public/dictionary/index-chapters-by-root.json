@@ -102,6 +102,9 @@
     ]
   },
   "shesh": {
+    "genesis": [
+      1
+    ],
     "isaiah": [
       6
     ]
@@ -325,6 +328,11 @@
       1
     ]
   },
+  "be": {
+    "genesis": [
+      1
+    ]
+  },
   "mut": {
     "numbers": [
       21
@@ -462,19 +470,37 @@
       6
     ]
   },
+  "kenaf": {
+    "genesis": [
+      1
+    ],
+    "isaiah": [
+      6
+    ]
+  },
+  "khasah": {
+    "isaiah": [
+      6
+    ]
+  },
   "regel": {
     "isaiah": [
       6
     ]
   },
-  "ofaf": {
-    "genesis": [
-      1
-    ]
-  },
-  "mizbeach": {
+  "ritzpah": {
     "isaiah": [
       6
+    ]
+  },
+  "melkach": {
+    "isaiah": [
+      6
+    ]
+  },
+  "shavar": {
+    "isaiah": [
+      14
     ]
   },
   "shevet": {
@@ -505,20 +531,7 @@
       14
     ]
   },
-  "amad": {
-    "isaiah": [
-      6
-    ]
-  },
   "hu": {
-    "isaiah": [
-      6
-    ]
-  },
-  "kanaf": {
-    "genesis": [
-      1
-    ],
     "isaiah": [
       6
     ]
@@ -539,11 +552,6 @@
       6
     ]
   },
-  "kasah": {
-    "isaiah": [
-      6
-    ]
-  },
   "uf": {
     "genesis": [
       1
@@ -558,32 +566,12 @@
       6
     ]
   },
-  "ritspah": {
-    "isaiah": [
-      6
-    ]
-  },
   "lakach": {
     "isaiah": [
       6
     ]
   },
-  "samach": {
-    "isaiah": [
-      14
-    ]
-  },
-  "peleshet": {
-    "isaiah": [
-      14
-    ]
-  },
-  "melkachayim": {
-    "isaiah": [
-      6
-    ]
-  },
-  "shabar": {
+  "Peleshet": {
     "isaiah": [
       14
     ]
@@ -649,11 +637,6 @@
       1
     ]
   },
-  "raah": {
-    "genesis": [
-      1
-    ]
-  },
   "yabashah": {
     "genesis": [
       1
@@ -689,6 +672,11 @@
       22
     ]
   },
+  "mizbeach": {
+    "isaiah": [
+      6
+    ]
+  },
   "rash": {
     "proverbs": [
       22
@@ -720,6 +708,9 @@
     ]
   },
   "peri": {
+    "genesis": [
+      1
+    ],
     "isaiah": [
       14
     ]
@@ -792,6 +783,106 @@
   "hamish": {
     "genesis": [
       1
+    ]
+  },
+  "adamah": {
+    "genesis": [
+      1
+    ]
+  },
+  "behemah": {
+    "genesis": [
+      1
+    ]
+  },
+  "adam": {
+    "genesis": [
+      1
+    ]
+  },
+  "tselem": {
+    "genesis": [
+      1
+    ]
+  },
+  "demut": {
+    "genesis": [
+      1
+    ]
+  },
+  "radah": {
+    "genesis": [
+      1
+    ]
+  },
+  "dagah": {
+    "genesis": [
+      1
+    ]
+  },
+  "zakhar": {
+    "genesis": [
+      1
+    ]
+  },
+  "neqevah": {
+    "genesis": [
+      1
+    ]
+  },
+  "hinneh": {
+    "genesis": [
+      1
+    ]
+  },
+  "okhel": {
+    "genesis": [
+      1
+    ]
+  },
+  "of": {
+    "genesis": [
+      1
+    ]
+  },
+  "yerek": {
+    "genesis": [
+      1
+    ]
+  },
+  "meod": {
+    "genesis": [
+      1
+    ]
+  },
+  "kavash": {
+    "genesis": [
+      1
+    ]
+  },
+  "lakhem": {
+    "genesis": [
+      1
+    ]
+  },
+  "zera": {
+    "genesis": [
+      1
+    ]
+  },
+  "panim": {
+    "genesis": [
+      1
+    ]
+  },
+  "amad": {
+    "isaiah": [
+      6
+    ]
+  },
+  "samach": {
+    "isaiah": [
+      14
     ]
   },
   "en": {
