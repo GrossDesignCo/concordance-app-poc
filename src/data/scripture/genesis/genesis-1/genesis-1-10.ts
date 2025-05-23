@@ -58,7 +58,7 @@ export const genesis_1_10: Verse = {
     {
       hebrew: 'לַיַּבָּשָׁה֙',
       transliteration: 'laYabashah',
-      englishLiteral: 'to-the-dry_ground',
+      englishLiteral: 'to_the-dry_ground',
       englishNatural: 'the dry-ground',
       root: 'yabashah',
       prefixes: ['la'],
@@ -275,9 +275,9 @@ export const genesis_1_10: Verse = {
   expectedTranslations: {
     hebrew: 'וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃',
     transliteration: 'vaYiqra Elohim laYabashah eretz uLeMiQveh haMayim qara yamim vaYar Elohim ki-tov',
-    englishLiteral: 'And-called, Gods, to-the-dry_ground, "Land," and-to-gathering, the-waters, called, "Seas." And-saw, Gods, that, good.',
+    englishLiteral: 'And-called, Gods, to_the-dry_ground, "Land," and-to-gathering, the-waters, called, "Seas." And-saw, Gods, that, good.',
     englishNatural: 'And God called the dry-ground "Land," and called the gathering of the waters "Seas." And God saw that-it-was good.',
     kjv: 'And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
   },
 }; 

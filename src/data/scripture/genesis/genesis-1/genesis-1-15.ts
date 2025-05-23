@@ -49,10 +49,10 @@ export const genesis_1_15: Verse = {
     },
     {
       hebrew: 'בִּרְקִ֣יעַ',
-      transliteration: 'birQia',
+      transliteration: 'biRqia',
       englishLiteral: 'in-hammering_out',
       englishNatural: 'in the hammering-out',
-      root: 'raqa',
+      root: 'raqia',
       prefixes: ['be'],
       order: {
         hebrew: 3,
@@ -140,10 +140,10 @@ export const genesis_1_15: Verse = {
   ],
   expectedTranslations: {
     hebrew: 'וְהָי֤וּ לִמְאוֹרֹ֖ת בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהָאִ֖יר עַל־הָאָ֑רֶץ',
-    transliteration: 'veHayu liMeOrot birQia haShamayim leHair al-haAretz',
+    transliteration: 'veHayu liMeOrot biRqia haShamayim leHair al-haAretz',
     englishLiteral: 'And-they-will-be for-lights in-hammering_out the-skies, to-shine_light over the-land.',
     englishNatural: 'And they will be for lights in the hammering-out, the skies, to shine-light over the land.',
     kjv: 'And let them be for lights in the firmament of the heaven to give light upon the earth:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-19' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
   },
 }; 

@@ -48,17 +48,17 @@ vaVayhi-erev
 vaVayhi-boqer 
 yom shlishi
 
-vaYomer Elohim yehi meOrot birQia haShamayim leHavdil beyn haYom uBeyn haLaylah 
+vaYomer Elohim yehi meOrot biRqia haShamayim leHavdil beyn haYom uBeyn haLaylah 
 veHayu leOtot uLeMoedim uLeYamim veShanim
 
-veHayu liMeOrot birQia haShamayim leHair al-haAretz
+veHayu liMeOrot biRqia haShamayim leHair al-haAretz
 
 vaYaas Elohim et-shney haMeOrot haGdolim 
 et-haMaor haGadol leMemShelet haYom 
 veEt-haMaor haQaton leMemShelet haLaylah 
 veEt haKokhavim
 
-vaYiten otam Elohim birQia haShamayim leHair al-haAretz
+vaYiten otam Elohim biRqia haShamayim leHair al-haAretz
 
 veLiMshol baYom uBaLaylah 
 uLeHavdil beyn haOr uBeyn haHoshekh 

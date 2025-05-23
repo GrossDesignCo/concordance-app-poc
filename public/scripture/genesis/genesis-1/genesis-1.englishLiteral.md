@@ -10,7 +10,7 @@ And-was light.
 And-saw Gods ↳ the-light that good. 
 And-separated Gods between the-light, and-between the-darkness.
 
-And-called Gods to-light, "Day,"
+And-called Gods to_the-light, "Day,"
 and-to-darkness, called, "Night."
 
 And-was, evening, 
@@ -34,7 +34,7 @@ And-said, Gods, "Let-gather, the-waters, from-under the-skies, to→ place, one.
 And-be-seen, the-dry_ground."
 And-was so.
 
-And-called, Gods, to-the-dry_ground, "Land,"
+And-called, Gods, to_the-dry_ground, "Land,"
 and-to-gathering, the-waters, called, "Seas."
 And-saw, Gods, that, good.
 

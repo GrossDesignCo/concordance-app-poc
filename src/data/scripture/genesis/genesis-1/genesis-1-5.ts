@@ -46,7 +46,7 @@ export const genesis_1_5: Verse = {
     {
       hebrew: 'לָא֔וֹר',
       transliteration: 'laOr',
-      englishLiteral: 'to-light',
+      englishLiteral: 'to_the-light',
       englishNatural: 'light',
       root: 'or',
       prefixes: ['la'],
@@ -311,9 +311,9 @@ export const genesis_1_5: Verse = {
   expectedTranslations: {
     hebrew: 'וַיִּקְרָ֨א אֱלֹהִ֤ים לָא֔וֹר י֑וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם אֶחָֽד',
     transliteration: 'vaYiqra Elohim laOr yom veLaChoshekh qara laylah vaYehi erev vaYehi voqer yom echad',
-    englishLiteral: 'And-called Gods to-light, "Day," and-to-darkness, called, "Night." And-was, evening, And-was, morning, Day one.',
+    englishLiteral: 'And-called Gods to_the-light, "Day," and-to-darkness, called, "Night." And-was, evening, And-was, morning, Day one.',
     englishNatural: 'And God called light "Day," and called darkness "Night." And evening was, And morning was, One day.',
     kjv: 'And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-15' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
   },
 }; 

@@ -98,10 +98,10 @@ export const genesis_1_14: Verse = {
     },
     {
       hebrew: 'בִּרְקִ֣יעַ',
-      transliteration: 'birQia',
+      transliteration: 'biRqia',
       englishLiteral: 'in-hammering_out',
       englishNatural: 'in the hammering-out',
-      root: 'raqa',
+      root: 'raqia',
       prefixes: ['be'],
       order: {
         hebrew: 5,
@@ -335,10 +335,10 @@ export const genesis_1_14: Verse = {
   ],
   expectedTranslations: {
     hebrew: 'וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֤י מְאֹרֹ֖ת בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֥ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹ֔ת וּלְמוֹעֲדִ֖ים וּלְיָמִ֣ים וְשָׁנִֽים',
-    transliteration: 'vaYomer Elohim yehi meOrot birQia haShamayim leHavdil beyn haYom uBeyn haLaylah veHayu leOtot uLeMoedim uLeYamim veShanim',
+    transliteration: 'vaYomer Elohim yehi meOrot biRqia haShamayim leHavdil beyn haYom uBeyn haLaylah veHayu leOtot uLeMoedim uLeYamim veShanim',
     englishLiteral: 'And-said Gods, "Let-be lights in-hammering_out, the-skies, to-separate between the-day, and-between the-night, And-they-will-be for-signs, and-for-appointed_times, and-for-days, and-years.',
     englishNatural: 'And God said, "Let there be lights in the hammering-out, the skies, to separate between the day, and between the night, And they will be for signs, and for appointed-times, and for days, and years.',
     kjv: 'And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
   },
 }; 

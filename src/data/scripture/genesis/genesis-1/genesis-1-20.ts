@@ -253,7 +253,7 @@ export const genesis_1_20: Verse = {
     },
     {
       hebrew: 'רְקִ֥יעַ',
-      transliteration: 'reQia',
+      transliteration: 'raqia',
       englishLiteral: 'hammering_out',
       englishNatural: 'the hammering-out',
       root: 'raqia',
@@ -296,7 +296,7 @@ export const genesis_1_20: Verse = {
   ],
   expectedTranslations: {
     hebrew: 'וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ עַל־פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם׃',
-    transliteration: 'vaYomer Elohim yiShretsu haMayim sherets nephesh chayah veOf yeOfef al-haAretz al-peNey reQia haShamayim',
+    transliteration: 'vaYomer Elohim yiShretsu haMayim sherets nephesh chayah veOf yeOfef al-haAretz al-peNey raqia haShamayim',
     englishLiteral: 'And-said Gods, "Let-swarm the-waters swarm throat living, And-flyer let-fly over the-land, over face-of hammering_out, the-skies."',
     englishNatural: 'And God said, "Let the waters swarm with a swarm, living throat, And let flyer fly over the land, over the face of the hammering-out, the skies."',
     kjv: 'And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.',
