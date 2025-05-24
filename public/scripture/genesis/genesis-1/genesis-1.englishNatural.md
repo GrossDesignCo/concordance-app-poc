@@ -40,7 +40,7 @@ And God saw, that it was good.
 And God said, "Let the land tenderly-shoot-up tender-shoot, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." 
 And it was so.
 
-And the land brought forth grass, herb seeding seed after its kind, and tree making fruit which has its seed in it after its kind. 
+And the land brought-out tender-shoot, herb seeding seed after its kind, and tree making fruit which has its seed in it after its kind. 
 And God saw, that it was good.
 
 And evening was, 
@@ -80,7 +80,7 @@ And evening was,
 And morning was, 
 A fifth day.
 
-And God said, "Let the land bring forth living throat, to its kind, beast, and crawler, and living-thing of land."
+And God said, "Let the land bring-out living throat, to its kind, beast, and crawler, and living-thing of land."
 
 And God made, living-thing of the land, to its kind, 
 And the beast, to its kind, 
@@ -104,7 +104,7 @@ And to all living-thing of the land, and to all flyer of the skies, and to all c
 And it was so.
 
 And God saw, all which was made, 
-And notice, very good.
+And behold, very good.
 
 And evening was, 
 And morning was, 

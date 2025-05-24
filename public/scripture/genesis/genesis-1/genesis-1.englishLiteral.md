@@ -41,7 +41,7 @@ And-saw Gods, that- good.
 And-said Gods, "Let-tenderly_shoot_up the-land tender_shoot, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed- in-it, over- the-land." 
 And-was- so.
 
-And-brought-forth the-land grass, herb seeding seed to-its-kind, and-tree making fruit which its-seed-in-it to-its-kind. 
+And-brought-out the-land tender_shoot, herb seeding seed to-its-kind, and-tree making fruit which its-seed-in-it to-its-kind. 
 And-saw Gods, that- good.
 
 And-was evening, 
@@ -83,7 +83,7 @@ And-was evening,
 And-was morning, 
 Day fifth.
 
-And-said Gods, "Let-bring_forth the-land throat living, to-its-kind, beast, and-crawler, and-living_thing-of land."
+And-said Gods, "Let-bring_out the-land throat living, to-its-kind, beast, and-crawler, and-living_thing-of land."
 
 And-made Gods, ↳ living_thing-of the-land, to-its-kind, 
 And-↳ the-beast, to-its-kind, 
@@ -108,7 +108,7 @@ And-to-all living_thing-of the-land, and-to-all flyer-of the-skies, and-to-all c
 And-was so.
 
 And-saw Gods, ↳ all which made, 
-And-notice, good very.
+And-behold, good very.
 
 And-was evening, 
 And-was morning, 

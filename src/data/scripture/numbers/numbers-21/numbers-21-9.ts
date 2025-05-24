@@ -32,8 +32,8 @@ export const numbers_21_9: Verse = {
     {
       hebrew: 'מֹשֶׁה',
       transliteration: 'Moshe',
-      englishLiteral: 'Moses',
-      englishNatural: 'And Moses',
+      englishLiteral: 'Draws_Out (Moses)',
+      englishNatural: 'And Draws-Out (Moses)',
       root: 'moshe',
       order: {
         hebrew: 2,
@@ -360,10 +360,10 @@ export const numbers_21_9: Verse = {
     transliteration:
       'vaYaas Moshe nechash nechoshet vaYeSimehu al haNes veHayah im nashakh haNachash et ish veHibit el nechash haNechoshet vaChai',
     englishLiteral:
-      'And-made, Moses, snake, bronze, and-he-placed-it on the-standard, and-it-was, if struck the-snake ↳ man, and-he-looked to snake, the-bronze, and-lived.',
+      'And-made, Draws_Out (Moses), snake, bronze, and-he-placed-it on the-standard, and-it-was, if struck the-snake ↳ man, and-he-looked to snake, the-bronze, and-lived.',
     englishNatural:
-      'And Moses made a bronze snake, and he placed it on the standard; and it came about, if the snake struck a man, and he looked to the bronze snake, he lived.',
+      'And Draws-Out (Moses) made a bronze snake, and he placed it on the standard; and it came about, if the snake struck a man, and he looked to the bronze snake, he lived.',
     kjv: 'And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
 },
 };

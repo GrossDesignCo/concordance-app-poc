@@ -29,8 +29,8 @@ export const numbers_21_8: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'I_AM',
-      englishNatural: 'And I-AM',
+      englishLiteral: 'He_Who_Is',
+      englishNatural: 'And He-Who-Is',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -59,8 +59,8 @@ export const numbers_21_8: Verse = {
     {
       hebrew: 'מֹשֶׁה',
       transliteration: 'Moshe',
-      englishLiteral: 'Moses',
-      englishNatural: 'Moses',
+      englishLiteral: 'Draws_Out (Moses)',
+      englishNatural: 'Draws-Out (Moses)',
       root: 'moshe',
       order: {
         hebrew: 4,
@@ -345,10 +345,10 @@ export const numbers_21_8: Verse = {
     transliteration:
       'vaYomer YHWH el Moshe aseh lekha saraph veSim oto al nes veHayah kol haNashukh veRaah oto vaChai',
     englishLiteral:
-      'And-said I_AM to Moses, "Make for-yourself burning_one, and-place it over standard, and-it-will-be, all the-struck, and-sees it, and-lives."',
+      'And-said He_Who_Is to Draws_Out (Moses), "Make for-yourself burning_one, and-place it over standard, and-it-will-be, all the-struck, and-sees it, and-lives."',
     englishNatural:
-      'And I-AM said to Moses, "Make for yourself a burning-one, and place it over a standard; and it shall come about, everyone who is struck, and sees it, will live."',
+      'And He-Who-Is said to Draws-Out (Moses), "Make for yourself a burning-one, and place it over a standard; and it shall come about, everyone who is struck, and sees it, will live."',
     kjv: 'And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
 };

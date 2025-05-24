@@ -35,8 +35,8 @@ export const numbers_21_6: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'I_AM',
-      englishNatural: 'And I-AM',
+      englishLiteral: 'He_Who_Is',
+      englishNatural: 'And He-Who-Is',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -212,7 +212,7 @@ export const numbers_21_6: Verse = {
         englishNatural: '.',
       },
       lineBreaksAfter: {
-        english: 2,
+        english: 1,
       },
     },
     {
@@ -257,8 +257,8 @@ export const numbers_21_6: Verse = {
     {
       hebrew: 'מִיִּשְׂרָאֵל',
       transliteration: 'miYisrael',
-      englishLiteral: 'from-Struggles_With_God',
-      englishNatural: 'of Struggles-With-God',
+      englishLiteral: 'from-Struggles_with_God (Israel)',
+      englishNatural: 'of Struggles-with-God (Israel)',
       root: 'yisrael',
       prefixes: ['mi'],
       order: {
@@ -274,7 +274,7 @@ export const numbers_21_6: Verse = {
         englishLiteral: '.',
       },
       lineBreaksAfter: {
-        hebrew: 2,
+        hebrew: 1,
       },
     },
   ],
@@ -284,10 +284,10 @@ export const numbers_21_6: Verse = {
     transliteration:
       'vaYeshalach YHWH baAm et haNechashim haSeraphim vaYeNashkhu et haAm vaYamat am rav miYisrael',
     englishLiteral:
-      'And-sent, I_AM, among-the-people ↳ the-snakes, the-burning_ones, and-they-struck ↳ the-people, and-died, people, many, from-Struggles_With_God.',
+      'And-sent, He_Who_Is, among-the-people ↳ the-snakes, the-burning_ones, and-they-struck ↳ the-people, and-died, people, many, from-Struggles_with_God (Israel).',
     englishNatural:
-      'And I-AM sent the snakes, the burning-ones, among the people, and they struck the people; and many people of Struggles-With-God died.',
+      'And He-Who-Is sent the snakes, the burning-ones, among the people, and they struck the people; and many people of Struggles-with-God (Israel) died.',
     kjv: 'And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
 };

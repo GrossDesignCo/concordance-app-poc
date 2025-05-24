@@ -1,13 +1,6 @@
 /**
  * Dictionary of Hebrew suffixes
  */
-interface SuffixElement {
-  hebrew: string;
-  transliteration: string;
-  englishLiteral: string;
-  englishNatural: string;
-  function?: string;
-}
 
 const SUFFIXES = {
   im: {
@@ -194,6 +187,15 @@ const SUFFIXES = {
   },
 } as const;
 
-// Type-safe export of the suffixes
-export const suffixes: Record<keyof typeof SUFFIXES, SuffixElement> =
-  SUFFIXES;
+type SuffixKey = keyof typeof SUFFIXES;
+
+interface SuffixElement {
+  hebrew: string;
+  transliteration: string;
+  englishLiteral: string;
+  englishNatural: string;
+  function?: string;
+}
+
+// Type-safe export for Hebrew Dictionary
+export const suffixes: Record<SuffixKey, SuffixElement> = SUFFIXES;

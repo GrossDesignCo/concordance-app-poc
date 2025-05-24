@@ -58,8 +58,8 @@ export const genesis_1_24: Verse = {
     {
       hebrew: 'תּוֹצֵ֨א',
       transliteration: 'totze',
-      englishLiteral: 'Let-bring_forth',
-      englishNatural: 'bring forth',
+      englishLiteral: 'Let-bring_out',
+      englishNatural: 'bring-out',
       root: 'yatsa',
       order: {
         hebrew: 3,
@@ -239,9 +239,9 @@ export const genesis_1_24: Verse = {
   expectedTranslations: {
     hebrew: 'וַיֹּ֣אמֶר אֱלֹהִ֔ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ־אֶ֖רֶץ',
     transliteration: 'vaYomer Elohim totze haAretz nephesh chayah leMinah behemah vaRemes veChayto-eretz',
-    englishLiteral: 'And-said Gods, "Let-bring_forth the-land throat living, to-its-kind, beast, and-crawler, and-living_thing-of land."',
-    englishNatural: 'And God said, "Let the land bring forth living throat, to its kind, beast, and crawler, and living-thing of land."',
+    englishLiteral: 'And-said Gods, "Let-bring_out the-land throat living, to-its-kind, beast, and-crawler, and-living_thing-of land."',
+    englishNatural: 'And God said, "Let the land bring-out living throat, to its kind, beast, and crawler, and living-thing of land."',
     kjv: 'And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
 }; 

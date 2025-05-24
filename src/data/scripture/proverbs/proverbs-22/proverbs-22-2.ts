@@ -116,8 +116,8 @@ export const proverbs_22_2: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'I_AM',
-      englishNatural: 'I-AM',
+      englishLiteral: 'He_Who_Is',
+      englishNatural: 'He-Who-Is',
       root: 'yhwh',
       order: {
         hebrew: 7,
@@ -155,9 +155,9 @@ export const proverbs_22_2: Verse = {
   expectedTranslations: {
     hebrew: 'עָשִׁיר וָרָשׁ נִפְגָּשׁוּ זֶה עִם זֶה יְהוָה עָשָׂה',
     transliteration: 'ashir vaRash niFgashu zeh im zeh YHWH asah',
-    englishLiteral: 'Rich and-Poor meet this with this I_AM made.',
-    englishNatural: 'Rich and Poor meet together; with this I-AM made.',
+    englishLiteral: 'Rich and-Poor meet this with this He_Who_Is made.',
+    englishNatural: 'Rich and Poor meet together; with this He-Who-Is made.',
     kjv: 'The rich and poor meet together: the LORD is the maker of them all.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
 }; 

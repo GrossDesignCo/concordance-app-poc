@@ -1,16 +1,9 @@
 import { HebrewWordMorphology } from '@/types';
+import { GreekRootKey } from '../greek';
 
-// Dictionary of Hebrew linguistic elements
-interface RootElement {
-  hebrew: string;
-  transliteration: string;
-  englishLiteral: string;
-  englishNatural: string;
-  type?: HebrewWordMorphology['type'];
-}
-
-
-// Constant version of Hebrew roots
+/**
+ * Dictionary of Hebrew root words
+ */
 const ROOTS = {
   rosh: {
     hebrew: 'ראשׁ',
@@ -18,6 +11,7 @@ const ROOTS = {
     englishLiteral: 'head',
     englishNatural: 'head',
     type: 'noun',
+    translatedTo: ['arche'],
   },
   bara: {
     hebrew: 'ברא',
@@ -32,12 +26,14 @@ const ROOTS = {
     englishLiteral: 'God',
     englishNatural: 'God',
     type: 'noun',
+    translatedTo: ['theos'],
   },
   amar: {
     hebrew: 'אמר',
     transliteration: 'amar',
     englishLiteral: 'to say',
     englishNatural: 'to say',
+    related: ['dabar'],
     type: 'verb',
   },
   hayah: {
@@ -45,7 +41,9 @@ const ROOTS = {
     transliteration: 'hayah',
     englishLiteral: 'to be',
     englishNatural: 'to be',
+    related: ['chayah'],
     type: 'verb',
+    translatedTo: ['eimi'],
   },
   or: {
     hebrew: 'אור',
@@ -101,6 +99,7 @@ const ROOTS = {
     transliteration: 'panah',
     englishLiteral: 'face',
     englishNatural: 'face',
+    description: 'the front, the face, the front of, the face of',
     type: 'noun',
   },
   tehom: {
@@ -129,6 +128,7 @@ const ROOTS = {
     transliteration: 'mayim',
     englishLiteral: 'waters',
     englishNatural: 'waters',
+    related: ['shamayim'],
     type: 'noun',
   },
   shamayim: {
@@ -136,6 +136,7 @@ const ROOTS = {
     transliteration: 'shamayim',
     englishLiteral: 'skies',
     englishNatural: 'skies',
+    related: ['mayim'],
     type: 'noun',
   },
   shesh: {
@@ -209,6 +210,7 @@ const ROOTS = {
     englishLiteral: 'shrewd',
     englishNatural: 'shrewd',
     type: 'adjective',
+    translatedTo: ['phronimos'],
   },
   raah_see: {
     hebrew: 'ראה',
@@ -222,6 +224,8 @@ const ROOTS = {
     transliteration: 'ra`ah',
     englishLiteral: 'bad',
     englishNatural: 'bad',
+    description: 'general word for bad, also evil, disaster',
+    related: ['tov'],
     type: 'adjective',
   },
   satar: {
@@ -229,6 +233,7 @@ const ROOTS = {
     transliteration: 'satar',
     englishLiteral: 'to hide',
     englishNatural: 'to hide',
+    related: ['atar'],
     type: 'verb',
   },
   peti: {
@@ -243,6 +248,7 @@ const ROOTS = {
     transliteration: 'avar',
     englishLiteral: 'to pass',
     englishNatural: 'to pass',
+    description: 'to pass, to continue onward',
     type: 'verb',
   },
   anash: {
@@ -258,7 +264,9 @@ const ROOTS = {
     transliteration: 'nachash',
     englishLiteral: 'snake',
     englishNatural: 'snake',
+    related: ['nashakh', 'nakah'],
     type: 'noun',
+    translatedTo: ['ophis'],
   },
   kol: {
     hebrew: 'כל',
@@ -270,8 +278,9 @@ const ROOTS = {
   chayah: {
     hebrew: 'חיה',
     transliteration: 'chayah',
-    englishLiteral: 'living-thing',
-    englishNatural: 'lifeform',
+    englishLiteral: 'living_thing',
+    englishNatural: 'living-thing',
+    related: ['hayah'],
     type: 'noun',
   },
   sadeh: {
@@ -293,6 +302,7 @@ const ROOTS = {
     transliteration: 'ishah',
     englishLiteral: 'woman',
     englishNatural: 'woman',
+    related: ['ish'],
     type: 'noun',
   },
   akhal: {
@@ -300,6 +310,7 @@ const ROOTS = {
     transliteration: 'akhal',
     englishLiteral: 'to eat',
     englishNatural: 'to eat',
+    related: ['okhel'],
     type: 'verb',
   },
   gan: {
@@ -321,14 +332,17 @@ const ROOTS = {
     transliteration: 'asher',
     englishLiteral: 'which',
     englishNatural: 'which',
+    description: 'which, that, which it is, which is in it, which has',
     type: 'relative',
   },
   yhwh: {
     hebrew: 'יְהוָה',
     transliteration: 'YHWH',
-    englishLiteral: 'I_AM',
-    englishNatural: 'I-AM',
+    englishLiteral: 'He_Who_Is',
+    englishNatural: 'He-Who-Is',
+    description: 'Unique form of hayah, the tetragrammaton, more literally, The One Who Always Is, or He who causes to be. Distinct form from other forms like "I Am" or "He is".',
     type: 'noun',
+    translatedTo: ['ego'],
   },
   el: {
     hebrew: 'אֶל',
@@ -342,6 +356,7 @@ const ROOTS = {
     transliteration: 'af',
     englishLiteral: 'Indeed?',
     englishNatural: 'Indeed?',
+    description: 'Exclamation of surprise or disbelief',
     type: 'interrogative',
   },
   ki: {
@@ -349,6 +364,7 @@ const ROOTS = {
     transliteration: 'ki',
     englishLiteral: 'that',
     englishNatural: 'that',
+    description: 'that, that it is, that is, for, because',
     type: 'relative',
   },
   lo: {
@@ -363,6 +379,7 @@ const ROOTS = {
     transliteration: 'dasha',
     englishLiteral: 'tender_shoot',
     englishNatural: 'tender-shoot',
+    description: 'a tender shoot, a young plant, a sprouting, small greenery or grasses',
     type: 'noun',
   },
   esev: {
@@ -399,6 +416,7 @@ const ROOTS = {
     transliteration: 'tokh',
     englishLiteral: 'midst',
     englishNatural: 'midst',
+    description: 'the middle, the center, the midst, the midst of',
     type: 'noun',
   },
   ken: {
@@ -406,6 +424,7 @@ const ROOTS = {
     transliteration: 'ken',
     englishLiteral: 'so',
     englishNatural: 'so',
+    description: 'so, thus, therefore, thusly, therefore so',
     type: 'adverb',
   },
   naga: {
@@ -420,6 +439,7 @@ const ROOTS = {
     transliteration: 'be',
     englishLiteral: 'in',
     englishNatural: 'in',
+    description: 'in and among, like "in" the flock',
     type: 'preposition',
   },
   mut: {
@@ -442,6 +462,7 @@ const ROOTS = {
     transliteration: 'saraph',
     englishLiteral: 'to burn',
     englishNatural: 'to burn',
+    related: ['seraph'],
     type: 'verb',
   },
   shalach: {
@@ -484,6 +505,7 @@ const ROOTS = {
     transliteration: 'dabar',
     englishLiteral: 'to speak',
     englishNatural: 'to speak',
+    related: ['amar'],
     type: 'verb',
   },
   palal: {
@@ -498,20 +520,23 @@ const ROOTS = {
     transliteration: 'sur',
     englishLiteral: 'to turn_aside',
     englishNatural: 'to turn-aside',
+    description: 'to turn aside, to turn away, to turn from, to remove',
     type: 'verb',
   },
   ad: {
     hebrew: 'עד',
     transliteration: 'ad',
-    englishLiteral: 'until',
-    englishNatural: 'behalf',
+    englishLiteral: 'on_behalf_of',
+    englishNatural: 'on-behalf-of',
+    description: 'can also mean: as far as, through, until',
     type: 'preposition',
   },
   moshe: {
     hebrew: 'משׁה',
     transliteration: 'Moshe',
-    englishLiteral: 'Moses',
-    englishNatural: 'Moses',
+    englishLiteral: 'Draws_Out (Moses)',
+    englishNatural: 'Draws-Out (Moses)',
+    description: 'Moses, who was drawn out of the water, and who drew out the Israelites',
     type: 'noun',
   },
   atah: {
@@ -533,6 +558,8 @@ const ROOTS = {
     transliteration: 'nashakh',
     englishLiteral: 'to strike',
     englishNatural: 'to strike',
+    description: 'flipped consonants from the word for snake, sometimes used to mean charging interest',
+    related: ['nachash'],
     type: 'verb',
   },
   sim: {
@@ -540,6 +567,7 @@ const ROOTS = {
     transliteration: 'sim',
     englishLiteral: 'to place',
     englishNatural: 'to place',
+    description: 'to place, to set down, like to place a book on a shelf',
     type: 'verb',
   },
   im: {
@@ -561,6 +589,7 @@ const ROOTS = {
     transliteration: 'ish',
     englishLiteral: 'man',
     englishNatural: 'man',
+    related: ['ishah'],
     type: 'noun',
   },
   nabat: {
@@ -573,8 +602,9 @@ const ROOTS = {
   yisrael: {
     hebrew: 'ישׂראל',
     transliteration: 'yisrael',
-    englishLiteral: 'Israel',
-    englishNatural: 'Israel',
+    englishLiteral: 'Struggles_with_God (Israel)',
+    englishNatural: 'Struggles-with-God (Israel)',
+    description: 'the people of Israel, the children of Israel, the people of Jacob',
     type: 'noun',
   },
   // Additional roots from Numbers 21:1-9
@@ -589,7 +619,9 @@ const ROOTS = {
     hebrew: 'אתר',
     transliteration: 'atar',
     englishLiteral: 'to spy',
-    englishNatural: 'to scout',
+    englishNatural: 'to spy',
+    description: 'to spy, to scout, to observe, to watch',
+    related: ['satar'],
     type: 'verb',
   },
   lacham: {
@@ -598,20 +630,6 @@ const ROOTS = {
     englishLiteral: 'to fight',
     englishNatural: 'to fight',
     type: 'verb',
-  },
-  shavah: {
-    hebrew: 'שׁבה',
-    transliteration: 'shavah',
-    englishLiteral: 'to capture',
-    englishNatural: 'to capture',
-    type: 'verb',
-  },
-  shevi: {
-    hebrew: 'שׁבי',
-    transliteration: 'shevi',
-    englishLiteral: 'captive',
-    englishNatural: 'captive',
-    type: 'noun',
   },
   // Additional missing roots
   yashav: {
@@ -625,7 +643,8 @@ const ROOTS = {
     hebrew: 'נגב',
     transliteration: 'negev',
     englishLiteral: 'south',
-    englishNatural: 'Negev',
+    englishNatural: 'south',
+    description: 'the southern region, the Negev desert',
     type: 'noun',
   },
   // Add missing root for direct object marker
@@ -634,6 +653,7 @@ const ROOTS = {
     transliteration: 'et',
     englishLiteral: '↳',
     englishNatural: '',
+    description: 'a direct object marker, points to the object of the verb',
     type: 'particle',
   },
   // Add missing root for 'on/upon'
@@ -642,6 +662,7 @@ const ROOTS = {
     transliteration: 'al',
     englishLiteral: 'over',
     englishNatural: 'over',
+    description: 'over, upon, above, on, upon, above, on top of, on the top of',
     type: 'preposition',
   },
   // Isaiah roots
@@ -650,6 +671,8 @@ const ROOTS = {
     transliteration: 'seraph',
     englishLiteral: 'burning_one',
     englishNatural: 'burning-one',
+    description: 'a thing/one that/who burns',
+    related: ['saraph'],
     type: 'noun',
   },
   omed: {
@@ -664,6 +687,7 @@ const ROOTS = {
     transliteration: 'maal',
     englishLiteral: 'above',
     englishNatural: 'above',
+    related: ['al'],
     type: 'preposition',
   },
   kenaf: {
@@ -692,6 +716,7 @@ const ROOTS = {
     transliteration: 'ritzpah',
     englishLiteral: 'live_coal',
     englishNatural: 'live-coal',
+    description: 'a glowing stone, heated to the point of glowing hot',
     type: 'noun',
   },
   melkach: {
@@ -707,13 +732,6 @@ const ROOTS = {
     englishLiteral: 'to rejoice',
     englishNatural: 'to rejoice',
     type: 'verb',
-  },
-  kalah: {
-    hebrew: 'כלה',
-    transliteration: 'kalah',
-    englishLiteral: 'all',
-    englishNatural: 'all',
-    type: 'adjective',
   },
   shavar: {
     hebrew: 'שבר',
@@ -746,8 +764,9 @@ const ROOTS = {
   yatsa: {
     hebrew: 'יצא',
     transliteration: 'yatsa',
-    englishLiteral: 'to come_forth',
-    englishNatural: 'to come-forth',
+    englishLiteral: 'to bring_out',
+    englishNatural: 'to bring-out',
+    description: 'to come out, to bring out, to bring forth',
     type: 'verb',
   },
   tsefa: {
@@ -802,8 +821,9 @@ const ROOTS = {
   Peleshet: {
     hebrew: 'פלשת',
     transliteration: 'Peleshet',
-    englishLiteral: 'Philistia',
-    englishNatural: 'Philistia',
+    englishLiteral: 'Wallowers (Philistia)',
+    englishNatural: 'Wallowers (Philistia)',
+    description: 'the Philistines, from the hebrew word for wallowing or rolling in the mud',
     type: 'noun',
   },
   shabar: {
@@ -816,8 +836,10 @@ const ROOTS = {
   nakah: {
     hebrew: 'נָכָה',
     transliteration: 'nakah',
-    englishLiteral: 'to strike',
-    englishNatural: 'to strike',
+    englishLiteral: 'to strike_down',
+    englishNatural: 'to strike-down',
+    description: 'to strike down, to defeat militarily, to strike out of existence',
+    related: ['nachash', 'nashakh'],
     type: 'verb',
   },
   tov: {
@@ -825,6 +847,7 @@ const ROOTS = {
     transliteration: 'tov',
     englishLiteral: 'good',
     englishNatural: 'good',
+    related: ['raah_bad'],
     type: 'adjective',
   },
   badal: {
@@ -846,6 +869,7 @@ const ROOTS = {
     transliteration: 'qara',
     englishLiteral: 'to call',
     englishNatural: 'to call',
+    description: 'to call, to call out to, to name, to call by name',
     type: 'verb',
   },
   yom: {
@@ -853,6 +877,7 @@ const ROOTS = {
     transliteration: 'yom',
     englishLiteral: 'day',
     englishNatural: 'day',
+    related: ['layil'],
     type: 'noun',
   },
   layil: {
@@ -860,6 +885,7 @@ const ROOTS = {
     transliteration: 'layil',
     englishLiteral: 'night',
     englishNatural: 'night',
+    related: ['yom'],
     type: 'noun',
   },
   raqia: {
@@ -867,20 +893,24 @@ const ROOTS = {
     transliteration: 'raqia',
     englishLiteral: 'hammering_out',
     englishNatural: 'hammering-out',
+    description: 'a thing made by the process of hammering out thin',
     type: 'noun',
+    related: ['raqa']
   },
   raqa: {
     hebrew: 'רקע',
     transliteration: 'raqa',
     englishLiteral: 'to hammer_out',
     englishNatural: 'to hammer-out',
+    description: 'to hammer metal out thin or stretch into a sheet',
     type: 'verb',
+    related: ['raqia']
   },
   qavah: {
     hebrew: 'קוה',
     transliteration: 'qavah',
-    englishLiteral: 'gather',
-    englishNatural: 'gather',
+    englishLiteral: 'to gather',
+    englishNatural: 'to gather',
     type: 'verb',
   },
   maqom: {
@@ -929,8 +959,9 @@ const ROOTS = {
   yalad: {
     hebrew: 'ילד',
     transliteration: 'yalad',
-    englishLiteral: 'bear',
-    englishNatural: 'bear',
+    englishLiteral: 'to birth',
+    englishNatural: 'to birth',
+    description: 'to bear, to give birth, to conceive, to be born',
     type: 'verb',
   },
   ashar: {
@@ -938,6 +969,7 @@ const ROOTS = {
     transliteration: 'ashar',
     englishLiteral: 'rich',
     englishNatural: 'rich',
+    related: ['rash'],
     type: 'adjective',
   },
   mizbeach: {
@@ -952,6 +984,7 @@ const ROOTS = {
     transliteration: 'rash',
     englishLiteral: 'poor',
     englishNatural: 'poor',
+    related: ['ashar'],
     type: 'adjective',
   },
   pagash: {
@@ -973,6 +1006,7 @@ const ROOTS = {
     transliteration: 'ot',
     englishLiteral: 'sign',
     englishNatural: 'sign',
+    related: ['or'],
     type: 'noun',
   },
   moed: {
@@ -994,6 +1028,7 @@ const ROOTS = {
     transliteration: 'peri',
     englishLiteral: 'fruit',
     englishNatural: 'fruit',
+    related: ['parah'],
     type: 'noun',
   },
   // Additional missing roots from Genesis 1:16-17
@@ -1003,6 +1038,7 @@ const ROOTS = {
     englishLiteral: 'great',
     englishNatural: 'great',
     type: 'adjective',
+    translatedTo: ['megas'],
   },
   mashal: {
     hebrew: 'משל',
@@ -1037,6 +1073,7 @@ const ROOTS = {
     transliteration: 'sharats',
     englishLiteral: 'to swarm',
     englishNatural: 'to swarm',
+    related: ['sherets'],
     type: 'verb',
   },
   nephesh: {
@@ -1072,6 +1109,7 @@ const ROOTS = {
     transliteration: 'parah',
     englishLiteral: 'to be_fruitful',
     englishNatural: 'to be-fruitful',
+    related: ['peri'],
     type: 'verb',
   },
   ravah: {
@@ -1114,6 +1152,8 @@ const ROOTS = {
     transliteration: 'adam',
     englishLiteral: 'human',
     englishNatural: 'human',
+    description: 'Humans in general, Name of Adam, distinct term from from man (ish), male (zakhar)',
+    related: ['ish', 'ishah', 'zakhar', 'neqevah'],
     type: 'noun',
   },
   tselem: {
@@ -1133,8 +1173,10 @@ const ROOTS = {
   radah: {
     hebrew: 'רדה',
     transliteration: 'radah',
-    englishLiteral: 'subjugate',
-    englishNatural: 'subjugate',
+    englishLiteral: 'to subjugate',
+    englishNatural: 'to subjugate',
+    description: 'to dominate over, rule harshly',
+    related: ['kavash'],
     type: 'verb',
   },
   dagah: {
@@ -1149,6 +1191,7 @@ const ROOTS = {
     transliteration: 'zakhar',
     englishLiteral: 'male',
     englishNatural: 'male',
+    related: ['ish', 'ishah', 'neqevah'],
     type: 'noun',
   },
   neqevah: {
@@ -1156,20 +1199,14 @@ const ROOTS = {
     transliteration: 'neqevah',
     englishLiteral: 'female',
     englishNatural: 'female',
+    related: ['zakhar', 'ish', 'ishah'],
     type: 'noun',
-  },
-  kabash: {
-    hebrew: 'כבש',
-    transliteration: 'kabash',
-    englishLiteral: 'subdue',
-    englishNatural: 'subdue',
-    type: 'verb',
   },
   hinneh: {
     hebrew: 'הנה',
     transliteration: 'hinneh',
-    englishLiteral: 'notice',
-    englishNatural: 'notice',
+    englishLiteral: 'behold',
+    englishNatural: 'behold',
     type: 'particle',
   },
   okhel: {
@@ -1177,6 +1214,7 @@ const ROOTS = {
     transliteration: 'okhel',
     englishLiteral: 'food',
     englishNatural: 'food', 
+    related: ['akhal'],
     type: 'noun',
   },
   of: {
@@ -1198,6 +1236,7 @@ const ROOTS = {
     transliteration: 'meod',
     englishLiteral: 'very',
     englishNatural: 'very',
+    description: 'very, extremely, much, many, overflowingly much',
     type: 'adverb',
   },
   // Add missing roots from Genesis 1:24-30
@@ -1206,34 +1245,16 @@ const ROOTS = {
     transliteration: 'sherets',
     englishLiteral: 'swarm',
     englishNatural: 'swarm',
-    type: 'noun',
-  },
-  chayto: {
-    hebrew: 'חיתו',
-    transliteration: 'chayto',
-    englishLiteral: 'beast-of',
-    englishNatural: 'beast-of',
+    related: ['sharats'],
     type: 'noun',
   },
   kavash: {
     hebrew: 'כבש',
     transliteration: 'kavash',
-    englishLiteral: 'to subdue',
-    englishNatural: 'to subdue',
-    type: 'verb',
-  },
-  leOchlah: {
-    hebrew: 'לאכלה',
-    transliteration: 'leOchlah',
-    englishLiteral: 'for-food',
-    englishNatural: 'for food',
-    type: 'preposition',
-  },
-  vaVayhi: {
-    hebrew: 'ויהי',
-    transliteration: 'vaVayhi',
-    englishLiteral: 'and-was',
-    englishNatural: 'and was',
+    englishLiteral: 'to conquer',
+    englishNatural: 'to conquer',
+    description: 'to conquer militarily, to subdue',
+    related: ['radah'],
     type: 'verb',
   },
   // Add missing roots from Genesis 1:29-30
@@ -1249,6 +1270,8 @@ const ROOTS = {
     transliteration: 'zorea',
     englishLiteral: 'to seed',
     englishNatural: 'to seed',
+    description: 'to sow, to plant, to sow seeds',
+    related: ['zera'],
     type: 'verb',
   },
   zera: {
@@ -1256,13 +1279,7 @@ const ROOTS = {
     transliteration: 'zera',
     englishLiteral: 'seed',
     englishNatural: 'seed',
-    type: 'noun',
-  },
-  panim: {
-    hebrew: 'פנים',
-    transliteration: 'panim',
-    englishLiteral: 'face',
-    englishNatural: 'face',
+    related: ['zorea'],
     type: 'noun',
   },
   amad: {
@@ -1270,13 +1287,6 @@ const ROOTS = {
     transliteration: 'amad',
     englishLiteral: 'stand',
     englishNatural: 'stand',
-    type: 'verb',
-  },
-  kasah: {
-    hebrew: 'כסה',
-    transliteration: 'kasah',
-    englishLiteral: 'to cover',
-    englishNatural: 'to cover',
     type: 'verb',
   },
   samach: {
@@ -1288,5 +1298,18 @@ const ROOTS = {
   },
 } as const;
 
-// Type-safe export of the roots
-export const roots: Record<keyof typeof ROOTS, RootElement> = ROOTS;
+export type HebrewRootKey = keyof typeof ROOTS;
+
+interface RootElement {
+  hebrew: string;
+  transliteration: string;
+  englishLiteral: string;
+  englishNatural: string;
+  type?: HebrewWordMorphology['type'];
+  description?: string;
+  related?: readonly HebrewRootKey[];
+  translatedTo?: readonly GreekRootKey[];
+}
+
+// Type-safe export for Hebrew Dictionary
+export const roots: Record<HebrewRootKey, RootElement> = ROOTS;

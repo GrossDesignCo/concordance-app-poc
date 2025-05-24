@@ -120,8 +120,8 @@ export const genesis_1_31: Verse = {
     {
       hebrew: 'וְהִנֵּ֥ה',
       transliteration: 'veHinneh',
-      englishLiteral: 'And-notice',
-      englishNatural: 'And notice',
+      englishLiteral: 'And-behold',
+      englishNatural: 'And behold',
       root: 'hinneh',
       prefixes: ['ve'],
       order: {
@@ -329,9 +329,9 @@ export const genesis_1_31: Verse = {
   expectedTranslations: {
     hebrew: 'וַיַּ֤רְא אֱלֹהִ֖ים אֶת כָּל אֲשֶׁ֣ר עָשָׂ֑ה וְהִנֵּ֥ה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי',
     transliteration: 'vaYar Elohim et kol asher asah veHinneh tov meod vaYehi erev vaYehi boqer yom haShishi',
-    englishLiteral: 'And-saw Gods, ↳ all which made, And-notice, good very. And-was evening, And-was morning, Day the-sixth.',
-    englishNatural: 'And God saw, all which was made, And notice, very good. And evening was, And morning was, The sixth day.',
+    englishLiteral: 'And-saw Gods, ↳ all which made, And-behold, good very. And-was evening, And-was morning, Day the-sixth.',
+    englishNatural: 'And God saw, all which was made, And behold, very good. And evening was, And morning was, The sixth day.',
     kjv: 'And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
 }; 

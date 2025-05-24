@@ -1,13 +1,6 @@
 /**
  * Dictionary of Hebrew prefix elements
  */
-interface PrefixElement {
-  hebrew: string;
-  transliteration: string;
-  englishLiteral: string;
-  englishNatural: string;
-  function?: string;
-}
 
 const PREFIXES = {
   be: {
@@ -183,6 +176,15 @@ const PREFIXES = {
   },
 } as const;
 
-// Type-safe export of the prefixes
-export const prefixes: Record<keyof typeof PREFIXES, PrefixElement> =
-  PREFIXES;
+type PrefixKey = keyof typeof PREFIXES;
+
+interface PrefixElement {
+  hebrew: string;
+  transliteration: string;
+  englishLiteral: string;
+  englishNatural: string;
+  function?: string;
+}
+
+// Type-safe export for Hebrew Dictionary
+export const prefixes: Record<PrefixKey, PrefixElement> = PREFIXES;

@@ -152,8 +152,8 @@ export const genesis_3_1: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'I_AM',
-      englishNatural: 'I-AM',
+      englishLiteral: 'He_Who_Is',
+      englishNatural: 'He-Who-Is',
       root: 'yhwh',
       order: {
         hebrew: 9,
@@ -401,10 +401,10 @@ export const genesis_3_1: Verse = {
     transliteration:
       'veHaNachash hayah arum miKol chayat haSadeh asher asah YHWH Elohim vaYomer el haIshah af ki amar Elohim lo tokhlu miKol etz haGan',
     englishLiteral:
-      'And-the-snake was shrewd, from-all living_thing-of the-field, which made, I_AM Gods. And-said, to the-woman, "Indeed, that? Said, Gods, \'Not you-shall-eat from-all tree the-garden\'?"',
+      'And-the-snake was shrewd, from-all living_thing-of the-field, which made, He_Who_Is Gods. And-said, to the-woman, "Indeed, that? Said, Gods, \'Not you-shall-eat from-all tree the-garden\'?"',
     englishNatural:
-      'And the snake was shrewd, more than any living-thing of the field, which I-AM God had made. And he said to the woman, "Indeed? Has God said \'You shall eat not from any tree of the garden\'?"',
+      'And the snake was shrewd, more than any living-thing of the field, which He-Who-Is God had made. And he said to the woman, "Indeed? Has God said \'You shall eat not from any tree of the garden\'?"',
     kjv: 'Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
 },
 };

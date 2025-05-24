@@ -60,8 +60,8 @@ export const numbers_21_7: Verse = {
     {
       hebrew: 'מֹשֶׁה',
       transliteration: 'Moshe',
-      englishLiteral: 'Moses',
-      englishNatural: 'Moses',
+      englishLiteral: 'Draws_Out (Moses)',
+      englishNatural: 'Draws-Out (Moses)',
       root: 'moshe',
       order: {
         hebrew: 4,
@@ -163,8 +163,8 @@ export const numbers_21_7: Verse = {
     {
       hebrew: 'בַיהוָה',
       transliteration: 'vaYHWH',
-      englishLiteral: 'against-I_AM',
-      englishNatural: 'against I-AM',
+      englishLiteral: 'against-He_Who_Is',
+      englishNatural: 'against He-Who-Is',
       root: 'yhwh',
       prefixes: ['ba'],
       order: {
@@ -230,8 +230,8 @@ export const numbers_21_7: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'I_AM',
-      englishNatural: 'I-AM',
+      englishLiteral: 'He_Who_Is',
+      englishNatural: 'He-Who-Is',
       root: 'yhwh',
       order: {
         hebrew: 13,
@@ -334,12 +334,15 @@ export const numbers_21_7: Verse = {
         stem: 'hithpael',
         type: 'verb',
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'מֹשֶׁה',
       transliteration: 'Moshe',
-      englishLiteral: 'Moses',
-      englishNatural: 'And Moses',
+      englishLiteral: 'Draws_Out (Moses)',
+      englishNatural: 'And Draws-Out (Moses)',
       root: 'moshe',
       order: {
         hebrew: 19,
@@ -349,6 +352,9 @@ export const numbers_21_7: Verse = {
         gender: 'masculine',
         number: 'singular',
         type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -383,10 +389,7 @@ export const numbers_21_7: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
-      lineBreaksAfter: {
-        hebrew: 2,
-        english: 2,
-      },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
@@ -395,10 +398,10 @@ export const numbers_21_7: Verse = {
     transliteration:
       'vaYavo haAm el Moshe vaYomru chatanu ki dibarnu vaYHWH vaVeKha hitpalel el YHWH veYaSer meAleinu et haNachash vaYitpalel Moshe beAd haAm',
     englishLiteral:
-      'And-came the-people to Moses and-they-said, "we-have-sinned, that we-have-spoken against-I_AM and-against-you, pray to I_AM, and-may-he-turn_aside from-over-us ↳ the-snake." And-prayed Moses on-behalf-of the-people.',
+      'And-came the-people to Draws_Out (Moses) and-they-said, "we-have-sinned, that we-have-spoken against-He_Who_Is and-against-you, pray to He_Who_Is, and-may-he-turn_aside from-over-us ↳ the-snake." And-prayed Draws_Out (Moses) on-behalf-of the-people.',
     englishNatural:
-      'And the people came to Moses and said, "We have sinned, that we have spoken against I-AM and against you; pray to I-AM, and may he turn-aside the snake from over us." And Moses prayed on behalf of the people.',
+      'And the people came to Draws-Out (Moses) and said, "We have sinned, that we have spoken against He-Who-Is and against you; pray to He-Who-Is, and may he turn-aside the snake from over us." And Draws-Out (Moses) prayed on behalf of the people.',
     kjv: 'Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
 },
 };

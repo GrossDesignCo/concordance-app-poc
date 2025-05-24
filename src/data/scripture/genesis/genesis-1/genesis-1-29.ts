@@ -220,7 +220,7 @@ export const genesis_1_29: Verse = {
       transliteration: 'penei',
       englishLiteral: 'face-of',
       englishNatural: 'the face of',
-      root: 'panim',
+      root: 'panah',
       order: {
         hebrew: 13,
         english: 13,
@@ -468,6 +468,6 @@ export const genesis_1_29: Verse = {
     englishLiteral: 'And-said Gods, "Notice, I-give to-you ↳ all herb seeding seed, which over face-of all the-land, And-↳ all the-tree which in-it fruit-of tree seeding seed, to-you it-shall-be for-food.',
     englishNatural: 'And God said, "Notice, I give to you all herb seeding seed, which over the face of all the land, And all the tree which in it is fruit of tree seeding seed, to you it shall be for food.',
     kjv: 'And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
 }; 

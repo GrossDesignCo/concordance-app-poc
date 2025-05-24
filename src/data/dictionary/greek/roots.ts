@@ -1,17 +1,9 @@
 import { GreekWordMorphology } from "@/types";
+import { HebrewRootKey } from "../hebrew";
 
 /**
- * Dictionary of Greek linguistic elements
+ * Dictionary of Greek root words
  */
-interface RootElement {
-  greek: string;
-  transliteration: string;
-  englishLiteral: string;
-  englishNatural: string;
-  type?: GreekWordMorphology['type'];
-}
-
-// Constant version of Greek roots
 const ROOTS = {
   en: {
     greek: 'ἐν',
@@ -24,12 +16,14 @@ const ROOTS = {
     transliteration: 'archē',
     englishLiteral: 'first',
     englishNatural: 'beginning',
+    translatedFrom: ['rosh'],
   },
   eimi: {
     greek: 'εἰμί',
     transliteration: 'eimi',
     englishLiteral: 'to be',
     englishNatural: 'to be',
+    translatedFrom: ['hayah'],
   },
   ho: {
     greek: 'ὁ',
@@ -60,12 +54,14 @@ const ROOTS = {
     transliteration: 'theos',
     englishLiteral: 'God',
     englishNatural: 'God',
+    translatedFrom: ['eloah'],
   },
   ophis: {
     greek: 'ὄφις',
     transliteration: 'ophis',
     englishLiteral: 'snake',
     englishNatural: 'snake',
+    translatedFrom: ['nachash'],
   },
   archaios: {
     greek: 'ἀρχαῖος',
@@ -114,6 +110,7 @@ const ROOTS = {
     transliteration: 'drakon',
     englishLiteral: 'dragon',
     englishNatural: 'dragon',
+    related: ['ophis'],
   },
   deo: {
     greek: 'δέω',
@@ -156,6 +153,7 @@ const ROOTS = {
     transliteration: 'megas',
     englishLiteral: 'great',
     englishNatural: 'great',
+    translatedFrom: ['gadol'],
   },
   cheir: {
     greek: 'χείρ',
@@ -258,6 +256,7 @@ const ROOTS = {
     transliteration: 'ego',
     englishLiteral: 'I',
     englishNatural: 'I',
+    translatedFrom: ['yhwh'],
   },
   apostello: {
     greek: 'ἀποστέλλω',
@@ -306,6 +305,7 @@ const ROOTS = {
     transliteration: 'phronimoi',
     englishLiteral: 'shrewd',
     englishNatural: 'shrewd',
+    translatedFrom: ['arum'],
   },
   akeraios: {
     greek: 'ἀκέραιοι',
@@ -321,6 +321,19 @@ const ROOTS = {
   },
 } as const;
 
-// Type-safe export of the roots
-export const roots: Record<keyof typeof ROOTS, RootElement> =
-  ROOTS;
+export type GreekRootKey = keyof typeof ROOTS;
+
+interface RootElement {
+  greek: string;
+  transliteration: string;
+  englishLiteral: string;
+  englishNatural: string;
+  type?: GreekWordMorphology['type'];
+  description?: string;
+  related?: readonly GreekRootKey[];
+  translatedFrom?: readonly HebrewRootKey[];
+
+}
+
+// Type-safe export for Greek Dictionary
+export const roots: Record<GreekRootKey, RootElement> = ROOTS;

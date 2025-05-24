@@ -9,8 +9,8 @@ export const genesis_1_12: Verse = {
     {
       hebrew: 'וַתּוֹצֵ֨א',
       transliteration: 'vaToTze',
-      englishLiteral: 'And-brought-forth',
-      englishNatural: 'brought forth',
+      englishLiteral: 'And-brought-out',
+      englishNatural: 'brought-out',
       root: 'yatsa',
       prefixes: ['va'],
       order: {
@@ -52,8 +52,8 @@ export const genesis_1_12: Verse = {
     {
       hebrew: 'דֶּ֗שֶׁא',
       transliteration: 'deshe',
-      englishLiteral: 'grass',
-      englishNatural: 'grass',
+      englishLiteral: 'tender_shoot',
+      englishNatural: 'tender-shoot',
       root: 'dasha',
       order: {
         hebrew: 3,
@@ -319,8 +319,8 @@ export const genesis_1_12: Verse = {
   expectedTranslations: {
     hebrew: 'וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֗שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע לְמִינֵ֖הוּ וְעֵ֧ץ עֹֽשֶׂה פְּרִ֞י אֲשֶׁ֤ר זַרְעוֹ־ב֖וֹ לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃',
     transliteration: 'vaToTze haAretz deshe esev maZria zera leMinehu veEtz oseh pri asher zaro-bo leMinehu vaYar Elohim ki-tov',
-    englishLiteral: 'And-brought-forth the-land grass, herb seeding seed to-its-kind, and-tree making fruit which its-seed-in-it to-its-kind. And-saw Gods, that- good.',
-    englishNatural: 'And the land brought forth grass, herb seeding seed after its kind, and tree making fruit which has its seed in it after its kind. And God saw, that it was good.',
+    englishLiteral: 'And-brought-out the-land tender_shoot, herb seeding seed to-its-kind, and-tree making fruit which its-seed-in-it to-its-kind. And-saw Gods, that- good.',
+    englishNatural: 'And the land brought-out tender-shoot, herb seeding seed after its kind, and tree making fruit which has its seed in it after its kind. And God saw, that it was good.',
     kjv: 'And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.',
     lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
