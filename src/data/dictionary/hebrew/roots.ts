@@ -9,8 +9,9 @@ interface RootElement {
   type?: HebrewWordMorphology['type'];
 }
 
-// Hebrew roots
-export const roots: Record<string, RootElement> = {
+
+// Constant version of Hebrew roots
+const ROOTS = {
   rosh: {
     hebrew: 'ראשׁ',
     transliteration: 'rosh',
@@ -1285,4 +1286,7 @@ export const roots: Record<string, RootElement> = {
     englishNatural: 'to rejoice',
     type: 'verb',
   },
-};
+} as const;
+
+// Type-safe export of the roots
+export const roots: Record<keyof typeof ROOTS, RootElement> = ROOTS;

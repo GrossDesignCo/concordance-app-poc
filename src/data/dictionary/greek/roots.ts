@@ -1,3 +1,5 @@
+import { GreekWordMorphology } from "@/types";
+
 /**
  * Dictionary of Greek linguistic elements
  */
@@ -6,10 +8,11 @@ interface RootElement {
   transliteration: string;
   englishLiteral: string;
   englishNatural: string;
+  type?: GreekWordMorphology['type'];
 }
 
-// Greek roots
-export const roots: Record<string, RootElement> = {
+// Constant version of Greek roots
+const ROOTS = {
   en: {
     greek: 'ἐν',
     transliteration: 'en',
@@ -316,4 +319,8 @@ export const roots: Record<string, RootElement> = {
     englishLiteral: 'doves',
     englishNatural: 'doves',
   },
-};
+} as const;
+
+// Type-safe export of the roots
+export const roots: Record<keyof typeof ROOTS, RootElement> =
+  ROOTS;
