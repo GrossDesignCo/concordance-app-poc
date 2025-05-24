@@ -78,8 +78,8 @@ export const isaiah_14_29: Verse = {
     {
       hebrew: 'כִּי',
       transliteration: 'ki',
-      englishLiteral: 'because',
-      englishNatural: 'because',
+      englishLiteral: 'that',
+      englishNatural: 'that',
       root: 'ki',
       order: {
         hebrew: 5,
@@ -147,8 +147,8 @@ export const isaiah_14_29: Verse = {
     {
       hebrew: 'כִּי',
       transliteration: 'ki',
-      englishLiteral: 'for',
-      englishNatural: 'for',
+      englishLiteral: 'that',
+      englishNatural: 'that',
       root: 'ki',
       order: {
         hebrew: 9,
@@ -286,9 +286,9 @@ export const isaiah_14_29: Verse = {
   expectedTranslations: {
     hebrew: 'אַל תִּשְׂמְחִי פְלֶשֶׁת כֻּלֵּךְ כִּי נִשְׁבַּר שֵׁבֶט מַכֵּךְ כִּי מִשֹּׁרֶשׁ נָחָשׁ יֵצֵא צֶפַע וּפִרְיוֹ שָׂרָף מְעוֹפֵף',
     transliteration: 'al tiSmechi Peleshet kulekh ki nishbar shevet makekh ki miShoresh nachash yetze tsefa uFiryo saraph meOfef',
-    englishLiteral: 'Do-not you-shall-rejoice Philistia all-of-you because is-broken rod of-him-who-strikes-you for from-root snake shall-come-forth viper and-its-fruit burning_one flying',
-    englishNatural: 'Do not rejoice Philistia all of you because is broken the rod of him who strikes you for from the root of a snake shall come forth a viper and its fruit a burning-one flying',
+    englishLiteral: 'Do-not you-shall-rejoice Philistia all-of-you that is-broken rod of-him-who-strikes-you that from-root snake shall-come-forth viper and-its-fruit burning_one flying',
+    englishNatural: 'Do not rejoice Philistia all of you that is broken the rod of him who strikes you that from the root of a snake shall come forth a viper and its fruit a burning-one flying',
     kjv: 'Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent\'s root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
+  },
 }; 

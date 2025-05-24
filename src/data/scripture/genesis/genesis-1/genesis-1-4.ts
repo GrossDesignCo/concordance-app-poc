@@ -77,14 +77,15 @@ export const genesis_1_4: Verse = {
         type: 'noun',
       },
       grammarSuffix: {
-        englishNatural: ';',
+        englishLiteral: ',',
+        englishNatural: ',',
       },
     },
     {
       hebrew: 'כִּי־',
       transliteration: 'ki-',
-      englishLiteral: 'that',
-      englishNatural: '',
+      englishLiteral: 'that-',
+      englishNatural: 'that it was',
       root: 'ki',
       order: {
         hebrew: 5,
@@ -243,10 +244,10 @@ export const genesis_1_4: Verse = {
     transliteration:
       'vaYar Elohim et-haOr ki-tov. vaYavdel Elohim beyn haOr, uBeyn haChoshekh.',
     englishLiteral:
-      'And-saw Gods ↳ the-light that good. And-separated Gods between the-light, and-between the-darkness.',
+      'And-saw Gods ↳ the-light, that- good. And-separated Gods between the-light, and-between the-darkness.',
     englishNatural:
-      'And God saw the light; good. And God separated between the light, and between the darkness.',
+      'And God saw the light, that it was good. And God separated between the light, and between the darkness.',
     kjv: 'And God saw the light, that it was good: and God divided the light from the darkness.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
 };

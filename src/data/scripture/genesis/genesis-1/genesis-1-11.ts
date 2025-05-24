@@ -270,10 +270,10 @@ export const genesis_1_11: Verse = {
       },
     },
     {
-      hebrew: 'זַרְעוֹ־ב֖וֹ',
-      transliteration: 'zarO-bo',
-      englishLiteral: 'its-seed-in-it',
-      englishNatural: 'has its seed in it',
+      hebrew: 'זַרְעוֹ־',
+      transliteration: 'zaro-',
+      englishLiteral: 'its-seed-',
+      englishNatural: 'has its seed',
       root: 'zara',
       suffixes: ['o'],
       order: {
@@ -283,18 +283,14 @@ export const genesis_1_11: Verse = {
       morphology: {
         type: 'noun',
       },
-      grammarSuffix: {
-        englishLiteral: ',',
-        englishNatural: ',',
-      },
     },
     {
-      hebrew: 'עַל־הָאָ֑רֶץ',
-      transliteration: 'al-haAretz',
-      englishLiteral: 'over-the-land',
-      englishNatural: 'over the land',
-      root: 'eretz',
-      prefixes: ['al', 'ha'],
+      hebrew: 'ב֖וֹ',
+      transliteration: 'bo',
+      englishLiteral: 'in-it',
+      englishNatural: 'in it',
+      root: 'be',
+      suffixes: ['o'],
       order: {
         hebrew: 16,
         english: 16,
@@ -304,19 +300,52 @@ export const genesis_1_11: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'עַל־',
+      transliteration: 'al-',
+      englishLiteral: 'over-',
+      englishNatural: 'over',
+      root: 'al',
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'הָאָ֑רֶץ',
+      transliteration: 'haAretz',
+      englishLiteral: 'the-land',
+      englishNatural: 'the land',
+      root: 'eretz',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 18,
+        english: 18,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '."',
         englishNatural: '."',
       },
     },
     {
       hebrew: 'וַֽיְהִי־',
       transliteration: 'vaVayhi-',
-      englishLiteral: 'And-was',
-      englishNatural: 'And was',
+      englishLiteral: 'And-was-',
+      englishNatural: 'And it was',
       root: 'hayah',
       prefixes: ['va'],
       order: {
-        hebrew: 16,
-        english: 16,
+        hebrew: 19,
+        english: 19,
       },
       morphology: {
         gender: 'masculine',
@@ -335,8 +364,8 @@ export const genesis_1_11: Verse = {
       englishNatural: 'so',
       root: 'ken',
       order: {
-        hebrew: 17,
-        english: 17,
+        hebrew: 20,
+        english: 20,
       },
       morphology: {
         type: 'adverb',
@@ -352,12 +381,12 @@ export const genesis_1_11: Verse = {
     hebrew:
       'וַיֹּ֥אמֶר אֱלֹהִ֖ים תַּֽדְשֵׁ֣א הָאָ֑רֶץ דֶּ֗שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינ֔וֹ אֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃',
     transliteration:
-      'vaYomer Elohim tadShe haAretz deshe esev maZria zera etz pri oseh pri leMino asher zarO-bo al-haAretz vaVayhi-ken',
+      'vaYomer Elohim tadShe haAretz deshe esev maZria zera etz pri oseh pri leMino asher zaro-bo al-haAretz vaVayhi-ken',
     englishLiteral:
-      'And-said Gods, "Let-sprout the-land sprout, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed-in-it, over-the-land, And-was so.',
+      'And-said Gods, "Let-sprout the-land sprout, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed- in-it, over- the-land." And-was- so.',
     englishNatural:
-      'And God said, "Let the land sprout sprout, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." And was so.',
+      'And God said, "Let the land sprout sprout, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." And it was so.',
     kjv: 'And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
 };

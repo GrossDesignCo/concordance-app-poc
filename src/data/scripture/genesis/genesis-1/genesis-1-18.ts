@@ -172,6 +172,9 @@ export const genesis_1_18: Verse = {
         stem: 'qal',
         type: 'verb',
       },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
       lineBreaksBefore: {
         hebrew: 1,
       },
@@ -192,6 +195,9 @@ export const genesis_1_18: Verse = {
         number: 'plural',
         type: 'noun',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
       lineBreaksBefore: {
         english: 1,
       },
@@ -199,8 +205,8 @@ export const genesis_1_18: Verse = {
     {
       hebrew: 'כִּי־',
       transliteration: 'ki-',
-      englishLiteral: 'that',
-      englishNatural: 'that-it-was',
+      englishLiteral: 'that-',
+      englishNatural: 'that it was',
       root: 'ki',
       order: {
         hebrew: 11,
@@ -233,9 +239,9 @@ export const genesis_1_18: Verse = {
   expectedTranslations: {
     hebrew: 'וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֧רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃',
     transliteration: 'veLiMshol baYom uBaLaylah uLeHavdil beyn haOr uBeyn haHoshekh vaYar Elohim ki-tov',
-    englishLiteral: 'And-to-rule in-the-day, and-in-the-night, and-to-separate between the-light, and-between the-darkness, And-saw Gods that good.',
-    englishNatural: 'And to rule in the day, and in the night, and to separate between the light, and between the darkness, And God saw that-it-was good.',
+    englishLiteral: 'And-to-rule in-the-day, and-in-the-night, and-to-separate between the-light, and-between the-darkness, And-saw Gods, that- good.',
+    englishNatural: 'And to rule in the day, and in the night, and to separate between the light, and between the darkness, And God saw, that it was good.',
     kjv: 'And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
 }; 

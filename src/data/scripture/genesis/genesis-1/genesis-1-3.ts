@@ -26,7 +26,6 @@ export const genesis_1_3: Verse = {
         type: 'verb',
       },
       grammarSuffix: {
-        englishLiteral: ',',
         englishNatural: ',',
       },
       lineBreaksBefore: {
@@ -163,9 +162,9 @@ export const genesis_1_3: Verse = {
   expectedTranslations: {
     hebrew: 'וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר',
     transliteration: 'vaYomer Elohim yehi or vaYehi or',
-    englishLiteral: 'And-said, Gods, "Let-be light." And-was light.',
+    englishLiteral: 'And-said Gods, "Let-be light." And-was light.',
     englishNatural: 'And God said, "Let light be." And light was.',
     kjv: 'And God said, Let there be light: and there was light.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
 };

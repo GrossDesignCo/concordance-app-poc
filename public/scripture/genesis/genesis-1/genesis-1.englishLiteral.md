@@ -1,13 +1,13 @@
 In-heading, created Gods ↳ the-skies and-↳ the-land
 
 And-the-land was waste and-void; 
-and-darkness over-face-of deep.
+And-darkness over-face-of deep.
 And-Wind, Gods, was-stirring over-face-of the-waters.
 
-And-said, Gods, "Let-be light."
+And-said Gods, "Let-be light."
 And-was light.
 
-And-saw Gods ↳ the-light that good. 
+And-saw Gods ↳ the-light, that- good. 
 And-separated Gods between the-light, and-between the-darkness.
 
 And-called Gods to_the-light, "Day,"
@@ -36,13 +36,13 @@ And-was so.
 
 And-called, Gods, to_the-dry_ground, "Land,"
 and-to-gathering, the-waters, called, "Seas."
-And-saw, Gods, that, good.
+And-saw Gods, that- good.
 
-And-said Gods, "Let-sprout the-land sprout, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed-in-it, over-the-land, 
-And-was so.
+And-said Gods, "Let-sprout the-land sprout, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed- in-it, over- the-land." 
+And-was- so.
 
 And-brought-forth the-land grass, herb seeding seed to-its-kind, and-tree making fruit which its-seed-in-it to-its-kind. 
-And-saw Gods that good.
+And-saw Gods, that- good.
 
 And-was evening, 
 And-was morning, 
@@ -62,20 +62,22 @@ And-put them Gods in-hammering_out, the-skies, to-shine_light over the-land.
 
 And-to-rule in-the-day, and-in-the-night, 
 and-to-separate between the-light, and-between the-darkness, 
-And-saw Gods that good.
+And-saw Gods, that- good.
 
-And-was evening, 
-And-was morning, 
+And-was- evening, 
+And-was- morning, 
 Day fourth.
 
 And-said Gods, "Let-swarm the-waters swarm throat living, 
 And-flyer let-fly over the-land, over face-of hammering_out, the-skies."
 
 And-created Gods ↳ the-monsters, the-greats, 
-And-↳ all throat the-living the-crawling which swarmed the-waters, to-their-kind, And-↳ all flyer wing to-its-kind, 
-And-saw Gods that good.
+And-↳ all throat the-living the-crawling which swarmed the-waters, to-their-kind, 
+And-↳ all flyer wing to-its-kind, 
+And-saw Gods, that- good.
 
-And-blessed them, Gods saying, "Be-fruitful and-multiply and-fill ↳ the-waters in-the-seas, and-the-flyer let-multiply in-the-land."
+And-blessed them Gods, saying, "Be-fruitful and-multiply and-fill ↳ the-waters in-the-seas, 
+And-the-flyer let-multiply in-the-land."
 
 And-was evening, 
 And-was morning, 
@@ -86,14 +88,10 @@ And-said Gods, "Let-bring_forth the-land throat living, to-its-kind, beast, and-
 And-made Gods, ↳ living_thing-of the-land, to-its-kind, 
 And-↳ the-beast, to-its-kind, 
 And-↳ all crawler the-ground, to-its-kind, 
-And-saw Gods, that good.
+And-saw Gods, that- good.
 
 And-said Gods, "Let_us-make Human, in-our-image, as-our-likeness, 
-And-let-them-subjugate, in-fish-of the-sea, 
-And-in-flyer-of the-skies, 
-And-in-the-beast, 
-And-in-all the-land, 
-And-in-all the-crawler, the-crawling, over the-land."
+And-let-them-subjugate, in-fish-of the-sea, and-in-flyer-of the-skies, and-in-the-beast, and-in-all the-land, and-in-all the-crawler, the-crawling, over the-land."
 
 And-created Gods, ↳ the-human, in-his-image,
 in-image-of Gods, created him, 

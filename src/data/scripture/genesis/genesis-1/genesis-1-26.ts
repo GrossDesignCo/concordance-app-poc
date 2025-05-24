@@ -209,8 +209,8 @@ export const genesis_1_26: Verse = {
     {
       hebrew: 'וּבְע֣וֹף',
       transliteration: 'uVeOf',
-      englishLiteral: 'And-in-flyer-of',
-      englishNatural: 'And among flyer of',
+      englishLiteral: 'and-in-flyer-of',
+      englishNatural: 'and among flyer of',
       root: 'of',
       prefixes: ['u', 'be'],
       order: {
@@ -222,7 +222,6 @@ export const genesis_1_26: Verse = {
         number: 'singular',
         type: 'noun',
       },
-      lineBreaksBefore: 1,
     },
     {
       hebrew: 'הַשָּׁמַ֗יִם',
@@ -248,8 +247,8 @@ export const genesis_1_26: Verse = {
     {
       hebrew: 'וּבַבְּהֵמָה֙',
       transliteration: 'uVaBehemah',
-      englishLiteral: 'And-in-the-beast',
-      englishNatural: 'And among the beast',
+      englishLiteral: 'and-in-the-beast',
+      englishNatural: 'and among the beast',
       root: 'behemah',
       prefixes: ['u', 'va'],
       order: {
@@ -265,13 +264,12 @@ export const genesis_1_26: Verse = {
         englishLiteral: ',',
         englishNatural: ',',
       },
-      lineBreaksBefore: 1,
     },
     {
       hebrew: 'וּבְכָל־',
       transliteration: 'uVeKol-',
-      englishLiteral: 'And-in-all',
-      englishNatural: 'And among all',
+      englishLiteral: 'and-in-all',
+      englishNatural: 'and among all',
       root: 'kol',
       prefixes: ['u', 'be'],
       order: {
@@ -281,7 +279,6 @@ export const genesis_1_26: Verse = {
       morphology: {
         type: 'adjective',
       },
-      lineBreaksBefore: 1,
     },
     {
       hebrew: 'הָאָ֔רֶץ',
@@ -307,8 +304,8 @@ export const genesis_1_26: Verse = {
     {
       hebrew: 'וּבְכָל־',
       transliteration: 'uVeKol-',
-      englishLiteral: 'And-in-all',
-      englishNatural: 'And among all',
+      englishLiteral: 'and-in-all',
+      englishNatural: 'and among all',
       root: 'kol',
       prefixes: ['u', 'be'],
       order: {
@@ -318,7 +315,6 @@ export const genesis_1_26: Verse = {
       morphology: {
         type: 'adjective',
       },
-      lineBreaksBefore: 1,
     },
     {
       hebrew: 'הָרֶ֖מֶשׂ',
@@ -402,9 +398,9 @@ export const genesis_1_26: Verse = {
   expectedTranslations: {
     hebrew: 'וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִּדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל־הָאָ֔רֶץ וּבְכָל־הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃',
     transliteration: 'vaYomer Elohim naAseh Adam beTzalmenu kiDmuteinu veYirdu biDgat haYam uVeOf haShamayim uVaBehemah uVeKol-haAretz uVeKol-haRemes haRomes al-haAretz',
-    englishLiteral: 'And-said Gods, "Let_us-make Human, in-our-image, as-our-likeness, And-let-them-subjugate, in-fish-of the-sea, And-in-flyer-of the-skies, And-in-the-beast, And-in-all the-land, And-in-all the-crawler, the-crawling, over the-land."',
-    englishNatural: 'And God said, "Let us make Human, in our image, as our likeness, And let them subjugate, among fish of the sea, And among flyer of the skies, And among the beast, And among all the land, And among all the crawler, the crawling, over the land."',
+    englishLiteral: 'And-said Gods, "Let_us-make Human, in-our-image, as-our-likeness, And-let-them-subjugate, in-fish-of the-sea, and-in-flyer-of the-skies, and-in-the-beast, and-in-all the-land, and-in-all the-crawler, the-crawling, over the-land."',
+    englishNatural: 'And God said, "Let us make Human, in our image, as our likeness, And let them subjugate, among fish of the sea, and among flyer of the skies, and among the beast, and among all the land, and among all the crawler, the crawling, over the land."',
     kjv: 'And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
 }; 

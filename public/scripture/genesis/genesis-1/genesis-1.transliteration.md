@@ -38,10 +38,10 @@ vaYiqra Elohim laYabashah eretz
 uLeMiQveh haMayim qara yamim
 vaYar Elohim ki-tov
 
-vaYomer Elohim tadShe haAretz deshe esev maZria zera etz pri oseh pri leMino asher zarO-bo al-haAretz 
+vaYomer Elohim tadShe haAretz deshe esev maZria zera etz pri oseh pri leMino asher zaro-bo al-haAretz 
 vaVayhi-ken
 
-vaToTze haAretz deshe esev maZria zera leMinehu veEtz oseh pri asher zarO-bo leMinehu 
+vaToTze haAretz deshe esev maZria zera leMinehu veEtz oseh pri asher zaro-bo leMinehu 
 vaYar Elohim ki-tov
 
 vaVayhi-erev 
@@ -69,13 +69,15 @@ vaVayhi-boqer
 yom reviyi
 
 vaYomer Elohim yiShretsu haMayim sherets nephesh chayah 
-veOf yeOfef al-haAretz al-peNey reQia haShamayim
+veOf yeOfef al-haAretz al-peNey raqia haShamayim
 
 vaYiVra Elohim et-haTanninim haGdolim 
-veEt kol-nephesh haChayah haRomeshet asher sharTsu haMayim leMinehem veEt kol-of kaNaf leMinehu 
+veEt kol-nephesh haChayah haRomeshet asher sharTsu haMayim leMinehem 
+veEt kol-of kaNaf leMinehu 
 vaYar Elohim ki-tov
 
-vaYeVarekh otam Elohim leMor peRu uReVu uMilU et-haMayim baYamim veHaOf yiRev baAretz
+vaYeVarekh otam Elohim leMor peRu uReVu uMilU et-haMayim baYamim 
+veHaOf yiRev baAretz
 
 vaVayhi-erev 
 vaVayhi-boqer 
@@ -89,11 +91,7 @@ veEt kol-remes haAdamah leMinehu
 vaYar Elohim ki-tov
 
 vaYomer Elohim naAseh Adam beTzalmenu kiDmuteinu 
-veYirdu biDgat haYam 
-uVeOf haShamayim 
-uVaBehemah 
-uVeKol-haAretz 
-uVeKol-haRemes haRomes al-haAretz
+veYirdu biDgat haYam uVeOf haShamayim uVaBehemah uVeKol-haAretz uVeKol-haRemes haRomes al-haAretz
 
 vaYiVra Elohim et-haAdam beTsalmo
 beTselem Elohim bara oto 

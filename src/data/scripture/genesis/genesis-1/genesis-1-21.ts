@@ -259,6 +259,7 @@ export const genesis_1_21: Verse = {
         hebrew: 15,
         english: 15,
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'כָּל־',
@@ -346,6 +347,9 @@ export const genesis_1_21: Verse = {
         stem: 'qal',
         type: 'verb',
       },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
       lineBreaksBefore: {
         hebrew: 1,
       },
@@ -366,6 +370,9 @@ export const genesis_1_21: Verse = {
         number: 'plural',
         type: 'noun',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
       lineBreaksBefore: {
         english: 1,
       },
@@ -373,8 +380,8 @@ export const genesis_1_21: Verse = {
     {
       hebrew: 'כִּי־',
       transliteration: 'ki-',
-      englishLiteral: 'that',
-      englishNatural: 'that-it-was',
+      englishLiteral: 'that-',
+      englishNatural: 'that it was',
       root: 'ki',
       order: {
         hebrew: 22,
@@ -407,9 +414,9 @@ export const genesis_1_21: Verse = {
   expectedTranslations: {
     hebrew: 'וַיִּבְרָ֣א אֱלֹהִ֔ים אֶת־הַתַּנִּינִ֖ם הַגְּדֹלִ֑ים וְאֵ֣ת כָּל־נֶ֣פֶשׁ הַֽחַיָּ֣ה הָֽרֹמֶ֡שֶׂת אֲשֶׁר֩ שָׁרְצ֨וּ הַמַּ֜יִם לְמִינֵהֶ֗ם וְאֵ֣ת כָּל־ע֤וֹף כָּנָ֖ף לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃',
     transliteration: 'vaYiVra Elohim et-haTanninim haGdolim veEt kol-nephesh haChayah haRomeshet asher sharTsu haMayim leMinehem veEt kol-of kaNaf leMinehu vaYar Elohim ki-tov',
-    englishLiteral: 'And-created Gods ↳ the-monsters, the-greats, And-↳ all throat the-living the-crawling which swarmed the-waters, to-their-kind, And-↳ all flyer wing to-its-kind, And-saw Gods that good.',
-    englishNatural: 'And God created the monsters, the greats, And all throat the living the crawling which swarmed the waters, to their kind, And all winged flyer to its kind, And God saw that-it-was good.',
+    englishLiteral: 'And-created Gods ↳ the-monsters, the-greats, And-↳ all throat the-living the-crawling which swarmed the-waters, to-their-kind, And-↳ all flyer wing to-its-kind, And-saw Gods, that- good.',
+    englishNatural: 'And God created the monsters, the greats, And all throat the living the crawling which swarmed the waters, to their kind, And all winged flyer to its kind, And God saw, that it was good.',
     kjv: 'And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },
 }; 

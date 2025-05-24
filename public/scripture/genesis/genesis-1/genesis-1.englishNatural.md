@@ -1,13 +1,13 @@
 In heading, God created the skies and the land.
 
 And the land was waste and void; 
-and darkness over the face of the deep.
+And darkness over the face of the deep.
 And the Wind of God was stirring over the face of the waters.
 
 And God said, "Let light be."
 And light was.
 
-And God saw the light; good. 
+And God saw the light, that it was good. 
 And God separated between the light, and between the darkness.
 
 And God called light "Day,"
@@ -17,7 +17,7 @@ And evening was,
 And morning was, 
 One day.
 
-And God said, "Let hammering-out be in the midst of the waters,
+And God said, "Let a hammering-out be in the midst of the waters,
 and let it be separating between waters and waters."
 
 And God made the hammering-out, 
@@ -35,13 +35,13 @@ And was so.
 
 And God called the dry-ground "Land,"
 and called the gathering of the waters "Seas."
-And God saw that-it-was good.
+And God saw, that it was good.
 
 And God said, "Let the land sprout sprout, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." 
-And was so.
+And it was so.
 
 And the land brought forth grass, herb seeding seed after its kind, and tree making fruit which has its seed in it after its kind. 
-And God saw that-it-was good.
+And God saw, that it was good.
 
 And evening was, 
 And morning was, 
@@ -59,7 +59,7 @@ And the stars.
 And God put them in the hammering-out, the skies, to shine-light over the land.
 And to rule in the day, and in the night, 
 and to separate between the light, and between the darkness, 
-And God saw that-it-was good.
+And God saw, that it was good.
 
 And evening was, 
 And morning was, 
@@ -69,10 +69,12 @@ And God said, "Let the waters swarm with a swarm, living throat,
 And let flyer fly over the land, over the face of the hammering-out, the skies."
 
 And God created the monsters, the greats, 
-And all throat the living the crawling which swarmed the waters, to their kind, And all winged flyer to its kind, 
-And God saw that-it-was good.
+And all throat the living the crawling which swarmed the waters, to their kind, 
+And all winged flyer to its kind, 
+And God saw, that it was good.
 
-And God blessed them, saying, "Be fruitful and multiply and fill the waters in the seas, and let the flyer multiply in the land."
+And God blessed them, saying, "Be fruitful and multiply and fill the waters in the seas, 
+And let the flyer multiply in the land."
 
 And evening was, 
 And morning was, 
@@ -83,14 +85,10 @@ And God said, "Let the land bring forth living throat, to its kind, beast, and c
 And God made, living-thing of the land, to its kind, 
 And the beast, to its kind, 
 And all crawler the ground, to its kind, 
-And God saw, that-it-was good.
+And God saw, that it was good.
 
 And God said, "Let us make Human, in our image, as our likeness, 
-And let them subjugate, among fish of the sea, 
-And among flyer of the skies, 
-And among the beast, 
-And among all the land, 
-And among all the crawler, the crawling, over the land."
+And let them subjugate, among fish of the sea, and among flyer of the skies, and among the beast, and among all the land, and among all the crawler, the crawling, over the land."
 
 And God created the human, in his image,
 in image of God, created him, 
