@@ -7,7 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "build:data-chapters-as-markdown": "tsx src/data/pipeline/generateScriptureChaptersAsMarkdown.ts",
-    "build:data-lexicon-index-by-word": "tsx src/data/pipeline/generateLexiconIndex.ts",
+    "build:data-lexicon-index-by-word": "tsx scripts/build-lexicon-index.ts",
     "build:data-root-indexes": "tsx src/data/pipeline/generateRootIndexes.ts",
     "build:data": "npm run build:data-chapters-as-markdown && npm run build:data-lexicon-index-by-word && npm run build:data-root-indexes",
     "build:meta-translation-progress": "tsx src/data/pipeline/generateTranslationProgress.ts",

@@ -73,7 +73,7 @@ async function ensureDirectoryExists(dirPath: string): Promise<void> {
 }
 
 // Generates a lexicon index-by-word for the given language
-async function generateLexiconIndex(language: string): Promise<void> {
+export async function generateLexiconIndex(language: string): Promise<void> {
   try {
     console.log(`Generating lexicon index-by-word for ${language}...`);
     
@@ -107,8 +107,8 @@ async function generateLexiconIndex(language: string): Promise<void> {
   }
 }
 
-// Main execution function with timeout
-async function main() {
+// Main execution function with timeout - only used by CLI
+export async function generateAllLexiconIndices(): Promise<void> {
   const TIMEOUT_MS = 30000; // 30 second timeout per language
   
   try {
@@ -131,12 +131,8 @@ async function main() {
     }
     
     console.log('Successfully generated lexicon indices-by-word for all languages');
-    process.exit(0);
   } catch (error) {
     console.error('Failed to generate lexicon indices-by-word:', error);
-    process.exit(1);
+    throw error;
   }
 }
-
-// Run the main function
-main();

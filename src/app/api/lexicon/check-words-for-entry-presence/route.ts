@@ -6,7 +6,7 @@ let lexiconIndex: { [key: string]: boolean } | null = null;
 
 async function loadLexiconIndex(language: string) {
   if (lexiconIndex === null) {
-    const indexPath = path.join(process.cwd(), `public/lexicon/${language}/index.json`);
+    const indexPath = path.join(process.cwd(), `public/lexicon/${language}/index-by-word.json`);
     const indexData = await readFile(indexPath, 'utf-8');
     lexiconIndex = JSON.parse(indexData);
   }
@@ -26,6 +26,7 @@ export async function POST(request: Request) {
 
     // Load the lexicon index
     const index = await loadLexiconIndex(language);
+
     if (!index) {
       return NextResponse.json(
         { error: 'Lexicon index not found' },
@@ -39,6 +40,7 @@ export async function POST(request: Request) {
     return NextResponse.json({ results });
   } catch (error) {
     console.error('Error checking lexicon entries:', error);
+
     return NextResponse.json(
       { error: 'Failed to check lexicon entries' },
       { status: 500 }
