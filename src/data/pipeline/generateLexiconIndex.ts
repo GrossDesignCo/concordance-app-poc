@@ -73,7 +73,7 @@ async function ensureDirectoryExists(dirPath: string): Promise<void> {
 }
 
 // Generates a lexicon index-by-word for the given language
-export async function generateLexiconIndex(language: string = 'hebrew'): Promise<void> {
+async function generateLexiconIndex(language: string): Promise<void> {
   try {
     console.log(`Generating lexicon index-by-word for ${language}...`);
     
@@ -107,16 +107,36 @@ export async function generateLexiconIndex(language: string = 'hebrew'): Promise
   }
 }
 
-// Generates lexicon indices-by-word for all languages
-Promise.all([
-  generateLexiconIndex('hebrew'),
-  generateLexiconIndex('greek')
-])
-  .then(() => {
+// Main execution function with timeout
+async function main() {
+  const TIMEOUT_MS = 30000; // 30 second timeout per language
+  
+  try {
+    // Process languages sequentially instead of in parallel
+    for (const language of ['hebrew', 'greek']) {
+      console.log(`Starting index generation for ${language}...`);
+      
+      // Create a promise that rejects after timeout
+      const timeoutPromise = new Promise((_, reject) => {
+        setTimeout(() => reject(new Error(`Timeout generating index for ${language}`)), TIMEOUT_MS);
+      });
+      
+      // Race between the actual work and the timeout
+      await Promise.race([
+        generateLexiconIndex(language),
+        timeoutPromise
+      ]);
+      
+      console.log(`Completed index generation for ${language}`);
+    }
+    
     console.log('Successfully generated lexicon indices-by-word for all languages');
     process.exit(0);
-  })
-  .catch(error => {
+  } catch (error) {
     console.error('Failed to generate lexicon indices-by-word:', error);
     process.exit(1);
-  });
+  }
+}
+
+// Run the main function
+main();
