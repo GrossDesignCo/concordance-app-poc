@@ -361,8 +361,8 @@ const ROOTS = {
   dasha: {
     hebrew: 'דשא',
     transliteration: 'dasha',
-    englishLiteral: 'sprout',
-    englishNatural: 'sprout',
+    englishLiteral: 'tender_shoot',
+    englishNatural: 'tender-shoot',
     type: 'noun',
   },
   esev: {

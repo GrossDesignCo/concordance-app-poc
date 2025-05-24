@@ -58,8 +58,8 @@ export const genesis_1_11: Verse = {
     {
       hebrew: 'תַּֽדְשֵׁ֣א',
       transliteration: 'tadShe',
-      englishLiteral: 'Let-sprout',
-      englishNatural: 'sprout',
+      englishLiteral: 'Let-tenderly_shoot_up',
+      englishNatural: 'tenderly-shoot-up',
       root: 'dasha',
       prefixes: ['ta'],
       order: {
@@ -101,8 +101,8 @@ export const genesis_1_11: Verse = {
     {
       hebrew: 'דֶּ֗שֶׁא',
       transliteration: 'deshe',
-      englishLiteral: 'sprout',
-      englishNatural: 'sprout',
+      englishLiteral: 'tender_shoot',
+      englishNatural: 'tender-shoot',
       root: 'dasha',
       order: {
         hebrew: 5,
@@ -383,9 +383,9 @@ export const genesis_1_11: Verse = {
     transliteration:
       'vaYomer Elohim tadShe haAretz deshe esev maZria zera etz pri oseh pri leMino asher zaro-bo al-haAretz vaVayhi-ken',
     englishLiteral:
-      'And-said Gods, "Let-sprout the-land sprout, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed- in-it, over- the-land." And-was- so.',
+      'And-said Gods, "Let-tenderly_shoot_up the-land tender_shoot, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed- in-it, over- the-land." And-was- so.',
     englishNatural:
-      'And God said, "Let the land sprout sprout, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." And it was so.',
+      'And God said, "Let the land tenderly-shoot-up tender-shoot, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." And it was so.',
     kjv: 'And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.',
     lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
   },

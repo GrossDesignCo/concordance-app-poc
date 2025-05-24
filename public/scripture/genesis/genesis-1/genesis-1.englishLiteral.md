@@ -30,7 +30,7 @@ And-was evening,
 And-was morning, 
 Day second.
 
-And-said, Gods, "Let-gather, the-waters, from-under the-skies, to→ place, one.
+And-said, Gods, "Let-gather, the-waters, from-under the-skies, to- place, one.
 And-be-seen, the-dry_ground."
 And-was so.
 
@@ -38,7 +38,7 @@ And-called, Gods, to_the-dry_ground, "Land,"
 and-to-gathering, the-waters, called, "Seas."
 And-saw Gods, that- good.
 
-And-said Gods, "Let-sprout the-land sprout, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed- in-it, over- the-land." 
+And-said Gods, "Let-tenderly_shoot_up the-land tender_shoot, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed- in-it, over- the-land." 
 And-was- so.
 
 And-brought-forth the-land grass, herb seeding seed to-its-kind, and-tree making fruit which its-seed-in-it to-its-kind. 

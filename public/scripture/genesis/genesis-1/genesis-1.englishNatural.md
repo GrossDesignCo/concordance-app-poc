@@ -37,7 +37,7 @@ And God called the dry-ground "Land,"
 and called the gathering of the waters "Seas."
 And God saw, that it was good.
 
-And God said, "Let the land sprout sprout, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." 
+And God said, "Let the land tenderly-shoot-up tender-shoot, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." 
 And it was so.
 
 And the land brought forth grass, herb seeding seed after its kind, and tree making fruit which has its seed in it after its kind. 
@@ -93,14 +93,15 @@ And let them subjugate, among fish of the sea, and among flyer of the skies, and
 And God created the human, in his image,
 in image of God, created him, 
 male and female, created them.
+
 And God blessed them, 
 And God said to them, "Be fruitful and multiply and fill the land, 
 And conquer and subjugate among fish of the sea, and among flyer of the skies, and among all the crawling living thing over the land."
 
 And God said, "Notice, I give to you all herb seeding seed, which over the face of all the land, 
 And all the tree which in it is fruit of tree seeding seed, to you it shall be for food.
-And to all living-thing of the land, and to all flyer of the skies, and to all crawler over the land, which in it living throat: all green herb for food." 
-And was so.
+And to all living-thing of the land, and to all flyer of the skies, and to all crawler over the land, which in it is living throat: all green herb for food." 
+And it was so.
 
 And God saw, all which was made, 
 And notice, very good.

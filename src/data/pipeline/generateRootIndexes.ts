@@ -52,13 +52,13 @@ async function generateRootIndexes() {
         // Get unique roots from the verse that are in our dictionary
         const roots = [...new Set(verse.words
           .map(word => word.root)
-          .filter((root): root is string => 
+          .filter((root) => 
             root !== undefined && 
             (root in hebrewRoots || root in greekRoots)
           ))];
 
         // Update indexes for each root
-        for (const root of roots) {
+        for (const root of roots as string[]) {
           // Update verses index
           if (!indexes.verses[root][book]) {
             indexes.verses[root][book] = {};
