@@ -13,7 +13,7 @@ export async function getLexiconEntry({ key, language }: LexiconReference) {
     // Return the raw MDX content as a string
     return content;
   } catch (err) {
-    console.warn(`Error looking up lexicon entry for ${key}:`, err);
+    console.warn(`Could not find a lexicon entry for ${key}`);
 
     return { errorMessage: `No Lexicon entry found for "${key}"`, err };
   }

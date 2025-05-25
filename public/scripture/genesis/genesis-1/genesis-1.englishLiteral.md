@@ -48,10 +48,10 @@ And-was evening,
 And-was morning, 
 Day third.
 
-And-said Gods, "Let-be lights in-hammering_out, the-skies, to-separate between the-day, and-between the-night, 
+And-said Gods, "Let-be light_sources in-hammering_out, the-skies, to-separate between the-day, and-between the-night, 
 And-they-will-be for-signs, and-for-appointed_times, and-for-days, and-years.
 
-And-they-will-be for-lights in-hammering_out the-skies, to-shine_light over the-land.
+And-they-will-be for-light_sources in-hammering_out the-skies, to-shine_light over the-land.
 
 And-made Gods ↳ two, the-light_sources, the-greats, 
 ↳ the-light_source the-great, for-the-ruling-of the-day, 

@@ -47,9 +47,9 @@ And evening was,
 And morning was, 
 A third day.
 
-And God said, "Let there be lights in the hammering-out, the skies, to separate between the day, and between the night, 
+And God said, "Let there be light-sources in the hammering-out, the skies, to separate between the day, and between the night, 
 And they will be for signs, and for appointed-times, and for days, and years.
-And they will be for lights in the hammering-out, the skies, to shine-light over the land.
+And they will be for light-sources in the hammering-out, the skies, to shine-light over the land.
 
 And God made two, the light-sources, the greats, 
 the light-source the great, for the ruling of the day, 
