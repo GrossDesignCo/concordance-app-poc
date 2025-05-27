@@ -1,6 +1,8 @@
 .scripture {
   max-width: 80ch;
   margin: 0 auto;
+  line-height: var(--ds-line-height-loose);
+  
   padding: var(--ds-space-10) 0 var(--ds-space-8);
   min-height: calc(100dvh - var(--header-max-height));
 }

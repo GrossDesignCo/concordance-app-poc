@@ -4,6 +4,13 @@
   inset-inline: 0;
 }
 
+@media (display-mode: standalone) {
+  .header {
+    padding-block-end: 1em;
+    height: calc(var(--header-max-height) + 1em);
+  }
+}
+
 .headerContent {
   height: var(--header-max-height);
   background-color: var(--ds-bg-page);
@@ -28,7 +35,6 @@
 
 .appTitle {
   font-size: 1rem;
-  line-height: 1.5;
 }
 
 .appTitleContainer a {
