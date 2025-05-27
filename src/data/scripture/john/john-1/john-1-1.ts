@@ -61,8 +61,8 @@ export const john_1_1: Verse = {
     {
       greek: 'ὁ',
       transliteration: 'ho',
-      englishLiteral: 'the',
-      englishNatural: 'the',
+      englishLiteral: 'The',
+      englishNatural: 'The',
       root: 'ho',
       order: {
         greek: 4,
@@ -117,8 +117,8 @@ export const john_1_1: Verse = {
     {
       greek: 'ὁ',
       transliteration: 'ho',
-      englishLiteral: 'the',
-      englishNatural: 'the',
+      englishLiteral: 'The',
+      englishNatural: 'The',
       root: 'ho',
       order: {
         greek: 7,
@@ -187,8 +187,8 @@ export const john_1_1: Verse = {
     {
       greek: 'τὸν',
       transliteration: 'ton',
-      englishLiteral: 'the',
-      englishNatural: 'the',
+      englishLiteral: 'The',
+      englishNatural: 'The',
       root: 'ho',
       order: {
         greek: 11,
@@ -284,8 +284,8 @@ export const john_1_1: Verse = {
     {
       greek: 'ὁ',
       transliteration: 'ho',
-      englishLiteral: 'the',
-      englishNatural: 'the',
+      englishLiteral: 'The',
+      englishNatural: 'The',
       root: 'ho',
       order: {
         greek: 16,
@@ -329,10 +329,10 @@ export const john_1_1: Verse = {
     transliteration:
       'En archē ēn ho logos, kai ho logos ēn pros ton theon, kai theos ēn ho logos',
     englishLiteral:
-      'In first was the Word, and the Word was with the God, and God was the Word.',
+      'In first was The Word, and The Word was with The God, and God was The Word.',
     englishNatural:
-      'In the first was the Word, and the Word was with the God, and the Word was God.',
+      'In the first was The Word, and The Word was with The God, and The Word was God.',
     kjv: 'In the beginning was the Word, and the Word was with God, and the Word was God.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-27' },
   },
 };

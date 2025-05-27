@@ -82,8 +82,8 @@ export const revelation_20_2: Verse = {
     {
       greek: 'τὸν',
       transliteration: 'ton',
-      englishLiteral: 'the',
-      englishNatural: 'the',
+      englishLiteral: 'The',
+      englishNatural: 'The',
       root: 'ho',
       order: {
         greek: 5,
@@ -100,8 +100,8 @@ export const revelation_20_2: Verse = {
     {
       greek: 'ὄφιν',
       transliteration: 'ophin',
-      englishLiteral: 'snake',
-      englishNatural: 'snake',
+      englishLiteral: 'Snake',
+      englishNatural: 'Snake',
       root: 'ophis',
       order: {
         greek: 6,
@@ -122,8 +122,8 @@ export const revelation_20_2: Verse = {
     {
       greek: 'τὸν',
       transliteration: 'ton',
-      englishLiteral: 'the',
-      englishNatural: 'the',
+      englishLiteral: 'The',
+      englishNatural: 'The',
       root: 'ho',
       order: {
         greek: 7,
@@ -140,8 +140,8 @@ export const revelation_20_2: Verse = {
     {
       greek: 'ἀρχαῖον',
       transliteration: 'archaion',
-      englishLiteral: 'ancient',
-      englishNatural: 'ancient',
+      englishLiteral: 'Ancient',
+      englishNatural: 'Ancient',
       root: 'archaios',
       order: {
         greek: 8,
@@ -199,7 +199,7 @@ export const revelation_20_2: Verse = {
       greek: 'Διάβολος',
       transliteration: 'Diabolos',
       englishLiteral: 'Accuser',
-      englishNatural: 'the Accuser',
+      englishNatural: 'Accuser',
       root: 'diabolos',
       order: {
         greek: 11,
@@ -230,8 +230,8 @@ export const revelation_20_2: Verse = {
     {
       greek: 'ὁ',
       transliteration: 'ho',
-      englishLiteral: 'the',
-      englishNatural: 'the',
+      englishLiteral: 'The',
+      englishNatural: 'The',
       root: 'ho',
       order: {
         greek: 13,
@@ -359,9 +359,9 @@ export const revelation_20_2: Verse = {
   expectedTranslations: {
     greek: 'καὶ ἐκράτησεν τὸν δράκοντα, τὸν ὄφιν τὸν ἀρχαῖον, ὅς ἐστιν Διάβολος καὶ ὁ Σατανᾶς, καὶ ἔδησεν αὐτὸν χίλια ἔτη.',
     transliteration: 'kai ekratēsen ton drakonta ton ophin ton archaion hos estin Diabolos kai ho Satanas kai edēsen auton chilia etē',
-    englishLiteral: 'and he-seized the dragon, the snake, the ancient, who is Accuser and the Adversary, and he-bound him thousand years',
-    englishNatural: 'and he seized the dragon, the snake, the ancient, who is the Accuser and the Adversary, and he bound him a thousand years',
+    englishLiteral: 'and he-seized the dragon, The Snake, The Ancient, who is Accuser and The Adversary, and he-bound him thousand years.',
+    englishNatural: 'and he seized the dragon, The Snake, The Ancient, who is Accuser and The Adversary, and he bound him a thousand years.',
     kjv: 'And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-27' },
 },
 }; 
