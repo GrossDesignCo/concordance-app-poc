@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const isaiah_6_6: Verse = {
   meta: {
+    book: 'Isaiah',
     chapter: 6,
     number: 6,
   },
@@ -25,6 +26,7 @@ export const isaiah_6_6: Verse = {
         stem: 'qal',
         type: 'verb'
       },
+      lineBreaksBefore: 2,
     },
     {
       hebrew: 'אֵלַי',
@@ -199,6 +201,6 @@ export const isaiah_6_6: Verse = {
     englishLiteral: 'And-flew to-me one from the-burning_ones and-in-his-hand live_coal with-the-tongs he-took from-upon the-altar',
     englishNatural: 'And flew to me one from the burning-ones and in his hand a live coal he had taken with the tongs from upon the altar',
     kjv: 'Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
 },
 }; 

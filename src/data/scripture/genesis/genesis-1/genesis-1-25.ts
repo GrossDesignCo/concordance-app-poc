@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_25: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 25,
   },
@@ -350,6 +351,6 @@ export const genesis_1_25: Verse = {
     englishLiteral: 'And-made Gods, ↳ living_thing-of the-land, to-its-kind, And-↳ the-beast, to-its-kind, And-↳ all crawler the-ground, to-its-kind, And-saw Gods, that- good.',
     englishNatural: 'And God made, living-thing of the land, to its kind, And the beast, to its kind, And all crawler the ground, to its kind, And God saw, that it was good.',
     kjv: 'And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 }; 

@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_2_2: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 2,
     number: 2,
   },

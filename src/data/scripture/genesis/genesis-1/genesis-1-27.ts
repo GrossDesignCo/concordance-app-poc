@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_27: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 27,
   },
@@ -268,6 +269,6 @@ export const genesis_1_27: Verse = {
     englishLiteral: 'And-created Gods, ↳ the-human, in-his-image, in-image-of Gods, created him, male and-female, created them.',
     englishNatural: 'And God created the human, in his image, in image of God, created him, male and female, created them.',
     kjv: 'So God created man in his own image, in the image of God created he him; male and female created he them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 }; 

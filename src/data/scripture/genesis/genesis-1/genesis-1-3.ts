@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_3: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 3,
   },
@@ -165,6 +166,6 @@ export const genesis_1_3: Verse = {
     englishLiteral: 'And-said Gods, "Let-be light." And-was light.',
     englishNatural: 'And God said, "Let light be." And light was.',
     kjv: 'And God said, Let there be light: and there was light.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 };

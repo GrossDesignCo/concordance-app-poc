@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const numbers_21_9: Verse = {
   meta: {
+    book: 'Numbers',
     chapter: 21,
     number: 9,
   },
@@ -364,6 +365,6 @@ export const numbers_21_9: Verse = {
     englishNatural:
       'And Draws-Out (Moses) made a bronze snake, and he placed it on the standard; and it came about, if the snake struck a man, and he looked to the bronze snake, he lived.',
     kjv: 'And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
 },
 };

@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_10: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 10,
   },
@@ -275,6 +276,6 @@ export const genesis_1_10: Verse = {
     englishLiteral: 'And-called, Gods, to_the-dry_ground, "Land," and-to-gathering, the-waters, called, "Seas." And-saw Gods, that- good.',
     englishNatural: 'And God called the dry-ground "Land," and called the gathering of the waters "Seas." And God saw, that it was good.',
     kjv: 'And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 }; 

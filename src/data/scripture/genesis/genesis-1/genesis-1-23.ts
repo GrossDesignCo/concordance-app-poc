@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_23: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 23,
   },
@@ -160,6 +161,6 @@ export const genesis_1_23: Verse = {
     englishLiteral: 'And-was evening, And-was morning, Day fifth.',
     englishNatural: 'And evening was, And morning was, A fifth day.',
     kjv: 'And the evening and the morning were the fifth day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 }; 

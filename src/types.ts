@@ -413,6 +413,7 @@ export interface TranslationWord {
 }
 
 export interface VerseMeta {
+  book: string;
   chapter: number;
   number: number;
   paragraphBreak?: boolean;

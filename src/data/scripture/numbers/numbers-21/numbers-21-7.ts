@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const numbers_21_7: Verse = {
   meta: {
+    book: 'Numbers',
     chapter: 21,
     number: 7,
   },
@@ -402,6 +403,6 @@ export const numbers_21_7: Verse = {
     englishNatural:
       'And the people came to Draws-Out (Moses) and said, "We have sinned, that we have spoken against He-Who-Is and against you; pray to He-Who-Is, and may he turn-aside the snake from over us." And Draws-Out (Moses) prayed on behalf of the people.',
     kjv: 'Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
 },
 };

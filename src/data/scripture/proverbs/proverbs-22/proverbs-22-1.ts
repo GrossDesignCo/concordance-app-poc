@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const proverbs_22_1: Verse = {
   meta: {
+    book: 'Proverbs',
     chapter: 22,
     number: 1,
   },
@@ -164,6 +165,6 @@ export const proverbs_22_1: Verse = {
     englishLiteral: 'Good name than-oil good and-day of-death than-day of-his-birth.',
     englishNatural: 'A good name than good oil; and the day of death than the day of birth.',
     kjv: 'A good name is rather to be chosen than great riches, and loving favour rather than silver and gold.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-12' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 }; 

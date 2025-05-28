@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_14: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 14,
   },
@@ -339,6 +340,6 @@ export const genesis_1_14: Verse = {
     englishLiteral: 'And-said Gods, "Let-be light_sources in-hammering_out, the-skies, to-separate between the-day, and-between the-night, And-they-will-be for-signs, and-for-appointed_times, and-for-days, and-years.',
     englishNatural: 'And God said, "Let there be light-sources in the hammering-out, the skies, to separate between the day, and between the night, And they will be for signs, and for appointed-times, and for days, and years.',
     kjv: 'And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-25' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 }; 

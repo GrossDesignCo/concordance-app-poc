@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_9: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 9,
   },
@@ -293,6 +294,6 @@ export const genesis_1_9: Verse = {
     englishLiteral: 'And-said, Gods, "Let-gather, the-waters, from-under the-skies, to- place, one. And-be-seen, the-dry_ground." And-was so.',
     englishNatural: 'And God said, "Let the waters gather from under the skies to one place. And let the dry-ground be seen." And was so.',
     kjv: 'And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 };

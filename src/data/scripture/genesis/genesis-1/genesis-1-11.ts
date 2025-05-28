@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_11: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 11,
   },
@@ -387,6 +388,6 @@ export const genesis_1_11: Verse = {
     englishNatural:
       'And God said, "Let the land tenderly-shoot-up tender-shoot, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." And it was so.',
     kjv: 'And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 };

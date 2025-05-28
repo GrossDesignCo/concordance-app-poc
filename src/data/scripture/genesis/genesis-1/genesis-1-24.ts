@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_24: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 24,
   },
@@ -242,6 +243,6 @@ export const genesis_1_24: Verse = {
     englishLiteral: 'And-said Gods, "Let-bring_out the-land throat living, to-its-kind, beast, and-crawler, and-living_thing-of land."',
     englishNatural: 'And God said, "Let the land bring-out living throat, to its kind, beast, and crawler, and living-thing of land."',
     kjv: 'And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 }; 

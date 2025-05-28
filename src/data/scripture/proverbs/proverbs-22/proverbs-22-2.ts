@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const proverbs_22_2: Verse = {
   meta: {
+    book: 'Proverbs',
     chapter: 22,
     number: 2,
   },
@@ -158,6 +159,6 @@ export const proverbs_22_2: Verse = {
     englishLiteral: 'Rich and-Poor meet this with this He_Who_Is made.',
     englishNatural: 'Rich and Poor meet together; with this He-Who-Is made.',
     kjv: 'The rich and poor meet together: the LORD is the maker of them all.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 }; 

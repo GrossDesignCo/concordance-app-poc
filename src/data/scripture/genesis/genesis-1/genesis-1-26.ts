@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_26: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 26,
   },
@@ -401,6 +402,6 @@ export const genesis_1_26: Verse = {
     englishLiteral: 'And-said Gods, "Let_us-make Human, in-our-image, as-our-likeness, And-let-them-subjugate, in-fish-of the-sea, and-in-flyer-of the-skies, and-in-the-beast, and-in-all the-land, and-in-all the-crawler, the-crawling, over the-land."',
     englishNatural: 'And God said, "Let us make Human, in our image, as our likeness, And let them subjugate, among fish of the sea, and among flyer of the skies, and among the beast, and among all the land, and among all the crawler, the crawling, over the land."',
     kjv: 'And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 }; 

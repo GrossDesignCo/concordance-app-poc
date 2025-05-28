@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_5: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 5,
   },
@@ -314,6 +315,6 @@ export const genesis_1_5: Verse = {
     englishLiteral: 'And-called Gods to_the-light, "Day," and-to-darkness, called, "Night." And-was, evening, And-was, morning, Day one.',
     englishNatural: 'And God called light "Day," and called darkness "Night." And evening was, And morning was, One day.',
     kjv: 'And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 }; 

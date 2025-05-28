@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_1: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 1,
   },
@@ -132,6 +133,6 @@ export const genesis_1_1: Verse = {
     englishLiteral: 'In-heading, created Gods ↳ the-skies and-↳ the-land',
     englishNatural: 'In heading, God created the skies and the land.',
     kjv: 'In the beginning God created the heaven and the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 };

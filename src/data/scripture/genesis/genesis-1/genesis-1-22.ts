@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_22: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 22,
   },
@@ -269,6 +270,6 @@ export const genesis_1_22: Verse = {
     englishLiteral: 'And-blessed them Gods, saying, "Be-fruitful and-multiply and-fill ↳ the-waters in-the-seas, And-the-flyer let-multiply in-the-land."',
     englishNatural: 'And God blessed them, saying, "Be fruitful and multiply and fill the waters in the seas, And let the flyer multiply in the land."',
     kjv: 'And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 }; 

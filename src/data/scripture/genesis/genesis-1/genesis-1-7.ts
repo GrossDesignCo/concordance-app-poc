@@ -2,6 +2,7 @@ import { Verse } from '@/types';
 
 export const genesis_1_7: Verse = {
   meta: {
+    book: 'Genesis',
     chapter: 1,
     number: 7,
   },
@@ -316,6 +317,6 @@ export const genesis_1_7: Verse = {
     englishLiteral: 'And-made Gods ↳ the-hammering_out, and-separated, between the-waters which from-under to_the-hammering_out, and-between the-waters which from-over to_the-hammering_out. And-was so.',
     englishNatural: 'And God made the hammering-out, and separated between the waters which were under the hammering-out, and between the waters which were over the hammering-out. And was so.',
     kjv: 'And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
   },
 }; 
