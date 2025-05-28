@@ -43,9 +43,9 @@
         "2": {
           "chapterNumber": 2,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
+            "1": true,
+            "2": true,
+            "3": true,
             "4": false,
             "5": false,
             "6": false,
@@ -69,7 +69,7 @@
             "24": false,
             "25": false
           },
-          "progress": 0
+          "progress": 12
         },
         "3": {
           "chapterNumber": 3,
@@ -1837,7 +1837,7 @@
           "progress": 0
         }
       },
-      "progress": 2.152641878669276
+      "progress": 2.3483365949119372
     },
     "EXODUS": {
       "bookName": "Exodus",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 0.15111082532231618
+  "totalProgress": 0.1607561971514002
 }

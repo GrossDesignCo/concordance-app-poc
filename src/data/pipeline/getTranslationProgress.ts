@@ -4,6 +4,7 @@ import path from 'path';
 // Constants for Bible structure
 const SCRIPTURE_DIR = path.join(process.cwd(), 'src', 'data', 'scripture');
 
+// Complete representation of the books/chapters/verses in the Bible
 const BOOKS = {
   GENESIS: {
     name: 'Genesis',
@@ -575,66 +576,206 @@ export interface TranslationProgressData {
   totalProgress: number;
 }
 
-function calculateBookProgress(bookKey: keyof typeof BOOKS): {
-  bookName: string;
-  chapters: Record<number, { chapterNumber: number; verses: Record<number, boolean>; progress: number }>;
-  progress: number;
-} {
-  const book = BOOKS[bookKey];
-  const chapters: Record<number, { chapterNumber: number; verses: Record<number, boolean>; progress: number }> = {};
-  let totalTranslatedVerses = 0;
-  let totalVerses = 0;
-
-  for (let chapterNum = 1; chapterNum <= book.chapters; chapterNum++) {
-    const verses: Record<number, boolean> = {};
-    let chapterTranslatedVerses = 0;
-    const chapterTotalVerses = book.versesPerChapter[chapterNum as keyof typeof book.versesPerChapter];
-
-    for (let verseNum = 1; verseNum <= chapterTotalVerses; verseNum++) {
-      const versePath = path.join(SCRIPTURE_DIR, bookKey, `${bookKey.toLowerCase()}-${chapterNum}`, `${bookKey.toLowerCase()}-${chapterNum}-${verseNum}.ts`);
-      const isTranslated = fs.existsSync(versePath);
-      verses[verseNum] = isTranslated;
-      if (isTranslated) {
-        chapterTranslatedVerses++;
-      }
-    }
-
-    chapters[chapterNum] = {
-      chapterNumber: chapterNum,
-      verses,
-      progress: chapterTotalVerses > 0 ? (chapterTranslatedVerses / chapterTotalVerses) * 100 : 0
+export interface ScriptureStructure {
+  [bookKey: string]: {
+    name: string;
+    chapters: {
+      [chapterNum: number]: number[];
     };
-
-    totalTranslatedVerses += chapterTranslatedVerses;
-    totalVerses += chapterTotalVerses;
-  }
-
-  return {
-    bookName: book.name,
-    chapters,
-    progress: totalVerses > 0 ? (totalTranslatedVerses / totalVerses) * 100 : 0
   };
 }
 
-export function getTranslationProgress(): TranslationProgressData {
+export interface ScriptureMetadata {
+  total: {
+    books: number;
+    chapters: number;
+    verses: number;
+  };
+  translated: {
+    books: number;
+    chapters: number;
+    verses: number;
+  };
+}
+
+function generateFinalStructure(): ScriptureStructure {
+  const finalStructure: ScriptureStructure = {};
+  
+  for (const [bookKey, book] of Object.entries(BOOKS)) {
+    const chapters: { [chapterNum: number]: number[] } = {};
+    
+    for (let chapterNum = 1; chapterNum <= book.chapters; chapterNum++) {
+      const verses: number[] = [];
+      const chapterTotalVerses = book.versesPerChapter[chapterNum as keyof typeof book.versesPerChapter];
+      
+      for (let verseNum = 1; verseNum <= chapterTotalVerses; verseNum++) {
+        verses.push(verseNum);
+      }
+      
+      chapters[chapterNum] = verses;
+    }
+    
+    finalStructure[bookKey] = {
+      name: book.name,
+      chapters
+    };
+  }
+  
+  return finalStructure;
+}
+
+function generateScriptureMetadata(): ScriptureMetadata {
+  let totalChapters = 0;
+  let totalVerses = 0;
+  let translatedBooks = 0;
+  let translatedChapters = 0;
+  let translatedVerses = 0;
+
+  for (const [bookKey, book] of Object.entries(BOOKS)) {
+    totalChapters += book.chapters;
+    totalVerses += Object.values(book.versesPerChapter).reduce((sum, verses) => sum + verses, 0);
+
+    // Check if book is fully translated
+    let bookFullyTranslated = true;
+    let bookTranslatedChapters = 0;
+    let bookTranslatedVerses = 0;
+
+    for (let chapterNum = 1; chapterNum <= book.chapters; chapterNum++) {
+      const chapterTotalVerses = book.versesPerChapter[chapterNum as keyof typeof book.versesPerChapter];
+      let chapterFullyTranslated = true;
+
+      for (let verseNum = 1; verseNum <= chapterTotalVerses; verseNum++) {
+        const versePath = path.join(SCRIPTURE_DIR, bookKey, `${bookKey.toLowerCase()}-${chapterNum}`, `${bookKey.toLowerCase()}-${chapterNum}-${verseNum}.ts`);
+        if (fs.existsSync(versePath)) {
+          bookTranslatedVerses++;
+        } else {
+          chapterFullyTranslated = false;
+        }
+      }
+
+      if (chapterFullyTranslated) {
+        bookTranslatedChapters++;
+      } else {
+        bookFullyTranslated = false;
+      }
+    }
+
+    if (bookFullyTranslated) {
+      translatedBooks++;
+    }
+    translatedChapters += bookTranslatedChapters;
+    translatedVerses += bookTranslatedVerses;
+  }
+
+  return {
+    total: {
+      books: Object.keys(BOOKS).length,
+      chapters: totalChapters,
+      verses: totalVerses
+    },
+    translated: {
+      books: translatedBooks,
+      chapters: translatedChapters,
+      verses: translatedVerses
+    }
+  };
+}
+
+function generateCurrentStructure(): ScriptureStructure {
+  const currentStructure: ScriptureStructure = {};
+  
+  for (const [bookKey, book] of Object.entries(BOOKS)) {
+    const chapters: { [chapterNum: number]: number[] } = {};
+    
+    for (let chapterNum = 1; chapterNum <= book.chapters; chapterNum++) {
+      const verses: number[] = [];
+      const chapterTotalVerses = book.versesPerChapter[chapterNum as keyof typeof book.versesPerChapter];
+      
+      for (let verseNum = 1; verseNum <= chapterTotalVerses; verseNum++) {
+        const versePath = path.join(SCRIPTURE_DIR, bookKey, `${bookKey.toLowerCase()}-${chapterNum}`, `${bookKey.toLowerCase()}-${chapterNum}-${verseNum}.ts`);
+        if (fs.existsSync(versePath)) {
+          verses.push(verseNum);
+        }
+      }
+      
+      if (verses.length > 0) {
+        chapters[chapterNum] = verses;
+      }
+    }
+    
+    if (Object.keys(chapters).length > 0) {
+      currentStructure[bookKey] = {
+        name: book.name,
+        chapters
+      };
+    }
+  }
+  
+  return currentStructure;
+}
+
+function calculateProgressFromStructures(final: ScriptureStructure, current: ScriptureStructure): TranslationProgressData {
   const books: TranslationProgressData['books'] = {};
   let totalTranslatedVerses = 0;
   let totalVerses = 0;
 
-  for (const bookKey of Object.keys(BOOKS) as Array<keyof typeof BOOKS>) {
-    const bookProgress = calculateBookProgress(bookKey);
-    books[bookKey] = bookProgress;
-    
-    // Calculate total verses and translated verses
-    for (const chapter of Object.values(bookProgress.chapters)) {
-      const chapterVerses = Object.values(chapter.verses);
-      totalTranslatedVerses += chapterVerses.filter(v => v).length;
-      totalVerses += chapterVerses.length;
+  for (const [bookKey, book] of Object.entries(final)) {
+    const chapters: Record<number, ChapterProgress> = {};
+    let bookTranslatedVerses = 0;
+    let bookTotalVerses = 0;
+
+    for (const [chapterNum, verses] of Object.entries(book.chapters)) {
+      const chapterNumInt = parseInt(chapterNum);
+      const currentChapter = current[bookKey]?.chapters[chapterNumInt] || [];
+      const chapterVerses: Record<number, boolean> = {};
+      
+      verses.forEach(verseNum => {
+        const isTranslated = currentChapter.includes(verseNum);
+        chapterVerses[verseNum] = isTranslated;
+        if (isTranslated) {
+          bookTranslatedVerses++;
+        }
+        bookTotalVerses++;
+      });
+
+      chapters[chapterNumInt] = {
+        chapterNumber: chapterNumInt,
+        verses: chapterVerses,
+        progress: verses.length > 0 ? (currentChapter.length / verses.length) * 100 : 0
+      };
     }
+
+    books[bookKey] = {
+      bookName: book.name,
+      chapters,
+      progress: bookTotalVerses > 0 ? (bookTranslatedVerses / bookTotalVerses) * 100 : 0
+    };
+
+    totalTranslatedVerses += bookTranslatedVerses;
+    totalVerses += bookTotalVerses;
   }
 
   return {
     books,
     totalProgress: totalVerses > 0 ? (totalTranslatedVerses / totalVerses) * 100 : 0
+  };
+}
+
+export function getTranslationProgress(): {
+  finalStructure: ScriptureStructure;
+  currentStructure: ScriptureStructure;
+  progress: TranslationProgressData;
+  metadata: ScriptureMetadata;
+} {
+  const finalStructure = generateFinalStructure();
+  const currentStructure = generateCurrentStructure();
+  const progress = calculateProgressFromStructures(finalStructure, currentStructure);
+  const metadata = generateScriptureMetadata();
+
+  return {
+    finalStructure,
+    currentStructure,
+    progress,
+    metadata
   };
 } 
