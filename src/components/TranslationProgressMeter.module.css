@@ -1,11 +1,25 @@
 .overallProgress {
   background-color: var(--ds-bg-container-low-contrast);
-  margin-bottom: var(--ds-space-4);
+  margin-bottom: var(--ds-space-2);
   display: flex;
   justify-content: space-between;
   align-items: center;
   border-radius: var(--ds-radius-md);
   padding-inline-start: var(--ds-space-2);
+}
+
+.metrics {
+  display: flex;
+  gap: var(--ds-space-2);
+  margin-bottom: var(--ds-space-6);
+}
+
+.metric {
+  background-color: var(--ds-bg-container-low-contrast);
+  padding: var(--ds-space-1) var(--ds-space-2);
+  border-radius: var(--ds-radius-md);
+  flex-grow: 1;
+  text-align: center;
 }
 
 .progressText {

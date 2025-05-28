@@ -3,6 +3,7 @@ import Content from './content.mdx';
 import './page.css';
 
 import translationProgress from '@/../public/meta/translation-progress.json';
+import scriptureMetadata from '@/../public/meta/scripture-metadata.json';
 
 export default function TranslationProgressPage() {
   return (
@@ -12,7 +13,10 @@ export default function TranslationProgressPage() {
       </div>
 
       <div>
-        <TranslationProgressMeter progress={translationProgress} />
+        <TranslationProgressMeter
+          progress={translationProgress}
+          metadata={scriptureMetadata}
+        />
       </div>
     </div>
   );
