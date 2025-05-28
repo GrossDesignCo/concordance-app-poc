@@ -1296,6 +1296,45 @@ const ROOTS = {
     englishNatural: 'to rejoice',
     type: 'verb',
   },
+  kalah: {
+    hebrew: 'כלה',
+    transliteration: 'kalah',
+    englishLiteral: 'to finish',
+    englishNatural: 'to finish',
+    type: 'verb',
+  },
+  tsava: {
+    hebrew: 'צבא',
+    transliteration: 'tsava',
+    englishLiteral: 'host',
+    englishNatural: 'host',
+    description: 'a large group, a nation, a people, or an army',
+    type: 'noun',
+  },
+  shavat: {
+    hebrew: 'שבת',
+    transliteration: 'shavat',
+    englishLiteral: 'to stop',
+    englishNatural: 'to stop',
+    description: 'specifically to Sabbath, to take a holy rest period',
+    type: 'verb',
+  },
+  qadash: {
+    hebrew: 'קדש',
+    transliteration: 'qadash',
+    englishLiteral: 'to sanctify',
+    englishNatural: 'to sanctify',
+    description: 'to set apart, to consecrate, to make holy',
+    related: ['qadashah'],
+    type: 'verb',
+  },
+  melakhah: {
+    hebrew: 'מְלָאכָה',
+    transliteration: 'melakhah',
+    englishLiteral: 'work',
+    englishNatural: 'work',
+    type: 'noun',
+  },
 } as const;
 
 export type HebrewRootKey = keyof typeof ROOTS;
