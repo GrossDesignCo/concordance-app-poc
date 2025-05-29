@@ -1325,7 +1325,6 @@ const ROOTS = {
     englishLiteral: 'to sanctify',
     englishNatural: 'to sanctify',
     description: 'to set apart, to consecrate, to make holy',
-    related: ['qadashah'],
     type: 'verb',
   },
   melakhah: {
