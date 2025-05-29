@@ -1,1 +1,1 @@
-In first was the Word, and the Word was with the God, and God was the Word. 
+In first was The Word, and The Word was with The God, and God was The Word. 

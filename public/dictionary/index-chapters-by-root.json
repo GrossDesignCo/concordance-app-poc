@@ -6,12 +6,14 @@
   },
   "bara": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "eloah": {
     "genesis": [
       1,
+      2,
       3
     ]
   },
@@ -40,7 +42,8 @@
   },
   "eretz": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "erev": {
@@ -98,7 +101,8 @@
   },
   "shamayim": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "shesh": {
@@ -122,6 +126,11 @@
   "revii": {
     "genesis": [
       1
+    ]
+  },
+  "shevii": {
+    "genesis": [
+      2
     ]
   },
   "arum": {
@@ -182,6 +191,7 @@
   "kol": {
     "genesis": [
       1,
+      2,
       3
     ],
     "isaiah": [
@@ -208,6 +218,7 @@
   "asah": {
     "genesis": [
       1,
+      2,
       3
     ],
     "numbers": [
@@ -241,6 +252,7 @@
   "asher": {
     "genesis": [
       1,
+      2,
       3
     ]
   },
@@ -275,6 +287,7 @@
   "ki": {
     "genesis": [
       1,
+      2,
       3
     ],
     "isaiah": [
@@ -330,7 +343,8 @@
   },
   "be": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "mut": {
@@ -447,7 +461,8 @@
   },
   "et": {
     "genesis": [
-      1
+      1,
+      2
     ],
     "numbers": [
       21
@@ -606,7 +621,8 @@
   },
   "yom": {
     "genesis": [
-      1
+      1,
+      2
     ],
     "proverbs": [
       22
@@ -757,7 +773,8 @@
   },
   "barakh": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "parah": {
@@ -873,6 +890,31 @@
   "samach": {
     "isaiah": [
       14
+    ]
+  },
+  "kalah": {
+    "genesis": [
+      2
+    ]
+  },
+  "tsava": {
+    "genesis": [
+      2
+    ]
+  },
+  "shavat": {
+    "genesis": [
+      2
+    ]
+  },
+  "qadash": {
+    "genesis": [
+      2
+    ]
+  },
+  "melakhah": {
+    "genesis": [
+      2
     ]
   },
   "en": {

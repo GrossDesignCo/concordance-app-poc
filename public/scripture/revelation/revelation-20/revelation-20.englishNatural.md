@@ -1,1 +1,1 @@
-and I saw a messenger descending from the heaven, having the key the abyss, and a chain great in the hand of his. and he seized the dragon, the snake, the ancient, who is the Accuser and the Adversary, and he bound him a thousand years. 
+and I saw a messenger descending from the heaven, having the key the abyss, and a chain great in the hand of his. and he seized the dragon, The Snake, The Ancient, who is Accuser and The Adversary, and he bound him a thousand years. 
