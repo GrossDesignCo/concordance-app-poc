@@ -1,13 +1,44 @@
 import { useState, useEffect } from 'react';
 import { FontKey, LanguageKey } from '@/types';
 
+/**
+ * A generic hook to sync state data to local storage.
+ * @param key - The key to use in localStorage
+ * @param initialValue - The initial value to use if no data is found in localStorage
+ * @returns [value, setValue, hydrated] - The current value, a function to update it, and a boolean indicating if hydration is complete
+ */
+export function useLocalStorage<T>(key: string, initialValue: T) {
+  const [value, setValue] = useState<T>(initialValue);
+  const [hydrated, setHydrated] = useState(false);
+
+  useEffect(() => {
+    // Only run on client
+    const stored = localStorage.getItem(key);
+    if (stored) {
+      try {
+        setValue(JSON.parse(stored));
+      } catch {
+        // ignore parse error, keep default
+      }
+    }
+    setHydrated(true);
+  }, [key]);
+
+  useEffect(() => {
+    if (hydrated) {
+      localStorage.setItem(key, JSON.stringify(value));
+    }
+  }, [value, hydrated, key]);
+
+  return [value, setValue, hydrated] as const;
+}
+
+// Settings-specific wrapper hook
 type Settings = {
   languages: LanguageKey[];
   theme: string;
   font: FontKey;
 };
-
-const STORAGE_KEY = 'concordance-settings';
 
 const defaultSettings: Settings = {
   languages: ['englishNatural'],
@@ -15,41 +46,6 @@ const defaultSettings: Settings = {
   font: 'sans',
 };
 
-/**
- * Use this hook to sync state data to local storage.
- * 1. Only run on client
- * 2. Use default settings if no data is found
- * 3. Use default settings if data is invalid
- * 4. Update local storage when state changes
- * 5. Return hydrated state to prevent hydration errors
- * @returns settings, setSettings, hydrated
- */
-export const useLocalStorage = () => {
-  const [settings, setSettings] = useState<Settings>(defaultSettings);
-  const [hydrated, setHydrated] = useState(false);
-
-  useEffect(() => {
-    // Only run on client
-    const stored = localStorage.getItem(STORAGE_KEY);
-    if (stored) {
-      try {
-        setSettings(JSON.parse(stored));
-      } catch {
-        // ignore parse error, keep default
-      }
-    }
-    setHydrated(true);
-  }, []);
-
-  useEffect(() => {
-    if (hydrated) {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(settings));
-    }
-  }, [settings, hydrated]);
-
-  return {
-    settings,
-    setSettings,
-    hydrated,
-  };
+export const useSettingsFromLocalStorage = () => {
+  return useLocalStorage<Settings>('concordance-settings', defaultSettings);
 }; 

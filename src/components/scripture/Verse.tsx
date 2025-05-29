@@ -4,9 +4,10 @@ import { useSettings } from '@/context/SettingsContext';
 import { String } from '../text/String';
 import styles from './Verse.module.css';
 import { useLexicon } from '@/context/LexiconContext';
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { resolveLanguage } from '@/utils/resolveLanguage';
 import { useSelection } from '@/context/SelectionContext';
+import { useScripturePosition } from '@/context/ScripturePositionContext';
 
 interface VerseProps {
   verse: VerseType;
@@ -51,11 +52,29 @@ export default function Verse({ verse }: VerseProps) {
     }
   }, [filterVerses, selectedWords, verse.words]);
 
+  // Observe this verses' position in the viewport
+  // Analogous to a scroll being opened, with several verses visible to the reader
+  const { observe, unobserve } = useScripturePosition();
+  const verseNumberElementRef = useRef<HTMLElement>(null);
+  const verseId = `${verse.meta.book.toUpperCase()} ${verse.meta.chapter}:${
+    verse.meta.number
+  }`;
+
+  useEffect(() => {
+    const verseElement = verseNumberElementRef.current;
+
+    if (verseElement) {
+      observe(verseElement);
+
+      return () => unobserve(verseElement);
+    }
+  }, [observe, unobserve, verseNumberElementRef, languages]);
+
   if (Boolean(selectedWords.length) && isFilteredOut) return;
 
   // Render Content
   const verseContent = (
-    <>
+    <span data-verse-id={verseId} ref={verseNumberElementRef}>
       {verse.meta.number ? (
         <sup className={styles.VerseNumber}>{verse.meta.number}</sup>
       ) : null}
@@ -85,7 +104,7 @@ export default function Verse({ verse }: VerseProps) {
           renderedString
         );
       })}
-    </>
+    </span>
   );
 
   // Wrap the whole thing in an extra container for visual effects if showing multiple

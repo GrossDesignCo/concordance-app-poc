@@ -1,6 +1,6 @@
 import { FontKey, LanguageKey } from '@/types';
 import { createContext, useContext, ReactNode } from 'react';
-import { useLocalStorage } from '@/hooks/useLocalStorage';
+import { useSettingsFromLocalStorage } from '@/hooks/useLocalStorage';
 
 interface SettingsContextProps {
   languages: LanguageKey[];
@@ -17,7 +17,7 @@ const SettingsContext = createContext<SettingsContextProps | undefined>(
 );
 
 export const SettingsProvider = ({ children }: { children: ReactNode }) => {
-  const { settings, setSettings, hydrated } = useLocalStorage();
+  const [settings, setSettings, hydrated] = useSettingsFromLocalStorage();
   const { languages, theme, font } = settings;
 
   // Don't render children until hydrated to avoid hydration mismatch
@@ -28,7 +28,7 @@ export const SettingsProvider = ({ children }: { children: ReactNode }) => {
     if (languages.includes(lang)) {
       setSettings({
         ...settings,
-        languages: languages.filter((l: LanguageKey) => l !== lang),
+        languages: languages.filter((l) => l !== lang),
       });
     } else {
       setSettings({
@@ -39,7 +39,7 @@ export const SettingsProvider = ({ children }: { children: ReactNode }) => {
   };
 
   const handleSetLanguages = (languages: LanguageKey[]) => {
-    const languageOrder = [
+    const languageOrder: LanguageKey[] = [
       'original',
       'transliteration',
       'englishLiteral',
