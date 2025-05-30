@@ -69,7 +69,7 @@ vaVayhi-boqer
 yom reviyi
 
 vaYomer Elohim yiShretsu haMayim sherets nephesh chayah 
-veOf yeOfef al-haAretz al-peNey raqia haShamayim
+veOf yeOfef al-haAretz al-peney raqia haShamayim
 
 vaYiVra Elohim et-haTanninim haGdolim 
 veEt kol-nephesh haChayah haRomeshet asher sharTsu haMayim leMinehem 

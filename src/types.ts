@@ -416,9 +416,6 @@ export interface VerseMeta {
   book: string;
   chapter: number;
   number: number;
-  paragraphBreak?: boolean;
-  poetryLine?: boolean;
-  indent?: number; // For poetry formatting
 }
 
 export interface Verse {

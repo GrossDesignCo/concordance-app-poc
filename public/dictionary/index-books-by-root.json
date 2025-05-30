@@ -226,6 +226,7 @@
     "numbers"
   ],
   "sim": [
+    "genesis",
     "numbers"
   ],
   "im": [
@@ -363,6 +364,7 @@
     "proverbs"
   ],
   "yalad": [
+    "genesis",
     "proverbs"
   ],
   "ashar": [
@@ -378,6 +380,7 @@
     "proverbs"
   ],
   "zeh": [
+    "genesis",
     "proverbs"
   ],
   "ot": [
@@ -505,6 +508,57 @@
     "genesis"
   ],
   "melakhah": [
+    "genesis"
+  ],
+  "avad": [
+    "genesis"
+  ],
+  "matar": [
+    "genesis"
+  ],
+  "siakh": [
+    "genesis"
+  ],
+  "terem": [
+    "genesis"
+  ],
+  "tzamach": [
+    "genesis"
+  ],
+  "ayin": [
+    "genesis"
+  ],
+  "ed": [
+    "genesis"
+  ],
+  "alah": [
+    "genesis"
+  ],
+  "shaqah": [
+    "genesis"
+  ],
+  "yatsar": [
+    "genesis"
+  ],
+  "afar": [
+    "genesis"
+  ],
+  "naphach": [
+    "genesis"
+  ],
+  "neshamah": [
+    "genesis"
+  ],
+  "nata": [
+    "genesis"
+  ],
+  "eden": [
+    "genesis"
+  ],
+  "qedem": [
+    "genesis"
+  ],
+  "sham": [
     "genesis"
   ],
   "en": [
