@@ -174,6 +174,12 @@ const PREFIXES = {
     englishLiteral: 'that',
     englishNatural: 'that',
   },
+  ke: {
+    hebrew: 'כְּ',
+    transliteration: 'ke',
+    englishLiteral: 'as',
+    englishNatural: 'as',
+  },
 } as const;
 
 type PrefixKey = keyof typeof PREFIXES;

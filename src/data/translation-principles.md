@@ -70,6 +70,12 @@ The goal is to create as close to a 1:1 Hebrew:English mapping as possible, even
      - "God rested Man in the garden"
      - "And he called his name Rest, saying 'At last this one will give us rest'"
 
+1. Transliterate unknown words
+
+Specific names of certain places or materials may be unknown or not fit into any semantic range, such as "Bedolach" (Traditionally Bdellium in Genesis 2:12 and Numbers 11:7, which itself is a transliteration of a Greek transliteration of the Hebrew term). Rabbinic translation takes guesses at what this material could be, but it appears to be genuinely lost to the ages, adding to the exotic mystique.
+
+In these cases, a simple transliteration of the original Hebrew seems the most appropriate, with an accompanying lexicon entry explaining the history.
+
 ## English-Natural Translation Principles
 
 1. Maintain readability while preserving meaning.

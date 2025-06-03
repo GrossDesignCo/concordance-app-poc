@@ -1,7 +1,8 @@
 {
   "rosh": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "bara": {
@@ -20,6 +21,7 @@
   "amar": {
     "genesis": [
       1,
+      2,
       3
     ],
     "numbers": [
@@ -117,17 +119,20 @@
   },
   "sheni": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "shlishi": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "revii": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "shevii": {
@@ -155,6 +160,9 @@
     ]
   },
   "raah_bad": {
+    "genesis": [
+      2
+    ],
     "proverbs": [
       22
     ]
@@ -239,6 +247,7 @@
   },
   "akhal": {
     "genesis": [
+      2,
       3
     ]
   },
@@ -251,6 +260,7 @@
   "etz": {
     "genesis": [
       1,
+      2,
       3
     ]
   },
@@ -343,7 +353,8 @@
   },
   "tokh": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "ken": {
@@ -358,6 +369,9 @@
     ]
   },
   "mut": {
+    "genesis": [
+      2
+    ],
     "numbers": [
       21
     ]
@@ -549,7 +563,8 @@
   },
   "yatsa": {
     "genesis": [
-      1
+      1,
+      2
     ],
     "isaiah": [
       14
@@ -561,13 +576,17 @@
     ]
   },
   "hu": {
+    "genesis": [
+      2
+    ],
     "isaiah": [
       6
     ]
   },
   "echad": {
     "genesis": [
-      1
+      1,
+      2
     ],
     "isaiah": [
       6
@@ -596,6 +615,9 @@
     ]
   },
   "lakach": {
+    "genesis": [
+      2
+    ],
     "isaiah": [
       6
     ]
@@ -612,7 +634,8 @@
   },
   "tov": {
     "genesis": [
-      1
+      1,
+      2
     ],
     "proverbs": [
       22
@@ -673,6 +696,9 @@
     ]
   },
   "shem": {
+    "genesis": [
+      2
+    ],
     "proverbs": [
       22
     ]
@@ -683,6 +709,9 @@
     ]
   },
   "mavet": {
+    "genesis": [
+      2
+    ],
     "proverbs": [
       22
     ]
@@ -872,7 +901,8 @@
   },
   "okhel": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "of": {
@@ -1021,6 +1051,131 @@
     ]
   },
   "sham": {
+    "genesis": [
+      2
+    ]
+  },
+  "chamad": {
+    "genesis": [
+      2
+    ]
+  },
+  "mareh": {
+    "genesis": [
+      2
+    ]
+  },
+  "daat": {
+    "genesis": [
+      2
+    ]
+  },
+  "nahar": {
+    "genesis": [
+      2
+    ]
+  },
+  "parad": {
+    "genesis": [
+      2
+    ]
+  },
+  "arba": {
+    "genesis": [
+      2
+    ]
+  },
+  "nuach": {
+    "genesis": [
+      2
+    ]
+  },
+  "shamar": {
+    "genesis": [
+      2
+    ]
+  },
+  "badad": {
+    "genesis": [
+      2
+    ]
+  },
+  "ezer": {
+    "genesis": [
+      2
+    ]
+  },
+  "neged": {
+    "genesis": [
+      2
+    ]
+  },
+  "Pishon": {
+    "genesis": [
+      2
+    ]
+  },
+  "Chavilah": {
+    "genesis": [
+      2
+    ]
+  },
+  "savav": {
+    "genesis": [
+      2
+    ]
+  },
+  "zahav": {
+    "genesis": [
+      2
+    ]
+  },
+  "bedolach": {
+    "genesis": [
+      2
+    ]
+  },
+  "even": {
+    "genesis": [
+      2
+    ]
+  },
+  "shoham": {
+    "genesis": [
+      2
+    ]
+  },
+  "gichon": {
+    "genesis": [
+      2
+    ]
+  },
+  "kush": {
+    "genesis": [
+      2
+    ]
+  },
+  "chidekel": {
+    "genesis": [
+      2
+    ]
+  },
+  "halakh": {
+    "genesis": [
+      2
+    ]
+  },
+  "ashur": {
+    "genesis": [
+      2
+    ]
+  },
+  "perat": {
+    "genesis": [
+      2
+    ]
+  },
+  "tzavah": {
     "genesis": [
       2
     ]

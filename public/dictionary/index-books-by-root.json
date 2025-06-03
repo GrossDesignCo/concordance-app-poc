@@ -82,6 +82,7 @@
     "proverbs"
   ],
   "raah_bad": [
+    "genesis",
     "proverbs"
   ],
   "satar": [
@@ -180,6 +181,7 @@
     "genesis"
   ],
   "mut": [
+    "genesis",
     "numbers"
   ],
   "saraph": [
@@ -293,6 +295,7 @@
     "isaiah"
   ],
   "hu": [
+    "genesis",
     "isaiah"
   ],
   "echad": [
@@ -311,6 +314,7 @@
     "isaiah"
   ],
   "lakach": [
+    "genesis",
     "isaiah"
   ],
   "Peleshet": [
@@ -355,12 +359,14 @@
     "genesis"
   ],
   "shem": [
+    "genesis",
     "proverbs"
   ],
   "shemen": [
     "proverbs"
   ],
   "mavet": [
+    "genesis",
     "proverbs"
   ],
   "yalad": [
@@ -559,6 +565,81 @@
     "genesis"
   ],
   "sham": [
+    "genesis"
+  ],
+  "chamad": [
+    "genesis"
+  ],
+  "mareh": [
+    "genesis"
+  ],
+  "daat": [
+    "genesis"
+  ],
+  "nahar": [
+    "genesis"
+  ],
+  "parad": [
+    "genesis"
+  ],
+  "arba": [
+    "genesis"
+  ],
+  "nuach": [
+    "genesis"
+  ],
+  "shamar": [
+    "genesis"
+  ],
+  "badad": [
+    "genesis"
+  ],
+  "ezer": [
+    "genesis"
+  ],
+  "neged": [
+    "genesis"
+  ],
+  "Pishon": [
+    "genesis"
+  ],
+  "Chavilah": [
+    "genesis"
+  ],
+  "savav": [
+    "genesis"
+  ],
+  "zahav": [
+    "genesis"
+  ],
+  "bedolach": [
+    "genesis"
+  ],
+  "even": [
+    "genesis"
+  ],
+  "shoham": [
+    "genesis"
+  ],
+  "gichon": [
+    "genesis"
+  ],
+  "kush": [
+    "genesis"
+  ],
+  "chidekel": [
+    "genesis"
+  ],
+  "halakh": [
+    "genesis"
+  ],
+  "ashur": [
+    "genesis"
+  ],
+  "perat": [
+    "genesis"
+  ],
+  "tzavah": [
     "genesis"
   ],
   "en": [
