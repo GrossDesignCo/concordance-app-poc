@@ -34,7 +34,10 @@ And-the-river the-fourth, he Fruitful (Perat).
 
 And-took He_Who_Is Gods ↳ the-human, and-rested-him in-garden- Delight (Eden), to-serve-her and-to-keep-her.
 
-And-commanded He_Who_Is Gods over- the-human, to-say, "From-all tree- the-garden, eating, let-you-will-eat."
-and-from-tree the-knowledge good and-bad, not you-will-eat from-it; that in-day your-eating from-it, death, you-will-die.
+And-commanded He_Who_Is Gods over- the-human, to-say, "From-all tree- the-garden, eating, let-you-will-eat, and-from-tree the-knowledge good and-bad, not you-will-eat from-it; that in-day your-eating from-it, death, you-will-die."
 
-And-said He_Who_Is Gods, "No- good to-be the-human to-himself; I-will-make- to-him help as-his_opposite."
+And-said He_Who_Is Gods, "No- good to-be the-human to-alone-him; I-will-make- to-him help, as-his_opposite."
+
+And-formed He_Who_Is Gods from- the-soil all- living_thing-of the-field, and-↳ all- flyer the-skies; 
+And-brought to- the-human to-see what- he-calls- to-it; 
+And-all which he-calls- to-it the-human, throat living, it its-name.

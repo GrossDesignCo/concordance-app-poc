@@ -43,6 +43,9 @@ export const genesis_2_16: Verse = {
       morphology: {
         type: 'noun',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'אֱלֹהִים',
@@ -211,10 +214,9 @@ export const genesis_2_16: Verse = {
         stem: 'qal',
       },
       grammarSuffix: {
-        englishLiteral: '."',
-        englishNatural: '."',
+        englishLiteral: ',',
+        englishNatural: ',',
       },
-      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
@@ -223,9 +225,9 @@ export const genesis_2_16: Verse = {
     transliteration:
       'vaYetzav YHWH Elohim al-haAdam leEmor miKol etz-haGan akhol toAkhel',
     englishLiteral:
-      'And-commanded He_Who_Is Gods over- the-human, to-say, "From-all tree- the-garden, eating, let-you-will-eat.',
+      'And-commanded He_Who_Is Gods over- the-human, to-say, "From-all tree- the-garden, eating, let-you-will-eat,',
     englishNatural:
-      'And He-Who-Is God commanded over the human, saying, "From all tree of the garden, eating, let you eat."',
+      'And He-Who-Is God commanded over the human, saying, "From all tree of the garden, eating, let you eat,',
     kjv: 'And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:',
     lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
   },

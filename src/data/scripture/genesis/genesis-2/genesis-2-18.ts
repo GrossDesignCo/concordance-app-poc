@@ -138,8 +138,8 @@ export const genesis_2_18: Verse = {
     {
       hebrew: 'לְבַדּוֹ',
       transliteration: 'leVaddo',
-      englishLiteral: 'to-himself',
-      englishNatural: 'alone',
+      englishLiteral: 'to-alone-him',
+      englishNatural: 'to himself alone',
       root: 'badad',
       prefixes: ['le'],
       suffixes: ['o'],
@@ -178,7 +178,7 @@ export const genesis_2_18: Verse = {
       hebrew: 'לוֹ',
       transliteration: 'lo',
       englishLiteral: 'to-him',
-      englishNatural: 'for him',
+      englishNatural: 'to him',
       root: 'lo',
       suffixes: ['o'],
       order: {
@@ -201,6 +201,10 @@ export const genesis_2_18: Verse = {
       },
       morphology: {
         type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
       },
     },
     {
@@ -231,9 +235,9 @@ export const genesis_2_18: Verse = {
     transliteration:
       'vaYomer YHWH Elohim lo-tov heyot haAdam leVaddo eese-lo ezer keNegdo',
     englishLiteral:
-      'And-said He_Who_Is Gods, "No- good to-be the-human to-himself; I-will-make- to-him help as-his_opposite."',
+      'And-said He_Who_Is Gods, "No- good to-be the-human to-alone-him; I-will-make- to-him help, as-his_opposite."',
     englishNatural:
-      'And He-Who-Is God said, "No good for the human to be alone; I will make for him a help as his opposite."',
+      'And He-Who-Is God said, "No good for the human to be to himself alone; I will make to him a help, as his opposite."',
     kjv: 'And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.',
     lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
   },

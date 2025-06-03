@@ -34,7 +34,10 @@ veHaNahar haRevii hu Perat
 
 vaYikach YHWH Elohim et-haAdam vaYanNichehu beGan-Eden leAvdah uLeShamrah
 
-vaYetzav YHWH Elohim al-haAdam leEmor miKol etz-haGan akhol toAkhel
-uMeEtz haDaat tov vaRa lo toAkhal mimennu ki beYom akhalekha mimennu mot tamuth
+vaYetzav YHWH Elohim al-haAdam leEmor miKol etz-haGan akhol toAkhel uMeEtz haDaat tov vaRa lo toAkhal mimennu ki beYom akhalekha mimennu mot tamuth
 
 vaYomer YHWH Elohim lo-tov heyot haAdam leVaddo eese-lo ezer keNegdo
+
+vaYitzer YHWH Elohim min-haAdamah kol-chayyat haSadeh veEt kol-of haShamayim 
+vaYave el-haAdam liReot mah-yiqra-lo 
+veKol asher yiqra-lo haAdam nephesh chayyah hu shemo

@@ -85,7 +85,7 @@ export const genesis_2_9: Verse = {
       hebrew: 'כָּל־',
       transliteration: 'kol-',
       englishLiteral: 'all-',
-      englishNatural: 'all',
+      englishNatural: 'every',
       root: 'kol',
       order: {
         hebrew: 5,
@@ -321,7 +321,7 @@ export const genesis_2_9: Verse = {
     englishLiteral:
       'And-grew He_Who_Is Gods from-the-soil all- tree pleasant to-sight and-good to-food, and-tree the-lives in-midst the-garden, and-tree the-knowledge good and-bad.',
     englishNatural:
-      'And He-Who-Is God grew from the soil all tree pleasant to the sight and good for food, and the Tree of Life in the midst of the garden, and the Tree of Knowledge of Good and Bad.',
+      'And He-Who-Is God grew from the soil every tree pleasant to the sight and good for food, and the Tree of Life in the midst of the garden, and the Tree of Knowledge of Good and Bad.',
     kjv: 'And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.',
     lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
   },

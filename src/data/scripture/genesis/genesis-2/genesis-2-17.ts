@@ -230,8 +230,8 @@ export const genesis_2_17: Verse = {
         stem: 'qal',
       },
       grammarSuffix: {
-        englishLiteral: '.',
-        englishNatural: '.',
+        englishLiteral: '."',
+        englishNatural: '."',
       },
       lineBreaksAfter: 1,
     },
@@ -242,9 +242,9 @@ export const genesis_2_17: Verse = {
     transliteration:
       'uMeEtz haDaat tov vaRa lo toAkhal mimennu ki beYom akhalekha mimennu mot tamuth',
     englishLiteral:
-      'and-from-tree the-knowledge good and-bad, not you-will-eat from-it; that in-day your-eating from-it, death, you-will-die.',
+      'and-from-tree the-knowledge good and-bad, not you-will-eat from-it; that in-day your-eating from-it, death, you-will-die."',
     englishNatural:
-      'and from the Tree of Knowledge of Good and Bad, you will eat from it not; that in the day of your eating from it, death, you will die.',
+      'and from the Tree of Knowledge of Good and Bad, you will eat from it not; that in the day of your eating from it, death, you will die."',
     kjv: 'But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.',
     lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
   },

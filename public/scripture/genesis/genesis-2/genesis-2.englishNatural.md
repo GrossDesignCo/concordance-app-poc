@@ -21,7 +21,7 @@ and the human was a living throat.
 And He-Who-Is God planted a garden in Delight (Eden) from the east, 
 and set there the human which he formed.
 
-And He-Who-Is God grew from the soil all tree pleasant to the sight and good for food, 
+And He-Who-Is God grew from the soil every tree pleasant to the sight and good for food, 
 and the Tree of Life in the midst of the garden, 
 and the Tree of Knowledge of Good and Bad.
 
@@ -33,7 +33,11 @@ The name of the third river, Rapid (Chidekel); it walks east of Steppe (Ashur).
 And the fourth river, it is Fruitful (Perat).
 
 And He-Who-Is God took the human, and rested him in the garden of Delight (Eden), to serve her and to keep her.
-And He-Who-Is God commanded over the human, saying, "From all tree of the garden, eating, let you eat."
-and from the Tree of Knowledge of Good and Bad, you will eat from it not; that in the day of your eating from it, death, you will die.
 
-And He-Who-Is God said, "No good for the human to be alone; I will make for him a help as his opposite."
+And He-Who-Is God commanded over the human, saying, "From all tree of the garden, eating, let you eat, and from the Tree of Knowledge of Good and Bad, you will eat from it not; that in the day of your eating from it, death, you will die."
+
+And He-Who-Is God said, "No good for the human to be to himself alone; I will make to him a help, as his opposite."
+
+And He-Who-Is God formed from the soil every living-thing of the field, and every flyer of the skies; 
+And brought to the human to see what he would call it; 
+And everything which the human would call it, each living throat, that was its name.
