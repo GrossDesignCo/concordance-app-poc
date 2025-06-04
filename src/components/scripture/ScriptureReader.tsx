@@ -42,7 +42,7 @@ export const ScriptureReader = () => {
             if (!filterVerses || !filteredStructure) return true;
             const bookName = book.meta.name.toLowerCase();
             return filteredStructure.chapters[bookName]?.includes(
-              chapter.number
+              chapter.meta.chapter
             );
           });
 

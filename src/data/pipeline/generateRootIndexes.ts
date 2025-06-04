@@ -66,7 +66,7 @@ async function generateRootIndexes() {
           if (!indexes.verses[root][book][chapterNumber]) {
             indexes.verses[root][book][chapterNumber] = [];
           }
-          indexes.verses[root][book][chapterNumber].push(verse.meta.number);
+          indexes.verses[root][book][chapterNumber].push(verse.meta.verse);
 
           // Update chapters index
           if (!indexes.chapters[root][book]) {

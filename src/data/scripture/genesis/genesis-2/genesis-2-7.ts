@@ -4,7 +4,7 @@ export const genesis_2_7: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 7,
+    verse: 7,
   },
   words: [
     {
@@ -316,6 +316,6 @@ export const genesis_2_7: Verse = {
     englishNatural:
       'And He-Who-Is God formed the human, dust from the soil; and blew into his nostrils the breath of life, and the human was a living throat.',
     kjv: 'And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

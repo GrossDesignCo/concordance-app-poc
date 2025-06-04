@@ -4,7 +4,7 @@ export const genesis_2_2: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 2,
+    verse: 2,
   },
   words: [
     {
@@ -287,6 +287,6 @@ export const genesis_2_2: Verse = {
     englishNatural:
       'And God finished in the seventh day, his work which he made; and stopped in the seventh day, from all his work which he made.',
     kjv: 'And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

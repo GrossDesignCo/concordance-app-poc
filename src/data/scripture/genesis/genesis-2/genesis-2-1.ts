@@ -4,7 +4,7 @@ export const genesis_2_1: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 1,
+    verse: 1,
   },
   words: [
     {
@@ -116,6 +116,6 @@ export const genesis_2_1: Verse = {
     englishNatural:
       'And finished were the skies, and the land, and all their host.',
     kjv: 'Thus the heavens and the earth were finished, and all the host of them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

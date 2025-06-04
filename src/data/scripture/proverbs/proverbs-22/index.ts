@@ -4,7 +4,10 @@ import { proverbs_22_2 } from './proverbs-22-2';
 import { proverbs_22_3 } from './proverbs-22-3';
 
 const chapter: Chapter = {
-  number: 22,
+  meta: {
+    book: 'Proverbs',
+    chapter: 22,
+  },
   verses: [proverbs_22_1, proverbs_22_2, proverbs_22_3],
 };
 

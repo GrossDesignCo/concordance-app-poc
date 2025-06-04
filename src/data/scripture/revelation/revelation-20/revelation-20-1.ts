@@ -4,7 +4,7 @@ export const revelation_20_1: Verse = {
   meta: {
     book: 'Revelation',
     chapter: 20,
-    number: 1,
+    verse: 1,
   },
   words: [
     {
@@ -366,6 +366,6 @@ export const revelation_20_1: Verse = {
     englishNatural:
       'and I saw a messenger descending from the heaven, having the key the abyss, and a chain great in the hand of his.',
     kjv: 'And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

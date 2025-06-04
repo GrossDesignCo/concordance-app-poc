@@ -4,7 +4,7 @@ export const genesis_2_14: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 14,
+    verse: 14,
   },
   words: [
     {
@@ -229,6 +229,6 @@ export const genesis_2_14: Verse = {
     englishNatural:
       'The name of the third river, Rapid (Chidekel); it walks east of Steppe (Ashur). And the fourth river, it is Fruitful (Perat).',
     kjv: 'And the name of the third river is Hiddekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphrates.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

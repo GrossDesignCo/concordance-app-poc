@@ -4,7 +4,7 @@ export const matthew_10_16: Verse = {
   meta: {
     book: 'Matthew',
     chapter: 10,
-    number: 16,
+    verse: 16,
   },
   words: [
     {
@@ -355,6 +355,6 @@ export const matthew_10_16: Verse = {
       'Behold, I send you as sheep in midst wolves; be therefore shrewd as the snakes and innocent as the doves.',
     englishNatural:
       'Behold, I send you as sheep in the midst of wolves; be therefore shrewd as the snakes and innocent as the doves.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

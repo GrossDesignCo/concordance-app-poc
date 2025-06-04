@@ -4,7 +4,7 @@ export const genesis_2_4: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 4,
+    verse: 4,
   },
   words: [
     {
@@ -210,6 +210,6 @@ export const genesis_2_4: Verse = {
     englishNatural:
       'These are the birthings of the skies and the land, in their being created; in the day He-Who-Is God made land and skies.',
     kjv: 'These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

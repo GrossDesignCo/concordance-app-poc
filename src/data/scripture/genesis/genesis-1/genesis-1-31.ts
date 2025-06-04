@@ -4,7 +4,7 @@ export const genesis_1_31: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 1,
-    number: 31,
+    verse: 31,
   },
   words: [
     {
@@ -333,6 +333,6 @@ export const genesis_1_31: Verse = {
     englishLiteral: 'And-saw Gods, ↳ all which made, And-behold, good very. And-was evening, And-was morning, Day the-sixth.',
     englishNatural: 'And God saw, all which was made, And behold, very good. And evening was, And morning was, The sixth day.',
     kjv: 'And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 }; 

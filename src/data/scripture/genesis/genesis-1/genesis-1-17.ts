@@ -4,7 +4,7 @@ export const genesis_1_17: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 1,
-    number: 17,
+    verse: 17,
   },
   words: [
     {
@@ -165,6 +165,6 @@ export const genesis_1_17: Verse = {
     englishLiteral: 'And-put them Gods in-hammering_out, the-skies, to-shine_light over the-land.',
     englishNatural: 'And God put them in the hammering-out, the skies, to shine-light over the land.',
     kjv: 'And God set them in the firmament of the heaven to give light upon the earth,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 }; 

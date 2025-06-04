@@ -4,7 +4,7 @@ export const genesis_1_13: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 1,
-    number: 13,
+    verse: 13,
   },
   words: [
     {
@@ -159,6 +159,6 @@ export const genesis_1_13: Verse = {
     englishLiteral: 'And-was evening, And-was morning, Day third.',
     englishNatural: 'And evening was, And morning was, A third day.',
     kjv: 'And the evening and the morning were the third day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 }; 

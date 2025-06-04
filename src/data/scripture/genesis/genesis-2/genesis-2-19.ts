@@ -4,7 +4,7 @@ export const genesis_2_19: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 19,
+    verse: 19,
   },
   words: [
     {
@@ -499,6 +499,6 @@ export const genesis_2_19: Verse = {
     englishNatural:
       'And He-Who-Is God formed from the soil every living-thing of the field, and every flyer of the skies; And brought to the human to see what he would call it; And everything which the human would call it, each living throat, that was its name.',
     kjv: 'And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

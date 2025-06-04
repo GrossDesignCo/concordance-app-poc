@@ -49,22 +49,22 @@ describe('Scripture Index Validation Tests: Ensure all files are properly indexe
       const bookPath = join(__dirname, '..', 'scripture', book.meta.name.toLowerCase());
       
       book.chapters.forEach((chapter: Chapter) => {
-        const chapterPath = join(bookPath, `${book.meta.name.toLowerCase()}-${chapter.number}`);
+        const chapterPath = join(bookPath, `${book.meta.name.toLowerCase()}-${chapter.meta.chapter}`);
         const verseFiles = getVerseFiles(chapterPath);
         
         // Get the verse numbers from the files
         const verseNumbersFromFiles = verseFiles.map(file => {
-          const match = file.match(new RegExp(`${book.meta.name.toLowerCase()}-${chapter.number}-(\\d+)`));
+          const match = file.match(new RegExp(`${book.meta.name.toLowerCase()}-${chapter.meta.chapter}-(\\d+)`));
           return match ? parseInt(match[1]) : null;
         }).filter((num): num is number => num !== null);
 
         // Get the verse numbers from the chapter index
-        const verseNumbersFromIndex = chapter.verses.map((verse: Verse) => verse.meta.number);
+        const verseNumbersFromIndex = chapter.verses.map((verse: Verse) => verse.meta.verse);
 
         // Check for verses that exist as files but are not in the index
         verseNumbersFromFiles.forEach(verseNumber => {
           if (!verseNumbersFromIndex.includes(verseNumber)) {
-            console.error(`Missing verse in index: ${book.meta.name} ${chapter.number}:${verseNumber}`);
+            console.error(`Missing verse in index: ${book.meta.name} ${chapter.meta.chapter}:${verseNumber}`);
           }
           expect(verseNumbersFromIndex).toContain(verseNumber);
         });
@@ -72,7 +72,7 @@ describe('Scripture Index Validation Tests: Ensure all files are properly indexe
         // Check for verses that are in the index but don't exist as files
         verseNumbersFromIndex.forEach(verseNumber => {
           if (!verseNumbersFromFiles.includes(verseNumber)) {
-            console.error(`Missing verse file: ${book.meta.name} ${chapter.number}:${verseNumber}`);
+            console.error(`Missing verse file: ${book.meta.name} ${chapter.meta.chapter}:${verseNumber}`);
           }
           expect(verseNumbersFromFiles).toContain(verseNumber);
         });
@@ -93,7 +93,7 @@ describe('Scripture Index Validation Tests: Ensure all files are properly indexe
       }).filter((num): num is number => num !== null);
 
       // Get the chapter numbers from the book index
-      const chapterNumbersFromIndex = book.chapters.map(chapter => chapter.number);
+      const chapterNumbersFromIndex = book.chapters.map(chapter => chapter.meta.chapter);
 
       // Check for chapters that exist as directories but are not in the index
       chapterNumbersFromDirs.forEach(chapterNumber => {

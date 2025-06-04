@@ -32,7 +32,10 @@ import { genesis_1_30 } from './genesis-1-30';
 import { genesis_1_31 } from './genesis-1-31';
 
 const chapter: Chapter = {
-  number: 1,
+  meta: {
+    book: 'Genesis',
+    chapter: 1,
+  },
   verses: [
     genesis_1_1,
     genesis_1_2,

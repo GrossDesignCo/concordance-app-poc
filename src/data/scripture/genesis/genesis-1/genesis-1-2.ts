@@ -4,7 +4,7 @@ export const genesis_1_2: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 1,
-    number: 2,
+    verse: 2,
   },
   words: [
     {
@@ -258,6 +258,6 @@ export const genesis_1_2: Verse = {
     englishNatural:
       'And the land was waste and void; And darkness over the face of the deep. And the Wind of God was stirring over the face of the waters.',
     kjv: 'And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

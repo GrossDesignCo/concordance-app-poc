@@ -1,11 +1,8 @@
-import { Verse, LanguageKey } from '@/types';
+import { LanguageKey, Chapter } from '@/types';
 import { buildVerseText } from './buildVerseText';
 
 interface ChapterData {
-  chapterData: {
-    number: number;
-    verses: Verse[];
-  };
+  chapterData: Chapter;
   language: LanguageKey;
 }
 
@@ -14,7 +11,7 @@ export function buildChapterText({chapterData, language}: ChapterData): string {
   const chapter = chapterData;
   
   // Sort verses by their number
-  const verses = chapter.verses.sort((a, b) => a.meta.number - b.meta.number);
+  const verses = chapter.verses.sort((a, b) => a.meta.verse - b.meta.verse);
   
   let markdown = '';
   verses.forEach(verse => {

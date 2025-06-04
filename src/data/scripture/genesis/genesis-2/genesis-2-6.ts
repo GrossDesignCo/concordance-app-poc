@@ -4,7 +4,7 @@ export const genesis_2_6: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 6,
+    verse: 6,
   },
   words: [
     {
@@ -167,6 +167,6 @@ export const genesis_2_6: Verse = {
     englishNatural:
       'And a mist went up from the land, and gave drink to all the face of the soil.',
     kjv: 'But there went up a mist from the earth, and watered the whole face of the ground.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

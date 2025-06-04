@@ -9,7 +9,7 @@ const ViewPanelsContext = createContext<ViewPanelsContextProps | undefined>(
   undefined
 );
 
-export type SecondaryPanel = null | 'lexicon' | 'settings';
+export type SecondaryPanel = null | 'lexicon' | 'settings' | 'scriptureNav';
 
 export const ViewPanelsProvider = ({ children }: { children: ReactNode }) => {
   const [secondaryPanel, setSecondaryPanel] = useState<SecondaryPanel>(null);

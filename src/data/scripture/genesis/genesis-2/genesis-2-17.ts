@@ -4,7 +4,7 @@ export const genesis_2_17: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 17,
+    verse: 17,
   },
   words: [
     {
@@ -246,6 +246,6 @@ export const genesis_2_17: Verse = {
     englishNatural:
       'and from the Tree of Knowledge of Good and Bad, you will eat from it not; that in the day of your eating from it, death, you will die."',
     kjv: 'But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

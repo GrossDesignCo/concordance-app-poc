@@ -4,7 +4,7 @@ export const genesis_1_15: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 1,
-    number: 15,
+    verse: 15,
   },
   words: [
     {
@@ -145,6 +145,6 @@ export const genesis_1_15: Verse = {
     englishLiteral: 'And-they-will-be for-light_sources in-hammering_out the-skies, to-shine_light over the-land.',
     englishNatural: 'And they will be for light-sources in the hammering-out, the skies, to shine-light over the land.',
     kjv: 'And let them be for lights in the firmament of the heaven to give light upon the earth:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 }; 

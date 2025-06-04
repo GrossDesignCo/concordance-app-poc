@@ -1,5 +1,5 @@
 import { FontKey, LanguageKey } from '@/types';
-import { createContext, useContext, ReactNode } from 'react';
+import { createContext, useContext, ReactNode, useEffect, useRef } from 'react';
 import { useSettingsFromLocalStorage } from '@/hooks/useLocalStorage';
 
 interface SettingsContextProps {
@@ -20,11 +20,32 @@ export const SettingsProvider = ({ children }: { children: ReactNode }) => {
   const [settings, setSettings, hydrated] = useSettingsFromLocalStorage();
   const { languages, theme, font } = settings;
 
+  const preChangeVerse = useRef<string | null>(null);
+  const getPreChangeVerse = () => {
+    const verseArray = JSON.parse(
+      localStorage.getItem('visible-verses') || '{}'
+    );
+    const middle = Math.floor(verseArray.length / 2);
+    return verseArray[middle];
+  };
+
+  useEffect(() => {
+    const markedVerseElement = document.querySelector(
+      `[data-verse-id="${preChangeVerse.current}"]`
+    );
+    if (markedVerseElement) {
+      markedVerseElement.scrollIntoView({ block: 'center' });
+    }
+  }, [languages, preChangeVerse]);
+
   // Don't render children until hydrated to avoid hydration mismatch
   if (!hydrated) return null;
 
   // Toggle an individual language
   const toggleLanguage = (lang: LanguageKey) => {
+    const markedVerse = getPreChangeVerse();
+    preChangeVerse.current = markedVerse;
+
     if (languages.includes(lang)) {
       setSettings({
         ...settings,
@@ -39,6 +60,9 @@ export const SettingsProvider = ({ children }: { children: ReactNode }) => {
   };
 
   const handleSetLanguages = (languages: LanguageKey[]) => {
+    const markedVerse = getPreChangeVerse();
+    preChangeVerse.current = markedVerse;
+
     const languageOrder: LanguageKey[] = [
       'original',
       'transliteration',

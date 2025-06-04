@@ -4,7 +4,7 @@ export const genesis_2_16: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 16,
+    verse: 16,
   },
   words: [
     {
@@ -229,6 +229,6 @@ export const genesis_2_16: Verse = {
     englishNatural:
       'And He-Who-Is God commanded over the human, saying, "From all tree of the garden, eating, let you eat,',
     kjv: 'And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

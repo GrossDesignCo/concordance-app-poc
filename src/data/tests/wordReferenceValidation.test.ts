@@ -119,17 +119,17 @@ describe('Word Reference Validation Tests: Ensure all string references exist in
     describe(`${book.meta.name}`, () => {
       // Iterate through all chapters in the book
       book.chapters.forEach((chapter) => {
-        describe(`Chapter ${chapter.number}`, () => {
+        describe(`Chapter ${chapter.meta.chapter}`, () => {
           // Iterate through all verses in the chapter
           chapter.verses.forEach((verse) => {
-            const reference = `${book.meta.name} ${chapter.number}:${verse.meta.number}`;
+            const reference = `${book.meta.name} ${chapter.meta.chapter}:${verse.meta.verse}`;
 
             describe(`${reference}`, () => {
               validateVerse(
                 verse,
                 book.meta.name,
-                chapter.number,
-                verse.meta.number
+                chapter.meta.chapter,
+                verse.meta.verse
               );
             });
           });

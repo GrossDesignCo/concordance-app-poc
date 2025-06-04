@@ -4,7 +4,7 @@ export const genesis_2_15: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 15,
+    verse: 15,
   },
   words: [
     {
@@ -204,6 +204,6 @@ export const genesis_2_15: Verse = {
     englishNatural:
       'And He-Who-Is God took the human, and rested him in the garden of Delight (Eden), to serve her and to keep her.',
     kjv: 'And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

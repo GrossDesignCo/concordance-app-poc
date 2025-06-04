@@ -4,7 +4,7 @@ export const john_1_1: Verse = {
   meta: {
     book: 'John',
     chapter: 1,
-    number: 1,
+    verse: 1,
   },
   words: [
     {
@@ -334,6 +334,6 @@ export const john_1_1: Verse = {
     englishNatural:
       'In the first was The Word, and The Word was with The God, and The Word was God.',
     kjv: 'In the beginning was the Word, and the Word was with God, and the Word was God.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

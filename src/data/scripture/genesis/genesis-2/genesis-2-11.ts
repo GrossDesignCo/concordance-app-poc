@@ -4,7 +4,7 @@ export const genesis_2_11: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 11,
+    verse: 11,
   },
   words: [
     {
@@ -206,6 +206,6 @@ export const genesis_2_11: Verse = {
     englishNatural:
       'The name of one, Spreading (Pishon); it surrounds all the land of Strength (Havilah), which there is the gold.',
     kjv: 'The name of the first is Pishon: that is it which compasseth the whole land of Havilah, where there is gold;',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

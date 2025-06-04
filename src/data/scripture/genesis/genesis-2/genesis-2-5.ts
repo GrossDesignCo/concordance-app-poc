@@ -4,7 +4,7 @@ export const genesis_2_5: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 5,
+    verse: 5,
   },
   words: [
     {
@@ -399,6 +399,6 @@ export const genesis_2_5: Verse = {
     englishNatural:
       'And all shrub of the field was not yet in the land, and all herb of the field had not yet grown; for He-Who-Is God had not caused it to rain over the land, and Human was not there, to serve the soil.',
     kjv: 'And every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

@@ -4,7 +4,7 @@ export const genesis_3_1: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 3,
-    number: 1,
+    verse: 1,
   },
   words: [
     {
@@ -406,6 +406,6 @@ export const genesis_3_1: Verse = {
     englishNatural:
       'And the snake was shrewd, more than any living-thing of the field, which He-Who-Is God had made. And he said to the woman, "Indeed? Has God said \'You shall eat not from any tree of the garden\'?"',
     kjv: 'Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
 },
 };

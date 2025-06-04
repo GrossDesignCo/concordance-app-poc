@@ -4,7 +4,7 @@ export const genesis_2_10: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 10,
+    verse: 10,
   },
   words: [
     {
@@ -209,6 +209,6 @@ export const genesis_2_10: Verse = {
     englishNatural:
       'And a river went out from Delight (Eden) to give-drink to the garden, and from there parted and became into four heads.',
     kjv: 'And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

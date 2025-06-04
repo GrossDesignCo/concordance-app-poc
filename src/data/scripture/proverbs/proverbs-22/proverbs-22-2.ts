@@ -4,7 +4,7 @@ export const proverbs_22_2: Verse = {
   meta: {
     book: 'Proverbs',
     chapter: 22,
-    number: 2,
+    verse: 2,
   },
   words: [
     {
@@ -159,6 +159,6 @@ export const proverbs_22_2: Verse = {
     englishLiteral: 'Rich and-Poor meet this with this He_Who_Is made.',
     englishNatural: 'Rich and Poor meet together; with this He-Who-Is made.',
     kjv: 'The rich and poor meet together: the LORD is the maker of them all.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 }; 

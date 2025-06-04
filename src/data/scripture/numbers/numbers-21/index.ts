@@ -5,7 +5,10 @@ import { numbers_21_8 } from './numbers-21-8';
 import { numbers_21_9 } from './numbers-21-9';
 
 const chapter: Chapter = {
-  number: 21,
+  meta: {
+    book: 'Numbers',
+    chapter: 21,
+  },
   verses: [
     numbers_21_6,
     numbers_21_7, 

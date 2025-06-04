@@ -13,6 +13,7 @@ import Settings from './Settings';
 import { LanguageKey } from '@/types';
 import { useEffect } from 'react';
 import { X } from '@phosphor-icons/react';
+import { ScriptureNav } from './scripture/nav';
 
 const languages: LanguageKey[] = [
   'original',
@@ -43,6 +44,7 @@ export const Main = () => {
             })
             .join(' → ')
         : 'Lexicon',
+    scriptureNav: 'Navigate',
   };
 
   // @ts-expect-error - ts doesn't see that null won't be made a key here
@@ -52,6 +54,7 @@ export const Main = () => {
     <>
       {secondaryPanel === 'lexicon' && <LexiconEntryReader />}
       {secondaryPanel === 'settings' && <Settings />}
+      {secondaryPanel === 'scriptureNav' && <ScriptureNav />}
     </>
   );
 
@@ -59,6 +62,7 @@ export const Main = () => {
     const minWidths = {
       settings: '32ch',
       lexicon: 'min(50vw, 80ch)',
+      scriptureNav: '32ch',
     };
 
     // @ts-expect-error - ts doesn't see that null won't be made a key here

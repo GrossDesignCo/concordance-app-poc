@@ -4,7 +4,7 @@ export const revelation_20_2: Verse = {
   meta: {
     book: 'Revelation',
     chapter: 20,
-    number: 2,
+    verse: 2,
   },
   words: [
     {
@@ -363,6 +363,6 @@ export const revelation_20_2: Verse = {
     englishLiteral: 'and he-seized the dragon, The Snake, The Ancient, who is Accuser and The Adversary, and he-bound him thousand years.',
     englishNatural: 'and he seized the dragon, The Snake, The Ancient, who is Accuser and The Adversary, and he bound him a thousand years.',
     kjv: 'And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
 },
 }; 

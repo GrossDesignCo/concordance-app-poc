@@ -4,7 +4,7 @@ export const genesis_1_30: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 1,
-    number: 30,
+    verse: 30,
   },
   words: [
     {
@@ -368,6 +368,6 @@ export const genesis_1_30: Verse = {
     englishLiteral: 'And-to-all living_thing-of the-land, and-to-all flyer-of the-skies, and-to-all crawler over the-land, which in-it throat living ↳ all green herb for-food." And-was so.',
     englishNatural: 'And to all living-thing of the land, and to all flyer of the skies, and to all crawler over the land, which in it is living throat: all green herb for food." And it was so.',
     kjv: 'And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 }; 

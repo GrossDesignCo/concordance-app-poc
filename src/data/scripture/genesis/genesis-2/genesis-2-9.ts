@@ -4,7 +4,7 @@ export const genesis_2_9: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 9,
+    verse: 9,
   },
   words: [
     {
@@ -323,6 +323,6 @@ export const genesis_2_9: Verse = {
     englishNatural:
       'And He-Who-Is God grew from the soil every tree pleasant to the sight and good for food, and the Tree of Life in the midst of the garden, and the Tree of Knowledge of Good and Bad.',
     kjv: 'And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

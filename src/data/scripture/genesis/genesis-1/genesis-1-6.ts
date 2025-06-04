@@ -4,7 +4,7 @@ export const genesis_1_6: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 1,
-    number: 6,
+    verse: 6,
   },
   words: [
     {
@@ -230,6 +230,6 @@ export const genesis_1_6: Verse = {
     englishLiteral: 'And-said Gods "Let-be hammering_out in-midst-of the-waters, and-let-be separating between waters to-waters."',
     englishNatural: 'And God said, "Let a hammering-out be in the midst of the waters, and let it be separating between waters and waters."',
     kjv: 'And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 }; 

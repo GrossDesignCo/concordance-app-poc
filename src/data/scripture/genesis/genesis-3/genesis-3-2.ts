@@ -4,7 +4,7 @@ export const genesis_3_2: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 3,
-    number: 2,
+    verse: 2,
   },
   expectedTranslations: {
     hebrew: 'וַתֹּאמֶר הָאִשָּׁה אֶל־הַנָּחָשׁ מִפְּרִי עֵץ־הַגָּן נֹאכֵל',
@@ -12,7 +12,7 @@ export const genesis_3_2: Verse = {
     englishLiteral: 'And-said, the-woman, to, the-snake, "from-fruit-of tree the-garden, we-eat."',
     englishNatural: 'And the woman said to the snake, "From the fruit of the tree of the garden we may eat."',
     kjv: 'And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
 },
   words: [
     {

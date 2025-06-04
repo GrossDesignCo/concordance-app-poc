@@ -4,7 +4,7 @@ export const isaiah_6_2: Verse = {
   meta: {
     book: 'Isaiah',
     chapter: 6,
-    number: 2,
+    verse: 2,
   },
   words: [
     {
@@ -273,6 +273,6 @@ export const isaiah_6_2: Verse = {
     englishLiteral: 'burning_ones standing_ones from-above to-him six wings to-one with-two he-covers his-face and-with-two he-covers his-feet and-with-two he-flies',
     englishNatural: 'burning-ones standing-ones from above to him six wings to each one with two he covers his face and with two he covers his feet and with two he flies',
     kjv: 'Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
 },
 }; 

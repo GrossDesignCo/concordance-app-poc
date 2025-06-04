@@ -4,7 +4,7 @@ export const genesis_2_8: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 8,
+    verse: 8,
   },
   words: [
     {
@@ -226,6 +226,6 @@ export const genesis_2_8: Verse = {
     englishNatural:
       'And He-Who-Is God planted a garden in Delight (Eden) from the east, and set there the human which he formed.',
     kjv: 'And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

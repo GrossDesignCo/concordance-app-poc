@@ -4,7 +4,7 @@ export const numbers_21_6: Verse = {
   meta: {
     book: 'Numbers',
     chapter: 21,
-    number: 6,
+    verse: 6,
   },
   words: [
     {
@@ -289,6 +289,6 @@ export const numbers_21_6: Verse = {
     englishNatural:
       'And He-Who-Is sent the snakes, the burning-ones, among the people, and they struck the people; and many people of Struggles-with-God (Israel) died.',
     kjv: 'And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

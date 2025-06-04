@@ -4,7 +4,7 @@ export const genesis_1_4: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 1,
-    number: 4,
+    verse: 4,
   },
   words: [
     {
@@ -249,6 +249,6 @@ export const genesis_1_4: Verse = {
     englishNatural:
       'And God saw the light, that it was good. And God separated between the light, and between the darkness.',
     kjv: 'And God saw the light, that it was good: and God divided the light from the darkness.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

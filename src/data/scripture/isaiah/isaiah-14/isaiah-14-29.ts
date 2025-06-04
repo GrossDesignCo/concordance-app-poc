@@ -4,7 +4,7 @@ export const isaiah_14_29: Verse = {
   meta: {
     book: 'Isaiah',
     chapter: 14,
-    number: 29,
+    verse: 29,
   },
   words: [
     {
@@ -290,6 +290,6 @@ export const isaiah_14_29: Verse = {
     englishLiteral: 'Do-not you-shall-rejoice Wallowers (Philistia) all-of-you that is-broken rod of-him-who-strikes-you-down that from-root snake shall-come-forth viper and-its-fruit burning_one flying',
     englishNatural: 'Do not rejoice Wallowers (Philistia) all of you that is broken the rod of him who strikes you down that from the root of a snake shall come forth a viper and its fruit a burning-one flying',
     kjv: 'Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent\'s root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 }; 

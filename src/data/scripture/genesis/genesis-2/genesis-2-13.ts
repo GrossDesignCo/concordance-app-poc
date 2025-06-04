@@ -4,7 +4,7 @@ export const genesis_2_13: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 13,
+    verse: 13,
   },
   words: [
     {
@@ -180,6 +180,6 @@ export const genesis_2_13: Verse = {
     englishNatural:
       'And the name of the second river, Gusher (Gichon); it surrounds all the land of Black (Kush).',
     kjv: 'And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

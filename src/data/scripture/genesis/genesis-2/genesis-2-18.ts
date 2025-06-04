@@ -4,7 +4,7 @@ export const genesis_2_18: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 18,
+    verse: 18,
   },
   words: [
     {
@@ -239,6 +239,6 @@ export const genesis_2_18: Verse = {
     englishNatural:
       'And He-Who-Is God said, "No good for the human to be to himself alone; I will make to him a help, as his opposite."',
     kjv: 'And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

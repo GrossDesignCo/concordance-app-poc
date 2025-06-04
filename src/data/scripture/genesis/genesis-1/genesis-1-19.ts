@@ -4,7 +4,7 @@ export const genesis_1_19: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 1,
-    number: 19,
+    verse: 19,
   },
   words: [
     {
@@ -158,6 +158,6 @@ export const genesis_1_19: Verse = {
     englishLiteral: 'And-was- evening, And-was- morning, Day fourth.',
     englishNatural: 'And evening was, And morning was, A fourth day.',
     kjv: 'And the evening and the morning were the fourth day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 }; 

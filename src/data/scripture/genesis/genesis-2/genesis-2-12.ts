@@ -4,7 +4,7 @@ export const genesis_2_12: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 12,
+    verse: 12,
   },
   words: [
     {
@@ -154,6 +154,6 @@ export const genesis_2_12: Verse = {
     englishNatural:
       'And the gold of that land, good; there is the bedolach, and the stone of onyx.',
     kjv: 'And the gold of that land is good: there is bdellium and the onyx stone.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-03' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

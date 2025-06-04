@@ -20,7 +20,10 @@ import { genesis_2_18 } from './genesis-2-18';
 import { genesis_2_19 } from './genesis-2-19';
 
 const chapter: Chapter = {
-  number: 2,
+  meta: {
+    book: 'Genesis',
+    chapter: 2,
+  },
   verses: [
     genesis_2_1,
     genesis_2_2,

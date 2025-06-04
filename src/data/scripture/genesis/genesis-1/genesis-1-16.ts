@@ -4,7 +4,7 @@ export const genesis_1_16: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 1,
-    number: 16,
+    verse: 16,
   },
   words: [
     {
@@ -344,6 +344,6 @@ export const genesis_1_16: Verse = {
     englishLiteral: 'And-made Gods ↳ two, the-light_sources, the-greats, ↳ the-light_source the-great, for-the-ruling-of the-day, And-↳ the-light_source the-small, for-the-ruling-of the-night, And-↳ the-stars.',
     englishNatural: 'And God made two, the light-sources, the greats, the light-source the great, for the ruling of the day, And the light-source the small, for the ruling of the night, And the stars.',
     kjv: 'And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 }; 

@@ -4,7 +4,7 @@ export const genesis_2_3: Verse = {
   meta: {
     book: 'Genesis',
     chapter: 2,
-    number: 3,
+    verse: 3,
   },
   words: [
     {
@@ -310,6 +310,6 @@ export const genesis_2_3: Verse = {
     englishNatural:
       'And God blessed the seventh day, and sanctified it; that in it he stopped from all his work, which God created, made.',
     kjv: 'And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-05-28' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
   },
 };

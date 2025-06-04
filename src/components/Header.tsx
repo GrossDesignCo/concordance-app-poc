@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { Info } from '@phosphor-icons/react';
 import { Button, Tooltip } from '@/design-system';
 import { ConcordanceModeControl } from './ConcordanceModeControl';
+import { ShowScriptureNavControl } from './ShowScriptureNavControl';
 
 export const Header = () => {
   return (
@@ -29,6 +30,7 @@ export const Header = () => {
 
           <ConcordanceModeControl />
           <ShowLexiconControl />
+          <ShowScriptureNavControl />
           <ShowSettingsControl />
         </div>
       </div>

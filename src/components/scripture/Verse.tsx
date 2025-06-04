@@ -8,6 +8,7 @@ import { useEffect, useRef, useState } from 'react';
 import { resolveLanguage } from '@/utils/resolveLanguage';
 import { useSelection } from '@/context/SelectionContext';
 import { useScripturePosition } from '@/context/ScripturePositionContext';
+import { getVerseId, getBookNameKey } from '@/data/utils/idUtils';
 
 interface VerseProps {
   verse: VerseType;
@@ -31,7 +32,7 @@ export default function Verse({ verse }: VerseProps) {
   }, [
     verse.words,
     verse.meta.chapter,
-    verse.meta.number,
+    verse.meta.verse,
     checkWordsForEntryPresence,
   ]);
 
@@ -56,9 +57,11 @@ export default function Verse({ verse }: VerseProps) {
   // Analogous to a scroll being opened, with several verses visible to the reader
   const { observe, unobserve } = useScripturePosition();
   const verseNumberElementRef = useRef<HTMLElement>(null);
-  const verseId = `${verse.meta.book.toUpperCase()} ${verse.meta.chapter}:${
-    verse.meta.number
-  }`;
+  const verseId = getVerseId({
+    book: getBookNameKey(verse.meta.book),
+    chapter: verse.meta.chapter,
+    verse: verse.meta.verse,
+  });
 
   useEffect(() => {
     const verseElement = verseNumberElementRef.current;
@@ -75,8 +78,10 @@ export default function Verse({ verse }: VerseProps) {
   // Render Content
   const verseContent = (
     <span data-verse-id={verseId} ref={verseNumberElementRef}>
-      {verse.meta.number ? (
-        <sup className={styles.VerseNumber}>{verse.meta.number}</sup>
+      {verse.meta.verse ? (
+        <sup className={styles.VerseNumber} id={verseId}>
+          {verse.meta.verse}
+        </sup>
       ) : null}
 
       {languages.map((language) => {
@@ -97,9 +102,9 @@ export default function Verse({ verse }: VerseProps) {
 
         // If showing multiple renderings of the verse, block them to make it more clear
         return isShowingMultiple ? (
-          <div className={styles.VerseAsBlock} dir={dir} key={language}>
+          <span className={styles.VerseAsBlock} dir={dir} key={language}>
             {renderedString}
-          </div>
+          </span>
         ) : (
           renderedString
         );

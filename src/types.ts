@@ -415,7 +415,7 @@ export interface TranslationWord {
 export interface VerseMeta {
   book: string;
   chapter: number;
-  number: number;
+  verse: number;
 }
 
 export interface Verse {
@@ -453,16 +453,23 @@ export interface Grammar {
   englishNatural?: string;
 }
 
+export interface ChapterMeta {
+  book: string;
+  chapter: number;
+}
+
 export interface Chapter {
-  number: number;
+  meta: ChapterMeta;
   verses: Verse[];
 }
 
+export interface BookMeta {
+  name: string;
+  translationChain: string;
+}
+
 export interface Book {
-  meta: {
-    name: string;
-    translationChain: string;
-  };
+  meta: BookMeta;
   chapters: Chapter[];
 }
 
