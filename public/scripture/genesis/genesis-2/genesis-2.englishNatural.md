@@ -39,5 +39,17 @@ And He-Who-Is God commanded over the human, saying, "From all tree of the garden
 And He-Who-Is God said, "No good for the human to be to himself alone; I will make to him a help, as his opposite."
 
 And He-Who-Is God formed from the soil every living-thing of the field, and every flyer of the skies; 
-And brought to the human to see what he would call it; 
-And everything which the human would call it, each living throat, that was its name.
+And brought to the human to see what he would call-out to it; 
+And everything which the human would call-out to it, each living throat, that was its name.
+
+And the human called-out names to every beast, and to flyer of the skies, and to every living-thing of the field, and to Human, no help was found as his opposite.
+
+And He-Who-Is God caused a deep-trance to fall over the human, and he slept; and he took one from his sides, and closed up flesh under it.
+
+And He-Who-Is God built the side which he took from the human, into a woman, and brought her to the human.
+
+And the human said, "This is the time, bone from my bones, and flesh from my flesh; to this will be called Woman, for from Man was taken this."
+
+So moreover, Man will leave his father, and his mother, and cling in his woman, and will become one flesh.
+
+And the two of them were naked-ones, the human and his woman, and were ashamed not.

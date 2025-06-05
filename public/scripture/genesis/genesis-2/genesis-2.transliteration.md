@@ -41,3 +41,15 @@ vaYomer YHWH Elohim lo-tov heyot haAdam leVaddo eese-lo ezer keNegdo
 vaYitzer YHWH Elohim min-haAdamah kol-chayyat haSadeh veEt kol-of haShamayim 
 vaYave el-haAdam liReot mah-yiqra-lo 
 veKol asher yiqra-lo haAdam nephesh chayyah hu shemo
+
+vaYiqra haAdam shemot leKol-haBehemah uLeOf haShamayim uLeKol chayyat haSadeh uLeAdam lo matza ezer keNegdo
+
+vaYapel YHWH Elohim tardemah al haAdam vaYishan vaYikach achat miTzalotav vaYisgor basar tachtennah
+
+vaYiven YHWH Elohim et-haTzela asher lakach min-haAdam leIshah vaYeviEha el-haAdam
+
+vaYomer haAdam zot haPaam etsem meAtzamai uVasar miVesari leZot yiqarei ishah ki meIsh luqqachah zot
+
+al-ken yaazov ish et-aviv veEt-immo veDavaq beIshto veHayu leVasar echad
+
+vaYihyu shenehem arummim haAdam veIshto veLo yitboshashu

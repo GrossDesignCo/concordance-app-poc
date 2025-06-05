@@ -39,5 +39,17 @@ And-commanded He_Who_Is Gods over- the-human, to-say, "From-all tree- the-garden
 And-said He_Who_Is Gods, "No- good to-be the-human to-alone-him; I-will-make- to-him help, as-his_opposite."
 
 And-formed He_Who_Is Gods from- the-soil all- living_thing-of the-field, and-↳ all- flyer the-skies; 
-And-brought to- the-human to-see what- he-calls- to-it; 
-And-all which he-calls- to-it the-human, throat living, it its-name.
+And-brought to- the-human to-see what- he-calls_out- to-it; 
+And-all which he-calls_out- to-it the-human, throat living, it its-name.
+
+And-called_out the-human names to-every- the-beast, and-to-flyer the-skies, and-to-every living_thing-of the-field, and-to-human no was-found help as-his_opposite.
+
+And-caused-to-fall He_Who_Is Gods deep_trance over the-human, and-he-slept; and-he-took one from-his-sides, and-closed-up flesh under-it.
+
+And-built He_Who_Is Gods ↳ the-side which he-took from- the-human, to-woman, and-brought-her to- the-human.
+
+And-said the-human, "This the-time, bone from-my-bones, and-flesh from-my-flesh; to-this will-be-called Woman, for from-Man was-taken this."
+
+over- so, he-will-leave man ↳ his-father, and-↳ his-mother, and-cling in-his-woman, and-will-be to-flesh one.
+
+And-they-were two-of-them naked_ones, the-human and-his-woman, and-not were-ashamed.

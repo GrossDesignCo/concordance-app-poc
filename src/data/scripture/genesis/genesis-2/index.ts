@@ -18,6 +18,12 @@ import { genesis_2_16 } from './genesis-2-16';
 import { genesis_2_17 } from './genesis-2-17';
 import { genesis_2_18 } from './genesis-2-18';
 import { genesis_2_19 } from './genesis-2-19';
+import { genesis_2_20 } from './genesis-2-20';
+import { genesis_2_21 } from './genesis-2-21';
+import { genesis_2_22 } from './genesis-2-22';
+import { genesis_2_23 } from './genesis-2-23';
+import { genesis_2_24 } from './genesis-2-24';
+import { genesis_2_25 } from './genesis-2-25';
 
 const chapter: Chapter = {
   meta: {
@@ -44,6 +50,12 @@ const chapter: Chapter = {
     genesis_2_17,
     genesis_2_18,
     genesis_2_19,
+    genesis_2_20,
+    genesis_2_21,
+    genesis_2_22,
+    genesis_2_23,
+    genesis_2_24,
+    genesis_2_25,
   ],
 };
 

@@ -10,8 +10,8 @@ export const genesis_1_8: Verse = {
     {
       hebrew: 'וַיִּקְרָ֧א',
       transliteration: 'vaYiqra',
-      englishLiteral: 'And-called',
-      englishNatural: 'called',
+      englishLiteral: 'And-called_out',
+      englishNatural: 'called-out',
       root: 'qara',
       prefixes: ['va'],
       order: {
@@ -25,9 +25,6 @@ export const genesis_1_8: Verse = {
         tense: 'imperfect',
         stem: 'qal',
         type: 'verb',
-      },
-      grammarSuffix: {
-        englishLiteral: ',',
       },
       lineBreaksBefore: {
         hebrew: 1,
@@ -49,9 +46,6 @@ export const genesis_1_8: Verse = {
         number: 'plural',
         type: 'noun',
       },
-      grammarSuffix: {
-        englishLiteral: ',',
-      },
       lineBreaksBefore: {
         english: 1,
       },
@@ -60,7 +54,7 @@ export const genesis_1_8: Verse = {
       hebrew: 'לָֽרָקִ֖יעַ',
       transliteration: 'laRaqia',
       englishLiteral: 'to_the-hammering_out',
-      englishNatural: 'the hammering-out',
+      englishNatural: 'to the hammering-out',
       root: 'raqia',
       prefixes: ['la'],
       order: {
@@ -253,9 +247,9 @@ export const genesis_1_8: Verse = {
   expectedTranslations: {
     hebrew: 'וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם שֵׁנִֽי׃',
     transliteration: 'vaYiqra Elohim laRaqia shamayim vaYehi erev vaYehi voqer yom sheni',
-    englishLiteral: 'And-called, Gods, to_the-hammering_out, "Skies." And-was evening, And-was morning, Day second.',
-    englishNatural: 'And God called the hammering-out, "Skies." And evening was, And morning was, A second day.',
+    englishLiteral: 'And-called_out Gods to_the-hammering_out, "Skies." And-was evening, And-was morning, Day second.',
+    englishNatural: 'And God called-out to the hammering-out, "Skies." And evening was, And morning was, A second day.',
     kjv: 'And God called the firmament Heaven. And the evening and the morning were the second day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-05' },
   },
 }; 

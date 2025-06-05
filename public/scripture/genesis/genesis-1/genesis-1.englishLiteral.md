@@ -10,7 +10,7 @@ And-was light.
 And-saw Gods ↳ the-light, that- good. 
 And-separated Gods between the-light, and-between the-darkness.
 
-And-called Gods to_the-light, "Day,"
+And-called_out Gods to_the-light, "Day,"
 and-to-darkness, called, "Night."
 
 And-was, evening, 
@@ -24,7 +24,7 @@ And-made Gods ↳ the-hammering_out,
 and-separated, between the-waters which from-under to_the-hammering_out, and-between the-waters which from-over to_the-hammering_out. 
 And-was so.
 
-And-called, Gods, to_the-hammering_out, "Skies."
+And-called_out Gods to_the-hammering_out, "Skies."
 
 And-was evening, 
 And-was morning, 
@@ -34,8 +34,8 @@ And-said, Gods, "Let-gather, the-waters, from-under the-skies, to- place, one.
 And-be-seen, the-dry_ground."
 And-was so.
 
-And-called, Gods, to_the-dry_ground, "Land,"
-and-to-gathering, the-waters, called, "Seas."
+And-called_out Gods to_the-dry_ground, "Land,"
+and-to-gathering, the-waters, called_out, "Seas."
 And-saw Gods, that- good.
 
 And-said Gods, "Let-tenderly_shoot_up the-land tender_shoot, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed- in-it, over- the-land." 

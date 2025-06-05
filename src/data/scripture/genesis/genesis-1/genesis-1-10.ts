@@ -10,8 +10,8 @@ export const genesis_1_10: Verse = {
     {
       hebrew: 'וַיִּקְרָ֨א',
       transliteration: 'vaYiqra',
-      englishLiteral: 'And-called',
-      englishNatural: 'called',
+      englishLiteral: 'And-called_out',
+      englishNatural: 'called-out',
       root: 'qara',
       prefixes: ['va'],
       order: {
@@ -25,9 +25,6 @@ export const genesis_1_10: Verse = {
         tense: 'imperfect',
         stem: 'qal',
         type: 'verb',
-      },
-      grammarSuffix: {
-        englishLiteral: ',',
       },
       lineBreaksBefore: {
         hebrew: 1,
@@ -49,9 +46,6 @@ export const genesis_1_10: Verse = {
         number: 'plural',
         type: 'noun',
       },
-      grammarSuffix: {
-        englishLiteral: ',',
-      },
       lineBreaksBefore: {
         english: 1,
       },
@@ -60,7 +54,7 @@ export const genesis_1_10: Verse = {
       hebrew: 'לַיַּבָּשָׁה֙',
       transliteration: 'laYabashah',
       englishLiteral: 'to_the-dry_ground',
-      englishNatural: 'the dry-ground',
+      englishNatural: 'to the dry-ground',
       root: 'yabashah',
       prefixes: ['la'],
       order: {
@@ -108,12 +102,12 @@ export const genesis_1_10: Verse = {
       hebrew: 'וּלְמִקְוֵ֥ה',
       transliteration: 'uLeMiQveh',
       englishLiteral: 'and-to-gathering',
-      englishNatural: 'the gathering',
+      englishNatural: 'and to the gathering of',
       root: 'qavah',
       prefixes: ['u', 'le', 'mi'],
       order: {
         hebrew: 5,
-        english: 6,
+        english: 5,
       },
       morphology: {
         type: 'noun',
@@ -126,12 +120,12 @@ export const genesis_1_10: Verse = {
       hebrew: 'הַמַּ֖יִם',
       transliteration: 'haMayim',
       englishLiteral: 'the-waters',
-      englishNatural: 'of the waters',
+      englishNatural: 'the waters',
       root: 'mayim',
       prefixes: ['ha'],
       order: {
         hebrew: 6,
-        english: 7,
+        english: 6,
       },
       morphology: {
         gender: 'masculine',
@@ -145,12 +139,12 @@ export const genesis_1_10: Verse = {
     {
       hebrew: 'קָרָ֣א',
       transliteration: 'qara',
-      englishLiteral: 'called',
-      englishNatural: 'and called',
+      englishLiteral: 'called_out',
+      englishNatural: 'he called-out',
       root: 'qara',
       order: {
         hebrew: 7,
-        english: 5,
+        english: 7,
       },
       morphology: {
         gender: 'masculine',
@@ -273,9 +267,9 @@ export const genesis_1_10: Verse = {
   expectedTranslations: {
     hebrew: 'וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃',
     transliteration: 'vaYiqra Elohim laYabashah eretz uLeMiQveh haMayim qara yamim vaYar Elohim ki-tov',
-    englishLiteral: 'And-called, Gods, to_the-dry_ground, "Land," and-to-gathering, the-waters, called, "Seas." And-saw Gods, that- good.',
-    englishNatural: 'And God called the dry-ground "Land," and called the gathering of the waters "Seas." And God saw, that it was good.',
+    englishLiteral: 'And-called_out Gods to_the-dry_ground, "Land," and-to-gathering, the-waters, called_out, "Seas." And-saw Gods, that- good.',
+    englishNatural: 'And God called-out to the dry-ground "Land," and to the gathering of the waters he called-out "Seas." And God saw, that it was good.',
     kjv: 'And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-05' },
   },
 }; 

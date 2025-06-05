@@ -65,7 +65,7 @@ export type WordNumber = 'singular' | 'plural' | 'dual';
 export type WordPerson = '1st' | '2nd' | '3rd';
 
 // Types for the translation data structure
-export interface HebrewWordMorphology {
+export type HebrewWordMorphology = {
   gender?: WordGender;
   number?: WordNumber;
   person?: WordPerson;
@@ -178,7 +178,7 @@ export interface HebrewWordMorphology {
 }
 
 // Types for Greek morphology
-export interface GreekWordMorphology {
+export type GreekWordMorphology = {
   gender?: WordGender;
   number?: WordNumber;
   person?: WordPerson;
@@ -382,7 +382,7 @@ export interface GreekWordMorphology {
     | 'indirect discourse';
 }
 
-export interface TranslationWord {
+export type TranslationWord = {
   hebrew?: string;
   greek?: string;
   transliteration: string;
@@ -412,13 +412,13 @@ export interface TranslationWord {
   grammarPrefix?: Grammar;
 }
 
-export interface VerseMeta {
+export type VerseMeta = {
   book: string;
   chapter: number;
   verse: number;
 }
 
-export interface Verse {
+export type Verse = {
   meta: VerseMeta;
   words: TranslationWord[];
   // Different renderings of the complete verse for test/validation purposes
@@ -445,7 +445,7 @@ export type LineBreak =
       english?: number;
     };
 
-export interface Grammar {
+export type Grammar = {
   greek?: string;
   hebrew?: string;
   transliteration?: string;
@@ -453,22 +453,22 @@ export interface Grammar {
   englishNatural?: string;
 }
 
-export interface ChapterMeta {
+export type ChapterMeta = {
   book: string;
   chapter: number;
 }
 
-export interface Chapter {
+export type Chapter = {
   meta: ChapterMeta;
   verses: Verse[];
 }
 
-export interface BookMeta {
+export type BookMeta = {
   name: string;
   translationChain: string;
 }
 
-export interface Book {
+export type Book = {
   meta: BookMeta;
   chapters: Chapter[];
 }
@@ -488,7 +488,7 @@ export type LexiconReference = {
   language?: ResolvedLanguageKey;
 };
 
-export interface RootIndex {
+export type RootIndex = {
   verses: {
     [root: string]: {
       [book: string]: {

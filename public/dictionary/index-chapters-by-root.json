@@ -243,6 +243,7 @@
   },
   "ishah": {
     "genesis": [
+      2,
       3
     ]
   },
@@ -361,7 +362,8 @@
   },
   "ken": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "be": {
@@ -477,6 +479,9 @@
     ]
   },
   "ish": {
+    "genesis": [
+      2
+    ],
     "numbers": [
       21
     ]
@@ -558,7 +563,8 @@
   },
   "tachat": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "shoresh": {
@@ -861,7 +867,8 @@
   },
   "behemah": {
     "genesis": [
-      1
+      1,
+      2
     ]
   },
   "adam": {
@@ -1183,6 +1190,86 @@
     ]
   },
   "tzavah": {
+    "genesis": [
+      2
+    ]
+  },
+  "matza": {
+    "genesis": [
+      2
+    ]
+  },
+  "naphal": {
+    "genesis": [
+      2
+    ]
+  },
+  "tardemah": {
+    "genesis": [
+      2
+    ]
+  },
+  "yashen": {
+    "genesis": [
+      2
+    ]
+  },
+  "tzela": {
+    "genesis": [
+      2
+    ]
+  },
+  "sagar": {
+    "genesis": [
+      2
+    ]
+  },
+  "basar": {
+    "genesis": [
+      2
+    ]
+  },
+  "banah": {
+    "genesis": [
+      2
+    ]
+  },
+  "paam": {
+    "genesis": [
+      2
+    ]
+  },
+  "etsem": {
+    "genesis": [
+      2
+    ]
+  },
+  "arom": {
+    "genesis": [
+      2
+    ]
+  },
+  "bosh": {
+    "genesis": [
+      2
+    ]
+  },
+  "azav": {
+    "genesis": [
+      2
+    ]
+  },
+  "av": {
+    "genesis": [
+      2
+    ]
+  },
+  "em": {
+    "genesis": [
+      2
+    ]
+  },
+  "davaq": {
     "genesis": [
       2
     ]

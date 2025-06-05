@@ -69,7 +69,7 @@ export const genesis_3_1: Verse = {
       hebrew: 'מִכֹּל',
       transliteration: 'miKol',
       englishLiteral: 'from-all',
-      englishNatural: 'more than any',
+      englishNatural: 'out of every',
       root: 'kol',
       prefixes: ['mi'],
       order: {
@@ -235,8 +235,8 @@ export const genesis_3_1: Verse = {
     {
       hebrew: 'אַף',
       transliteration: 'af',
-      englishLiteral: 'Indeed',
-      englishNatural: 'Indeed',
+      englishLiteral: 'Is_it_so',
+      englishNatural: 'Is-it-so',
       root: 'af',
       order: {
         hebrew: 14,
@@ -248,27 +248,24 @@ export const genesis_3_1: Verse = {
       },
       grammarSuffix: {
         englishLiteral: ',',
-        englishNatural: '?',
+        englishNatural: ',',
       },
     },
     {
       hebrew: 'כִּי',
       transliteration: 'ki',
       englishLiteral: 'that',
-      englishNatural: '',
+      englishNatural: 'that',
       root: 'ki',
       order: {
         hebrew: 15,
         english: 15,
       },
-      grammarSuffix: {
-        englishLiteral: '?',
-      },
     },
     {
       hebrew: 'אָמַר',
       transliteration: 'amar',
-      englishLiteral: 'Said',
+      englishLiteral: 'said',
       englishNatural: 'said',
       root: 'amar',
       order: {
@@ -283,15 +280,12 @@ export const genesis_3_1: Verse = {
         stem: 'qal',
         type: 'verb'
       },
-      grammarSuffix: {
-        englishLiteral: ',',
-      },
     },
     {
       hebrew: 'אֱלֹהִים',
       transliteration: 'Elohim',
       englishLiteral: 'Gods',
-      englishNatural: 'Has God',
+      englishNatural: 'God',
       root: 'eloah',
       suffixes: ['im'],
       order: {
@@ -402,10 +396,10 @@ export const genesis_3_1: Verse = {
     transliteration:
       'veHaNachash hayah arum miKol chayat haSadeh asher asah YHWH Elohim vaYomer el haIshah af ki amar Elohim lo tokhlu miKol etz haGan',
     englishLiteral:
-      'And-the-snake was shrewd, from-all living_thing-of the-field, which made, He_Who_Is Gods. And-said, to the-woman, "Indeed, that? Said, Gods, \'Not you-shall-eat from-all tree the-garden\'?"',
+      'And-the-snake was shrewd, from-all living_thing-of the-field, which made, He_Who_Is Gods. And-said, to the-woman, "Is_it_so, that said Gods, \'Not you-shall-eat from-all tree the-garden\'?"',
     englishNatural:
-      'And the snake was shrewd, more than any living-thing of the field, which He-Who-Is God had made. And he said to the woman, "Indeed? Has God said \'You shall eat not from any tree of the garden\'?"',
+      'And the snake was shrewd, out of every living-thing of the field, which He-Who-Is God had made. And he said to the woman, "Is-it-so, that God said \'You shall eat not from any tree of the garden\'?"',
     kjv: 'Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-05' },
 },
 };

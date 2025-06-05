@@ -294,8 +294,8 @@ export const genesis_2_19: Verse = {
     {
       hebrew: 'יִּקְרָא־',
       transliteration: 'yiqra-',
-      englishLiteral: 'he-calls-',
-      englishNatural: 'he would call',
+      englishLiteral: 'he-calls_out-',
+      englishNatural: 'he would call-out',
       root: 'qara',
       order: {
         hebrew: 18,
@@ -314,7 +314,7 @@ export const genesis_2_19: Verse = {
       hebrew: 'לוֹ',
       transliteration: 'lo',
       englishLiteral: 'to-it',
-      englishNatural: 'it',
+      englishNatural: 'to it',
       root: 'lo',
       suffixes: ['o'],
       order: {
@@ -362,8 +362,8 @@ export const genesis_2_19: Verse = {
     {
       hebrew: 'יִקְרָא־',
       transliteration: 'yiqra-',
-      englishLiteral: 'he-calls-',
-      englishNatural: 'would call',
+      englishLiteral: 'he-calls_out-',
+      englishNatural: 'would call-out',
       root: 'qara',
       order: {
         hebrew: 22,
@@ -382,7 +382,7 @@ export const genesis_2_19: Verse = {
       hebrew: 'לוֹ',
       transliteration: 'lo',
       englishLiteral: 'to-it',
-      englishNatural: 'it',
+      englishNatural: 'to it',
       root: 'lo',
       suffixes: ['o'],
       order: {
@@ -495,10 +495,10 @@ export const genesis_2_19: Verse = {
     transliteration:
       'vaYitzer YHWH Elohim min-haAdamah kol-chayyat haSadeh veEt kol-of haShamayim vaYave el-haAdam liReot mah-yiqra-lo veKol asher yiqra-lo haAdam nephesh chayyah hu shemo',
     englishLiteral:
-      'And-formed He_Who_Is Gods from- the-soil all- living_thing-of the-field, and-↳ all- flyer the-skies; And-brought to- the-human to-see what- he-calls- to-it; And-all which he-calls- to-it the-human, throat living, it its-name.',
+      'And-formed He_Who_Is Gods from- the-soil all- living_thing-of the-field, and-↳ all- flyer the-skies; And-brought to- the-human to-see what- he-calls_out- to-it; And-all which he-calls_out- to-it the-human, throat living, it its-name.',
     englishNatural:
-      'And He-Who-Is God formed from the soil every living-thing of the field, and every flyer of the skies; And brought to the human to see what he would call it; And everything which the human would call it, each living throat, that was its name.',
+      'And He-Who-Is God formed from the soil every living-thing of the field, and every flyer of the skies; And brought to the human to see what he would call-out to it; And everything which the human would call-out to it, each living throat, that was its name.',
     kjv: 'And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-05' },
   },
 };

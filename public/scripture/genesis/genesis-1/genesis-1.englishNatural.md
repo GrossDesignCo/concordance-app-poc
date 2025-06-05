@@ -10,7 +10,7 @@ And light was.
 And God saw the light, that it was good. 
 And God separated between the light, and between the darkness.
 
-And God called light "Day,"
+And God called-out to the light "Day,"
 and called darkness "Night."
 
 And evening was, 
@@ -24,7 +24,7 @@ And God made the hammering-out,
 and separated between the waters which were under the hammering-out, and between the waters which were over the hammering-out. 
 And was so.
 
-And God called the hammering-out, "Skies."
+And God called-out to the hammering-out, "Skies."
 
 And evening was, 
 And morning was, 
@@ -33,8 +33,8 @@ A second day.
 And God said, "Let the waters gather from under the skies to one place. And let the dry-ground be seen."
 And was so.
 
-And God called the dry-ground "Land,"
-and called the gathering of the waters "Seas."
+And God called-out to the dry-ground "Land,"
+and to the gathering of the waters he called-out "Seas."
 And God saw, that it was good.
 
 And God said, "Let the land tenderly-shoot-up tender-shoot, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." 
