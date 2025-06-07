@@ -22,7 +22,7 @@ and let it be separating between waters and waters."
 
 And God made the hammering-out, 
 and separated between the waters which were under the hammering-out, and between the waters which were over the hammering-out. 
-And was so.
+And it was so.
 
 And God called-out to the hammering-out, "Skies."
 
@@ -31,7 +31,7 @@ And morning was,
 A second day.
 
 And God said, "Let the waters gather from under the skies to one place. And let the dry-ground be seen."
-And was so.
+And it was so.
 
 And God called-out to the dry-ground "Land,"
 and to the gathering of the waters he called-out "Seas."
@@ -98,7 +98,7 @@ And God blessed them,
 And God said to them, "Be fruitful and multiply and fill the land, 
 And conquer and subjugate among fish of the sea, and among flyer of the skies, and among all the crawling living thing over the land."
 
-And God said, "Notice, I give to you all herb seeding seed, which over the face of all the land, 
+And God said, "Behold, I give to you all herb seeding seed, which over the face of all the land, 
 And all the tree which in it is fruit of tree seeding seed, to you it shall be for food.
 And to all living-thing of the land, and to all flyer of the skies, and to all crawler over the land, which in it is living throat: all green herb for food." 
 And it was so.

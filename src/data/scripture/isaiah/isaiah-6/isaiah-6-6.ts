@@ -114,7 +114,7 @@ export const isaiah_6_6: Verse = {
       hebrew: 'רִצְפָּה',
       transliteration: 'ritzpah',
       englishLiteral: 'live_coal',
-      englishNatural: 'a live coal',
+      englishNatural: 'a live-coal',
       root: 'ritzpah',
       order: {
         hebrew: 7,
@@ -129,8 +129,8 @@ export const isaiah_6_6: Verse = {
     {
       hebrew: 'בְּמֶלְקַחַיִם',
       transliteration: 'beMelkachayim',
-      englishLiteral: 'with-the-tongs',
-      englishNatural: 'with the tongs',
+      englishLiteral: 'with-tongs',
+      englishNatural: 'with tongs',
       root: 'melkach',
       prefixes: ['be'],
       order: {
@@ -193,14 +193,18 @@ export const isaiah_6_6: Verse = {
         number: 'singular',
         type: 'noun'
       },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
     },
   ],
   expectedTranslations: {
     hebrew: 'וַיָּעָף אֵלַי אֶחָד מִן הַשְּׂרָפִים וּבְיָדוֹ רִצְפָּה בְּמֶלְקַחַיִם לָקַח מֵעַל הַמִּזְבֵּחַ',
     transliteration: 'vaYaof elai echad min haSeraphim uVeYado ritzpah beMelkachayim lakach meAl haMizbeach',
-    englishLiteral: 'And-flew to-me one from the-burning_ones and-in-his-hand live_coal with-the-tongs he-took from-upon the-altar',
-    englishNatural: 'And flew to me one from the burning-ones and in his hand a live coal he had taken with the tongs from upon the altar',
+    englishLiteral: 'And-flew to-me one from the-burning_ones and-in-his-hand live_coal with-tongs he-took from-upon the-altar.',
+    englishNatural: 'And flew to me one from the burning-ones and in his hand a live-coal he had taken with tongs from upon the altar.',
     kjv: 'Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-07' },
 },
 }; 

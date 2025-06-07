@@ -180,6 +180,18 @@ const PREFIXES = {
     englishLiteral: 'as',
     englishNatural: 'as',
   },
+  yo: {
+    hebrew: 'יֹ',
+    transliteration: 'yo',
+    englishLiteral: 'he-shall',
+    englishNatural: 'he shall',
+  },
+  te: {
+    hebrew: 'תְּ',
+    transliteration: 'te',
+    englishLiteral: 'it-will',
+    englishNatural: 'it will',
+  },
 } as const;
 
 type PrefixKey = keyof typeof PREFIXES;

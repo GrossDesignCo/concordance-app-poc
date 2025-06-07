@@ -22,7 +22,7 @@ and-let-be separating between waters to-waters."
 
 And-made Gods ↳ the-hammering_out, 
 and-separated, between the-waters which from-under to_the-hammering_out, and-between the-waters which from-over to_the-hammering_out. 
-And-was so.
+And-was- so.
 
 And-called_out Gods to_the-hammering_out, "Skies."
 
@@ -32,7 +32,7 @@ Day second.
 
 And-said, Gods, "Let-gather, the-waters, from-under the-skies, to- place, one.
 And-be-seen, the-dry_ground."
-And-was so.
+And-was- so.
 
 And-called_out Gods to_the-dry_ground, "Land,"
 and-to-gathering, the-waters, called_out, "Seas."
@@ -101,7 +101,7 @@ And-blessed them Gods,
 And-said to-them Gods, "Be-fruitful and-multiply and-fill ↳ the-land, 
 And-conquer and-subjugate in-fish-of the-sea, and-in-flyer-of the-skies, and-in-all living-thing the-crawling over the-land."
 
-And-said Gods, "Notice, I-give to-you ↳ all herb seeding seed, which over face-of all the-land, 
+And-said Gods, "Behold, I-give to-you ↳ all herb seeding seed, which over face-of all the-land, 
 And-↳ all the-tree which in-it fruit-of tree seeding seed, to-you it-shall-be for-food.
 
 And-to-all living_thing-of the-land, and-to-all flyer-of the-skies, and-to-all crawler over the-land, which in-it throat living ↳ all green herb for-food." 

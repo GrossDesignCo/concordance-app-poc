@@ -32,7 +32,7 @@ And the name of the second river, Gusher (Gichon); it surrounds all the land of 
 The name of the third river, Rapid (Chidekel); it walks east of Steppe (Ashur). 
 And the fourth river, it is Fruitful (Perat).
 
-And He-Who-Is God took the human, and rested him in the garden of Delight (Eden), to serve her and to keep her.
+And He-Who-Is God took the human, and rested him in Garden of Delight (Eden), to serve her and to keep her.
 
 And He-Who-Is God commanded over the human, saying, "From all tree of the garden, eating, let you eat, and from the Tree of Knowledge of Good and Bad, you will eat from it not; that in the day of your eating from it, death, you will die."
 
@@ -48,7 +48,9 @@ And He-Who-Is God caused a deep-trance to fall over the human, and he slept; and
 
 And He-Who-Is God built the side which he took from the human, into a woman, and brought her to the human.
 
-And the human said, "This is the time, bone from my bones, and flesh from my flesh; to this will be called Woman, for from Man was taken this."
+And the human said, "This is the time! 
+Bone from my bones, and flesh from my flesh; 
+to this will be called Woman, for from Man was taken this."
 
 So moreover, Man will leave his father, and his mother, and cling in his woman, and will become one flesh.
 

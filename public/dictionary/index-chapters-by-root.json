@@ -24,6 +24,9 @@
       2,
       3
     ],
+    "isaiah": [
+      6
+    ],
     "numbers": [
       21
     ]
@@ -47,6 +50,9 @@
     "genesis": [
       1,
       2
+    ],
+    "isaiah": [
+      6
     ]
   },
   "erev": {
@@ -153,6 +159,9 @@
       1,
       2
     ],
+    "isaiah": [
+      6
+    ],
     "numbers": [
       21
     ],
@@ -206,6 +215,7 @@
       3
     ],
     "isaiah": [
+      6,
       14
     ],
     "numbers": [
@@ -278,6 +288,9 @@
       2,
       3
     ],
+    "isaiah": [
+      6
+    ],
     "numbers": [
       21
     ],
@@ -311,6 +324,7 @@
       3
     ],
     "isaiah": [
+      6,
       14
     ],
     "numbers": [
@@ -358,12 +372,20 @@
     "genesis": [
       1,
       2
+    ],
+    "isaiah": [
+      6
     ]
   },
   "ken": {
     "genesis": [
       1,
       2
+    ]
+  },
+  "naga": {
+    "isaiah": [
+      6
     ]
   },
   "be": {
@@ -400,6 +422,9 @@
     ]
   },
   "am": {
+    "isaiah": [
+      6
+    ],
     "numbers": [
       21
     ]
@@ -413,6 +438,9 @@
     ]
   },
   "chata": {
+    "isaiah": [
+      6
+    ],
     "numbers": [
       21
     ]
@@ -428,6 +456,9 @@
     ]
   },
   "sur": {
+    "isaiah": [
+      6
+    ],
     "numbers": [
       21
     ]
@@ -482,6 +513,9 @@
     "genesis": [
       2
     ],
+    "isaiah": [
+      6
+    ],
     "numbers": [
       21
     ]
@@ -496,10 +530,18 @@
       21
     ]
   },
+  "yashav": {
+    "isaiah": [
+      6
+    ]
+  },
   "et": {
     "genesis": [
       1,
       2
+    ],
+    "isaiah": [
+      6
     ],
     "numbers": [
       21
@@ -666,6 +708,9 @@
     "genesis": [
       1,
       2
+    ],
+    "isaiah": [
+      6
     ]
   },
   "yom": {
@@ -724,6 +769,9 @@
     "genesis": [
       2
     ],
+    "isaiah": [
+      6
+    ],
     "proverbs": [
       22
     ]
@@ -760,6 +808,9 @@
     "genesis": [
       2
     ],
+    "isaiah": [
+      6
+    ],
     "proverbs": [
       22
     ]
@@ -777,6 +828,9 @@
   "shanah": {
     "genesis": [
       1
+    ],
+    "isaiah": [
+      6
     ]
   },
   "peri": {
@@ -852,6 +906,9 @@
   "male": {
     "genesis": [
       1
+    ],
+    "isaiah": [
+      6
     ]
   },
   "hamish": {
@@ -910,6 +967,9 @@
   "hinneh": {
     "genesis": [
       1
+    ],
+    "isaiah": [
+      6
     ]
   },
   "okhel": {
@@ -967,6 +1027,9 @@
   "tsava": {
     "genesis": [
       2
+    ],
+    "isaiah": [
+      6
     ]
   },
   "shavat": {
@@ -977,6 +1040,9 @@
   "qadash": {
     "genesis": [
       2
+    ],
+    "isaiah": [
+      6
     ]
   },
   "melakhah": {
@@ -1272,6 +1338,131 @@
   "davaq": {
     "genesis": [
       2
+    ]
+  },
+  "kisse": {
+    "isaiah": [
+      6
+    ]
+  },
+  "hekhal": {
+    "isaiah": [
+      6
+    ]
+  },
+  "shul": {
+    "isaiah": [
+      6
+    ]
+  },
+  "melekh": {
+    "isaiah": [
+      6
+    ]
+  },
+  "uz": {
+    "isaiah": [
+      6
+    ]
+  },
+  "adon": {
+    "isaiah": [
+      6
+    ]
+  },
+  "rum": {
+    "isaiah": [
+      6
+    ]
+  },
+  "nasa": {
+    "isaiah": [
+      6
+    ]
+  },
+  "kavod": {
+    "isaiah": [
+      6
+    ]
+  },
+  "nuah": {
+    "isaiah": [
+      6
+    ]
+  },
+  "amah": {
+    "isaiah": [
+      6
+    ]
+  },
+  "sip": {
+    "isaiah": [
+      6
+    ]
+  },
+  "qol": {
+    "isaiah": [
+      6
+    ]
+  },
+  "ashan": {
+    "isaiah": [
+      6
+    ]
+  },
+  "bayit": {
+    "isaiah": [
+      6
+    ]
+  },
+  "oy": {
+    "isaiah": [
+      6
+    ]
+  },
+  "damah": {
+    "isaiah": [
+      6
+    ]
+  },
+  "anokhi": {
+    "isaiah": [
+      6
+    ]
+  },
+  "teme": {
+    "isaiah": [
+      6
+    ]
+  },
+  "li": {
+    "isaiah": [
+      6
+    ]
+  },
+  "safah": {
+    "isaiah": [
+      6
+    ]
+  },
+  "ayin_eye": {
+    "isaiah": [
+      6
+    ]
+  },
+  "pi": {
+    "isaiah": [
+      6
+    ]
+  },
+  "avon": {
+    "isaiah": [
+      6
+    ]
+  },
+  "kafar": {
+    "isaiah": [
+      6
     ]
   },
   "en": {

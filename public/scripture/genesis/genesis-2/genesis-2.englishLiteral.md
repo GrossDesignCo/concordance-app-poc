@@ -32,7 +32,7 @@ and-name- the-river the-second, Gusher (Gichon); he the-surrounding ↳ all- lan
 name the-river the-third, Rapid (Chidekel); he the-walking east-of Steppe (Ashur). 
 And-the-river the-fourth, he Fruitful (Perat).
 
-And-took He_Who_Is Gods ↳ the-human, and-rested-him in-garden- Delight (Eden), to-serve-her and-to-keep-her.
+And-took He_Who_Is Gods ↳ the-human, and-rested-him in-Garden- Delight (Eden), to-serve-her and-to-keep-her.
 
 And-commanded He_Who_Is Gods over- the-human, to-say, "From-all tree- the-garden, eating, let-you-will-eat, and-from-tree the-knowledge good and-bad, not you-will-eat from-it; that in-day your-eating from-it, death, you-will-die."
 
@@ -48,7 +48,9 @@ And-caused-to-fall He_Who_Is Gods deep_trance over the-human, and-he-slept; and-
 
 And-built He_Who_Is Gods ↳ the-side which he-took from- the-human, to-woman, and-brought-her to- the-human.
 
-And-said the-human, "This the-time, bone from-my-bones, and-flesh from-my-flesh; to-this will-be-called Woman, for from-Man was-taken this."
+And-said the-human, "This the-time! 
+Bone from-my-bones, and-flesh from-my-flesh; 
+to-this will-be-called Woman, for from-Man was-taken this."
 
 over- so, he-will-leave man ↳ his-father, and-↳ his-mother, and-cling in-his-woman, and-will-be to-flesh one.
 

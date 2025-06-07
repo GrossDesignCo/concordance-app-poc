@@ -185,6 +185,27 @@ const SUFFIXES = {
     englishNatural: 'feminine singular',
     function: 'feminine singular marker or abstract noun formation',
   },
+  ti: {
+    hebrew: 'תִּ',
+    transliteration: 'ti',
+    englishLiteral: 'you',
+    englishNatural: 'you',
+    function: '2nd person feminine singular',
+  },
+  ekha: {
+    hebrew: 'ֶיךָ',
+    transliteration: 'ekha',
+    englishLiteral: 'your',
+    englishNatural: 'your',
+    function: '2nd person masculine singular possessive',
+  },
+  at: {
+    hebrew: 'אַת',
+    transliteration: 'at',
+    englishLiteral: 'feminine marker',
+    englishNatural: 'feminine marker',
+    function: 'feminine noun formation',
+  },
 } as const;
 
 type SuffixKey = keyof typeof SUFFIXES;

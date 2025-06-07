@@ -10,8 +10,8 @@ export const isaiah_6_2: Verse = {
     {
       hebrew: 'שְׂרָפִים',
       transliteration: 'seraphim',
-      englishLiteral: 'burning_ones',
-      englishNatural: 'burning-ones',
+      englishLiteral: 'Burning_ones',
+      englishNatural: 'Burning-ones',
       root: 'saraph',
       suffixes: ['im'],
       order: {
@@ -21,14 +21,15 @@ export const isaiah_6_2: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'עֹמְדִים',
       transliteration: 'omedim',
-      englishLiteral: 'standing_ones',
-      englishNatural: 'standing-ones',
+      englishLiteral: 'were-standing',
+      englishNatural: 'were standing',
       root: 'amad',
       suffixes: ['im'],
       order: {
@@ -41,14 +42,14 @@ export const isaiah_6_2: Verse = {
         person: '3rd',
         tense: 'participle',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
       hebrew: 'מִמַּעַל',
       transliteration: 'miMaal',
       englishLiteral: 'from-above',
-      englishNatural: 'from above',
+      englishNatural: 'above',
       root: 'maal',
       prefixes: ['mi'],
       order: {
@@ -56,14 +57,14 @@ export const isaiah_6_2: Verse = {
         english: 3,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
       hebrew: 'לוֹ',
       transliteration: 'lo',
       englishLiteral: 'to-him',
-      englishNatural: 'to him',
+      englishNatural: 'him',
       root: 'hu',
       prefixes: ['le'],
       order: {
@@ -74,7 +75,11 @@ export const isaiah_6_2: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '3rd',
-        type: 'preposition'
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
       },
     },
     {
@@ -88,7 +93,7 @@ export const isaiah_6_2: Verse = {
         english: 5,
       },
       morphology: {
-        type: 'numeral'
+        type: 'numeral',
       },
     },
     {
@@ -105,7 +110,7 @@ export const isaiah_6_2: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -122,14 +127,18 @@ export const isaiah_6_2: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'adjective'
+        type: 'adjective',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
       },
     },
     {
       hebrew: 'בִּשְׁתַּיִם',
       transliteration: 'biShtayim',
-      englishLiteral: 'with-two',
-      englishNatural: 'with two',
+      englishLiteral: 'in-two',
+      englishNatural: 'in two',
       root: 'shtayim',
       prefixes: ['be'],
       order: {
@@ -137,7 +146,7 @@ export const isaiah_6_2: Verse = {
         english: 8,
       },
       morphology: {
-        type: 'numeral'
+        type: 'numeral',
       },
     },
     {
@@ -157,7 +166,7 @@ export const isaiah_6_2: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'piel',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -175,14 +184,18 @@ export const isaiah_6_2: Verse = {
         gender: 'masculine',
         number: 'plural',
         person: '3rd',
-        type: 'noun'
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
       },
     },
     {
       hebrew: 'וּבִשְׁתַּיִם',
       transliteration: 'uViShtayim',
-      englishLiteral: 'and-with-two',
-      englishNatural: 'and with two',
+      englishLiteral: 'and-in-two',
+      englishNatural: 'and in two',
       root: 'shtayim',
       prefixes: ['u', 'be'],
       order: {
@@ -190,7 +203,7 @@ export const isaiah_6_2: Verse = {
         english: 11,
       },
       morphology: {
-        type: 'numeral'
+        type: 'numeral',
       },
     },
     {
@@ -210,7 +223,7 @@ export const isaiah_6_2: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'piel',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -228,14 +241,18 @@ export const isaiah_6_2: Verse = {
         gender: 'feminine',
         number: 'plural',
         person: '3rd',
-        type: 'noun'
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
       },
     },
     {
       hebrew: 'וּבִשְׁתַּיִם',
       transliteration: 'uViShtayim',
-      englishLiteral: 'and-with-two',
-      englishNatural: 'and with two',
+      englishLiteral: 'and-in-two',
+      englishNatural: 'and in two',
       root: 'shtayim',
       prefixes: ['u', 'be'],
       order: {
@@ -243,7 +260,7 @@ export const isaiah_6_2: Verse = {
         english: 14,
       },
       morphology: {
-        type: 'numeral'
+        type: 'numeral',
       },
     },
     {
@@ -263,16 +280,25 @@ export const isaiah_6_2: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'piel',
-        type: 'verb'
+        type: 'verb',
       },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
-    hebrew: 'שְׂרָפִים עֹמְדִים מִמַּעַל לוֹ שֵׁשׁ כְּנָפַיִם לְאֶחָד בִּשְׁתַּיִם יְכַסֶּה פָּנָיו וּבִשְׁתַּיִם יְכַסֶּה רַגְלָיו וּבִשְׁתַּיִם יְעוֹפֵף',
-    transliteration: 'seraphim omedim miMaal lo shesh kenafayim leEchad biShtayim yeKhasseh panav uViShtayim yeKhasseh raglav uViShtayim yeOfef',
-    englishLiteral: 'burning_ones standing_ones from-above to-him six wings to-one with-two he-covers his-face and-with-two he-covers his-feet and-with-two he-flies',
-    englishNatural: 'burning-ones standing-ones from above to him six wings to each one with two he covers his face and with two he covers his feet and with two he flies',
+    hebrew:
+      'שְׂרָפִים עֹמְדִים מִמַּעַל לוֹ שֵׁשׁ כְּנָפַיִם לְאֶחָד בִּשְׁתַּיִם יְכַסֶּה פָּנָיו וּבִשְׁתַּיִם יְכַסֶּה רַגְלָיו וּבִשְׁתַּיִם יְעוֹפֵף',
+    transliteration:
+      'seraphim omedim miMaal lo shesh kenafayim leEchad biShtayim yeKhasseh panav uViShtayim yeKhasseh raglav uViShtayim yeOfef',
+    englishLiteral:
+      'Burning_ones were-standing from-above to-him; six wings to-one, in-two he-covers his-face, and-in-two he-covers his-feet, and-in-two he-flies.',
+    englishNatural:
+      'Burning-ones were standing above him; six wings to each one, in two he covers his face, and in two he covers his feet, and in two he flies.',
     kjv: 'Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
-},
-}; 
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-07' },
+  },
+};

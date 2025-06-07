@@ -341,7 +341,8 @@ const ROOTS = {
     transliteration: 'YHWH',
     englishLiteral: 'He_Who_Is',
     englishNatural: 'He-Who-Is',
-    description: 'Unique form of hayah, the tetragrammaton, more literally, The One Who Always Is, or He who causes to be. Distinct form from other forms like "I Am" or "He is".',
+    description:
+      'Unique form of hayah, the tetragrammaton, more literally, The One Who Always Is, or He who causes to be. Distinct form from other forms like "I Am" or "He is".',
     type: 'noun',
     translatedTo: ['ego'],
   },
@@ -380,7 +381,8 @@ const ROOTS = {
     transliteration: 'dasha',
     englishLiteral: 'tender_shoot',
     englishNatural: 'tender-shoot',
-    description: 'a tender shoot, a young plant, a sprouting, small greenery or grasses',
+    description:
+      'a tender shoot, a young plant, a sprouting, small greenery or grasses',
     type: 'noun',
   },
   esev: {
@@ -538,7 +540,8 @@ const ROOTS = {
     transliteration: 'Moshe',
     englishLiteral: 'Draws_Out (Moses)',
     englishNatural: 'Draws-Out (Moses)',
-    description: 'Moses, who was drawn out of the water, and who drew out the Israelites',
+    description:
+      'Moses, who was drawn out of the water, and who drew out the Israelites, also "Son of ?" in Egyptian (eg. Ra-meses, "Son of Ra")',
     type: 'noun',
   },
   atah: {
@@ -560,7 +563,8 @@ const ROOTS = {
     transliteration: 'nashakh',
     englishLiteral: 'to strike',
     englishNatural: 'to strike',
-    description: 'flipped consonants from the word for snake, sometimes used to mean charging interest',
+    description:
+      'flipped consonants from the word for snake, sometimes used to mean charging interest',
     related: ['nachash'],
     type: 'verb',
   },
@@ -606,7 +610,8 @@ const ROOTS = {
     transliteration: 'yisrael',
     englishLiteral: 'Struggles_with_God (Israel)',
     englishNatural: 'Struggles-with-God (Israel)',
-    description: 'the people of Israel, the children of Israel, the people of Jacob',
+    description:
+      'the people of Israel, the children of Israel, the people of Jacob',
     type: 'noun',
   },
   // Additional roots from Numbers 21:1-9
@@ -825,7 +830,8 @@ const ROOTS = {
     transliteration: 'Peleshet',
     englishLiteral: 'Wallowers (Philistia)',
     englishNatural: 'Wallowers (Philistia)',
-    description: 'the Philistines, from the hebrew word for wallowing or rolling in the mud',
+    description:
+      'the Philistines, from the hebrew word for wallowing or rolling in the mud',
     type: 'noun',
   },
   shabar: {
@@ -840,7 +846,8 @@ const ROOTS = {
     transliteration: 'nakah',
     englishLiteral: 'to strike_down',
     englishNatural: 'to strike-down',
-    description: 'to strike down, to defeat militarily, to strike out of existence',
+    description:
+      'to strike down, to defeat militarily, to strike out of existence',
     related: ['nachash', 'nashakh'],
     type: 'verb',
   },
@@ -898,7 +905,7 @@ const ROOTS = {
     englishNatural: 'hammering-out',
     description: 'a thing made by the process of hammering out thin',
     type: 'noun',
-    related: ['raqa']
+    related: ['raqa'],
   },
   raqa: {
     hebrew: 'רקע',
@@ -907,7 +914,7 @@ const ROOTS = {
     englishNatural: 'to hammer-out',
     description: 'to hammer metal out thin or stretch into a sheet',
     type: 'verb',
-    related: ['raqia']
+    related: ['raqia'],
   },
   qavah: {
     hebrew: 'קוה',
@@ -1119,15 +1126,15 @@ const ROOTS = {
   ravah: {
     hebrew: 'רבה',
     transliteration: 'ravah',
-    englishLiteral: 'multiply',
-    englishNatural: 'multiply',
+    englishLiteral: 'to multiply',
+    englishNatural: 'to multiply',
     type: 'verb',
   },
   male: {
     hebrew: 'מלא',
     transliteration: 'male',
-    englishLiteral: 'fill',
-    englishNatural: 'fill',
+    englishLiteral: 'to fill',
+    englishNatural: 'to fill',
     type: 'verb',
   },
   hamish: {
@@ -1140,9 +1147,9 @@ const ROOTS = {
   adamah: {
     hebrew: 'אדמה',
     transliteration: 'adamah',
-    englishLiteral: 'ground',
-    englishNatural: 'ground',
-    related: ['adamah'],
+    englishLiteral: 'soil',
+    englishNatural: 'soil',
+    related: ['adam'],
     type: 'noun',
   },
   behemah: {
@@ -1157,7 +1164,8 @@ const ROOTS = {
     transliteration: 'adam',
     englishLiteral: 'human',
     englishNatural: 'human',
-    description: 'Humans in general, Name of Adam, distinct term from from man (ish), male (zakhar)',
+    description:
+      'Humans in general, Name of Adam, distinct term from from man (ish), male (zakhar)',
     related: ['adamah', 'ish', 'ishah', 'zakhar', 'neqevah'],
     type: 'noun',
   },
@@ -1215,10 +1223,10 @@ const ROOTS = {
     type: 'particle',
   },
   okhel: {
-    hebrew: 'אכל', 
+    hebrew: 'אכל',
     transliteration: 'okhel',
     englishLiteral: 'food',
-    englishNatural: 'food', 
+    englishNatural: 'food',
     related: ['akhal'],
     type: 'noun',
   },
@@ -1290,8 +1298,8 @@ const ROOTS = {
   amad: {
     hebrew: 'עָמַד',
     transliteration: 'amad',
-    englishLiteral: 'stand',
-    englishNatural: 'stand',
+    englishLiteral: 'to stand',
+    englishNatural: 'to stand',
     type: 'verb',
   },
   samach: {
@@ -1402,7 +1410,8 @@ const ROOTS = {
     transliteration: 'shaqah',
     englishLiteral: 'to give_drink',
     englishNatural: 'to give drink',
-    description: 'to drink, but not like "I drink water", but to quench anothers thirst, like when someone says "beer me" in English, but more generic',
+    description:
+      'to drink, but not like "I drink water", but to quench anothers thirst, like when someone says "beer me" in English, but more generic',
     type: 'verb',
   },
   // --- Added for Genesis 2:7 ---
@@ -1455,7 +1464,8 @@ const ROOTS = {
     transliteration: 'adan',
     englishLiteral: 'delicate',
     englishNatural: 'delicate',
-    description: 'delightfully delicate, delicacy, luxurious, purely-pleasing, delightful',
+    description:
+      'delightfully delicate, delicacy, luxurious, purely-pleasing, delightful',
     type: 'adjective',
   },
   qedem: {
@@ -1526,7 +1536,8 @@ const ROOTS = {
     transliteration: 'nuach',
     englishLiteral: 'to rest',
     englishNatural: 'to rest',
-    description: 'to cause to rest, to gingerly place, like carefully resting a child in a crib',
+    description:
+      'to cause to rest, to gingerly place, like carefully resting a child in a crib',
     type: 'verb',
   },
   shamar: {
@@ -1534,7 +1545,8 @@ const ROOTS = {
     transliteration: 'shamar',
     englishLiteral: 'to keep',
     englishNatural: 'to keep',
-    description: 'to exercise great care over something, similar to shepherding or being faithful to, but more broad',
+    description:
+      'to exercise great care over something, similar to shepherding or being faithful to, but more broad',
     type: 'verb',
   },
   // --- Added for Genesis 2:18 ---
@@ -1551,7 +1563,8 @@ const ROOTS = {
     transliteration: 'ezer',
     englishLiteral: 'help',
     englishNatural: 'help',
-    description: 'a helper, military deliverance, a savior, a deliverer, one who helps where you can not help yourself',
+    description:
+      'a helper, military deliverance, a savior, a deliverer, one who helps where you can not help yourself',
     type: 'noun',
   },
   neged: {
@@ -1599,7 +1612,8 @@ const ROOTS = {
     transliteration: 'bedolach',
     englishLiteral: 'bedolach',
     englishNatural: 'bedolach',
-    description: 'Alabaster is a best guess, traditionally just transliterated as bdellium in Greek and Latin, or as pearl, or crystal, but Hebrew has separate distinct words for those, unlike Alabaster stone, which it _should_ have a word for, but does not.',
+    description:
+      'Alabaster is a best guess, traditionally just transliterated as bdellium in Greek and Latin, or as pearl, or crystal, but Hebrew has separate distinct words for those, unlike Alabaster stone, which it _should_ have a word for, but does not.',
     type: 'noun',
   },
   even: {
@@ -1623,7 +1637,8 @@ const ROOTS = {
     transliteration: 'gichon',
     englishLiteral: 'Gusher (Gichon)',
     englishNatural: 'Gusher (Gichon)',
-    description: 'Proper noun, river name in Eden, possibly "gushing" or "bursting forth"',
+    description:
+      'Proper noun, river name in Eden, possibly "gushing" or "bursting forth"',
     type: 'noun',
   },
   kush: {
@@ -1631,7 +1646,8 @@ const ROOTS = {
     transliteration: 'kush',
     englishLiteral: 'Black (Kush)',
     englishNatural: 'Black (Kush)',
-    description: 'Proper noun, land/people group, traditionally associated with Ethiopia or Nubia',
+    description:
+      'Proper noun, land/people group, traditionally associated with Ethiopia or Nubia',
     type: 'noun',
   },
   // --- Added for Genesis 2:14 ---
@@ -1640,7 +1656,8 @@ const ROOTS = {
     transliteration: 'chidekel',
     englishLiteral: 'Rapid (Chidekel)',
     englishNatural: 'Rapid (Chidekel)',
-    description: 'Proper noun, river name in Eden, traditionally identified as the Tigris',
+    description:
+      'Proper noun, river name in Eden, traditionally identified as the Tigris',
     type: 'noun',
   },
   halakh: {
@@ -1664,7 +1681,8 @@ const ROOTS = {
     transliteration: 'perat',
     englishLiteral: 'Fruitful (Perat)',
     englishNatural: 'Fruitful (Perat)',
-    description: 'Proper noun, river name, traditionally identified as the Euphrates',
+    description:
+      'Proper noun, river name, traditionally identified as the Euphrates',
     type: 'noun',
   },
   // --- Added for Genesis 2:16 ---
@@ -1786,6 +1804,190 @@ const ROOTS = {
     transliteration: 'davaq',
     englishLiteral: 'to cling',
     englishNatural: 'to cling',
+    type: 'verb',
+  },
+  kisse: {
+    hebrew: 'כסא',
+    transliteration: 'kisse',
+    englishLiteral: 'throne',
+    englishNatural: 'throne',
+    type: 'noun',
+  },
+  hekhal: {
+    hebrew: 'היכל',
+    transliteration: 'hekhal',
+    englishLiteral: 'temple',
+    englishNatural: 'temple',
+    type: 'noun',
+  },
+  shul: {
+    hebrew: 'שול',
+    transliteration: 'shul',
+    englishLiteral: 'garment',
+    englishNatural: 'garment',
+    type: 'noun',
+  },
+  melekh: {
+    hebrew: 'מלך',
+    transliteration: 'melekh',
+    englishLiteral: 'king',
+    englishNatural: 'king',
+    type: 'noun',
+  },
+  malakh: {
+    hebrew: 'מַלְאָךְ',
+    transliteration: "malakh",
+    englishLiteral: 'messenger',
+    englishNatural: 'messenger',
+    type: 'noun',
+ },
+  uz: {
+    hebrew: 'עז',
+    transliteration: 'uz',
+    englishLiteral: 'strength',
+    englishNatural: 'strength',
+    type: 'noun',
+  },
+  adon: {
+    hebrew: 'אדון',
+    transliteration: 'adon',
+    englishLiteral: 'lord',
+    englishNatural: 'lord',
+    type: 'noun',
+  },
+  rum: {
+    hebrew: 'רום',
+    transliteration: 'rum',
+    englishLiteral: 'high',
+    englishNatural: 'high',
+    type: 'adjective',
+  },
+  nasa: {
+    hebrew: 'נשא',
+    transliteration: 'nasa',
+    englishLiteral: 'to lift_up',
+    englishNatural: 'to lift-up',
+    type: 'verb',
+  },
+  kavod: {
+    hebrew: 'כבוד',
+    transliteration: 'kavod',
+    englishLiteral: 'glory',
+    englishNatural: 'glory',
+    type: 'noun',
+  },
+  nuah: {
+    hebrew: 'נוע',
+    transliteration: 'nuah',
+    englishLiteral: 'to shake',
+    englishNatural: 'to shake',
+    type: 'verb',
+  },
+  amah: {
+    hebrew: 'אמה',
+    transliteration: 'amah',
+    englishLiteral: 'pillar',
+    englishNatural: 'pillar',
+    type: 'noun',
+  },
+  sip: {
+    hebrew: 'סף',
+    transliteration: 'sip',
+    englishLiteral: 'threshold',
+    englishNatural: 'threshold',
+    type: 'noun',
+  },
+  qol: {
+    hebrew: 'קול',
+    transliteration: 'qol',
+    englishLiteral: 'voice',
+    englishNatural: 'voice',
+    type: 'noun',
+  },
+  ashan: {
+    hebrew: 'עשן',
+    transliteration: 'ashan',
+    englishLiteral: 'smoke',
+    englishNatural: 'smoke',
+    type: 'noun',
+  },
+  bayit: {
+    hebrew: 'בית',
+    transliteration: 'bayit',
+    englishLiteral: 'house',
+    englishNatural: 'house',
+    type: 'noun',
+  },
+  oy: {
+    hebrew: 'אוי',
+    transliteration: 'oy',
+    englishLiteral: 'woe',
+    englishNatural: 'woe',
+    type: 'interjection',
+  },
+  damah: {
+    hebrew: 'דמה',
+    transliteration: 'damah',
+    englishLiteral: 'to be silenced',
+    englishNatural: 'to be silenced',
+    type: 'verb',
+  },
+  anokhi: {
+    hebrew: 'אנכי',
+    transliteration: 'anokhi',
+    englishLiteral: 'I',
+    englishNatural: 'I',
+    type: 'pronoun',
+  },
+  teme: {
+    hebrew: 'טמא',
+    transliteration: 'teme',
+    englishLiteral: 'unclean',
+    englishNatural: 'unclean',
+    type: 'adjective',
+  },
+  li: {
+    hebrew: 'לִ',
+    transliteration: 'li',
+    englishLiteral: 'to',
+    englishNatural: 'to',
+    type: 'preposition',
+  },
+  safah: {
+    hebrew: 'שפה',
+    transliteration: 'safah',
+    englishLiteral: 'lip',
+    englishNatural: 'lip',
+    type: 'noun',
+  },
+  ayin_eye: {
+    hebrew: 'עין',
+    transliteration: 'ayin',
+    englishLiteral: 'eye',
+    englishNatural: 'eye',
+    type: 'noun',
+  },
+  pi: {
+    hebrew: 'פי',
+    transliteration: 'pi',
+    englishLiteral: 'mouth',
+    englishNatural: 'mouth',
+    type: 'noun',
+  },
+  avon: {
+    hebrew: 'עון',
+    transliteration: 'avon',
+    englishLiteral: 'iniquity',
+    englishNatural: 'iniquity', 
+    description: 'moral crookedness, perversity, guilt',
+    type: 'noun',
+  },
+  kafar: {
+    hebrew: 'כפר',
+    transliteration: 'kafar',
+    englishLiteral: 'to cover',
+    englishNatural: 'to cover',
+    description: 'to cover over, to make atonement',
     type: 'verb',
   },
 } as const;

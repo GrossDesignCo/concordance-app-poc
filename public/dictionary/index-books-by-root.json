@@ -10,6 +10,7 @@
   ],
   "amar": [
     "genesis",
+    "isaiah",
     "numbers"
   ],
   "hayah": [
@@ -20,7 +21,8 @@
     "genesis"
   ],
   "eretz": [
-    "genesis"
+    "genesis",
+    "isaiah"
   ],
   "erev": [
     "genesis"
@@ -78,6 +80,7 @@
   ],
   "raah_see": [
     "genesis",
+    "isaiah",
     "numbers",
     "proverbs"
   ],
@@ -136,6 +139,7 @@
   ],
   "yhwh": [
     "genesis",
+    "isaiah",
     "numbers",
     "proverbs"
   ],
@@ -172,10 +176,14 @@
     "isaiah"
   ],
   "tokh": [
-    "genesis"
+    "genesis",
+    "isaiah"
   ],
   "ken": [
     "genesis"
+  ],
+  "naga": [
+    "isaiah"
   ],
   "be": [
     "genesis"
@@ -195,6 +203,7 @@
     "numbers"
   ],
   "am": [
+    "isaiah",
     "numbers"
   ],
   "bo": [
@@ -202,6 +211,7 @@
     "numbers"
   ],
   "chata": [
+    "isaiah",
     "numbers"
   ],
   "dabar": [
@@ -211,6 +221,7 @@
     "numbers"
   ],
   "sur": [
+    "isaiah",
     "numbers"
   ],
   "ad": [
@@ -241,6 +252,7 @@
   ],
   "ish": [
     "genesis",
+    "isaiah",
     "numbers"
   ],
   "nabat": [
@@ -249,8 +261,12 @@
   "yisrael": [
     "numbers"
   ],
+  "yashav": [
+    "isaiah"
+  ],
   "et": [
     "genesis",
+    "isaiah",
     "numbers"
   ],
   "al": [
@@ -336,7 +352,8 @@
     "genesis"
   ],
   "qara": [
-    "genesis"
+    "genesis",
+    "isaiah"
   ],
   "yom": [
     "genesis",
@@ -369,6 +386,7 @@
   ],
   "mavet": [
     "genesis",
+    "isaiah",
     "proverbs"
   ],
   "yalad": [
@@ -389,6 +407,7 @@
   ],
   "zeh": [
     "genesis",
+    "isaiah",
     "proverbs"
   ],
   "ot": [
@@ -398,7 +417,8 @@
     "genesis"
   ],
   "shanah": [
-    "genesis"
+    "genesis",
+    "isaiah"
   ],
   "peri": [
     "genesis",
@@ -441,7 +461,8 @@
     "genesis"
   ],
   "male": [
-    "genesis"
+    "genesis",
+    "isaiah"
   ],
   "hamish": [
     "genesis"
@@ -474,7 +495,8 @@
     "genesis"
   ],
   "hinneh": [
-    "genesis"
+    "genesis",
+    "isaiah"
   ],
   "okhel": [
     "genesis"
@@ -507,13 +529,15 @@
     "genesis"
   ],
   "tsava": [
-    "genesis"
+    "genesis",
+    "isaiah"
   ],
   "shavat": [
     "genesis"
   ],
   "qadash": [
-    "genesis"
+    "genesis",
+    "isaiah"
   ],
   "melakhah": [
     "genesis"
@@ -691,6 +715,81 @@
   ],
   "davaq": [
     "genesis"
+  ],
+  "kisse": [
+    "isaiah"
+  ],
+  "hekhal": [
+    "isaiah"
+  ],
+  "shul": [
+    "isaiah"
+  ],
+  "melekh": [
+    "isaiah"
+  ],
+  "uz": [
+    "isaiah"
+  ],
+  "adon": [
+    "isaiah"
+  ],
+  "rum": [
+    "isaiah"
+  ],
+  "nasa": [
+    "isaiah"
+  ],
+  "kavod": [
+    "isaiah"
+  ],
+  "nuah": [
+    "isaiah"
+  ],
+  "amah": [
+    "isaiah"
+  ],
+  "sip": [
+    "isaiah"
+  ],
+  "qol": [
+    "isaiah"
+  ],
+  "ashan": [
+    "isaiah"
+  ],
+  "bayit": [
+    "isaiah"
+  ],
+  "oy": [
+    "isaiah"
+  ],
+  "damah": [
+    "isaiah"
+  ],
+  "anokhi": [
+    "isaiah"
+  ],
+  "teme": [
+    "isaiah"
+  ],
+  "li": [
+    "isaiah"
+  ],
+  "safah": [
+    "isaiah"
+  ],
+  "ayin_eye": [
+    "isaiah"
+  ],
+  "pi": [
+    "isaiah"
+  ],
+  "avon": [
+    "isaiah"
+  ],
+  "kafar": [
+    "isaiah"
   ],
   "en": [
     "john",
