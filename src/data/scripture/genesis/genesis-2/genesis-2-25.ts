@@ -53,8 +53,8 @@ export const genesis_2_25: Verse = {
     {
       hebrew: 'עֲרוּמִּים',
       transliteration: 'arummim',
-      englishLiteral: 'naked_ones',
-      englishNatural: 'naked-ones',
+      englishLiteral: 'naked',
+      englishNatural: 'naked',
       root: 'arom',
       order: {
         hebrew: 3,
@@ -161,10 +161,10 @@ export const genesis_2_25: Verse = {
       'וַיִּהְיוּ שְׁנֵיהֶם עֲרוּמִּים הָאָדָם וְאִשְׁתּוֹ וְלֹא יִתְבּוֹשָׁשׁוּ׃',
     transliteration: 'vaYihyu shenehem arummim haAdam veIshto veLo yitboshashu',
     englishLiteral:
-      'And-they-were two-of-them naked_ones, the-human and-his-woman, and-not were-ashamed.',
+      'And-they-were two-of-them naked, the-human and-his-woman, and-not were-ashamed.',
     englishNatural:
-      'And the two of them were naked-ones, the human and his woman, and were ashamed not.',
+      'And the two of them were naked, the human and his woman, and were ashamed not.',
     kjv: 'And they were both naked, the man and his wife, and were not ashamed.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
   },
 };

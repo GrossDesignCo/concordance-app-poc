@@ -334,7 +334,7 @@ export const genesis_1_21: Verse = {
       transliteration: 'vaYar',
       englishLiteral: 'And-saw',
       englishNatural: 'saw',
-      root: 'raah_see',
+      root: 'raah',
       prefixes: ['va'],
       order: {
         hebrew: 20,
@@ -418,6 +418,6 @@ export const genesis_1_21: Verse = {
     englishLiteral: 'And-created Gods ↳ the-monsters, the-greats, And-↳ all throat the-living the-crawling which swarmed the-waters, to-their-kind, And-↳ all flyer wing to-its-kind, And-saw Gods, that- good.',
     englishNatural: 'And God created the monsters, the greats, And all throat the living the crawling which swarmed the waters, to their kind, And all winged flyer to its kind, And God saw, that it was good.',
     kjv: 'And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
   },
 }; 

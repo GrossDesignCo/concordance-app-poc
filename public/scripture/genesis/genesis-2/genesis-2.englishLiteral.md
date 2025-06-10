@@ -21,7 +21,7 @@ and-was the-human to-throat living.
 And-planted He_Who_Is Gods garden in-Delight (Eden) from-east, 
 and-set there ↳ the-human which formed.
 
-And-grew He_Who_Is Gods from-the-soil all- tree pleasant to-sight and-good to-food, 
+And-grew He_Who_Is Gods from-the-soil all- tree coveted to-sight and-good to-food, 
 and-tree the-lives in-midst the-garden, 
 and-tree the-knowledge good and-bad.
 
@@ -48,10 +48,11 @@ And-caused-to-fall He_Who_Is Gods deep_trance over the-human, and-he-slept; and-
 
 And-built He_Who_Is Gods ↳ the-side which he-took from- the-human, to-woman, and-brought-her to- the-human.
 
-And-said the-human, "This the-time! 
+And-said the-human, 
+"This the-time! 
 Bone from-my-bones, and-flesh from-my-flesh; 
-to-this will-be-called Woman, for from-Man was-taken this."
+to-this will-be-called Woman, that from-Man was-taken this."
 
 over- so, he-will-leave man ↳ his-father, and-↳ his-mother, and-cling in-his-woman, and-will-be to-flesh one.
 
-And-they-were two-of-them naked_ones, the-human and-his-woman, and-not were-ashamed.
+And-they-were two-of-them naked, the-human and-his-woman, and-not were-ashamed.

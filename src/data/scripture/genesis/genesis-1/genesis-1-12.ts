@@ -239,7 +239,7 @@ export const genesis_1_12: Verse = {
       transliteration: 'vaYar',
       englishLiteral: 'And-saw',
       englishNatural: 'saw',
-      root: 'raah_see',
+      root: 'raah',
       prefixes: ['va'],
       order: {
         hebrew: 14,
@@ -323,6 +323,6 @@ export const genesis_1_12: Verse = {
     englishLiteral: 'And-brought-out the-land tender_shoot, herb seeding seed to-its-kind, and-tree making fruit which its-seed-in-it to-its-kind. And-saw Gods, that- good.',
     englishNatural: 'And the land brought-out tender-shoot, herb seeding seed after its kind, and tree making fruit which has its seed in it after its kind. And God saw, that it was good.',
     kjv: 'And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
   },
 }; 

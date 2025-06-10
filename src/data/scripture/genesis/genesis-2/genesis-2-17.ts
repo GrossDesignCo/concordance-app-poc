@@ -56,7 +56,7 @@ export const genesis_2_17: Verse = {
       transliteration: 'vaRa',
       englishLiteral: 'and-bad',
       englishNatural: 'and Bad',
-      root: 'raah_bad',
+      root: 'ra',
       prefixes: ['va'],
       order: {
         hebrew: 4,
@@ -246,6 +246,6 @@ export const genesis_2_17: Verse = {
     englishNatural:
       'and from the Tree of Knowledge of Good and Bad, you will eat from it not; that in the day of your eating from it, death, you will die."',
     kjv: 'But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
   },
 };

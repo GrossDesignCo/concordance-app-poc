@@ -192,7 +192,7 @@ export const genesis_1_10: Verse = {
       transliteration: 'vaYar',
       englishLiteral: 'And-saw',
       englishNatural: 'saw',
-      root: 'raah_see',
+      root: 'raah',
       prefixes: ['va'],
       order: {
         hebrew: 9,
@@ -270,6 +270,6 @@ export const genesis_1_10: Verse = {
     englishLiteral: 'And-called_out Gods to_the-dry_ground, "Land," and-to-gathering, the-waters, called_out, "Seas." And-saw Gods, that- good.',
     englishNatural: 'And God called-out to the dry-ground "Land," and to the gathering of the waters he called-out "Seas." And God saw, that it was good.',
     kjv: 'And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
   },
 }; 

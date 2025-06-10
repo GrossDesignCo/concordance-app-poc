@@ -81,7 +81,7 @@ export const isaiah_6_1: Verse = {
       transliteration: "vaEr'eh",
       englishLiteral: 'And-I-saw',
       englishNatural: 'And I saw',
-      root: 'raah_see',
+      root: 'raah',
       prefixes: ['va'],
       order: {
         hebrew: 5,
@@ -308,6 +308,6 @@ export const isaiah_6_1: Verse = {
     englishNatural:
       'In the year of the death of the king, He-my-Strength (Uzziah). And I saw my Lord sitting over a throne, high and lifted-up, and his garments, filling the temple.',
     kjv: 'In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-07' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
   },
 };

@@ -48,7 +48,8 @@ vaYapel YHWH Elohim tardemah al haAdam vaYishan vaYikach achat miTzalotav vaYisg
 
 vaYiven YHWH Elohim et-haTzela asher lakach min-haAdam leIshah vaYeviEha el-haAdam
 
-vaYomer haAdam zot haPaam 
+vaYomer haAdam 
+zot haPaam 
 etsem meAtzamai uVasar miVesari 
 leZot yiqarei ishah ki meIsh luqqachah zot
 

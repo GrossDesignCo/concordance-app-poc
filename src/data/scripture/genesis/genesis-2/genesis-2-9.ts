@@ -114,8 +114,8 @@ export const genesis_2_9: Verse = {
     {
       hebrew: 'נֶחְמָד',
       transliteration: 'nechmad',
-      englishLiteral: 'pleasant',
-      englishNatural: 'pleasant',
+      englishLiteral: 'coveted',
+      englishNatural: 'coveted',
       root: 'chamad',
       order: {
         hebrew: 7,
@@ -297,7 +297,7 @@ export const genesis_2_9: Verse = {
       transliteration: 'vaRa',
       englishLiteral: 'and-bad',
       englishNatural: 'and Bad',
-      root: 'raah_bad',
+      root: 'ra',
       prefixes: ['va'],
       order: {
         hebrew: 18,
@@ -319,10 +319,10 @@ export const genesis_2_9: Verse = {
     transliteration:
       'vaYatzmach YHWH Elohim min-haAdamah kol-etz nechmad leMareh veTov leMaakhal veEtz haChayyim beTokh haGan veEtz haDaat tov vaRa',
     englishLiteral:
-      'And-grew He_Who_Is Gods from-the-soil all- tree pleasant to-sight and-good to-food, and-tree the-lives in-midst the-garden, and-tree the-knowledge good and-bad.',
+      'And-grew He_Who_Is Gods from-the-soil all- tree coveted to-sight and-good to-food, and-tree the-lives in-midst the-garden, and-tree the-knowledge good and-bad.',
     englishNatural:
-      'And He-Who-Is God grew from the soil every tree pleasant to the sight and good for food, and the Tree of Life in the midst of the garden, and the Tree of Knowledge of Good and Bad.',
+      'And He-Who-Is God grew from the soil every tree coveted to the sight and good for food, and the Tree of Life in the midst of the garden, and the Tree of Knowledge of Good and Bad.',
     kjv: 'And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
   },
 };

@@ -159,7 +159,7 @@ export const genesis_1_18: Verse = {
       transliteration: 'vaYar',
       englishLiteral: 'And-saw',
       englishNatural: 'saw',
-      root: 'raah_see',
+      root: 'raah',
       prefixes: ['va'],
       order: {
         hebrew: 9,
@@ -243,6 +243,6 @@ export const genesis_1_18: Verse = {
     englishLiteral: 'And-to-rule in-the-day, and-in-the-night, and-to-separate between the-light, and-between the-darkness, And-saw Gods, that- good.',
     englishNatural: 'And to rule in the day, and in the night, and to separate between the light, and between the darkness, And God saw, that it was good.',
     kjv: 'And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
   },
 }; 

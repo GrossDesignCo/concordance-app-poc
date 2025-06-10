@@ -398,7 +398,7 @@ export const isaiah_6_5: Verse = {
       transliteration: 'rau',
       englishLiteral: 'have-seen',
       englishNatural: 'have seen',
-      root: 'raah_see',
+      root: 'raah',
       morphology: {
         type: 'verb',
         tense: 'perfect',
@@ -443,6 +443,6 @@ export const isaiah_6_5: Verse = {
     englishLiteral: 'And-I-said, "Woe- to-me for- I-am-silenced; for man unclean- lips, I, and-in-midst-of people- unclean lips I dwell; for ↳ the-king, He_Who_Is of-Hosts have-seen my-eyes."',
     englishNatural: 'And I said, "Woe to me for I am silenced; for I, a man of unclean lips, and in the midst of a people of unclean lips I dwell; for my eyes have seen the King, He-Who-Is of Hosts."',
     kjv: 'Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the Lord of hosts.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-07' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
 },
 }; 

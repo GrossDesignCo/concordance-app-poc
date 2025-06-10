@@ -206,6 +206,74 @@ const SUFFIXES = {
     englishNatural: 'feminine marker',
     function: 'feminine noun formation',
   },
+  chem: {
+    hebrew: 'כֶם',
+    transliteration: 'chem',
+    englishLiteral: 'your',
+    englishNatural: 'your',
+    function: '2nd person masculine plural possessive',
+  },
+  tem: {
+    hebrew: 'תֶם',
+    transliteration: 'tem',
+    englishLiteral: 'you',
+    englishNatural: 'you',
+    function: '2nd person masculine plural',
+  },
+  // Genesis 3:7 addition - feminine plural verb ending
+  nah: {
+    hebrew: 'נה',
+    transliteration: 'nah',
+    englishLiteral: '-',
+    englishNatural: '',
+    function: 'feminine plural verb ending',
+  },
+  // Added for Genesis 3:11
+  ta: {
+    hebrew: 'ת',
+    transliteration: 'ta',
+    englishLiteral: 'you',
+    englishNatural: '',
+    function: '2nd person masculine singular perfect verb ending',
+  },
+  // Added for Genesis 3:12
+  adi: {
+    hebrew: 'די',
+    transliteration: 'adi',
+    englishLiteral: 'me',
+    englishNatural: 'me',
+    function: '1st person singular with preposition',
+  },
+  li: {
+    hebrew: 'י',
+    transliteration: 'i',
+    englishLiteral: 'me',
+    englishNatural: 'me',
+    function: '1st person singular object',
+  },
+  // Added for Genesis 3:13
+  ani: {
+    hebrew: 'ני',
+    transliteration: 'ani',
+    englishLiteral: 'me',
+    englishNatural: 'me',
+    function: '1st person singular object suffix',
+  },
+  it_verb: {
+    hebrew: 'ית',
+    transliteration: 'it',
+    englishLiteral: 'you',
+    englishNatural: 'you',
+    function: '2nd person feminine singular perfect verb ending',
+  },
+  // Added for Genesis 3:15
+  nu_object: {
+    hebrew: 'נו',
+    transliteration: 'nu',
+    englishLiteral: 'him',
+    englishNatural: 'him',
+    function: '3rd person masculine singular object',
+  },
 } as const;
 
 type SuffixKey = keyof typeof SUFFIXES;

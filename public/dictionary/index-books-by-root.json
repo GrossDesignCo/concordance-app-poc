@@ -78,14 +78,10 @@
     "genesis",
     "proverbs"
   ],
-  "raah_see": [
+  "raah": [
     "genesis",
     "isaiah",
     "numbers",
-    "proverbs"
-  ],
-  "raah_bad": [
-    "genesis",
     "proverbs"
   ],
   "satar": [
@@ -183,6 +179,7 @@
     "genesis"
   ],
   "naga": [
+    "genesis",
     "isaiah"
   ],
   "be": [
@@ -191,6 +188,9 @@
   "mut": [
     "genesis",
     "numbers"
+  ],
+  "pen": [
+    "genesis"
   ],
   "saraph": [
     "isaiah",
@@ -231,6 +231,7 @@
     "numbers"
   ],
   "atah": [
+    "genesis",
     "numbers"
   ],
   "nes": [
@@ -342,6 +343,10 @@
     "isaiah"
   ],
   "tov": [
+    "genesis",
+    "proverbs"
+  ],
+  "ra": [
     "genesis",
     "proverbs"
   ],
@@ -473,6 +478,9 @@
   "behemah": [
     "genesis"
   ],
+  "afar": [
+    "genesis"
+  ],
   "adam": [
     "genesis"
   ],
@@ -570,9 +578,6 @@
     "genesis"
   ],
   "yatsar": [
-    "genesis"
-  ],
-  "afar": [
     "genesis"
   ],
   "naphach": [
@@ -753,6 +758,7 @@
     "isaiah"
   ],
   "qol": [
+    "genesis",
     "isaiah"
   ],
   "ashan": [
@@ -768,6 +774,7 @@
     "isaiah"
   ],
   "anokhi": [
+    "genesis",
     "isaiah"
   ],
   "teme": [
@@ -790,6 +797,114 @@
   ],
   "kafar": [
     "isaiah"
+  ],
+  "yada": [
+    "genesis"
+  ],
+  "paqach": [
+    "genesis"
+  ],
+  "avah": [
+    "genesis"
+  ],
+  "sakhal": [
+    "genesis"
+  ],
+  "laqach": [
+    "genesis"
+  ],
+  "gam": [
+    "genesis"
+  ],
+  "hem": [
+    "genesis"
+  ],
+  "taphar": [
+    "genesis"
+  ],
+  "aleh": [
+    "genesis"
+  ],
+  "teenah": [
+    "genesis"
+  ],
+  "la": [
+    "genesis"
+  ],
+  "chagar": [
+    "genesis"
+  ],
+  "shama": [
+    "genesis"
+  ],
+  "chaba": [
+    "genesis"
+  ],
+  "ayekah": [
+    "genesis"
+  ],
+  "yare": [
+    "genesis"
+  ],
+  "mi": [
+    "genesis"
+  ],
+  "nagad": [
+    "genesis"
+  ],
+  "bilti": [
+    "genesis"
+  ],
+  "im_with": [
+    "genesis"
+  ],
+  "hi": [
+    "genesis"
+  ],
+  "mah": [
+    "genesis"
+  ],
+  "zot": [
+    "genesis"
+  ],
+  "nasha": [
+    "genesis"
+  ],
+  "arar": [
+    "genesis"
+  ],
+  "gachon": [
+    "genesis"
+  ],
+  "chayyim": [
+    "genesis"
+  ],
+  "eivah": [
+    "genesis"
+  ],
+  "shuf": [
+    "genesis"
+  ],
+  "aqev": [
+    "genesis"
+  ],
+  "harbah": [
+    "genesis"
+  ],
+  "rabah": [
+    "genesis"
+  ],
+  "heron": [
+    "genesis"
+  ],
+  "etzev": [
+    "genesis"
+  ],
+  "ben": [
+    "genesis"
+  ],
+  "teshuqah": [
+    "genesis"
   ],
   "en": [
     "john",

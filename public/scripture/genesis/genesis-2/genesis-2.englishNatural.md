@@ -21,7 +21,7 @@ and the human was a living throat.
 And He-Who-Is God planted a garden in Delight (Eden) from the east, 
 and set there the human which he formed.
 
-And He-Who-Is God grew from the soil every tree pleasant to the sight and good for food, 
+And He-Who-Is God grew from the soil every tree coveted to the sight and good for food, 
 and the Tree of Life in the midst of the garden, 
 and the Tree of Knowledge of Good and Bad.
 
@@ -48,10 +48,11 @@ And He-Who-Is God caused a deep-trance to fall over the human, and he slept; and
 
 And He-Who-Is God built the side which he took from the human, into a woman, and brought her to the human.
 
-And the human said, "This is the time! 
+And the human said, 
+"This is the time! 
 Bone from my bones, and flesh from my flesh; 
-to this will be called Woman, for from Man was taken this."
+to this will be called Woman, that from Man was taken this."
 
 So moreover, Man will leave his father, and his mother, and cling in his woman, and will become one flesh.
 
-And the two of them were naked-ones, the human and his woman, and were ashamed not.
+And the two of them were naked, the human and his woman, and were ashamed not.

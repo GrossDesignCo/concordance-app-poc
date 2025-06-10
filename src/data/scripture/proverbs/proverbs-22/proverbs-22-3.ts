@@ -30,7 +30,7 @@ export const proverbs_22_3: Verse = {
       transliteration: "ra'ah",
       englishLiteral: 'sees',
       englishNatural: 'sees',
-      root: 'raah_see',
+      root: 'raah',
       order: {
         hebrew: 2,
         english: 2,
@@ -49,7 +49,7 @@ export const proverbs_22_3: Verse = {
       transliteration: 'ra`ah',
       englishLiteral: 'bad',
       englishNatural: 'bad',
-      root: 'raah_bad',
+      root: 'ra',
       order: {
         hebrew: 3,
         english: 3,
@@ -159,6 +159,6 @@ export const proverbs_22_3: Verse = {
     englishNatural:
       'Shrewd sees bad and hides himself; but the simple go on and are punished.',
     kjv: 'A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
 },
 };
