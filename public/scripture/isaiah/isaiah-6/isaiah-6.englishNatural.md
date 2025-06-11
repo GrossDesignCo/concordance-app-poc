@@ -10,7 +10,7 @@ fullness of all the land is his glory."
 
 And pillars of the thresholds shook from the voice of the caller, and the house was filled with smoke.
 
-And I said, "Woe to me for I am silenced; for I, a man of unclean lips, and in the midst of a people of unclean lips I dwell; for my eyes have seen the King, He-Who-Is of Hosts."
+And I said, "Woe to me for I am silenced; for I, a man of unclean lips, and in the midst of a people of unclean lips I sit; for my eyes have seen the King, He-Who-Is of Hosts."
 
 
 And flew to me one from the burning-ones and in his hand a live-coal he had taken with tongs from upon the altar. 

@@ -283,8 +283,8 @@ export const isaiah_6_5: Verse = {
     {
       hebrew: 'יוֹשֵׁב',
       transliteration: 'yoshev',
-      englishLiteral: 'dwell',
-      englishNatural: 'dwell',
+      englishLiteral: 'sit',
+      englishNatural: 'sit',
       root: 'yashav',
       morphology: {
         type: 'verb',
@@ -440,9 +440,9 @@ export const isaiah_6_5: Verse = {
   expectedTranslations: {
     hebrew: "וָאֹמַר אוֹי־לִי כִּי־נִדְמֵיתִי כִּי אִישׁ טְמֵא־שְׂפָתַיִם אָנֹכִי וּבְתוֹךְ עַם־טְמֵא שְׂפָתַיִם אָנֹכִי יוֹשֵׁב כִּי אֶת־הַמֶּלֶךְ יְהוָה צְבָאוֹת רָאוּ עֵינָי",
     transliteration: "vaOmar oy-li ki-nidmeiti ki ish teme-sfatayim anokhi uVeTokh am-teme sfatayim anokhi yoshev ki et-haMelekh YHWH tsvaot rau einai",
-    englishLiteral: 'And-I-said, "Woe- to-me for- I-am-silenced; for man unclean- lips, I, and-in-midst-of people- unclean lips I dwell; for ↳ the-king, He_Who_Is of-Hosts have-seen my-eyes."',
-    englishNatural: 'And I said, "Woe to me for I am silenced; for I, a man of unclean lips, and in the midst of a people of unclean lips I dwell; for my eyes have seen the King, He-Who-Is of Hosts."',
+    englishLiteral: 'And-I-said, "Woe- to-me for- I-am-silenced; for man unclean- lips, I, and-in-midst-of people- unclean lips I sit; for ↳ the-king, He_Who_Is of-Hosts have-seen my-eyes."',
+    englishNatural: 'And I said, "Woe to me for I am silenced; for I, a man of unclean lips, and in the midst of a people of unclean lips I sit; for my eyes have seen the King, He-Who-Is of Hosts."',
     kjv: 'Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the Lord of hosts.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-11' },
 },
 }; 

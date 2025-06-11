@@ -49,5 +49,40 @@ and you will bruise his heel."
 To the woman he said, 
 "Multiplying, I will multiply your pain and your pregnancy; 
 in pain you will birth sons; 
-and to your man your attraction, 
-and he will rule in you." 
+and to your man your obsession, 
+and he will rule in you."
+
+And to Human he said, 
+"That you listened to the voice of your wife, 
+and you ate from the tree, 
+which I commanded you saying, 'You will eat from it not'; 
+cursed is the soil in your passing-through; 
+in pain you will eat, 
+all the days of your life;"
+
+And thorn and thistle it will grow to you; 
+and you will eat the herb of the field;
+
+In sweat of your face, you will eat bread, 
+until your return to the soil; 
+that from it you were taken, 
+that dust are you, 
+and to dust you will return."
+
+And the human called-out his wife's name Life-Giver (Eve); that she was Mother of all Living.
+
+And He-Who-Is God made to Human and to his woman; tunics of skin and clothed them.
+
+And He-Who-Is God said, 
+"Behold, the human has become as one 
+from us to know good and bad; 
+and now —or else he will send his hand 
+and take also from the Tree of Life 
+and eat and live to the-age—
+
+And He-Who-Is God sent him from Garden of Delight (Eden); 
+to serve the soil from there which he was taken.
+And he drove out the human; 
+and he caused to dwell east of Garden of Delight (Eden) the Guardians-of-the-Approach; 
+and the Flame of the Sword, the Overturning, 
+to keep the way to the Tree of Life. 

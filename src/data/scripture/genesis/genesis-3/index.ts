@@ -15,6 +15,14 @@ import { genesis_3_13 } from './genesis-3-13';
 import { genesis_3_14 } from './genesis-3-14';
 import { genesis_3_15 } from './genesis-3-15';
 import { genesis_3_16 } from './genesis-3-16';
+import { genesis_3_17 } from './genesis-3-17';
+import { genesis_3_18 } from './genesis-3-18';
+import { genesis_3_19 } from './genesis-3-19';
+import { genesis_3_20 } from './genesis-3-20';
+import { genesis_3_21 } from './genesis-3-21';
+import { genesis_3_22 } from './genesis-3-22';
+import { genesis_3_23 } from './genesis-3-23';
+import { genesis_3_24 } from './genesis-3-24';
 
 const chapter: Chapter = {
   meta: {
@@ -38,6 +46,14 @@ const chapter: Chapter = {
     genesis_3_14,
     genesis_3_15,
     genesis_3_16,
+    genesis_3_17,
+    genesis_3_18,
+    genesis_3_19,
+    genesis_3_20,
+    genesis_3_21,
+    genesis_3_22,
+    genesis_3_23,
+    genesis_3_24,
   ],
 };
 
@@ -59,3 +75,21 @@ export { genesis_3_13 } from './genesis-3-13';
 export { genesis_3_14 } from './genesis-3-14';
 export { genesis_3_15 } from './genesis-3-15';
 export { genesis_3_16 } from './genesis-3-16';
+export { genesis_3_17 } from './genesis-3-17';
+export { genesis_3_18 } from './genesis-3-18';
+export { genesis_3_19 } from './genesis-3-19';
+export { genesis_3_20 } from './genesis-3-20';
+export { genesis_3_21 } from './genesis-3-21';
+export { genesis_3_22 } from './genesis-3-22';
+export { genesis_3_23 } from './genesis-3-23';
+export { genesis_3_24 } from './genesis-3-24';
+
+export const genesis_3 = [
+  genesis_3_17,
+  genesis_3_18,
+  genesis_3_19,
+  genesis_3_20,
+  genesis_3_21,
+  genesis_3_22,
+  genesis_3_23,
+];

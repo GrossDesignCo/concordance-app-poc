@@ -49,5 +49,41 @@ and-you you-will-bruise-his heel."
 To the-woman he-said, 
 "Multiplying, I-will_multiply pain-your and-pregnancy-your; 
 in-pain you-will_birth sons; 
-and-to man-your attraction-your, 
-and-he he-will_rule in-you." 
+and-to man-your obsession-your, 
+and-he he-will_rule in-you."
+
+And-to-human he-said, 
+"That you-listened to-voice wife-your, 
+and-you-ate from the-tree, 
+which I-commanded-you to-say, 'Not you-will-eat from-it'; 
+cursed the-soil in-passing_through-your; 
+in-pain you-will-eat, 
+all days-of lives-your;"
+
+And-thorn and-thistle it-will-grow to-you; 
+and-you-will-eat ↳ herb the-field;
+
+In-sweat_of your-face, you-will-eat bread, 
+until your-return to the-soil; 
+that from-her you-were-taken, 
+that dust you, 
+and-to dust you-will-return."
+
+And-he-called_out the-human name wife-his Life_Giver (Eve); that she was Mother all Living.
+
+And-he-made He_Who_Is Gods to-human and-to-woman-his; tunics skin and-he-clothed-them.
+
+And-he-said He_Who_Is Gods, 
+"Behold, the-human has-become as-one 
+from-us to-know good and-bad; 
+and-now —or-else he-will-send hand-his 
+and-take also from-tree the-lives 
+and-eat and-live to-the_age—
+
+And-he-sent-him He_Who_Is Gods from-Garden Delight (Eden); 
+to-serve ↳ the-soil which was-taken from-there.
+
+And-he-drove-out ↳ the-human; 
+and-he-caused-to-dwell from-east to-Garden Delight (Eden) ↳ the-Guardians_of_the_Approach; 
+and-↳ flame the-sword, the-overturning, 
+to-keep ↳ way tree the-lives.

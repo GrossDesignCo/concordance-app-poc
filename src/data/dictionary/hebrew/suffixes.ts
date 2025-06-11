@@ -274,6 +274,13 @@ const SUFFIXES = {
     englishNatural: 'him',
     function: '3rd person masculine singular object',
   },
+  enah: {
+    hebrew: 'נה',
+    transliteration: 'enah',
+    englishLiteral: 'her',
+    englishNatural: 'it',
+    function: '3rd person feminine singular object with preposition',
+  },
 } as const;
 
 type SuffixKey = keyof typeof SUFFIXES;

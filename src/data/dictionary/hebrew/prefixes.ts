@@ -78,8 +78,8 @@ const PREFIXES = {
   pen: {
     hebrew: 'פֶּן',
     transliteration: 'pen',
-    englishLiteral: 'lest',
-    englishNatural: 'lest',
+    englishLiteral: 'or-else',
+    englishNatural: 'or else',
   },
   // Numbers 21:6-9 prefixes
   ba: {

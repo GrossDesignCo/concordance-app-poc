@@ -91,6 +91,7 @@
     "proverbs"
   ],
   "avar": [
+    "genesis",
     "proverbs"
   ],
   "anash": [
@@ -197,6 +198,7 @@
     "numbers"
   ],
   "shalach": [
+    "genesis",
     "numbers"
   ],
   "rav": [
@@ -225,6 +227,7 @@
     "numbers"
   ],
   "ad": [
+    "genesis",
     "numbers"
   ],
   "moshe": [
@@ -261,6 +264,9 @@
   ],
   "yisrael": [
     "numbers"
+  ],
+  "derekh": [
+    "genesis"
   ],
   "yashav": [
     "isaiah"
@@ -330,6 +336,7 @@
     "isaiah"
   ],
   "yad": [
+    "genesis",
     "isaiah"
   ],
   "lakach": [
@@ -904,6 +911,57 @@
     "genesis"
   ],
   "teshuqah": [
+    "genesis"
+  ],
+  "qots": [
+    "genesis"
+  ],
+  "dardar": [
+    "genesis"
+  ],
+  "zea": [
+    "genesis"
+  ],
+  "lechem": [
+    "genesis"
+  ],
+  "shuv": [
+    "genesis"
+  ],
+  "chavah": [
+    "genesis"
+  ],
+  "chai": [
+    "genesis"
+  ],
+  "kuttonet": [
+    "genesis"
+  ],
+  "labash": [
+    "genesis"
+  ],
+  "or_skin": [
+    "genesis"
+  ],
+  "olam": [
+    "genesis"
+  ],
+  "garash": [
+    "genesis"
+  ],
+  "keruv": [
+    "genesis"
+  ],
+  "hat": [
+    "genesis"
+  ],
+  "cherev": [
+    "genesis"
+  ],
+  "haphakh": [
+    "genesis"
+  ],
+  "shakhan": [
     "genesis"
   ],
   "en": [

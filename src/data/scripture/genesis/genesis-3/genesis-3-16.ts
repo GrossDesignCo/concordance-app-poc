@@ -237,8 +237,8 @@ export const genesis_3_16: Verse = {
     {
       hebrew: 'תְּשׁוּקָתֵךְ',
       transliteration: 'teshuqatek',
-      englishLiteral: 'attraction-your',
-      englishNatural: 'your attraction',
+      englishLiteral: 'obsession-your',
+      englishNatural: 'your obsession',
       root: 'teshuqah',
       suffixes: ['ekh'],
       order: {
@@ -309,14 +309,15 @@ export const genesis_3_16: Verse = {
         englishLiteral: '."',
         englishNatural: '."',
       },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
     hebrew: 'אֶל הָאִשָּׁה אָמַר הַרְבָּה אַרְבֶּה עִצְּבוֹנֵךְ וְהֵרֹנֵךְ בְּעֶצֶב תֵּלְדִי בָנִים וְאֶל אִישֵׁךְ תְּשׁוּקָתֵךְ וְהוּא יִמְשָׁל בָּךְ',
     transliteration: 'el haIshah amar harbah arbeh itzvonek veHeronekh beEtzev teldi banim veEl ishekh teshuqatek veHu yimshal bakh',
-    englishLiteral: 'To the-woman he-said, "Multiplying, I-will_multiply pain-your and-pregnancy-your; in-pain you-will_birth sons; and-to man-your attraction-your, and-he he-will_rule in-you."',
-    englishNatural: 'To the woman he said, "Multiplying, I will multiply your pain and your pregnancy; in pain you will birth sons; and to your man your attraction, and he will rule in you."',
+    englishLiteral: 'To the-woman he-said, "Multiplying, I-will_multiply pain-your and-pregnancy-your; in-pain you-will_birth sons; and-to man-your obsession-your, and-he he-will_rule in-you."',
+    englishNatural: 'To the woman he said, "Multiplying, I will multiply your pain and your pregnancy; in pain you will birth sons; and to your man your obsession, and he will rule in you."',
     kjv: 'Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-11' },
   },
 }; 

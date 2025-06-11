@@ -10,7 +10,7 @@ fullness-of all the-land: his-glory."
 
 And-shook pillars the-thresholds from-voice the-caller, and-the-house was-filled smoke.
 
-And-I-said, "Woe- to-me for- I-am-silenced; for man unclean- lips, I, and-in-midst-of people- unclean lips I dwell; for ↳ the-king, He_Who_Is of-Hosts have-seen my-eyes."
+And-I-said, "Woe- to-me for- I-am-silenced; for man unclean- lips, I, and-in-midst-of people- unclean lips I sit; for ↳ the-king, He_Who_Is of-Hosts have-seen my-eyes."
 
 
 And-flew to-me one from the-burning_ones and-in-his-hand live_coal with-tongs he-took from-upon the-altar. 

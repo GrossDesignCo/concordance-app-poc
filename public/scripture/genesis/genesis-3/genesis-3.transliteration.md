@@ -50,4 +50,40 @@ el haIshah amar
 harbah arbeh itzvonek veHeronekh 
 beEtzev teldi banim 
 veEl ishekh teshuqatek 
-veHu yimshal bakh 
+veHu yimshal bakh
+
+uleAdam amar 
+ki-shmamta leQol ishtekha 
+vaToAkhal min-haEtz 
+asher tzivitikha lemor lo tokhal mimenu 
+arurah haAdamah baavurekha 
+beItzavon tokhlena 
+kol yemey chayyekha
+
+veQots veDardar tatzmich lakh 
+veAkhlta et-esev haSadeh
+
+beZeat apeikha toKhal lechem 
+ad shuvkha el-haAdamah 
+ki mimenah luqachta 
+ki-afar atah 
+veEl-afar taShuv
+
+vayYiqra haAdam shem ishto Chavah ki hi hayetah em kol-chai
+
+vayYaas YHWH Elohim leAdam uleIshto kotnot or vayYaLbishem
+
+vayYomer YHWH Elohim 
+hen haAdam hayah keAchad 
+miMennu laDaat tov vaRa 
+veAtah pen-yishLach yado 
+veLaqach gam meEtz haChayyim 
+veAkhal vaChai leOlam
+
+vayShallachehu YHWH Elohim miGan-Eden 
+laAvod et-haAdamah asher luQach miSham
+
+vayGaresh et-haAdam 
+vayYashken miQedem leGan-Eden et-haKeruvim 
+veEt laHat haCherev haMithapekhet 
+lishMor et-derekh etz haChayyim
