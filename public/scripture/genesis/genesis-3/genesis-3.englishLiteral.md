@@ -49,7 +49,7 @@ and-you you-will-bruise-his heel."
 To the-woman he-said, 
 "Multiplying, I-will_multiply pain-your and-pregnancy-your; 
 in-pain you-will_birth sons; 
-and-to man-your obsession-your, 
+and-to man-your fixation-your, 
 and-he he-will_rule in-you."
 
 And-to-human he-said, 

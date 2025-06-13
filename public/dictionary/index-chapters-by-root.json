@@ -1822,7 +1822,8 @@
   },
   "eimi": {
     "john": [
-      1
+      1,
+      21
     ],
     "revelation": [
       20
@@ -1830,7 +1831,8 @@
   },
   "ho": {
     "john": [
-      1
+      1,
+      21
     ],
     "matthew": [
       10
@@ -1846,7 +1848,8 @@
   },
   "kai": {
     "john": [
-      1
+      1,
+      21
     ],
     "matthew": [
       10
@@ -1897,6 +1900,9 @@
     ]
   },
   "autos": {
+    "john": [
+      21
+    ],
     "revelation": [
       20
     ]
@@ -1952,6 +1958,9 @@
     ]
   },
   "cheir": {
+    "john": [
+      21
+    ],
     "revelation": [
       20
     ]
@@ -1959,6 +1968,21 @@
   "angelos": {
     "revelation": [
       20
+    ]
+  },
+  "pas": {
+    "john": [
+      21
+    ]
+  },
+  "ou": {
+    "john": [
+      21
+    ]
+  },
+  "arnion": {
+    "john": [
+      21
     ]
   },
   "eido": {
@@ -1992,6 +2016,9 @@
     ]
   },
   "ego": {
+    "john": [
+      21
+    ],
     "matthew": [
       10
     ]
@@ -2002,11 +2029,17 @@
     ]
   },
   "su": {
+    "john": [
+      21
+    ],
     "matthew": [
       10
     ]
   },
   "probaton": {
+    "john": [
+      21
+    ],
     "matthew": [
       10
     ]
@@ -2027,6 +2060,9 @@
     ]
   },
   "oun": {
+    "john": [
+      21
+    ],
     "matthew": [
       10
     ]
@@ -2044,6 +2080,196 @@
   "peristera": {
     "matthew": [
       10
+    ]
+  },
+  "agapao": {
+    "john": [
+      21
+    ]
+  },
+  "aristao": {
+    "john": [
+      21
+    ]
+  },
+  "bosko": {
+    "john": [
+      21
+    ]
+  },
+  "iesous": {
+    "john": [
+      21
+    ]
+  },
+  "ioannes": {
+    "john": [
+      21
+    ]
+  },
+  "kurios": {
+    "john": [
+      21
+    ]
+  },
+  "lego": {
+    "john": [
+      21
+    ]
+  },
+  "me": {
+    "john": [
+      21
+    ]
+  },
+  "nai": {
+    "john": [
+      21
+    ]
+  },
+  "oida": {
+    "john": [
+      21
+    ]
+  },
+  "ote": {
+    "john": [
+      21
+    ]
+  },
+  "petros": {
+    "john": [
+      21
+    ]
+  },
+  "phileo": {
+    "john": [
+      21
+    ]
+  },
+  "pleon": {
+    "john": [
+      21
+    ]
+  },
+  "se": {
+    "john": [
+      21
+    ]
+  },
+  "simon": {
+    "john": [
+      21
+    ]
+  },
+  "toutos": {
+    "john": [
+      21
+    ]
+  },
+  "oti": {
+    "john": [
+      21
+    ]
+  },
+  "deuteros": {
+    "john": [
+      21
+    ]
+  },
+  "palin": {
+    "john": [
+      21
+    ]
+  },
+  "poimaino": {
+    "john": [
+      21
+    ]
+  },
+  "tritos": {
+    "john": [
+      21
+    ]
+  },
+  "lupeo": {
+    "john": [
+      21
+    ]
+  },
+  "ginosko": {
+    "john": [
+      21
+    ]
+  },
+  "epo": {
+    "john": [
+      21
+    ]
+  },
+  "neoteros": {
+    "john": [
+      21
+    ]
+  },
+  "zonnuo": {
+    "john": [
+      21
+    ]
+  },
+  "seautou": {
+    "john": [
+      21
+    ]
+  },
+  "peripateo": {
+    "john": [
+      21
+    ]
+  },
+  "thelo": {
+    "john": [
+      21
+    ]
+  },
+  "gerao": {
+    "john": [
+      21
+    ]
+  },
+  "ekteino": {
+    "john": [
+      21
+    ]
+  },
+  "allos": {
+    "john": [
+      21
+    ]
+  },
+  "oiso": {
+    "john": [
+      21
+    ]
+  },
+  "amen": {
+    "john": [
+      21
+    ]
+  },
+  "hopou": {
+    "john": [
+      21
+    ]
+  },
+  "hotan": {
+    "john": [
+      21
+    ]
+  },
+  "de": {
+    "john": [
+      21
     ]
   }
 }

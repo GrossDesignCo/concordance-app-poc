@@ -49,7 +49,7 @@ and you will bruise his heel."
 To the woman he said, 
 "Multiplying, I will multiply your pain and your pregnancy; 
 in pain you will birth sons; 
-and to your man your obsession, 
+and to your man your fixation, 
 and he will rule in you."
 
 And to Human he said, 

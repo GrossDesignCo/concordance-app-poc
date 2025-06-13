@@ -1,0 +1,3 @@
+Hote oun ēristēsan legei tō Simōni Petrō ho Iēsous Simōn Iōannou agapas me pleon toutōn legei autō nai kurie su oidas hoti philō se legei autō boske ta arnia mou legei autō palin deuteron Simōn Iōannou agapas me legei autō nai kurie su oidas hoti philō se legei autō poimaine ta probata mou legei autō to triton Simōn Iōannou phileis me lupēthē ho Petros hoti eipen autō to triton phileis me kai legei autō kurie panta su oidas su ginōskeis hoti philō se legei autō boske ta probata mou
+
+amēn amēn legō soi hote ēs neoteros ezōnnues seauton kai periepateis hopou ētheles hotan de gērasēs ekteneis tas cheiras sou kai allos se zōsei kai oisei hopou ou theleis 

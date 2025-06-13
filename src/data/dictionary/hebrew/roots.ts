@@ -2294,8 +2294,8 @@ const ROOTS = {
   teshuqah: {
     hebrew: 'תְּשׁוּקָה',
     transliteration: 'teshuqah',
-    englishLiteral: 'obsession',
-    englishNatural: 'obsession',
+    englishLiteral: 'fixation',
+    englishNatural: 'fixation',
     type: 'noun',
     description: 'rare word for intense predatory or sexual desire, longing, craving'
   },
@@ -2437,6 +2437,30 @@ const ROOTS = {
     englishNatural: 'to dwell',
     type: 'verb',
     description: 'to dwell, abide, settle temporarily, inhabit, remain'
+  },
+  shua: {
+    hebrew: 'יֵשׁוּעַ',
+    transliteration: 'shua',
+    englishLiteral: 'salvation',
+    englishNatural: 'salvation',
+    type: 'noun',
+    description: 'salvation, deliverance, rescue',
+  },
+  Yeshua: {
+    hebrew: 'יֵשׁוּעַ',
+    transliteration: 'Yeshua',
+    englishLiteral: 'He_is_Salvation',
+    englishNatural: 'He-is-Salvation',
+    type: 'noun',
+    description: 'Proper name, meaning "He-(who-Is)-is-Salvation"',
+  },
+  yohanan: {
+    hebrew: 'יוֹחָנָן',
+    transliteration: 'yohanan',
+    englishLiteral: 'He_is_gracious',
+    englishNatural: 'He-is-gracious',
+    type: 'noun',
+    description: 'proper name meaning "He-(who-Is)-is-gracious"',
   },
 } as const;
 

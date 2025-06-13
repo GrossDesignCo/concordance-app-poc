@@ -1012,6 +1012,7 @@
     "revelation"
   ],
   "autos": [
+    "john",
     "revelation"
   ],
   "chilioi": [
@@ -1045,10 +1046,20 @@
     "revelation"
   ],
   "cheir": [
+    "john",
     "revelation"
   ],
   "angelos": [
     "revelation"
+  ],
+  "pas": [
+    "john"
+  ],
+  "ou": [
+    "john"
+  ],
+  "arnion": [
+    "john"
   ],
   "eido": [
     "revelation"
@@ -1069,15 +1080,18 @@
     "matthew"
   ],
   "ego": [
+    "john",
     "matthew"
   ],
   "apostello": [
     "matthew"
   ],
   "su": [
+    "john",
     "matthew"
   ],
   "probaton": [
+    "john",
     "matthew"
   ],
   "mesos": [
@@ -1090,6 +1104,7 @@
     "matthew"
   ],
   "oun": [
+    "john",
     "matthew"
   ],
   "phronimos": [
@@ -1100,5 +1115,119 @@
   ],
   "peristera": [
     "matthew"
+  ],
+  "agapao": [
+    "john"
+  ],
+  "aristao": [
+    "john"
+  ],
+  "bosko": [
+    "john"
+  ],
+  "iesous": [
+    "john"
+  ],
+  "ioannes": [
+    "john"
+  ],
+  "kurios": [
+    "john"
+  ],
+  "lego": [
+    "john"
+  ],
+  "me": [
+    "john"
+  ],
+  "nai": [
+    "john"
+  ],
+  "oida": [
+    "john"
+  ],
+  "ote": [
+    "john"
+  ],
+  "petros": [
+    "john"
+  ],
+  "phileo": [
+    "john"
+  ],
+  "pleon": [
+    "john"
+  ],
+  "se": [
+    "john"
+  ],
+  "simon": [
+    "john"
+  ],
+  "toutos": [
+    "john"
+  ],
+  "oti": [
+    "john"
+  ],
+  "deuteros": [
+    "john"
+  ],
+  "palin": [
+    "john"
+  ],
+  "poimaino": [
+    "john"
+  ],
+  "tritos": [
+    "john"
+  ],
+  "lupeo": [
+    "john"
+  ],
+  "ginosko": [
+    "john"
+  ],
+  "epo": [
+    "john"
+  ],
+  "neoteros": [
+    "john"
+  ],
+  "zonnuo": [
+    "john"
+  ],
+  "seautou": [
+    "john"
+  ],
+  "peripateo": [
+    "john"
+  ],
+  "thelo": [
+    "john"
+  ],
+  "gerao": [
+    "john"
+  ],
+  "ekteino": [
+    "john"
+  ],
+  "allos": [
+    "john"
+  ],
+  "oiso": [
+    "john"
+  ],
+  "amen": [
+    "john"
+  ],
+  "hopou": [
+    "john"
+  ],
+  "hotan": [
+    "john"
+  ],
+  "de": [
+    "john"
   ]
 }
