@@ -97,8 +97,9 @@ const PREFIXES = {
   yi: {
     hebrew: 'יִ',
     transliteration: 'yi',
-    englishLiteral: 'let',
-    englishNatural: 'let',
+    englishLiteral: 'he-will',
+    englishNatural: 'he will',
+    function: '3rd person masculine singular imperfect prefix',
   },
   hi: {
     hebrew: 'הִ',
@@ -191,6 +192,20 @@ const PREFIXES = {
     transliteration: 'te',
     englishLiteral: 'it-will',
     englishNatural: 'it will',
+  },
+  ya: {
+    hebrew: 'יַ',
+    transliteration: 'ya',
+    englishLiteral: 'he-will',
+    englishNatural: 'he will',
+    function: '3rd person masculine singular imperfect prefix',
+  },
+  to: {
+    hebrew: 'תֹּ',
+    transliteration: 'to',
+    englishLiteral: 'it-will',
+    englishNatural: 'it will',
+    function: '3rd person feminine singular imperfect prefix',
   },
 } as const;
 

@@ -15,7 +15,8 @@
   ],
   "hayah": [
     "genesis",
-    "numbers"
+    "numbers",
+    "psalms"
   ],
   "or": [
     "genesis"
@@ -47,13 +48,15 @@
     "genesis"
   ],
   "ruach": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "rachaf": [
     "genesis"
   ],
   "mayim": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "shamayim": [
     "genesis"
@@ -105,7 +108,8 @@
   "kol": [
     "genesis",
     "isaiah",
-    "numbers"
+    "numbers",
+    "psalms"
   ],
   "chayah": [
     "genesis",
@@ -117,7 +121,8 @@
   "asah": [
     "genesis",
     "numbers",
-    "proverbs"
+    "proverbs",
+    "psalms"
   ],
   "ishah": [
     "genesis"
@@ -129,16 +134,19 @@
     "genesis"
   ],
   "etz": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "asher": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "yhwh": [
     "genesis",
     "isaiah",
     "numbers",
-    "proverbs"
+    "proverbs",
+    "psalms"
   ],
   "el": [
     "genesis",
@@ -151,10 +159,12 @@
   "ki": [
     "genesis",
     "isaiah",
-    "numbers"
+    "numbers",
+    "psalms"
   ],
   "lo": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "dasha": [
     "genesis"
@@ -166,7 +176,8 @@
     "genesis"
   ],
   "pri": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "min": [
     "genesis",
@@ -177,7 +188,8 @@
     "isaiah"
   ],
   "ken": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "naga": [
     "genesis",
@@ -199,14 +211,16 @@
   ],
   "shalach": [
     "genesis",
-    "numbers"
+    "numbers",
+    "psalms"
   ],
   "rav": [
     "numbers"
   ],
   "am": [
     "isaiah",
-    "numbers"
+    "numbers",
+    "psalms"
   ],
   "bo": [
     "genesis",
@@ -214,13 +228,15 @@
   ],
   "chata": [
     "isaiah",
-    "numbers"
+    "numbers",
+    "psalms"
   ],
   "dabar": [
     "numbers"
   ],
   "palal": [
-    "numbers"
+    "numbers",
+    "psalms"
   ],
   "sur": [
     "isaiah",
@@ -249,7 +265,8 @@
   ],
   "im": [
     "numbers",
-    "proverbs"
+    "proverbs",
+    "psalms"
   ],
   "nechoshet": [
     "numbers"
@@ -257,7 +274,8 @@
   "ish": [
     "genesis",
     "isaiah",
-    "numbers"
+    "numbers",
+    "psalms"
   ],
   "nabat": [
     "numbers"
@@ -266,20 +284,24 @@
     "numbers"
   ],
   "derekh": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "yashav": [
-    "isaiah"
+    "isaiah",
+    "psalms"
   ],
   "et": [
     "genesis",
     "isaiah",
-    "numbers"
+    "numbers",
+    "psalms"
   ],
   "al": [
     "genesis",
     "isaiah",
-    "numbers"
+    "numbers",
+    "psalms"
   ],
   "maal": [
     "isaiah"
@@ -369,10 +391,12 @@
   ],
   "yom": [
     "genesis",
-    "proverbs"
+    "proverbs",
+    "psalms"
   ],
   "layil": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "raqia": [
     "genesis"
@@ -406,7 +430,8 @@
     "proverbs"
   ],
   "ashar": [
-    "proverbs"
+    "proverbs",
+    "psalms"
   ],
   "mizbeach": [
     "isaiah"
@@ -437,7 +462,8 @@
     "isaiah"
   ],
   "gadol": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "mashal": [
     "genesis"
@@ -449,7 +475,8 @@
     "genesis"
   ],
   "natan": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "sharats": [
     "genesis"
@@ -535,7 +562,8 @@
     "genesis"
   ],
   "amad": [
-    "isaiah"
+    "isaiah",
+    "psalms"
   ],
   "samach": [
     "isaiah"
@@ -669,7 +697,8 @@
     "genesis"
   ],
   "halakh": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "ashur": [
     "genesis"
@@ -806,7 +835,8 @@
     "isaiah"
   ],
   "yada": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "paqach": [
     "genesis"
@@ -830,7 +860,8 @@
     "genesis"
   ],
   "aleh": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "teenah": [
     "genesis"
@@ -944,7 +975,8 @@
     "genesis"
   ],
   "olam": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "garash": [
     "genesis"
@@ -963,6 +995,75 @@
   ],
   "shakhan": [
     "genesis"
+  ],
+  "chesed": [
+    "psalms"
+  ],
+  "emet": [
+    "psalms"
+  ],
+  "goy": [
+    "psalms"
+  ],
+  "etzah": [
+    "psalms"
+  ],
+  "rasha": [
+    "psalms"
+  ],
+  "moshav": [
+    "psalms"
+  ],
+  "letz": [
+    "psalms"
+  ],
+  "torah": [
+    "psalms"
+  ],
+  "chafetz": [
+    "psalms"
+  ],
+  "hagah": [
+    "psalms"
+  ],
+  "shatal": [
+    "psalms"
+  ],
+  "peleg": [
+    "psalms"
+  ],
+  "et_time": [
+    "psalms"
+  ],
+  "navel": [
+    "psalms"
+  ],
+  "tzalach": [
+    "psalms"
+  ],
+  "motz": [
+    "psalms"
+  ],
+  "nadaf": [
+    "psalms"
+  ],
+  "al_khen": [
+    "psalms"
+  ],
+  "qum": [
+    "psalms"
+  ],
+  "mishpat": [
+    "psalms"
+  ],
+  "edah": [
+    "psalms"
+  ],
+  "tzadiq": [
+    "psalms"
+  ],
+  "abad": [
+    "psalms"
   ],
   "en": [
     "john",

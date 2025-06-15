@@ -104,8 +104,8 @@ export const john_21_16: Verse = {
     {
       greek: 'Ἰωάννου',
       transliteration: 'Iōannou',
-      englishLiteral: 'He-is-Gracious (John)',
-      englishNatural: 'He-is-Gracious (John)',
+      englishLiteral: 'He—is-Gracious (John)',
+      englishNatural: 'He—is-Gracious (John)',
       root: 'ioannes',
       order: {
         greek: 6,
@@ -464,10 +464,10 @@ export const john_21_16: Verse = {
     transliteration:
       'legei autō palin deuteron Simōn Iōannou agapas me legei autō nai kurie su oidas hoti philō se legei autō poimaine ta probata mou',
     englishLiteral:
-      'He-says to-him again second, "Hearer (Simon) He-is-Gracious (John), do-you-god_love me?" He-says to-him, "Yes, lord, you know that I-brother_love you." He-says to-him, "Shepherd the sheep my."',
+      'He-says to-him again second, "Hearer (Simon) He—is-Gracious (John), do-you-god_love me?" He-says to-him, "Yes, lord, you know that I-brother_love you." He-says to-him, "Shepherd the sheep my."',
     englishNatural:
-      'He says to him again the second time, "Hearer (Simon) He-is-Gracious (John), do you god-love me?" He says to him, "Yes, Lord, you know that I brother-love you." He says to him, "Shepherd these sheep of mine."',
+      'He says to him again the second time, "Hearer (Simon) He—is-Gracious (John), do you god-love me?" He says to him, "Yes, Lord, you know that I brother-love you." He says to him, "Shepherd these sheep of mine."',
     kjv: 'He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-15' },
   },
 }; 

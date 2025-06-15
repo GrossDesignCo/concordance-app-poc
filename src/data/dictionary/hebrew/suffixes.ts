@@ -6,9 +6,9 @@ const SUFFIXES = {
   im: {
     hebrew: 'ים',
     transliteration: 'im',
-    englishLiteral: 'plural',
-    englishNatural: 'plural',
-    function: 'masculine plural',
+    englishLiteral: 's',
+    englishNatural: 's',
+    function: 'masculine plural suffix',
   },
   it: {
     hebrew: 'ית',
@@ -280,6 +280,13 @@ const SUFFIXES = {
     englishLiteral: 'her',
     englishNatural: 'it',
     function: '3rd person feminine singular object with preposition',
+  },
+  ei: {
+    hebrew: 'ֵי',
+    transliteration: 'ei',
+    englishLiteral: 's-of',
+    englishNatural: 's of',
+    function: 'masculine plural construct suffix',
   },
 } as const;
 

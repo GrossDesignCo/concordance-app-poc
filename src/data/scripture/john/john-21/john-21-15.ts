@@ -198,8 +198,8 @@ export const john_21_15: Verse = {
     {
       greek: 'Ἰωάννου',
       transliteration: 'Iōannou',
-      englishLiteral: 'He-is-Gracious (John)',
-      englishNatural: 'He-is-Gracious (John)',
+      englishLiteral: 'He—is-Gracious (John)',
+      englishNatural: 'He—is-Gracious (John)',
       root: 'ioannes',
       order: {
         greek: 11,
@@ -590,10 +590,10 @@ export const john_21_15: Verse = {
     transliteration:
       'Hote oun ēristēsan legei tō Simōni Petrō ho Iēsous Simōn Iōannou agapas me pleon toutōn legei autō nai kurie su oidas hoti philō se legei autō boske ta arnia mou',
     englishLiteral:
-      'When therefore they-meal_shared, he-says to-the Hearer (Simon) Stone (Peter) The Savior (Jesus), "Hearer (Simon) He-is-Gracious (John), do-you-god_love me more these?" He-says to-him, "Yes, lord, you know that I-brother_love you." He-says to-him, "Feed the lambs my."',
+      'When therefore they-meal_shared, he-says to-the Hearer (Simon) Stone (Peter) The Savior (Jesus), "Hearer (Simon) He—is-Gracious (John), do-you-god_love me more these?" He-says to-him, "Yes, lord, you know that I-brother_love you." He-says to-him, "Feed the lambs my."',
     englishNatural:
-      'When therefore they had meal-shared, The Savior (Jesus) says to the Hearer (Simon) Stone (Peter), "Hearer (Simon) He-is-Gracious (John), do you god-love me more than these?" He says to him, "Yes, Lord, you know that I brother-love you." He says to him, "Feed these lambs of mine."',
+      'When therefore they had meal-shared, The Savior (Jesus) says to the Hearer (Simon) Stone (Peter), "Hearer (Simon) He—is-Gracious (John), do you god-love me more than these?" He says to him, "Yes, Lord, you know that I brother-love you." He says to him, "Feed these lambs of mine."',
     kjv: 'So when they had dined, Jesus says to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-15' },
   },
 }; 

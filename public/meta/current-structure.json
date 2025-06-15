@@ -101,6 +101,23 @@
       ]
     }
   },
+  "PSALMS": {
+    "name": "Psalms",
+    "chapters": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "117": [
+        1,
+        2
+      ]
+    }
+  },
   "PROVERBS": {
     "name": "Proverbs",
     "chapters": {

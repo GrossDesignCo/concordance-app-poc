@@ -347,8 +347,8 @@ const ROOTS = {
   ioannes: {
     greek: 'Ἰωάννης',
     transliteration: 'Ioannes',
-    englishLiteral: 'He_is_Gracious (John)',
-    englishNatural: 'He-is-Gracious (John)',
+    englishLiteral: 'He—is_Gracious (John)',
+    englishNatural: 'He—is-Gracious (John)',
     translatedFrom: ['yohanan'],
   },
   kurios: {

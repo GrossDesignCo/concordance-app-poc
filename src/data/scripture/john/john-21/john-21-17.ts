@@ -108,8 +108,8 @@ export const john_21_17: Verse = {
     {
       greek: 'Ἰωάννου',
       transliteration: 'Iōannou',
-      englishLiteral: 'He-is-Gracious (John)',
-      englishNatural: 'He-is-Gracious (John)',
+      englishLiteral: 'He—is-Gracious (John)',
+      englishNatural: 'He—is-Gracious (John)',
       root: 'ioannes',
       order: {
         greek: 6,
@@ -714,10 +714,10 @@ export const john_21_17: Verse = {
     transliteration:
       'legei autō to triton Simōn Iōannou phileis me lupēthē ho Petros hoti eipen autō to triton phileis me kai legei autō kurie panta su oidas su ginōskeis hoti philō se legei autō boske ta probata mou',
     englishLiteral:
-      'He-says to-him the third, "Hearer (Simon) He-is-Gracious (John), do-you-brother_love me?" Was-grieved The Stone (Peter) that he-said to-him the third, "Do-you-brother_love me?" And he-says to-him, "lord, all you know; you know that I-brother_love you." He-says to-him, "Feed these sheep of-mine."',
+      'He-says to-him the third, "Hearer (Simon) He—is-Gracious (John), do-you-brother_love me?" Was-grieved The Stone (Peter) that he-said to-him the third, "Do-you-brother_love me?" And he-says to-him, "lord, all you know; you know that I-brother_love you." He-says to-him, "Feed these sheep of-mine."',
     englishNatural:
-      'He says to him the third time, "Hearer (Simon) He-is-Gracious (John), do you brother-love me?" The Stone (Peter) was grieved because he said to him the third time, "Do you brother-love me?" And he says to him, "Lord, you know all; you know that I brother-love you." He says to him, "Feed these sheep of mine."',
+      'He says to him the third time, "Hearer (Simon) He—is-Gracious (John), do you brother-love me?" The Stone (Peter) was grieved because he said to him the third time, "Do you brother-love me?" And he says to him, "Lord, you know all; you know that I brother-love you." He says to him, "Feed these sheep of mine."',
     kjv: 'He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-15' },
   },
 }; 
