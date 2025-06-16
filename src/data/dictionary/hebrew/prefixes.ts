@@ -207,6 +207,13 @@ const PREFIXES = {
     englishNatural: 'it will',
     function: '3rd person feminine singular imperfect prefix',
   },
+  e: {
+    hebrew: 'אֶ',
+    transliteration: 'e',
+    englishLiteral: 'I-will',
+    englishNatural: 'I will',
+    function: '1st person singular imperfect prefix',
+  },
 } as const;
 
 type PrefixKey = keyof typeof PREFIXES;

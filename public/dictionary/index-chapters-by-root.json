@@ -4,6 +4,9 @@
       1,
       2,
       3
+    ],
+    "psalms": [
+      23
     ]
   },
   "bara": {
@@ -92,6 +95,9 @@
     ],
     "isaiah": [
       6
+    ],
+    "psalms": [
+      23
     ]
   },
   "tehom": {
@@ -118,7 +124,8 @@
       1
     ],
     "psalms": [
-      1
+      1,
+      23
     ]
   },
   "shamayim": {
@@ -231,6 +238,7 @@
     ],
     "psalms": [
       1,
+      23,
       117
     ]
   },
@@ -242,6 +250,9 @@
     ],
     "numbers": [
       21
+    ],
+    "psalms": [
+      23
     ]
   },
   "sadeh": {
@@ -320,7 +331,9 @@
     ],
     "psalms": [
       1,
-      117
+      23,
+      117,
+      131
     ]
   },
   "el": {
@@ -334,6 +347,9 @@
     ],
     "numbers": [
       21
+    ],
+    "psalms": [
+      131
     ]
   },
   "af": {
@@ -357,6 +373,7 @@
     ],
     "psalms": [
       1,
+      23,
       117
     ]
   },
@@ -366,12 +383,17 @@
       3
     ],
     "psalms": [
-      1
+      1,
+      23,
+      131
     ]
   },
   "dasha": {
     "genesis": [
       1
+    ],
+    "psalms": [
+      23
     ]
   },
   "esev": {
@@ -403,6 +425,9 @@
     ],
     "isaiah": [
       6
+    ],
+    "psalms": [
+      131
     ]
   },
   "tokh": {
@@ -535,6 +560,9 @@
     ],
     "numbers": [
       21
+    ],
+    "psalms": [
+      131
     ]
   },
   "moshe": {
@@ -548,6 +576,10 @@
     ],
     "numbers": [
       21
+    ],
+    "psalms": [
+      23,
+      131
     ]
   },
   "nes": {
@@ -577,7 +609,9 @@
       22
     ],
     "psalms": [
-      1
+      1,
+      23,
+      131
     ]
   },
   "nechoshet": {
@@ -608,6 +642,9 @@
   "yisrael": {
     "numbers": [
       21
+    ],
+    "psalms": [
+      131
     ]
   },
   "derekh": {
@@ -623,7 +660,8 @@
       6
     ],
     "psalms": [
-      1
+      1,
+      23
     ]
   },
   "et": {
@@ -657,7 +695,9 @@
     ],
     "psalms": [
       1,
-      117
+      23,
+      117,
+      131
     ]
   },
   "maal": {
@@ -701,6 +741,9 @@
   "shevet": {
     "isaiah": [
       14
+    ],
+    "psalms": [
+      23
     ]
   },
   "tachat": {
@@ -799,6 +842,9 @@
     ],
     "proverbs": [
       22
+    ],
+    "psalms": [
+      23
     ]
   },
   "ra": {
@@ -808,6 +854,9 @@
     ],
     "proverbs": [
       22
+    ],
+    "psalms": [
+      23
     ]
   },
   "badal": {
@@ -841,7 +890,8 @@
       22
     ],
     "psalms": [
-      1
+      1,
+      23
     ]
   },
   "layil": {
@@ -884,11 +934,17 @@
     ],
     "proverbs": [
       22
+    ],
+    "psalms": [
+      23
     ]
   },
   "shemen": {
     "proverbs": [
       22
+    ],
+    "psalms": [
+      23
     ]
   },
   "mavet": {
@@ -976,7 +1032,8 @@
       1
     ],
     "psalms": [
-      117
+      117,
+      131
     ]
   },
   "mashal": {
@@ -1013,6 +1070,10 @@
     "genesis": [
       1,
       2
+    ],
+    "psalms": [
+      23,
+      131
     ]
   },
   "tannin": {
@@ -1039,6 +1100,9 @@
   "ravah": {
     "genesis": [
       1
+    ],
+    "psalms": [
+      23
     ]
   },
   "male": {
@@ -1233,6 +1297,9 @@
     "genesis": [
       2,
       3
+    ],
+    "psalms": [
+      131
     ]
   },
   "ed": {
@@ -1243,6 +1310,9 @@
   "alah": {
     "genesis": [
       2
+    ],
+    "psalms": [
+      131
     ]
   },
   "shaqah": {
@@ -1322,6 +1392,9 @@
   "nuach": {
     "genesis": [
       2
+    ],
+    "psalms": [
+      23
     ]
   },
   "shamar": {
@@ -1343,6 +1416,9 @@
   "neged": {
     "genesis": [
       2
+    ],
+    "psalms": [
+      23
     ]
   },
   "Pishon": {
@@ -1401,7 +1477,9 @@
       3
     ],
     "psalms": [
-      1
+      1,
+      23,
+      131
     ]
   },
   "ashur": {
@@ -1495,6 +1573,9 @@
     "genesis": [
       2,
       3
+    ],
+    "psalms": [
+      131
     ]
   },
   "davaq": {
@@ -1535,6 +1616,9 @@
   "rum": {
     "isaiah": [
       6
+    ],
+    "psalms": [
+      131
     ]
   },
   "nasa": {
@@ -1578,6 +1662,9 @@
   "bayit": {
     "isaiah": [
       6
+    ],
+    "psalms": [
+      23
     ]
   },
   "oy": {
@@ -1664,11 +1751,17 @@
   "gam": {
     "genesis": [
       3
+    ],
+    "psalms": [
+      23
     ]
   },
   "hem": {
     "genesis": [
       3
+    ],
+    "psalms": [
+      23
     ]
   },
   "taphar": {
@@ -1717,6 +1810,9 @@
   "yare": {
     "genesis": [
       3
+    ],
+    "psalms": [
+      23
     ]
   },
   "mi": {
@@ -1842,6 +1938,9 @@
   "shuv": {
     "genesis": [
       3
+    ],
+    "psalms": [
+      23
     ]
   },
   "chavah": {
@@ -1874,7 +1973,8 @@
       3
     ],
     "psalms": [
-      117
+      117,
+      131
     ]
   },
   "garash": {
@@ -1909,6 +2009,7 @@
   },
   "chesed": {
     "psalms": [
+      23,
       117
     ]
   },
@@ -2020,6 +2121,156 @@
   "abad": {
     "psalms": [
       1
+    ]
+  },
+  "raah_shepherd": {
+    "psalms": [
+      23
+    ]
+  },
+  "chaser": {
+    "psalms": [
+      23
+    ]
+  },
+  "naveh": {
+    "psalms": [
+      23
+    ]
+  },
+  "ravatz": {
+    "psalms": [
+      23
+    ]
+  },
+  "nahal": {
+    "psalms": [
+      23
+    ]
+  },
+  "magal": {
+    "psalms": [
+      23
+    ]
+  },
+  "tzedeq": {
+    "psalms": [
+      23
+    ]
+  },
+  "nachah": {
+    "psalms": [
+      23
+    ]
+  },
+  "maan": {
+    "psalms": [
+      23
+    ]
+  },
+  "gei": {
+    "psalms": [
+      23
+    ]
+  },
+  "tzalmavet": {
+    "psalms": [
+      23
+    ]
+  },
+  "mishan": {
+    "psalms": [
+      23
+    ]
+  },
+  "nacham": {
+    "psalms": [
+      23
+    ]
+  },
+  "arakh": {
+    "psalms": [
+      23
+    ]
+  },
+  "shulchan": {
+    "psalms": [
+      23
+    ]
+  },
+  "tzarar": {
+    "psalms": [
+      23
+    ]
+  },
+  "dashen": {
+    "psalms": [
+      23
+    ]
+  },
+  "kos": {
+    "psalms": [
+      23
+    ]
+  },
+  "akh": {
+    "psalms": [
+      23
+    ]
+  },
+  "radaf": {
+    "psalms": [
+      23
+    ]
+  },
+  "orekh": {
+    "psalms": [
+      23
+    ]
+  },
+  "shir": {
+    "psalms": [
+      131
+    ]
+  },
+  "david": {
+    "psalms": [
+      131
+    ]
+  },
+  "gavah": {
+    "psalms": [
+      131
+    ]
+  },
+  "lev": {
+    "psalms": [
+      131
+    ]
+  },
+  "pala": {
+    "psalms": [
+      131
+    ]
+  },
+  "shavah": {
+    "psalms": [
+      131
+    ]
+  },
+  "damam": {
+    "psalms": [
+      131
+    ]
+  },
+  "gamal": {
+    "psalms": [
+      131
+    ]
+  },
+  "yachal": {
+    "psalms": [
+      131
     ]
   },
   "en": {

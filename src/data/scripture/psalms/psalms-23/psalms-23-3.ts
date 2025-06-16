@@ -1,0 +1,170 @@
+import { Verse } from '@/types';
+
+export const psalms_23_3: Verse = {
+  meta: {
+    book: 'Psalms',
+    chapter: 23,
+    verse: 3,
+  },
+  words: [
+    {
+      hebrew: 'נַפְשִׁי',
+      transliteration: 'nafshi',
+      englishLiteral: 'my-throat',
+      englishNatural: 'my throat',
+      root: 'nephesh',
+      suffixes: ['i'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '1st',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'יְשׁוֹבֵב',
+      transliteration: 'yeshobev',
+      englishLiteral: 'he-restores',
+      englishNatural: 'he restores',
+      root: 'shuv',
+      prefixes: ['ye'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'polel',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+    },
+    {
+      hebrew: 'בְּמַעְגְּלֵי־',
+      transliteration: 'beMaglei-',
+      englishLiteral: 'in-paths-of-',
+      englishNatural: 'in paths of',
+      root: 'magal',
+      prefixes: ['be'],
+      suffixes: ['ei'],
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'צֶדֶק',
+      transliteration: 'tzedeq',
+      englishLiteral: 'righteousness',
+      englishNatural: 'righteousness',
+      root: 'tzedeq',
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'יַנְחֵנִי',
+      transliteration: 'yancheni',
+      englishLiteral: 'he-guides-me',
+      englishNatural: 'he guides me',
+      root: 'nachah',
+      prefixes: ['ya'],
+      suffixes: ['ni'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'hiphil',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'לְמַעַן',
+      transliteration: 'lemaan',
+      englishLiteral: 'for-sake-of',
+      englishNatural: 'for the sake of',
+      root: 'maan',
+      prefixes: ['le'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'שְׁמוֹ',
+      transliteration: 'shemo',
+      englishLiteral: 'his-name',
+      englishNatural: 'his name',
+      root: 'shem',
+      suffixes: ['o'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew: 'נַפְשִׁי יְשׁוֹבֵב בְּמַעְגְּלֵי־צֶדֶק יַנְחֵנִי לְמַעַן שְׁמוֹ',
+    transliteration: 'nafshi yeshobev beMaglei-tzedeq yancheni lemaan shemo',
+    englishLiteral: 'my-throat, he-restores; in-paths-of- righteousness, he-guides-me, for-sake-of his-name.',
+    englishNatural: 'my throat, he restores; in paths of righteousness, he guides me, for the sake of his name.',
+    kjv: 'He restoreth my soul: he leadeth me in the paths of righteousness for his name\'s sake.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-16' },
+  },
+}; 

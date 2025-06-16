@@ -1,0 +1,216 @@
+import { Verse } from '@/types';
+
+export const psalms_23_5: Verse = {
+  meta: {
+    book: 'Psalms',
+    chapter: 23,
+    verse: 5,
+  },
+  words: [
+    {
+      hebrew: 'תַּעֲרֹךְ',
+      transliteration: 'taarokh',
+      englishLiteral: 'you-prepare',
+      englishNatural: 'you prepare',
+      root: 'arakh',
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        person: '2nd',
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'לְפָנַי',
+      transliteration: 'lefanai',
+      englishLiteral: 'to-my-face',
+      englishNatural: 'to my face',
+      root: 'panah',
+      prefixes: ['le'],
+      suffixes: ['ai'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'שֻׁלְחָן',
+      transliteration: 'shulchan',
+      englishLiteral: 'table',
+      englishNatural: 'a table',
+      root: 'shulchan',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'נֶגֶד',
+      transliteration: 'neged',
+      englishLiteral: 'in-presence-of',
+      englishNatural: 'in the presence of',
+      root: 'neged',
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'צֹרְרָי',
+      transliteration: 'tzorerai',
+      englishLiteral: 'my-enemies',
+      englishNatural: 'my enemies',
+      root: 'tzarar',
+      suffixes: ['ai'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '1st',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'דִּשַּׁנְתָּ',
+      transliteration: 'dishanta',
+      englishLiteral: 'you-anoint',
+      englishNatural: 'you anoint',
+      root: 'dashen',
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        person: '2nd',
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'perfect',
+        stem: 'piel',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'בַשֶּׁמֶן',
+      transliteration: 'baShemen',
+      englishLiteral: 'with-oil',
+      englishNatural: 'with oil',
+      root: 'shemen',
+      prefixes: ['ba'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'רֹאשִׁי',
+      transliteration: 'roshi',
+      englishLiteral: 'my-head',
+      englishNatural: 'my head',
+      root: 'rosh',
+      suffixes: ['i'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '1st',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'כּוֹסִי',
+      transliteration: 'kosi',
+      englishLiteral: 'my-cup',
+      englishNatural: 'my cup',
+      root: 'kos',
+      suffixes: ['i'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '1st',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'רְוָיָה',
+      transliteration: 'revayah',
+      englishLiteral: 'overflowing',
+      englishNatural: 'overflowing',
+      root: 'ravah',
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew: 'תַּעֲרֹךְ לְפָנַי שֻׁלְחָן נֶגֶד צֹרְרָי דִּשַּׁנְתָּ בַשֶּׁמֶן רֹאשִׁי כּוֹסִי רְוָיָה',
+    transliteration: 'taarokh lefanai shulchan neged tzorerai dishanta baShemen roshi kosi revayah',
+    englishLiteral: 'you-prepare to-my-face table, in-presence-of my-enemies; you-anoint with-oil my-head, my-cup, overflowing.',
+    englishNatural: 'you prepare to my face a table, in the presence of my enemies; you anoint with oil my head, my cup, overflowing.',
+    kjv: 'Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-16' },
+  },
+}; 

@@ -288,6 +288,13 @@ const SUFFIXES = {
     englishNatural: 's of',
     function: 'masculine plural construct suffix',
   },
+  ni: {
+    hebrew: 'נִי',
+    transliteration: 'ni',
+    englishLiteral: 'me',
+    englishNatural: 'me',
+    function: '1st person singular object suffix',
+  },
 } as const;
 
 type SuffixKey = keyof typeof SUFFIXES;
