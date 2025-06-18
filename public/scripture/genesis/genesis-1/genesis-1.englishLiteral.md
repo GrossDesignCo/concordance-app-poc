@@ -90,7 +90,7 @@ And-↳ the-beast, to-its-kind,
 And-↳ all crawler the-ground, to-its-kind, 
 And-saw Gods, that- good.
 
-And-said Gods, "Let_us-make Human, in-our-image, as-our-likeness, 
+And-said Gods, "Let_us-make Human (Adam), in-our-image, as-our-likeness, 
 And-let-them-subjugate, in-fish-of the-sea, and-in-flyer-of the-skies, and-in-the-beast, and-in-all the-land, and-in-all the-crawler, the-crawling, over the-land."
 
 And-created Gods, ↳ the-human, in-his-image,

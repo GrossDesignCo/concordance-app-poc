@@ -10,8 +10,8 @@ export const genesis_3_17: Verse = {
     {
       hebrew: 'וּלְאָדָם',
       transliteration: 'uleAdam',
-      englishLiteral: 'And-to-human',
-      englishNatural: 'And to Human',
+      englishLiteral: 'And-to-Human (Adam)',
+      englishNatural: 'And to Human (Adam)',
       root: 'adam',
       prefixes: ['u', 'le'],
       order: {
@@ -453,9 +453,9 @@ export const genesis_3_17: Verse = {
   expectedTranslations: {
     hebrew: 'וּלְאָדָם אָמַר כִּי־שָׁמַעְתָּ לְקוֹל אִשְׁתֶּךָ וַתֹּאכַל מִן־הָעֵץ אֲשֶׁר צִוִּיתִיךָ לֵאמֹר לֹא תֹאכַל מִמֶּנּוּ אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ בְּעִצָּבוֹן תֹּאכְלֶנָּה כֹּל יְמֵי חַיֶּיךָ׃',
     transliteration: 'uleAdam amar ki-shmamta leQol ishtekha vaToAkhal min-haEtz asher tzivitikha lemor lo tokhal mimenu arurah haAdamah baavurekha beItzavon tokhlena kol yemey chayyekha',
-    englishLiteral: 'And-to-human he-said, "That you-listened to-voice wife-your, and-you-ate from the-tree, which I-commanded-you to-say, \'Not you-will-eat from-it\'; cursed the-soil in-passing_through-your; in-pain you-will-eat, all days-of lives-your;"',
-    englishNatural: 'And to Human he said, "That you listened to the voice of your wife, and you ate from the tree, which I commanded you saying, \'You will eat from it not\'; cursed is the soil in your passing-through; in pain you will eat, all the days of your life;"',
+    englishLiteral: 'And-to-Human (Adam) he-said, "That you-listened to-voice wife-your, and-you-ate from the-tree, which I-commanded-you to-say, \'Not you-will-eat from-it\'; cursed the-soil in-passing_through-your; in-pain you-will-eat, all days-of lives-your;"',
+    englishNatural: 'And to Human (Adam) he said, "That you listened to the voice of your wife, and you ate from the tree, which I commanded you saying, \'You will eat from it not\'; cursed is the soil in your passing-through; in pain you will eat, all the days of your life;"',
     kjv: 'And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
   },
 }; 

@@ -10,7 +10,7 @@ that in-it stopped from-all his-work, which created Gods to-make.
 These birthings the-skies and-the-land, in-being-created-them; 
 in-day making He_Who_Is Gods land and-skies.
 
-And-all shrub the-field not-yet will-be in-the-land, and-all herb the-field not-yet will-grow; for not caused_to_rain He_Who_Is Gods over the-land, and-Human not_exist to-serve ↳ the-soil.
+And-all shrub the-field not-yet will-be in-the-land, and-all herb the-field not-yet will-grow; for not caused_to_rain He_Who_Is Gods over the-land, and-Human (Adam) not_exist to-serve ↳ the-soil.
 
 And-mist will-go_up from- the-land, and-gave_drink ↳ all- face-of the-soil.
 
@@ -42,7 +42,7 @@ And-formed He_Who_Is Gods from- the-soil all- living_thing-of the-field, and-↳
 And-brought to- the-human to-see what- he-calls_out- to-it; 
 And-all which he-calls_out- to-it the-human, throat living, it its-name.
 
-And-called_out the-human names to-every- the-beast, and-to-flyer the-skies, and-to-every living_thing-of the-field, and-to-human no was-found help as-his_opposite.
+And-called_out the-human names to-every- the-beast, and-to-flyer the-skies, and-to-every living_thing-of the-field, and-to-Human (Adam) no was-found help as-his_opposite.
 
 And-caused-to-fall He_Who_Is Gods deep_trance over the-human, and-he-slept; and-he-took one from-his-sides, and-closed-up flesh under-it.
 

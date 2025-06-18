@@ -52,7 +52,7 @@ in pain you will birth sons;
 and to your man your fixation, 
 and he will rule in you."
 
-And to Human he said, 
+And to Human (Adam) he said, 
 "That you listened to the voice of your wife, 
 and you ate from the tree, 
 which I commanded you saying, 'You will eat from it not'; 
@@ -71,7 +71,7 @@ and to dust you will return."
 
 And the human called-out his wife's name Life-Giver (Eve); that she was Mother of all Living.
 
-And He-Who-Is God made to Human and to his woman; tunics of skin and clothed them.
+And He-Who-Is God made to Human (Adam) and to his woman; tunics of skin and clothed them.
 
 And He-Who-Is God said, 
 "Behold, the human has become as one 

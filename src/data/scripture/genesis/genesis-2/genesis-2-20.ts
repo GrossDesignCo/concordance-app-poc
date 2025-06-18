@@ -195,8 +195,8 @@ export const genesis_2_20: Verse = {
     {
       hebrew: 'וּלְאָדָם',
       transliteration: 'uLeAdam',
-      englishLiteral: 'and-to-human',
-      englishNatural: 'and to Human',
+      englishLiteral: 'and-to-Human (Adam)',
+      englishNatural: 'and to Human (Adam)',
       root: 'adam',
       prefixes: ['u', 'le'],
       order: {
@@ -287,10 +287,10 @@ export const genesis_2_20: Verse = {
     transliteration:
       'vaYiqra haAdam shemot leKol-haBehemah uLeOf haShamayim uLeKol chayyat haSadeh uLeAdam lo matza ezer keNegdo',
     englishLiteral:
-      'And-called_out the-human names to-every- the-beast, and-to-flyer the-skies, and-to-every living_thing-of the-field, and-to-human no was-found help as-his_opposite.',
+      'And-called_out the-human names to-every- the-beast, and-to-flyer the-skies, and-to-every living_thing-of the-field, and-to-Human (Adam) no was-found help as-his_opposite.',
     englishNatural:
-      'And the human called-out names to every beast, and to flyer of the skies, and to every living-thing of the field, and to Human, no help was found as his opposite.',
+      'And the human called-out names to every beast, and to flyer of the skies, and to every living-thing of the field, and to Human (Adam), no help was found as his opposite.',
     kjv: 'And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
   },
 };

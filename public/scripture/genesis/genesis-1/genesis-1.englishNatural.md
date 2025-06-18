@@ -87,7 +87,7 @@ And the beast, to its kind,
 And all crawler the ground, to its kind, 
 And God saw, that it was good.
 
-And God said, "Let us make Human, in our image, as our likeness, 
+And God said, "Let us make Human (Adam), in our image, as our likeness, 
 And let them subjugate, among fish of the sea, and among flyer of the skies, and among the beast, and among all the land, and among all the crawler, the crawling, over the land."
 
 And God created the human, in his image,

@@ -67,8 +67,8 @@ export const genesis_3_21: Verse = {
     {
       hebrew: 'לְאָדָם',
       transliteration: 'leAdam',
-      englishLiteral: 'to-human',
-      englishNatural: 'to Human',
+      englishLiteral: 'to-Human (Adam)',
+      englishNatural: 'to Human (Adam)',
       root: 'adam',
       prefixes: ['le'],
       order: {
@@ -165,9 +165,9 @@ export const genesis_3_21: Verse = {
   expectedTranslations: {
     hebrew: 'וַיַּעַשׂ יְהוָה אֱלֹהִים לְאָדָם וּלְאִשְׁתּוֹ כָּתְנוֹת עוֹר וַיַּלְבִּשֵׁם׃',
     transliteration: 'vayYaas YHWH Elohim leAdam uleIshto kotnot or vayYaLbishem',
-    englishLiteral: 'And-he-made He_Who_Is Gods to-human and-to-woman-his; tunics skin and-he-clothed-them.',
-    englishNatural: 'And He-Who-Is God made to Human and to his woman; tunics of skin and clothed them.',
+    englishLiteral: 'And-he-made He_Who_Is Gods to-Human (Adam) and-to-woman-his; tunics skin and-he-clothed-them.',
+    englishNatural: 'And He-Who-Is God made to Human (Adam) and to his woman; tunics of skin and clothed them.',
     kjv: 'Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
   },
 }; 

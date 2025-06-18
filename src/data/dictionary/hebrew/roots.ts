@@ -1174,8 +1174,8 @@ const ROOTS = {
   adam: {
     hebrew: 'אדם',
     transliteration: 'adam',
-    englishLiteral: 'human',
-    englishNatural: 'human',
+    englishLiteral: 'Human (Adam)',
+    englishNatural: 'Human (Adam)',
     description:
       'Humans in general, Name of Adam, distinct term from from man (ish), male (zakhar)',
     related: ['adamah', 'ish', 'ishah', 'zakhar', 'neqevah'],

@@ -10,7 +10,7 @@ that in it he stopped from all his work, which God created, made.
 These are the birthings of the skies and the land, in their being created; 
 in the day He-Who-Is God made land and skies.
 
-And all shrub of the field was not yet in the land, and all herb of the field had not yet grown; for He-Who-Is God had not caused it to rain over the land, and Human was not there, to serve the soil.
+And all shrub of the field was not yet in the land, and all herb of the field had not yet grown; for He-Who-Is God had not caused it to rain over the land, and Human (Adam) was not there, to serve the soil.
 
 And a mist went up from the land, and gave drink to all the face of the soil.
 
@@ -42,7 +42,7 @@ And He-Who-Is God formed from the soil every living-thing of the field, and ever
 And brought to the human to see what he would call-out to it; 
 And everything which the human would call-out to it, each living throat, that was its name.
 
-And the human called-out names to every beast, and to flyer of the skies, and to every living-thing of the field, and to Human, no help was found as his opposite.
+And the human called-out names to every beast, and to flyer of the skies, and to every living-thing of the field, and to Human (Adam), no help was found as his opposite.
 
 And He-Who-Is God caused a deep-trance to fall over the human, and he slept; and he took one from his sides, and closed up flesh under it.
 

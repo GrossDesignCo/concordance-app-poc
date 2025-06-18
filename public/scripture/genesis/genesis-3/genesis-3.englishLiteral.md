@@ -52,7 +52,7 @@ in-pain you-will_birth sons;
 and-to man-your fixation-your, 
 and-he he-will_rule in-you."
 
-And-to-human he-said, 
+And-to-Human (Adam) he-said, 
 "That you-listened to-voice wife-your, 
 and-you-ate from the-tree, 
 which I-commanded-you to-say, 'Not you-will-eat from-it'; 
@@ -71,7 +71,7 @@ and-to dust you-will-return."
 
 And-he-called_out the-human name wife-his Life_Giver (Eve); that she was Mother all Living.
 
-And-he-made He_Who_Is Gods to-human and-to-woman-his; tunics skin and-he-clothed-them.
+And-he-made He_Who_Is Gods to-Human (Adam) and-to-woman-his; tunics skin and-he-clothed-them.
 
 And-he-said He_Who_Is Gods, 
 "Behold, the-human has-become as-one 
