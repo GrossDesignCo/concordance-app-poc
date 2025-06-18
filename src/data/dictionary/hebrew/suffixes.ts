@@ -295,6 +295,20 @@ const SUFFIXES = {
     englishNatural: 'me',
     function: '1st person singular object suffix',
   },
+  hen: {
+    hebrew: 'הֶן',
+    transliteration: 'hen',
+    englishLiteral: 'of-them',
+    englishNatural: 'their',
+    function: '3rd person feminine plural possessive',
+  },
+  kh: {
+    hebrew: 'ךְ',
+    transliteration: 'kh',
+    englishLiteral: 'you',
+    englishNatural: 'your',
+    function: '2nd person masculine singular possessive',
+  },
 } as const;
 
 type SuffixKey = keyof typeof SUFFIXES;

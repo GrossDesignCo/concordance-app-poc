@@ -58,38 +58,3 @@ const chapter: Chapter = {
 };
 
 export default chapter;
-
-export { genesis_3_1 } from './genesis-3-1';
-export { genesis_3_2 } from './genesis-3-2';
-export { genesis_3_3 } from './genesis-3-3';
-export { genesis_3_4 } from './genesis-3-4';
-export { genesis_3_5 } from './genesis-3-5';
-export { genesis_3_6 } from './genesis-3-6';
-export { genesis_3_7 } from './genesis-3-7';
-export { genesis_3_8 } from './genesis-3-8';
-export { genesis_3_9 } from './genesis-3-9';
-export { genesis_3_10 } from './genesis-3-10';
-export { genesis_3_11 } from './genesis-3-11';
-export { genesis_3_12 } from './genesis-3-12';
-export { genesis_3_13 } from './genesis-3-13';
-export { genesis_3_14 } from './genesis-3-14';
-export { genesis_3_15 } from './genesis-3-15';
-export { genesis_3_16 } from './genesis-3-16';
-export { genesis_3_17 } from './genesis-3-17';
-export { genesis_3_18 } from './genesis-3-18';
-export { genesis_3_19 } from './genesis-3-19';
-export { genesis_3_20 } from './genesis-3-20';
-export { genesis_3_21 } from './genesis-3-21';
-export { genesis_3_22 } from './genesis-3-22';
-export { genesis_3_23 } from './genesis-3-23';
-export { genesis_3_24 } from './genesis-3-24';
-
-export const genesis_3 = [
-  genesis_3_17,
-  genesis_3_18,
-  genesis_3_19,
-  genesis_3_20,
-  genesis_3_21,
-  genesis_3_22,
-  genesis_3_23,
-];

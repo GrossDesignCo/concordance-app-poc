@@ -233,6 +233,7 @@
     "numbers"
   ],
   "chata": [
+    "genesis",
     "isaiah",
     "numbers",
     "psalms"
@@ -272,6 +273,7 @@
     "numbers"
   ],
   "im": [
+    "genesis",
     "numbers",
     "proverbs",
     "psalms"
@@ -801,6 +803,7 @@
     "psalms"
   ],
   "nasa": [
+    "genesis",
     "isaiah"
   ],
   "kavod": [
@@ -1093,15 +1096,13 @@
     "psalms"
   ],
   "raah_shepherd": [
+    "genesis",
     "psalms"
   ],
   "chaser": [
     "psalms"
   ],
   "naveh": [
-    "psalms"
-  ],
-  "ravatz": [
     "psalms"
   ],
   "nahal": [
@@ -1181,6 +1182,64 @@
   ],
   "yachal": [
     "psalms"
+  ],
+  "harah": [
+    "genesis"
+  ],
+  "qanah": [
+    "genesis"
+  ],
+  "yasaf": [
+    "genesis"
+  ],
+  "ach": [
+    "genesis"
+  ],
+  "hevel": [
+    "genesis"
+  ],
+  "tzon": [
+    "genesis"
+  ],
+  "halo": [
+    "genesis"
+  ],
+  "yatav": [
+    "genesis"
+  ],
+  "petach": [
+    "genesis"
+  ],
+  "ravatz": [
+    "genesis",
+    "psalms"
+  ],
+  "qetz": [
+    "genesis"
+  ],
+  "minchah": [
+    "genesis"
+  ],
+  "bekhor": [
+    "genesis"
+  ],
+  "chelev": [
+    "genesis"
+  ],
+  "shaah": [
+    "genesis"
+  ],
+  "charah": [
+    "genesis"
+  ],
+  "napal": [
+    "genesis"
+  ],
+  "lamah": [
+    "genesis"
+  ],
+  "lamed": [
+    "genesis"
   ],
   "en": [
     "john",

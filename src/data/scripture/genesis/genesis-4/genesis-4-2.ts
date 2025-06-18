@@ -1,0 +1,273 @@
+import { Verse } from '@/types';
+
+export const genesis_4_2: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 4,
+    verse: 2,
+  },
+  words: [
+    {
+      hebrew: 'וַתֹּסֶף',
+      transliteration: 'vatTosef',
+      englishLiteral: 'and-she-added',
+      englishNatural: 'And she added',
+      root: 'yasaf',
+      prefixes: ['va'],
+      suffixes: ['ta'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'לָלֶדֶת',
+      transliteration: 'laLedet',
+      englishLiteral: 'to-her-bearing',
+      englishNatural: 'to her bearing',
+      root: 'yalad',
+      prefixes: ['la'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        tense: 'infinitive_construct',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'אָחִיו',
+      transliteration: 'achiv',
+      englishLiteral: 'his-brother',
+      englishNatural: 'his brother',
+      root: 'ach',
+      suffixes: ['av'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'הָבֶל',
+      transliteration: 'Havel',
+      englishLiteral: 'Vapor (Abel)',
+      englishNatural: 'Vapor (Abel)',
+      root: 'hevel',
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וַיְהִי־',
+      transliteration: 'vayHi-',
+      englishLiteral: 'And-he-was',
+      englishNatural: 'was',
+      root: 'hayah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 7,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'הֶבֶל',
+      transliteration: 'Hevel',
+      englishLiteral: 'Vapor (Abel)',
+      englishNatural: 'And Vapor (Abel)',
+      root: 'hevel',
+      order: {
+        hebrew: 8,
+        english: 7,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'רֹעֵה',
+      transliteration: 'roeh',
+      englishLiteral: 'shepherd',
+      englishNatural: 'a shepherd',
+      root: 'raah_shepherd',
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'צֹאן',
+      transliteration: 'tzon',
+      englishLiteral: 'flock',
+      englishNatural: 'of flock',
+      root: 'tzon',
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְקַיִן',
+      transliteration: 'veQayin',
+      englishLiteral: 'and-Acquired (Cain)',
+      englishNatural: 'and Acquired (Cain)',
+      root: 'qanah',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָיָה',
+      transliteration: 'hayah',
+      englishLiteral: 'was',
+      englishNatural: 'was',
+      root: 'hayah',
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'עֹבֵד',
+      transliteration: 'oved',
+      englishLiteral: 'servant',
+      englishNatural: 'a servant',
+      root: 'avad',
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אֲדָמָה',
+      transliteration: 'adamah',
+      englishLiteral: 'soil',
+      englishNatural: 'of soil',
+      root: 'adamah',
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew: 'וַתֹּסֶף לָלֶדֶת אֶת־אָחִיו אֶת־הָבֶל וַיְהִי־הֶבֶל רֹעֵה צֹאן וְקַיִן הָיָה עֹבֵד אֲדָמָה',
+    transliteration: 'vatTosef laLedet et-achiv et-Havel vayHi-Hevel roeh tzon veQayin hayah oved adamah',
+    englishLiteral: 'and-she-added to-her-bearing, ↳ his-brother ↳ Vapor (Abel). And-he-was Vapor (Abel) shepherd flock, and-Acquired (Cain) was servant soil.',
+    englishNatural: 'And she added to her bearing, his brother Vapor (Abel). And Vapor (Abel) was a shepherd of flock, and Acquired (Cain) was a servant of soil.',
+    kjv: 'And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
+  },
+}; 
