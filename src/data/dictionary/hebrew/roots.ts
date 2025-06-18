@@ -904,8 +904,8 @@ const ROOTS = {
   raqia: {
     hebrew: 'רקיע',
     transliteration: 'raqia',
-    englishLiteral: 'hammering_out',
-    englishNatural: 'hammering-out',
+    englishLiteral: 'a hammering_out',
+    englishNatural: 'a hammering-out',
     description: 'a thing made by the process of hammering out thin',
     type: 'noun',
     related: ['raqa'],
@@ -3087,7 +3087,7 @@ const ROOTS = {
 
 export type HebrewRootKey = keyof typeof ROOTS;
 
-interface RootElement {
+export interface HebrewRootElement {
   hebrew: string;
   transliteration: string;
   englishLiteral: string;
@@ -3099,4 +3099,4 @@ interface RootElement {
 }
 
 // Type-safe export for Hebrew Dictionary
-export const roots: Record<HebrewRootKey, RootElement> = ROOTS;
+export const roots: Record<HebrewRootKey, HebrewRootElement> = ROOTS;

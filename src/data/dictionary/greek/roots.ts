@@ -560,7 +560,7 @@ const ROOTS = {
 
 export type GreekRootKey = keyof typeof ROOTS;
 
-interface RootElement {
+export interface GreekRootElement {
   greek: string;
   transliteration: string;
   englishLiteral: string;
@@ -573,4 +573,4 @@ interface RootElement {
 }
 
 // Type-safe export for Greek Dictionary
-export const roots: Record<GreekRootKey, RootElement> = ROOTS;
+export const roots: Record<GreekRootKey, GreekRootElement> = ROOTS;

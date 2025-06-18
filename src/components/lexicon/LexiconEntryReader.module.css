@@ -1,0 +1,55 @@
+.LexiconEntry {
+}
+
+.rootLinks {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  background: var(--ds-bg-container);
+  border-radius: 4px;
+  display: flex;
+}
+
+.rootList {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.rootLink {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  background: var(--background-tertiary);
+  border-radius: 4px;
+  color: var(--text-primary);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background-color 0.2s;
+}
+
+.rootLink:hover {
+  background: var(--background-hover);
+  text-decoration: none;
+}
+
+.rootEntries {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.rootEntry {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.relatedRoots {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.relatedRootsEntries {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
