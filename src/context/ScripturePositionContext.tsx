@@ -6,6 +6,7 @@ import React, {
   useEffect,
 } from 'react';
 import { useLocalStorage } from '@/hooks/useLocalStorage';
+import { sortVerseIds } from '@/utils/scriptureOrder';
 
 interface IntersectionObserverOptions {
   root?: Element | null;
@@ -17,6 +18,7 @@ interface ScripturePositionContextType {
   observe: (element: Element) => void;
   unobserve: (element: Element) => void;
   visibleVerseIds: string[];
+  middleVerseId: string;
 }
 
 const ScripturePositionContext =
@@ -30,6 +32,8 @@ export const ScripturePositionProvider: React.FC<{
   const [visibleVerseIds, setVisibleVerseIds, hydrated] = useLocalStorage<
     string[]
   >('visible-verses', []);
+  const middleVerseId =
+    visibleVerseIds[Math.floor((visibleVerseIds.length - 1) / 2)];
 
   // Callback for intersection observer, manages list of visible verses
   const handleIntersection = useCallback(
@@ -43,14 +47,14 @@ export const ScripturePositionProvider: React.FC<{
             setVisibleVerseIds((prev) => {
               const newSet = new Set(prev);
               newSet.add(verseId);
-              return Array.from(newSet);
+              return sortVerseIds(Array.from(newSet));
             });
           } else {
             // Remove the verse ID when it's no longer visible
             setVisibleVerseIds((prev) => {
               const newSet = new Set(prev);
               newSet.delete(verseId);
-              return Array.from(newSet);
+              return sortVerseIds(Array.from(newSet));
             });
           }
         }
@@ -59,7 +63,7 @@ export const ScripturePositionProvider: React.FC<{
     [setVisibleVerseIds]
   );
 
-  // Only instanciate observer once
+  // Only instanciate intersection observer once
   useEffect(() => {
     observer.current = new IntersectionObserver(handleIntersection, options);
 
@@ -87,7 +91,7 @@ export const ScripturePositionProvider: React.FC<{
 
   return (
     <ScripturePositionContext.Provider
-      value={{ observe, unobserve, visibleVerseIds }}
+      value={{ observe, unobserve, visibleVerseIds, middleVerseId }}
     >
       {children}
     </ScripturePositionContext.Provider>

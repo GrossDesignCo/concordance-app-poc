@@ -80,7 +80,6 @@ export const BookNav = ({
         })
       );
   }, [visibleVerseIds, bookData, bookNameKey]);
-  console.log(visibleChapterIds);
 
   return (
     <>
@@ -102,8 +101,6 @@ export const BookNav = ({
             chapter: parseInt(chapter),
           });
           const highlighted = visibleChapterIds.includes(chapterId);
-
-          console.log(chapterId, highlighted);
 
           return (
             <li key={chapter}>

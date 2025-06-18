@@ -15,11 +15,10 @@ const bookOrder = Object.keys(structure as ChapterStructure);
 
 /**
  * Parses a verse ID into its components
- * @param verseId Format: "BOOK CHAPTER:VERSE" (e.g., "GENESIS 1:1")
+ * @param verseId Format: "BOOK-CHAPTER-VERSE" (e.g., "GENESIS-1-1")
  */
 const parseVerseId = (verseId: string) => {
-  const [book, reference] = verseId.split(' ');
-  const [chapter, verse] = reference.split(':').map(Number);
+  const [book, chapter, verse] = verseId.split('-');
   return { book, chapter, verse };
 };
 
@@ -44,11 +43,11 @@ export const compareVerseIds = (a: string, b: string): number => {
 
   // Then by chapter
   if (verseA.chapter !== verseB.chapter) {
-    return verseA.chapter - verseB.chapter;
+    return parseInt(verseA.chapter) - parseInt(verseB.chapter);
   }
 
   // Finally by verse
-  return verseA.verse - verseB.verse;
+  return parseInt(verseA.verse) - parseInt(verseB.verse);
 };
 
 /**
@@ -68,10 +67,10 @@ export const isValidVerseId = (verseId: string): boolean => {
     
     if (!bookStructure) return false;
     
-    const chapterVerses = bookStructure.chapters[chapter.toString()];
+    const chapterVerses = bookStructure.chapters[chapter];
     if (!chapterVerses) return false;
     
-    return chapterVerses.includes(verse);
+    return chapterVerses.includes(parseInt(verse));
   } catch {
     return false;
   }
