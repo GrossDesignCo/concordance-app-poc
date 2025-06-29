@@ -1,6 +1,7 @@
 {
   "rosh": [
     "genesis",
+    "proverbs",
     "psalms"
   ],
   "bara": [
@@ -24,7 +25,8 @@
   ],
   "eretz": [
     "genesis",
-    "isaiah"
+    "isaiah",
+    "proverbs"
   ],
   "erev": [
     "genesis"
@@ -47,7 +49,8 @@
     "psalms"
   ],
   "tehom": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "ruach": [
     "genesis",
@@ -58,10 +61,12 @@
   ],
   "mayim": [
     "genesis",
+    "proverbs",
     "psalms"
   ],
   "shamayim": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "shesh": [
     "genesis",
@@ -168,6 +173,7 @@
   ],
   "lo": [
     "genesis",
+    "proverbs",
     "psalms"
   ],
   "dasha": [
@@ -252,6 +258,7 @@
   "ad": [
     "genesis",
     "numbers",
+    "proverbs",
     "psalms"
   ],
   "moshe": [
@@ -292,10 +299,12 @@
   ],
   "yisrael": [
     "numbers",
+    "proverbs",
     "psalms"
   ],
   "derekh": [
     "genesis",
+    "proverbs",
     "psalms"
   ],
   "yashav": [
@@ -312,6 +321,7 @@
     "genesis",
     "isaiah",
     "numbers",
+    "proverbs",
     "psalms"
   ],
   "maal": [
@@ -371,7 +381,8 @@
   ],
   "yad": [
     "genesis",
-    "isaiah"
+    "isaiah",
+    "proverbs"
   ],
   "lakach": [
     "genesis",
@@ -401,7 +412,8 @@
   ],
   "qara": [
     "genesis",
-    "isaiah"
+    "isaiah",
+    "proverbs"
   ],
   "yom": [
     "genesis",
@@ -482,7 +494,8 @@
     "psalms"
   ],
   "mashal": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "qatan": [
     "genesis"
@@ -492,6 +505,7 @@
   ],
   "natan": [
     "genesis",
+    "proverbs",
     "psalms"
   ],
   "sharats": [
@@ -531,7 +545,8 @@
     "genesis"
   ],
   "afar": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "adam": [
     "genesis"
@@ -613,7 +628,8 @@
     "genesis"
   ],
   "terem": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "tzamach": [
     "genesis"
@@ -648,10 +664,12 @@
     "genesis"
   ],
   "qedem": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "sham": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "chamad": [
     "genesis"
@@ -660,7 +678,8 @@
     "genesis"
   ],
   "daat": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "nahar": [
     "genesis"
@@ -790,7 +809,8 @@
     "isaiah"
   ],
   "melekh": [
-    "isaiah"
+    "isaiah",
+    "proverbs"
   ],
   "uz": [
     "isaiah"
@@ -820,7 +840,8 @@
   ],
   "qol": [
     "genesis",
-    "isaiah"
+    "isaiah",
+    "proverbs"
   ],
   "ashan": [
     "isaiah"
@@ -862,6 +883,7 @@
   ],
   "yada": [
     "genesis",
+    "proverbs",
     "psalms"
   ],
   "paqach": [
@@ -874,7 +896,8 @@
     "genesis"
   ],
   "laqach": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "gam": [
     "genesis",
@@ -901,7 +924,8 @@
     "genesis"
   ],
   "shama": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "chaba": [
     "genesis"
@@ -912,6 +936,9 @@
   "yare": [
     "genesis",
     "psalms"
+  ],
+  "yirah": [
+    "proverbs"
   ],
   "mi": [
     "genesis"
@@ -968,7 +995,8 @@
     "genesis"
   ],
   "ben": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "teshuqah": [
     "genesis"
@@ -1006,6 +1034,7 @@
   ],
   "olam": [
     "genesis",
+    "proverbs",
     "psalms"
   ],
   "garash": [
@@ -1084,6 +1113,7 @@
     "psalms"
   ],
   "mishpat": [
+    "proverbs",
     "psalms"
   ],
   "edah": [
@@ -1112,6 +1142,7 @@
     "psalms"
   ],
   "tzedeq": [
+    "proverbs",
     "psalms"
   ],
   "nachah": [
@@ -1160,6 +1191,7 @@
     "psalms"
   ],
   "david": [
+    "proverbs",
     "psalms"
   ],
   "gavah": [
@@ -1187,10 +1219,12 @@
     "genesis"
   ],
   "qanah": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "yasaf": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "ach": [
     "genesis"
@@ -1201,14 +1235,12 @@
   "tzon": [
     "genesis"
   ],
-  "halo": [
-    "genesis"
-  ],
   "yatav": [
     "genesis"
   ],
   "petach": [
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "ravatz": [
     "genesis",
@@ -1240,6 +1272,147 @@
   ],
   "lamed": [
     "genesis"
+  ],
+  "shlomo": [
+    "proverbs"
+  ],
+  "chokmah": [
+    "proverbs"
+  ],
+  "musar": [
+    "proverbs"
+  ],
+  "bin": [
+    "proverbs"
+  ],
+  "binah": [
+    "proverbs"
+  ],
+  "emer": [
+    "proverbs"
+  ],
+  "haskel": [
+    "proverbs"
+  ],
+  "mesharim": [
+    "proverbs"
+  ],
+  "petaim": [
+    "proverbs"
+  ],
+  "armah": [
+    "proverbs"
+  ],
+  "naar": [
+    "proverbs"
+  ],
+  "mezimmah": [
+    "proverbs"
+  ],
+  "chakam": [
+    "proverbs"
+  ],
+  "leqach": [
+    "proverbs"
+  ],
+  "navon": [
+    "proverbs"
+  ],
+  "tachbulot": [
+    "proverbs"
+  ],
+  "melitzah": [
+    "proverbs"
+  ],
+  "davar": [
+    "proverbs"
+  ],
+  "chidah": [
+    "proverbs"
+  ],
+  "ewil": [
+    "proverbs"
+  ],
+  "bazah": [
+    "proverbs"
+  ],
+  "tevunah": [
+    "proverbs"
+  ],
+  "marom": [
+    "proverbs"
+  ],
+  "alei": [
+    "proverbs"
+  ],
+  "bein": [
+    "proverbs"
+  ],
+  "netivah": [
+    "proverbs"
+  ],
+  "netzav": [
+    "proverbs"
+  ],
+  "shaar": [
+    "proverbs"
+  ],
+  "peh": [
+    "proverbs"
+  ],
+  "qiryah": [
+    "proverbs"
+  ],
+  "mavo": [
+    "proverbs"
+  ],
+  "ranah": [
+    "proverbs"
+  ],
+  "paal": [
+    "proverbs"
+  ],
+  "az": [
+    "proverbs"
+  ],
+  "nasakh": [
+    "proverbs"
+  ],
+  "ein": [
+    "proverbs"
+  ],
+  "mayan": [
+    "proverbs"
+  ],
+  "kavad": [
+    "proverbs"
+  ],
+  "har": [
+    "proverbs"
+  ],
+  "taba": [
+    "proverbs"
+  ],
+  "givah": [
+    "proverbs"
+  ],
+  "chutz": [
+    "proverbs"
+  ],
+  "tevel": [
+    "proverbs"
+  ],
+  "kun": [
+    "proverbs"
+  ],
+  "chaq": [
+    "proverbs"
+  ],
+  "chug": [
+    "proverbs"
+  ],
+  "ani": [
+    "proverbs"
   ],
   "en": [
     "john",

@@ -9,11 +9,11 @@ export const genesis_4_7: Verse = {
   words: [
     {
       hebrew: 'וַהֲלוֹא',
-      transliteration: 'vahalo',
+      transliteration: 'vaHaLo',
       englishLiteral: 'And-is_there_not',
       englishNatural: 'And is there not',
-      root: 'halo',
-      prefixes: ['va'],
+      root: 'lo',
+      prefixes: ['va', 'ha'],
       order: {
         hebrew: 1,
         english: 1,
@@ -295,10 +295,10 @@ export const genesis_4_7: Verse = {
   ],
   expectedTranslations: {
     hebrew: 'וַהֲלוֹא אִם־תֵּיטִיב שְׂאֵת וְאִם לֹא תֵיטִיב לַפֶּתַח חַטָּאת רֹבֵץ וְאֵלֶיךָ תְּשׁוּקָתוֹ וְאַתָּה תִּמְשָׁל־בּוֹ',
-    transliteration: 'vahalo im-teytiv set veim lo teytiv laPetach chatat rovetz veElekha teshukato veAtah timshal-bo',
+    transliteration: 'vaHaLo im-teytiv set veim lo teytiv laPetach chatat rovetz veElekha teshukato veAtah timshal-bo',
     englishLiteral: 'And-is_there_not, if- you-do_well, lifting_up? And-if not you-do_well, to-door sin crouching, and-to-you its-fixation, and-you you-will-rule- over-it."',
     englishNatural: 'And is there not, if you do-well, lifting-up? And if you do-well not, to the door sin is crouching, and to you is its fixation, and you will rule over it."',
     kjv: 'If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-06-29' },
   },
 }; 

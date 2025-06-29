@@ -20,6 +20,6 @@ vayYichar leQayin meod vayYipelu panav
 vayYomer YHWH el-Qayin
 lamah charah lakh velamah nafelu panekha
 
-vahalo im-teytiv set
+vaHaLo im-teytiv set
 veim lo teytiv laPetach chatat rovetz
 veElekha teshukato veAtah timshal-bo 

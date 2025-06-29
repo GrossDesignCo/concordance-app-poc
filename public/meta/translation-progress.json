@@ -20290,13 +20290,13 @@
         "1": {
           "chapterNumber": 1,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
-            "5": false,
-            "6": false,
-            "7": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
             "8": false,
             "9": false,
             "10": false,
@@ -20324,7 +20324,7 @@
             "32": false,
             "33": false
           },
-          "progress": 0
+          "progress": 21.21212121212121
         },
         "2": {
           "chapterNumber": 2,
@@ -20534,9 +20534,9 @@
         "8": {
           "chapterNumber": 8,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
+            "1": true,
+            "2": true,
+            "3": true,
             "4": false,
             "5": false,
             "6": false,
@@ -20555,12 +20555,12 @@
             "19": false,
             "20": false,
             "21": false,
-            "22": false,
-            "23": false,
-            "24": false,
-            "25": false,
-            "26": false,
-            "27": false,
+            "22": true,
+            "23": true,
+            "24": true,
+            "25": true,
+            "26": true,
+            "27": true,
             "28": false,
             "29": false,
             "30": false,
@@ -20571,7 +20571,7 @@
             "35": false,
             "36": false
           },
-          "progress": 0
+          "progress": 25
         },
         "9": {
           "chapterNumber": 9,
@@ -21389,7 +21389,7 @@
           "progress": 0
         }
       },
-      "progress": 0.32786885245901637
+      "progress": 2.0765027322404372
     },
     "ECCLESIASTES": {
       "bookName": "Ecclesiastes",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 0.4083207407645565
+  "totalProgress": 0.45976272385300454
 }
