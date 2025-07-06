@@ -161,10 +161,16 @@
       6
     ]
   },
+  "sheva": {
+    "genesis": [
+      4
+    ]
+  },
   "sheni": {
     "genesis": [
       1,
-      2
+      2,
+      4
     ]
   },
   "shlishi": {
@@ -246,7 +252,8 @@
     "genesis": [
       1,
       2,
-      3
+      3,
+      4
     ],
     "isaiah": [
       6,
@@ -387,7 +394,8 @@
     "genesis": [
       1,
       2,
-      3
+      3,
+      4
     ],
     "isaiah": [
       6,
@@ -655,6 +663,9 @@
     ]
   },
   "nechoshet": {
+    "genesis": [
+      4
+    ],
     "numbers": [
       21
     ]
@@ -703,6 +714,9 @@
     ]
   },
   "yashav": {
+    "genesis": [
+      4
+    ],
     "isaiah": [
       6
     ],
@@ -836,7 +850,8 @@
     "genesis": [
       1,
       2,
-      3
+      3,
+      4
     ],
     "isaiah": [
       6
@@ -845,7 +860,8 @@
   "shtayim": {
     "genesis": [
       1,
-      3
+      3,
+      4
     ],
     "isaiah": [
       6
@@ -929,7 +945,8 @@
     "genesis": [
       1,
       2,
-      3
+      3,
+      4
     ],
     "isaiah": [
       6
@@ -989,7 +1006,8 @@
   "shem": {
     "genesis": [
       2,
-      3
+      3,
+      4
     ],
     "proverbs": [
       22
@@ -1624,7 +1642,8 @@
   },
   "banah": {
     "genesis": [
-      2
+      2,
+      4
     ]
   },
   "paam": {
@@ -1655,7 +1674,8 @@
   },
   "av": {
     "genesis": [
-      2
+      2,
+      4
     ]
   },
   "em": {
@@ -1743,7 +1763,8 @@
   },
   "qol": {
     "genesis": [
-      3
+      3,
+      4
     ],
     "isaiah": [
       6
@@ -1847,7 +1868,8 @@
   },
   "laqach": {
     "genesis": [
-      3
+      3,
+      4
     ],
     "proverbs": [
       1
@@ -1900,7 +1922,8 @@
   },
   "shama": {
     "genesis": [
-      3
+      3,
+      4
     ],
     "proverbs": [
       1
@@ -1951,7 +1974,8 @@
   },
   "hi": {
     "genesis": [
-      3
+      3,
+      4
     ]
   },
   "mah": {
@@ -2021,7 +2045,8 @@
   },
   "ben": {
     "genesis": [
-      3
+      3,
+      4
     ],
     "proverbs": [
       1
@@ -2739,6 +2764,151 @@
   "ani": {
     "proverbs": [
       8
+    ]
+  },
+  "ir": {
+    "genesis": [
+      4
+    ]
+  },
+  "Qayin": {
+    "genesis": [
+      4
+    ]
+  },
+  "Chanokh": {
+    "genesis": [
+      4
+    ]
+  },
+  "Irad": {
+    "genesis": [
+      4
+    ]
+  },
+  "Mechuyael": {
+    "genesis": [
+      4
+    ]
+  },
+  "Methushael": {
+    "genesis": [
+      4
+    ]
+  },
+  "Lemekh": {
+    "genesis": [
+      4
+    ]
+  },
+  "Adah": {
+    "genesis": [
+      4
+    ]
+  },
+  "Tzillah": {
+    "genesis": [
+      4
+    ]
+  },
+  "Yaval": {
+    "genesis": [
+      4
+    ]
+  },
+  "Yuval": {
+    "genesis": [
+      4
+    ]
+  },
+  "tafas": {
+    "genesis": [
+      4
+    ]
+  },
+  "kinnor": {
+    "genesis": [
+      4
+    ]
+  },
+  "ugav": {
+    "genesis": [
+      4
+    ]
+  },
+  "TuvalQayin": {
+    "genesis": [
+      4
+    ]
+  },
+  "latash": {
+    "genesis": [
+      4
+    ]
+  },
+  "charash": {
+    "genesis": [
+      4
+    ]
+  },
+  "barzel": {
+    "genesis": [
+      4
+    ]
+  },
+  "Naamah": {
+    "genesis": [
+      4
+    ]
+  },
+  "achot": {
+    "genesis": [
+      4
+    ]
+  },
+  "ohel": {
+    "genesis": [
+      4
+    ]
+  },
+  "azan": {
+    "genesis": [
+      4
+    ]
+  },
+  "imrah": {
+    "genesis": [
+      4
+    ]
+  },
+  "harag": {
+    "genesis": [
+      4
+    ]
+  },
+  "petza": {
+    "genesis": [
+      4
+    ]
+  },
+  "yeled": {
+    "genesis": [
+      4
+    ]
+  },
+  "chaburah": {
+    "genesis": [
+      4
+    ]
+  },
+  "naqam": {
+    "genesis": [
+      4
+    ]
+  },
+  "miqneh": {
+    "genesis": [
+      4
     ]
   },
   "en": {

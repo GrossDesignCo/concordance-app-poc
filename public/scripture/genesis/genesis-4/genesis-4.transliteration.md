@@ -22,4 +22,37 @@ lamah charah lakh velamah nafelu panekha
 
 vaHaLo im-teytiv set
 veim lo teytiv laPetach chatat rovetz
-veElekha teshukato veAtah timshal-bo 
+veElekha teshukato veAtah timshal-bo
+
+vayYeda Qayin et-ishto
+vatTahar vatTeled et-Chanokh
+vayHi boneh ir
+vayYiqra shem haIr keShem beno Chanokh
+
+vayYivaled laChanokh et-Irad
+veIrad yalad et-Mechuyael
+uMechiyael yalad et-Methushael
+uMethushael yalad et-Lemekh
+
+vayYiqach-lo Lemekh shte nashim 
+shem haAchat Adah 
+veShem haShenith Tzillah
+
+vaTeled Adah et-Yaval 
+hu hayah avi yoshev ohel uMiqneh
+
+veShem achiv Yuval 
+hu hayah avi kol-tofes kinnor veUgav
+
+veTzillah gam-hi yaldah et-Tuval Qayin
+lotesh kol-choresh nechoshet uVarzel 
+vaAchot Tuval-Qayin Naamah
+
+vaYomer Lemekh leNashayv
+Adah veTzillah sheman qoli
+neshei Lemekh haAzenah imrati
+ki ish haragti leFitzi
+veYeled leChaburati
+
+ki shivatayim yuqam-Qayin
+veLemekh shivim veShivah

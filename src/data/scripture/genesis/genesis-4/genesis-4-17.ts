@@ -1,0 +1,340 @@
+import { Verse } from '@/types';
+
+export const genesis_4_17: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 4,
+    verse: 17,
+  },
+  words: [
+    {
+      hebrew: 'וַיֵּדַע',
+      transliteration: 'vayYeda',
+      englishLiteral: 'And-he-knew',
+      englishNatural: 'And',
+      root: 'yada',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'קַיִן',
+      transliteration: 'Qayin',
+      englishLiteral: 'Acquired (Cain)',
+      englishNatural: 'Acquired (Cain)',
+      root: 'Qayin',
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'אִשְׁתּוֹ',
+      transliteration: 'ishto',
+      englishLiteral: 'his-woman',
+      englishNatural: 'knew his woman',
+      root: 'ishah',
+      suffixes: ['o'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '3rd',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וַתַּהַר',
+      transliteration: 'vatTahar',
+      englishLiteral: 'and-she-conceived',
+      englishNatural: 'and she conceived',
+      root: 'harah',
+      prefixes: ['va'],
+      suffixes: ['ta'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'וַתֵּלֶד',
+      transliteration: 'vatTeled',
+      englishLiteral: 'and-she-bore',
+      englishNatural: 'and bore',
+      root: 'yalad',
+      prefixes: ['va'],
+      suffixes: ['ta'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'חֲנוֹךְ',
+      transliteration: 'Chanokh',
+      englishLiteral: 'Dedicated (Enoch)',
+      englishNatural: 'Dedicated (Enoch)',
+      root: 'Chanokh',
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וַיְהִי',
+      transliteration: 'vayHi',
+      englishLiteral: 'and-he-was',
+      englishNatural: 'and he was',
+      root: 'hayah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'בֹּנֶה',
+      transliteration: 'boneh',
+      englishLiteral: 'building',
+      englishNatural: 'building',
+      root: 'banah',
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'עִיר',
+      transliteration: 'ir',
+      englishLiteral: 'city',
+      englishNatural: 'a city',
+      root: 'ir',
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וַיִּקְרָא',
+      transliteration: 'vayYiqra',
+      englishLiteral: 'and-he-called',
+      englishNatural: 'and he called',
+      root: 'qara',
+      prefixes: ['va'],
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'שֵׁם',
+      transliteration: 'shem',
+      englishLiteral: 'name',
+      englishNatural: 'the name of',
+      root: 'shem',
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָעִיר',
+      transliteration: 'haIr',
+      englishLiteral: 'the-city',
+      englishNatural: 'the city',
+      root: 'ir',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'כְּשֵׁם',
+      transliteration: 'keShem',
+      englishLiteral: 'as-name',
+      englishNatural: 'after the name of',
+      root: 'shem',
+      prefixes: ['ke'],
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'בְּנוֹ',
+      transliteration: 'beno',
+      englishLiteral: 'son-his',
+      englishNatural: 'his son',
+      root: 'ben',
+      suffixes: ['o'],
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'חֲנוֹךְ',
+      transliteration: 'Chanokh',
+      englishLiteral: 'Dedicated (Enoch)',
+      englishNatural: 'Dedicated (Enoch)',
+      root: 'Chanokh',
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַיֵּדַע קַיִן אֶת־אִשְׁתּוֹ וַתַּהַר וַתֵּלֶד אֶת־חֲנוֹךְ וַיְהִי בֹּנֶה עִיר וַיִּקְרָא שֵׁם הָעִיר כְּשֵׁם בְּנוֹ חֲנוֹךְ',
+    transliteration:
+      'vayYeda Qayin et-ishto vatTahar vatTeled et-Chanokh vayHi boneh ir vayYiqra shem haIr keShem beno Chanokh',
+    englishLiteral:
+      'And-he-knew Acquired (Cain) ↳ his-woman, and-she-conceived and-she-bore ↳ Dedicated (Enoch); and-he-was building city, and-he-called name the-city as-name son-his, Dedicated (Enoch).',
+    englishNatural:
+      'And Acquired (Cain) knew his woman, and she conceived and bore Dedicated (Enoch); and he was building a city, and he called the name of the city after the name of his son, Dedicated (Enoch).',
+    kjv: 'And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-07-06' },
+},
+};

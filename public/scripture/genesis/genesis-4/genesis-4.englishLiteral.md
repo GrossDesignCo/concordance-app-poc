@@ -22,4 +22,37 @@ And-He-said He_Who_Is to- Acquired (Cain),
 
 And-is_there_not, if- you-do_well, lifting_up?
 And-if not you-do_well, to-door sin crouching,
-and-to-you its-fixation, and-you you-will-rule- over-it." 
+and-to-you its-fixation, and-you you-will-rule- over-it."
+
+And-he-knew Acquired (Cain) ↳ his-woman,
+and-she-conceived and-she-bore ↳ Dedicated (Enoch);
+and-he-was building city,
+and-he-called name the-city as-name son-his, Dedicated (Enoch).
+
+And-was-born to-Dedicated (Enoch) ↳ Fugitive (Irad);
+and-Fugitive (Irad) bore ↳ Smitten-of-God (Mehujael);
+and-Smitten-of-God (Mehujael) bore ↳ Man-of-God (Methusael);
+and-Man-of-God (Methusael) bore ↳ Powerful (Lamech).
+
+And-took- to-himself Powerful (Lamech) two women; 
+name the-one, Ornament (Adah), 
+and-name the-second, Shadow (Zillah).
+
+And-bore Ornament (Adah) ↳ Stream (Jabal); 
+he was father-of dwelling tent, and-cattle.
+
+and-name brother-his, Music (Jubal); 
+he was father-of all handling lyre, and-flute.
+
+and-Shadow (Zillah) also-, she bore ↳ World Aquired (Tubal Cain),
+smithing all cutting_straight bronze and-iron; 
+and-sister-of World-Aquired (Tubal-Cain), Pleasant (Naamah).
+
+and-said Powerful (Lamech) to-women-his,
+"Ornament (Adah) and-Shadow (Zillah), hear voice-my;
+women-of Powerful (Lamech), attend speech-my;
+that man I-have-killed to-wound-my,
+and-newborn to-stripe-my.
+
+that sevenfold shall-be-avenged Acquired (Cain),
+and-Powerful (Lamech) seventy and-seven."

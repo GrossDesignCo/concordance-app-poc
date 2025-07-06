@@ -72,6 +72,9 @@
     "genesis",
     "isaiah"
   ],
+  "sheva": [
+    "genesis"
+  ],
   "sheni": [
     "genesis"
   ],
@@ -286,6 +289,7 @@
     "psalms"
   ],
   "nechoshet": [
+    "genesis",
     "numbers"
   ],
   "ish": [
@@ -308,6 +312,7 @@
     "psalms"
   ],
   "yashav": [
+    "genesis",
     "isaiah",
     "psalms"
   ],
@@ -1413,6 +1418,93 @@
   ],
   "ani": [
     "proverbs"
+  ],
+  "ir": [
+    "genesis"
+  ],
+  "Qayin": [
+    "genesis"
+  ],
+  "Chanokh": [
+    "genesis"
+  ],
+  "Irad": [
+    "genesis"
+  ],
+  "Mechuyael": [
+    "genesis"
+  ],
+  "Methushael": [
+    "genesis"
+  ],
+  "Lemekh": [
+    "genesis"
+  ],
+  "Adah": [
+    "genesis"
+  ],
+  "Tzillah": [
+    "genesis"
+  ],
+  "Yaval": [
+    "genesis"
+  ],
+  "Yuval": [
+    "genesis"
+  ],
+  "tafas": [
+    "genesis"
+  ],
+  "kinnor": [
+    "genesis"
+  ],
+  "ugav": [
+    "genesis"
+  ],
+  "TuvalQayin": [
+    "genesis"
+  ],
+  "latash": [
+    "genesis"
+  ],
+  "charash": [
+    "genesis"
+  ],
+  "barzel": [
+    "genesis"
+  ],
+  "Naamah": [
+    "genesis"
+  ],
+  "achot": [
+    "genesis"
+  ],
+  "ohel": [
+    "genesis"
+  ],
+  "azan": [
+    "genesis"
+  ],
+  "imrah": [
+    "genesis"
+  ],
+  "harag": [
+    "genesis"
+  ],
+  "petza": [
+    "genesis"
+  ],
+  "yeled": [
+    "genesis"
+  ],
+  "chaburah": [
+    "genesis"
+  ],
+  "naqam": [
+    "genesis"
+  ],
+  "miqneh": [
+    "genesis"
   ],
   "en": [
     "john",
