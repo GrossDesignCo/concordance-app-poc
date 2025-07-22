@@ -53,3 +53,7 @@ that I have killed Man to my wound,
 and Newborn to my stripe.
 that Acquired (Cain) shall be avenged sevenfold,
 and Powerful (Lamech) seventy and seven."
+
+And Human (Adam) knew his woman again; and she bore a son, and called his name Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him.
+
+And to Appointed (Seth) also he was born a son; and he called his name Mortal (Enosh); then it began, to call out in the name of He-Who-Is.

@@ -214,6 +214,14 @@ const PREFIXES = {
     englishNatural: 'I will',
     function: '1st person singular imperfect prefix',
   },
+  // Genesis 5:4 addition
+  ho: {
+    hebrew: 'הוֹ',
+    transliteration: 'ho',
+    englishLiteral: 'the',
+    englishNatural: 'the',
+    function: 'definite article prefix',
+  },
 } as const;
 
 type PrefixKey = keyof typeof PREFIXES;

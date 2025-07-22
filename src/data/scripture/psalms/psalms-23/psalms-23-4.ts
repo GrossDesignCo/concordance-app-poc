@@ -255,7 +255,7 @@ export const psalms_23_4: Verse = {
     {
       hebrew: 'יְנַחֲמֻנִי',
       transliteration: 'yenachamuni',
-      englishLiteral: 'they-comfort-me',
+      englishLiteral: 'comfort-me',
       englishNatural: 'comfort me',
       root: 'nacham',
       prefixes: ['ye'],
@@ -279,11 +279,15 @@ export const psalms_23_4: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'גַּם כִּי־אֵלֵךְ בְּגֵיא צַלְמָוֶת לֹא־אִירָא רָע כִּי־אַתָּה עִמָּדִי שִׁבְטְךָ וּמִשְׁעַנְתֶּךָ הֵמָּה יְנַחֲמֻנִי',
-    transliteration: 'gam ki-elekh beGei tzalmavet lo-ira ra ki-atah imadi shivtekha uMishantekha hemah yenachamuni',
-    englishLiteral: 'Also that- I-walk in-valley-of shadow_death, not- I-fear bad; that- you with-me; your-rod and-your-staff, they they-comfort-me.',
-    englishNatural: 'Also that I walk in a valley of shadow-death, I fear not bad; that you are with me; your rod and your staff, they comfort me.',
+    hebrew:
+      'גַּם כִּי־אֵלֵךְ בְּגֵיא צַלְמָוֶת לֹא־אִירָא רָע כִּי־אַתָּה עִמָּדִי שִׁבְטְךָ וּמִשְׁעַנְתֶּךָ הֵמָּה יְנַחֲמֻנִי',
+    transliteration:
+      'gam ki-elekh beGei tzalmavet lo-ira ra ki-atah imadi shivtekha uMishantekha hemah yenachamuni',
+    englishLiteral:
+      'Also that- I-walk in-valley-of shadow_death, not- I-fear bad; that- you with-me; your-rod and-your-staff, they comfort-me.',
+    englishNatural:
+      'Also that I walk in a valley of shadow-death, I fear not bad; that you are with me; your rod and your staff, they comfort me.',
     kjv: 'Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-16' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
   },
-}; 
+};

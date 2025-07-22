@@ -14,6 +14,8 @@ import { genesis_4_21 } from './genesis-4-21';
 import { genesis_4_22 } from './genesis-4-22';
 import { genesis_4_23 } from './genesis-4-23';
 import { genesis_4_24 } from './genesis-4-24';
+import { genesis_4_25 } from './genesis-4-25';
+import { genesis_4_26 } from './genesis-4-26';
 
 const chapter: Chapter = {
   meta: {
@@ -36,6 +38,8 @@ const chapter: Chapter = {
     genesis_4_22,
     genesis_4_23,
     genesis_4_24,
+    genesis_4_25,
+    genesis_4_26,
   ],
 };
 

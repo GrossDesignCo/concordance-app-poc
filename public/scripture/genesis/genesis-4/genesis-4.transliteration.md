@@ -56,3 +56,7 @@ veYeled leChaburati
 
 ki shivatayim yuqam-Qayin
 veLemekh shivim veShivah
+
+vaYeda Adam od et-ishto vaTeled ben vaTiqra et-shemo Shet ki shat-li Elohim zera acher tachat Hevel ki harago Qayin
+
+uleShet gam-hu yulad-ben vaYiqra et-shemo Enosh az huchal liqro beShem YHWH

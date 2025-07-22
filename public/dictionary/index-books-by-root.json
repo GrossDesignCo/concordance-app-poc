@@ -75,6 +75,9 @@
   "sheva": [
     "genesis"
   ],
+  "shivim": [
+    "genesis"
+  ],
   "sheni": [
     "genesis"
   ],
@@ -869,6 +872,7 @@
     "isaiah"
   ],
   "li": [
+    "genesis",
     "isaiah"
   ],
   "safah": [
@@ -1166,6 +1170,7 @@
     "psalms"
   ],
   "nacham": [
+    "genesis",
     "psalms"
   ],
   "arakh": [
@@ -1378,6 +1383,7 @@
     "proverbs"
   ],
   "az": [
+    "genesis",
     "proverbs"
   ],
   "nasakh": [
@@ -1503,7 +1509,91 @@
   "naqam": [
     "genesis"
   ],
+  "Shet": [
+    "genesis"
+  ],
+  "shit": [
+    "genesis"
+  ],
+  "acher": [
+    "genesis"
+  ],
+  "od": [
+    "genesis"
+  ],
+  "Enosh": [
+    "genesis"
+  ],
+  "chalal": [
+    "genesis"
+  ],
+  "sefer": [
+    "genesis"
+  ],
+  "toledot": [
+    "genesis"
+  ],
+  "shloshim": [
+    "genesis"
+  ],
+  "meah": [
+    "genesis"
+  ],
+  "achar": [
+    "genesis"
+  ],
+  "shmoneh": [
+    "genesis"
+  ],
+  "bat": [
+    "genesis"
+  ],
+  "tesha": [
+    "genesis"
+  ],
+  "chamishah": [
+    "genesis"
+  ],
+  "shishim": [
+    "genesis"
+  ],
+  "Metushalach": [
+    "genesis"
+  ],
+  "shalosh": [
+    "genesis"
+  ],
+  "chamesh": [
+    "genesis"
+  ],
+  "shmonim": [
+    "genesis"
+  ],
   "miqneh": [
+    "genesis"
+  ],
+  "tishim": [
+    "genesis"
+  ],
+  "cham": [
+    "genesis"
+  ],
+  "yafet": [
+    "genesis"
+  ],
+  "shteym": [
+    "genesis"
+  ],
+  "esreh": [
+    "genesis"
+  ],
+  "qeynan": [
+    "genesis"
+  ],
+  "mahalalel": [
+    "genesis"
+  ],
+  "yared": [
     "genesis"
   ],
   "en": [

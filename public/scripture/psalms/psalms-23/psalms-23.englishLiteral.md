@@ -10,7 +10,7 @@ for-sake-of his-name.
 
 Also that- I-walk in-valley-of shadow_death, not- I-fear bad;
 that- you with-me;
-your-rod and-your-staff, they they-comfort-me.
+your-rod and-your-staff, they comfort-me.
 
 you-prepare to-my-face table, in-presence-of my-enemies;
 you-anoint with-oil my-head,
