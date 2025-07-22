@@ -3,6 +3,7 @@ import Verse from '@/components/scripture/Verse';
 import type { Chapter as ChapterData } from '@/types';
 import styles from './Chapter.module.css';
 import { getChapterId, getBookNameKey } from '@/data/utils/idUtils';
+import { Fragment } from 'react';
 
 interface ChapterProps {
   chapterData: ChapterData;
@@ -21,8 +22,19 @@ export const Chapter = ({ chapterData }: ChapterProps) => {
         {chapterData.meta.chapter}
       </h2>
 
-      {chapterData?.verses?.map((v) => {
-        return <Verse verse={v} key={v.meta.verse} />;
+      {chapterData?.verses?.map((v, i) => {
+        const nonConsecutiveVerse =
+          v.meta.verse !== chapterData?.verses[i - 1]?.meta.verse + 1 &&
+          v.meta.verse !== 1;
+
+        return (
+          <Fragment key={v.meta.verse}>
+            {nonConsecutiveVerse && (
+              <div className={styles.nonConsecutiveVerse}>...</div>
+            )}
+            <Verse verse={v} />
+          </Fragment>
+        );
       })}
     </div>
   );

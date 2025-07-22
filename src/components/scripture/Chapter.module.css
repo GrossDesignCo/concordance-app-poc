@@ -7,3 +7,7 @@
   margin-inline-start: -2.125em;
   text-align: end;
 } */
+
+.nonConsecutiveVerse {
+  margin-block: 1em;
+}
