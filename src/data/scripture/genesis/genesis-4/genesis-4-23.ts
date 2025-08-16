@@ -250,7 +250,7 @@ export const genesis_4_23: Verse = {
       hebrew: 'אִישׁ',
       transliteration: 'ish',
       englishLiteral: 'man',
-      englishNatural: 'Man',
+      englishNatural: 'man',
       root: 'ish',
       order: {
         hebrew: 13,
@@ -307,7 +307,7 @@ export const genesis_4_23: Verse = {
       hebrew: 'וְיֶלֶד',
       transliteration: 'veYeled',
       englishLiteral: 'and-newborn',
-      englishNatural: 'and Newborn',
+      englishNatural: 'and newborn',
       root: 'yeled',
       prefixes: ['ve'],
       order: {
@@ -352,8 +352,8 @@ export const genesis_4_23: Verse = {
     englishLiteral:
       'and-said Powerful (Lamech) to-women-his, "Ornament (Adah) and-Shadow (Zillah), hear voice-my; women-of Powerful (Lamech), attend speech-my; that man I-have-killed to-wound-my, and-newborn to-stripe-my.',
     englishNatural:
-      'And Powerful (Lamech) said to his women, "Ornament (Adah) and Shadow (Zillah), hear my voice; women of Powerful (Lamech), attend my speech; that I have killed Man to my wound, and Newborn to my stripe.',
+      'And Powerful (Lamech) said to his women, "Ornament (Adah) and Shadow (Zillah), hear my voice; women of Powerful (Lamech), attend my speech; that I have killed man to my wound, and newborn to my stripe.',
     kjv: 'And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken to my speech: for I have slain a man to my wounding, and a young man to my hurt.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-06' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
+  },
 };

@@ -101,6 +101,7 @@
     "proverbs"
   ],
   "satar": [
+    "genesis",
     "proverbs"
   ],
   "peti": [
@@ -400,6 +401,7 @@
     "isaiah"
   ],
   "nakah": [
+    "genesis",
     "isaiah"
   ],
   "tov": [
@@ -885,6 +887,7 @@
     "isaiah"
   ],
   "avon": [
+    "genesis",
     "isaiah"
   ],
   "kafar": [
@@ -1119,6 +1122,7 @@
     "psalms"
   ],
   "qum": [
+    "genesis",
     "psalms"
   ],
   "mishpat": [
@@ -1368,6 +1372,7 @@
     "proverbs"
   ],
   "peh": [
+    "genesis",
     "proverbs"
   ],
   "qiryah": [
@@ -1594,6 +1599,33 @@
     "genesis"
   ],
   "yared": [
+    "genesis"
+  ],
+  "ay": [
+    "genesis"
+  ],
+  "dam": [
+    "genesis"
+  ],
+  "tsaaq": [
+    "genesis"
+  ],
+  "attah": [
+    "genesis"
+  ],
+  "patsa": [
+    "genesis"
+  ],
+  "yasaph": [
+    "genesis"
+  ],
+  "koach": [
+    "genesis"
+  ],
+  "na": [
+    "genesis"
+  ],
+  "nadad": [
     "genesis"
   ],
   "en": [

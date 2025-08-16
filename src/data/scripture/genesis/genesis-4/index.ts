@@ -6,6 +6,15 @@ import { genesis_4_4 } from './genesis-4-4';
 import { genesis_4_5 } from './genesis-4-5';
 import { genesis_4_6 } from './genesis-4-6';
 import { genesis_4_7 } from './genesis-4-7';
+import { genesis_4_8 } from './genesis-4-8';
+import { genesis_4_9 } from './genesis-4-9';
+import { genesis_4_10 } from './genesis-4-10';
+import { genesis_4_11 } from './genesis-4-11';
+import { genesis_4_12 } from './genesis-4-12';
+import { genesis_4_13 } from './genesis-4-13';
+import { genesis_4_14 } from './genesis-4-14';
+import { genesis_4_15 } from './genesis-4-15';
+import { genesis_4_16 } from './genesis-4-16';
 import { genesis_4_17 } from './genesis-4-17';
 import { genesis_4_18 } from './genesis-4-18';
 import { genesis_4_19 } from './genesis-4-19';
@@ -30,6 +39,15 @@ const chapter: Chapter = {
     genesis_4_5,
     genesis_4_6,
     genesis_4_7,
+    genesis_4_8,
+    genesis_4_9,
+    genesis_4_10,
+    genesis_4_11,
+    genesis_4_12,
+    genesis_4_13,
+    genesis_4_14,
+    genesis_4_15,
+    genesis_4_16,
     genesis_4_17,
     genesis_4_18,
     genesis_4_19,

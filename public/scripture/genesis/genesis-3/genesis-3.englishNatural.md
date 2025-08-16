@@ -82,7 +82,7 @@ and eat and live to the-age—
 
 And He-Who-Is God sent him from Garden of Delight (Eden); 
 to serve the soil from there which he was taken.
-And he drove out the human; 
+And he banished the human; 
 and he caused to dwell east of Garden of Delight (Eden) the Guardians-of-the-Approach; 
 and the Flame of the Sword, the Overturning, 
 to keep the way to the Tree of Life. 

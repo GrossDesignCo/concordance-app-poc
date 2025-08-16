@@ -205,8 +205,8 @@ export const isaiah_6_7: Verse = {
     {
       hebrew: 'עֲוֹנֶךָ',
       transliteration: 'avonekha',
-      englishLiteral: 'your-iniquity',
-      englishNatural: 'your iniquity',
+      englishLiteral: 'your-twisting',
+      englishNatural: 'your twisting',
       root: 'avon',
       suffixes: ['ekha'],
       order: {
@@ -269,11 +269,15 @@ export const isaiah_6_7: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיַּגַּע אֶל־פִּי וַיֹּאמֶר הִנֵּה נָגַע זֶה עַל־שְׂפָתֶיךָ וְסָר עֲוֹנֶךָ וְחַטָּאתְךָ תְּכֻפָּר',
-    transliteration: 'vaYaGga el-pi vaYomer hinneh naga zeh al-sfatekha veSar avonekha veChatatkha teKupar',
-    englishLiteral: 'And-he-touched to- my-mouth, and-he-said, "Behold, has-touched this over- your-lips; and-turned_aside your-iniquity, and-your-sin will-be-covered."',
-    englishNatural: 'And he touched it to my mouth, and he said, "Behold, this has touched over your lips; and turned-aside your iniquity, and your sin will be covered."',
+    hebrew:
+      'וַיַּגַּע אֶל־פִּי וַיֹּאמֶר הִנֵּה נָגַע זֶה עַל־שְׂפָתֶיךָ וְסָר עֲוֹנֶךָ וְחַטָּאתְךָ תְּכֻפָּר',
+    transliteration:
+      'vaYaGga el-pi vaYomer hinneh naga zeh al-sfatekha veSar avonekha veChatatkha teKupar',
+    englishLiteral:
+      'And-he-touched to- my-mouth, and-he-said, "Behold, has-touched this over- your-lips; and-turned_aside your-twisting, and-your-sin will-be-covered."',
+    englishNatural:
+      'And he touched it to my mouth, and he said, "Behold, this has touched over your lips; and turned-aside your twisting, and your sin will be covered."',
     kjv: 'And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-07' },
-},
-}; 
+    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
+  },
+};

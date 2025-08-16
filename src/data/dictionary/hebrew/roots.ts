@@ -985,7 +985,7 @@ const ROOTS = {
     transliteration: 'yalad',
     englishLiteral: 'to birth',
     englishNatural: 'to birth',
-    description: 'to bear, to give birth, to conceive, to be born',
+    description: 'to bear a child, to give birth, to conceive, to be born',
     type: 'verb',
   },
   ashar: {
@@ -1993,9 +1993,9 @@ const ROOTS = {
   avon: {
     hebrew: 'עון',
     transliteration: 'avon',
-    englishLiteral: 'iniquity',
-    englishNatural: 'iniquity',
-    description: 'moral crookedness, perversity, guilt',
+    englishLiteral: 'twisting',
+    englishNatural: 'twisting',
+    description: 'moral crookedness, perversity, guilt, twistedness',
     type: 'noun',
   },
   kafar: {
@@ -2413,10 +2413,11 @@ const ROOTS = {
   garash: {
     hebrew: 'גרש',
     transliteration: 'garash',
-    englishLiteral: 'to drive_out',
-    englishNatural: 'to drive out',
+    englishLiteral: 'to banish',
+    englishNatural: 'to banish',
     type: 'verb',
-    description: 'to drive out, expel, banish, cast out',
+    description:
+      'to drive out by force, to deport from a place, expel, banish, cast out',
   },
   keruv: {
     hebrew: 'כרוב',
@@ -4008,6 +4009,82 @@ const ROOTS = {
     englishNatural: 'Descending (Jared)',
     type: 'noun',
     description: 'proper name, Jared, meaning "descending" or "to go down"',
+  },
+  // Genesis 4:9 additions
+  ay: {
+    hebrew: 'אֵי',
+    transliteration: 'ay',
+    englishLiteral: 'where',
+    englishNatural: 'where',
+    type: 'adverb',
+    description: 'where, in what place',
+  },
+  // Genesis 4:10 additions
+  dam: {
+    hebrew: 'דָּם',
+    transliteration: 'dam',
+    englishLiteral: 'blood',
+    englishNatural: 'blood',
+    type: 'noun',
+    description: 'blood, life-force',
+  },
+  tsaaq: {
+    hebrew: 'צָעַק',
+    transliteration: 'tsaaq',
+    englishLiteral: 'cry_out',
+    englishNatural: 'cry-out',
+    type: 'verb',
+    description: 'to cry out, call for help, make an outcry',
+  },
+  // Genesis 4:11 additions
+  attah: {
+    hebrew: 'אַתָּה',
+    transliteration: 'attah',
+    englishLiteral: 'you',
+    englishNatural: 'you',
+    type: 'pronoun',
+    description: 'you (masculine singular)',
+  },
+  patsa: {
+    hebrew: 'פָּצָה',
+    transliteration: 'patsa',
+    englishLiteral: 'opened',
+    englishNatural: 'opened',
+    type: 'verb',
+    description: 'to open, open wide (especially the mouth)',
+  },
+  // Genesis 4:12 additions
+  yasaph: {
+    hebrew: 'יָסַף',
+    transliteration: 'yasaph',
+    englishLiteral: 'add',
+    englishNatural: 'add',
+    type: 'verb',
+    description: 'to add, continue, do again',
+  },
+  koach: {
+    hebrew: 'כֹּחַ',
+    transliteration: 'koach',
+    englishLiteral: 'strength',
+    englishNatural: 'strength',
+    type: 'noun',
+    description: 'strength, power, might',
+  },
+  na: {
+    hebrew: 'נָע',
+    transliteration: 'na',
+    englishLiteral: 'wandering',
+    englishNatural: 'wandering',
+    type: 'adjective',
+    description: 'wandering, restless, moving to and fro',
+  },
+  nadad: {
+    hebrew: 'נָדַד',
+    transliteration: 'nadad',
+    englishLiteral: 'flee',
+    englishNatural: 'flee',
+    type: 'verb',
+    description: 'to flee, wander, be a fugitive',
   },
 } as const;
 

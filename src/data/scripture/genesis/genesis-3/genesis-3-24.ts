@@ -10,8 +10,8 @@ export const genesis_3_24: Verse = {
     {
       hebrew: 'וַיְגָרֶשׁ',
       transliteration: 'vayGaresh',
-      englishLiteral: 'And-he-drove-out',
-      englishNatural: 'And he drove out',
+      englishLiteral: 'And-he-banished',
+      englishNatural: 'And he banished',
       root: 'garash',
       prefixes: ['va', 'yi'],
       order: {
@@ -24,7 +24,7 @@ export const genesis_3_24: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'piel',
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: {
         hebrew: 1,
@@ -41,7 +41,7 @@ export const genesis_3_24: Verse = {
         english: 2,
       },
       morphology: {
-        type: 'particle'
+        type: 'particle',
       },
     },
     {
@@ -58,7 +58,7 @@ export const genesis_3_24: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -82,7 +82,7 @@ export const genesis_3_24: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'hiphil',
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: 1,
     },
@@ -98,7 +98,7 @@ export const genesis_3_24: Verse = {
         english: 5,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -113,7 +113,7 @@ export const genesis_3_24: Verse = {
         english: 6,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -127,7 +127,7 @@ export const genesis_3_24: Verse = {
         english: 7,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -141,7 +141,7 @@ export const genesis_3_24: Verse = {
         english: 8,
       },
       morphology: {
-        type: 'particle'
+        type: 'particle',
       },
     },
     {
@@ -159,7 +159,7 @@ export const genesis_3_24: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -178,7 +178,7 @@ export const genesis_3_24: Verse = {
         english: 10,
       },
       morphology: {
-        type: 'particle'
+        type: 'particle',
       },
       lineBreaksBefore: 1,
     },
@@ -196,7 +196,7 @@ export const genesis_3_24: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -213,7 +213,7 @@ export const genesis_3_24: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -236,7 +236,7 @@ export const genesis_3_24: Verse = {
         number: 'singular',
         tense: 'participle',
         stem: 'hithpael',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -255,7 +255,7 @@ export const genesis_3_24: Verse = {
         english: 14,
       },
       morphology: {
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: 1,
     },
@@ -270,7 +270,7 @@ export const genesis_3_24: Verse = {
         english: 15,
       },
       morphology: {
-        type: 'particle'
+        type: 'particle',
       },
     },
     {
@@ -286,7 +286,7 @@ export const genesis_3_24: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -302,7 +302,7 @@ export const genesis_3_24: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -319,7 +319,7 @@ export const genesis_3_24: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -331,11 +331,15 @@ export const genesis_3_24: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיְגָרֶשׁ אֶת־הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן־עֵדֶן אֶת־הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת־דֶּרֶךְ עֵץ הַחַיִּים׃',
-    transliteration: 'vayGaresh et-haAdam vayYashken miQedem leGan-Eden et-haKeruvim veEt laHat haCherev haMithapekhet lishMor et-derekh etz haChayyim',
-    englishLiteral: 'And-he-drove-out ↳ the-human; and-he-caused-to-dwell from-east to-Garden Delight (Eden) ↳ the-Guardians_of_the_Approach; and-↳ flame the-sword, the-overturning, to-keep ↳ way tree the-lives.',
-    englishNatural: 'And he drove out the human; and he caused to dwell east of Garden of Delight (Eden) the Guardians-of-the-Approach; and the Flame of the Sword, the Overturning, to keep the way to the Tree of Life.',
+    hebrew:
+      'וַיְגָרֶשׁ אֶת־הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן־עֵדֶן אֶת־הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת־דֶּרֶךְ עֵץ הַחַיִּים׃',
+    transliteration:
+      'vayGaresh et-haAdam vayYashken miQedem leGan-Eden et-haKeruvim veEt laHat haCherev haMithapekhet lishMor et-derekh etz haChayyim',
+    englishLiteral:
+      'And-he-banished ↳ the-human; and-he-caused-to-dwell from-east to-Garden Delight (Eden) ↳ the-Guardians_of_the_Approach; and-↳ flame the-sword, the-overturning, to-keep ↳ way tree the-lives.',
+    englishNatural:
+      'And he banished the human; and he caused to dwell east of Garden of Delight (Eden) the Guardians-of-the-Approach; and the Flame of the Sword, the Overturning, to keep the way to the Tree of Life.',
     kjv: 'So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
   },
-}; 
+};

@@ -15,4 +15,4 @@ And-I-said, "Woe- to-me for- I-am-silenced; for man unclean- lips, I, and-in-mid
 
 And-flew to-me one from the-burning_ones and-in-his-hand live_coal with-tongs he-took from-upon the-altar. 
 And-he-touched to- my-mouth,
-and-he-said, "Behold, has-touched this over- your-lips; and-turned_aside your-iniquity, and-your-sin will-be-covered." 
+and-he-said, "Behold, has-touched this over- your-lips; and-turned_aside your-twisting, and-your-sin will-be-covered." 

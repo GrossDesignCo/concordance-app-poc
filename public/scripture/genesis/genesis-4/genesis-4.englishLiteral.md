@@ -24,6 +24,42 @@ And-is_there_not, if- you-do_well, lifting_up?
 And-if not you-do_well, to-door sin crouching,
 and-to-you its-fixation, and-you you-will-rule- over-it."
 
+And-he-said Acquired (Cain) to Vapor (Abel) his-brother;
+And-it-was in-their-being in-the-field,
+and-he-stood Acquired (Cain) to- Vapor (Abel) his-brother,
+and-he-killed-him.
+
+And-he-said He_Who_Is to Acquired (Cain),
+"Where? Vapor (Abel), your-brother?"
+And-he-said, "Not I-knew, keeper-of my-brother I?"
+
+And-he-said, "What you-did? Voice-of blood-of your-brother crying_out to-me from- the-ground.
+
+And-now cursed you, from- the-ground;
+which she-opened ↳ her-mouth to-take ↳ blood-of your-brother from-your-hand.
+
+When you-serve ↳ the-ground,
+not- it-will-add give- her-strength to-you;
+wandering and-fugitive you-will-be in-the-land."
+
+And-he-said Acquired (Cain) to He_Who_Is,
+"Great my-twisting from-bearing.
+
+Behold, you-banished ↳-me the-day from-over face-of the-ground;
+and-from-your-face I-will-hide;
+and-I-will-be wandering and-fugitive in-the-land;
+and-it-will-be all- finding-me will-kill-me.
+
+And-he-said to-him He_Who_Is, "Not-so,
+all- killing Acquired (Cain),
+sevenfold it-will-be-avenged.
+And-he-set He_Who_Is for-Acquired (Cain) sign,
+for-not striking- ↳-him all- finding-him."
+
+And-he-went-out Acquired (Cain) from-face-of He_Who_Is,
+and-he-dwelt in-land- Wandering,
+east- Delight.
+
 And-he-knew Acquired (Cain) ↳ his-woman,
 and-she-conceived and-she-bore ↳ Dedicated (Enoch);
 and-he-was building city,

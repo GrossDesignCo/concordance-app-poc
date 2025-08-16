@@ -24,6 +24,29 @@ And is there not, if you do-well, lifting-up?
 And if you do-well not, to the door sin is crouching,
 and to you is its fixation, and you will rule over it."
 
+And Acquired (Cain) said to Vapor (Abel) his brother;
+and it was in their being in the field,
+and Acquired (Cain) stood to Vapor (Abel) his brother,
+and killed him.
+
+And He-Who-Is said to Acquired (Cain),
+"Where? Vapor (Abel), your brother?"
+And he said, "I knew not, Am I keeper of my brother?"
+And he said, "What have you done?
+The voice of the blood of your brother is crying-out to me from the ground. And now cursed are you, from the ground;
+which has opened her mouth to take the blood of your brother, from your hand. When you serve the ground,
+it will add not, to give her strength to you;
+wandering and fugitive you will be in the land." And Acquired (Cain) said to He-Who-Is,
+"Great is my twisting from bearing. Behold, you have banished me this day from over the face of the ground;
+and from your face I will be hidden;
+and I will be wandering and fugitive in the land;
+and it will be all finding me will kill me." And He-Who-Is said to him, "Not so,
+all killing Acquired (Cain),
+sevenfold it will be avenged.
+And He-Who-Is set for Acquired (Cain) a sign,
+so that not all strike him on finding him." Acquired (Cain) went out from the presence of He-Who-Is,
+and dwelt in the land of Wandering,
+east of Delight. 
 And Acquired (Cain) knew his woman,
 and she conceived and bore Dedicated (Enoch);
 and he was building a city,
@@ -49,8 +72,8 @@ and the sister of World-Aquired (Tubal-Cain), Pleasant (Naamah).
 And Powerful (Lamech) said to his women,
 "Ornament (Adah) and Shadow (Zillah), hear my voice;
 women of Powerful (Lamech), attend my speech;
-that I have killed Man to my wound,
-and Newborn to my stripe.
+that I have killed man to my wound,
+and newborn to my stripe.
 that Acquired (Cain) shall be avenged sevenfold,
 and Powerful (Lamech) seventy and seven."
 

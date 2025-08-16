@@ -67,7 +67,8 @@
   "eretz": {
     "genesis": [
       1,
-      2
+      2,
+      4
     ],
     "isaiah": [
       6
@@ -226,6 +227,9 @@
     ]
   },
   "satar": {
+    "genesis": [
+      4
+    ],
     "proverbs": [
       22
     ]
@@ -297,7 +301,8 @@
   "sadeh": {
     "genesis": [
       2,
-      3
+      3,
+      4
     ]
   },
   "asah": {
@@ -305,6 +310,7 @@
       1,
       2,
       3,
+      4,
       5
     ],
     "numbers": [
@@ -352,6 +358,7 @@
       1,
       2,
       3,
+      4,
       5
     ],
     "psalms": [
@@ -476,6 +483,7 @@
       1,
       2,
       3,
+      4,
       5
     ],
     "isaiah": [
@@ -498,7 +506,8 @@
   "ken": {
     "genesis": [
       1,
-      2
+      2,
+      4
     ],
     "psalms": [
       1
@@ -659,7 +668,8 @@
   "sim": {
     "genesis": [
       2,
-      3
+      3,
+      4
     ],
     "numbers": [
       21
@@ -766,7 +776,8 @@
     "genesis": [
       1,
       2,
-      3
+      3,
+      4
     ],
     "isaiah": [
       6,
@@ -846,7 +857,8 @@
   "yatsa": {
     "genesis": [
       1,
-      2
+      2,
+      4
     ],
     "isaiah": [
       14
@@ -901,6 +913,7 @@
   "yad": {
     "genesis": [
       3,
+      4,
       5
     ],
     "isaiah": [
@@ -925,6 +938,9 @@
     ]
   },
   "nakah": {
+    "genesis": [
+      4
+    ],
     "isaiah": [
       14
     ]
@@ -1111,7 +1127,8 @@
   },
   "ot": {
     "genesis": [
-      1
+      1,
+      4
     ]
   },
   "moed": {
@@ -1139,7 +1156,8 @@
   },
   "gadol": {
     "genesis": [
-      1
+      1,
+      4
     ],
     "psalms": [
       117,
@@ -1169,7 +1187,8 @@
   "natan": {
     "genesis": [
       1,
-      3
+      3,
+      4
     ],
     "proverbs": [
       1,
@@ -1308,7 +1327,8 @@
   "hinneh": {
     "genesis": [
       1,
-      3
+      3,
+      4
     ],
     "isaiah": [
       6
@@ -1480,13 +1500,15 @@
   "eden": {
     "genesis": [
       2,
-      3
+      3,
+      4
     ]
   },
   "qedem": {
     "genesis": [
       2,
-      3
+      3,
+      4
     ],
     "proverbs": [
       8
@@ -1548,7 +1570,8 @@
   "shamar": {
     "genesis": [
       2,
-      3
+      3,
+      4
     ]
   },
   "badad": {
@@ -1649,7 +1672,8 @@
   },
   "matza": {
     "genesis": [
-      2
+      2,
+      4
     ]
   },
   "naphal": {
@@ -1840,7 +1864,8 @@
   },
   "anokhi": {
     "genesis": [
-      3
+      3,
+      4
     ],
     "isaiah": [
       6
@@ -1875,6 +1900,9 @@
     ]
   },
   "avon": {
+    "genesis": [
+      4
+    ],
     "isaiah": [
       6
     ]
@@ -2009,7 +2037,8 @@
   },
   "bilti": {
     "genesis": [
-      3
+      3,
+      4
     ]
   },
   "im_with": {
@@ -2025,7 +2054,8 @@
   },
   "mah": {
     "genesis": [
-      3
+      3,
+      4
     ]
   },
   "zot": {
@@ -2041,6 +2071,7 @@
   "arar": {
     "genesis": [
       3,
+      4,
       5
     ]
   },
@@ -2174,7 +2205,8 @@
   },
   "garash": {
     "genesis": [
-      3
+      3,
+      4
     ]
   },
   "keruv": {
@@ -2294,6 +2326,9 @@
     ]
   },
   "qum": {
+    "genesis": [
+      4
+    ],
     "psalms": [
       1
     ]
@@ -2723,6 +2758,9 @@
     ]
   },
   "peh": {
+    "genesis": [
+      4
+    ],
     "proverbs": [
       8
     ]
@@ -3107,6 +3145,51 @@
   "yared": {
     "genesis": [
       5
+    ]
+  },
+  "ay": {
+    "genesis": [
+      4
+    ]
+  },
+  "dam": {
+    "genesis": [
+      4
+    ]
+  },
+  "tsaaq": {
+    "genesis": [
+      4
+    ]
+  },
+  "attah": {
+    "genesis": [
+      4
+    ]
+  },
+  "patsa": {
+    "genesis": [
+      4
+    ]
+  },
+  "yasaph": {
+    "genesis": [
+      4
+    ]
+  },
+  "koach": {
+    "genesis": [
+      4
+    ]
+  },
+  "na": {
+    "genesis": [
+      4
+    ]
+  },
+  "nadad": {
+    "genesis": [
+      4
     ]
   },
   "en": {

@@ -15,4 +15,4 @@ And I said, "Woe to me for I am silenced; for I, a man of unclean lips, and in t
 
 And flew to me one from the burning-ones and in his hand a live-coal he had taken with tongs from upon the altar. 
 And he touched it to my mouth,
-and he said, "Behold, this has touched over your lips; and turned-aside your iniquity, and your sin will be covered." 
+and he said, "Behold, this has touched over your lips; and turned-aside your twisting, and your sin will be covered." 

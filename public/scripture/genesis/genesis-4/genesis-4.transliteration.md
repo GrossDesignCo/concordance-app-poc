@@ -24,6 +24,42 @@ vaHaLo im-teytiv set
 veim lo teytiv laPetach chatat rovetz
 veElekha teshukato veAtah timshal-bo
 
+vayYomer Qayin el-Hevel achiv
+vayHi biHyotam basadeh
+vayYaqam Qayin el-Hevel achiv
+vayYahargehu
+
+vayYomer YHWH el-Qayin
+ay Hevel achikha
+vayYomer lo yadati haShomer achi anokhi
+
+vayYomer meh asita qol demey achikha tsoaqim elay min-haAdamah
+
+veAttah arur attah min-haAdamah
+asher patzah et-piha laqachat et-demey achikha miYadekha
+
+ki taavod et-haAdamah
+lo-toseeph tet-kochah lakh
+na vanad tihyeh baAretz
+
+vayYomer Qayin el-YHWH
+gadol avoni minso
+
+hen gerashta oti haYom meAl peney haAdamah
+umiPanekha esater
+veHayiti na vanad baAretz
+vehayah kol-motzei yahargeini
+
+vayYomer lo YHWH lakhen
+kol-horeg Qayin
+shivatayim yuqam
+vayYasem YHWH leQayin ot
+leVilti hakot-oto kol-motzo
+
+vayYetze Qayin miliPhney YHWH
+vayYeshev beEretz-Nod
+qidmat-Eden
+
 vayYeda Qayin et-ishto
 vatTahar vatTeled et-Chanokh
 vayHi boneh ir
