@@ -438,3 +438,4 @@ export const genesis_6_4: Verse = {
     lastReviewed: { name: 'Matt Gross', date: '2025-08-23' },
   },
 };
+

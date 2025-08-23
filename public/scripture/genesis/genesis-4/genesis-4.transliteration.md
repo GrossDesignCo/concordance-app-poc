@@ -31,6 +31,7 @@ vayYahargehu
 
 vayYomer YHWH el-Qayin
 ay Hevel achikha
+
 vayYomer lo yadati haShomer achi anokhi
 
 vayYomer meh asita qol demey achikha tsoaqim elay min-haAdamah
@@ -44,14 +45,13 @@ na vanad tihyeh baAretz
 
 vayYomer Qayin el-YHWH
 gadol avoni minso
-
 hen gerashta oti haYom meAl peney haAdamah
 umiPanekha esater
 veHayiti na vanad baAretz
 vehayah kol-motzei yahargeini
 
-vayYomer lo YHWH lakhen
-kol-horeg Qayin
+vayYomer lo YHWH 
+lakhen kol-horeg Qayin
 shivatayim yuqam
 vayYasem YHWH leQayin ot
 leVilti hakot-oto kol-motzo

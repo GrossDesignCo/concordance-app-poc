@@ -2,7 +2,7 @@ And the human knew Living (Eve) his woman,
 and she conceived and bore Acquired (Cain),
 and said, "I have acquired a man with He-Who-Is."
 
-And she added to her bearing, his brother Vapor (Abel).
+And she added to her birthing, his brother Vapor (Abel).
 And Vapor (Abel) was a shepherd of flock,
 and Acquired (Cain) was a servant of soil.
 
@@ -31,22 +31,34 @@ and killed him.
 
 And He-Who-Is said to Acquired (Cain),
 "Where? Vapor (Abel), your brother?"
+
 And he said, "I knew not, Am I keeper of my brother?"
+
 And he said, "What have you done?
-The voice of the blood of your brother is crying-out to me from the ground. And now cursed are you, from the ground;
-which has opened her mouth to take the blood of your brother, from your hand. When you serve the ground,
+The voice of the blood of your brother is crying-out to me from the soil.
+And now cursed are you, from the ground;
+which has opened her mouth to take the blood of your brother, from your hand.
+When you serve the ground,
 it will add not, to give her strength to you;
-wandering and fugitive you will be in the land." And Acquired (Cain) said to He-Who-Is,
-"Great is my twisting from bearing. Behold, you have banished me this day from over the face of the ground;
+wandering and fugitive you will be in the land."
+
+And Acquired (Cain) said to He-Who-Is,
+"Great is my twisting, from lifting-up.
+Behold, you have banished me this day, from over the face of the ground;
 and from your face I will be hidden;
 and I will be wandering and fugitive in the land;
-and it will be all finding me will kill me." And He-Who-Is said to him, "Not so,
-all killing Acquired (Cain),
-sevenfold it will be avenged.
+and it will be all finding me will kill me."
+
+And He-Who-Is said to him, 
+"Not so, all killing Acquired (Cain),
+sevenfold it will be avenged."
 And He-Who-Is set for Acquired (Cain) a sign,
-so that not all strike him on finding him." Acquired (Cain) went out from the presence of He-Who-Is,
+so that not all strike him on finding him.
+
+And Acquired (Cain) went out, from the presence of He-Who-Is;
 and dwelt in the land of Wandering,
-east of Delight. 
+east of Delight.
+
 And Acquired (Cain) knew his woman,
 and she conceived and bore Dedicated (Enoch);
 and he was building a city,

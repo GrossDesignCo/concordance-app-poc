@@ -1,3 +1,4 @@
+import { LinesBg } from '@/components/LinesBg';
 import './layout.css';
 import { NavLinks } from '@/components/NavLinks';
 
@@ -8,6 +9,8 @@ export default function StaticPageLayout({
 }) {
   return (
     <div className="page-shell">
+      <LinesBg />
+
       <div className="links">
         <NavLinks
           links={[

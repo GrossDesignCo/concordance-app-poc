@@ -62,7 +62,7 @@ export const Main = () => {
     const minWidths = {
       settings: '32ch',
       lexicon: 'min(50vw, 80ch)',
-      scriptureNav: '32ch',
+      scriptureNav: '40ch',
     };
 
     // @ts-expect-error - ts doesn't see that null won't be made a key here
