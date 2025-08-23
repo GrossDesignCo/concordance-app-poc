@@ -4086,6 +4086,87 @@ const ROOTS = {
     type: 'verb',
     description: 'to flee, wander, be a fugitive',
   },
+  // Genesis 6:2 additions
+  bachar: {
+    hebrew: 'בחר',
+    transliteration: 'bachar',
+    englishLiteral: 'to choose',
+    englishNatural: 'to choose',
+    type: 'verb',
+    description: 'to choose, select, elect, prefer',
+  },
+  henah: {
+    hebrew: 'הנה',
+    transliteration: 'henah',
+    englishLiteral: 'they',
+    englishNatural: 'they',
+    type: 'pronoun',
+    description:
+      'third person feminine plural pronoun - they (referring to feminine nouns)',
+    related: ['hu', 'hi', 'hem'],
+  },
+  // Genesis 6:3 additions
+  din: {
+    hebrew: 'דין',
+    transliteration: 'din',
+    englishLiteral: 'to judge',
+    englishNatural: 'to judge',
+    type: 'verb',
+    description: 'to judge, contend, strive with, execute judgment',
+  },
+  shagam: {
+    hebrew: 'שגם',
+    transliteration: 'shagam',
+    englishLiteral: 'moreover',
+    englishNatural: 'moreover',
+    type: 'adverb',
+    description: 'moreover, also, even, for that, in that',
+  },
+  esrim: {
+    hebrew: 'עשרים',
+    transliteration: 'esrim',
+    englishLiteral: 'twenty',
+    englishNatural: 'twenty',
+    type: 'numeral',
+    description: 'twenty, the number twenty',
+    related: ['esreh'],
+  },
+  // Genesis 6:4 additions
+  nefilim: {
+    hebrew: 'נפלים',
+    transliteration: 'nefilim',
+    englishLiteral: 'fallen_ones',
+    englishNatural: 'fallen-ones',
+    type: 'noun',
+    description: 'fallen ones, giants, those who have fallen',
+    related: ['naphal'],
+  },
+  hemah: {
+    hebrew: 'המה',
+    transliteration: 'hemah',
+    englishLiteral: 'they',
+    englishNatural: 'they',
+    type: 'pronoun',
+    description: 'third person masculine plural pronoun - they',
+    related: ['hu', 'hi', 'hem', 'henah'],
+  },
+  gibbor: {
+    hebrew: 'גבור',
+    transliteration: 'gibbor',
+    englishLiteral: 'mighty_one',
+    englishNatural: 'mighty-one',
+    type: 'noun',
+    description: 'mighty one, warrior, hero, strong man',
+  },
+  anshei: {
+    hebrew: 'אנשי',
+    transliteration: 'anshei',
+    englishLiteral: 'men-of',
+    englishNatural: 'men of',
+    type: 'noun',
+    description: 'men of, people of (construct plural of ish)',
+    related: ['ish', 'enosh'],
+  },
 } as const;
 
 export type HebrewRootKey = keyof typeof ROOTS;

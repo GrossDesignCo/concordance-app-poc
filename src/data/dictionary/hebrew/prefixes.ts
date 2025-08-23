@@ -86,7 +86,7 @@ const PREFIXES = {
     hebrew: 'בַּ',
     transliteration: 'ba',
     englishLiteral: 'in-the',
-    englishNatural: 'against',
+    englishNatural: 'in the',
   },
   yit: {
     hebrew: 'יִתְ',
