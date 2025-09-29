@@ -1,7 +1,7 @@
 In-year-of death-of the-king, He_my_Strength (Uzziah).
 
 And-I-saw ↳ my-Lord sitting over throne, high and-lifted_up, and-his-garments, filling ↳ the-temple. 
-Burning_ones were-standing from-above to-him; six wings to-one, in-two he-covers his-face, and-in-two he-covers his-feet, and-in-two he-flies.
+Burning_ones were-standing from-above to-him; six wings to-one, in-two he-covers his-faces, and-in-two he-covers his-feet, and-in-two he-flies.
 
 And-called_out this to this, and-said, 
 

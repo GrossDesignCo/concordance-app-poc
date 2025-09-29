@@ -1,7 +1,7 @@
 In the year of the death of the king, He-my-Strength (Uzziah).
 
 And I saw my Lord sitting over a throne, high and lifted-up, and his garments, filling the temple. 
-Burning-ones were standing above him; six wings to each one, in two he covers his face, and in two he covers his feet, and in two he flies.
+Burning-ones were standing above him; six wings to each one, in two he covers his faces (eyes), and in two he covers his feet, and in two he flies.
 
 And this called-out to this, and said, 
 

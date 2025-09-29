@@ -1,0 +1,375 @@
+import { Verse } from '@/types';
+
+export const jonah_1_7: Verse = {
+  meta: {
+    book: 'Jonah',
+    chapter: 1,
+    verse: 7,
+  },
+  words: [
+    {
+      hebrew: 'וַיֹּאמְרוּ',
+      transliteration: 'vaYomeru',
+      englishLiteral: 'And-said',
+      englishNatural: 'said',
+      root: 'amar',
+      prefixes: ['va'],
+      suffixes: ['u'],
+      order: {
+        hebrew: 1,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+    },
+    {
+      hebrew: 'אִישׁ',
+      transliteration: 'ish',
+      englishLiteral: 'man',
+      englishNatural: 'And man',
+      root: 'ish',
+      order: {
+        hebrew: 2,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'אֶל־',
+      transliteration: 'el-',
+      englishLiteral: 'to-',
+      englishNatural: 'to',
+      root: 'el',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'רֵעֵהוּ',
+      transliteration: 'reehu',
+      englishLiteral: 'friend-his',
+      englishNatural: 'his friend',
+      root: 'rea',
+      suffixes: ['hu'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'לְכוּ',
+      transliteration: 'lekhu',
+      englishLiteral: 'Go',
+      englishNatural: 'Go',
+      root: 'lekhu',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '2nd',
+        tense: 'imperative',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarPrefix: {
+        englishLiteral: '"',
+        englishNatural: '"',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְנַפִּילָה',
+      transliteration: 'veNapilah',
+      englishLiteral: 'and-let-us-cause-to-fall',
+      englishNatural: 'and let us cause-to-fall',
+      root: 'naphal',
+      prefixes: ['ve'],
+      suffixes: ['ah'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '1st',
+        tense: 'cohortative',
+        stem: 'hiphil',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'גוֹרָלוֹת',
+      transliteration: 'goralot',
+      englishLiteral: 'lots',
+      englishNatural: 'lots',
+      root: 'goral',
+      suffixes: ['ot'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְנֵדְעָה',
+      transliteration: 'veNedah',
+      englishLiteral: 'and-let-us-know',
+      englishNatural: 'and let us know',
+      root: 'yada',
+      prefixes: ['ve'],
+      suffixes: ['ah'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '1st',
+        tense: 'cohortative',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'בְּשֶׁלְּמִי',
+      transliteration: 'beshelmi',
+      englishLiteral: 'for-whose-sake',
+      englishNatural: 'for whose sake',
+      root: 'beshelmi',
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'הָרָעָה',
+      transliteration: 'haRaah',
+      englishLiteral: 'the-bad',
+      englishNatural: 'this bad',
+      root: 'ra',
+      prefixes: ['ha'],
+      suffixes: ['ah'],
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַזֹּאת',
+      transliteration: 'hazot',
+      englishLiteral: 'this',
+      englishNatural: 'is',
+      root: 'hazot',
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'pronoun',
+      },
+    },
+    {
+      hebrew: 'לָנוּ',
+      transliteration: 'lanu',
+      englishLiteral: 'to-us',
+      englishNatural: 'to us',
+      root: 'lanu',
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: '."',
+        englishNatural: '."',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וַיַּפִּילוּ',
+      transliteration: 'vaYapilu',
+      englishLiteral: 'And-they-caused-to-fall',
+      englishNatural: 'And they caused-to-fall',
+      root: 'naphal',
+      prefixes: ['va'],
+      suffixes: ['u'],
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'hiphil',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'גוֹרָלוֹת',
+      transliteration: 'goralot',
+      englishLiteral: 'lots',
+      englishNatural: 'lots',
+      root: 'goral',
+      suffixes: ['ot'],
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וַיִּפֹּל',
+      transliteration: 'vaYipol',
+      englishLiteral: 'and-fell',
+      englishNatural: 'fell',
+      root: 'naphal',
+      prefixes: ['va'],
+      order: {
+        hebrew: 15,
+        english: 16,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'הַגּוֹרָל',
+      transliteration: 'haGoral',
+      englishLiteral: 'the-lot',
+      englishNatural: 'and the lot',
+      root: 'goral',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 16,
+        english: 15,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'עַל־',
+      transliteration: 'al-',
+      englishLiteral: 'over-',
+      englishNatural: 'over',
+      root: 'al',
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'יוֹנָה',
+      transliteration: 'Yonah',
+      englishLiteral: 'Dove (Jonah)',
+      englishNatural: 'Dove (Jonah)',
+      root: 'yonah',
+      order: {
+        hebrew: 18,
+        english: 18,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַיֹּאמְרוּ אִישׁ אֶל־רֵעֵהוּ לְכוּ וְנַפִּילָה גוֹרָלוֹת וְנֵדְעָה בְּשֶׁלְּמִי הָרָעָה הַזֹּאת לָנוּ וַיַּפִּילוּ גוֹרָלוֹת וַיִּפֹּל הַגּוֹרָל עַל־יוֹנָה',
+    transliteration:
+      'vaYomeru ish el-reehu lekhu veNapilah goralot veNedah beshelmi haRaah hazot lanu vaYapilu goralot vaYipol haGoral al-Yonah',
+    englishLiteral:
+      'And-said man to- friend-his, "Go, and-let-us-cause-to-fall lots, and-let-us-know for-whose-sake the-bad this to-us." And-they-caused-to-fall lots, and-fell the-lot over- Dove (Jonah).',
+    englishNatural:
+      'And man said to his friend, "Go, and let us cause-to-fall lots, and let us know for whose sake this bad is to us." And they caused-to-fall lots, and the lot fell over Dove (Jonah).',
+    kjv: 'And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+  },
+};

@@ -1,0 +1,420 @@
+import { Verse } from '@/types';
+
+export const exodus_34_7: Verse = {
+  meta: {
+    book: 'Exodus',
+    chapter: 34,
+    verse: 7,
+  },
+  words: [
+    {
+      hebrew: 'נֹצֵר',
+      transliteration: 'notser',
+      englishLiteral: 'preserving',
+      englishNatural: 'preserving',
+      root: 'natsar',
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+    },
+    {
+      hebrew: 'חֶסֶד',
+      transliteration: 'chesed',
+      englishLiteral: 'steadfast_love',
+      englishNatural: 'steadfast-love',
+      root: 'chesed',
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לָאֲלָפִים',
+      transliteration: 'laAlafim',
+      englishLiteral: 'to-thousands',
+      englishNatural: 'for thousands',
+      root: 'elef',
+      prefixes: ['la'],
+      suffixes: ['im'],
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'numeral',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'נֹשֵׂא',
+      transliteration: 'nose',
+      englishLiteral: 'lifting_up',
+      englishNatural: 'lifting-up',
+      root: 'nasa',
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'עָוֹן',
+      transliteration: 'avon',
+      englishLiteral: 'twisting',
+      englishNatural: 'twisting',
+      root: 'avon',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וָפֶשַׁע',
+      transliteration: 'vaFesha',
+      englishLiteral: 'and-transgression',
+      englishNatural: 'and transgression',
+      root: 'pesha',
+      prefixes: ['va'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וְחַטָּאָה',
+      transliteration: 'veChattaah',
+      englishLiteral: 'and-sin',
+      englishNatural: 'and sin',
+      root: 'chattaah',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְנַקֵּה',
+      transliteration: 'veNakeh',
+      englishLiteral: 'and-clearing',
+      englishNatural: 'and clearing',
+      root: 'nakeh',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'infinitive_absolute',
+        stem: 'piel',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'לֹא',
+      transliteration: 'lo',
+      englishLiteral: 'not',
+      englishNatural: 'not',
+      root: 'lo',
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'יְנַקֶּה',
+      transliteration: 'yenakeh',
+      englishLiteral: 'he-will-clear',
+      englishNatural: 'he will clear',
+      root: 'nakeh',
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'piel',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'פֹּקֵד',
+      transliteration: 'poqed',
+      englishLiteral: 'visiting',
+      englishNatural: 'visiting',
+      root: 'paqad',
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'עֲוֹן',
+      transliteration: 'avon',
+      englishLiteral: 'twisting',
+      englishNatural: 'twisting',
+      root: 'avon',
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אָבוֹת',
+      transliteration: 'avot',
+      englishLiteral: 'fathers',
+      englishNatural: 'fathers',
+      root: 'avot',
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'עַל־',
+      transliteration: 'al-',
+      englishLiteral: 'over-',
+      englishNatural: 'on',
+      root: 'al',
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'בָּנִים',
+      transliteration: 'banim',
+      englishLiteral: 'sons',
+      englishNatural: 'sons',
+      root: 'ben',
+      suffixes: ['im'],
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וְעַל־',
+      transliteration: 'veAl-',
+      englishLiteral: 'and-over-',
+      englishNatural: 'and on',
+      root: 'al',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'בְּנֵי',
+      transliteration: 'beney',
+      englishLiteral: 'sons-of',
+      englishNatural: 'sons of',
+      root: 'ben',
+      prefixes: ['be'],
+      suffixes: ['ey'],
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'בָנִים',
+      transliteration: 'vanim',
+      englishLiteral: 'sons',
+      englishNatural: 'sons',
+      root: 'ben',
+      suffixes: ['im'],
+      order: {
+        hebrew: 18,
+        english: 18,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'עַל־',
+      transliteration: 'al-',
+      englishLiteral: 'over-',
+      englishNatural: 'on',
+      root: 'al',
+      order: {
+        hebrew: 19,
+        english: 19,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'שִׁלֵּשִׁים',
+      transliteration: 'shilleshim',
+      englishLiteral: 'third_ones',
+      englishNatural: 'third-ones',
+      root: 'shlishi',
+      suffixes: ['im'],
+      order: {
+        hebrew: 20,
+        english: 20,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'וְעַל־',
+      transliteration: 'veAl-',
+      englishLiteral: 'and-over-',
+      englishNatural: 'and on',
+      root: 'al',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 21,
+        english: 21,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'רִבֵּעִים',
+      transliteration: 'ribeim',
+      englishLiteral: 'fourth_ones',
+      englishNatural: 'fourth-ones',
+      root: 'revii',
+      suffixes: ['im'],
+      order: {
+        hebrew: 22,
+        english: 22,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'numeral',
+      },
+      grammarSuffix: {
+        englishLiteral: '."',
+        englishNatural: '."',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'נֹצֵר חֶסֶד לָאֲלָפִים נֹשֵׂא עָוֹן וָפֶשַׁע וְחַטָּאָה וְנַקֵּה לֹא יְנַקֶּה פֹּקֵד עֲוֹן אָבוֹת עַל־בָּנִים וְעַל־בְּנֵי בָנִים עַל־שִׁלֵּשִׁים וְעַל־רִבֵּעִים',
+    transliteration:
+      'notser chesed laAlafim nose avon vaFesha veChattaah veNakeh lo yenakeh poqed avon avot al-banim veAl-beney vanim al-shilleshim veAl-ribeim',
+    englishLiteral:
+      'preserving steadfast_love to-thousands, lifting_up twisting and-transgression and-sin, and-clearing not he-will-clear, visiting twisting fathers over- sons and-over- sons-of sons, over- third_ones and-over- fourth_ones."',
+    englishNatural:
+      'preserving steadfast-love for thousands, lifting-up twisting and transgression and sin, and clearing not he will clear, visiting twisting fathers on sons and on sons of sons, on third-ones and on fourth-ones."',
+    kjv: "Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the children's children, unto the third and to the fourth generation.",
+    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+  },
+};

@@ -38,7 +38,7 @@ export const psalms_1_5: Verse = {
         type: 'adverb',
       },
       lineBreaksBefore: {
-        english: 1
+        english: 1,
       },
     },
     {
@@ -58,8 +58,8 @@ export const psalms_1_5: Verse = {
     {
       hebrew: 'יָקֻמוּ',
       transliteration: 'yaqumu',
-      englishLiteral: 'they-will-stand',
-      englishNatural: 'will stand',
+      englishLiteral: 'they-will-stand_up',
+      englishNatural: 'will stand-up',
       root: 'qum',
       prefixes: ['ya'],
       suffixes: ['u'],
@@ -178,13 +178,15 @@ export const psalms_1_5: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'עַל כֵּן לֹא יָקֻמוּ רְשָׁעִים בַּמִּשְׁפָּט וְחַטָּאִים בַּעֲדַת צַדִּיקִים',
-    transliteration: 'al ken lo yaqumu reshaim baMishpat veChataim baAdat tzadiqim',
+    hebrew:
+      'עַל כֵּן לֹא יָקֻמוּ רְשָׁעִים בַּמִּשְׁפָּט וְחַטָּאִים בַּעֲדַת צַדִּיקִים',
+    transliteration:
+      'al ken lo yaqumu reshaim baMishpat veChataim baAdat tzadiqim',
     englishLiteral:
-      'Over so not they-will-stand wicked-ones in-judgment; and-sinners, in-assembly-of righteous-ones.',
+      'Over so not they-will-stand_up wicked-ones in-judgment; and-sinners, in-assembly-of righteous-ones.',
     englishNatural:
-      'So moreover the wicked will stand not in judgment; and sinners, in the assembly of the righteous.',
+      'So moreover the wicked will stand-up not in judgment; and sinners, in the assembly of the righteous.',
     kjv: 'Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-15' },
-},
-}; 
+    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+  },
+};

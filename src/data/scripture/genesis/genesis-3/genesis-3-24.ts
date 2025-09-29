@@ -147,8 +147,8 @@ export const genesis_3_24: Verse = {
     {
       hebrew: 'הַכְּרֻבִים',
       transliteration: 'haKeruvim',
-      englishLiteral: 'the-Guardians_of_the_Approach',
-      englishNatural: 'the Guardians-of-the-Approach',
+      englishLiteral: 'the-Approaching_Ones',
+      englishNatural: 'the Approaching-Ones',
       root: 'keruv',
       prefixes: ['ha'],
       suffixes: ['im'],
@@ -336,10 +336,10 @@ export const genesis_3_24: Verse = {
     transliteration:
       'vayGaresh et-haAdam vayYashken miQedem leGan-Eden et-haKeruvim veEt laHat haCherev haMithapekhet lishMor et-derekh etz haChayyim',
     englishLiteral:
-      'And-he-banished ↳ the-human; and-he-caused-to-dwell from-east to-Garden Delight (Eden) ↳ the-Guardians_of_the_Approach; and-↳ flame the-sword, the-overturning, to-keep ↳ way tree the-lives.',
+      'And-he-banished ↳ the-human; and-he-caused-to-dwell from-east to-Garden Delight (Eden) ↳ the-Approaching_Ones; and-↳ flame the-sword, the-overturning, to-keep ↳ way tree the-lives.',
     englishNatural:
-      'And he banished the human; and he caused to dwell east of Garden of Delight (Eden) the Guardians-of-the-Approach; and the Flame of the Sword, the Overturning, to keep the way to the Tree of Life.',
+      'And he banished the human; and he caused to dwell east of Garden of Delight (Eden) the Approaching-Ones; and the Flame of the Sword, the Overturning, to keep the way to the Tree of Life.',
     kjv: 'So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
   },
 };

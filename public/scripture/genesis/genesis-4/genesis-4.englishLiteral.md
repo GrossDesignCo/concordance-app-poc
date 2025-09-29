@@ -26,7 +26,7 @@ and-to-you its-fixation, and-you you-will-rule- over-it."
 
 And-he-said Acquired (Cain) to Vapor (Abel) his-brother;
 And-it-was in-their-being in-the-field,
-and-he-stood Acquired (Cain) to- Vapor (Abel) his-brother,
+and-he-stood_up Acquired (Cain) to- Vapor (Abel) his-brother,
 and-he-killed-him.
 
 And-he-said He_Who_Is to Acquired (Cain),

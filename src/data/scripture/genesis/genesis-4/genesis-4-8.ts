@@ -163,8 +163,8 @@ export const genesis_4_8: Verse = {
     {
       hebrew: 'וַיָּקָם',
       transliteration: 'vayYaqam',
-      englishLiteral: 'and-he-stood',
-      englishNatural: 'stood',
+      englishLiteral: 'and-he-stood_up',
+      englishNatural: 'stood-up',
       root: 'qum',
       prefixes: ['va'],
       order: {
@@ -278,10 +278,10 @@ export const genesis_4_8: Verse = {
     transliteration:
       'vayYomer Qayin el-Hevel achiv vayHi biHyotam basadeh vayYaqam Qayin el-Hevel achiv vayYahargehu',
     englishLiteral:
-      'And-he-said Acquired (Cain) to Vapor (Abel) his-brother; And-it-was in-their-being in-the-field, and-he-stood Acquired (Cain) to- Vapor (Abel) his-brother, and-he-killed-him.',
+      'And-he-said Acquired (Cain) to Vapor (Abel) his-brother; And-it-was in-their-being in-the-field, and-he-stood_up Acquired (Cain) to- Vapor (Abel) his-brother, and-he-killed-him.',
     englishNatural:
-      'And Acquired (Cain) said to Vapor (Abel) his brother; and it was in their being in the field, and Acquired (Cain) stood to Vapor (Abel) his brother, and killed him.',
+      'And Acquired (Cain) said to Vapor (Abel) his brother; and it was in their being in the field, and Acquired (Cain) stood-up to Vapor (Abel) his brother, and killed him.',
     kjv: 'And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+  },
 };

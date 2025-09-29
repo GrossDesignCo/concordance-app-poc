@@ -1,5 +1,5 @@
-import { GreekWordMorphology } from "@/types";
-import { HebrewRootKey } from "../hebrew";
+import { GreekWordMorphology } from '@/types';
+import { HebrewRootKey } from '../hebrew';
 
 /**
  * Dictionary of Greek root words
@@ -569,7 +569,6 @@ export interface GreekRootElement {
   description?: string;
   related?: readonly GreekRootKey[];
   translatedFrom?: readonly HebrewRootKey[];
-
 }
 
 // Type-safe export for Greek Dictionary

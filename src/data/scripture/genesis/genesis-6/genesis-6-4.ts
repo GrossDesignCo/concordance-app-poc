@@ -388,7 +388,7 @@ export const genesis_6_4: Verse = {
       transliteration: 'anshei',
       englishLiteral: 'men-of',
       englishNatural: 'men of',
-      root: 'anshei',
+      root: 'ish',
       order: {
         hebrew: 22,
         english: 22,
@@ -435,7 +435,6 @@ export const genesis_6_4: Verse = {
     englishNatural:
       'The fallen-ones were in the land in those days; and also after so, which the sons of God came to the daughters of Human, and to them they birthed the mighty-ones, which from the-age, men of the name.',
     kjv: 'There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare them children, the same became mighty men which were of old, men of renown.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
   },
 };
-

@@ -26,7 +26,7 @@ and to you is its fixation, and you will rule over it."
 
 And Acquired (Cain) said to Vapor (Abel) his brother;
 and it was in their being in the field,
-and Acquired (Cain) stood to Vapor (Abel) his brother,
+and Acquired (Cain) stood-up to Vapor (Abel) his brother,
 and killed him.
 
 And He-Who-Is said to Acquired (Cain),

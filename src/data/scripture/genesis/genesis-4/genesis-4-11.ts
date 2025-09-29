@@ -12,7 +12,7 @@ export const genesis_4_11: Verse = {
       transliteration: 'veAttah',
       englishLiteral: 'And-now',
       englishNatural: 'And now',
-      root: 'attah',
+      root: 'atah',
       prefixes: ['ve'],
       order: {
         hebrew: 1,
@@ -48,7 +48,7 @@ export const genesis_4_11: Verse = {
       transliteration: 'attah',
       englishLiteral: 'you',
       englishNatural: 'are you',
-      root: 'attah',
+      root: 'atah',
       order: {
         hebrew: 3,
         english: 3,
@@ -270,6 +270,6 @@ export const genesis_4_11: Verse = {
     englishNatural:
       'And now cursed are you, from the ground; which has opened her mouth to take the blood of your brother, from your hand.',
     kjv: "And now art thou cursed from the earth, which hath opened her mouth to receive thy brother's blood from thy hand.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+  },
 };

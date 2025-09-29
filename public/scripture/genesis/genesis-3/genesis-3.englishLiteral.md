@@ -84,6 +84,6 @@ And-he-sent-him He_Who_Is Gods from-Garden Delight (Eden);
 to-serve ↳ the-soil which was-taken from-there.
 
 And-he-banished ↳ the-human; 
-and-he-caused-to-dwell from-east to-Garden Delight (Eden) ↳ the-Guardians_of_the_Approach; 
+and-he-caused-to-dwell from-east to-Garden Delight (Eden) ↳ the-Approaching_Ones; 
 and-↳ flame the-sword, the-overturning, 
 to-keep ↳ way tree the-lives.

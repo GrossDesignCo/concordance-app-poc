@@ -13,7 +13,7 @@ and all which he makes, it prospers.
 Not so the wicked, 
 that if as chaff which the wind drives-away.
 
-So moreover the wicked will stand not in judgment; 
+So moreover the wicked will stand-up not in judgment; 
 and sinners, in the assembly of the righteous.
 
 That He-Who-Is knows the way of the righteous, 

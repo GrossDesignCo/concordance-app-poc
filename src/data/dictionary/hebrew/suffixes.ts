@@ -309,6 +309,38 @@ const SUFFIXES = {
     englishNatural: 'your',
     function: '2nd person masculine singular possessive',
   },
+  // Added for Jonah 1:5
+  eihem: {
+    hebrew: 'עליהם',
+    transliteration: 'eihem',
+    englishLiteral: 'upon-them',
+    englishNatural: 'upon them',
+    function: '3rd person masculine plural object with preposition',
+  },
+  // Added for Jonah 1:8
+  tekha: {
+    hebrew: 'תך',
+    transliteration: 'tekha',
+    englishLiteral: 'your',
+    englishNatural: 'your',
+    function: '2nd person masculine singular possessive',
+  },
+  // Exodus 3:15 additions
+  i_possessive: {
+    hebrew: 'י',
+    transliteration: 'i',
+    englishLiteral: 'my',
+    englishNatural: 'my',
+    function: '1st person singular possessive',
+  },
+  // Jonah 3:2 additions
+  ha_feminine: {
+    hebrew: 'הָ',
+    transliteration: 'ha',
+    englishLiteral: 'her',
+    englishNatural: 'her',
+    function: '3rd person feminine singular object',
+  },
 } as const;
 
 type SuffixKey = keyof typeof SUFFIXES;
