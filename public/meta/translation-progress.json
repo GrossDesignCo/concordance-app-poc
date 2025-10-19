@@ -28107,18 +28107,18 @@
             "7": true,
             "8": true,
             "9": true,
-            "10": false
+            "10": true
           },
-          "progress": 90
+          "progress": 100
         },
         "4": {
           "chapterNumber": 4,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
-            "5": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
             "6": false,
             "7": false,
             "8": false,
@@ -28126,10 +28126,10 @@
             "10": false,
             "11": false
           },
-          "progress": 0
+          "progress": 45.45454545454545
         }
       },
-      "progress": 45.83333333333333
+      "progress": 58.333333333333336
     },
     "MICAH": {
       "bookName": "Micah",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 0.7234028871813009
+  "totalProgress": 0.7426936308394688
 }
