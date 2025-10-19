@@ -1,0 +1,37 @@
+{
+  "key": "arnion",
+  "greek": "ἀρνίον",
+  "transliteration": "arnion",
+  "englishLiteral": "lamb",
+  "englishNatural": "lamb",
+  "wordInstances": [
+    {
+      "greek": "ἀρνία",
+      "transliteration": "arnia",
+      "englishLiteral": "lambs",
+      "englishNatural": "lambs",
+      "root": "arnion",
+      "order": {
+        "greek": 29,
+        "english": 31
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "neuter",
+        "number": "plural",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

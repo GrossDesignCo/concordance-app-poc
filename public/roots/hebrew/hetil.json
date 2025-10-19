@@ -1,0 +1,71 @@
+{
+  "key": "hetil",
+  "hebrew": "הטיל",
+  "transliteration": "hetil",
+  "englishLiteral": "to hurl",
+  "englishNatural": "to hurl",
+  "type": "verb",
+  "description": "to throw, cast, hurl, send forth",
+  "wordInstances": [
+    {
+      "hebrew": "הֵטִיל",
+      "transliteration": "hetil",
+      "englishLiteral": "hurled",
+      "englishNatural": "hurled",
+      "root": "hetil",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "וַיָּטִלוּ",
+      "transliteration": "vaYatilu",
+      "englishLiteral": "and-hurled",
+      "englishNatural": "and hurled",
+      "root": "hetil",
+      "prefixes": [
+        "va"
+      ],
+      "suffixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

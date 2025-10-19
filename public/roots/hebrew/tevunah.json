@@ -1,0 +1,44 @@
+{
+  "key": "tevunah",
+  "hebrew": "תְּבוּנָה",
+  "transliteration": "tevunah",
+  "englishLiteral": "understanding",
+  "englishNatural": "understanding",
+  "type": "noun",
+  "description": "abstract noun, used in Proverbs as a name, understanding, intelligence, discernment",
+  "related": [
+    "bin"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וּתְבוּנָה",
+      "transliteration": "uTevunah",
+      "englishLiteral": "and-Understanding",
+      "englishNatural": "and Understanding",
+      "root": "tevunah",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

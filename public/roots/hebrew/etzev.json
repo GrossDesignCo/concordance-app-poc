@@ -1,0 +1,117 @@
+{
+  "key": "etzev",
+  "hebrew": "עֶצֶב",
+  "transliteration": "etzev",
+  "englishLiteral": "pain",
+  "englishNatural": "pain",
+  "type": "noun",
+  "description": "pain, sorrow, grief, toil",
+  "wordInstances": [
+    {
+      "hebrew": "עִצְּבוֹנֵךְ",
+      "transliteration": "itzvonek",
+      "englishLiteral": "pain-your",
+      "englishNatural": "your pain",
+      "root": "etzev",
+      "suffixes": [
+        "ekh"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "בְּעֶצֶב",
+      "transliteration": "beEtzev",
+      "englishLiteral": "in-pain",
+      "englishNatural": "in pain",
+      "root": "etzev",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "בְּעִצָּבוֹן",
+      "transliteration": "beItzavon",
+      "englishLiteral": "in-pain",
+      "englishNatural": "in pain",
+      "root": "etzev",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 19,
+        "english": 19
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "וּמֵעִצְּבוֹן",
+      "transliteration": "uMeItzvon",
+      "englishLiteral": "and-from-pain",
+      "englishNatural": "and from the pain",
+      "root": "etzev",
+      "prefixes": [
+        "u",
+        "me"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular",
+        "state": "absolute"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 29
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

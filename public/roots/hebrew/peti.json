@@ -1,0 +1,44 @@
+{
+  "key": "peti",
+  "hebrew": "פתי",
+  "transliteration": "peti",
+  "englishLiteral": "simple",
+  "englishNatural": "simple",
+  "type": "adjective",
+  "wordInstances": [
+    {
+      "hebrew": "וּפְתָיִים",
+      "transliteration": "uFetayim",
+      "englishLiteral": "but-simples",
+      "englishNatural": "but the simple",
+      "root": "peti",
+      "prefixes": [
+        "u"
+      ],
+      "suffixes": [
+        "im"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "state": "absolute",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

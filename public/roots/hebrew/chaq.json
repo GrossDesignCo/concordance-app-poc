@@ -1,0 +1,44 @@
+{
+  "key": "chaq",
+  "hebrew": "חָקַק",
+  "transliteration": "chaq",
+  "englishLiteral": "to inscribe",
+  "englishNatural": "to inscribe",
+  "type": "verb",
+  "description": "to inscribe, engrave, decree, set bounds",
+  "wordInstances": [
+    {
+      "hebrew": "בְּחוּקוֹ",
+      "transliteration": "beChuqo",
+      "englishLiteral": "in-inscribing-his",
+      "englishNatural": "in his inscribing",
+      "root": "chaq",
+      "prefixes": [
+        "be"
+      ],
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 27
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

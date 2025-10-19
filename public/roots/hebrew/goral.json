@@ -1,0 +1,96 @@
+{
+  "key": "goral",
+  "hebrew": "גורל",
+  "transliteration": "goral",
+  "englishLiteral": "lot",
+  "englishNatural": "lot",
+  "type": "noun",
+  "description": "lot, portion, allotment (for decision making)",
+  "wordInstances": [
+    {
+      "hebrew": "גוֹרָלוֹת",
+      "transliteration": "goralot",
+      "englishLiteral": "lots",
+      "englishNatural": "lots",
+      "root": "goral",
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "גוֹרָלוֹת",
+      "transliteration": "goralot",
+      "englishLiteral": "lots",
+      "englishNatural": "lots",
+      "root": "goral",
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "הַגּוֹרָל",
+      "transliteration": "haGoral",
+      "englishLiteral": "the-lot",
+      "englishNatural": "and the lot",
+      "root": "goral",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

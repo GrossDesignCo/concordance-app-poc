@@ -1,0 +1,76 @@
+{
+  "key": "terem",
+  "hebrew": "טרם",
+  "transliteration": "terem",
+  "englishLiteral": "not-yet",
+  "englishNatural": "not yet",
+  "type": "adverb",
+  "wordInstances": [
+    {
+      "hebrew": "טֶרֶם",
+      "transliteration": "terem",
+      "englishLiteral": "not-yet",
+      "englishNatural": "not yet",
+      "root": "terem",
+      "order": {
+        "hebrew": 4,
+        "english": 5
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "טֶרֶם",
+      "transliteration": "terem",
+      "englishLiteral": "not-yet",
+      "englishNatural": "had not yet",
+      "root": "terem",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "בְּטֶרֶם",
+      "transliteration": "beTerem",
+      "englishLiteral": "In-before",
+      "englishNatural": "In before",
+      "root": "terem",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 25
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

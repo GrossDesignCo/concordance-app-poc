@@ -1,0 +1,120 @@
+{
+  "key": "ego",
+  "greek": "ἐγὼ",
+  "transliteration": "ego",
+  "englishLiteral": "I",
+  "englishNatural": "I",
+  "translatedFrom": [
+    "yhwh"
+  ],
+  "wordInstances": [
+    {
+      "greek": "μου",
+      "transliteration": "mou",
+      "englishLiteral": "my",
+      "englishNatural": "of mine",
+      "root": "ego",
+      "order": {
+        "greek": 30,
+        "english": 32
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "1st",
+        "number": "singular",
+        "case": "genitive"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "μου",
+      "transliteration": "mou",
+      "englishLiteral": "my",
+      "englishNatural": "of mine",
+      "root": "ego",
+      "order": {
+        "greek": 23,
+        "english": 23
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "1st",
+        "number": "singular",
+        "case": "genitive"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "μου",
+      "transliteration": "mou",
+      "englishLiteral": "of-mine",
+      "englishNatural": "of mine",
+      "root": "ego",
+      "order": {
+        "greek": 36,
+        "english": 36
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "1st",
+        "number": "singular",
+        "case": "genitive"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "greek": "ἐγὼ",
+      "transliteration": "ego",
+      "englishLiteral": "I",
+      "englishNatural": "I",
+      "root": "ego",
+      "order": {
+        "greek": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "1st",
+        "number": "singular",
+        "case": "nominative"
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": [
+    "yhwh"
+  ]
+}

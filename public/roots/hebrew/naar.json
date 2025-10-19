@@ -1,0 +1,45 @@
+{
+  "key": "naar",
+  "hebrew": "נַעַר",
+  "transliteration": "naar",
+  "englishLiteral": "young_man",
+  "englishNatural": "young-man",
+  "type": "noun",
+  "description": "young man, youth, lad, servant",
+  "wordInstances": [
+    {
+      "hebrew": "לְנַעַר",
+      "transliteration": "lenaar",
+      "englishLiteral": "to-young_man",
+      "englishNatural": "to a young man",
+      "root": "naar",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

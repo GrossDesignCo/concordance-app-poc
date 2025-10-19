@@ -1,0 +1,64 @@
+{
+  "key": "mahalakh",
+  "hebrew": "מהלך",
+  "transliteration": "mahalakh",
+  "englishLiteral": "journey",
+  "englishNatural": "journey",
+  "type": "noun",
+  "description": "journey, course, way of walking",
+  "related": [
+    "halakh"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "מַהֲלַךְ",
+      "transliteration": "mahalakh",
+      "englishLiteral": "journey-of",
+      "englishNatural": "a journey of",
+      "root": "mahalakh",
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "מַהֲלַךְ",
+      "transliteration": "mahalakh",
+      "englishLiteral": "journey-of",
+      "englishNatural": "a journey of",
+      "root": "mahalakh",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

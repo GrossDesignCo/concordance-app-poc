@@ -1,0 +1,59 @@
+{
+  "key": "erekh",
+  "hebrew": "ארך",
+  "transliteration": "erekh",
+  "englishLiteral": "long",
+  "englishNatural": "long",
+  "type": "adjective",
+  "description": "long, lengthy, extended",
+  "related": [
+    "orekh"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "אֶרֶךְ",
+      "transliteration": "erekh",
+      "englishLiteral": "long",
+      "englishNatural": "long of",
+      "root": "erekh",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "adjective",
+        "state": "construct"
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "אֶרֶךְ",
+      "transliteration": "erekh",
+      "englishLiteral": "long",
+      "englishNatural": "long",
+      "root": "erekh",
+      "order": {
+        "hebrew": 26,
+        "english": 26
+      },
+      "morphology": {
+        "type": "adjective"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

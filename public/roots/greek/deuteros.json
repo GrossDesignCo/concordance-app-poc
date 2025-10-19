@@ -1,0 +1,41 @@
+{
+  "key": "deuteros",
+  "greek": "δεύτερος",
+  "transliteration": "deuteros",
+  "englishLiteral": "second",
+  "englishNatural": "second",
+  "wordInstances": [
+    {
+      "greek": "δεύτερον",
+      "transliteration": "deuteron",
+      "englishLiteral": "second",
+      "englishNatural": "the second time",
+      "root": "deuteros",
+      "order": {
+        "greek": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "adjective",
+        "gender": "neuter",
+        "number": "singular",
+        "case": "accusative",
+        "degree": "positive"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

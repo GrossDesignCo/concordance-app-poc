@@ -1,0 +1,44 @@
+{
+  "key": "rav_noun",
+  "hebrew": "רב",
+  "transliteration": "rav",
+  "englishLiteral": "chief",
+  "englishNatural": "chief",
+  "type": "noun",
+  "description": "Hebrew \"rav\"/many/much in noun form,chief, captain, master, great one",
+  "related": [
+    "rav"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "רַב",
+      "transliteration": "rav",
+      "englishLiteral": "chief",
+      "englishNatural": "And the chief",
+      "root": "rav_noun",
+      "order": {
+        "hebrew": 3,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

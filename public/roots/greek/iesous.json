@@ -1,0 +1,45 @@
+{
+  "key": "iesous",
+  "greek": "Ἰησοῦς",
+  "transliteration": "Iesous",
+  "englishLiteral": "Savior (Jesus)",
+  "englishNatural": "Savior (Jesus)",
+  "translatedFrom": [
+    "Yeshua"
+  ],
+  "wordInstances": [
+    {
+      "greek": "Ἰησοῦς",
+      "transliteration": "Iēsous",
+      "englishLiteral": "Savior (Jesus)",
+      "englishNatural": "Savior (Jesus)",
+      "root": "iesous",
+      "order": {
+        "greek": 9,
+        "english": 5
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "nominative",
+        "state": "definite"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": [
+    "Yeshua"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "key": "hazot",
+  "hebrew": "הזאת",
+  "transliteration": "hazot",
+  "englishLiteral": "this",
+  "englishNatural": "this",
+  "type": "pronoun",
+  "description": "this (feminine demonstrative with definite article)",
+  "related": [
+    "zot"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "הַזֹּאת",
+      "transliteration": "hazot",
+      "englishLiteral": "this",
+      "englishNatural": "is",
+      "root": "hazot",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "pronoun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "הַזֹּאת",
+      "transliteration": "hazot",
+      "englishLiteral": "this",
+      "englishNatural": "this",
+      "root": "hazot",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "pronoun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

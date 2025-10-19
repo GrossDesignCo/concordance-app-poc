@@ -1,0 +1,43 @@
+{
+  "key": "gavah",
+  "hebrew": "גָּבַהּ",
+  "transliteration": "gavah",
+  "englishLiteral": "to be_tall",
+  "englishNatural": "to be-tall",
+  "type": "verb",
+  "description": "to be tall, exalted, lofty",
+  "related": [
+    "rum"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "גָבַהּ",
+      "transliteration": "gavah",
+      "englishLiteral": "is-tall",
+      "englishNatural": "is tall",
+      "root": "gavah",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

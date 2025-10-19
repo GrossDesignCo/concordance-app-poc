@@ -1,0 +1,42 @@
+{
+  "key": "shoham",
+  "hebrew": "שֹּׁהַם",
+  "transliteration": "shoham",
+  "englishLiteral": "onyx",
+  "englishNatural": "onyx",
+  "description": "A precious stone, usually translated as onyx or beryl",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "הַשֹּׁהַם׃",
+      "transliteration": "haShoham",
+      "englishLiteral": "the-onyx",
+      "englishNatural": "of onyx",
+      "root": "shoham",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 12
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

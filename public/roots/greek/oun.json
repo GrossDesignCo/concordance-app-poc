@@ -1,0 +1,52 @@
+{
+  "key": "oun",
+  "greek": "οὖν",
+  "transliteration": "oun",
+  "englishLiteral": "therefore",
+  "englishNatural": "therefore",
+  "wordInstances": [
+    {
+      "greek": "οὖν",
+      "transliteration": "oun",
+      "englishLiteral": "therefore",
+      "englishNatural": "therefore",
+      "root": "oun",
+      "order": {
+        "greek": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "conjunction"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "οὖν",
+      "transliteration": "oun",
+      "englishLiteral": "therefore",
+      "englishNatural": "therefore",
+      "root": "oun",
+      "order": {
+        "greek": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "conjunction"
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

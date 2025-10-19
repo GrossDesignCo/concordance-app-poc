@@ -1,0 +1,69 @@
+{
+  "key": "amad",
+  "hebrew": "עָמַד",
+  "transliteration": "amad",
+  "englishLiteral": "to stand",
+  "englishNatural": "to stand",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "עֹמְדִים",
+      "transliteration": "omedim",
+      "englishLiteral": "were-standing",
+      "englishNatural": "were standing",
+      "root": "amad",
+      "suffixes": [
+        "im"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "participle",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "עָמָד",
+      "transliteration": "amad",
+      "englishLiteral": "has-stood",
+      "englishNatural": "has stood",
+      "root": "amad",
+      "order": {
+        "hebrew": 11,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

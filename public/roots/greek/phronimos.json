@@ -1,0 +1,41 @@
+{
+  "key": "phronimos",
+  "greek": "φρόνιμοι",
+  "transliteration": "phronimoi",
+  "englishLiteral": "shrewd",
+  "englishNatural": "shrewd",
+  "translatedFrom": [
+    "arum"
+  ],
+  "wordInstances": [
+    {
+      "greek": "φρόνιμοι",
+      "transliteration": "phronimoi",
+      "englishLiteral": "shrewd",
+      "englishNatural": "shrewd",
+      "root": "phronimos",
+      "order": {
+        "greek": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "adjective",
+        "gender": "masculine",
+        "number": "plural",
+        "case": "nominative"
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": [
+    "arum"
+  ]
+}

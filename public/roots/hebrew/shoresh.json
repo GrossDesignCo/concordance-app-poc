@@ -1,0 +1,37 @@
+{
+  "key": "shoresh",
+  "hebrew": "שרש",
+  "transliteration": "shoresh",
+  "englishLiteral": "root",
+  "englishNatural": "root",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "מִשֹּׁרֶשׁ",
+      "transliteration": "miShoresh",
+      "englishLiteral": "from-root",
+      "englishNatural": "from the root",
+      "root": "shoresh",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,45 @@
+{
+  "key": "samach",
+  "hebrew": "שָׂמַח",
+  "transliteration": "samach",
+  "englishLiteral": "to rejoice",
+  "englishNatural": "to rejoice",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "תִּשְׂמְחִי",
+      "transliteration": "tiSmechi",
+      "englishLiteral": "you-shall-rejoice",
+      "englishNatural": "rejoice",
+      "root": "samach",
+      "prefixes": [
+        "ti"
+      ],
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

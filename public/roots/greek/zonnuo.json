@@ -1,0 +1,62 @@
+{
+  "key": "zonnuo",
+  "greek": "ζώννυμι",
+  "transliteration": "zonnuo",
+  "englishLiteral": "gird",
+  "englishNatural": "gird",
+  "wordInstances": [
+    {
+      "greek": "ἐζώννυες",
+      "transliteration": "ezōnnues",
+      "englishLiteral": "you-girded",
+      "englishNatural": "you girded",
+      "root": "zonnuo",
+      "order": {
+        "greek": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "imperfect",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "2nd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    },
+    {
+      "greek": "ζώσει",
+      "transliteration": "zōsei",
+      "englishLiteral": "will-gird",
+      "englishNatural": "will gird",
+      "root": "zonnuo",
+      "order": {
+        "greek": 24,
+        "english": 23
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "future",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

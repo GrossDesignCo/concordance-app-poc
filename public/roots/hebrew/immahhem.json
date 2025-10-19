@@ -1,0 +1,38 @@
+{
+  "key": "immahhem",
+  "hebrew": "עמהם",
+  "transliteration": "immahhem",
+  "englishLiteral": "with-them",
+  "englishNatural": "with them",
+  "type": "preposition",
+  "description": "with them (preposition with masculine plural suffix)",
+  "related": [
+    "im_with"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "עִמָּהֶם",
+      "transliteration": "immahhem",
+      "englishLiteral": "with-them",
+      "englishNatural": "with them to",
+      "root": "immahhem",
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

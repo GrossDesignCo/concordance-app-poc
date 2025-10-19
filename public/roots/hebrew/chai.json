@@ -1,0 +1,46 @@
+{
+  "key": "chai",
+  "hebrew": "חַי",
+  "transliteration": "chai",
+  "englishLiteral": "living",
+  "englishNatural": "living",
+  "type": "adjective",
+  "description": "alive, living, having life",
+  "related": [
+    "chayah",
+    "chayyim"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "חָי׃",
+      "transliteration": "chai",
+      "englishLiteral": "Living",
+      "englishNatural": "Living",
+      "root": "chai",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 20
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

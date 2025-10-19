@@ -1,0 +1,42 @@
+{
+  "key": "aristao",
+  "greek": "ἀριστάω",
+  "transliteration": "aristao",
+  "englishLiteral": "dine",
+  "englishNatural": "dine",
+  "wordInstances": [
+    {
+      "greek": "ἠρίστησαν",
+      "transliteration": "ēristēsan",
+      "englishLiteral": "they-meal_shared",
+      "englishNatural": "they had meal-shared",
+      "root": "aristao",
+      "order": {
+        "greek": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "aorist",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "plural"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,39 @@
+{
+  "key": "shatal",
+  "hebrew": "שָׁתַל",
+  "transliteration": "shatal",
+  "englishLiteral": "to plant",
+  "englishNatural": "to plant",
+  "type": "verb",
+  "description": "to plant, transplant, set in place",
+  "wordInstances": [
+    {
+      "hebrew": "שָׁתוּל",
+      "transliteration": "shatul",
+      "englishLiteral": "planted",
+      "englishNatural": "planted",
+      "root": "shatal",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

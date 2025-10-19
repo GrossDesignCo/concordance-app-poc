@@ -1,0 +1,40 @@
+{
+  "key": "pesha",
+  "hebrew": "פשע",
+  "transliteration": "pesha",
+  "englishLiteral": "transgression",
+  "englishNatural": "transgression",
+  "type": "noun",
+  "description": "transgression, rebellion, revolt, breach of trust",
+  "wordInstances": [
+    {
+      "hebrew": "וָפֶשַׁע",
+      "transliteration": "vaFesha",
+      "englishLiteral": "and-transgression",
+      "englishNatural": "and transgression",
+      "root": "pesha",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

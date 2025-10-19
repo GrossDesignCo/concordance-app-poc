@@ -1,0 +1,38 @@
+{
+  "key": "al_khen",
+  "hebrew": "עַל כֵּן",
+  "transliteration": "al ken",
+  "englishLiteral": "therefore",
+  "englishNatural": "therefore",
+  "type": "conjunction",
+  "description": "therefore, for this reason, on account of this",
+  "wordInstances": [
+    {
+      "hebrew": "עַל",
+      "transliteration": "al",
+      "englishLiteral": "Over",
+      "englishNatural": "moreover",
+      "root": "al_khen",
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "conjunction"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

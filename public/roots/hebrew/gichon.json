@@ -1,0 +1,39 @@
+{
+  "key": "gichon",
+  "hebrew": "גִּיחוֹן",
+  "transliteration": "gichon",
+  "englishLiteral": "Gusher (Gichon)",
+  "englishNatural": "Gusher (Gichon)",
+  "description": "Proper noun, river name in Eden, possibly \"gushing\" or \"bursting forth\"",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "גִּיחוֹן",
+      "transliteration": "Gichon",
+      "englishLiteral": "Gusher (Gichon)",
+      "englishNatural": "Gusher (Gichon)",
+      "root": "gichon",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 13
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

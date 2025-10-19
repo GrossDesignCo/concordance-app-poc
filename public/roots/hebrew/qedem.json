@@ -1,0 +1,168 @@
+{
+  "key": "qedem",
+  "hebrew": "קדם",
+  "transliteration": "qedem",
+  "englishLiteral": "east",
+  "englishNatural": "east",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "קִדְמַת",
+      "transliteration": "qidmat",
+      "englishLiteral": "east-of",
+      "englishNatural": "east of",
+      "root": "qedem",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "מִקֶּדֶם",
+      "transliteration": "miQedem",
+      "englishLiteral": "from-east",
+      "englishNatural": "from the east",
+      "root": "qedem",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "מִקֶּדֶם",
+      "transliteration": "miQedem",
+      "englishLiteral": "from-east",
+      "englishNatural": "east",
+      "root": "qedem",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "קִדְמַת־",
+      "transliteration": "qidmat-",
+      "englishLiteral": "east-",
+      "englishNatural": "east",
+      "root": "qedem",
+      "order": {
+        "hebrew": 8,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "מִקֶּדֶם",
+      "transliteration": "miQedem",
+      "englishLiteral": "from-east",
+      "englishNatural": "from east",
+      "root": "qedem",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "קֶדֶם",
+      "transliteration": "qedem",
+      "englishLiteral": "before",
+      "englishNatural": "before",
+      "root": "qedem",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "מִקַּדְמֵי־",
+      "transliteration": "miQadmei",
+      "englishLiteral": "from-east-of",
+      "englishNatural": "from the-east of",
+      "root": "qedem",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 23
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

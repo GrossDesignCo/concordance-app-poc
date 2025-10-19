@@ -1,0 +1,46 @@
+{
+  "key": "navel",
+  "hebrew": "נָבֵל",
+  "transliteration": "navel",
+  "englishLiteral": "to wither",
+  "englishNatural": "to wither",
+  "type": "verb",
+  "description": "to wither, fade, fall away",
+  "wordInstances": [
+    {
+      "hebrew": "יִבּוֹל",
+      "transliteration": "yibol",
+      "englishLiteral": "it-withers",
+      "englishNatural": "withers",
+      "root": "navel",
+      "prefixes": [
+        "yi"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,51 @@
+{
+  "key": "mishan",
+  "hebrew": "מִשְׁעֶנֶת",
+  "transliteration": "mishan",
+  "englishLiteral": "staff",
+  "englishNatural": "staff",
+  "type": "noun",
+  "description": "staff, support, walking stick",
+  "related": [
+    "shaan"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וּמִשְׁעַנְתֶּךָ",
+      "transliteration": "uMishantekha",
+      "englishLiteral": "and-your-staff",
+      "englishNatural": "and your staff",
+      "root": "mishan",
+      "prefixes": [
+        "u"
+      ],
+      "suffixes": [
+        "kha"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "2nd",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,41 @@
+{
+  "key": "qots",
+  "hebrew": "קוֹץ",
+  "transliteration": "qots",
+  "englishLiteral": "thorn",
+  "englishNatural": "thorn",
+  "type": "noun",
+  "description": "sharp plant growth, thorn, bramble",
+  "wordInstances": [
+    {
+      "hebrew": "וְקוֹץ",
+      "transliteration": "veQots",
+      "englishLiteral": "And-thorn",
+      "englishNatural": "And thorn",
+      "root": "qots",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 18
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

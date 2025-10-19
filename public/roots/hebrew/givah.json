@@ -1,0 +1,40 @@
+{
+  "key": "givah",
+  "hebrew": "גִּבְעָה",
+  "transliteration": "givah",
+  "englishLiteral": "hill",
+  "englishNatural": "hill",
+  "type": "noun",
+  "description": "hill, height, elevated place",
+  "wordInstances": [
+    {
+      "hebrew": "גְבָעוֹת",
+      "transliteration": "gevaot",
+      "englishLiteral": "hills",
+      "englishNatural": "hills",
+      "root": "givah",
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 25
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

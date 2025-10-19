@@ -1,0 +1,90 @@
+{
+  "key": "Adah",
+  "hebrew": "עָדָה",
+  "transliteration": "Adah",
+  "englishLiteral": "Ornament (Adah)",
+  "englishNatural": "Ornament (Adah)",
+  "type": "noun",
+  "description": "proper name, Adah, meaning \"ornament\" or \"beauty\"",
+  "wordInstances": [
+    {
+      "hebrew": "עָדָה",
+      "transliteration": "Adah",
+      "englishLiteral": "Ornament (Adah)",
+      "englishNatural": "Ornament (Adah)",
+      "root": "Adah",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "עָדָה",
+      "transliteration": "Adah",
+      "englishLiteral": "Ornament (Adah)",
+      "englishNatural": "And Ornament (Adah)",
+      "root": "Adah",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "עָדָה",
+      "transliteration": "Adah",
+      "englishLiteral": "Ornament (Adah)",
+      "englishNatural": "Ornament (Adah)",
+      "root": "Adah",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

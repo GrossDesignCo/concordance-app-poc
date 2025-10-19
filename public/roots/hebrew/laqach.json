@@ -1,0 +1,255 @@
+{
+  "key": "laqach",
+  "hebrew": "לקח",
+  "transliteration": "laqach",
+  "englishLiteral": "take",
+  "englishNatural": "take",
+  "description": "to take, receive, capture, seize",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "לֻקָּחְתָּ",
+      "transliteration": "luqachta",
+      "englishLiteral": "you-were-taken",
+      "englishNatural": "you were taken",
+      "root": "laqach",
+      "suffixes": [
+        "ta"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "perfect",
+        "stem": "pual",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "וְלָקַח",
+      "transliteration": "veLaqach",
+      "englishLiteral": "and-take",
+      "englishNatural": "and take",
+      "root": "laqach",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "לֻקַּח",
+      "transliteration": "luQach",
+      "englishLiteral": "was-taken",
+      "englishNatural": "he was taken",
+      "root": "laqach",
+      "order": {
+        "hebrew": 10,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "pual",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "וַתִּקַּח",
+      "transliteration": "vatiqach",
+      "englishLiteral": "and-took",
+      "englishNatural": "and she took",
+      "root": "laqach",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "לָקַחַת",
+      "transliteration": "laqachat",
+      "englishLiteral": "to-take",
+      "englishNatural": "to take",
+      "root": "laqach",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "tense": "infinitive_construct",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "וַיִּקַּח־",
+      "transliteration": "vayYiqach-",
+      "englishLiteral": "And-took-",
+      "englishNatural": "took",
+      "root": "laqach",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "וַיִּקְחוּ",
+      "transliteration": "vayYiqchu",
+      "englishLiteral": "and-they-took",
+      "englishNatural": "and they took",
+      "root": "laqach",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "קַח־",
+      "transliteration": "qach-",
+      "englishLiteral": "take-",
+      "englishNatural": "take",
+      "root": "laqach",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperative",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "לָקַחַת",
+      "transliteration": "laqachat",
+      "englishLiteral": "To-receive",
+      "englishNatural": "To receive",
+      "root": "laqach",
+      "prefixes": [
+        "la"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "tense": "infinitive_construct",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

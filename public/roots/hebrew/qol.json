@@ -1,0 +1,195 @@
+{
+  "key": "qol",
+  "hebrew": "קול",
+  "transliteration": "qol",
+  "englishLiteral": "voice",
+  "englishNatural": "voice",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "קֹלְךָ",
+      "transliteration": "qolkha",
+      "englishLiteral": "Your-voice",
+      "englishNatural": "Your voice",
+      "root": "qol",
+      "suffixes": [
+        "kha"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarPrefix": {
+        "englishNatural": "\""
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "לְקוֹל",
+      "transliteration": "leQol",
+      "englishLiteral": "to-voice",
+      "englishNatural": "to the voice",
+      "root": "qol",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "קוֹל",
+      "transliteration": "qol",
+      "englishLiteral": "voice",
+      "englishNatural": "the voice",
+      "root": "qol",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "קוֹל",
+      "transliteration": "qol",
+      "englishLiteral": "Voice-of",
+      "englishNatural": "The voice of",
+      "root": "qol",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "קוֹלִי",
+      "transliteration": "qoli",
+      "englishLiteral": "voice-my",
+      "englishNatural": "my voice",
+      "root": "qol",
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "מִקּ֖וֹל",
+      "transliteration": "miQol",
+      "englishLiteral": "from-voice",
+      "englishNatural": "from the voice of",
+      "root": "qol",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "קוֹלָהּ",
+      "transliteration": "qolah",
+      "englishLiteral": "voice-her",
+      "englishNatural": "her voice",
+      "root": "qol",
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "?",
+        "englishNatural": "?"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

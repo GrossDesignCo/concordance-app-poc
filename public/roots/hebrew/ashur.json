@@ -1,0 +1,39 @@
+{
+  "key": "ashur",
+  "hebrew": "אַשּׁוּר",
+  "transliteration": "ashur",
+  "englishLiteral": "Steppe (Ashur)",
+  "englishNatural": "Steppe (Ashur)",
+  "description": "Proper noun, land/empire of Assyria",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "אַשּׁוּר",
+      "transliteration": "Ashur",
+      "englishLiteral": "Steppe (Ashur)",
+      "englishNatural": "Steppe (Ashur)",
+      "root": "ashur",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

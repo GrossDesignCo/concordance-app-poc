@@ -1,0 +1,47 @@
+{
+  "key": "mot",
+  "hebrew": "מות",
+  "transliteration": "mot",
+  "englishLiteral": "to die",
+  "englishNatural": "to die",
+  "type": "verb",
+  "description": "to die, be dead, kill",
+  "related": [
+    "mavet"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "מוֹתִי",
+      "transliteration": "moti",
+      "englishLiteral": "death-my",
+      "englishNatural": "my death",
+      "root": "mot",
+      "suffixes": [
+        "i_possessive"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

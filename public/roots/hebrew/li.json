@@ -1,0 +1,75 @@
+{
+  "key": "li",
+  "hebrew": "לִ",
+  "transliteration": "li",
+  "englishLiteral": "to",
+  "englishNatural": "to",
+  "type": "preposition",
+  "wordInstances": [
+    {
+      "hebrew": "לִי",
+      "transliteration": "li",
+      "englishLiteral": "to-me",
+      "englishNatural": "me",
+      "root": "li",
+      "order": {
+        "hebrew": 14,
+        "english": 15
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "לִי",
+      "transliteration": "li",
+      "englishLiteral": "to-me",
+      "englishNatural": "to me",
+      "root": "li",
+      "morphology": {
+        "type": "preposition"
+      },
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "לוֹ",
+      "transliteration": "lo",
+      "englishLiteral": "to-him",
+      "englishNatural": "for him",
+      "root": "li",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

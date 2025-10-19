@@ -1,0 +1,41 @@
+{
+  "key": "toledot",
+  "hebrew": "תּוֹלְדֹת",
+  "transliteration": "toledot",
+  "englishLiteral": "generations",
+  "englishNatural": "generations",
+  "type": "noun",
+  "description": "generations, descendants, genealogies, family history",
+  "related": [
+    "yalad"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "תּוֹלְדֹת",
+      "transliteration": "toledot",
+      "englishLiteral": "birthings",
+      "englishNatural": "Birthings of",
+      "root": "toledot",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural",
+        "state": "construct"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

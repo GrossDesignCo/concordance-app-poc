@@ -1,0 +1,90 @@
+{
+  "key": "im_with",
+  "hebrew": "עם",
+  "transliteration": "im",
+  "englishLiteral": "with",
+  "englishNatural": "with",
+  "type": "preposition",
+  "description": "with, together with, in company with",
+  "wordInstances": [
+    {
+      "hebrew": "עִמּוֹ",
+      "transliteration": "imo",
+      "englishLiteral": "with-him",
+      "englishNatural": "with him",
+      "root": "im_with",
+      "suffixes": [
+        "hu"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "עִמָּדִי",
+      "transliteration": "imadi",
+      "englishLiteral": "with-me",
+      "englishNatural": "with me",
+      "root": "im_with",
+      "suffixes": [
+        "adi"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 12
+      }
+    },
+    {
+      "hebrew": "עִמָּהּ",
+      "transliteration": "imah",
+      "englishLiteral": "with-her",
+      "englishNatural": "with her",
+      "root": "im_with",
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 20,
+        "english": 21
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

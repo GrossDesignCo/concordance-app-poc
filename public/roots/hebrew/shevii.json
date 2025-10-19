@@ -1,0 +1,96 @@
+{
+  "key": "shevii",
+  "hebrew": "שביעי",
+  "transliteration": "shevii",
+  "englishLiteral": "seventh",
+  "englishNatural": "seventh",
+  "type": "numeral",
+  "wordInstances": [
+    {
+      "hebrew": "הַשְּׁבִיעִי",
+      "transliteration": "haShvi`i",
+      "englishLiteral": "the-seventh",
+      "englishNatural": "in the seventh",
+      "root": "shevii",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "הַשְּׁבִיעִי",
+      "transliteration": "haShvi`i",
+      "englishLiteral": "the-seventh",
+      "englishNatural": "in the seventh",
+      "root": "shevii",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "הַשְּׁבִיעִי",
+      "transliteration": "haShvi`i",
+      "englishLiteral": "the-seventh",
+      "englishNatural": "the seventh",
+      "root": "shevii",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

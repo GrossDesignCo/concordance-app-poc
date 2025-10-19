@@ -1,0 +1,40 @@
+{
+  "key": "ashav",
+  "hebrew": "עשת",
+  "transliteration": "ashav",
+  "englishLiteral": "to think_upon",
+  "englishNatural": "to think-upon",
+  "type": "verb",
+  "description": "to think about, consider, have regard for",
+  "wordInstances": [
+    {
+      "hebrew": "יִתְעַשֵּׁת",
+      "transliteration": "yitashet",
+      "englishLiteral": "will-think_upon",
+      "englishNatural": "will think upon",
+      "root": "ashav",
+      "order": {
+        "hebrew": 15,
+        "english": 16
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hithpael",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

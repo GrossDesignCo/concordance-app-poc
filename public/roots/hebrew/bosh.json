@@ -1,0 +1,45 @@
+{
+  "key": "bosh",
+  "hebrew": "בוש",
+  "transliteration": "bosh",
+  "englishLiteral": "to be ashamed",
+  "englishNatural": "to be ashamed",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "יִתְבּוֹשָׁשׁוּ׃",
+      "transliteration": "yitboshashu",
+      "englishLiteral": "were-ashamed",
+      "englishNatural": "and were ashamed",
+      "root": "bosh",
+      "order": {
+        "hebrew": 7,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hithpael",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "."
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 25
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

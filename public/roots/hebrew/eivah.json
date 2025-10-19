@@ -1,0 +1,41 @@
+{
+  "key": "eivah",
+  "hebrew": "אֵיבָה",
+  "transliteration": "eivah",
+  "englishLiteral": "enmity",
+  "englishNatural": "enmity",
+  "type": "noun",
+  "description": "hostility, animosity, hatred between parties",
+  "wordInstances": [
+    {
+      "hebrew": "וְאֵיבָה",
+      "transliteration": "veEivah",
+      "englishLiteral": "And-enmity",
+      "englishNatural": "And enmity",
+      "root": "eivah",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

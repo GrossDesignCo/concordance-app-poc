@@ -1,0 +1,131 @@
+{
+  "key": "shalosh",
+  "hebrew": "שְׁלֹשׁ",
+  "transliteration": "shalosh",
+  "englishLiteral": "three",
+  "englishNatural": "three",
+  "type": "numeral",
+  "description": "three, the number three",
+  "related": [
+    "shlishi"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "שְׁלֹשׁ",
+      "transliteration": "shalosh",
+      "englishLiteral": "three",
+      "englishNatural": "three",
+      "root": "shalosh",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "וּשְׁלֹשׁ",
+      "transliteration": "uShalosh",
+      "englishLiteral": "and-three",
+      "englishNatural": "and three",
+      "root": "shalosh",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "שְׁלֹשָׁה",
+      "transliteration": "shloshah",
+      "englishLiteral": "three",
+      "englishNatural": "three",
+      "root": "shalosh",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "numeral"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "וּשְׁלֹשָׁה",
+      "transliteration": "uShloshah",
+      "englishLiteral": "and-three",
+      "englishNatural": "and three",
+      "root": "shalosh",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "numeral"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "שְׁלֹשֶׁת",
+      "transliteration": "shloshet",
+      "englishLiteral": "three",
+      "englishNatural": "three",
+      "root": "shalosh",
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "number": "plural",
+        "state": "construct",
+        "type": "numeral"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,109 @@
+{
+  "key": "lanu",
+  "hebrew": "לנו",
+  "transliteration": "lanu",
+  "englishLiteral": "to-us",
+  "englishNatural": "for us",
+  "type": "preposition",
+  "description": "to us, for us (preposition with first person plural suffix)",
+  "wordInstances": [
+    {
+      "hebrew": "לָנוּ",
+      "transliteration": "lanu",
+      "englishLiteral": "to-us",
+      "englishNatural": "us",
+      "root": "lanu",
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "לָנוּ",
+      "transliteration": "lanu",
+      "englishLiteral": "to-us",
+      "englishNatural": "to us",
+      "root": "lanu",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "לָנוּ",
+      "transliteration": "lanu",
+      "englishLiteral": "to-us",
+      "englishNatural": "to us",
+      "root": "lanu",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "לָנוּ",
+      "transliteration": "lanu",
+      "englishLiteral": "to-us",
+      "englishNatural": "is to us",
+      "root": "lanu",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

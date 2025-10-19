@@ -1,0 +1,38 @@
+{
+  "key": "lupeo",
+  "greek": "λυπέω",
+  "transliteration": "lupeo",
+  "englishLiteral": "grieve",
+  "englishNatural": "grieve",
+  "wordInstances": [
+    {
+      "greek": "λυπήθη",
+      "transliteration": "lupēthē",
+      "englishLiteral": "Was-grieved",
+      "englishNatural": "was grieved",
+      "root": "lupeo",
+      "order": {
+        "greek": 9,
+        "english": 11
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "aorist",
+        "voice": "passive",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

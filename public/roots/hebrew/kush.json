@@ -1,0 +1,39 @@
+{
+  "key": "kush",
+  "hebrew": "כוּשׁ",
+  "transliteration": "kush",
+  "englishLiteral": "Black (Kush)",
+  "englishNatural": "Black (Kush)",
+  "description": "Proper noun, land/people group, traditionally associated with Ethiopia or Nubia",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "כּוּשׁ׃",
+      "transliteration": "Kush",
+      "englishLiteral": "Black (Kush)",
+      "englishNatural": "Black (Kush)",
+      "root": "kush",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 13
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

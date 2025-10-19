@@ -1,0 +1,70 @@
+{
+  "key": "emet",
+  "hebrew": "אֱמֶת",
+  "transliteration": "emet",
+  "englishLiteral": "truth",
+  "englishNatural": "truth",
+  "type": "noun",
+  "description": "truth, faithfulness, reliability, trustworthiness",
+  "wordInstances": [
+    {
+      "hebrew": "וֶאֱמֶת",
+      "transliteration": "veEmet",
+      "englishLiteral": "and-truth",
+      "englishNatural": "and truth",
+      "root": "emet",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksBefore": 1,
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "וֶאֱמֶת־",
+      "transliteration": "veEmet-",
+      "englishLiteral": "and-truth-of",
+      "englishNatural": "and truth of",
+      "root": "emet",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

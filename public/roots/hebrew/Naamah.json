@@ -1,0 +1,42 @@
+{
+  "key": "Naamah",
+  "hebrew": "נַעֲמָה",
+  "transliteration": "Naamah",
+  "englishLiteral": "Pleasant (Naamah)",
+  "englishNatural": "Pleasant (Naamah)",
+  "type": "noun",
+  "description": "proper name, Naamah, meaning \"pleasant\" or \"lovely\"",
+  "wordInstances": [
+    {
+      "hebrew": "נַעֲמָה",
+      "transliteration": "Naamah",
+      "englishLiteral": "Pleasant (Naamah)",
+      "englishNatural": "Pleasant (Naamah)",
+      "root": "Naamah",
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,47 @@
+{
+  "key": "zaaq",
+  "hebrew": "זעק",
+  "transliteration": "zaaq",
+  "englishLiteral": "to cry_out",
+  "englishNatural": "to cry-out",
+  "type": "verb",
+  "description": "to cry out, call out, proclaim",
+  "related": [
+    "tsaaq"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וַיַּזְעֵק",
+      "transliteration": "vaYazeeq",
+      "englishLiteral": "And-cried_out",
+      "englishNatural": "And he cried-out",
+      "root": "zaaq",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

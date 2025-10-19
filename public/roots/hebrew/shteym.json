@@ -1,0 +1,40 @@
+{
+  "key": "shteym",
+  "hebrew": "שְׁתֵּים",
+  "transliteration": "shteym",
+  "englishLiteral": "two",
+  "englishNatural": "two",
+  "type": "numeral",
+  "description": "two, the number two (feminine form)",
+  "related": [
+    "shtayim"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "שְׁתֵּים",
+      "transliteration": "shteym",
+      "englishLiteral": "two",
+      "englishNatural": "two",
+      "root": "shteym",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "feminine",
+        "number": "dual"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 8
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

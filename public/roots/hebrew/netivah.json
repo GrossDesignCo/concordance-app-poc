@@ -1,0 +1,40 @@
+{
+  "key": "netivah",
+  "hebrew": "נְתִיבָה",
+  "transliteration": "netivah",
+  "englishLiteral": "path",
+  "englishNatural": "path",
+  "type": "noun",
+  "description": "path, pathway, track",
+  "wordInstances": [
+    {
+      "hebrew": "נְתִיבוֹת",
+      "transliteration": "netivot",
+      "englishLiteral": "paths",
+      "englishNatural": "paths",
+      "root": "netivah",
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

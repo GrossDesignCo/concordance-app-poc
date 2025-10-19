@@ -1,0 +1,98 @@
+{
+  "key": "shamar",
+  "hebrew": "שמר",
+  "transliteration": "shamar",
+  "englishLiteral": "to keep",
+  "englishNatural": "to keep",
+  "description": "to exercise great care over something, similar to shepherding or being faithful to, but more broad",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וּלְשָׁמְרָהּ׃",
+      "transliteration": "uLeShamrah",
+      "englishLiteral": "and-to-keep-her",
+      "englishNatural": "and to keep her",
+      "root": "shamar",
+      "prefixes": [
+        "u",
+        "le"
+      ],
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "verb",
+        "stem": "qal",
+        "tense": "infinitive_construct"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "לִשְׁמֹר",
+      "transliteration": "lishMor",
+      "englishLiteral": "to-keep",
+      "englishNatural": "to keep",
+      "root": "shamar",
+      "prefixes": [
+        "li"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "הֲשֹׁמֵר",
+      "transliteration": "haShomer",
+      "englishLiteral": "keeper-of",
+      "englishNatural": "keeper of",
+      "root": "shamar",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 9
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

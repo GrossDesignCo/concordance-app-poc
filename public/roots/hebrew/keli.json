@@ -1,0 +1,43 @@
+{
+  "key": "keli",
+  "hebrew": "כלי",
+  "transliteration": "keli",
+  "englishLiteral": "vessel",
+  "englishNatural": "vessel",
+  "type": "noun",
+  "description": "vessel, utensil, implement, cargo",
+  "wordInstances": [
+    {
+      "hebrew": "הַכֵּלִים",
+      "transliteration": "haKelim",
+      "englishLiteral": "the-vessels",
+      "englishNatural": "the vessels",
+      "root": "keli",
+      "prefixes": [
+        "ha"
+      ],
+      "suffixes": [
+        "im"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

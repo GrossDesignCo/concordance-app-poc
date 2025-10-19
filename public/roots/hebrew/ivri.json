@@ -1,0 +1,44 @@
+{
+  "key": "ivri",
+  "hebrew": "עברי",
+  "transliteration": "ivri",
+  "englishLiteral": "Hebrew",
+  "englishNatural": "Hebrew",
+  "type": "adjective",
+  "description": "Hebrew, one who crosses over, descendant of Eber",
+  "related": [
+    "avar"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "עִבְרִי",
+      "transliteration": "ivri",
+      "englishLiteral": "Hebrew",
+      "englishNatural": "A Hebrew",
+      "root": "ivri",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 9
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

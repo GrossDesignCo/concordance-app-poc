@@ -1,0 +1,72 @@
+{
+  "key": "shaah",
+  "hebrew": "שָׁעָה",
+  "transliteration": "shaah",
+  "englishLiteral": "to esteem",
+  "englishNatural": "to esteem",
+  "type": "verb",
+  "description": "to look with favor, regard, have respect for",
+  "wordInstances": [
+    {
+      "hebrew": "וַיִּשַׁע",
+      "transliteration": "vayYisha",
+      "englishLiteral": "And-He-esteemed",
+      "englishNatural": "esteemed",
+      "root": "shaah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "שָׁעָה",
+      "transliteration": "shaah",
+      "englishLiteral": "esteeming",
+      "englishNatural": "esteeming",
+      "root": "shaah",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

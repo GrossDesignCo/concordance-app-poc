@@ -1,0 +1,154 @@
+{
+  "key": "yad",
+  "hebrew": "יד",
+  "transliteration": "yad",
+  "englishLiteral": "hand",
+  "englishNatural": "hand",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "יָדוֹ",
+      "transliteration": "yado",
+      "englishLiteral": "hand-his",
+      "englishNatural": "his hand",
+      "root": "yad",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "מִיָּדֶךָ",
+      "transliteration": "miYadekha",
+      "englishLiteral": "from-your-hand",
+      "englishNatural": "from your hand",
+      "root": "yad",
+      "prefixes": [
+        "mi"
+      ],
+      "suffixes": [
+        "ekha"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "2nd",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "יָדֵינוּ",
+      "transliteration": "yadenu",
+      "englishLiteral": "our-hands",
+      "englishNatural": "of our hands",
+      "root": "yad",
+      "suffixes": [
+        "enu"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural",
+        "state": "construct"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "וּבְיָדוֹ",
+      "transliteration": "uVeYado",
+      "englishLiteral": "and-in-his-hand",
+      "englishNatural": "and in his hand",
+      "root": "yad",
+      "prefixes": [
+        "u",
+        "be"
+      ],
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "3rd",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "לְיַד",
+      "transliteration": "leYad",
+      "englishLiteral": "To-hand-of",
+      "englishNatural": "To the hand of",
+      "root": "yad",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

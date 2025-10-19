@@ -1,0 +1,74 @@
+{
+  "key": "yasaf",
+  "hebrew": "יָסַף",
+  "transliteration": "yasaf",
+  "englishLiteral": "to add",
+  "englishNatural": "to add",
+  "type": "verb",
+  "description": "to add, continue, do again, increase",
+  "wordInstances": [
+    {
+      "hebrew": "וַתֹּסֶף",
+      "transliteration": "vatTosef",
+      "englishLiteral": "and-she-added",
+      "englishNatural": "And she added",
+      "root": "yasaf",
+      "prefixes": [
+        "va"
+      ],
+      "suffixes": [
+        "ta"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "וְיוֹסֵף",
+      "transliteration": "veYosef",
+      "englishLiteral": "and-will-add",
+      "englishNatural": "and will add",
+      "root": "yasaf",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

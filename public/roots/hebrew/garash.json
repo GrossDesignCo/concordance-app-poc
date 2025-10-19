@@ -1,0 +1,74 @@
+{
+  "key": "garash",
+  "hebrew": "גרש",
+  "transliteration": "garash",
+  "englishLiteral": "to banish",
+  "englishNatural": "to banish",
+  "type": "verb",
+  "description": "to drive out by force, to deport from a place, expel, banish, cast out",
+  "wordInstances": [
+    {
+      "hebrew": "וַיְגָרֶשׁ",
+      "transliteration": "vayGaresh",
+      "englishLiteral": "And-he-banished",
+      "englishNatural": "And he banished",
+      "root": "garash",
+      "prefixes": [
+        "va",
+        "yi"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "גֵּרַשְׁתָּ",
+      "transliteration": "gerashta",
+      "englishLiteral": "you-banished",
+      "englishNatural": "you have banished",
+      "root": "garash",
+      "suffixes": [
+        "ta"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "perfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

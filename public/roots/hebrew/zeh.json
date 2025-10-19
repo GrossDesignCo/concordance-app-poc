@@ -1,0 +1,354 @@
+{
+  "key": "zeh",
+  "hebrew": "זה",
+  "transliteration": "zeh",
+  "englishLiteral": "this",
+  "englishNatural": "this",
+  "type": "pronoun",
+  "wordInstances": [
+    {
+      "hebrew": "זֶה־",
+      "transliteration": "zeh-",
+      "englishLiteral": "this-",
+      "englishNatural": "this is",
+      "root": "zeh",
+      "order": {
+        "hebrew": 22,
+        "english": 22
+      },
+      "morphology": {
+        "type": "pronoun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "וְזֶה",
+      "transliteration": "veZeh",
+      "englishLiteral": "and-this",
+      "englishNatural": "and this is",
+      "root": "zeh",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 25,
+        "english": 25
+      },
+      "morphology": {
+        "type": "pronoun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "זֹאת",
+      "transliteration": "zot",
+      "englishLiteral": "This",
+      "englishNatural": "This is",
+      "root": "zeh",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "pronoun"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "לְזֹאת",
+      "transliteration": "leZot",
+      "englishLiteral": "to-this",
+      "englishNatural": "to this",
+      "root": "zeh",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "pronoun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "זֹאת׃",
+      "transliteration": "zot",
+      "englishLiteral": "this",
+      "englishNatural": "this",
+      "root": "zeh",
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "type": "pronoun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "אֵלֶּה",
+      "transliteration": "eleh",
+      "englishLiteral": "These",
+      "englishNatural": "These",
+      "root": "zeh",
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "pronoun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "זֶה",
+      "transliteration": "zeh",
+      "englishLiteral": "This",
+      "englishNatural": "This",
+      "root": "zeh",
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "pronoun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "זֶה",
+      "transliteration": "zeh",
+      "englishLiteral": "This",
+      "englishNatural": "This",
+      "root": "zeh",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "pronoun"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "זֶה",
+      "transliteration": "zeh",
+      "englishLiteral": "this",
+      "englishNatural": "And this",
+      "root": "zeh",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "type": "pronoun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "זֶה",
+      "transliteration": "zeh",
+      "englishLiteral": "this",
+      "englishNatural": "this",
+      "root": "zeh",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "pronoun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "זֶה",
+      "transliteration": "zeh",
+      "englishLiteral": "this",
+      "englishNatural": "this",
+      "root": "zeh",
+      "order": {
+        "hebrew": 7,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "pronoun"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "מִזֶּה",
+      "transliteration": "mizeh",
+      "englishLiteral": "from-this",
+      "englishNatural": "from this",
+      "root": "zeh",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "type": "pronoun"
+      },
+      "grammarPrefix": {
+        "englishNatural": "'"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "זֶה",
+      "transliteration": "zeh",
+      "englishLiteral": "this",
+      "englishNatural": "this",
+      "root": "zeh",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "pronoun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "זֶה",
+      "transliteration": "zeh",
+      "englishLiteral": "this",
+      "englishNatural": "together",
+      "root": "zeh",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "pronoun"
+      },
+      "grammarSuffix": {
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "זֶה",
+      "transliteration": "zeh",
+      "englishLiteral": "this",
+      "englishNatural": "this",
+      "root": "zeh",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "pronoun"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

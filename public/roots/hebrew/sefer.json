@@ -1,0 +1,42 @@
+{
+  "key": "sefer",
+  "hebrew": "סֵפֶר",
+  "transliteration": "sefer",
+  "englishLiteral": "book",
+  "englishNatural": "book",
+  "type": "noun",
+  "description": "book, scroll, written document",
+  "wordInstances": [
+    {
+      "hebrew": "סֵפֶר",
+      "transliteration": "sefer",
+      "englishLiteral": "book",
+      "englishNatural": "book",
+      "root": "sefer",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

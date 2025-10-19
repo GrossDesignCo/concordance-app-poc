@@ -1,0 +1,139 @@
+{
+  "key": "esev",
+  "hebrew": "עשב",
+  "transliteration": "esev",
+  "englishLiteral": "herb",
+  "englishNatural": "herb",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "עֵ֚שֶׂב",
+      "transliteration": "esev",
+      "englishLiteral": "herb",
+      "englishNatural": "herb",
+      "root": "esev",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "עֵ֚שֶׂב",
+      "transliteration": "esev",
+      "englishLiteral": "herb",
+      "englishNatural": "herb",
+      "root": "esev",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      }
+    },
+    {
+      "hebrew": "עֵ֣שֶׂב",
+      "transliteration": "esev",
+      "englishLiteral": "herb",
+      "englishNatural": "herb",
+      "root": "esev",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "עֵ֖שֶׂב",
+      "transliteration": "esev",
+      "englishLiteral": "herb",
+      "englishNatural": "herb",
+      "root": "esev",
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "עֵשֶׂב",
+      "transliteration": "esev",
+      "englishLiteral": "herb",
+      "englishNatural": "herb",
+      "root": "esev",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "עֵשֶׂב",
+      "transliteration": "esev",
+      "englishLiteral": "herb",
+      "englishNatural": "the herb",
+      "root": "esev",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 18
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

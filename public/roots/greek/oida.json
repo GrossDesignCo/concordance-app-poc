@@ -1,0 +1,89 @@
+{
+  "key": "oida",
+  "greek": "οἶδα",
+  "transliteration": "oida",
+  "englishLiteral": "know",
+  "englishNatural": "know",
+  "wordInstances": [
+    {
+      "greek": "οἶδας",
+      "transliteration": "oidas",
+      "englishLiteral": "know",
+      "englishNatural": "know",
+      "root": "oida",
+      "order": {
+        "greek": 21,
+        "english": 23
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "perfect",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "2nd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "οἶδας",
+      "transliteration": "oidas",
+      "englishLiteral": "know",
+      "englishNatural": "know",
+      "root": "oida",
+      "order": {
+        "greek": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "perfect",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "2nd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "οἶδας",
+      "transliteration": "oidas",
+      "englishLiteral": "know",
+      "englishNatural": "know",
+      "root": "oida",
+      "order": {
+        "greek": 25,
+        "english": 24
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "perfect",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "2nd",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

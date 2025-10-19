@@ -1,0 +1,92 @@
+{
+  "key": "dagah",
+  "hebrew": "דגה",
+  "transliteration": "dagah",
+  "englishLiteral": "fish",
+  "englishNatural": "fish",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "בִּדְגַ֨ת",
+      "transliteration": "biDgat",
+      "englishLiteral": "in-fish-of",
+      "englishNatural": "among fish of",
+      "root": "dagah",
+      "prefixes": [
+        "bi"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "בִּדְגַ֤ת",
+      "transliteration": "biDgat",
+      "englishLiteral": "in-fish-of",
+      "englishNatural": "among fish of",
+      "root": "dagah",
+      "prefixes": [
+        "bi"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      }
+    },
+    {
+      "hebrew": "הַדָּגָה",
+      "transliteration": "haDagah",
+      "englishLiteral": "the-fish",
+      "englishNatural": "the fish",
+      "root": "dagah",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

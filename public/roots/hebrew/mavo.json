@@ -1,0 +1,41 @@
+{
+  "key": "mavo",
+  "hebrew": "מָבוֹא",
+  "transliteration": "mavo",
+  "englishLiteral": "entrance",
+  "englishNatural": "entrance",
+  "type": "noun",
+  "description": "entrance, coming in, entry",
+  "related": [
+    "bo"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "מְבוֹא",
+      "transliteration": "mevo",
+      "englishLiteral": "incoming-of",
+      "englishNatural": "incoming of",
+      "root": "mavo",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

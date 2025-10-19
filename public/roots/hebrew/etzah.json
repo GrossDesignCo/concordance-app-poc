@@ -1,0 +1,40 @@
+{
+  "key": "etzah",
+  "hebrew": "עֵצָה",
+  "transliteration": "etzah",
+  "englishLiteral": "counsel",
+  "englishNatural": "counsel",
+  "type": "noun",
+  "description": "advice, counsel, plan, purpose",
+  "wordInstances": [
+    {
+      "hebrew": "בַּעֲצַת",
+      "transliteration": "baAtzat",
+      "englishLiteral": "in-counsel-of",
+      "englishNatural": "in the counsel of",
+      "root": "etzah",
+      "prefixes": [
+        "ba"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

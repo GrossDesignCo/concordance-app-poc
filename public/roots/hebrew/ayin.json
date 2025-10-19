@@ -1,0 +1,207 @@
+{
+  "key": "ayin",
+  "hebrew": "אַיִן",
+  "transliteration": "ayin",
+  "englishLiteral": "not_exist",
+  "englishNatural": "exists-not",
+  "type": "adverb",
+  "wordInstances": [
+    {
+      "hebrew": "אַיִן",
+      "transliteration": "ayin",
+      "englishLiteral": "not_exist",
+      "englishNatural": "was not there",
+      "root": "ayin",
+      "order": {
+        "hebrew": 20,
+        "english": 20
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "עֵינֵיכֶם",
+      "transliteration": "eyneychen",
+      "englishLiteral": "your-eyes",
+      "englishNatural": "and your eyes",
+      "root": "ayin",
+      "suffixes": [
+        "chem"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "dual",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "לָעֵינַיִם",
+      "transliteration": "laEynayim",
+      "englishLiteral": "to-the-eyes",
+      "englishNatural": "to the eyes",
+      "root": "ayin",
+      "prefixes": [
+        "la"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "dual",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "עֵינֵי",
+      "transliteration": "eyney",
+      "englishLiteral": "eyes-of",
+      "englishNatural": "And the eyes of",
+      "root": "ayin",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "dual",
+        "state": "construct",
+        "type": "noun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "וְאֵינֶנּוּ",
+      "transliteration": "veEinennu",
+      "englishLiteral": "and-not-him",
+      "englishNatural": "and he was not",
+      "root": "ayin",
+      "prefixes": [
+        "ve"
+      ],
+      "suffixes": [
+        "enu"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "וּמֵאַיִן",
+      "transliteration": "uMeAyin",
+      "englishLiteral": "and-from-where",
+      "englishNatural": "and from where",
+      "root": "ayin",
+      "prefixes": [
+        "u",
+        "me"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "עֵינַי",
+      "transliteration": "einai",
+      "englishLiteral": "my-eyes",
+      "englishNatural": "and my eyes",
+      "root": "ayin",
+      "suffixes": [
+        "ai"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "dual",
+        "person": "1st",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

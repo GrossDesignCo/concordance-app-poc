@@ -1,0 +1,147 @@
+{
+  "key": "hinneh",
+  "hebrew": "הנה",
+  "transliteration": "hinneh",
+  "englishLiteral": "behold",
+  "englishNatural": "behold",
+  "type": "particle",
+  "wordInstances": [
+    {
+      "hebrew": "הִנֵּה֩",
+      "transliteration": "hineh",
+      "englishLiteral": "Behold",
+      "englishNatural": "Behold",
+      "root": "hinneh",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "particle"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "וְהִנֵּ֥ה",
+      "transliteration": "veHinneh",
+      "englishLiteral": "And-behold",
+      "englishNatural": "And behold",
+      "root": "hinneh",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "interjection"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 31
+      }
+    },
+    {
+      "hebrew": "הֵן",
+      "transliteration": "hen",
+      "englishLiteral": "Behold",
+      "englishNatural": "Behold",
+      "root": "hinneh",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "particle"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "הֵן",
+      "transliteration": "hen",
+      "englishLiteral": "Behold",
+      "englishNatural": "Behold",
+      "root": "hinneh",
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "interjection"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "הִנֵּה",
+      "transliteration": "hinneh",
+      "englishLiteral": "Behold",
+      "englishNatural": "Behold",
+      "root": "hinneh",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "particle"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

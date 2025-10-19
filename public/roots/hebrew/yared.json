@@ -1,0 +1,134 @@
+{
+  "key": "yared",
+  "hebrew": "יָרֶד",
+  "transliteration": "yared",
+  "englishLiteral": "Descending (Jared)",
+  "englishNatural": "Descending (Jared)",
+  "type": "noun",
+  "description": "proper name, Jared, meaning \"descending\" or \"to go down\"",
+  "wordInstances": [
+    {
+      "hebrew": "יָרֶד",
+      "transliteration": "Yared",
+      "englishLiteral": "Descending (Jared)",
+      "englishNatural": "Descending (Jared)",
+      "root": "yared",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "יָרֶד",
+      "transliteration": "Yared",
+      "englishLiteral": "Descending (Jared)",
+      "englishNatural": "Descending (Jared)",
+      "root": "yared",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "יָרֶד",
+      "transliteration": "Yared",
+      "englishLiteral": "Descending (Jared)",
+      "englishNatural": "And Descending (Jared)",
+      "root": "yared",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "יָרֶד",
+      "transliteration": "Yared",
+      "englishLiteral": "Descending (Jared)",
+      "englishNatural": "And Descending (Jared)",
+      "root": "yared",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "יָרֶד",
+      "transliteration": "Yared",
+      "englishLiteral": "Descending (Jared)",
+      "englishNatural": "Descending (Jared)",
+      "root": "yared",
+      "order": {
+        "hebrew": 4,
+        "english": 3
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 20
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

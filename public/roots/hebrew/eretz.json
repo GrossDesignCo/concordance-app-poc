@@ -1,0 +1,1010 @@
+{
+  "key": "eretz",
+  "hebrew": "ארץ",
+  "transliteration": "eretz",
+  "englishLiteral": "land",
+  "englishNatural": "land",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "הָאָֽרֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "אֶ֔רֶץ",
+      "transliteration": "eretz",
+      "englishLiteral": "Land",
+      "englishNatural": "Land",
+      "root": "eretz",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",\"",
+        "englishNatural": ",\""
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "הָאָ֑רֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "Let the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarPrefix": {
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "הָאָ֑רֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "הָאָ֜רֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "And the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      }
+    },
+    {
+      "hebrew": "הָאָ֑רֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "הָאָֽרֶץ׃",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "וְהָאָ֗רֶץ",
+      "transliteration": "veHaAretz",
+      "englishLiteral": "And-the-land",
+      "englishNatural": "And the land",
+      "root": "eretz",
+      "prefixes": [
+        "ve",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "הָאָ֔רֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "בָּאָֽרֶץ׃",
+      "transliteration": "baAretz",
+      "englishLiteral": "in-the-land",
+      "englishNatural": "in the land",
+      "root": "eretz",
+      "prefixes": [
+        "be",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "הָאָ֜רֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "Let the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarPrefix": {
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "אֶ֖רֶץ",
+      "transliteration": "eretz",
+      "englishLiteral": "land",
+      "englishNatural": "land",
+      "root": "eretz",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "הָאָ֔רֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "הָאָ֔רֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "הָאָֽרֶץ׃",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 19,
+        "english": 19
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "הָאָ֖רֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      }
+    },
+    {
+      "hebrew": "הָאָֽרֶץ׃",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 22,
+        "english": 22
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      }
+    },
+    {
+      "hebrew": "הָאָ֔רֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "הָאָ֗רֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "הָאָ֑רֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "וְהָאָרֶץ",
+      "transliteration": "veHaAretz",
+      "englishLiteral": "and-the-land",
+      "englishNatural": "and the land",
+      "root": "eretz",
+      "prefixes": [
+        "ve",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "אֶרֶץ",
+      "transliteration": "eretz",
+      "englishLiteral": "land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 12
+      }
+    },
+    {
+      "hebrew": "אֶרֶץ",
+      "transliteration": "eretz",
+      "englishLiteral": "land",
+      "englishNatural": "the land of",
+      "root": "eretz",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 13
+      }
+    },
+    {
+      "hebrew": "וְהָאָרֶץ",
+      "transliteration": "veHaAretz",
+      "englishLiteral": "and-the-land",
+      "englishNatural": "and the land",
+      "root": "eretz",
+      "prefixes": [
+        "ve",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "אֶרֶץ",
+      "transliteration": "eretz",
+      "englishLiteral": "land",
+      "englishNatural": "land",
+      "root": "eretz",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "בָאָרֶץ",
+      "transliteration": "baAretz",
+      "englishLiteral": "in-the-land",
+      "englishNatural": "in the land",
+      "root": "eretz",
+      "prefixes": [
+        "ba"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "בָאָרֶץ",
+      "transliteration": "baAretz",
+      "englishLiteral": "in-the-land",
+      "englishNatural": "in the land",
+      "root": "eretz",
+      "prefixes": [
+        "ba"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 12
+      }
+    },
+    {
+      "hebrew": "בָּאָרֶץ",
+      "transliteration": "baAretz",
+      "englishLiteral": "in-the-land",
+      "englishNatural": "in the land",
+      "root": "eretz",
+      "prefixes": [
+        "ba"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "בְּאֶרֶץ־",
+      "transliteration": "beEretz-",
+      "englishLiteral": "in-land-",
+      "englishNatural": "in the land",
+      "root": "eretz",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "בָאָרֶץ",
+      "transliteration": "baAretz",
+      "englishLiteral": "in-the-land",
+      "englishNatural": "in the land",
+      "root": "eretz",
+      "prefixes": [
+        "ba"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "transliteration": "haAretz",
+      "englishLiteral": "the-land",
+      "englishNatural": "the land",
+      "root": "eretz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ":"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "אַרְצֶךָ",
+      "transliteration": "artzekha",
+      "englishLiteral": "land-your",
+      "englishNatural": "is your land",
+      "root": "eretz",
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "?",
+        "englishNatural": "?"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "אָרֶץ",
+      "transliteration": "aretz",
+      "englishLiteral": "land",
+      "englishNatural": "land",
+      "root": "eretz",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "אֶרֶץ",
+      "transliteration": "eretz",
+      "englishLiteral": "land",
+      "englishNatural": "land",
+      "root": "eretz",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 26
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

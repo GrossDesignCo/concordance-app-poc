@@ -1,0 +1,40 @@
+{
+  "key": "dashen",
+  "hebrew": "דָּשֵׁן",
+  "transliteration": "dashen",
+  "englishLiteral": "to anoint",
+  "englishNatural": "to anoint",
+  "type": "verb",
+  "description": "to anoint, make fat, satisfy abundantly",
+  "wordInstances": [
+    {
+      "hebrew": "דִּשַּׁנְתָּ",
+      "transliteration": "dishanta",
+      "englishLiteral": "you-anoint",
+      "englishNatural": "you anoint",
+      "root": "dashen",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "person": "2nd",
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "perfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

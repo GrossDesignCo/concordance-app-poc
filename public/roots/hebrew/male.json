@@ -1,0 +1,139 @@
+{
+  "key": "male",
+  "hebrew": "מלא",
+  "transliteration": "male",
+  "englishLiteral": "to fill",
+  "englishNatural": "to fill",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וּמִלְא֤וּ",
+      "transliteration": "uMilU",
+      "englishLiteral": "and-fill",
+      "englishNatural": "and fill",
+      "root": "male",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "2nd",
+        "tense": "imperative",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "וּמִלְא֥וּ",
+      "transliteration": "uMilu",
+      "englishLiteral": "and-fill",
+      "englishNatural": "and fill",
+      "root": "male",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "2nd",
+        "tense": "imperative",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      }
+    },
+    {
+      "hebrew": "מְמַלְּאִים",
+      "transliteration": "meMaleim",
+      "englishLiteral": "filling",
+      "englishNatural": "filling",
+      "root": "male",
+      "prefixes": [
+        "me"
+      ],
+      "suffixes": [
+        "im"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "tense": "participle",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "מְלֹא",
+      "transliteration": "melo",
+      "englishLiteral": "fullness-of",
+      "englishNatural": "fullness of",
+      "root": "male",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "יִמָּלֵ֥א",
+      "transliteration": "yimale",
+      "englishLiteral": "was-filled",
+      "englishNatural": "was filled with",
+      "root": "male",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

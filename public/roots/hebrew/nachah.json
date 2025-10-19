@@ -1,0 +1,53 @@
+{
+  "key": "nachah",
+  "hebrew": "נָחָה",
+  "transliteration": "nachah",
+  "englishLiteral": "to guide",
+  "englishNatural": "to guide",
+  "type": "verb",
+  "description": "to lead along a path, guide, direct",
+  "related": [
+    "nahal"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "יַנְחֵנִי",
+      "transliteration": "yancheni",
+      "englishLiteral": "he-guides-me",
+      "englishNatural": "he guides me",
+      "root": "nachah",
+      "prefixes": [
+        "ya"
+      ],
+      "suffixes": [
+        "ni"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

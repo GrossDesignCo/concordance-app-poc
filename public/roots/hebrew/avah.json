@@ -1,0 +1,35 @@
+{
+  "key": "avah",
+  "hebrew": "אוה",
+  "transliteration": "avah",
+  "englishLiteral": "to desire",
+  "englishNatural": "to desire",
+  "description": "to desire, lust after, covet",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "תַאֲוָה־",
+      "transliteration": "taavah-",
+      "englishLiteral": "desirable-",
+      "englishNatural": "desirable",
+      "root": "avah",
+      "order": {
+        "hebrew": 8,
+        "english": 10
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

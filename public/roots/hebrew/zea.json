@@ -1,0 +1,41 @@
+{
+  "key": "zea",
+  "hebrew": "זֵעָה",
+  "transliteration": "zea",
+  "englishLiteral": "sweat",
+  "englishNatural": "sweat",
+  "type": "noun",
+  "description": "perspiration, sweat from labor or exertion",
+  "wordInstances": [
+    {
+      "hebrew": "בְּזֵעַת",
+      "transliteration": "beZeat",
+      "englishLiteral": "In-sweat_of",
+      "englishNatural": "In sweat of",
+      "root": "zea",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,150 @@
+{
+  "key": "badal",
+  "hebrew": "בדל",
+  "transliteration": "badal",
+  "englishLiteral": "to separate",
+  "englishNatural": "to separate",
+  "description": "to separate into categories, dividing by type/kind",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "לְהַבְדִּ֕יל",
+      "transliteration": "leHavdil",
+      "englishLiteral": "to-separate",
+      "englishNatural": "to separate",
+      "root": "badal",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 8
+      },
+      "morphology": {
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "וֽלֲהַבְדִּ֔יל",
+      "transliteration": "uLeHavdil",
+      "englishLiteral": "and-to-separate",
+      "englishNatural": "and to separate",
+      "root": "badal",
+      "prefixes": [
+        "u",
+        "le"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "וַיַּבְדֵּ֣ל",
+      "transliteration": "vaYavdel",
+      "englishLiteral": "And-separated",
+      "englishNatural": "separated",
+      "root": "badal",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "מַבְדִּיל",
+      "transliteration": "mavdil",
+      "englishLiteral": "separating",
+      "englishNatural": "separating",
+      "root": "badal",
+      "prefixes": [
+        "me"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "וַיַּבְדֵּ֗ל",
+      "transliteration": "vaYavdel",
+      "englishLiteral": "and-separated",
+      "englishNatural": "and separated",
+      "root": "badal",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ""
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

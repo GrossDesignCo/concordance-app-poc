@@ -1,0 +1,43 @@
+{
+  "key": "rachaf",
+  "hebrew": "רחף",
+  "transliteration": "rachaf",
+  "englishLiteral": "to stir",
+  "englishNatural": "to stir",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "מְרַחֶ֖פֶת",
+      "transliteration": "meRachefet",
+      "englishLiteral": "was-stirring",
+      "englishNatural": "was stirring",
+      "root": "rachaf",
+      "prefixes": [
+        "me"
+      ],
+      "suffixes": [
+        "et"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

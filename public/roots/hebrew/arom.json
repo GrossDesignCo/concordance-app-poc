@@ -1,0 +1,86 @@
+{
+  "key": "arom",
+  "hebrew": "ערום",
+  "transliteration": "arom",
+  "englishLiteral": "naked",
+  "englishNatural": "naked",
+  "type": "adjective",
+  "wordInstances": [
+    {
+      "hebrew": "עֲרוּמִּים",
+      "transliteration": "arummim",
+      "englishLiteral": "naked",
+      "englishNatural": "naked",
+      "root": "arom",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "עֵירֹם",
+      "transliteration": "arom",
+      "englishLiteral": "naked",
+      "englishNatural": "naked",
+      "root": "arom",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "עֵירֹם",
+      "transliteration": "arom",
+      "englishLiteral": "naked",
+      "englishNatural": "naked",
+      "root": "arom",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

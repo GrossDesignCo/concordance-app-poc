@@ -1,0 +1,43 @@
+{
+  "key": "paal",
+  "hebrew": "פַּעַל",
+  "transliteration": "paal",
+  "englishLiteral": "work",
+  "englishNatural": "work",
+  "type": "noun",
+  "description": "work, deed, action, doing",
+  "wordInstances": [
+    {
+      "hebrew": "מִפְעָלָיו",
+      "transliteration": "miphalav",
+      "englishLiteral": "from-works-his",
+      "englishNatural": "his works",
+      "root": "paal",
+      "prefixes": [
+        "mi"
+      ],
+      "suffixes": [
+        "av"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 22
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

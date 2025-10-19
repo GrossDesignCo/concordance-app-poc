@@ -1,0 +1,46 @@
+{
+  "key": "manah",
+  "hebrew": "מנה",
+  "transliteration": "manah",
+  "englishLiteral": "to appoint",
+  "englishNatural": "to appoint",
+  "type": "verb",
+  "description": "to count, number, appoint, prepare, assign",
+  "wordInstances": [
+    {
+      "hebrew": "וַיְמַן",
+      "transliteration": "vaYeman",
+      "englishLiteral": "And-appointed",
+      "englishNatural": "appointed",
+      "root": "manah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

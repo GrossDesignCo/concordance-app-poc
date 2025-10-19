@@ -1,0 +1,45 @@
+{
+  "key": "badad",
+  "hebrew": "בדד",
+  "transliteration": "badad",
+  "englishLiteral": "alone",
+  "englishNatural": "alone",
+  "description": "to be alone, by oneself, solitary",
+  "type": "adverb",
+  "wordInstances": [
+    {
+      "hebrew": "לְבַדּוֹ",
+      "transliteration": "leVaddo",
+      "englishLiteral": "to-alone-him",
+      "englishNatural": "to himself alone",
+      "root": "badad",
+      "prefixes": [
+        "le"
+      ],
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 18
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

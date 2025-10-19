@@ -1,0 +1,44 @@
+{
+  "key": "chazaq",
+  "hebrew": "חזק",
+  "transliteration": "chazaq",
+  "englishLiteral": "strength",
+  "englishNatural": "strength",
+  "type": "noun",
+  "description": "strength, force, might; with \"be-\" prefix means \"with strength/mightily\"",
+  "wordInstances": [
+    {
+      "hebrew": "בְּחָזְקָה",
+      "transliteration": "beChazqah",
+      "englishLiteral": "in-strength",
+      "englishNatural": "in strength",
+      "root": "chazaq",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

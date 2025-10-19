@@ -1,0 +1,981 @@
+{
+  "key": "chayah",
+  "hebrew": "חיה",
+  "transliteration": "chayah",
+  "englishLiteral": "living_thing",
+  "englishNatural": "living-thing",
+  "type": "noun",
+  "description": "living thing, living creature, animal",
+  "wordInstances": [
+    {
+      "hebrew": "חַיָּ֑ה",
+      "transliteration": "chayah",
+      "englishLiteral": "living",
+      "englishNatural": "living",
+      "root": "chayah",
+      "order": {
+        "hebrew": 7,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "הַֽחַיָּ֣ה",
+      "transliteration": "haChayah",
+      "englishLiteral": "the-living",
+      "englishNatural": "the living",
+      "root": "chayah",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      }
+    },
+    {
+      "hebrew": "חַיָּה֙",
+      "transliteration": "chayah",
+      "englishLiteral": "living",
+      "englishNatural": "living",
+      "root": "chayah",
+      "order": {
+        "hebrew": 6,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "וְחַֽיְתוֹ־",
+      "transliteration": "veChayto-",
+      "englishLiteral": "and-living_thing-of",
+      "englishNatural": "and living-thing of",
+      "root": "chayah",
+      "prefixes": [
+        "ve"
+      ],
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "חַיַּ֤ת",
+      "transliteration": "chayat",
+      "englishLiteral": "living_thing-of",
+      "englishNatural": "living-thing of",
+      "root": "chayah",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "חַיָּ֖ה",
+      "transliteration": "chayah",
+      "englishLiteral": "living-thing",
+      "englishNatural": "living thing",
+      "root": "chayah",
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 19,
+        "english": 20
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      }
+    },
+    {
+      "hebrew": "חַיַּ֣ת",
+      "transliteration": "chayat",
+      "englishLiteral": "living_thing-of",
+      "englishNatural": "living-thing of",
+      "root": "chayah",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "חַיָּ֖ה",
+      "transliteration": "chayah",
+      "englishLiteral": "living",
+      "englishNatural": "living",
+      "root": "chayah",
+      "order": {
+        "hebrew": 14,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "חַיַּת",
+      "transliteration": "chayyat",
+      "englishLiteral": "living_thing-of",
+      "englishNatural": "living-thing of",
+      "root": "chayah",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "חַיָּה",
+      "transliteration": "chayyah",
+      "englishLiteral": "living",
+      "englishNatural": "each living",
+      "root": "chayah",
+      "order": {
+        "hebrew": 26,
+        "english": 25
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "חַיַּת",
+      "transliteration": "chayyat",
+      "englishLiteral": "living_thing-of",
+      "englishNatural": "living-thing of",
+      "root": "chayah",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "חַיִּים",
+      "transliteration": "chayyim",
+      "englishLiteral": "lives",
+      "englishNatural": "life",
+      "root": "chayah",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "חַיָּה׃",
+      "transliteration": "chayyah",
+      "englishLiteral": "living",
+      "englishNatural": "a living",
+      "root": "chayah",
+      "order": {
+        "hebrew": 16,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "."
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "הַחַיִּים",
+      "transliteration": "haChayyim",
+      "englishLiteral": "the-lives",
+      "englishNatural": "of Life",
+      "root": "chayah",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "חַיַּת",
+      "transliteration": "chayat",
+      "englishLiteral": "living_thing-of",
+      "englishNatural": "living-thing of",
+      "root": "chayah",
+      "suffixes": [
+        "construct_t"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "חַיַּת",
+      "transliteration": "chayat",
+      "englishLiteral": "living_thing",
+      "englishNatural": "living-thing",
+      "root": "chayah",
+      "suffixes": [
+        "construct_t"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "וָחַי",
+      "transliteration": "vaChai",
+      "englishLiteral": "and-live",
+      "englishNatural": "and live",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 21,
+        "english": 21
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 12
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 13
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 21
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "And-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 28
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "And-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "חַי",
+      "transliteration": "chai",
+      "englishLiteral": "he-lived",
+      "englishNatural": "he lived",
+      "root": "chayah",
+      "order": {
+        "hebrew": 6,
+        "english": 5
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "perfect"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "וַיְחִי",
+      "transliteration": "vaYechi",
+      "englishLiteral": "and-lived",
+      "englishNatural": "lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "imperfect"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "וָחָי",
+      "transliteration": "vaChai",
+      "englishLiteral": "and-lives",
+      "englishNatural": "will live",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "וָחָי",
+      "transliteration": "vaChai",
+      "englishLiteral": "and-lived",
+      "englishNatural": "he lived",
+      "root": "chayah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 18,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "חַיַּי",
+      "transliteration": "chayai",
+      "englishLiteral": "my-life",
+      "englishNatural": "my life",
+      "root": "chayah",
+      "suffixes": [
+        "ai"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "1st",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

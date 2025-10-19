@@ -1,0 +1,38 @@
+{
+  "key": "epo",
+  "greek": "εἶπον",
+  "transliteration": "eipon",
+  "englishLiteral": "say",
+  "englishNatural": "say",
+  "wordInstances": [
+    {
+      "greek": "εἶπεν",
+      "transliteration": "eipen",
+      "englishLiteral": "he-said",
+      "englishNatural": "he said",
+      "root": "epo",
+      "order": {
+        "greek": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "aorist",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

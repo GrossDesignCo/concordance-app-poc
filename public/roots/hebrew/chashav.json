@@ -1,0 +1,43 @@
+{
+  "key": "chashav",
+  "hebrew": "חשב",
+  "transliteration": "chashav",
+  "englishLiteral": "to plan",
+  "englishNatural": "to plan",
+  "type": "verb",
+  "description": "to plan, consider, account, plan, devise",
+  "wordInstances": [
+    {
+      "hebrew": "חִשְּׁבָה",
+      "transliteration": "chishvah",
+      "englishLiteral": "planned",
+      "englishNatural": "planned",
+      "root": "chashav",
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

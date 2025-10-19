@@ -1,0 +1,206 @@
+{
+  "key": "olam",
+  "hebrew": "עוֹלָם",
+  "transliteration": "olam",
+  "englishLiteral": "the_age",
+  "englishNatural": "the-age",
+  "type": "noun",
+  "description": "eternity, forever, everlasting, ancient time",
+  "wordInstances": [
+    {
+      "hebrew": "לְעֹלָם",
+      "transliteration": "leOlam",
+      "englishLiteral": "to-the_age",
+      "englishNatural": "to the-age",
+      "root": "olam",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 24,
+        "english": 24
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "לְעֹלָם׃",
+      "transliteration": "leOlam",
+      "englishLiteral": "to-the_age",
+      "englishNatural": "to the-age",
+      "root": "olam",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 22,
+        "english": 22
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "—",
+        "englishNatural": "—"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "לְעֹלָם",
+      "transliteration": "leOlam",
+      "englishLiteral": "to-the_age",
+      "englishNatural": "to the-age",
+      "root": "olam",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "מֵעוֹלָם",
+      "transliteration": "meOlam",
+      "englishLiteral": "from-the_age",
+      "englishNatural": "from the-age",
+      "root": "olam",
+      "prefixes": [
+        "me"
+      ],
+      "order": {
+        "hebrew": 21,
+        "english": 21
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "מֵעוֹלָם",
+      "transliteration": "meOlam",
+      "englishLiteral": "From-the_age",
+      "englishNatural": "From the-age",
+      "root": "olam",
+      "prefixes": [
+        "me"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "לְעוֹלָם",
+      "transliteration": "leOlam",
+      "englishLiteral": "to-the_age",
+      "englishNatural": "to the-age",
+      "root": "olam",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "עוֹלָם",
+      "transliteration": "olam",
+      "englishLiteral": "the_age",
+      "englishNatural": "the-age",
+      "root": "olam",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

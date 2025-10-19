@@ -1,0 +1,45 @@
+{
+  "key": "qidam",
+  "hebrew": "קדם",
+  "transliteration": "qidam",
+  "englishLiteral": "to precede",
+  "englishNatural": "to precede",
+  "type": "verb",
+  "description": "to precede, go before, anticipate, do beforehand",
+  "related": [
+    "qedem"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "קִדַּמְתִּי",
+      "transliteration": "qidamti",
+      "englishLiteral": "I-preceded",
+      "englishNatural": "I preceded",
+      "root": "qidam",
+      "suffixes": [
+        "ti"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "number": "singular",
+        "person": "1st",
+        "tense": "perfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

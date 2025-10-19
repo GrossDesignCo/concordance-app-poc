@@ -1,0 +1,91 @@
+{
+  "key": "barach",
+  "hebrew": "ברח",
+  "transliteration": "barach",
+  "englishLiteral": "to flee",
+  "englishNatural": "to flee",
+  "type": "verb",
+  "description": "to flee, run away, escape",
+  "wordInstances": [
+    {
+      "hebrew": "בֹרֵחַ",
+      "transliteration": "boreach",
+      "englishLiteral": "fleeing",
+      "englishNatural": "was fleeing",
+      "root": "barach",
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "לִבְרֹחַ",
+      "transliteration": "livroach",
+      "englishLiteral": "to-flee",
+      "englishNatural": "to flee to",
+      "root": "barach",
+      "prefixes": [
+        "li"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "infinitive_construct",
+        "stem": "qal"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "לִבְרֹחַ",
+      "transliteration": "livroch",
+      "englishLiteral": "to-flee",
+      "englishNatural": "to flee to",
+      "root": "barach",
+      "prefixes": [
+        "li"
+      ],
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "infinitive_construct",
+        "stem": "qal"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,171 @@
+{
+  "key": "nacham",
+  "hebrew": "נָחַם",
+  "transliteration": "nacham",
+  "englishLiteral": "to comfort",
+  "englishNatural": "to comfort",
+  "type": "verb",
+  "description": "to comfort, console, have compassion",
+  "wordInstances": [
+    {
+      "hebrew": "יְנַחֲמֵנוּ",
+      "transliteration": "yeNachamenu",
+      "englishLiteral": "will-comfort-us",
+      "englishNatural": "will comfort us",
+      "root": "nacham",
+      "prefixes": [
+        "ye"
+      ],
+      "suffixes": [
+        "nu"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "וַיִּנָּחֶם",
+      "transliteration": "vaYinachem",
+      "englishLiteral": "and-comforted",
+      "englishNatural": "comforted",
+      "root": "nacham",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "niphal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "וְנִחַם",
+      "transliteration": "veNicham",
+      "englishLiteral": "and-will-comfort",
+      "englishNatural": "and will comfort",
+      "root": "nacham",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "niphal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "וְנִחָם",
+      "transliteration": "veNicham",
+      "englishLiteral": "and-comforting",
+      "englishNatural": "and comforting",
+      "root": "nacham",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 30,
+        "english": 30
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "participle",
+        "stem": "niphal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "יְנַחֲמֻנִי",
+      "transliteration": "yenachamuni",
+      "englishLiteral": "comfort-me",
+      "englishNatural": "comfort me",
+      "root": "nacham",
+      "prefixes": [
+        "ye"
+      ],
+      "suffixes": [
+        "ni"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "person": "3rd",
+        "number": "plural",
+        "tense": "imperfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

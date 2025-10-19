@@ -1,0 +1,127 @@
+{
+  "key": "avar",
+  "hebrew": "עבר",
+  "transliteration": "avar",
+  "englishLiteral": "to pass_through",
+  "englishNatural": "to pass-through",
+  "description": "to pass through a place, to continue onward",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וַיַּעֲבֹר",
+      "transliteration": "vaYaavor",
+      "englishLiteral": "And-passed-through",
+      "englishNatural": "passed through",
+      "root": "avar",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "בַּעֲבוּרֶךָ",
+      "transliteration": "baavurekha",
+      "englishLiteral": "in-passing_through-your",
+      "englishNatural": "in your passing-through",
+      "root": "avar",
+      "prefixes": [
+        "ba"
+      ],
+      "suffixes": [
+        "ekha"
+      ],
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "וַיַּעֲבֵר",
+      "transliteration": "vaYaaver",
+      "englishLiteral": "and-passed_through",
+      "englishNatural": "and he passed-through",
+      "root": "avar",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "עָבְרוּ",
+      "transliteration": "avru",
+      "englishLiteral": "pass-on",
+      "englishNatural": "go on",
+      "root": "avar",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "neuter",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

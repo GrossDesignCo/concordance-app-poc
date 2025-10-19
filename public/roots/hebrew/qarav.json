@@ -1,0 +1,49 @@
+{
+  "key": "qarav",
+  "hebrew": "קרב",
+  "transliteration": "qarav",
+  "englishLiteral": "to approach",
+  "englishNatural": "to approach",
+  "type": "verb",
+  "description": "to come near, approach, draw near",
+  "related": [
+    "keruv"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וַיִּקְרַב",
+      "transliteration": "vaYiqrav",
+      "englishLiteral": "And-came",
+      "englishNatural": "came",
+      "root": "qarav",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

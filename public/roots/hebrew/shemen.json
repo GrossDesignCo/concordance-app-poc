@@ -1,0 +1,70 @@
+{
+  "key": "shemen",
+  "hebrew": "שמן",
+  "transliteration": "shemen",
+  "englishLiteral": "oil",
+  "englishNatural": "oil",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "מִשֶּׁמֶן",
+      "transliteration": "miShemen",
+      "englishLiteral": "than-oil",
+      "englishNatural": "oil",
+      "root": "shemen",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "absolute",
+        "type": "noun"
+      },
+      "lineBreaksAfter": {
+        "english": 1
+      },
+      "grammarSuffix": {
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "בַשֶּׁמֶן",
+      "transliteration": "baShemen",
+      "englishLiteral": "with-oil",
+      "englishNatural": "with oil",
+      "root": "shemen",
+      "prefixes": [
+        "ba"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

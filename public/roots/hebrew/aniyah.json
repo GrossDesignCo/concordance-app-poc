@@ -1,0 +1,88 @@
+{
+  "key": "aniyah",
+  "hebrew": "אניה",
+  "transliteration": "aniyah",
+  "englishLiteral": "ship",
+  "englishNatural": "ship",
+  "type": "noun",
+  "description": "ship, vessel, boat",
+  "wordInstances": [
+    {
+      "hebrew": "אָנִיָּה",
+      "transliteration": "aniyah",
+      "englishLiteral": "ship",
+      "englishNatural": "a ship",
+      "root": "aniyah",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "וְהָאֳנִיָּה",
+      "transliteration": "veHaOniyah",
+      "englishLiteral": "and-the-ship",
+      "englishNatural": "and the ship",
+      "root": "aniyah",
+      "prefixes": [
+        "ve",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "בָּאֳנִיָּה",
+      "transliteration": "baOniyah",
+      "englishLiteral": "in-the-ship",
+      "englishNatural": "in the ship",
+      "root": "aniyah",
+      "prefixes": [
+        "ba",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

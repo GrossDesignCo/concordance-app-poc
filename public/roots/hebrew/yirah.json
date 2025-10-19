@@ -1,0 +1,65 @@
+{
+  "key": "yirah",
+  "hebrew": "יִרְאָה",
+  "transliteration": "yirah",
+  "englishLiteral": "fear",
+  "englishNatural": "fear",
+  "type": "noun",
+  "description": "fear, reverence, awe",
+  "related": [
+    "yare"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "יִרְאָה",
+      "transliteration": "yirah",
+      "englishLiteral": "fear",
+      "englishNatural": "fear",
+      "root": "yirah",
+      "order": {
+        "hebrew": 3,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "יִרְאַת",
+      "transliteration": "yirat",
+      "englishLiteral": "Fear-of",
+      "englishNatural": "Fear of",
+      "root": "yirah",
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

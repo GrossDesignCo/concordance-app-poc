@@ -1,0 +1,44 @@
+{
+  "key": "mayan",
+  "hebrew": "מַעְיָן",
+  "transliteration": "mayan",
+  "englishLiteral": "spring",
+  "englishNatural": "spring",
+  "type": "noun",
+  "description": "spring, fountain, source of water",
+  "wordInstances": [
+    {
+      "hebrew": "מַעְיָנוֹת",
+      "transliteration": "mayanot",
+      "englishLiteral": "springs",
+      "englishNatural": "springs",
+      "root": "mayan",
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 24
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

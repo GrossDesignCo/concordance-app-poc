@@ -1,0 +1,43 @@
+{
+  "key": "hagah",
+  "hebrew": "הָגָה",
+  "transliteration": "hagah",
+  "englishLiteral": "to meditate",
+  "englishNatural": "to meditate",
+  "type": "verb",
+  "description": "to meditate, mutter, speak, study, utter",
+  "wordInstances": [
+    {
+      "hebrew": "יֶהְגֶּה",
+      "transliteration": "yehgeh",
+      "englishLiteral": "he-meditates",
+      "englishNatural": "he meditates",
+      "root": "hagah",
+      "prefixes": [
+        "ye"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

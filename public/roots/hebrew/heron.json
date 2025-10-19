@@ -1,0 +1,47 @@
+{
+  "key": "heron",
+  "hebrew": "הֵרָיוֹן",
+  "transliteration": "heron",
+  "englishLiteral": "pregnancy",
+  "englishNatural": "pregnancy",
+  "type": "noun",
+  "description": "pregnancy, conception, being with child",
+  "wordInstances": [
+    {
+      "hebrew": "וְהֵרֹנֵךְ",
+      "transliteration": "veHeronekh",
+      "englishLiteral": "and-pregnancy-your",
+      "englishNatural": "and your pregnancy",
+      "root": "heron",
+      "prefixes": [
+        "ve"
+      ],
+      "suffixes": [
+        "ekh"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

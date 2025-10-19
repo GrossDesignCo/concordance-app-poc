@@ -1,0 +1,40 @@
+{
+  "key": "anna",
+  "hebrew": "אנה",
+  "transliteration": "anna",
+  "englishLiteral": "please",
+  "englishNatural": "please",
+  "type": "particle",
+  "description": "please, I pray, entreaty particle",
+  "wordInstances": [
+    {
+      "hebrew": "אָנָּה",
+      "transliteration": "anna",
+      "englishLiteral": "please",
+      "englishNatural": "Please",
+      "root": "anna",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "particle"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,39 @@
+{
+  "key": "uz",
+  "hebrew": "עז",
+  "transliteration": "uz",
+  "englishLiteral": "strength",
+  "englishNatural": "strength",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "עֻזִּיָּהוּ",
+      "transliteration": "Uzziyahu",
+      "englishLiteral": "He_my_Strength (Uzziah)",
+      "englishNatural": "He-my-Strength (Uzziah)",
+      "root": "uz",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 2,
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

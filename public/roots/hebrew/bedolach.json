@@ -1,0 +1,42 @@
+{
+  "key": "bedolach",
+  "hebrew": "בְּדֹלַח",
+  "transliteration": "bedolach",
+  "englishLiteral": "bedolach",
+  "englishNatural": "bedolach",
+  "description": "Alabaster is a best guess, traditionally just transliterated as bdellium in Greek and Latin, or as pearl, or crystal, but Hebrew has separate distinct words for those, unlike Alabaster stone, which it _should_ have a word for, but does not.",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "הַבְּדֹלַח",
+      "transliteration": "haBedolach",
+      "englishLiteral": "the-bedolach",
+      "englishNatural": "the bedolach",
+      "root": "bedolach",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 12
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,42 @@
+{
+  "key": "poimaino",
+  "greek": "ποιμαίνω",
+  "transliteration": "poimaino",
+  "englishLiteral": "shepherd",
+  "englishNatural": "shepherd",
+  "wordInstances": [
+    {
+      "greek": "ποίμαινε",
+      "transliteration": "poimaine",
+      "englishLiteral": "Shepherd",
+      "englishNatural": "Shepherd",
+      "root": "poimaino",
+      "order": {
+        "greek": 20,
+        "english": 20
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "imperative",
+        "person": "2nd",
+        "number": "singular"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

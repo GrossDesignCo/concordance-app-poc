@@ -1,0 +1,40 @@
+{
+  "key": "gachon",
+  "hebrew": "גחון",
+  "transliteration": "gachon",
+  "englishLiteral": "belly",
+  "englishNatural": "belly",
+  "type": "noun",
+  "description": "belly, abdomen",
+  "wordInstances": [
+    {
+      "hebrew": "גְּחֹנְךָ",
+      "transliteration": "gechonkha",
+      "englishLiteral": "belly-your",
+      "englishNatural": "your belly",
+      "root": "gachon",
+      "suffixes": [
+        "kha"
+      ],
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

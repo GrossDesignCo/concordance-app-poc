@@ -1,0 +1,178 @@
+{
+  "key": "erev",
+  "hebrew": "ערב",
+  "transliteration": "erev",
+  "englishLiteral": "evening",
+  "englishNatural": "evening",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "עֶ֥רֶב",
+      "transliteration": "erev",
+      "englishLiteral": "evening",
+      "englishNatural": "And evening",
+      "root": "erev",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 13
+      }
+    },
+    {
+      "hebrew": "עֶ֥רֶב",
+      "transliteration": "erev",
+      "englishLiteral": "evening",
+      "englishNatural": "And evening",
+      "root": "erev",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "עֶ֥רֶב",
+      "transliteration": "erev",
+      "englishLiteral": "evening",
+      "englishNatural": "And evening",
+      "root": "erev",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "עֶ֥רֶב",
+      "transliteration": "erev",
+      "englishLiteral": "evening",
+      "englishNatural": "And evening",
+      "root": "erev",
+      "order": {
+        "hebrew": 11,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 31
+      }
+    },
+    {
+      "hebrew": "עֶ֥רֶב",
+      "transliteration": "erev",
+      "englishLiteral": "evening",
+      "englishNatural": "And evening",
+      "root": "erev",
+      "order": {
+        "hebrew": 9,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ""
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "עֶ֥רֶב",
+      "transliteration": "erev",
+      "englishLiteral": "evening",
+      "englishNatural": "And evening",
+      "root": "erev",
+      "order": {
+        "hebrew": 6,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 8
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

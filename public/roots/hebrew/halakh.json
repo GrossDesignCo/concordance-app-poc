@@ -1,0 +1,312 @@
+{
+  "key": "halakh",
+  "hebrew": "הלך",
+  "transliteration": "halakh",
+  "englishLiteral": "to walk",
+  "englishNatural": "to walk",
+  "description": "to go, to walk, to travel",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "הַהֹלֵךְ",
+      "transliteration": "haHolekh",
+      "englishLiteral": "the-walking",
+      "englishNatural": "walks",
+      "root": "halakh",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "verb",
+        "stem": "qal",
+        "tense": "participle"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "תֵלֵךְ",
+      "transliteration": "telekh",
+      "englishLiteral": "you-will_walk",
+      "englishNatural": "you will walk",
+      "root": "halakh",
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "מִתְהַלֵּךְ",
+      "transliteration": "mithallekh",
+      "englishLiteral": "walking",
+      "englishNatural": "walking",
+      "root": "halakh",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "participle",
+        "stem": "hithpael",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "וַיִּתְהַלֵּךְ",
+      "transliteration": "vaYithalekh",
+      "englishLiteral": "and-walked",
+      "englishNatural": "walked",
+      "root": "halakh",
+      "prefixes": [
+        "va",
+        "yit"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "hithpael",
+        "tense": "imperfect"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "וַיִּתְהַלֵּךְ",
+      "transliteration": "vaYithalekh",
+      "englishLiteral": "and-walked",
+      "englishNatural": "walked",
+      "root": "halakh",
+      "prefixes": [
+        "va",
+        "yit"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "hithpael",
+        "tense": "imperfect"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "לֵךְ",
+      "transliteration": "lekh",
+      "englishLiteral": "go",
+      "englishNatural": "go",
+      "root": "halakh",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperative",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "לֵךְ",
+      "transliteration": "lekh",
+      "englishLiteral": "go",
+      "englishNatural": "go",
+      "root": "halakh",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "type": "verb",
+        "tense": "imperative",
+        "stem": "qal"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "וַיֵּלֶךְ",
+      "transliteration": "vaYelekh",
+      "englishLiteral": "and-went",
+      "englishNatural": "and went",
+      "root": "halakh",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "הָלַךְ",
+      "transliteration": "halakh",
+      "englishLiteral": "has-walked",
+      "englishNatural": "has walked",
+      "root": "halakh",
+      "order": {
+        "hebrew": 5,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "הִלַּכְתִּי",
+      "transliteration": "hilakhti",
+      "englishLiteral": "I-have-walked",
+      "englishNatural": "and I have walked",
+      "root": "halakh",
+      "prefixes": [
+        "hi"
+      ],
+      "suffixes": [
+        "ti"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "1st",
+        "tense": "perfect",
+        "stem": "hithpael",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "אֵלֵךְ",
+      "transliteration": "elekh",
+      "englishLiteral": "I-walk",
+      "englishNatural": "I walk",
+      "root": "halakh",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "person": "1st",
+        "number": "singular",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

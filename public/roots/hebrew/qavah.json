@@ -1,0 +1,78 @@
+{
+  "key": "qavah",
+  "hebrew": "קוה",
+  "transliteration": "qavah",
+  "englishLiteral": "to gather",
+  "englishNatural": "to gather",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וּלְמִקְוֵ֥ה",
+      "transliteration": "uLeMiQveh",
+      "englishLiteral": "and-to-gathering",
+      "englishNatural": "and to the gathering of",
+      "root": "qavah",
+      "prefixes": [
+        "u",
+        "le",
+        "mi"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "יִקָּו֨וּ",
+      "transliteration": "yiqqavu",
+      "englishLiteral": "Let-gather",
+      "englishNatural": "gather",
+      "root": "qavah",
+      "prefixes": [
+        "yi"
+      ],
+      "suffixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "niphal",
+        "type": "verb"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\""
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 9
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

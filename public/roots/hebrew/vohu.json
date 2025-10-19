@@ -1,0 +1,45 @@
+{
+  "key": "vohu",
+  "hebrew": "בהו",
+  "transliteration": "vohu",
+  "englishLiteral": "void",
+  "englishNatural": "void",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "וָבֹ֔הוּ",
+      "transliteration": "vaVohu",
+      "englishLiteral": "and-void",
+      "englishNatural": "and void",
+      "root": "vohu",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "absolute",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "transliteration": ";",
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

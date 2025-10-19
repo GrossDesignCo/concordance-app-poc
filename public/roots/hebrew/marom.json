@@ -1,0 +1,40 @@
+{
+  "key": "marom",
+  "hebrew": "מָרוֹם",
+  "transliteration": "marom",
+  "englishLiteral": "height",
+  "englishNatural": "height",
+  "type": "noun",
+  "description": "height, high place, elevation",
+  "wordInstances": [
+    {
+      "hebrew": "מְרוֹמִים",
+      "transliteration": "meromim",
+      "englishLiteral": "heights",
+      "englishNatural": "heights",
+      "root": "marom",
+      "suffixes": [
+        "im"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

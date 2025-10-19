@@ -1,0 +1,63 @@
+{
+  "key": "zahav",
+  "hebrew": "זָהָב",
+  "transliteration": "zahav",
+  "englishLiteral": "gold",
+  "englishNatural": "gold",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "הַזָּהָב׃",
+      "transliteration": "haZahav",
+      "englishLiteral": "the-gold",
+      "englishNatural": "the gold",
+      "root": "zahav",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "וּזְהַב",
+      "transliteration": "uZehav",
+      "englishLiteral": "and-gold",
+      "englishNatural": "And the gold",
+      "root": "zahav",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 12
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

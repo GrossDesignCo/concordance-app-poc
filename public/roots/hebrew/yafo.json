@@ -1,0 +1,41 @@
+{
+  "key": "yafo",
+  "hebrew": "יפו",
+  "transliteration": "Yafo",
+  "englishLiteral": "Beautiful (Joppa)",
+  "englishNatural": "Beautiful (Joppa)",
+  "type": "noun",
+  "description": "proper name, Joppa, port city on Mediterranean coast",
+  "wordInstances": [
+    {
+      "hebrew": "יָפוֹ",
+      "transliteration": "Yafo",
+      "englishLiteral": "Beautiful",
+      "englishNatural": "Beautiful",
+      "root": "yafo",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

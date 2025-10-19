@@ -1,0 +1,45 @@
+{
+  "key": "goy",
+  "hebrew": "גּוֹי",
+  "transliteration": "goy",
+  "englishLiteral": "nation",
+  "englishNatural": "nation",
+  "type": "noun",
+  "description": "nation, people group, gentile nation",
+  "wordInstances": [
+    {
+      "hebrew": "גּוֹיִם",
+      "transliteration": "goyim",
+      "englishLiteral": "nations",
+      "englishNatural": "nations",
+      "root": "goy",
+      "suffixes": [
+        "im"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ":"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

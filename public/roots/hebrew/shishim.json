@@ -1,0 +1,163 @@
+{
+  "key": "shishim",
+  "hebrew": "שִׁשִּׁים",
+  "transliteration": "shishim",
+  "englishLiteral": "sixty",
+  "englishNatural": "sixty",
+  "type": "numeral",
+  "description": "sixty, the number sixty",
+  "related": [
+    "shishi"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וְשִׁשִּׁים",
+      "transliteration": "veShishim",
+      "englishLiteral": "and-sixty",
+      "englishNatural": "and sixty",
+      "root": "shishim",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "masculine",
+        "number": "plural"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "וְשִׁשִּׁים",
+      "transliteration": "veShishim",
+      "englishLiteral": "and-sixty",
+      "englishNatural": "and sixty",
+      "root": "shishim",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "masculine",
+        "number": "plural"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "וְשִׁשִּׁים",
+      "transliteration": "veShishim",
+      "englishLiteral": "and-sixty",
+      "englishNatural": "and sixty",
+      "root": "shishim",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "masculine",
+        "number": "plural"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "וְשִׁשִּׁים",
+      "transliteration": "veShishim",
+      "englishLiteral": "and-sixty",
+      "englishNatural": "and sixty",
+      "root": "shishim",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "masculine",
+        "number": "plural"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 21
+      }
+    },
+    {
+      "hebrew": "וְשִׁשִּׁים",
+      "transliteration": "veShishim",
+      "englishLiteral": "and-sixty",
+      "englishNatural": "and sixty",
+      "root": "shishim",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "masculine",
+        "number": "plural"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "וְשִׁשִּׁים",
+      "transliteration": "veShishim",
+      "englishLiteral": "and-sixty",
+      "englishNatural": "and sixty",
+      "root": "shishim",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "masculine",
+        "number": "plural"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 27
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

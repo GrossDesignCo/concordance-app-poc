@@ -1,0 +1,43 @@
+{
+  "key": "rash",
+  "hebrew": "רש",
+  "transliteration": "rash",
+  "englishLiteral": "poor",
+  "englishNatural": "poor",
+  "related": [
+    "ashar"
+  ],
+  "type": "adjective",
+  "wordInstances": [
+    {
+      "hebrew": "וָרָשׁ",
+      "transliteration": "vaRash",
+      "englishLiteral": "and-Poor",
+      "englishNatural": "and Poor",
+      "root": "rash",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "absolute",
+        "type": "adjective"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

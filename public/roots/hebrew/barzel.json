@@ -1,0 +1,44 @@
+{
+  "key": "barzel",
+  "hebrew": "בַּרְזֶל",
+  "transliteration": "barzel",
+  "englishLiteral": "iron",
+  "englishNatural": "iron",
+  "type": "noun",
+  "description": "iron (as cutting); iron tool",
+  "wordInstances": [
+    {
+      "hebrew": "וּבַרְזֶל",
+      "transliteration": "uVarzel",
+      "englishLiteral": "and-iron",
+      "englishNatural": "and iron",
+      "root": "barzel",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

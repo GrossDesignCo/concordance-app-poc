@@ -1,0 +1,71 @@
+{
+  "key": "kisse",
+  "hebrew": "כסא",
+  "transliteration": "kisse",
+  "englishLiteral": "throne",
+  "englishNatural": "throne",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "כִּסֵּא",
+      "transliteration": "kisse",
+      "englishLiteral": "throne",
+      "englishNatural": "a throne",
+      "root": "kisse",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "מִכִּסְאוֹ",
+      "transliteration": "mikisso",
+      "englishLiteral": "from-throne-his",
+      "englishNatural": "from his throne",
+      "root": "kisse",
+      "prefixes": [
+        "mi"
+      ],
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

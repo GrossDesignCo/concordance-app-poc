@@ -1,0 +1,184 @@
+{
+  "key": "chamesh",
+  "hebrew": "חֲמֵשׁ",
+  "transliteration": "chamesh",
+  "englishLiteral": "five",
+  "englishNatural": "five",
+  "type": "numeral",
+  "description": "five, the number five",
+  "related": [
+    "chamishah",
+    "chamishi"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "חֲמֵשׁ",
+      "transliteration": "chamesh",
+      "englishLiteral": "five",
+      "englishNatural": "five",
+      "root": "chamesh",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "חֲמֵשׁ",
+      "transliteration": "chamesh",
+      "englishLiteral": "five",
+      "englishNatural": "five",
+      "root": "chamesh",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "חֲמֵשׁ",
+      "transliteration": "chamesh",
+      "englishLiteral": "five",
+      "englishNatural": "five",
+      "root": "chamesh",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "חֲמֵשׁ",
+      "transliteration": "chamesh",
+      "englishLiteral": "five",
+      "englishNatural": "five",
+      "root": "chamesh",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "חֲמֵשׁ",
+      "transliteration": "chamesh",
+      "englishLiteral": "five",
+      "englishNatural": "five",
+      "root": "chamesh",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "חָמֵשׁ",
+      "transliteration": "chamesh",
+      "englishLiteral": "five",
+      "englishNatural": "five",
+      "root": "chamesh",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "numeral"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "חֲמֵשׁ",
+      "transliteration": "chamesh",
+      "englishLiteral": "five",
+      "englishNatural": "five",
+      "root": "chamesh",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "numeral"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 32
+      }
+    },
+    {
+      "hebrew": "חָמֵשׁ",
+      "transliteration": "chamesh",
+      "englishLiteral": "five",
+      "englishNatural": "five",
+      "root": "chamesh",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

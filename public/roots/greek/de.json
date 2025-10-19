@@ -1,0 +1,33 @@
+{
+  "key": "de",
+  "greek": "δέ",
+  "transliteration": "de",
+  "englishLiteral": "but",
+  "englishNatural": "but",
+  "wordInstances": [
+    {
+      "greek": "δὲ",
+      "transliteration": "de",
+      "englishLiteral": "but",
+      "englishNatural": "but",
+      "root": "de",
+      "order": {
+        "greek": 15,
+        "english": 14
+      },
+      "morphology": {
+        "type": "particle"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

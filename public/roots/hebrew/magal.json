@@ -1,0 +1,45 @@
+{
+  "key": "magal",
+  "hebrew": "מַעְגָּל",
+  "transliteration": "magal",
+  "englishLiteral": "path",
+  "englishNatural": "path",
+  "type": "noun",
+  "description": "path, track, course, way",
+  "wordInstances": [
+    {
+      "hebrew": "בְּמַעְגְּלֵי־",
+      "transliteration": "beMaglei-",
+      "englishLiteral": "in-paths-of-",
+      "englishNatural": "in paths of",
+      "root": "magal",
+      "prefixes": [
+        "be"
+      ],
+      "suffixes": [
+        "ei"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "state": "construct",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

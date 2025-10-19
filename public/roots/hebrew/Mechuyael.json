@@ -1,0 +1,62 @@
+{
+  "key": "Mechuyael",
+  "hebrew": "מְחוּיָאֵל",
+  "transliteration": "Mechuyael",
+  "englishLiteral": "Smitten-of-God (Mehujael)",
+  "englishNatural": "Smitten-of-God (Mehujael)",
+  "type": "noun",
+  "description": "proper name, Mehujael, meaning \"smitten of God\" or \"God gives life\"",
+  "wordInstances": [
+    {
+      "hebrew": "מְחוּיָאֵל",
+      "transliteration": "Mechuyael",
+      "englishLiteral": "Smitten-of-God (Mehujael)",
+      "englishNatural": "Smitten-of-God (Mehujael)",
+      "root": "Mechuyael",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "וּמְחִיָּאֵל",
+      "transliteration": "uMechiyael",
+      "englishLiteral": "and-Smitten-of-God (Mehujael)",
+      "englishNatural": "and Smitten-of-God (Mehujael)",
+      "root": "Mechuyael",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 18
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

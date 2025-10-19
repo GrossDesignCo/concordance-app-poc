@@ -1,0 +1,508 @@
+{
+  "key": "etz",
+  "hebrew": "עֵץ",
+  "transliteration": "etz",
+  "englishLiteral": "tree",
+  "englishNatural": "tree",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "עֵ֣ץ",
+      "transliteration": "etz",
+      "englishLiteral": "tree",
+      "englishNatural": "tree",
+      "root": "etz",
+      "order": {
+        "hebrew": 9,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "וְעֵ֧ץ",
+      "transliteration": "veEtz",
+      "englishLiteral": "and-tree",
+      "englishNatural": "and tree",
+      "root": "etz",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      }
+    },
+    {
+      "hebrew": "הָעֵ֗ץ",
+      "transliteration": "haEtz",
+      "englishLiteral": "the-tree",
+      "englishNatural": "the tree",
+      "root": "etz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "עֵ֣ץ",
+      "transliteration": "etz",
+      "englishLiteral": "tree",
+      "englishNatural": "tree",
+      "root": "etz",
+      "order": {
+        "hebrew": 22,
+        "english": 22
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "עֵץ־",
+      "transliteration": "etz-",
+      "englishLiteral": "tree-",
+      "englishNatural": "tree",
+      "root": "etz",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "וּמֵעֵץ",
+      "transliteration": "uMeEtz",
+      "englishLiteral": "and-from-tree",
+      "englishNatural": "and from the Tree",
+      "root": "etz",
+      "prefixes": [
+        "u",
+        "me"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "עֵץ",
+      "transliteration": "etz",
+      "englishLiteral": "tree",
+      "englishNatural": "tree",
+      "root": "etz",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "וְעֵץ",
+      "transliteration": "veEtz",
+      "englishLiteral": "and-tree",
+      "englishNatural": "and the Tree",
+      "root": "etz",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "וְעֵץ",
+      "transliteration": "veEtz",
+      "englishLiteral": "and-tree",
+      "englishNatural": "and the Tree",
+      "root": "etz",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "עֵץ",
+      "transliteration": "etz",
+      "englishLiteral": "tree",
+      "englishNatural": "tree",
+      "root": "etz",
+      "order": {
+        "hebrew": 21,
+        "english": 21
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "הָעֵץ",
+      "transliteration": "haEtz",
+      "englishLiteral": "the-tree",
+      "englishNatural": "the tree",
+      "root": "etz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "הָעֵץ",
+      "transliteration": "haEtz",
+      "englishLiteral": "the-tree",
+      "englishNatural": "the tree",
+      "root": "etz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 12
+      }
+    },
+    {
+      "hebrew": "הָעֵץ",
+      "transliteration": "haEtz",
+      "englishLiteral": "the-tree",
+      "englishNatural": "the tree",
+      "root": "etz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "עֵץ־",
+      "transliteration": "etz-",
+      "englishLiteral": "tree",
+      "englishNatural": "the tree of",
+      "root": "etz",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "מֵעֵץ",
+      "transliteration": "meEtz",
+      "englishLiteral": "from-tree",
+      "englishNatural": "from the Tree",
+      "root": "etz",
+      "prefixes": [
+        "me"
+      ],
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "עֵץ",
+      "transliteration": "etz",
+      "englishLiteral": "tree",
+      "englishNatural": "to the Tree",
+      "root": "etz",
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "הָעֵץ",
+      "transliteration": "haEtz",
+      "englishLiteral": "the-tree",
+      "englishNatural": "the tree",
+      "root": "etz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "הָעֵץ",
+      "transliteration": "haEtz",
+      "englishLiteral": "the-tree",
+      "englishNatural": "the tree",
+      "root": "etz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "הָעֵץ",
+      "transliteration": "haEtz",
+      "englishLiteral": "the-tree",
+      "englishNatural": "was the tree",
+      "root": "etz",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "עֵץ",
+      "transliteration": "etz",
+      "englishLiteral": "tree",
+      "englishNatural": "the tree",
+      "root": "etz",
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "כְּעֵץ",
+      "transliteration": "keEtz",
+      "englishLiteral": "as-tree",
+      "englishNatural": "as a tree",
+      "root": "etz",
+      "prefixes": [
+        "ke"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

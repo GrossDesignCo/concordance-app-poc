@@ -1,0 +1,45 @@
+{
+  "key": "pi",
+  "hebrew": "פי",
+  "transliteration": "pi",
+  "englishLiteral": "mouth",
+  "englishNatural": "mouth",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "פִּי",
+      "transliteration": "pi",
+      "englishLiteral": "my-mouth",
+      "englishNatural": "my mouth",
+      "root": "pi",
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "1st",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,50 @@
+{
+  "key": "kavash",
+  "hebrew": "כבש",
+  "transliteration": "kavash",
+  "englishLiteral": "to conquer",
+  "englishNatural": "to conquer",
+  "description": "to conquer militarily, to subdue",
+  "related": [
+    "radah"
+  ],
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וְכִבְשֻׁ֑הָ",
+      "transliteration": "veKivshuah",
+      "englishLiteral": "And-conquer",
+      "englishNatural": "And conquer",
+      "root": "kavash",
+      "prefixes": [
+        "ve"
+      ],
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "2nd",
+        "tense": "imperative",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

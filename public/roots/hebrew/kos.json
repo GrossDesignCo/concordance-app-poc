@@ -1,0 +1,45 @@
+{
+  "key": "kos",
+  "hebrew": "כּוֹס",
+  "transliteration": "kos",
+  "englishLiteral": "cup",
+  "englishNatural": "cup",
+  "type": "noun",
+  "description": "cup, goblet, bowl",
+  "wordInstances": [
+    {
+      "hebrew": "כּוֹסִי",
+      "transliteration": "kosi",
+      "englishLiteral": "my-cup",
+      "englishNatural": "my cup",
+      "root": "kos",
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "1st",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

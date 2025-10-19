@@ -1,0 +1,42 @@
+{
+  "key": "avraham",
+  "hebrew": "אברהם",
+  "transliteration": "Avraham",
+  "englishLiteral": "Father_of_Multitudes (Abraham)",
+  "englishNatural": "Father-of-Multitudes (Abraham)",
+  "type": "noun",
+  "description": "proper name, Abraham, meaning \"father of multitudes\"",
+  "related": [
+    "av"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "אַבְרָהָם",
+      "transliteration": "Avraham",
+      "englishLiteral": "Father_of_Multitudes (Abraham)",
+      "englishNatural": "Father-of-Multitudes (Abraham)",
+      "root": "avraham",
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

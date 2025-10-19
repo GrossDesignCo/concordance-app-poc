@@ -1,0 +1,39 @@
+{
+  "key": "chidekel",
+  "hebrew": "חִדֶּקֶל",
+  "transliteration": "chidekel",
+  "englishLiteral": "Rapid (Chidekel)",
+  "englishNatural": "Rapid (Chidekel)",
+  "description": "Proper noun, river name in Eden, traditionally identified as the Tigris",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "חִדֶּקֶל",
+      "transliteration": "Chidekel",
+      "englishLiteral": "Rapid (Chidekel)",
+      "englishNatural": "Rapid (Chidekel)",
+      "root": "chidekel",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

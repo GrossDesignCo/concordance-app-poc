@@ -1,0 +1,79 @@
+{
+  "key": "hi",
+  "hebrew": "היא",
+  "transliteration": "hi",
+  "englishLiteral": "she",
+  "englishNatural": "she",
+  "type": "pronoun",
+  "description": "third person feminine singular pronoun",
+  "wordInstances": [
+    {
+      "hebrew": "הִיא",
+      "transliteration": "hi",
+      "englishLiteral": "she",
+      "englishNatural": "she",
+      "root": "hi",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "pronoun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 12
+      }
+    },
+    {
+      "hebrew": "הִוא",
+      "transliteration": "hi",
+      "englishLiteral": "she",
+      "englishNatural": "she",
+      "root": "hi",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "3rd",
+        "type": "pronoun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "הִוא",
+      "transliteration": "hi",
+      "englishLiteral": "she",
+      "englishNatural": "she",
+      "root": "hi",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "3rd",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

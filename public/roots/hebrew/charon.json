@@ -1,0 +1,44 @@
+{
+  "key": "charon",
+  "hebrew": "חרון",
+  "transliteration": "charon",
+  "englishLiteral": "burning",
+  "englishNatural": "burning",
+  "type": "noun",
+  "description": "burning, heat, fierce anger, usually used with \"aph\" (nose) for fierce anger",
+  "related": [
+    "charah"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "מֵחֲרוֹן",
+      "transliteration": "meCharon",
+      "englishLiteral": "from-burning-of",
+      "englishNatural": "from the burning of",
+      "root": "charon",
+      "prefixes": [
+        "me"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

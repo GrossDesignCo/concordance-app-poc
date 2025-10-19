@@ -1,0 +1,49 @@
+{
+  "key": "radaf",
+  "hebrew": "רָדַף",
+  "transliteration": "radaf",
+  "englishLiteral": "to pursue",
+  "englishNatural": "to pursue",
+  "type": "verb",
+  "description": "to pursue, follow after, chase, persecute",
+  "wordInstances": [
+    {
+      "hebrew": "יִרְדְּפוּנִי",
+      "transliteration": "yirdefuni",
+      "englishLiteral": "they-will-pursue-me",
+      "englishNatural": "will pursue me",
+      "root": "radaf",
+      "prefixes": [
+        "yi"
+      ],
+      "suffixes": [
+        "ni"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "person": "3rd",
+        "number": "plural",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

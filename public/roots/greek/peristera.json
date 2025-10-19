@@ -1,0 +1,41 @@
+{
+  "key": "peristera",
+  "greek": "περιστεραί",
+  "transliteration": "peristerai",
+  "englishLiteral": "doves",
+  "englishNatural": "doves",
+  "wordInstances": [
+    {
+      "greek": "περιστεραί",
+      "transliteration": "peristerai",
+      "englishLiteral": "doves",
+      "englishNatural": "doves",
+      "root": "peristera",
+      "order": {
+        "greek": 20,
+        "english": 20
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural",
+        "case": "nominative"
+      },
+      "grammarSuffix": {
+        "transliteration": ".",
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

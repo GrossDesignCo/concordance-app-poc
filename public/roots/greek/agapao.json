@@ -1,0 +1,62 @@
+{
+  "key": "agapao",
+  "greek": "ἀγαπάω",
+  "transliteration": "agapao",
+  "englishLiteral": "God_love",
+  "englishNatural": "God-love",
+  "wordInstances": [
+    {
+      "greek": "ἀγαπᾷς",
+      "transliteration": "agapas",
+      "englishLiteral": "do-you-god_love",
+      "englishNatural": "do you god-love",
+      "root": "agapao",
+      "order": {
+        "greek": 12,
+        "english": 14
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "2nd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "ἀγαπᾷς",
+      "transliteration": "agapas",
+      "englishLiteral": "do-you-god_love",
+      "englishNatural": "do you god-love",
+      "root": "agapao",
+      "order": {
+        "greek": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "2nd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

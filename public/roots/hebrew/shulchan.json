@@ -1,0 +1,41 @@
+{
+  "key": "shulchan",
+  "hebrew": "שֻׁלְחָן",
+  "transliteration": "shulchan",
+  "englishLiteral": "table",
+  "englishNatural": "table",
+  "type": "noun",
+  "description": "table, dining table",
+  "wordInstances": [
+    {
+      "hebrew": "שֻׁלְחָן",
+      "transliteration": "shulchan",
+      "englishLiteral": "table",
+      "englishNatural": "a table",
+      "root": "shulchan",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

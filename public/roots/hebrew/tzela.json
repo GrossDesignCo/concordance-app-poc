@@ -1,0 +1,70 @@
+{
+  "key": "tzela",
+  "hebrew": "צלע",
+  "transliteration": "tzela",
+  "englishLiteral": "side",
+  "englishNatural": "side",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "מִצַּלְעֹתָיו",
+      "transliteration": "miTzalotav",
+      "englishLiteral": "from-his-sides",
+      "englishNatural": "from his sides",
+      "root": "tzela",
+      "prefixes": [
+        "mi"
+      ],
+      "suffixes": [
+        "av"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      }
+    },
+    {
+      "hebrew": "הַצֵּלָע",
+      "transliteration": "haTzela",
+      "englishLiteral": "the-side",
+      "englishNatural": "the side",
+      "root": "tzela",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 22
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

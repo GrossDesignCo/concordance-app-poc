@@ -1,0 +1,42 @@
+{
+  "key": "gerao",
+  "greek": "γηράσκω",
+  "transliteration": "gerao",
+  "englishLiteral": "grow_old",
+  "englishNatural": "grow-old",
+  "wordInstances": [
+    {
+      "greek": "γηράσῃς",
+      "transliteration": "gērasēs",
+      "englishLiteral": "you-grow_old",
+      "englishNatural": "you grow old",
+      "root": "gerao",
+      "order": {
+        "greek": 16,
+        "english": 16
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "aorist",
+        "voice": "active",
+        "mood": "subjunctive",
+        "person": "2nd",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

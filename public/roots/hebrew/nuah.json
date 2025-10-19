@@ -1,0 +1,43 @@
+{
+  "key": "nuah",
+  "hebrew": "נוע",
+  "transliteration": "nuah",
+  "englishLiteral": "to shake",
+  "englishNatural": "to shake",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וַיָּנֻ֙עוּ֙",
+      "transliteration": "vaiYanu",
+      "englishLiteral": "And-shook",
+      "englishNatural": "shook",
+      "root": "nuah",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

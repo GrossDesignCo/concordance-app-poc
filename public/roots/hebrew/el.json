@@ -1,0 +1,1277 @@
+{
+  "key": "el",
+  "hebrew": "אֶל",
+  "transliteration": "el",
+  "englishLiteral": "to",
+  "englishNatural": "to",
+  "type": "preposition",
+  "wordInstances": [
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "אֵל",
+      "transliteration": "El",
+      "englishLiteral": "God",
+      "englishNatural": "God",
+      "root": "el",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "אֶל",
+      "transliteration": "el",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "אֶל",
+      "transliteration": "el",
+      "englishLiteral": "To",
+      "englishNatural": "To",
+      "root": "el",
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "וְאֶל",
+      "transliteration": "veEl",
+      "englishLiteral": "and-to",
+      "englishNatural": "and to",
+      "root": "el",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "וְאֶל־",
+      "transliteration": "veEl-",
+      "englishLiteral": "and-to",
+      "englishNatural": "and to",
+      "root": "el",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ""
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "אֵלַי",
+      "transliteration": "elay",
+      "englishLiteral": "to-me",
+      "englishNatural": "to me",
+      "root": "el",
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "number": "singular",
+        "person": "1st",
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 13
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "וְאֶל־",
+      "transliteration": "veEl-",
+      "englishLiteral": "and-to",
+      "englishNatural": "and to",
+      "root": "el",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "וְאֶל־",
+      "transliteration": "veEl-",
+      "englishLiteral": "And-to",
+      "englishNatural": "And to",
+      "root": "el",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "וְאֶל־",
+      "transliteration": "veEl-",
+      "englishLiteral": "and-to",
+      "englishNatural": "and to",
+      "root": "el",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "וְאֵלֶיךָ",
+      "transliteration": "veElekha",
+      "englishLiteral": "and-to-you",
+      "englishNatural": "and to you",
+      "root": "el",
+      "prefixes": [
+        "ve"
+      ],
+      "suffixes": [
+        "kha"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "person": "2nd",
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "אֶל",
+      "transliteration": "el",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "אֵלַי",
+      "transliteration": "elai",
+      "englishLiteral": "to-me",
+      "englishNatural": "to me",
+      "root": "el",
+      "suffixes": [
+        "ai"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "it to",
+      "root": "el",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "אֵלָיו",
+      "transliteration": "elav",
+      "englishLiteral": "to-him",
+      "englishNatural": "to him",
+      "root": "el",
+      "suffixes": [
+        "av"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "into",
+      "root": "el",
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "אֵלָיו",
+      "transliteration": "elav",
+      "englishLiteral": "to-him",
+      "englishNatural": "to him",
+      "root": "el",
+      "suffixes": [
+        "av"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 4
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "לוֹ",
+      "transliteration": "lo",
+      "englishLiteral": "to-him",
+      "englishNatural": "to him",
+      "root": "el",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "לְּךָ",
+      "transliteration": "lekha",
+      "englishLiteral": "to-you",
+      "englishNatural": "is with you",
+      "root": "el",
+      "prefixes": [
+        "le"
+      ],
+      "suffixes": [
+        "kha"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "אֵלָיו",
+      "transliteration": "elav",
+      "englishLiteral": "to-him",
+      "englishNatural": "to him",
+      "root": "el",
+      "suffixes": [
+        "av"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "אֲלֵיהֶם",
+      "transliteration": "aleihem",
+      "englishLiteral": "to-them",
+      "englishNatural": "to them",
+      "root": "el",
+      "suffixes": [
+        "eihem"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "אֵלֶיהָ",
+      "transliteration": "eleha",
+      "englishLiteral": "to-her",
+      "englishNatural": "to her",
+      "root": "el",
+      "suffixes": [
+        "ha_feminine"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "אֵלֶיךָ",
+      "transliteration": "elekha",
+      "englishLiteral": "to-you",
+      "englishNatural": "to you",
+      "root": "el",
+      "suffixes": [
+        "kha"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 4
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 6,
+        "english": 7
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "אֵל־",
+      "transliteration": "el-",
+      "englishLiteral": "God-",
+      "englishNatural": "God",
+      "root": "el",
+      "order": {
+        "hebrew": 23,
+        "english": 23
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "אֶל",
+      "transliteration": "el",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "אֶל",
+      "transliteration": "el",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "אֶל",
+      "transliteration": "el",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "אֶל",
+      "transliteration": "el",
+      "englishLiteral": "to",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 15,
+        "english": 14
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "אֶל־",
+      "transliteration": "el-",
+      "englishLiteral": "to-",
+      "englishNatural": "to",
+      "root": "el",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

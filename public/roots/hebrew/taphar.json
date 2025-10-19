@@ -1,0 +1,46 @@
+{
+  "key": "taphar",
+  "hebrew": "תפר",
+  "transliteration": "taphar",
+  "englishLiteral": "sew",
+  "englishNatural": "sew",
+  "description": "to sew, stitch together",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וַיִּתְפְּרוּ",
+      "transliteration": "vayItperu",
+      "englishLiteral": "and-sewed",
+      "englishNatural": "and they sewed",
+      "root": "taphar",
+      "prefixes": [
+        "va"
+      ],
+      "suffixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

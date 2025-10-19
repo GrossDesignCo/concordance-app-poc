@@ -1,0 +1,114 @@
+{
+  "key": "se",
+  "greek": "σε",
+  "transliteration": "se",
+  "englishLiteral": "you",
+  "englishNatural": "you",
+  "wordInstances": [
+    {
+      "greek": "σε",
+      "transliteration": "se",
+      "englishLiteral": "you",
+      "englishNatural": "you",
+      "root": "se",
+      "order": {
+        "greek": 24,
+        "english": 26
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "2nd",
+        "number": "singular",
+        "case": "accusative"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "σε",
+      "transliteration": "se",
+      "englishLiteral": "you",
+      "englishNatural": "you",
+      "root": "se",
+      "order": {
+        "greek": 17,
+        "english": 17
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "2nd",
+        "number": "singular",
+        "case": "accusative"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "σε",
+      "transliteration": "se",
+      "englishLiteral": "you",
+      "englishNatural": "you",
+      "root": "se",
+      "order": {
+        "greek": 30,
+        "english": 30
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "2nd",
+        "number": "singular",
+        "case": "accusative"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "greek": "σε",
+      "transliteration": "se",
+      "englishLiteral": "you",
+      "englishNatural": "you",
+      "root": "se",
+      "order": {
+        "greek": 23,
+        "english": 24
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "2nd",
+        "number": "singular",
+        "case": "accusative"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,43 @@
+{
+  "key": "naphach",
+  "hebrew": "נפח",
+  "transliteration": "naphach",
+  "englishLiteral": "to blow",
+  "englishNatural": "to blow",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וַיִּפַּח",
+      "transliteration": "vaYipach",
+      "englishLiteral": "and-blew",
+      "englishNatural": "and blew",
+      "root": "naphach",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

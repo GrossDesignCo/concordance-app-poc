@@ -1,0 +1,121 @@
+{
+  "key": "dasha",
+  "hebrew": "דשא",
+  "transliteration": "dasha",
+  "englishLiteral": "tender_shoot",
+  "englishNatural": "tender-shoot",
+  "description": "a tender shoot, a young plant, a sprouting, small greenery or grasses",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "תַּֽדְשֵׁ֣א",
+      "transliteration": "tadShe",
+      "englishLiteral": "Let-tenderly_shoot_up",
+      "englishNatural": "tenderly-shoot-up",
+      "root": "dasha",
+      "prefixes": [
+        "ta"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\""
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "דֶּ֗שֶׁא",
+      "transliteration": "deshe",
+      "englishLiteral": "tender_shoot",
+      "englishNatural": "tender-shoot",
+      "root": "dasha",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "דֶּ֗שֶׁא",
+      "transliteration": "deshe",
+      "englishLiteral": "tender_shoot",
+      "englishNatural": "tender-shoot",
+      "root": "dasha",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 12
+      }
+    },
+    {
+      "hebrew": "דֶּשֶׁא",
+      "transliteration": "deshe",
+      "englishLiteral": "tender_shoot",
+      "englishNatural": "tender-shoot",
+      "root": "dasha",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,156 @@
+{
+  "key": "moshe",
+  "hebrew": "משׁה",
+  "transliteration": "Moshe",
+  "englishLiteral": "Draws_Out (Moses)",
+  "englishNatural": "Draws-Out (Moses)",
+  "description": "Moses, who was drawn out of the water, and who drew out the Israelites, also \"Son of ?\" in Egyptian (eg. Ra-meses, \"Son of Ra\")",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "מֹשֶׁה",
+      "transliteration": "Moshe",
+      "englishLiteral": "Draws_Out (Moses)",
+      "englishNatural": "Draws-Out (Moses)",
+      "root": "moshe",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "מֹשֶׁה",
+      "transliteration": "Moshe",
+      "englishLiteral": "Draws_Out (Moses)",
+      "englishNatural": "Draws-Out (Moses)",
+      "root": "moshe",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "מֹשֶׁה",
+      "transliteration": "Moshe",
+      "englishLiteral": "Draws_Out (Moses)",
+      "englishNatural": "Draws-Out (Moses)",
+      "root": "moshe",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "מֹשֶׁה",
+      "transliteration": "Moshe",
+      "englishLiteral": "Draws_Out (Moses)",
+      "englishNatural": "And Draws-Out (Moses)",
+      "root": "moshe",
+      "order": {
+        "hebrew": 19,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "מֹשֶׁה",
+      "transliteration": "Moshe",
+      "englishLiteral": "Draws_Out (Moses)",
+      "englishNatural": "Draws-Out (Moses)",
+      "root": "moshe",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "מֹשֶׁה",
+      "transliteration": "Moshe",
+      "englishLiteral": "Draws_Out (Moses)",
+      "englishNatural": "And Draws-Out (Moses)",
+      "root": "moshe",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 9
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

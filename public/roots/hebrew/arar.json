@@ -1,0 +1,118 @@
+{
+  "key": "arar",
+  "hebrew": "ארר",
+  "transliteration": "arar",
+  "englishLiteral": "to curse",
+  "englishNatural": "to curse",
+  "type": "verb",
+  "description": "to curse, to place under a curse",
+  "wordInstances": [
+    {
+      "hebrew": "אָרוּר",
+      "transliteration": "arur",
+      "englishLiteral": "cursed",
+      "englishNatural": "cursed",
+      "root": "arar",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "אֲרוּרָה",
+      "transliteration": "arurah",
+      "englishLiteral": "cursed",
+      "englishNatural": "cursed is",
+      "root": "arar",
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "אָרוּר",
+      "transliteration": "arur",
+      "englishLiteral": "cursed",
+      "englishNatural": "cursed",
+      "root": "arar",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "אֵרְרָהּ",
+      "transliteration": "errah",
+      "englishLiteral": "he-cursed",
+      "englishNatural": "cursed",
+      "root": "arar",
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 29
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

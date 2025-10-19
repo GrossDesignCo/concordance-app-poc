@@ -1,0 +1,141 @@
+{
+  "key": "shalach",
+  "hebrew": "שׁלח",
+  "transliteration": "shalach",
+  "englishLiteral": "to send",
+  "englishNatural": "to send",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "יִשְׁלַח",
+      "transliteration": "yishLach",
+      "englishLiteral": "he-will-send",
+      "englishNatural": "he will send",
+      "root": "shalach",
+      "prefixes": [
+        "yi"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "וַיְשַׁלְּחֵהוּ",
+      "transliteration": "vayShallachehu",
+      "englishLiteral": "And-he-sent-him",
+      "englishNatural": "sent him",
+      "root": "shalach",
+      "prefixes": [
+        "va",
+        "yi"
+      ],
+      "suffixes": [
+        "ehu"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "וַיְשַׁלַּח",
+      "transliteration": "vaYeshalach",
+      "englishLiteral": "And-sent",
+      "englishNatural": "sent",
+      "root": "shalach",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "שַׁבְּחוּהוּ",
+      "transliteration": "shabechuhu",
+      "englishLiteral": "send-to-him",
+      "englishNatural": "send to him",
+      "root": "shalach",
+      "suffixes": [
+        "u",
+        "hu"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "2nd",
+        "tense": "imperative",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

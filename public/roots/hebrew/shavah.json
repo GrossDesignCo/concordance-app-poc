@@ -1,0 +1,43 @@
+{
+  "key": "shavah",
+  "hebrew": "שָׁוָה",
+  "transliteration": "shavah",
+  "englishLiteral": "to balance",
+  "englishNatural": "to balance",
+  "type": "verb",
+  "description": "to equalize, level out, be equal, like; to make level, smooth, calm",
+  "wordInstances": [
+    {
+      "hebrew": "שִׁוִּיתִי",
+      "transliteration": "shiviti",
+      "englishLiteral": "I-have-balanced",
+      "englishNatural": "I have balanced",
+      "root": "shavah",
+      "suffixes": [
+        "ti"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "1st",
+        "tense": "perfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

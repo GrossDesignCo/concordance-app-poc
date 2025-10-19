@@ -1,0 +1,38 @@
+{
+  "key": "arbaim",
+  "hebrew": "ארבעים",
+  "transliteration": "arbaim",
+  "englishLiteral": "forty",
+  "englishNatural": "forty",
+  "type": "numeral",
+  "description": "forty, the number forty",
+  "related": [
+    "arba"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "אַרְבָּעִים",
+      "transliteration": "arbaim",
+      "englishLiteral": "forty",
+      "englishNatural": "forty",
+      "root": "arbaim",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "numeral"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,51 @@
+{
+  "key": "lekhu",
+  "hebrew": "לכו",
+  "transliteration": "lekhu",
+  "englishLiteral": "go",
+  "englishNatural": "go",
+  "type": "verb",
+  "description": "come, go (imperative plural)",
+  "related": [
+    "halakh"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "לְכוּ",
+      "transliteration": "lekhu",
+      "englishLiteral": "Go",
+      "englishNatural": "Go",
+      "root": "lekhu",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "2nd",
+        "tense": "imperative",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,49 @@
+{
+  "key": "chaser",
+  "hebrew": "חָסֵר",
+  "transliteration": "chaser",
+  "englishLiteral": "to lack",
+  "englishNatural": "to lack",
+  "type": "verb",
+  "description": "to lack, be without, need, want",
+  "wordInstances": [
+    {
+      "hebrew": "אֶחְסָר",
+      "transliteration": "echsar",
+      "englishLiteral": "I-will-lack",
+      "englishNatural": "I will lack",
+      "root": "chaser",
+      "prefixes": [
+        "e"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "1st",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "."
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

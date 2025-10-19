@@ -1,0 +1,37 @@
+{
+  "key": "zakhar_remember",
+  "hebrew": "זכר",
+  "transliteration": "zakhar",
+  "englishLiteral": "to remember",
+  "englishNatural": "to remember",
+  "type": "verb",
+  "description": "to remember, recall, mention, commemorate (distinct from zakhar meaning \"male\")",
+  "wordInstances": [
+    {
+      "hebrew": "זִכְרִי",
+      "transliteration": "zikri",
+      "englishLiteral": "my-rememberance",
+      "englishNatural": "my rememberance",
+      "root": "zakhar_remember",
+      "order": {
+        "hebrew": 26,
+        "english": 26
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

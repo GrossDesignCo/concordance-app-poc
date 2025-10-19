@@ -1,0 +1,69 @@
+{
+  "key": "aph",
+  "hebrew": "אף",
+  "transliteration": "aph",
+  "englishLiteral": "nose",
+  "englishNatural": "nose",
+  "type": "noun",
+  "description": "nose, nostril, face; often used idiomatically for anger",
+  "related": [
+    "af"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "אַפּוֹ",
+      "transliteration": "apo",
+      "englishLiteral": "nose-his",
+      "englishNatural": "his nose",
+      "root": "aph",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "אַפַּיִם",
+      "transliteration": "apayim",
+      "englishLiteral": "nostrils",
+      "englishNatural": "of nostrils",
+      "root": "aph",
+      "order": {
+        "hebrew": 27,
+        "english": 27
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "dual",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,158 @@
+{
+  "key": "ad",
+  "hebrew": "עד",
+  "transliteration": "ad",
+  "englishLiteral": "on_behalf_of",
+  "englishNatural": "on-behalf-of",
+  "description": "can also mean: as far as, through, until",
+  "type": "preposition",
+  "wordInstances": [
+    {
+      "hebrew": "עַד",
+      "transliteration": "ad",
+      "englishLiteral": "until",
+      "englishNatural": "until",
+      "root": "ad",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "וְעַד־",
+      "transliteration": "veAd-",
+      "englishLiteral": "and-unto-",
+      "englishNatural": "and unto",
+      "root": "ad",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "עַד־",
+      "transliteration": "ad-",
+      "englishLiteral": "until-",
+      "englishNatural": "until",
+      "root": "ad",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "עַד",
+      "transliteration": "ad",
+      "englishLiteral": "until",
+      "englishNatural": "until",
+      "root": "ad",
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "בְּעַד",
+      "transliteration": "beAd",
+      "englishLiteral": "on-behalf-of",
+      "englishNatural": "on behalf of",
+      "root": "ad",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 20,
+        "english": 19
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "עַד־",
+      "transliteration": "ad",
+      "englishLiteral": "Until",
+      "englishNatural": "Until",
+      "root": "ad",
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "וְעַד־",
+      "transliteration": "veAd-",
+      "englishLiteral": "and-on_behalf_of-",
+      "englishNatural": "and on-behalf-of",
+      "root": "ad",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

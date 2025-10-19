@@ -1,0 +1,40 @@
+{
+  "key": "orekh",
+  "hebrew": "אֹרֶךְ",
+  "transliteration": "orekh",
+  "englishLiteral": "length",
+  "englishNatural": "length",
+  "type": "noun",
+  "description": "length, duration, extent",
+  "wordInstances": [
+    {
+      "hebrew": "לְאֹרֶךְ",
+      "transliteration": "leOrekh",
+      "englishLiteral": "to-length-of",
+      "englishNatural": "to the length of",
+      "root": "orekh",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

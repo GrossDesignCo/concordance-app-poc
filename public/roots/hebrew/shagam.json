@@ -1,0 +1,38 @@
+{
+  "key": "shagam",
+  "hebrew": "שגם",
+  "transliteration": "shagam",
+  "englishLiteral": "moreover",
+  "englishNatural": "moreover",
+  "type": "adverb",
+  "description": "moreover, also, even, for that, in that",
+  "wordInstances": [
+    {
+      "hebrew": "בְּשַׁגַּם",
+      "transliteration": "beShagam",
+      "englishLiteral": "in-moreover",
+      "englishNatural": "in moreover",
+      "root": "shagam",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

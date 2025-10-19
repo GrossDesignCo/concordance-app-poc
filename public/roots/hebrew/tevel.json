@@ -1,0 +1,41 @@
+{
+  "key": "tevel",
+  "hebrew": "תֵּבֵל",
+  "transliteration": "tevel",
+  "englishLiteral": "world",
+  "englishNatural": "world",
+  "type": "noun",
+  "description": "world, inhabited earth, the habitable world",
+  "wordInstances": [
+    {
+      "hebrew": "תֵּבֵל",
+      "transliteration": "tevel",
+      "englishLiteral": "world",
+      "englishNatural": "world",
+      "root": "tevel",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 26
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

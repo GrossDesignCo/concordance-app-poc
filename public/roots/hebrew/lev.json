@@ -1,0 +1,47 @@
+{
+  "key": "lev",
+  "hebrew": "לֵב",
+  "transliteration": "lev",
+  "englishLiteral": "heart",
+  "englishNatural": "heart",
+  "type": "noun",
+  "description": "heart, mind, inner man, will, understanding",
+  "related": [
+    "levav"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "לִבִּי",
+      "transliteration": "libi",
+      "englishLiteral": "my-heart",
+      "englishNatural": "my heart",
+      "root": "lev",
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "1st",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

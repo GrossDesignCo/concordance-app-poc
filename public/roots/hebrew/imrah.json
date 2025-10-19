@@ -1,0 +1,48 @@
+{
+  "key": "imrah",
+  "hebrew": "אִמְרָה",
+  "transliteration": "imrah",
+  "englishLiteral": "speech",
+  "englishNatural": "speech",
+  "type": "noun",
+  "description": "utterance, speech, word",
+  "related": [
+    "amar"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "אִמְרָתִי",
+      "transliteration": "imrati",
+      "englishLiteral": "speech-my",
+      "englishNatural": "my speech",
+      "root": "imrah",
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

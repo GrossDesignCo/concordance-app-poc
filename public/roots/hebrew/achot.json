@@ -1,0 +1,45 @@
+{
+  "key": "achot",
+  "hebrew": "אֲחוֹת",
+  "transliteration": "achot",
+  "englishLiteral": "sister",
+  "englishNatural": "sister",
+  "type": "noun",
+  "description": "sister (feminine form of \"brother\")",
+  "related": [
+    "ach"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וַאֲחוֹת",
+      "transliteration": "vaAchot",
+      "englishLiteral": "and-sister-of",
+      "englishNatural": "and the sister of",
+      "root": "achot",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "singular",
+        "state": "construct"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

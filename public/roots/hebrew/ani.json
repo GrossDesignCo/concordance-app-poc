@@ -1,0 +1,62 @@
+{
+  "key": "ani",
+  "hebrew": "אָנִי",
+  "transliteration": "ani",
+  "englishLiteral": "I",
+  "englishNatural": "I",
+  "type": "pronoun",
+  "description": "first person singular pronoun - I, me",
+  "wordInstances": [
+    {
+      "hebrew": "אֲנִי",
+      "transliteration": "ani",
+      "englishLiteral": "I",
+      "englishNatural": "I",
+      "root": "ani",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "person": "1st",
+        "number": "singular",
+        "type": "pronoun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "אָנִי",
+      "transliteration": "ani",
+      "englishLiteral": "I",
+      "englishNatural": "I",
+      "root": "ani",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "person": "1st",
+        "number": "singular",
+        "type": "pronoun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 27
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

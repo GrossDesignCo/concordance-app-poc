@@ -1,0 +1,206 @@
+{
+  "key": "shuv",
+  "hebrew": "שׁוּב",
+  "transliteration": "shuv",
+  "englishLiteral": "to return",
+  "englishNatural": "to return",
+  "type": "verb",
+  "description": "to turn back, return, go back, come back",
+  "wordInstances": [
+    {
+      "hebrew": "שׁוּבְךָ",
+      "transliteration": "shuvkha",
+      "englishLiteral": "your-return",
+      "englishNatural": "your return",
+      "root": "shuv",
+      "suffixes": [
+        "kha"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "תָּשׁוּב׃",
+      "transliteration": "taShuv",
+      "englishLiteral": "you-will-return",
+      "englishNatural": "you will return",
+      "root": "shuv",
+      "prefixes": [
+        "ta"
+      ],
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperfect",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "שָׁבוּ",
+      "transliteration": "shavu",
+      "englishLiteral": "they-returned",
+      "englishNatural": "they returned",
+      "root": "shuv",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "וְיָשֻׁבוּ",
+      "transliteration": "veYashuvu",
+      "englishLiteral": "and-return",
+      "englishNatural": "and return",
+      "root": "shuv",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "יָשׁוּב",
+      "transliteration": "yashuv",
+      "englishLiteral": "he-will-return",
+      "englishNatural": "will return",
+      "root": "shuv",
+      "order": {
+        "hebrew": 3,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "וְשָׁב",
+      "transliteration": "veShav",
+      "englishLiteral": "and-turn",
+      "englishNatural": "and turn",
+      "root": "shuv",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "יְשׁוֹבֵב",
+      "transliteration": "yeshobev",
+      "englishLiteral": "he-restores",
+      "englishNatural": "he restores",
+      "root": "shuv",
+      "prefixes": [
+        "ye"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "polel",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

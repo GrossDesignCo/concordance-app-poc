@@ -1,0 +1,37 @@
+{
+  "key": "acher",
+  "hebrew": "אַחֵר",
+  "transliteration": "acher",
+  "englishLiteral": "another",
+  "englishNatural": "another",
+  "type": "adjective",
+  "description": "another, other, following",
+  "wordInstances": [
+    {
+      "hebrew": "אַחֵר",
+      "transliteration": "acher",
+      "englishLiteral": "another",
+      "englishNatural": "another",
+      "root": "acher",
+      "order": {
+        "hebrew": 17,
+        "english": 16
+      },
+      "morphology": {
+        "type": "adjective",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,36 @@
+{
+  "key": "yerek",
+  "hebrew": "ירק",
+  "transliteration": "yerek",
+  "englishLiteral": "green",
+  "englishNatural": "green",
+  "type": "adjective",
+  "wordInstances": [
+    {
+      "hebrew": "יֶ֥רֶק",
+      "transliteration": "yerek",
+      "englishLiteral": "green",
+      "englishNatural": "green",
+      "root": "yerek",
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

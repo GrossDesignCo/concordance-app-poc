@@ -1,0 +1,43 @@
+{
+  "key": "ouranos",
+  "greek": "οὐρανός",
+  "transliteration": "ouranos",
+  "englishLiteral": "heaven",
+  "englishNatural": "heaven",
+  "wordInstances": [
+    {
+      "greek": "οὐρανοῦ",
+      "transliteration": "ouranou",
+      "englishLiteral": "heaven",
+      "englishNatural": "heaven",
+      "root": "ouranos",
+      "order": {
+        "greek": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "case": "genitive",
+        "type": "noun",
+        "state": "definite"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ",",
+        "greek": ",",
+        "transliteration": ","
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,149 @@
+{
+  "key": "sim",
+  "hebrew": "שׂים",
+  "transliteration": "sim",
+  "englishLiteral": "to place",
+  "englishNatural": "to place",
+  "description": "to place, to set down, like to place a book on a shelf",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וַיָּשֶׂם",
+      "transliteration": "vaYasem",
+      "englishLiteral": "and-set",
+      "englishNatural": "and set",
+      "root": "sim",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "אָשִׁית",
+      "transliteration": "ashit",
+      "englishLiteral": "I-will_place",
+      "englishNatural": "I will place",
+      "root": "sim",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "person": "1st",
+        "number": "singular",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "וַיָּשֶׂם",
+      "transliteration": "vayYasem",
+      "englishLiteral": "And-he-set",
+      "englishNatural": "set",
+      "root": "sim",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "וְשִׂים",
+      "transliteration": "veSim",
+      "englishLiteral": "and-place",
+      "englishNatural": "and place",
+      "root": "sim",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "וַיְשִׂמֵהוּ",
+      "transliteration": "vaYeSimehu",
+      "englishLiteral": "and-he-placed-it",
+      "englishNatural": "and he placed it",
+      "root": "sim",
+      "prefixes": [
+        "va"
+      ],
+      "suffixes": [
+        "ehu"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 9
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

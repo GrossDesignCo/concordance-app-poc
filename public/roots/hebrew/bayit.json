@@ -1,0 +1,62 @@
+{
+  "key": "bayit",
+  "hebrew": "בית",
+  "transliteration": "bayit",
+  "englishLiteral": "house",
+  "englishNatural": "house",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "וְהַבַּ֖יִת",
+      "transliteration": "veHaBayit",
+      "englishLiteral": "and-the-house",
+      "englishNatural": "and the house",
+      "root": "bayit",
+      "prefixes": [
+        "ve",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "בְּבֵית",
+      "transliteration": "beBeit",
+      "englishLiteral": "in-house-of",
+      "englishNatural": "in the house of",
+      "root": "bayit",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

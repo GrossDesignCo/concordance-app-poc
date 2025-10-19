@@ -1,0 +1,49 @@
+{
+  "key": "tzarar",
+  "hebrew": "צָרַר",
+  "transliteration": "tzarar",
+  "englishLiteral": "to be_enemy",
+  "englishNatural": "to be-an-enemy",
+  "type": "verb",
+  "description": "to be an enemy, adversary, opponent, to distress",
+  "related": [
+    "tzar"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "צֹרְרָי",
+      "transliteration": "tzorerai",
+      "englishLiteral": "my-enemies",
+      "englishNatural": "my enemies",
+      "root": "tzarar",
+      "suffixes": [
+        "ai"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "1st",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

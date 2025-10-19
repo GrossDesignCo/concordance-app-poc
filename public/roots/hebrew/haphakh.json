@@ -1,0 +1,75 @@
+{
+  "key": "haphakh",
+  "hebrew": "הפך",
+  "transliteration": "haphakh",
+  "englishLiteral": "to turn",
+  "englishNatural": "to turn",
+  "type": "verb",
+  "description": "to turn, overturn, revolve, change direction",
+  "wordInstances": [
+    {
+      "hebrew": "הַמִּתְהַפֶּכֶת",
+      "transliteration": "haMithapekhet",
+      "englishLiteral": "the-overturning",
+      "englishNatural": "the Overturning",
+      "root": "haphakh",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "hithpael",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "נֶהְפָּכֶת",
+      "transliteration": "nehpaket",
+      "englishLiteral": "overturned",
+      "englishNatural": "overturned",
+      "root": "haphakh",
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "3rd",
+        "type": "verb",
+        "tense": "participle",
+        "stem": "niphal"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

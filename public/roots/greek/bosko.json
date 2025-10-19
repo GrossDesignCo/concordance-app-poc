@@ -1,0 +1,70 @@
+{
+  "key": "bosko",
+  "greek": "βόσκω",
+  "transliteration": "bosko",
+  "englishLiteral": "feed",
+  "englishNatural": "feed",
+  "wordInstances": [
+    {
+      "greek": "βόσκε",
+      "transliteration": "boske",
+      "englishLiteral": "Feed",
+      "englishNatural": "Feed",
+      "root": "bosko",
+      "order": {
+        "greek": 27,
+        "english": 29
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "imperative",
+        "person": "2nd",
+        "number": "singular"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "βόσκε",
+      "transliteration": "boske",
+      "englishLiteral": "Feed",
+      "englishNatural": "Feed",
+      "root": "bosko",
+      "order": {
+        "greek": 33,
+        "english": 33
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "imperative",
+        "person": "2nd",
+        "number": "singular"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

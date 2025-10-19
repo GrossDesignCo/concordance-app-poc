@@ -1,0 +1,46 @@
+{
+  "key": "shatah",
+  "hebrew": "שתה",
+  "transliteration": "shatah",
+  "englishLiteral": "to drink",
+  "englishNatural": "to drink",
+  "type": "verb",
+  "description": "to drink, imbibe",
+  "wordInstances": [
+    {
+      "hebrew": "יִשְׁתּוּ",
+      "transliteration": "yishtu",
+      "englishLiteral": "they-will-drink",
+      "englishNatural": "they will drink",
+      "root": "shatah",
+      "order": {
+        "hebrew": 19,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";"
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

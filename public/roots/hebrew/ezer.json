@@ -1,0 +1,58 @@
+{
+  "key": "ezer",
+  "hebrew": "עזר",
+  "transliteration": "ezer",
+  "englishLiteral": "help",
+  "englishNatural": "help",
+  "description": "a helper, military deliverance, a savior, a deliverer, one who helps where you can not help yourself",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "עֵזֶר",
+      "transliteration": "ezer",
+      "englishLiteral": "help",
+      "englishNatural": "a help",
+      "root": "ezer",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "עֵזֶר",
+      "transliteration": "ezer",
+      "englishLiteral": "help",
+      "englishNatural": "help",
+      "root": "ezer",
+      "order": {
+        "hebrew": 14,
+        "english": 13
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

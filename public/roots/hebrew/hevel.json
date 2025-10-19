@@ -1,0 +1,195 @@
+{
+  "key": "hevel",
+  "hebrew": "הֶבֶל",
+  "transliteration": "hevel",
+  "englishLiteral": "vapor",
+  "englishNatural": "vapor",
+  "type": "noun",
+  "description": "breath, vapor, vanity, Abel (proper name)",
+  "wordInstances": [
+    {
+      "hebrew": "הָבֶל",
+      "transliteration": "Havel",
+      "englishLiteral": "Vapor (Abel)",
+      "englishNatural": "Vapor (Abel)",
+      "root": "hevel",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "הֶבֶל",
+      "transliteration": "Hevel",
+      "englishLiteral": "Vapor (Abel)",
+      "englishNatural": "And Vapor (Abel)",
+      "root": "hevel",
+      "order": {
+        "hebrew": 8,
+        "english": 7
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "הֶבֶל",
+      "transliteration": "Hevel",
+      "englishLiteral": "Vapor (Abel)",
+      "englishNatural": "Vapor (Abel)",
+      "root": "hevel",
+      "order": {
+        "hebrew": 19,
+        "english": 19
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "וְהֶבֶל",
+      "transliteration": "veHevel",
+      "englishLiteral": "And-Vapor (Abel)",
+      "englishNatural": "And Vapor (Abel)",
+      "root": "hevel",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "הֶבֶל",
+      "transliteration": "Hevel",
+      "englishLiteral": "Vapor (Abel)",
+      "englishNatural": "Vapor (Abel)",
+      "root": "hevel",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "הֶבֶל",
+      "transliteration": "Hevel",
+      "englishLiteral": "Vapor (Abel)",
+      "englishNatural": "Vapor (Abel)",
+      "root": "hevel",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "הֶבֶל",
+      "transliteration": "Hevel",
+      "englishLiteral": "Vapor (Abel)",
+      "englishNatural": "Vapor (Abel)",
+      "root": "hevel",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "הֶבֶל",
+      "transliteration": "Hevel",
+      "englishLiteral": "Vapor (Abel)",
+      "englishNatural": "Vapor (Abel)",
+      "root": "hevel",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 9
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

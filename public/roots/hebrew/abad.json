@@ -1,0 +1,106 @@
+{
+  "key": "abad",
+  "hebrew": "אָבַד",
+  "transliteration": "abad",
+  "englishLiteral": "to perish",
+  "englishNatural": "to perish",
+  "type": "verb",
+  "description": "to perish, be destroyed, be lost, vanish",
+  "wordInstances": [
+    {
+      "hebrew": "נֹאבֵד",
+      "transliteration": "noved",
+      "englishLiteral": "perish",
+      "englishNatural": "perish",
+      "root": "abad",
+      "order": {
+        "hebrew": 19,
+        "english": 19
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "1st",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "נֹאבֵד",
+      "transliteration": "noved",
+      "englishLiteral": "we-will-perish",
+      "englishNatural": "and we will perish",
+      "root": "abad",
+      "order": {
+        "hebrew": 10,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "1st",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "?\""
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "תֹּאבֵד",
+      "transliteration": "toved",
+      "englishLiteral": "it-will-perish",
+      "englishNatural": "will perish",
+      "root": "abad",
+      "prefixes": [
+        "to"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

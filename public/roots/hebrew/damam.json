@@ -1,0 +1,49 @@
+{
+  "key": "damam",
+  "hebrew": "דָּמַם",
+  "transliteration": "damam",
+  "englishLiteral": "to be_silent",
+  "englishNatural": "to be-silent",
+  "type": "verb",
+  "description": "to be still, silent, quiet; to cease, stop",
+  "related": [
+    "damah"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וְדֹמַמְתִּי",
+      "transliteration": "veDomamti",
+      "englishLiteral": "and-I-have-silenced",
+      "englishNatural": "and I have silenced",
+      "root": "damam",
+      "prefixes": [
+        "ve"
+      ],
+      "suffixes": [
+        "ti"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "1st",
+        "tense": "perfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,292 @@
+{
+  "key": "bara",
+  "hebrew": "ברא",
+  "transliteration": "bara",
+  "englishLiteral": "to create",
+  "englishNatural": "to create",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "בָּרָ֣א",
+      "transliteration": "bara",
+      "englishLiteral": "created",
+      "englishNatural": "created",
+      "root": "bara",
+      "order": {
+        "hebrew": 2,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "וַיִּבְרָ֣א",
+      "transliteration": "vaYiVra",
+      "englishLiteral": "And-created",
+      "englishNatural": "created",
+      "root": "bara",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      }
+    },
+    {
+      "hebrew": "וַיִּבְרָ֨א",
+      "transliteration": "vaYiVra",
+      "englishLiteral": "And-created",
+      "englishNatural": "created",
+      "root": "bara",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      }
+    },
+    {
+      "hebrew": "בָּרָ֣א",
+      "transliteration": "bara",
+      "englishLiteral": "created",
+      "englishNatural": "created",
+      "root": "bara",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      }
+    },
+    {
+      "hebrew": "בָּרָ֥א",
+      "transliteration": "bara",
+      "englishLiteral": "created",
+      "englishNatural": "created",
+      "root": "bara",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      }
+    },
+    {
+      "hebrew": "בָּרָא",
+      "transliteration": "bara",
+      "englishLiteral": "created",
+      "englishNatural": "created",
+      "root": "bara",
+      "order": {
+        "hebrew": 14,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "בְּהִבָּרְאָם",
+      "transliteration": "beHibaram",
+      "englishLiteral": "in-being-created-them",
+      "englishNatural": "in their being created",
+      "root": "bara",
+      "prefixes": [
+        "be"
+      ],
+      "suffixes": [
+        "am"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "verb",
+        "stem": "niphal",
+        "tense": "infinitive_construct"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "בְּרֹא",
+      "transliteration": "bero",
+      "englishLiteral": "create",
+      "englishNatural": "created",
+      "root": "bara",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 7
+      },
+      "morphology": {
+        "type": "verb",
+        "stem": "qal",
+        "tense": "infinitive_construct"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "בְּרָאָם",
+      "transliteration": "beroam",
+      "englishLiteral": "he-created",
+      "englishNatural": "he created",
+      "root": "bara",
+      "suffixes": [
+        "am"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "perfect"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "הִבָּרְאָם",
+      "transliteration": "hiBaram",
+      "englishLiteral": "them-being-created",
+      "englishNatural": "them being created",
+      "root": "bara",
+      "prefixes": [
+        "hi"
+      ],
+      "suffixes": [
+        "am"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "verb",
+        "stem": "niphal",
+        "tense": "infinitive_construct"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

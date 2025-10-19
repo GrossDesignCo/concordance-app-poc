@@ -1,0 +1,541 @@
+{
+  "key": "ho",
+  "greek": "ὁ",
+  "transliteration": "ho",
+  "englishLiteral": "the",
+  "englishNatural": "the",
+  "wordInstances": [
+    {
+      "greek": "ὁ",
+      "transliteration": "ho",
+      "englishLiteral": "The",
+      "englishNatural": "The",
+      "root": "ho",
+      "order": {
+        "greek": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "nominative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "greek": "ὁ",
+      "transliteration": "ho",
+      "englishLiteral": "The",
+      "englishNatural": "The",
+      "root": "ho",
+      "order": {
+        "greek": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "nominative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "greek": "τὸν",
+      "transliteration": "ton",
+      "englishLiteral": "The",
+      "englishNatural": "The",
+      "root": "ho",
+      "order": {
+        "greek": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "greek": "ὁ",
+      "transliteration": "ho",
+      "englishLiteral": "The",
+      "englishNatural": "The",
+      "root": "ho",
+      "order": {
+        "greek": 16,
+        "english": 14
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "nominative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "greek": "τῷ",
+      "transliteration": "tō",
+      "englishLiteral": "to-the",
+      "englishNatural": "to the",
+      "root": "ho",
+      "order": {
+        "greek": 5,
+        "english": 9
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "dative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "ὁ",
+      "transliteration": "ho",
+      "englishLiteral": "The",
+      "englishNatural": "The",
+      "root": "ho",
+      "order": {
+        "greek": 8,
+        "english": 4
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "nominative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "τὰ",
+      "transliteration": "ta",
+      "englishLiteral": "the",
+      "englishNatural": "these",
+      "root": "ho",
+      "order": {
+        "greek": 28,
+        "english": 30
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "neuter",
+        "number": "plural",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "τὰ",
+      "transliteration": "ta",
+      "englishLiteral": "the",
+      "englishNatural": "these",
+      "root": "ho",
+      "order": {
+        "greek": 21,
+        "english": 21
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "neuter",
+        "number": "plural",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "τὸ",
+      "transliteration": "to",
+      "englishLiteral": "the",
+      "englishNatural": "the",
+      "root": "ho",
+      "order": {
+        "greek": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "neuter",
+        "number": "singular",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "greek": "ὁ",
+      "transliteration": "ho",
+      "englishLiteral": "The",
+      "englishNatural": "The",
+      "root": "ho",
+      "order": {
+        "greek": 10,
+        "english": 9
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "nominative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "greek": "τὸ",
+      "transliteration": "to",
+      "englishLiteral": "the",
+      "englishNatural": "the",
+      "root": "ho",
+      "order": {
+        "greek": 15,
+        "english": 15
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "neuter",
+        "number": "singular",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "greek": "τὰ",
+      "transliteration": "ta",
+      "englishLiteral": "these",
+      "englishNatural": "these",
+      "root": "ho",
+      "order": {
+        "greek": 34,
+        "english": 34
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "neuter",
+        "number": "plural",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "greek": "τὰς",
+      "transliteration": "tas",
+      "englishLiteral": "the",
+      "englishNatural": "those",
+      "root": "ho",
+      "order": {
+        "greek": 18,
+        "english": 18
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "feminine",
+        "number": "plural",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    },
+    {
+      "greek": "οἱ",
+      "transliteration": "hoi",
+      "englishLiteral": "the",
+      "englishNatural": "the",
+      "root": "ho",
+      "order": {
+        "greek": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "plural",
+        "case": "nominative"
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "αἱ",
+      "transliteration": "hai",
+      "englishLiteral": "the",
+      "englishNatural": "the",
+      "root": "ho",
+      "order": {
+        "greek": 19,
+        "english": 19
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "feminine",
+        "number": "plural",
+        "case": "nominative"
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "τοῦ",
+      "transliteration": "tou",
+      "englishLiteral": "the",
+      "englishNatural": "the",
+      "root": "ho",
+      "order": {
+        "greek": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "genitive",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      }
+    },
+    {
+      "greek": "τὴν",
+      "transliteration": "tēn",
+      "englishLiteral": "the",
+      "englishNatural": "the",
+      "root": "ho",
+      "order": {
+        "greek": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "feminine",
+        "number": "singular",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      }
+    },
+    {
+      "greek": "τῆς",
+      "transliteration": "tēs",
+      "englishLiteral": "the",
+      "englishNatural": "the",
+      "root": "ho",
+      "order": {
+        "greek": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "feminine",
+        "number": "singular",
+        "case": "genitive",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      }
+    },
+    {
+      "greek": "τὴν",
+      "transliteration": "tēn",
+      "englishLiteral": "the",
+      "englishNatural": "the",
+      "root": "ho",
+      "order": {
+        "greek": 17,
+        "english": 17
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "feminine",
+        "number": "singular",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      }
+    },
+    {
+      "greek": "τὸν",
+      "transliteration": "ton",
+      "englishLiteral": "the",
+      "englishNatural": "the",
+      "root": "ho",
+      "order": {
+        "greek": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      }
+    },
+    {
+      "greek": "τὸν",
+      "transliteration": "ton",
+      "englishLiteral": "The",
+      "englishNatural": "The",
+      "root": "ho",
+      "order": {
+        "greek": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      }
+    },
+    {
+      "greek": "τὸν",
+      "transliteration": "ton",
+      "englishLiteral": "The",
+      "englishNatural": "The",
+      "root": "ho",
+      "order": {
+        "greek": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      }
+    },
+    {
+      "greek": "ὁ",
+      "transliteration": "ho",
+      "englishLiteral": "The",
+      "englishNatural": "The",
+      "root": "ho",
+      "order": {
+        "greek": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "article",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "nominative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

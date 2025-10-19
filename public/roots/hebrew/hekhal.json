@@ -1,0 +1,43 @@
+{
+  "key": "hekhal",
+  "hebrew": "היכל",
+  "transliteration": "hekhal",
+  "englishLiteral": "temple",
+  "englishNatural": "temple",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "הַהֵיכָל",
+      "transliteration": "haHeikhal",
+      "englishLiteral": "the-temple",
+      "englishNatural": "the temple",
+      "root": "hekhal",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

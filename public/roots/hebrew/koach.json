@@ -1,0 +1,41 @@
+{
+  "key": "koach",
+  "hebrew": "כֹּחַ",
+  "transliteration": "koach",
+  "englishLiteral": "strength",
+  "englishNatural": "strength",
+  "type": "noun",
+  "description": "strength, power, might",
+  "wordInstances": [
+    {
+      "hebrew": "כֹּחָהּ",
+      "transliteration": "kochah",
+      "englishLiteral": "her-strength",
+      "englishNatural": "her strength",
+      "root": "koach",
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 12
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

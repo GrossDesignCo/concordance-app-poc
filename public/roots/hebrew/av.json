@@ -1,0 +1,87 @@
+{
+  "key": "av",
+  "hebrew": "אב",
+  "transliteration": "av",
+  "englishLiteral": "father",
+  "englishNatural": "father",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "אָבִיו",
+      "transliteration": "aviv",
+      "englishLiteral": "his-father",
+      "englishNatural": "his father",
+      "root": "av",
+      "suffixes": [
+        "av"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "אֲבִי",
+      "transliteration": "avi",
+      "englishLiteral": "father-of",
+      "englishNatural": "father of",
+      "root": "av",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "אֲבִי",
+      "transliteration": "avi",
+      "englishLiteral": "father-of",
+      "englishNatural": "father of",
+      "root": "av",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 21
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

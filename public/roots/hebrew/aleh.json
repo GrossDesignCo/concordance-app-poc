@@ -1,0 +1,66 @@
+{
+  "key": "aleh",
+  "hebrew": "עלה",
+  "transliteration": "aleh",
+  "englishLiteral": "leaf",
+  "englishNatural": "leaf",
+  "description": "leaf, foliage",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "עֲלֵה",
+      "transliteration": "aleh",
+      "englishLiteral": "leaf-of",
+      "englishNatural": "leaf of",
+      "root": "aleh",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "וְעָלֵהוּ",
+      "transliteration": "veAlehu",
+      "englishLiteral": "and-its-leaf",
+      "englishNatural": "and its leaf",
+      "root": "aleh",
+      "prefixes": [
+        "ve"
+      ],
+      "suffixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

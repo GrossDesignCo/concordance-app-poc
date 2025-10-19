@@ -1,0 +1,39 @@
+{
+  "key": "latash",
+  "hebrew": "לָטַשׁ",
+  "transliteration": "latash",
+  "englishLiteral": "to smith",
+  "englishNatural": "to smith",
+  "type": "verb",
+  "description": "to hammer-sharp/smooth, to blacksmith (as a verb), sharpen, whet, instruct",
+  "wordInstances": [
+    {
+      "hebrew": "לֹטֵשׁ",
+      "transliteration": "lotesh",
+      "englishLiteral": "smithing",
+      "englishNatural": "smithing",
+      "root": "latash",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "verb",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "participle"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

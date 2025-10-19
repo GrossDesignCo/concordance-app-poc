@@ -1,0 +1,45 @@
+{
+  "key": "yachal",
+  "hebrew": "יָחַל",
+  "transliteration": "yachal",
+  "englishLiteral": "to hope",
+  "englishNatural": "to hope",
+  "type": "verb",
+  "description": "to wait, hope, expect, trust",
+  "wordInstances": [
+    {
+      "hebrew": "יַחֵל",
+      "transliteration": "yachel",
+      "englishLiteral": "Hope",
+      "englishNatural": "Hope",
+      "root": "yachal",
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

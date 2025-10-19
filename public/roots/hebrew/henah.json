@@ -1,0 +1,49 @@
+{
+  "key": "henah",
+  "hebrew": "הנה",
+  "transliteration": "henah",
+  "englishLiteral": "they",
+  "englishNatural": "they",
+  "type": "pronoun",
+  "description": "third person feminine plural pronoun - they (referring to feminine nouns)",
+  "related": [
+    "hu",
+    "hi",
+    "hem"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "הֵנָּה",
+      "transliteration": "henah",
+      "englishLiteral": "they",
+      "englishNatural": "they were",
+      "root": "henah",
+      "order": {
+        "hebrew": 9,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "plural",
+        "person": "3rd",
+        "type": "pronoun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";"
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,132 @@
+{
+  "key": "of",
+  "hebrew": "עוף",
+  "transliteration": "of",
+  "englishLiteral": "bird",
+  "englishNatural": "bird",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "וּבְע֣וֹף",
+      "transliteration": "uVeOf",
+      "englishLiteral": "and-in-flyer-of",
+      "englishNatural": "and among flyer of",
+      "root": "of",
+      "prefixes": [
+        "u",
+        "be"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "וּבְע֣וֹף",
+      "transliteration": "uVeOf",
+      "englishLiteral": "and-in-flyer-of",
+      "englishNatural": "and among flyer of",
+      "root": "of",
+      "prefixes": [
+        "u",
+        "be"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      }
+    },
+    {
+      "hebrew": "ע֣וֹף",
+      "transliteration": "of",
+      "englishLiteral": "flyer-of",
+      "englishNatural": "flyer of",
+      "root": "of",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "עוֹף",
+      "transliteration": "of",
+      "englishLiteral": "flyer",
+      "englishNatural": "flyer of",
+      "root": "of",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "וּלְעוֹף",
+      "transliteration": "uLeOf",
+      "englishLiteral": "and-to-flyer",
+      "englishNatural": "and to flyer of",
+      "root": "of",
+      "prefixes": [
+        "u",
+        "le"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

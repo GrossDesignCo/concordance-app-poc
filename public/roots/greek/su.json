@@ -1,0 +1,176 @@
+{
+  "key": "su",
+  "greek": "ὑμᾶς",
+  "transliteration": "humas",
+  "englishLiteral": "you",
+  "englishNatural": "you",
+  "wordInstances": [
+    {
+      "greek": "σὺ",
+      "transliteration": "su",
+      "englishLiteral": "you",
+      "englishNatural": "you",
+      "root": "su",
+      "order": {
+        "greek": 20,
+        "english": 22
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "2nd",
+        "number": "singular",
+        "case": "nominative"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "σὺ",
+      "transliteration": "su",
+      "englishLiteral": "you",
+      "englishNatural": "you",
+      "root": "su",
+      "order": {
+        "greek": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "2nd",
+        "number": "singular",
+        "case": "nominative"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "σὺ",
+      "transliteration": "su",
+      "englishLiteral": "you",
+      "englishNatural": "you",
+      "root": "su",
+      "order": {
+        "greek": 24,
+        "english": 23
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "2nd",
+        "number": "singular",
+        "case": "nominative"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "greek": "σὺ",
+      "transliteration": "su",
+      "englishLiteral": "you",
+      "englishNatural": "you",
+      "root": "su",
+      "order": {
+        "greek": 26,
+        "english": 26
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "2nd",
+        "number": "singular",
+        "case": "nominative"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "greek": "σοι",
+      "transliteration": "soi",
+      "englishLiteral": "to-you",
+      "englishNatural": "to you",
+      "root": "su",
+      "order": {
+        "greek": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "2nd",
+        "number": "singular",
+        "case": "dative"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    },
+    {
+      "greek": "σου",
+      "transliteration": "sou",
+      "englishLiteral": "of-you",
+      "englishNatural": "of yours",
+      "root": "su",
+      "order": {
+        "greek": 20,
+        "english": 20
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "2nd",
+        "number": "singular",
+        "case": "genitive"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    },
+    {
+      "greek": "ὑμᾶς",
+      "transliteration": "humas",
+      "englishLiteral": "you",
+      "englishNatural": "you",
+      "root": "su",
+      "order": {
+        "greek": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "pronoun",
+        "person": "2nd",
+        "number": "plural",
+        "case": "accusative"
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

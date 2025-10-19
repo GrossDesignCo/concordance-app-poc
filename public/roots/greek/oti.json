@@ -1,0 +1,90 @@
+{
+  "key": "oti",
+  "greek": "ὅτι",
+  "transliteration": "oti",
+  "englishLiteral": "that",
+  "englishNatural": "that",
+  "wordInstances": [
+    {
+      "greek": "ὅτι",
+      "transliteration": "hoti",
+      "englishLiteral": "that",
+      "englishNatural": "that",
+      "root": "oti",
+      "order": {
+        "greek": 22,
+        "english": 24
+      },
+      "morphology": {
+        "type": "conjunction"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "ὅτι",
+      "transliteration": "hoti",
+      "englishLiteral": "that",
+      "englishNatural": "that",
+      "root": "oti",
+      "order": {
+        "greek": 15,
+        "english": 15
+      },
+      "morphology": {
+        "type": "conjunction"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "ὅτι",
+      "transliteration": "hoti",
+      "englishLiteral": "that",
+      "englishNatural": "because",
+      "root": "oti",
+      "order": {
+        "greek": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "conjunction"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "greek": "ὅτι",
+      "transliteration": "hoti",
+      "englishLiteral": "that",
+      "englishNatural": "that",
+      "root": "oti",
+      "order": {
+        "greek": 28,
+        "english": 28
+      },
+      "morphology": {
+        "type": "conjunction"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

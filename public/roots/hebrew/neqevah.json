@@ -1,0 +1,75 @@
+{
+  "key": "neqevah",
+  "hebrew": "נקבה",
+  "transliteration": "neqevah",
+  "englishLiteral": "female",
+  "englishNatural": "female",
+  "related": [
+    "zakhar",
+    "ish",
+    "ishah"
+  ],
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "וּנְקֵבָ֖ה",
+      "transliteration": "uNekevah",
+      "englishLiteral": "and-female",
+      "englishNatural": "and female",
+      "root": "neqevah",
+      "prefixes": [
+        "u"
+      ],
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      }
+    },
+    {
+      "hebrew": "וּנְקֵבָה",
+      "transliteration": "uNeqevah",
+      "englishLiteral": "and-female",
+      "englishNatural": "and female",
+      "root": "neqevah",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

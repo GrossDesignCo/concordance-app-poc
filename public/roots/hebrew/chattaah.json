@@ -1,0 +1,47 @@
+{
+  "key": "chattaah",
+  "hebrew": "חטאה",
+  "transliteration": "chattaah",
+  "englishLiteral": "sin",
+  "englishNatural": "sin",
+  "type": "noun",
+  "description": "sin, sin offering, penalty for sin",
+  "related": [
+    "chata"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וְחַטָּאָה",
+      "transliteration": "veChattaah",
+      "englishLiteral": "and-sin",
+      "englishNatural": "and sin",
+      "root": "chattaah",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

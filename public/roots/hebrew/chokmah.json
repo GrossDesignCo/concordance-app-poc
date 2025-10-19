@@ -1,0 +1,80 @@
+{
+  "key": "chokmah",
+  "hebrew": "חָכְמָה",
+  "transliteration": "chokmah",
+  "englishLiteral": "wisdom",
+  "englishNatural": "wisdom",
+  "type": "noun",
+  "description": "wisdom, skill, understanding, insight",
+  "wordInstances": [
+    {
+      "hebrew": "חָכְמָה",
+      "transliteration": "chokmah",
+      "englishLiteral": "Wisdom",
+      "englishNatural": "Wisdom",
+      "root": "chokmah",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "חָכְמָה",
+      "transliteration": "chokmah",
+      "englishLiteral": "Wisdom",
+      "englishNatural": "Wisdom",
+      "root": "chokmah",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "חָכְמָה",
+      "transliteration": "chokmah",
+      "englishLiteral": "Wisdom",
+      "englishNatural": "Wisdom",
+      "root": "chokmah",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

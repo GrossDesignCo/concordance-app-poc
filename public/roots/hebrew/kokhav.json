@@ -1,0 +1,47 @@
+{
+  "key": "kokhav",
+  "hebrew": "כוכב",
+  "transliteration": "kokhav",
+  "englishLiteral": "star",
+  "englishNatural": "star",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "הַכּוֹכָבִֽים׃",
+      "transliteration": "haKokhavim",
+      "englishLiteral": "the-stars",
+      "englishNatural": "the stars",
+      "root": "kokhav",
+      "prefixes": [
+        "ha"
+      ],
+      "suffixes": [
+        "im"
+      ],
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

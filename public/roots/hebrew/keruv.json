@@ -1,0 +1,50 @@
+{
+  "key": "keruv",
+  "hebrew": "כרוב",
+  "transliteration": "keruv",
+  "englishLiteral": "Approaching-One",
+  "englishNatural": "Approaching-One",
+  "type": "noun",
+  "description": "angelic beings, cherubim, spiritual beings stationed at the entrances of places",
+  "related": [
+    "qarav"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "הַכְּרֻבִים",
+      "transliteration": "haKeruvim",
+      "englishLiteral": "the-Approaching_Ones",
+      "englishNatural": "the Approaching-Ones",
+      "root": "keruv",
+      "prefixes": [
+        "ha"
+      ],
+      "suffixes": [
+        "im"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

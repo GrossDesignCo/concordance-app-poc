@@ -1,0 +1,94 @@
+{
+  "key": "logos",
+  "greek": "λόγος",
+  "transliteration": "logos",
+  "englishLiteral": "word",
+  "englishNatural": "word",
+  "wordInstances": [
+    {
+      "greek": "λόγος",
+      "transliteration": "logos",
+      "englishLiteral": "Word",
+      "englishNatural": "Word",
+      "root": "logos",
+      "order": {
+        "greek": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "case": "nominative",
+        "state": "definite",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ",",
+        "greek": ",",
+        "transliteration": ","
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "greek": "λόγος",
+      "transliteration": "logos",
+      "englishLiteral": "Word",
+      "englishNatural": "Word",
+      "root": "logos",
+      "order": {
+        "greek": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "case": "nominative",
+        "state": "definite",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "greek": "λόγος",
+      "transliteration": "logos",
+      "englishLiteral": "Word",
+      "englishNatural": "Word",
+      "root": "logos",
+      "order": {
+        "greek": 17,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "case": "nominative",
+        "state": "definite",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "greek": ".",
+        "transliteration": "."
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

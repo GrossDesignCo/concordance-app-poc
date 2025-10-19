@@ -1,0 +1,482 @@
+{
+  "key": "shamayim",
+  "hebrew": "שמים",
+  "transliteration": "shamayim",
+  "englishLiteral": "skies",
+  "englishNatural": "skies",
+  "related": [
+    "mayim"
+  ],
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "הַשָּׁמַ֖יִם",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמַ֔יִם",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמַ֔יִם",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמָ֑יִם",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמָֽיִם׃",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמַ֗יִם",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמַ֔יִם",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמַ֔יִם",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "שָׁמָ֑יִם",
+      "transliteration": "shamayim",
+      "englishLiteral": "Skies",
+      "englishNatural": "Skies",
+      "root": "shamayim",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמַ֙יִם֙",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "of the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "וְשָׁמָיִם׃",
+      "transliteration": "veShamayim",
+      "englishLiteral": "and-skies",
+      "englishNatural": "and skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם",
+      "transliteration": "haShamayim",
+      "englishLiteral": "the-skies",
+      "englishNatural": "the skies",
+      "root": "shamayim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "שָׁמַיִם",
+      "transliteration": "shamayim",
+      "englishLiteral": "heavens",
+      "englishNatural": "heavens",
+      "root": "shamayim",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 27
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,99 @@
+{
+  "key": "raah_shepherd",
+  "hebrew": "רָעָה",
+  "transliteration": "raah",
+  "englishLiteral": "to shepherd",
+  "englishNatural": "to shepherd",
+  "type": "verb",
+  "description": "to shepherd, tend, pasture, feed, graze",
+  "related": [
+    "raah"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "רֹעֵה",
+      "transliteration": "roeh",
+      "englishLiteral": "shepherd",
+      "englishNatural": "a shepherd",
+      "root": "raah_shepherd",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "יִרְעוּ",
+      "transliteration": "yiru",
+      "englishLiteral": "they-will-graze",
+      "englishNatural": "they will graze",
+      "root": "raah_shepherd",
+      "order": {
+        "hebrew": 16,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "רֹעִי",
+      "transliteration": "roi",
+      "englishLiteral": "my-shepherd",
+      "englishNatural": "my shepherd",
+      "root": "raah_shepherd",
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "1st",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

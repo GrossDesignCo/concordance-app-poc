@@ -1,0 +1,39 @@
+{
+  "key": "shlomo",
+  "hebrew": "שְׁלֹמֹה",
+  "transliteration": "Shlomo",
+  "englishLiteral": "His_Peace (Solomon)",
+  "englishNatural": "His-Peace (Solomon)",
+  "type": "noun",
+  "description": "proper name meaning \"His-Peace (Solomon)\"",
+  "wordInstances": [
+    {
+      "hebrew": "שְׁלֹמֹה",
+      "transliteration": "shlomo",
+      "englishLiteral": "His_Peace (Solomon)",
+      "englishNatural": "His-Peace (Solomon)",
+      "root": "shlomo",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

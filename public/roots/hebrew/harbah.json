@@ -1,0 +1,47 @@
+{
+  "key": "harbah",
+  "hebrew": "הַרְבָּה",
+  "transliteration": "harbah",
+  "englishLiteral": "multiplying",
+  "englishNatural": "multiplying",
+  "type": "adverb",
+  "description": "greatly, much, many, abundantly",
+  "related": [
+    "rabah"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "הַרְבָּה",
+      "transliteration": "harbah",
+      "englishLiteral": "Multiplying",
+      "englishNatural": "Multiplying",
+      "root": "harbah",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

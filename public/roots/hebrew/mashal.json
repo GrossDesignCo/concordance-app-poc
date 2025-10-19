@@ -1,0 +1,179 @@
+{
+  "key": "mashal",
+  "hebrew": "משל",
+  "transliteration": "mashal",
+  "englishLiteral": "to rule",
+  "englishNatural": "to rule",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "לְמֶמְשֶׁ֣לֶת",
+      "transliteration": "leMemShelet",
+      "englishLiteral": "for-the-ruling-of",
+      "englishNatural": "for the ruling of",
+      "root": "mashal",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "לְמֶמְשֶׁ֣לֶת",
+      "transliteration": "leMemShelet",
+      "englishLiteral": "for-the-ruling-of",
+      "englishNatural": "for the ruling of",
+      "root": "mashal",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "וְלִמְשֹׁל֙",
+      "transliteration": "veLiMshol",
+      "englishLiteral": "And-to-rule",
+      "englishNatural": "And to rule",
+      "root": "mashal",
+      "prefixes": [
+        "ve",
+        "li"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "יִמְשָׁל",
+      "transliteration": "yimshal",
+      "englishLiteral": "he-will_rule",
+      "englishNatural": "will rule",
+      "root": "mashal",
+      "prefixes": [
+        "yi"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "תִּמְשָׁל־",
+      "transliteration": "timshal-",
+      "englishLiteral": "you-will-rule-",
+      "englishNatural": "will rule",
+      "root": "mashal",
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "מִשְׁלֵי",
+      "transliteration": "mishle",
+      "englishLiteral": "Rules-of",
+      "englishNatural": "Rules of",
+      "root": "mashal",
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun",
+        "state": "construct"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "מָשָׁל",
+      "transliteration": "mashal",
+      "englishLiteral": "rule",
+      "englishNatural": "a rule",
+      "root": "mashal",
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

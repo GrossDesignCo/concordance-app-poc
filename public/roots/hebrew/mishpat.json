@@ -1,0 +1,72 @@
+{
+  "key": "mishpat",
+  "hebrew": "מִשְׁפָּט",
+  "transliteration": "mishpat",
+  "englishLiteral": "judgment",
+  "englishNatural": "judgment",
+  "type": "noun",
+  "description": "judgment, justice, ordinance, legal decision",
+  "wordInstances": [
+    {
+      "hebrew": "וּמִשְׁפָּט",
+      "transliteration": "umishpat",
+      "englishLiteral": "and-judgement",
+      "englishNatural": "and judgement",
+      "root": "mishpat",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "בַּמִּשְׁפָּט",
+      "transliteration": "baMishpat",
+      "englishLiteral": "in-judgment",
+      "englishNatural": "in judgment",
+      "root": "mishpat",
+      "prefixes": [
+        "ba"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

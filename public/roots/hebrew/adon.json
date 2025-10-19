@@ -1,0 +1,40 @@
+{
+  "key": "adon",
+  "hebrew": "אדון",
+  "transliteration": "adon",
+  "englishLiteral": "lord",
+  "englishNatural": "lord",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "אֲדֹנָי",
+      "transliteration": "Adonai",
+      "englishLiteral": "my-Lord",
+      "englishNatural": "my Lord",
+      "root": "adon",
+      "suffixes": [
+        "ai"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "1st",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

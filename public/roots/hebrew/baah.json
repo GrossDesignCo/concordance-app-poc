@@ -1,0 +1,42 @@
+{
+  "key": "baah",
+  "hebrew": "באה",
+  "transliteration": "baah",
+  "englishLiteral": "going",
+  "englishNatural": "going",
+  "type": "verb",
+  "description": "going, coming (feminine participle of bo)",
+  "related": [
+    "bo"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "בָּאָה",
+      "transliteration": "baah",
+      "englishLiteral": "going",
+      "englishNatural": "going to",
+      "root": "baah",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

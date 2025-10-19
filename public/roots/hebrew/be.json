@@ -1,0 +1,186 @@
+{
+  "key": "be",
+  "hebrew": "בְּ",
+  "transliteration": "be",
+  "englishLiteral": "in",
+  "englishNatural": "in",
+  "description": "in and among, like \"in\" the flock",
+  "type": "preposition",
+  "wordInstances": [
+    {
+      "hebrew": "ב֖וֹ",
+      "transliteration": "bo",
+      "englishLiteral": "in-it",
+      "englishNatural": "in it",
+      "root": "be",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "בּ֤וֹ",
+      "transliteration": "bo",
+      "englishLiteral": "in-it",
+      "englishNatural": "in it is",
+      "root": "be",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 20,
+        "english": 20
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "בּ֛וֹ",
+      "transliteration": "bo",
+      "englishLiteral": "in-it",
+      "englishNatural": "in it is",
+      "root": "be",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "בוֹ",
+      "transliteration": "bo",
+      "englishLiteral": "in-it",
+      "englishNatural": "in it",
+      "root": "be",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "בָּךְ",
+      "transliteration": "bakh",
+      "englishLiteral": "in-you",
+      "englishNatural": "in you",
+      "root": "be",
+      "suffixes": [
+        "ekh"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "בּוֹ",
+      "transliteration": "bo",
+      "englishLiteral": "in-it",
+      "englishNatural": "it",
+      "root": "be",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 14
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "בָּהּ",
+      "transliteration": "bah",
+      "englishLiteral": "in-her",
+      "englishNatural": "into it",
+      "root": "be",
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

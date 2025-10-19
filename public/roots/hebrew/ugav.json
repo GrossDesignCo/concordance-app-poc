@@ -1,0 +1,45 @@
+{
+  "key": "ugav",
+  "hebrew": "עוּגָב",
+  "transliteration": "ugav",
+  "englishLiteral": "flute",
+  "englishNatural": "flute",
+  "type": "noun",
+  "description": "flute, pipe, wind instrument",
+  "wordInstances": [
+    {
+      "hebrew": "וְעוּגָב",
+      "transliteration": "veUgav",
+      "englishLiteral": "and-flute",
+      "englishNatural": "and flute",
+      "root": "ugav",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 21
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

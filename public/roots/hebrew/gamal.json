@@ -1,0 +1,68 @@
+{
+  "key": "gamal",
+  "hebrew": "גָּמַל",
+  "transliteration": "gamal",
+  "englishLiteral": "to wean",
+  "englishNatural": "to wean",
+  "type": "verb",
+  "description": "to wean, deal fully with, ripen, mature",
+  "wordInstances": [
+    {
+      "hebrew": "כְּגָמוּל",
+      "transliteration": "keGamul",
+      "englishLiteral": "as-weaned-one",
+      "englishNatural": "as a weaned-one",
+      "root": "gamal",
+      "prefixes": [
+        "ke"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "כַּגָּמוּל",
+      "transliteration": "kaGamul",
+      "englishLiteral": "as-weaned-one",
+      "englishNatural": "as a weaned-one",
+      "root": "gamal",
+      "prefixes": [
+        "ka"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 131,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

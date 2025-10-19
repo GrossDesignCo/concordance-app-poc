@@ -1,0 +1,147 @@
+{
+  "key": "basar",
+  "hebrew": "בשר",
+  "transliteration": "basar",
+  "englishLiteral": "flesh",
+  "englishNatural": "flesh",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "בָּשָׂר",
+      "transliteration": "basar",
+      "englishLiteral": "flesh",
+      "englishNatural": "flesh",
+      "root": "basar",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      }
+    },
+    {
+      "hebrew": "וּבָשָׂר",
+      "transliteration": "uVasar",
+      "englishLiteral": "and-flesh",
+      "englishNatural": "and flesh",
+      "root": "basar",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "מִבְּשָׂרִי",
+      "transliteration": "miVesari",
+      "englishLiteral": "from-my-flesh",
+      "englishNatural": "from my flesh",
+      "root": "basar",
+      "prefixes": [
+        "mi"
+      ],
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "לְבָשָׂר",
+      "transliteration": "leVasar",
+      "englishLiteral": "to-flesh",
+      "englishNatural": "flesh",
+      "root": "basar",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "בָשָׂר",
+      "transliteration": "basar",
+      "englishLiteral": "flesh",
+      "englishNatural": "is flesh",
+      "root": "basar",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

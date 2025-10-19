@@ -1,0 +1,69 @@
+{
+  "key": "naqam",
+  "hebrew": "נָקַם",
+  "transliteration": "naqam",
+  "englishLiteral": "to avenge",
+  "englishNatural": "to avenge",
+  "type": "verb",
+  "description": "to avenge, take vengeance, punish",
+  "wordInstances": [
+    {
+      "hebrew": "יֻקָּם",
+      "transliteration": "yuqam",
+      "englishLiteral": "it-will-be-avenged",
+      "englishNatural": "it will be avenged",
+      "root": "naqam",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hophal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "יֻקַּם־",
+      "transliteration": "yuqam-",
+      "englishLiteral": "shall-be-avenged",
+      "englishNatural": "shall be avenged",
+      "root": "naqam",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "3rd",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "hophal",
+        "tense": "imperfect"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 24
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

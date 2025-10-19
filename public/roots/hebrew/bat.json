@@ -1,0 +1,373 @@
+{
+  "key": "bat",
+  "hebrew": "בַּת",
+  "transliteration": "bat",
+  "englishLiteral": "daughter",
+  "englishNatural": "daughter",
+  "type": "noun",
+  "description": "daughter, female child",
+  "related": [
+    "ben"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וּבָנוֹת",
+      "transliteration": "uVanot",
+      "englishLiteral": "and-daughters",
+      "englishNatural": "and daughters",
+      "root": "bat",
+      "prefixes": [
+        "u"
+      ],
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "וּבָנוֹת",
+      "transliteration": "uVanot",
+      "englishLiteral": "and-daughters",
+      "englishNatural": "and daughters",
+      "root": "bat",
+      "prefixes": [
+        "u"
+      ],
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 13
+      }
+    },
+    {
+      "hebrew": "וּבָנוֹת",
+      "transliteration": "uVanot",
+      "englishLiteral": "and-daughters",
+      "englishNatural": "and daughters",
+      "root": "bat",
+      "prefixes": [
+        "u"
+      ],
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "וּבָנוֹת",
+      "transliteration": "uVanot",
+      "englishLiteral": "and-daughters",
+      "englishNatural": "and daughters",
+      "root": "bat",
+      "prefixes": [
+        "u"
+      ],
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "וּבָנוֹת",
+      "transliteration": "uBanot",
+      "englishLiteral": "and-daughters",
+      "englishNatural": "and daughters",
+      "root": "bat",
+      "prefixes": [
+        "u"
+      ],
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "וּבָנוֹת",
+      "transliteration": "uBanot",
+      "englishLiteral": "and-daughters",
+      "englishNatural": "and daughters",
+      "root": "bat",
+      "prefixes": [
+        "u"
+      ],
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "וּבָנוֹת",
+      "transliteration": "uVanot",
+      "englishLiteral": "and-daughters",
+      "englishNatural": "and daughters",
+      "root": "bat",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural",
+        "state": "absolute"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "וּבָנוֹת",
+      "transliteration": "uBanot",
+      "englishLiteral": "and-daughters",
+      "englishNatural": "and daughters",
+      "root": "bat",
+      "prefixes": [
+        "u"
+      ],
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "וּבָנוֹת",
+      "transliteration": "uVanot",
+      "englishLiteral": "and-daughters",
+      "englishNatural": "and daughters",
+      "root": "bat",
+      "prefixes": [
+        "u"
+      ],
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "וּבָנוֹת",
+      "transliteration": "uVanot",
+      "englishLiteral": "and-daughters",
+      "englishNatural": "and daughters",
+      "root": "bat",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "בְּנוֹת",
+      "transliteration": "benot",
+      "englishLiteral": "daughters-of",
+      "englishNatural": "the daughters of",
+      "root": "bat",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "plural",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "בְּנוֹת",
+      "transliteration": "benot",
+      "englishLiteral": "daughters-of",
+      "englishNatural": "the daughters of",
+      "root": "bat",
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "plural",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

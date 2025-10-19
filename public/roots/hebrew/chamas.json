@@ -1,0 +1,40 @@
+{
+  "key": "chamas",
+  "hebrew": "חמס",
+  "transliteration": "chamas",
+  "englishLiteral": "violence",
+  "englishNatural": "violence",
+  "type": "noun",
+  "description": "violence, wrong, injustice, oppression",
+  "wordInstances": [
+    {
+      "hebrew": "הֶחָמָס",
+      "transliteration": "heChamas",
+      "englishLiteral": "the-violence",
+      "englishNatural": "the violence",
+      "root": "chamas",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

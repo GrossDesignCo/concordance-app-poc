@@ -1,0 +1,40 @@
+{
+  "key": "ohel",
+  "hebrew": "אֹהֶל",
+  "transliteration": "ohel",
+  "englishLiteral": "tent",
+  "englishNatural": "tent",
+  "type": "noun",
+  "description": "tent, dwelling, tabernacle",
+  "wordInstances": [
+    {
+      "hebrew": "אֹהֶל",
+      "transliteration": "ohel",
+      "englishLiteral": "tent",
+      "englishNatural": "tent",
+      "root": "ohel",
+      "order": {
+        "hebrew": 9,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 20
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

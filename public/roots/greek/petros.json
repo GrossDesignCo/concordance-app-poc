@@ -1,0 +1,63 @@
+{
+  "key": "petros",
+  "greek": "Πέτρος",
+  "transliteration": "Petros",
+  "englishLiteral": "Stone (Peter)",
+  "englishNatural": "Stone (Peter)",
+  "wordInstances": [
+    {
+      "greek": "Πέτρῳ",
+      "transliteration": "Petrō",
+      "englishLiteral": "Stone (Peter)",
+      "englishNatural": "Stone (Peter)",
+      "root": "petros",
+      "order": {
+        "greek": 7,
+        "english": 11
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "dative",
+        "state": "anarthrous"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "Πέτρος",
+      "transliteration": "Petros",
+      "englishLiteral": "Stone (Peter)",
+      "englishNatural": "Stone (Peter)",
+      "root": "petros",
+      "order": {
+        "greek": 11,
+        "english": 10
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "nominative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

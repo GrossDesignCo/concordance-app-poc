@@ -1,0 +1,37 @@
+{
+  "key": "angelos",
+  "greek": "ἄγγελος",
+  "transliteration": "angelos",
+  "englishLiteral": "messenger",
+  "englishNatural": "messenger",
+  "wordInstances": [
+    {
+      "greek": "ἄγγελον",
+      "transliteration": "angelon",
+      "englishLiteral": "messenger",
+      "englishNatural": "a messenger",
+      "root": "angelos",
+      "order": {
+        "greek": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "case": "accusative",
+        "type": "noun",
+        "state": "anarthrous"
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

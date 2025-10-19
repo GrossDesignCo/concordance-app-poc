@@ -1,0 +1,256 @@
+{
+  "key": "Lemekh",
+  "hebrew": "לָמֶךְ",
+  "transliteration": "Lemekh",
+  "englishLiteral": "Powerful (Lamech)",
+  "englishNatural": "Powerful (Lamech)",
+  "type": "noun",
+  "description": "proper name, Lamech, possibly meaning \"powerful\" or \"overthrower\"",
+  "wordInstances": [
+    {
+      "hebrew": "לָמֶךְ",
+      "transliteration": "Lemekh",
+      "englishLiteral": "Powerful (Lamech)",
+      "englishNatural": "Powerful (Lamech)",
+      "root": "Lemekh",
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "לֶמֶךְ",
+      "transliteration": "Lemekh",
+      "englishLiteral": "Powerful (Lamech)",
+      "englishNatural": "And Powerful (Lamech)",
+      "root": "Lemekh",
+      "order": {
+        "hebrew": 3,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "לֶמֶךְ",
+      "transliteration": "Lemekh",
+      "englishLiteral": "Powerful (Lamech)",
+      "englishNatural": "And Powerful (Lamech)",
+      "root": "Lemekh",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "לֶמֶךְ",
+      "transliteration": "Lemekh",
+      "englishLiteral": "Powerful (Lamech)",
+      "englishNatural": "Powerful (Lamech)",
+      "root": "Lemekh",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "וְלֶמֶךְ",
+      "transliteration": "veLemekh",
+      "englishLiteral": "and-Powerful (Lamech)",
+      "englishNatural": "and Powerful (Lamech)",
+      "root": "Lemekh",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "לָמֶךְ",
+      "transliteration": "Lemekh",
+      "englishLiteral": "Powerful (Lamech)",
+      "englishNatural": "Powerful (Lamech)",
+      "root": "Lemekh",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "לָמֶךְ",
+      "transliteration": "Lemekh",
+      "englishLiteral": "Powerful (Lamech)",
+      "englishNatural": "Powerful (Lamech)",
+      "root": "Lemekh",
+      "order": {
+        "hebrew": 5,
+        "english": 4
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "לֶמֶךְ",
+      "transliteration": "Lemekh",
+      "englishLiteral": "Lamech",
+      "englishNatural": "And Lamech",
+      "root": "Lemekh",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun",
+        "state": "absolute"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 28
+      }
+    },
+    {
+      "hebrew": "לֶמֶךְ",
+      "transliteration": "Lemekh",
+      "englishLiteral": "Powerful (Lamech)",
+      "englishNatural": "And Powerful (Lamech)",
+      "root": "Lemekh",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun",
+        "state": "absolute"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "לֶמֶךְ",
+      "transliteration": "Lemekh",
+      "englishLiteral": "Powerful (Lamech)",
+      "englishNatural": "Powerful (Lamech)",
+      "root": "Lemekh",
+      "order": {
+        "hebrew": 4,
+        "english": 3
+      },
+      "morphology": {
+        "type": "noun",
+        "state": "absolute"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 31
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,48 @@
+{
+  "key": "hamish",
+  "hebrew": "חמש",
+  "transliteration": "hamish",
+  "englishLiteral": "fifth",
+  "englishNatural": "fifth",
+  "type": "numeral",
+  "wordInstances": [
+    {
+      "hebrew": "חֲמִישִֽׁי׃",
+      "transliteration": "hamishi",
+      "englishLiteral": "fifth",
+      "englishNatural": "A fifth",
+      "root": "hamish",
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "."
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 23
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

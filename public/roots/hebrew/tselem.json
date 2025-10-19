@@ -1,0 +1,134 @@
+{
+  "key": "tselem",
+  "hebrew": "צלם",
+  "transliteration": "tselem",
+  "englishLiteral": "image",
+  "englishNatural": "image",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "בְּצַלְמֵ֖נוּ",
+      "transliteration": "beTzalmenu",
+      "englishLiteral": "in-our-image",
+      "englishNatural": "in our image",
+      "root": "tselem",
+      "prefixes": [
+        "be"
+      ],
+      "suffixes": [
+        "nu"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "בְּצַלְמ֔וֹ",
+      "transliteration": "beTsalmo",
+      "englishLiteral": "in-his-image",
+      "englishNatural": "in his image",
+      "root": "tselem",
+      "prefixes": [
+        "be"
+      ],
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      }
+    },
+    {
+      "hebrew": "בְּצֶ֥לֶם",
+      "transliteration": "beTselem",
+      "englishLiteral": "in-image-of",
+      "englishNatural": "in image of",
+      "root": "tselem",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      }
+    },
+    {
+      "hebrew": "כְּצַלְמוֹ",
+      "transliteration": "keTselmo",
+      "englishLiteral": "as-image-his",
+      "englishNatural": "as his image",
+      "root": "tselem",
+      "prefixes": [
+        "ke"
+      ],
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,69 @@
+{
+  "key": "nes",
+  "hebrew": "נס",
+  "transliteration": "nes",
+  "englishLiteral": "standard",
+  "englishNatural": "standard",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "נֵס",
+      "transliteration": "nes",
+      "englishLiteral": "standard",
+      "englishNatural": "a standard",
+      "root": "nes",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "absolute",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "הַנֵּס",
+      "transliteration": "haNes",
+      "englishLiteral": "the-standard",
+      "englishNatural": "the standard",
+      "root": "nes",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 9
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

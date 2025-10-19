@@ -1,0 +1,62 @@
+{
+  "key": "hem",
+  "hebrew": "הם",
+  "transliteration": "hem",
+  "englishLiteral": "they",
+  "englishNatural": "they",
+  "description": "third person masculine plural pronoun",
+  "type": "pronoun",
+  "wordInstances": [
+    {
+      "hebrew": "הֵם",
+      "transliteration": "hem",
+      "englishLiteral": "they",
+      "englishNatural": "they were",
+      "root": "hem",
+      "order": {
+        "hebrew": 7,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "type": "pronoun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "הֵמָּה",
+      "transliteration": "hemah",
+      "englishLiteral": "they",
+      "englishNatural": "they",
+      "root": "hem",
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "person": "3rd",
+        "number": "plural",
+        "type": "pronoun"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

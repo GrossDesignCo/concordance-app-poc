@@ -1,0 +1,70 @@
+{
+  "key": "ein",
+  "hebrew": "אֵין",
+  "transliteration": "ein",
+  "englishLiteral": "nothing",
+  "englishNatural": "nothing",
+  "type": "adverb",
+  "description": "nothing, no, not, without, there is not",
+  "wordInstances": [
+    {
+      "hebrew": "בְּאֵין",
+      "transliteration": "beEin",
+      "englishLiteral": "In-nothing",
+      "englishNatural": "In nothing",
+      "root": "ein",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "בְּאֵין",
+      "transliteration": "beEin",
+      "englishLiteral": "in-nothing",
+      "englishNatural": "in nothing",
+      "root": "ein",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 24
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

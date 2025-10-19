@@ -1,0 +1,259 @@
+{
+  "key": "raqia",
+  "hebrew": "רקיע",
+  "transliteration": "raqia",
+  "englishLiteral": "a hammering_out",
+  "englishNatural": "a hammering-out",
+  "description": "a thing made by the process of hammering out thin",
+  "type": "noun",
+  "related": [
+    "raqa"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "בִּרְקִ֣יעַ",
+      "transliteration": "biRqia",
+      "englishLiteral": "in-hammering_out",
+      "englishNatural": "in the hammering-out",
+      "root": "raqia",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 6
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "בִּרְקִ֣יעַ",
+      "transliteration": "biRqia",
+      "englishLiteral": "in-hammering_out",
+      "englishNatural": "in the hammering-out",
+      "root": "raqia",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "בִּרְקִ֣יעַ",
+      "transliteration": "biRqia",
+      "englishLiteral": "in-hammering_out",
+      "englishNatural": "in the hammering-out",
+      "root": "raqia",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "רְקִ֥יעַ",
+      "transliteration": "raqia",
+      "englishLiteral": "hammering_out",
+      "englishNatural": "the hammering-out",
+      "root": "raqia",
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "רָקִיעַ",
+      "transliteration": "raqia",
+      "englishLiteral": "hammering_out",
+      "englishNatural": "Let a hammering-out",
+      "root": "raqia",
+      "order": {
+        "hebrew": 4,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarPrefix": {
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "הָרָקִ֖יעַ",
+      "transliteration": "haRaqia",
+      "englishLiteral": "the-hammering_out",
+      "englishNatural": "the hammering-out",
+      "root": "raqia",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "לָרָקִ֔יעַ",
+      "transliteration": "laRaqia",
+      "englishLiteral": "to_the-hammering_out",
+      "englishNatural": "the hammering-out",
+      "root": "raqia",
+      "prefixes": [
+        "la"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "לָרָקִ֑יעַ",
+      "transliteration": "laRaqia",
+      "englishLiteral": "to_the-hammering_out",
+      "englishNatural": "the hammering-out",
+      "root": "raqia",
+      "prefixes": [
+        "la"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "לָֽרָקִ֖יעַ",
+      "transliteration": "laRaqia",
+      "englishLiteral": "to_the-hammering_out",
+      "englishNatural": "to the hammering-out",
+      "root": "raqia",
+      "prefixes": [
+        "la"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 8
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

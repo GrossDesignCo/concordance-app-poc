@@ -1,0 +1,130 @@
+{
+  "key": "choshekh",
+  "hebrew": "חשך",
+  "transliteration": "choshekh",
+  "englishLiteral": "darkness",
+  "englishNatural": "darkness",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "הַחֹ֑שֶׁךְ",
+      "transliteration": "haHoshekh",
+      "englishLiteral": "the-darkness",
+      "englishNatural": "the darkness",
+      "root": "choshekh",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "וְחֹ֖שֶׁךְ",
+      "transliteration": "veChoshekh",
+      "englishLiteral": "And-darkness",
+      "englishNatural": "And darkness",
+      "root": "choshekh",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "absolute",
+        "type": "adjective"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "הַחֹֽשֶׁךְ",
+      "transliteration": "haChoshekh",
+      "englishLiteral": "the-darkness",
+      "englishNatural": "the darkness",
+      "root": "choshekh",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "transliteration": ".",
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "וְלַחֹ֖שֶׁךְ",
+      "transliteration": "veLaChoshekh",
+      "englishLiteral": "and-to-darkness",
+      "englishNatural": "darkness",
+      "root": "choshekh",
+      "prefixes": [
+        "ve",
+        "la"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

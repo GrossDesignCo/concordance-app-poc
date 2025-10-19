@@ -1,0 +1,125 @@
+{
+  "key": "nahar",
+  "hebrew": "נהר",
+  "transliteration": "nahar",
+  "englishLiteral": "river",
+  "englishNatural": "river",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "וְנָהָר",
+      "transliteration": "veNahar",
+      "englishLiteral": "And-river",
+      "englishNatural": "And a river",
+      "root": "nahar",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "הַנָּהָר",
+      "transliteration": "haNahar",
+      "englishLiteral": "the-river",
+      "englishNatural": "river",
+      "root": "nahar",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 3
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 13
+      }
+    },
+    {
+      "hebrew": "הַנָּהָר",
+      "transliteration": "haNahar",
+      "englishLiteral": "the-river",
+      "englishNatural": "river",
+      "root": "nahar",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 3
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "וְהַנָּהָר",
+      "transliteration": "veHaNahar",
+      "englishLiteral": "And-the-river",
+      "englishNatural": "river",
+      "root": "nahar",
+      "prefixes": [
+        "ve",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 10
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 14
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

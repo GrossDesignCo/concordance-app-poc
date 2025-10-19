@@ -1,0 +1,127 @@
+{
+  "key": "tarshish",
+  "hebrew": "תרשיש",
+  "transliteration": "Tarshish",
+  "englishLiteral": "Breaking (Tarshish)",
+  "englishNatural": "Breaking (Tarshish)",
+  "type": "noun",
+  "description": "proper name, Tarshish, distant port city, possibly in Spain",
+  "wordInstances": [
+    {
+      "hebrew": "תַּרְשִׁישָׁה",
+      "transliteration": "Tarshishah",
+      "englishLiteral": "Breaking-ward",
+      "englishNatural": "Breaking-ward",
+      "root": "tarshish",
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun",
+        "direction": "directive"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "תַרְשִׁישׁ",
+      "transliteration": "Tarshish",
+      "englishLiteral": "Breaking",
+      "englishNatural": "Breaking",
+      "root": "tarshish",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "תַּרְשִׁישָׁה",
+      "transliteration": "Tarshishah",
+      "englishLiteral": "Breaking-ward",
+      "englishNatural": "Breaking-ward",
+      "root": "tarshish",
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 19,
+        "english": 19
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun",
+        "direction": "directive"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "תַּרְשִׁישָׁה",
+      "transliteration": "tarshishah",
+      "englishLiteral": "Breaking (Tarshish)",
+      "englishNatural": "Breaking (Tarshish)",
+      "root": "tarshish",
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

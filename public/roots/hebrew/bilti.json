@@ -1,0 +1,60 @@
+{
+  "key": "bilti",
+  "hebrew": "בלתי",
+  "transliteration": "bilti",
+  "englishLiteral": "not",
+  "englishNatural": "not",
+  "type": "particle",
+  "description": "not, except, without (negative particle)",
+  "wordInstances": [
+    {
+      "hebrew": "לְבִלְתִּי",
+      "transliteration": "levilti",
+      "englishLiteral": "to-not",
+      "englishNatural": "not to",
+      "root": "bilti",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "particle"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "לְבִלְתִּי",
+      "transliteration": "leVilti",
+      "englishLiteral": "for-not",
+      "englishNatural": "so that not",
+      "root": "bilti",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 15
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 15
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

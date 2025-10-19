@@ -1,0 +1,40 @@
+{
+  "key": "maqom",
+  "hebrew": "מקום",
+  "transliteration": "maqom",
+  "englishLiteral": "place",
+  "englishNatural": "place",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "מָקֹ֣ום",
+      "transliteration": "maqom",
+      "englishLiteral": "place",
+      "englishNatural": "place",
+      "root": "maqom",
+      "order": {
+        "hebrew": 8,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 9
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

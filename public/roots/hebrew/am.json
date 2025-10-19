@@ -1,0 +1,227 @@
+{
+  "key": "am",
+  "hebrew": "עם",
+  "transliteration": "am",
+  "englishLiteral": "people",
+  "englishNatural": "people",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "עַם־",
+      "transliteration": "am-",
+      "englishLiteral": "people-",
+      "englishNatural": "a people",
+      "root": "am",
+      "morphology": {
+        "type": "noun",
+        "state": "construct",
+        "number": "singular",
+        "gender": "masculine"
+      },
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "עַם",
+      "transliteration": "am",
+      "englishLiteral": "people",
+      "englishNatural": "people",
+      "root": "am",
+      "order": {
+        "hebrew": 19,
+        "english": 19
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishNatural": "'"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "בָּעָם",
+      "transliteration": "baAm",
+      "englishLiteral": "among-the-people",
+      "englishNatural": "among the people",
+      "root": "am",
+      "prefixes": [
+        "ba",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "הָעָם",
+      "transliteration": "haAm",
+      "englishLiteral": "the-people",
+      "englishNatural": "the people",
+      "root": "am",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "עַם",
+      "transliteration": "am",
+      "englishLiteral": "people",
+      "englishNatural": "people",
+      "root": "am",
+      "order": {
+        "hebrew": 11,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "הָעָם",
+      "transliteration": "haAm",
+      "englishLiteral": "the-people",
+      "englishNatural": "And the people",
+      "root": "am",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "הָעָם",
+      "transliteration": "haAm",
+      "englishLiteral": "the-people",
+      "englishNatural": "the people",
+      "root": "am",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 21,
+        "english": 20
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "הָאֻמִּים",
+      "transliteration": "haUmim",
+      "englishLiteral": "the-peoples",
+      "englishNatural": "the peoples",
+      "root": "am",
+      "prefixes": [
+        "ha"
+      ],
+      "suffixes": [
+        "im"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

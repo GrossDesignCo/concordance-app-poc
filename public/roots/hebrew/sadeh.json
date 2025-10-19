@@ -1,0 +1,233 @@
+{
+  "key": "sadeh",
+  "hebrew": "שׂדה",
+  "transliteration": "sadeh",
+  "englishLiteral": "field",
+  "englishNatural": "field",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "הַשָּׂדֶה",
+      "transliteration": "haSadeh",
+      "englishLiteral": "the-field",
+      "englishNatural": "the field",
+      "root": "sadeh",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "הַשָּׂדֶה",
+      "transliteration": "haSadeh",
+      "englishLiteral": "the-field",
+      "englishNatural": "the field",
+      "root": "sadeh",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "הַשָּׂדֶה",
+      "transliteration": "haSadeh",
+      "englishLiteral": "the-field",
+      "englishNatural": "of the field",
+      "root": "sadeh",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "הַשָּׂדֶה",
+      "transliteration": "haSadeh",
+      "englishLiteral": "the-field",
+      "englishNatural": "of the field",
+      "root": "sadeh",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "הַשָּׂדֶה",
+      "transliteration": "haSadeh",
+      "englishLiteral": "the-field",
+      "englishNatural": "the field",
+      "root": "sadeh",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "הַשָּׂדֶה",
+      "transliteration": "haSadeh",
+      "englishLiteral": "the-field",
+      "englishNatural": "of the field",
+      "root": "sadeh",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "הַשָּׂדֶה׃",
+      "transliteration": "haSadeh",
+      "englishLiteral": "the-field",
+      "englishNatural": "of the field",
+      "root": "sadeh",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "בַּשָּׂדֶה",
+      "transliteration": "basadeh",
+      "englishLiteral": "in-the-field",
+      "englishNatural": "in the field",
+      "root": "sadeh",
+      "prefixes": [
+        "ba"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 8
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

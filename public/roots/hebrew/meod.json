@@ -1,0 +1,64 @@
+{
+  "key": "meod",
+  "hebrew": "מאד",
+  "transliteration": "meod",
+  "englishLiteral": "very",
+  "englishNatural": "very",
+  "description": "very, extremely, much, many, overflowingly much",
+  "type": "adverb",
+  "wordInstances": [
+    {
+      "hebrew": "מְאֹ֑ד",
+      "transliteration": "meod",
+      "englishLiteral": "very",
+      "englishNatural": "very",
+      "root": "meod",
+      "order": {
+        "hebrew": 9,
+        "english": 8
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "."
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 31
+      }
+    },
+    {
+      "hebrew": "מְאֹד",
+      "transliteration": "meod",
+      "englishLiteral": "very_much",
+      "englishNatural": "very-much",
+      "root": "meod",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

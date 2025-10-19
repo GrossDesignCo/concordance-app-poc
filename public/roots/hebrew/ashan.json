@@ -1,0 +1,39 @@
+{
+  "key": "ashan",
+  "hebrew": "עשן",
+  "transliteration": "ashan",
+  "englishLiteral": "smoke",
+  "englishNatural": "smoke",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "עָשָֽׁן",
+      "transliteration": "ashan",
+      "englishLiteral": "smoke",
+      "englishNatural": "smoke",
+      "root": "ashan",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

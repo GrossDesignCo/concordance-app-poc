@@ -1,0 +1,36 @@
+{
+  "key": "ou",
+  "greek": "οὐ",
+  "transliteration": "ou",
+  "englishLiteral": "not",
+  "englishNatural": "not",
+  "wordInstances": [
+    {
+      "greek": "οὐ",
+      "transliteration": "ou",
+      "englishLiteral": "not",
+      "englishNatural": "not",
+      "root": "ou",
+      "order": {
+        "greek": 28,
+        "english": 29
+      },
+      "morphology": {
+        "type": "particle"
+      },
+      "grammarSuffix": {
+        "englishNatural": ".\""
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

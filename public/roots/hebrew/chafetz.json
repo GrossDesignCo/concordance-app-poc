@@ -1,0 +1,45 @@
+{
+  "key": "chafetz",
+  "hebrew": "חֵפֶץ",
+  "transliteration": "chafetz",
+  "englishLiteral": "choice_thing",
+  "englishNatural": "choice-thing",
+  "type": "noun",
+  "description": "a wilful decision to take delight in something, pleasure, desire, will",
+  "wordInstances": [
+    {
+      "hebrew": "חֶפְצוֹ",
+      "transliteration": "cheftzo",
+      "englishLiteral": "his-choice_thing",
+      "englishNatural": "his choice-thing",
+      "root": "chafetz",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

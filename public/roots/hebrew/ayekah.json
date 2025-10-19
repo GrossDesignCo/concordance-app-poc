@@ -1,0 +1,44 @@
+{
+  "key": "ayekah",
+  "hebrew": "אַיֶּכָּה",
+  "transliteration": "ayekah",
+  "englishLiteral": "where",
+  "englishNatural": "where",
+  "type": "adverb",
+  "description": "where, where are you (interrogative)",
+  "wordInstances": [
+    {
+      "hebrew": "אַיֶּכָּה",
+      "transliteration": "ayekah",
+      "englishLiteral": "Where",
+      "englishNatural": "Where are you",
+      "root": "ayekah",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "grammarSuffix": {
+        "englishLiteral": "?\"",
+        "englishNatural": "?\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 9
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,652 @@
+{
+  "key": "akhal",
+  "hebrew": "אכל",
+  "transliteration": "akhal",
+  "englishLiteral": "to eat",
+  "englishNatural": "to eat",
+  "related": [
+    "okhel"
+  ],
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "אָכֹל",
+      "transliteration": "akhol",
+      "englishLiteral": "eating",
+      "englishNatural": "eating",
+      "root": "akhal",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "verb",
+        "stem": "qal",
+        "tense": "infinitive_absolute"
+      },
+      "grammarSuffix": {
+        "englishNatural": ",",
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "תֹּאכֵל׃",
+      "transliteration": "toAkhel",
+      "englishLiteral": "let-you-will-eat",
+      "englishNatural": "let you eat",
+      "root": "akhal",
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "prefixes": [
+        "ta"
+      ],
+      "morphology": {
+        "type": "verb",
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperfect",
+        "stem": "qal"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "תֹאכַל",
+      "transliteration": "toAkhal",
+      "englishLiteral": "you-will-eat",
+      "englishNatural": "you will eat",
+      "root": "akhal",
+      "prefixes": [
+        "ta"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 5
+      },
+      "morphology": {
+        "type": "verb",
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperfect",
+        "stem": "qal"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "אֲכָלְךָ",
+      "transliteration": "akhalekha",
+      "englishLiteral": "your-eating",
+      "englishNatural": "your eating",
+      "root": "akhal",
+      "suffixes": [
+        "kha"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "verb",
+        "stem": "qal",
+        "tense": "infinitive_construct"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "תֹאכְלוּ",
+      "transliteration": "tokhlu",
+      "englishLiteral": "you-shall-eat",
+      "englishNatural": "You shall eat",
+      "root": "akhal",
+      "suffixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 19,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "2nd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarPrefix": {
+        "englishNatural": "'"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "אֲכָל־",
+      "transliteration": "akhal-",
+      "englishLiteral": "eat-",
+      "englishNatural": "eat",
+      "root": "akhal",
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "verb",
+        "stem": "qal",
+        "tense": "infinitive_construct"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "אָכָלְתָּ",
+      "transliteration": "akalta",
+      "englishLiteral": "you-eat",
+      "englishNatural": "you eat",
+      "root": "akhal",
+      "suffixes": [
+        "ta"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "?\"",
+        "englishNatural": "?\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 11
+      }
+    },
+    {
+      "hebrew": "וָאֹכֵל",
+      "transliteration": "vaOkhel",
+      "englishLiteral": "and-I-ate",
+      "englishNatural": "and I ate",
+      "root": "akhal",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "common",
+        "number": "singular",
+        "person": "1st",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 12
+      }
+    },
+    {
+      "hebrew": "וָאֹכֵל",
+      "transliteration": "vaOkhel",
+      "englishLiteral": "and-I-ate",
+      "englishNatural": "and I ate",
+      "root": "akhal",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "common",
+        "number": "singular",
+        "person": "1st",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 13
+      }
+    },
+    {
+      "hebrew": "תֹּאכַל",
+      "transliteration": "tokhal",
+      "englishLiteral": "you-will_eat",
+      "englishNatural": "you will eat",
+      "root": "akhal",
+      "order": {
+        "hebrew": 20,
+        "english": 20
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "וַתֹּאכַל",
+      "transliteration": "vaToAkhal",
+      "englishLiteral": "and-you-ate",
+      "englishNatural": "and you ate",
+      "root": "akhal",
+      "prefixes": [
+        "va"
+      ],
+      "suffixes": [
+        "ta"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "תֹאכַל",
+      "transliteration": "tokhal",
+      "englishLiteral": "you-will-eat",
+      "englishNatural": "You will eat",
+      "root": "akhal",
+      "prefixes": [
+        "ta"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarPrefix": {
+        "englishNatural": "'"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "תֹּאכְלֶנָּה",
+      "transliteration": "tokhlena",
+      "englishLiteral": "you-will-eat",
+      "englishNatural": "you will eat",
+      "root": "akhal",
+      "prefixes": [
+        "ta"
+      ],
+      "suffixes": [
+        "nah"
+      ],
+      "order": {
+        "hebrew": 20,
+        "english": 20
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "וְאָכַלְתָּ",
+      "transliteration": "veAkhlta",
+      "englishLiteral": "and-you-will-eat",
+      "englishNatural": "and you will eat",
+      "root": "akhal",
+      "prefixes": [
+        "ve"
+      ],
+      "suffixes": [
+        "ta"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "תֹּאכַל",
+      "transliteration": "toKhal",
+      "englishLiteral": "you-will-eat",
+      "englishNatural": "you will eat",
+      "root": "akhal",
+      "prefixes": [
+        "te"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "imperfect",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "נֹאכֵל",
+      "transliteration": "nochil",
+      "englishLiteral": "we-eat",
+      "englishNatural": "we may eat",
+      "root": "akhal",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "common",
+        "number": "plural",
+        "person": "1st",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "וְאָכַל",
+      "transliteration": "veAkhal",
+      "englishLiteral": "and-eat",
+      "englishNatural": "and eat",
+      "root": "akhal",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 20,
+        "english": 20
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "תֹאכְלוּ",
+      "transliteration": "tokhlu",
+      "englishLiteral": "you-shall-eat",
+      "englishNatural": "You shall eat",
+      "root": "akhal",
+      "suffixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "2nd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarPrefix": {
+        "englishNatural": "'"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "אֲכָלְכֶם",
+      "transliteration": "akhalchem",
+      "englishLiteral": "eating-you",
+      "englishNatural": "of you eating",
+      "root": "akhal",
+      "suffixes": [
+        "chem"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "verb",
+        "stem": "qal",
+        "tense": "infinitive_construct"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "לְמַאֲכָל",
+      "transliteration": "leMaakhal",
+      "englishLiteral": "for-food",
+      "englishNatural": "for food",
+      "root": "akhal",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 7
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "וַתֹּאכַל",
+      "transliteration": "vatokhal",
+      "englishLiteral": "and-ate",
+      "englishNatural": "and ate",
+      "root": "akhal",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "וַיֹּאכַל׃",
+      "transliteration": "vayokhal",
+      "englishLiteral": "and-ate",
+      "englishNatural": "and he ate",
+      "root": "akhal",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 21,
+        "english": 22
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

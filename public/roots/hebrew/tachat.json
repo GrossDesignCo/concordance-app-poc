@@ -1,0 +1,124 @@
+{
+  "key": "tachat",
+  "hebrew": "תחת",
+  "transliteration": "tachat",
+  "englishLiteral": "under",
+  "englishNatural": "under",
+  "type": "preposition",
+  "wordInstances": [
+    {
+      "hebrew": "מִתַּ֣חַת",
+      "transliteration": "miTachat",
+      "englishLiteral": "from-under",
+      "englishNatural": "were under",
+      "root": "tachat",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "מִתַּ֤חַת",
+      "transliteration": "miTachat",
+      "englishLiteral": "from-under",
+      "englishNatural": "from under",
+      "root": "tachat",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "תַּחְתֶּנָּה",
+      "transliteration": "tachtennah",
+      "englishLiteral": "under-it",
+      "englishNatural": "under it",
+      "root": "tachat",
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      }
+    },
+    {
+      "hebrew": "תַּחַת",
+      "transliteration": "tachat",
+      "englishLiteral": "instead-of",
+      "englishNatural": "instead of",
+      "root": "tachat",
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "תַּחְתֶּיהָ",
+      "transliteration": "tachteha",
+      "englishLiteral": "under-her",
+      "englishNatural": "under it",
+      "root": "tachat",
+      "suffixes": [
+        "eha"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

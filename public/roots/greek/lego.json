@@ -1,0 +1,254 @@
+{
+  "key": "lego",
+  "greek": "λέγω",
+  "transliteration": "lego",
+  "englishLiteral": "say",
+  "englishNatural": "say",
+  "wordInstances": [
+    {
+      "greek": "λέγει",
+      "transliteration": "legei",
+      "englishLiteral": "he-says",
+      "englishNatural": "says",
+      "root": "lego",
+      "order": {
+        "greek": 4,
+        "english": 8
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "λέγει",
+      "transliteration": "legei",
+      "englishLiteral": "He-says",
+      "englishNatural": "He says",
+      "root": "lego",
+      "order": {
+        "greek": 16,
+        "english": 18
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "λέγει",
+      "transliteration": "legei",
+      "englishLiteral": "He-says",
+      "englishNatural": "He says",
+      "root": "lego",
+      "order": {
+        "greek": 25,
+        "english": 27
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "λέγει",
+      "transliteration": "legei",
+      "englishLiteral": "He-says",
+      "englishNatural": "He says",
+      "root": "lego",
+      "order": {
+        "greek": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "λέγει",
+      "transliteration": "legei",
+      "englishLiteral": "He-says",
+      "englishNatural": "He says",
+      "root": "lego",
+      "order": {
+        "greek": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "λέγει",
+      "transliteration": "legei",
+      "englishLiteral": "He-says",
+      "englishNatural": "He says",
+      "root": "lego",
+      "order": {
+        "greek": 18,
+        "english": 18
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "λέγει",
+      "transliteration": "legei",
+      "englishLiteral": "He-says",
+      "englishNatural": "He says",
+      "root": "lego",
+      "order": {
+        "greek": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "greek": "λέγει",
+      "transliteration": "legei",
+      "englishLiteral": "he-says",
+      "englishNatural": "he says",
+      "root": "lego",
+      "order": {
+        "greek": 20,
+        "english": 20
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "greek": "λέγει",
+      "transliteration": "legei",
+      "englishLiteral": "He-says",
+      "englishNatural": "He says",
+      "root": "lego",
+      "order": {
+        "greek": 31,
+        "english": 31
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "3rd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "greek": "λέγω",
+      "transliteration": "legō",
+      "englishLiteral": "I-say",
+      "englishNatural": "I say",
+      "root": "lego",
+      "order": {
+        "greek": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "1st",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

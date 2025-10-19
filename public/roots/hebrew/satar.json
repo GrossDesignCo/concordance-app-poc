@@ -1,0 +1,82 @@
+{
+  "key": "satar",
+  "hebrew": "סתר",
+  "transliteration": "satar",
+  "englishLiteral": "to hide",
+  "englishNatural": "to hide",
+  "related": [
+    "atar"
+  ],
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "אֶסָּתֵר",
+      "transliteration": "esater",
+      "englishLiteral": "I-will-hide",
+      "englishNatural": "I will be hidden",
+      "root": "satar",
+      "prefixes": [
+        "e"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "1st",
+        "tense": "imperfect",
+        "stem": "niphal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "וְנִסְתָּר",
+      "transliteration": "veNiStar",
+      "englishLiteral": "and-himself-hides",
+      "englishNatural": "and hides himself",
+      "root": "satar",
+      "prefixes": [
+        "ve",
+        "ni"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "niphal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

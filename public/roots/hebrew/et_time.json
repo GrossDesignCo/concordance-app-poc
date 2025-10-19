@@ -1,0 +1,48 @@
+{
+  "key": "et_time",
+  "hebrew": "עֵת",
+  "transliteration": "et",
+  "englishLiteral": "time",
+  "englishNatural": "time",
+  "type": "noun",
+  "description": "time, season, appointed time",
+  "wordInstances": [
+    {
+      "hebrew": "בְּעִתּוֹ",
+      "transliteration": "beIto",
+      "englishLiteral": "in-its-season",
+      "englishNatural": "in its season",
+      "root": "et_time",
+      "prefixes": [
+        "be"
+      ],
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "3rd",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,48 @@
+{
+  "key": "navon",
+  "hebrew": "נָבוֹן",
+  "transliteration": "navon",
+  "englishLiteral": "understanding",
+  "englishNatural": "understanding",
+  "type": "adjective",
+  "description": "of one who understands, of a person of discernment, eg. \"Solomon was navon\"",
+  "related": [
+    "bin"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וְנָבוֹן",
+      "transliteration": "veNavon",
+      "englishLiteral": "and-understanding-man",
+      "englishNatural": "and an understanding man",
+      "root": "navon",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

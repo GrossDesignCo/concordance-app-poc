@@ -1,0 +1,103 @@
+{
+  "key": "ehyeh",
+  "hebrew": "אהיה",
+  "transliteration": "ehyeh",
+  "englishLiteral": "I_Am",
+  "englishNatural": "I-Am",
+  "type": "verb",
+  "description": "I am, I will be (1st person singular imperfect of hayah)",
+  "related": [
+    "hayah",
+    "yhwh"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "אֶהְיֶה",
+      "transliteration": "ehyeh",
+      "englishLiteral": "I am",
+      "englishNatural": "I am",
+      "root": "ehyeh",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "number": "singular",
+        "person": "1st",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "אֶהְיֶה",
+      "transliteration": "ehyeh",
+      "englishLiteral": "I am",
+      "englishNatural": "I am",
+      "root": "ehyeh",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "number": "singular",
+        "person": "1st",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "אֶהְיֶה",
+      "transliteration": "ehyeh",
+      "englishLiteral": "I_Am",
+      "englishNatural": "I-Am",
+      "root": "ehyeh",
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "number": "singular",
+        "person": "1st",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "'",
+        "englishNatural": "'"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 14
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

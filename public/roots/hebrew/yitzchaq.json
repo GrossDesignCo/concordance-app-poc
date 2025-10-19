@@ -1,0 +1,39 @@
+{
+  "key": "yitzchaq",
+  "hebrew": "יצחק",
+  "transliteration": "Yitzchaq",
+  "englishLiteral": "He_Laughs (Isaac)",
+  "englishNatural": "He-Laughs (Isaac)",
+  "type": "noun",
+  "description": "proper name, Isaac, meaning \"he laughs\" or \"laughter\"",
+  "wordInstances": [
+    {
+      "hebrew": "יִצְחָק",
+      "transliteration": "Yitzchaq",
+      "englishLiteral": "He_Laughs (Isaac)",
+      "englishNatural": "He-Laughs (Isaac)",
+      "root": "yitzchaq",
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

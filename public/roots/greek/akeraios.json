@@ -1,0 +1,36 @@
+{
+  "key": "akeraios",
+  "greek": "ἀκέραιοι",
+  "transliteration": "akeraioi",
+  "englishLiteral": "innocent",
+  "englishNatural": "innocent",
+  "wordInstances": [
+    {
+      "greek": "ἀκέραιοι",
+      "transliteration": "akeraioi",
+      "englishLiteral": "innocent",
+      "englishNatural": "innocent",
+      "root": "akeraios",
+      "order": {
+        "greek": 17,
+        "english": 17
+      },
+      "morphology": {
+        "type": "adjective",
+        "gender": "masculine",
+        "number": "plural",
+        "case": "nominative"
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

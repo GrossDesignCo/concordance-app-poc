@@ -1,0 +1,45 @@
+{
+  "key": "kavod",
+  "hebrew": "כבוד",
+  "transliteration": "kavod",
+  "englishLiteral": "glory",
+  "englishNatural": "glory",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "כְּבוֹדוֹ",
+      "transliteration": "kavodo",
+      "englishLiteral": "his-glory",
+      "englishNatural": "is his glory",
+      "root": "kavod",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

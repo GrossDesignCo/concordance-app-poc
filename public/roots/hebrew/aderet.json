@@ -1,0 +1,40 @@
+{
+  "key": "aderet",
+  "hebrew": "אדרת",
+  "transliteration": "aderet",
+  "englishLiteral": "robe",
+  "englishNatural": "robe",
+  "type": "noun",
+  "description": "robe, mantle, cloak, royal garment",
+  "wordInstances": [
+    {
+      "hebrew": "אַדַּרְתּוֹ",
+      "transliteration": "adaretto",
+      "englishLiteral": "robe-his",
+      "englishNatural": "his robe",
+      "root": "aderet",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

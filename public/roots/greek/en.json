@@ -1,0 +1,53 @@
+{
+  "key": "en",
+  "greek": "ἐν",
+  "transliteration": "en",
+  "englishLiteral": "in",
+  "englishNatural": "in",
+  "wordInstances": [
+    {
+      "greek": "Ἐν",
+      "transliteration": "En",
+      "englishLiteral": "In",
+      "englishNatural": "In",
+      "root": "en",
+      "order": {
+        "greek": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "preposition",
+        "case": "dative"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "greek": "ἐν",
+      "transliteration": "en",
+      "englishLiteral": "in",
+      "englishNatural": "in",
+      "root": "en",
+      "order": {
+        "greek": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

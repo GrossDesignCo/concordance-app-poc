@@ -1,0 +1,42 @@
+{
+  "key": "davaq",
+  "hebrew": "דבק",
+  "transliteration": "davaq",
+  "englishLiteral": "to cling",
+  "englishNatural": "to cling",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וְדָבַק",
+      "transliteration": "veDavaq",
+      "englishLiteral": "and-cling",
+      "englishNatural": "and cling",
+      "root": "davaq",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 24
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

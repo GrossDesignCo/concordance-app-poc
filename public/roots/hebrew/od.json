@@ -1,0 +1,84 @@
+{
+  "key": "od",
+  "hebrew": "עוֹד",
+  "transliteration": "od",
+  "englishLiteral": "again",
+  "englishNatural": "again",
+  "type": "adverb",
+  "description": "still, yet, again, more, further",
+  "wordInstances": [
+    {
+      "hebrew": "עוֹד",
+      "transliteration": "od",
+      "englishLiteral": "again",
+      "englishNatural": "And again",
+      "root": "od",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "עוֹד",
+      "transliteration": "od",
+      "englishLiteral": "again",
+      "englishNatural": "again",
+      "root": "od",
+      "order": {
+        "hebrew": 3,
+        "english": 5
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarSuffix": {
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "עוֹד",
+      "transliteration": "od",
+      "englishLiteral": "yet",
+      "englishNatural": "Yet",
+      "root": "od",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

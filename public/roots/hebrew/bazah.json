@@ -1,0 +1,44 @@
+{
+  "key": "bazah",
+  "hebrew": "בָּזָה",
+  "transliteration": "bazah",
+  "englishLiteral": "to despise",
+  "englishNatural": "to despise",
+  "type": "verb",
+  "description": "to despise, contemn, hold in contempt",
+  "wordInstances": [
+    {
+      "hebrew": "בָּזוּ",
+      "transliteration": "bazu",
+      "englishLiteral": "despise",
+      "englishNatural": "despise",
+      "root": "bazah",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,36 @@
+{
+  "key": "mesos",
+  "greek": "μέσῳ",
+  "transliteration": "meso",
+  "englishLiteral": "middle",
+  "englishNatural": "middle",
+  "wordInstances": [
+    {
+      "greek": "μέσῳ",
+      "transliteration": "meso",
+      "englishLiteral": "midst",
+      "englishNatural": "the midst of",
+      "root": "mesos",
+      "order": {
+        "greek": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "adjective",
+        "gender": "neuter",
+        "number": "singular",
+        "case": "dative"
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,44 @@
+{
+  "key": "shaar",
+  "hebrew": "שַׁעַר",
+  "transliteration": "shaar",
+  "englishLiteral": "gate",
+  "englishNatural": "gate",
+  "type": "noun",
+  "description": "gate, entrance, city gate",
+  "wordInstances": [
+    {
+      "hebrew": "שְׁעָרִים",
+      "transliteration": "shearim",
+      "englishLiteral": "gates",
+      "englishNatural": "gates",
+      "root": "shaar",
+      "suffixes": [
+        "im"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

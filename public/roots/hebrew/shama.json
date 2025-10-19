@@ -1,0 +1,156 @@
+{
+  "key": "shama",
+  "hebrew": "שמע",
+  "transliteration": "shama",
+  "englishLiteral": "hear",
+  "englishNatural": "hear",
+  "description": "to hear, listen, obey, understand",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "שָׁמַעְתִּי",
+      "transliteration": "shamati",
+      "englishLiteral": "I-heard",
+      "englishNatural": "I heard",
+      "root": "shama",
+      "suffixes": [
+        "ti"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "common",
+        "number": "singular",
+        "person": "1st",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "שָׁמַעְתָּ",
+      "transliteration": "shmamta",
+      "englishLiteral": "you-listened",
+      "englishNatural": "you listened",
+      "root": "shama",
+      "suffixes": [
+        "ta"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "2nd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "וַיִּשְׁמְעוּ",
+      "transliteration": "vaYishme'u",
+      "englishLiteral": "And-heard",
+      "englishNatural": "And they heard",
+      "root": "shama",
+      "prefixes": [
+        "va"
+      ],
+      "suffixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "שְׁמַעַן",
+      "transliteration": "sheman",
+      "englishLiteral": "hear",
+      "englishNatural": "hear",
+      "root": "shama",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "verb",
+        "person": "2nd",
+        "gender": "feminine",
+        "number": "plural",
+        "stem": "qal",
+        "tense": "imperative"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "יִשְׁמַע",
+      "transliteration": "yishma",
+      "englishLiteral": "Will-hear",
+      "englishNatural": "will hear",
+      "root": "shama",
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

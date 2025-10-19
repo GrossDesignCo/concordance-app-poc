@@ -1,0 +1,45 @@
+{
+  "key": "bachar",
+  "hebrew": "בחר",
+  "transliteration": "bachar",
+  "englishLiteral": "to choose",
+  "englishNatural": "to choose",
+  "type": "verb",
+  "description": "to choose, select, elect, prefer",
+  "wordInstances": [
+    {
+      "hebrew": "בָּחָרוּ",
+      "transliteration": "bacharu",
+      "englishLiteral": "they-chose",
+      "englishNatural": "they chose",
+      "root": "bachar",
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

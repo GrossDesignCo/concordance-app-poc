@@ -1,0 +1,48 @@
+{
+  "key": "tzalach",
+  "hebrew": "צָלַח",
+  "transliteration": "tzalach",
+  "englishLiteral": "to prosper",
+  "englishNatural": "to prosper",
+  "type": "verb",
+  "description": "to prosper, succeed, advance, make progress",
+  "wordInstances": [
+    {
+      "hebrew": "יַצְלִיחַ",
+      "transliteration": "yatzliach",
+      "englishLiteral": "it-prospers",
+      "englishNatural": "it prospers",
+      "root": "tzalach",
+      "prefixes": [
+        "ya"
+      ],
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

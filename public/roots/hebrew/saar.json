@@ -1,0 +1,38 @@
+{
+  "key": "saar",
+  "hebrew": "סער",
+  "transliteration": "saar",
+  "englishLiteral": "tempest",
+  "englishNatural": "tempest",
+  "type": "noun",
+  "description": "storm, tempest, whirlwind",
+  "wordInstances": [
+    {
+      "hebrew": "סַעַר־",
+      "transliteration": "saar-",
+      "englishLiteral": "tempest-",
+      "englishNatural": "tempest",
+      "root": "saar",
+      "order": {
+        "hebrew": 8,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

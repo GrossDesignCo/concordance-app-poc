@@ -1,0 +1,65 @@
+{
+  "key": "amen",
+  "greek": "ἀμὴν",
+  "transliteration": "amen",
+  "englishLiteral": "truly",
+  "englishNatural": "truly",
+  "wordInstances": [
+    {
+      "greek": "ἀμὴν",
+      "transliteration": "amēn",
+      "englishLiteral": "Truly",
+      "englishNatural": "Truly",
+      "root": "amen",
+      "order": {
+        "greek": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "particle"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    },
+    {
+      "greek": "ἀμὴν",
+      "transliteration": "amēn",
+      "englishLiteral": "truly",
+      "englishNatural": "truly",
+      "root": "amen",
+      "order": {
+        "greek": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "particle"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

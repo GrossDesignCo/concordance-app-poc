@@ -1,0 +1,45 @@
+{
+  "key": "efer",
+  "hebrew": "אפר",
+  "transliteration": "efer",
+  "englishLiteral": "ashes",
+  "englishNatural": "ashes",
+  "type": "noun",
+  "description": "ashes, dust, remains of fire",
+  "wordInstances": [
+    {
+      "hebrew": "הָאֵפֶר",
+      "transliteration": "haEfer",
+      "englishLiteral": "the-ashes",
+      "englishNatural": "the ashes",
+      "root": "efer",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 16
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

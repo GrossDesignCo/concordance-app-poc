@@ -1,0 +1,46 @@
+{
+  "key": "aman",
+  "hebrew": "אמן",
+  "transliteration": "aman",
+  "englishLiteral": "to believe",
+  "englishNatural": "to believe",
+  "type": "verb",
+  "description": "to believe, trust, have faith in, be reliable",
+  "wordInstances": [
+    {
+      "hebrew": "וַיַּאֲמִינוּ",
+      "transliteration": "vaYaaminu",
+      "englishLiteral": "And-believed",
+      "englishNatural": "believed",
+      "root": "aman",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

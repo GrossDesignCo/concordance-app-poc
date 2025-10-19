@@ -1,0 +1,45 @@
+{
+  "key": "tzalmavet",
+  "hebrew": "צַלְמָוֶת",
+  "transliteration": "tzalmavet",
+  "englishLiteral": "shadow_death",
+  "englishNatural": "shadow-death",
+  "type": "noun",
+  "description": "shadow of death, deep darkness, death-shadow",
+  "related": [
+    "tzel",
+    "mavet"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "צַלְמָוֶת",
+      "transliteration": "tzalmavet",
+      "englishLiteral": "shadow_death",
+      "englishNatural": "shadow-death",
+      "root": "tzalmavet",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,326 @@
+{
+  "key": "yonah",
+  "hebrew": "יונה",
+  "transliteration": "Yonah",
+  "englishLiteral": "Dove (Jonah)",
+  "englishNatural": "Dove (Jonah)",
+  "type": "noun",
+  "description": "proper name, Jonah, meaning \"dove\"",
+  "wordInstances": [
+    {
+      "hebrew": "יוֹנָה",
+      "transliteration": "Yonah",
+      "englishLiteral": "Dove (Jonah)",
+      "englishNatural": "Dove (Jonah)",
+      "root": "yonah",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "יוֹנָה",
+      "transliteration": "Yonah",
+      "englishLiteral": "Dove (Jonah)",
+      "englishNatural": "Dove (Jonah)",
+      "root": "yonah",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "יוֹנָה",
+      "transliteration": "Yonah",
+      "englishLiteral": "Dove (Jonah)",
+      "englishNatural": "And Dove (Jonah)",
+      "root": "yonah",
+      "order": {
+        "hebrew": 9,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "יוֹנָה",
+      "transliteration": "Yonah",
+      "englishLiteral": "Dove (Jonah)",
+      "englishNatural": "And Dove (Jonah)",
+      "root": "yonah",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "וְיוֹנָה",
+      "transliteration": "veYonah",
+      "englishLiteral": "And-Dove (Jonah)",
+      "englishNatural": "And Dove (Jonah)",
+      "root": "yonah",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "יוֹנָה",
+      "transliteration": "Yonah",
+      "englishLiteral": "Dove (Jonah)",
+      "englishNatural": "Dove (Jonah)",
+      "root": "yonah",
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "יוֹנָה",
+      "transliteration": "Yonah",
+      "englishLiteral": "Dove (Jonah)",
+      "englishNatural": "And Dove (Jonah)",
+      "root": "yonah",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "יוֹנָה",
+      "transliteration": "Yonah",
+      "englishLiteral": "Dove (Jonah)",
+      "englishNatural": "Dove (Jonah)",
+      "root": "yonah",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "יוֹנָה",
+      "transliteration": "Yonah",
+      "englishLiteral": "Dove (Jonah)",
+      "englishNatural": "Dove (Jonah)",
+      "root": "yonah",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "יוֹנָה",
+      "transliteration": "Yonah",
+      "englishLiteral": "Dove (Jonah)",
+      "englishNatural": "And Dove (Jonah)",
+      "root": "yonah",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "יוֹנָה",
+      "transliteration": "Yonah",
+      "englishLiteral": "Dove (Jonah)",
+      "englishNatural": "And Dove (Jonah)",
+      "root": "yonah",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "יוֹנָה",
+      "transliteration": "Yonah",
+      "englishLiteral": "Dove (Jonah)",
+      "englishNatural": "Dove (Jonah)",
+      "root": "yonah",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "יוֹנָה",
+      "transliteration": "Yonah",
+      "englishLiteral": "Dove (Jonah)",
+      "englishNatural": "And Dove (Jonah)",
+      "root": "yonah",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,42 @@
+{
+  "key": "natsar",
+  "hebrew": "נצר",
+  "transliteration": "natsar",
+  "englishLiteral": "to preserve",
+  "englishNatural": "to preserve",
+  "type": "verb",
+  "description": "to preserve, keep, guard, maintain",
+  "wordInstances": [
+    {
+      "hebrew": "נֹצֵר",
+      "transliteration": "notser",
+      "englishLiteral": "preserving",
+      "englishNatural": "preserving",
+      "root": "natsar",
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

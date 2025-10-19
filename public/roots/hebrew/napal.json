@@ -1,0 +1,79 @@
+{
+  "key": "napal",
+  "hebrew": "נָפַל",
+  "transliteration": "napal",
+  "englishLiteral": "to fall",
+  "englishNatural": "to fall",
+  "type": "verb",
+  "description": "to fall, lie, be cast down",
+  "wordInstances": [
+    {
+      "hebrew": "וַיִּפְּלוּ",
+      "transliteration": "vayYipelu",
+      "englishLiteral": "and-they-fell",
+      "englishNatural": "fell",
+      "root": "napal",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "נָפְלוּ",
+      "transliteration": "nafelu",
+      "englishLiteral": "they-fell",
+      "englishNatural": "fallen",
+      "root": "napal",
+      "order": {
+        "hebrew": 9,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishNatural": "?"
+      },
+      "lineBreaksAfter": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

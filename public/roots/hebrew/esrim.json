@@ -1,0 +1,41 @@
+{
+  "key": "esrim",
+  "hebrew": "עשרים",
+  "transliteration": "esrim",
+  "englishLiteral": "twenty",
+  "englishNatural": "twenty",
+  "type": "numeral",
+  "description": "twenty, the number twenty",
+  "related": [
+    "esreh"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וְעֶשְׂרִים",
+      "transliteration": "veEsrim",
+      "englishLiteral": "and-twenty",
+      "englishNatural": "and twenty",
+      "root": "esrim",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "numeral"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

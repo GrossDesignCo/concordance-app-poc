@@ -1,0 +1,40 @@
+{
+  "key": "parad",
+  "hebrew": "פרד",
+  "transliteration": "parad",
+  "englishLiteral": "to part",
+  "englishNatural": "to part",
+  "description": "like the splitting of a river, a natural parting of ways",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "יִפָּרֵד",
+      "transliteration": "yipared",
+      "englishLiteral": "will-part",
+      "englishNatural": "parted",
+      "root": "parad",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "niphal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 10
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

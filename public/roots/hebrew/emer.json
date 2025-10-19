@@ -1,0 +1,41 @@
+{
+  "key": "emer",
+  "hebrew": "אֵמֶר",
+  "transliteration": "emer",
+  "englishLiteral": "word",
+  "englishNatural": "word",
+  "type": "noun",
+  "description": "word, saying, utterance",
+  "related": [
+    "amar"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "אִמְרֵי",
+      "transliteration": "imre",
+      "englishLiteral": "words-of",
+      "englishNatural": "words of",
+      "root": "emer",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun",
+        "state": "construct"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

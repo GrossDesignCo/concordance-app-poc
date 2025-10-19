@@ -1,0 +1,42 @@
+{
+  "key": "tafas",
+  "hebrew": "תָּפַשׂ",
+  "transliteration": "tafas",
+  "englishLiteral": "to handle",
+  "englishNatural": "to handle",
+  "type": "verb",
+  "description": "to catch, handle, wield, play (an instrument)",
+  "wordInstances": [
+    {
+      "hebrew": "תֹּפֵשׂ",
+      "transliteration": "tofes",
+      "englishLiteral": "handling",
+      "englishNatural": "handling",
+      "root": "tafas",
+      "order": {
+        "hebrew": 8,
+        "english": 9
+      },
+      "morphology": {
+        "type": "verb",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "participle"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 21
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

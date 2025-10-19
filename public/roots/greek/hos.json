@@ -1,0 +1,93 @@
+{
+  "key": "hos",
+  "greek": "ὡς",
+  "transliteration": "hos",
+  "englishLiteral": "as",
+  "englishNatural": "as",
+  "wordInstances": [
+    {
+      "greek": "ὡς",
+      "transliteration": "hos",
+      "englishLiteral": "as",
+      "englishNatural": "as",
+      "root": "hos",
+      "order": {
+        "greek": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "conjunction"
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "ὡς",
+      "transliteration": "hos",
+      "englishLiteral": "as",
+      "englishNatural": "as",
+      "root": "hos",
+      "order": {
+        "greek": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "conjunction"
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "ὡς",
+      "transliteration": "hos",
+      "englishLiteral": "as",
+      "englishNatural": "as",
+      "root": "hos",
+      "order": {
+        "greek": 18,
+        "english": 18
+      },
+      "morphology": {
+        "type": "conjunction"
+      },
+      "verseContext": {
+        "book": "Matthew",
+        "chapter": 10,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "ὅς",
+      "transliteration": "hos",
+      "englishLiteral": "who",
+      "englishNatural": "who",
+      "root": "hos",
+      "order": {
+        "greek": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "case": "nominative",
+        "type": "pronoun"
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

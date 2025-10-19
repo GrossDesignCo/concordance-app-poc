@@ -1,0 +1,144 @@
+{
+  "key": "ruach",
+  "hebrew": "רוח",
+  "transliteration": "ruach",
+  "englishLiteral": "Wind",
+  "englishNatural": "Wind",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "וְר֣וּחַ",
+      "transliteration": "veRuach",
+      "englishLiteral": "And-Wind",
+      "englishNatural": "And the Wind of",
+      "root": "ruach",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "לְרוּחַ",
+      "transliteration": "leRuach",
+      "englishLiteral": "to-wind",
+      "englishNatural": "to the wind",
+      "root": "ruach",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "רוּחִי",
+      "transliteration": "ruchi",
+      "englishLiteral": "my-wind",
+      "englishNatural": "My Wind",
+      "root": "ruach",
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "1st",
+        "type": "noun"
+      },
+      "grammarPrefix": {
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "רוּחַ־",
+      "transliteration": "ruach-",
+      "englishLiteral": "wind-",
+      "englishNatural": "wind",
+      "root": "ruach",
+      "order": {
+        "hebrew": 3,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "רוּחַ",
+      "transliteration": "ruach",
+      "englishLiteral": "wind",
+      "englishNatural": "the wind",
+      "root": "ruach",
+      "order": {
+        "hebrew": 9,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "."
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

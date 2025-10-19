@@ -1,0 +1,44 @@
+{
+  "key": "drakon",
+  "greek": "δράκων",
+  "transliteration": "drakon",
+  "englishLiteral": "dragon",
+  "englishNatural": "dragon",
+  "related": [
+    "ophis"
+  ],
+  "wordInstances": [
+    {
+      "greek": "δράκοντα",
+      "transliteration": "drakonta",
+      "englishLiteral": "dragon",
+      "englishNatural": "dragon",
+      "root": "drakon",
+      "order": {
+        "greek": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "case": "accusative",
+        "type": "noun",
+        "state": "definite"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

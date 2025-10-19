@@ -1,0 +1,205 @@
+{
+  "key": "behemah",
+  "hebrew": "בהמה",
+  "transliteration": "behemah",
+  "englishLiteral": "beast",
+  "englishNatural": "beast",
+  "type": "noun",
+  "description": "domestic animal, beast, cattle",
+  "wordInstances": [
+    {
+      "hebrew": "בְּהֵמָ֥ה",
+      "transliteration": "behemah",
+      "englishLiteral": "beast",
+      "englishNatural": "beast",
+      "root": "behemah",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "הַבְּהֵמָ֖ה",
+      "transliteration": "haBehemah",
+      "englishLiteral": "the-beast",
+      "englishNatural": "the beast",
+      "root": "behemah",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "וּבַבְּהֵמָה֙",
+      "transliteration": "uVaBehemah",
+      "englishLiteral": "and-in-the-beast",
+      "englishNatural": "and among the beast",
+      "root": "behemah",
+      "prefixes": [
+        "u",
+        "va"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "הַבְּהֵמָה",
+      "transliteration": "haBehemah",
+      "englishLiteral": "the-beast",
+      "englishNatural": "beast",
+      "root": "behemah",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "בְּהֵמָה",
+      "transliteration": "behemah",
+      "englishLiteral": "beast",
+      "englishNatural": "beast",
+      "root": "behemah",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "וְהַבְּהֵמָה",
+      "transliteration": "veHaBehemah",
+      "englishLiteral": "and-the-beast",
+      "englishNatural": "and the beast",
+      "root": "behemah",
+      "prefixes": [
+        "ve",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "וְהַבְּהֵמָה",
+      "transliteration": "veHaBehemah",
+      "englishLiteral": "and-the-beast",
+      "englishNatural": "and the beast",
+      "root": "behemah",
+      "prefixes": [
+        "ve",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

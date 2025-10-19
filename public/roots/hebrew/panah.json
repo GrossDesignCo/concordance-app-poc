@@ -1,0 +1,452 @@
+{
+  "key": "panah",
+  "hebrew": "פנה",
+  "transliteration": "panah",
+  "englishLiteral": "face",
+  "englishNatural": "face",
+  "description": "the front, the face, the front of, the face of",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "עַל־פְּנֵ֣י",
+      "transliteration": "al-peney",
+      "englishLiteral": "over-face-of",
+      "englishNatural": "over the face of",
+      "root": "panah",
+      "prefixes": [
+        "al"
+      ],
+      "suffixes": [
+        "ey"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "state": "construct",
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "עַל־פְּנֵ֥י",
+      "transliteration": "al-peney",
+      "englishLiteral": "over-face-of",
+      "englishNatural": "over the face of",
+      "root": "panah",
+      "prefixes": [
+        "al"
+      ],
+      "suffixes": [
+        "ey"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "state": "construct",
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "פְּנֵ֖י",
+      "transliteration": "peney",
+      "englishLiteral": "face-of",
+      "englishNatural": "the face of",
+      "root": "panah",
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "פְּנֵ֣י",
+      "transliteration": "penei",
+      "englishLiteral": "face-of",
+      "englishNatural": "the face of",
+      "root": "panah",
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "פְּנֵי",
+      "transliteration": "peney",
+      "englishLiteral": "face-of",
+      "englishNatural": "the face of",
+      "root": "panah",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "אַפֶּיךָ",
+      "transliteration": "apeikha",
+      "englishLiteral": "your-face",
+      "englishNatural": "your face",
+      "root": "panah",
+      "suffixes": [
+        "ekha"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "מִפְּנֵי",
+      "transliteration": "mipney",
+      "englishLiteral": "from-face-of",
+      "englishNatural": "from the face of",
+      "root": "panah",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "פְּנֵי",
+      "transliteration": "peney",
+      "englishLiteral": "face-of",
+      "englishNatural": "the face of",
+      "root": "panah",
+      "suffixes": [
+        "ey"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "וּמִפָּנֶיךָ",
+      "transliteration": "umiPanekha",
+      "englishLiteral": "and-from-your-face",
+      "englishNatural": "and from your face",
+      "root": "panah",
+      "prefixes": [
+        "u",
+        "mi"
+      ],
+      "suffixes": [
+        "ekha"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "2nd",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "מִלִּפְנֵי",
+      "transliteration": "miliPhney",
+      "englishLiteral": "from-face-of",
+      "englishNatural": "from the presence of",
+      "root": "panah",
+      "prefixes": [
+        "mi",
+        "li"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "פָנָיו",
+      "transliteration": "panav",
+      "englishLiteral": "his-faces",
+      "englishNatural": "and his faces (eyes)",
+      "root": "panah",
+      "suffixes": [
+        "av"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "."
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "פָנֶיךָ",
+      "transliteration": "panekha",
+      "englishLiteral": "your-faces",
+      "englishNatural": "have your faces (eyes)",
+      "root": "panah",
+      "suffixes": [
+        "kha"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "2nd",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "?"
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "פְּנֵי",
+      "transliteration": "peney",
+      "englishLiteral": "face-of",
+      "englishNatural": "the face of",
+      "root": "panah",
+      "suffixes": [
+        "ey"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "state": "construct",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "פָּנָיו",
+      "transliteration": "panav",
+      "englishLiteral": "his-faces",
+      "englishNatural": "his faces (eyes)",
+      "root": "panah",
+      "suffixes": [
+        "av"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "3rd",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "מִלִּפְנֵי",
+      "transliteration": "miLiFney",
+      "englishLiteral": "from-the-face-of",
+      "englishNatural": "from the face of",
+      "root": "panah",
+      "prefixes": [
+        "mi",
+        "li"
+      ],
+      "suffixes": [
+        "ey"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "לְפָנָי",
+      "transliteration": "lefanai",
+      "englishLiteral": "before-me",
+      "englishNatural": "before me",
+      "root": "panah",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".\"",
+        "englishNatural": ".\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "לְפָנַי",
+      "transliteration": "lefanai",
+      "englishLiteral": "to-my-face",
+      "englishNatural": "to my face",
+      "root": "panah",
+      "prefixes": [
+        "le"
+      ],
+      "suffixes": [
+        "ai"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

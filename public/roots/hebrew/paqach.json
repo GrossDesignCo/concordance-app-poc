@@ -1,0 +1,85 @@
+{
+  "key": "paqach",
+  "hebrew": "פקח",
+  "transliteration": "paqach",
+  "englishLiteral": "to open",
+  "englishNatural": "to open",
+  "description": "to open, to open the eyes",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וְנִפְקְחוּ",
+      "transliteration": "veNifqechu",
+      "englishLiteral": "and-will-be-opened",
+      "englishNatural": "will be opened",
+      "root": "paqach",
+      "prefixes": [
+        "ve"
+      ],
+      "suffixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "common",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "niphal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "וַתִּפָּקַחְנָה",
+      "transliteration": "vaTipakachnah",
+      "englishLiteral": "And-opened-were",
+      "englishNatural": "were opened",
+      "root": "paqach",
+      "prefixes": [
+        "va"
+      ],
+      "suffixes": [
+        "nah"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "niphal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

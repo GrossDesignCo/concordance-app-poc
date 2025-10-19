@@ -1,0 +1,41 @@
+{
+  "key": "archaios",
+  "greek": "ἀρχαῖος",
+  "transliteration": "archaios",
+  "englishLiteral": "ancient",
+  "englishNatural": "ancient",
+  "wordInstances": [
+    {
+      "greek": "ἀρχαῖον",
+      "transliteration": "archaion",
+      "englishLiteral": "Ancient",
+      "englishNatural": "Ancient",
+      "root": "archaios",
+      "order": {
+        "greek": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "case": "accusative",
+        "type": "adjective",
+        "degree": "positive"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

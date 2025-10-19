@@ -1,0 +1,104 @@
+{
+  "key": "yatsar",
+  "hebrew": "יצר",
+  "transliteration": "yatsar",
+  "englishLiteral": "to form",
+  "englishNatural": "to form",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וַיִּצֶר",
+      "transliteration": "vaYitzer",
+      "englishLiteral": "And-formed",
+      "englishNatural": "formed",
+      "root": "yatsar",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "וַיִּיצֶר",
+      "transliteration": "vaYiytzer",
+      "englishLiteral": "And-formed",
+      "englishNatural": "formed",
+      "root": "yatsar",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "יָצָר׃",
+      "transliteration": "yatsar",
+      "englishLiteral": "formed",
+      "englishNatural": "he formed",
+      "root": "yatsar",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 8
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,141 @@
+{
+  "key": "zera",
+  "hebrew": "זרע",
+  "transliteration": "zera",
+  "englishLiteral": "seed",
+  "englishNatural": "seed",
+  "related": [
+    "zorea"
+  ],
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "זֶ֗רַע",
+      "transliteration": "zera",
+      "englishLiteral": "seed",
+      "englishNatural": "seed",
+      "root": "zera",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "זָ֑רַע",
+      "transliteration": "zara",
+      "englishLiteral": "seed",
+      "englishNatural": "seed",
+      "root": "zera",
+      "order": {
+        "hebrew": 24,
+        "english": 24
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "זַרְעֲךָ",
+      "transliteration": "zarakha",
+      "englishLiteral": "seed-your",
+      "englishNatural": "your seed",
+      "root": "zera",
+      "suffixes": [
+        "kha"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "זַרְעָהּ",
+      "transliteration": "zarah",
+      "englishLiteral": "seed-her",
+      "englishNatural": "her seed",
+      "root": "zera",
+      "suffixes": [
+        "ah"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "זֶרַע",
+      "transliteration": "zera",
+      "englishLiteral": "seed",
+      "englishNatural": "seed",
+      "root": "zera",
+      "order": {
+        "hebrew": 16,
+        "english": 17
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

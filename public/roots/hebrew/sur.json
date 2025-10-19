@@ -1,0 +1,70 @@
+{
+  "key": "sur",
+  "hebrew": "סור",
+  "transliteration": "sur",
+  "englishLiteral": "to turn_aside",
+  "englishNatural": "to turn-aside",
+  "description": "to turn aside, to turn away, to turn from, to remove",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וְסָר",
+      "transliteration": "veSar",
+      "englishLiteral": "and-turned_aside",
+      "englishNatural": "and turned-aside",
+      "root": "sur",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "וְיָסֵר",
+      "transliteration": "veYaSer",
+      "englishLiteral": "and-may-he-turn_aside",
+      "englishNatural": "and may he turn-aside",
+      "root": "sur",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "jussive",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

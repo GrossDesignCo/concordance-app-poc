@@ -1,0 +1,38 @@
+{
+  "key": "alei",
+  "hebrew": "עֲלֵי",
+  "transliteration": "alei",
+  "englishLiteral": "overlooking",
+  "englishNatural": "overlooking",
+  "type": "preposition",
+  "description": "upon, over, by (construct form of al)",
+  "related": [
+    "al"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "עֲלֵי־",
+      "transliteration": "alei-",
+      "englishLiteral": "overlooking",
+      "englishNatural": "overlooking",
+      "root": "alei",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

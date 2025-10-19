@@ -1,0 +1,96 @@
+{
+  "key": "minchah",
+  "hebrew": "מִנְחָה",
+  "transliteration": "minchah",
+  "englishLiteral": "offering",
+  "englishNatural": "offering",
+  "type": "noun",
+  "description": "offering, tribute, gift, present",
+  "wordInstances": [
+    {
+      "hebrew": "מִנְחָה",
+      "transliteration": "minchah",
+      "englishLiteral": "offering",
+      "englishNatural": "an offering",
+      "root": "minchah",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "מִנְחָתוֹ",
+      "transliteration": "minchato",
+      "englishLiteral": "his-offering",
+      "englishNatural": "his offering",
+      "root": "minchah",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "3rd",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "מִנְחָתוֹ",
+      "transliteration": "minchato",
+      "englishLiteral": "his-offering",
+      "englishNatural": "his offering",
+      "root": "minchah",
+      "suffixes": [
+        "o"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "3rd",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,39 @@
+{
+  "key": "matar",
+  "hebrew": "מטר",
+  "transliteration": "matar",
+  "englishLiteral": "to rain",
+  "englishNatural": "to rain",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "הִמְטִיר",
+      "transliteration": "himtir",
+      "englishLiteral": "caused_to_rain",
+      "englishNatural": "caused it to rain",
+      "root": "matar",
+      "order": {
+        "hebrew": 14,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "hiphil",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

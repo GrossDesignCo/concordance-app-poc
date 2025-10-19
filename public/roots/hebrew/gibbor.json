@@ -1,0 +1,45 @@
+{
+  "key": "gibbor",
+  "hebrew": "גבור",
+  "transliteration": "gibbor",
+  "englishLiteral": "mighty_one",
+  "englishNatural": "mighty-one",
+  "type": "noun",
+  "description": "mighty one, warrior, hero, strong man",
+  "wordInstances": [
+    {
+      "hebrew": "הַגִּבֹּרִים",
+      "transliteration": "haGibborim",
+      "englishLiteral": "the-mighty_ones",
+      "englishNatural": "the mighty-ones",
+      "root": "gibbor",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 19,
+        "english": 19
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

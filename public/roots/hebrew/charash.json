@@ -1,0 +1,39 @@
+{
+  "key": "charash",
+  "hebrew": "חָרַשׁ",
+  "transliteration": "charash",
+  "englishLiteral": "to cut_straight",
+  "englishNatural": "to cut-straight",
+  "type": "verb",
+  "description": "to cut in, engrave, plow, devise, craft, fabricate, common root indicating both silence and cutting jewelry and plowing a field",
+  "wordInstances": [
+    {
+      "hebrew": "חֹרֵשׁ",
+      "transliteration": "choresh",
+      "englishLiteral": "cutting_straight",
+      "englishNatural": "cutting-straight",
+      "root": "charash",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "verb",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "participle"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 22
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

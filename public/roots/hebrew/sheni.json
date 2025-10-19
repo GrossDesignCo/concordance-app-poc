@@ -1,0 +1,150 @@
+{
+  "key": "sheni",
+  "hebrew": "שני",
+  "transliteration": "sheni",
+  "englishLiteral": "second",
+  "englishNatural": "second",
+  "type": "numeral",
+  "wordInstances": [
+    {
+      "hebrew": "שֵׁנִֽי׃",
+      "transliteration": "sheni",
+      "englishLiteral": "second",
+      "englishNatural": "A second",
+      "root": "sheni",
+      "order": {
+        "hebrew": 10,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "."
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "הַשֵּׁנִי",
+      "transliteration": "haSheni",
+      "englishLiteral": "the-second",
+      "englishNatural": "the second",
+      "root": "sheni",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 2
+      },
+      "morphology": {
+        "type": "numeral"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 13
+      }
+    },
+    {
+      "hebrew": "שְׁנֵיהֶם",
+      "transliteration": "shenehem",
+      "englishLiteral": "two-of-them",
+      "englishNatural": "And the two of them",
+      "root": "sheni",
+      "suffixes": [
+        "hem"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "dual",
+        "type": "numeral"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "הַשֵּׁנִית",
+      "transliteration": "haShenith",
+      "englishLiteral": "the-second",
+      "englishNatural": "of the second",
+      "root": "sheni",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "adjective",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "שֵׁנִית",
+      "transliteration": "shenit",
+      "englishLiteral": "second_time",
+      "englishNatural": "the second time",
+      "root": "sheni",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "adverb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

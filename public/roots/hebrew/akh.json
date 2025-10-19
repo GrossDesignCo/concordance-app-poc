@@ -1,0 +1,36 @@
+{
+  "key": "akh",
+  "hebrew": "אַךְ",
+  "transliteration": "akh",
+  "englishLiteral": "only",
+  "englishNatural": "only",
+  "type": "adverb",
+  "description": "emphatic particle, surely, only, but, however",
+  "wordInstances": [
+    {
+      "hebrew": "אַךְ",
+      "transliteration": "akh",
+      "englishLiteral": "Only",
+      "englishNatural": "Only",
+      "root": "akh",
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,47 @@
+{
+  "key": "yara",
+  "hebrew": "ירע",
+  "transliteration": "yara",
+  "englishLiteral": "to be_bad",
+  "englishNatural": "to be-bad",
+  "type": "verb",
+  "description": "to be bad, evil, displeasing to someone; to cause distress",
+  "related": [
+    "ra"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וַיֵּרַע",
+      "transliteration": "vaYera",
+      "englishLiteral": "And-was-bad",
+      "englishNatural": "And it was bad",
+      "root": "yara",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

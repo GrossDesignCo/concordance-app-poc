@@ -1,0 +1,60 @@
+{
+  "key": "cheir",
+  "greek": "χείρ",
+  "transliteration": "cheir",
+  "englishLiteral": "hand",
+  "englishNatural": "hand",
+  "wordInstances": [
+    {
+      "greek": "χεῖράς",
+      "transliteration": "cheiras",
+      "englishLiteral": "hands",
+      "englishNatural": "hands",
+      "root": "cheir",
+      "order": {
+        "greek": 19,
+        "english": 19
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "plural",
+        "case": "accusative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    },
+    {
+      "greek": "χεῖρα",
+      "transliteration": "cheira",
+      "englishLiteral": "hand",
+      "englishNatural": "hand",
+      "root": "cheir",
+      "order": {
+        "greek": 18,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "case": "accusative",
+        "type": "noun",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 1
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

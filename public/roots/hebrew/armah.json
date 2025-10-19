@@ -1,0 +1,44 @@
+{
+  "key": "armah",
+  "hebrew": "עָרְמָה",
+  "transliteration": "armah",
+  "englishLiteral": "shrewdness",
+  "englishNatural": "shrewdness",
+  "type": "noun",
+  "description": "shrewdness, craftiness, subtlety",
+  "related": [
+    "arum"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "עָרְמָה",
+      "transliteration": "armah",
+      "englishLiteral": "shrewdness",
+      "englishNatural": "shrewdness",
+      "root": "armah",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 1,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

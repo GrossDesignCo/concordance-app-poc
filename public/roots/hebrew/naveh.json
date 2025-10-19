@@ -1,0 +1,44 @@
+{
+  "key": "naveh",
+  "hebrew": "נָוֶה",
+  "transliteration": "naveh",
+  "englishLiteral": "pasture",
+  "englishNatural": "pasture",
+  "type": "noun",
+  "description": "pasture, meadow, dwelling place, habitation",
+  "wordInstances": [
+    {
+      "hebrew": "בִּנְאוֹת",
+      "transliteration": "biNot",
+      "englishLiteral": "in-pastures-of",
+      "englishNatural": "in pastures of",
+      "root": "naveh",
+      "prefixes": [
+        "bi"
+      ],
+      "suffixes": [
+        "ot"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

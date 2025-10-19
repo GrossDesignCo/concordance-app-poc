@@ -1,0 +1,88 @@
+{
+  "key": "al_negative",
+  "hebrew": "אל",
+  "transliteration": "al",
+  "englishLiteral": "not",
+  "englishNatural": "not",
+  "type": "particle",
+  "description": "negative particle used with imperfect verbs for prohibitions (do not), distinct from עַל meaning \"over\"",
+  "wordInstances": [
+    {
+      "hebrew": "אַל־",
+      "transliteration": "al-",
+      "englishLiteral": "not-",
+      "englishNatural": "not",
+      "root": "al_negative",
+      "order": {
+        "hebrew": 12,
+        "english": 13
+      },
+      "morphology": {
+        "type": "particle"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "אַל־",
+      "transliteration": "al-",
+      "englishLiteral": "not-",
+      "englishNatural": "not",
+      "root": "al_negative",
+      "order": {
+        "hebrew": 15,
+        "english": 16
+      },
+      "morphology": {
+        "type": "particle"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "אַל־",
+      "transliteration": "al-",
+      "englishLiteral": "not-",
+      "englishNatural": "not",
+      "root": "al_negative",
+      "order": {
+        "hebrew": 18,
+        "english": 19
+      },
+      "morphology": {
+        "type": "particle"
+      },
+      "grammarSuffix": {
+        "englishNatural": ";"
+      },
+      "lineBreaksAfter": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,189 @@
+{
+  "key": "palal",
+  "hebrew": "פלל",
+  "transliteration": "palal",
+  "englishLiteral": "to pray",
+  "englishNatural": "to pray",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וַיִּתְפַּלֵּל",
+      "transliteration": "vaYitpallel",
+      "englishLiteral": "And-prayed",
+      "englishNatural": "prayed",
+      "root": "palal",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hithpael",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 2,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "וַיִּתְפַּלֵּל",
+      "transliteration": "vaYitpallel",
+      "englishLiteral": "And-prayed",
+      "englishNatural": "And he prayed",
+      "root": "palal",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hithpael",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "הִתְפַּלֵּל",
+      "transliteration": "hitpalel",
+      "englishLiteral": "pray",
+      "englishNatural": "pray",
+      "root": "palal",
+      "prefixes": [
+        "hit"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "hithpael",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "וַיִּתְפַּלֵּל",
+      "transliteration": "vaYitpalel",
+      "englishLiteral": "And-prayed",
+      "englishNatural": "prayed",
+      "root": "palal",
+      "prefixes": [
+        "va",
+        "yit"
+      ],
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "hithpael",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Numbers",
+        "chapter": 21,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "הַלְלוּ",
+      "transliteration": "halelu",
+      "englishLiteral": "Praise",
+      "englishNatural": "Praise",
+      "root": "palal",
+      "prefixes": [
+        "ha"
+      ],
+      "suffixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "2nd",
+        "tense": "imperative",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "הַלְלוּ",
+      "transliteration": "halelu",
+      "englishLiteral": "Praise",
+      "englishNatural": "Praise",
+      "root": "palal",
+      "prefixes": [
+        "ha"
+      ],
+      "suffixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "person": "2nd",
+        "tense": "imperative",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 117,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

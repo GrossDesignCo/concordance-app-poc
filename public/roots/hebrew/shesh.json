@@ -1,0 +1,70 @@
+{
+  "key": "shesh",
+  "hebrew": "שש",
+  "transliteration": "shesh",
+  "englishLiteral": "six",
+  "englishNatural": "six",
+  "type": "numeral",
+  "wordInstances": [
+    {
+      "hebrew": "הַשִּׁשִּֽׁי",
+      "transliteration": "haShishi",
+      "englishLiteral": "the-sixth",
+      "englishNatural": "The sixth",
+      "root": "shesh",
+      "prefixes": [
+        "ha"
+      ],
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "adjective"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "."
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 31
+      }
+    },
+    {
+      "hebrew": "שֵׁשׁ",
+      "transliteration": "shesh",
+      "englishLiteral": "six",
+      "englishNatural": "six",
+      "root": "shesh",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "numeral"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

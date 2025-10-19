@@ -1,0 +1,257 @@
+{
+  "key": "yashav",
+  "hebrew": "ישׁב",
+  "transliteration": "yashav",
+  "englishLiteral": "to sit",
+  "englishNatural": "to sit",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וַיֵּשֶׁב",
+      "transliteration": "vayYeshev",
+      "englishLiteral": "and-he-dwelt",
+      "englishNatural": "and dwelt",
+      "root": "yashav",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "יֹשֵׁב",
+      "transliteration": "yoshev",
+      "englishLiteral": "dwelling",
+      "englishNatural": "dwelling",
+      "root": "yashav",
+      "order": {
+        "hebrew": 8,
+        "english": 9
+      },
+      "morphology": {
+        "type": "verb",
+        "gender": "masculine",
+        "number": "singular",
+        "stem": "qal",
+        "tense": "participle"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "יֹשֵׁב",
+      "transliteration": "yoshev",
+      "englishLiteral": "sitting",
+      "englishNatural": "sitting",
+      "root": "yashav",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "יוֹשֵׁב",
+      "transliteration": "yoshev",
+      "englishLiteral": "sit",
+      "englishNatural": "sit",
+      "root": "yashav",
+      "morphology": {
+        "type": "verb",
+        "tense": "participle",
+        "stem": "qal",
+        "person": "1st",
+        "number": "singular",
+        "gender": "masculine"
+      },
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "וַיֵּשֶׁב",
+      "transliteration": "vaYeshev",
+      "englishLiteral": "and-sat",
+      "englishNatural": "and sat",
+      "root": "yashav",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "וַיֵּשֶׁב",
+      "transliteration": "vaYeshev",
+      "englishLiteral": "and-sat",
+      "englishNatural": "and sat",
+      "root": "yashav",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "וַיֵּשֶׁב",
+      "transliteration": "vaYeshev",
+      "englishLiteral": "and-sat",
+      "englishNatural": "and sat",
+      "root": "yashav",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 4,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "יָשָׁב",
+      "transliteration": "yashav",
+      "englishLiteral": "has-sat",
+      "englishNatural": "has sat",
+      "root": "yashav",
+      "order": {
+        "hebrew": 15,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "."
+      },
+      "lineBreaksAfter": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "וְשַׁבְתִּי",
+      "transliteration": "veShavti",
+      "englishLiteral": "and-I-will-sit",
+      "englishNatural": "and I will sit",
+      "root": "yashav",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "person": "1st",
+        "number": "singular",
+        "tense": "perfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Psalms",
+        "chapter": 23,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

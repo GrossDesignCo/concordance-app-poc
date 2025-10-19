@@ -1,0 +1,38 @@
+{
+  "key": "ed",
+  "hebrew": "אֵד",
+  "transliteration": "ed",
+  "englishLiteral": "mist",
+  "englishNatural": "mist",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "וְאֵד",
+      "transliteration": "veEd",
+      "englishLiteral": "And-mist",
+      "englishNatural": "And a mist",
+      "root": "ed",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

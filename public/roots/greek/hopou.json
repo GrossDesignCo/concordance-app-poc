@@ -1,0 +1,52 @@
+{
+  "key": "hopou",
+  "greek": "ὅπου",
+  "transliteration": "hopou",
+  "englishLiteral": "where",
+  "englishNatural": "where",
+  "wordInstances": [
+    {
+      "greek": "ὅπου",
+      "transliteration": "hopou",
+      "englishLiteral": "where",
+      "englishNatural": "where",
+      "root": "hopou",
+      "order": {
+        "greek": 12,
+        "english": 12
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    },
+    {
+      "greek": "ὅπου",
+      "transliteration": "hopou",
+      "englishLiteral": "where",
+      "englishNatural": "where",
+      "root": "hopou",
+      "order": {
+        "greek": 27,
+        "english": 27
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 18
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

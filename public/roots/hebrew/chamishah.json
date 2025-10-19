@@ -1,0 +1,40 @@
+{
+  "key": "chamishah",
+  "hebrew": "חֲמִשָּׁה",
+  "transliteration": "chamishah",
+  "englishLiteral": "five",
+  "englishNatural": "five",
+  "type": "numeral",
+  "description": "five, the number five",
+  "related": [
+    "chamishi"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "חֲמִשָּׁה",
+      "transliteration": "chamishah",
+      "englishLiteral": "five",
+      "englishNatural": "five",
+      "root": "chamishah",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "numeral",
+        "gender": "masculine",
+        "number": "plural"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 21
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

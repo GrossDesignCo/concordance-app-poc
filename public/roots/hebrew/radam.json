@@ -1,0 +1,51 @@
+{
+  "key": "radam",
+  "hebrew": "רדם",
+  "transliteration": "radam",
+  "englishLiteral": "to deep_trance",
+  "englishNatural": "to deep-trance",
+  "type": "verb",
+  "description": "to fall into deep sleep, to be fast asleep",
+  "related": [
+    "tardemah"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "וַיֵּרָדַם",
+      "transliteration": "vaYeradam",
+      "englishLiteral": "and-deeply_tranced",
+      "englishNatural": "and deeply-tranced",
+      "root": "radam",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 22,
+        "english": 22
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 1,
+        "verse": 5
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

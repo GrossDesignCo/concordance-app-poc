@@ -1,0 +1,190 @@
+{
+  "key": "ramas",
+  "hebrew": "רמש",
+  "transliteration": "ramas",
+  "englishLiteral": "to crawl",
+  "englishNatural": "to crawl",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "הָֽרֹמֶ֡שֶׂת",
+      "transliteration": "haRomeshet",
+      "englishLiteral": "the-crawling",
+      "englishNatural": "the crawling",
+      "root": "ramas",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      }
+    },
+    {
+      "hebrew": "וָרֶ֛מֶשׂ",
+      "transliteration": "vaRemes",
+      "englishLiteral": "and-crawler",
+      "englishNatural": "and crawler",
+      "root": "ramas",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "רֶ֥מֶשׂ",
+      "transliteration": "remes",
+      "englishLiteral": "crawler",
+      "englishNatural": "crawler",
+      "root": "ramas",
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "הָרֶ֖מֶשׂ",
+      "transliteration": "haRemes",
+      "englishLiteral": "the-crawler",
+      "englishNatural": "the crawler",
+      "root": "ramas",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "הָֽרֹמֵ֥שׂ",
+      "transliteration": "haRomes",
+      "englishLiteral": "the-crawling",
+      "englishNatural": "the crawling",
+      "root": "ramas",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "הָֽרֹמֶ֖שֶׂת",
+      "transliteration": "haRomeset",
+      "englishLiteral": "the-crawling",
+      "englishNatural": "the crawling",
+      "root": "ramas",
+      "prefixes": [
+        "ha"
+      ],
+      "suffixes": [
+        "et"
+      ],
+      "order": {
+        "hebrew": 20,
+        "english": 19
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 28
+      }
+    },
+    {
+      "hebrew": "רוֹמֵ֣שׂ",
+      "transliteration": "romes",
+      "englishLiteral": "crawler",
+      "englishNatural": "crawler",
+      "root": "ramas",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 30
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

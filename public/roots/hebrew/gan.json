@@ -1,0 +1,354 @@
+{
+  "key": "gan",
+  "hebrew": "גן",
+  "transliteration": "gan",
+  "englishLiteral": "garden",
+  "englishNatural": "garden",
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "הַגָּן",
+      "transliteration": "haGan",
+      "englishLiteral": "the-garden",
+      "englishNatural": "the garden",
+      "root": "gan",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "בְגַן־",
+      "transliteration": "beGan-",
+      "englishLiteral": "in-Garden-",
+      "englishNatural": "in Garden of",
+      "root": "gan",
+      "prefixes": [
+        "be"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "הַגָּן",
+      "transliteration": "haGan",
+      "englishLiteral": "the-garden",
+      "englishNatural": "of the garden",
+      "root": "gan",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishNatural": ",",
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "גַּן",
+      "transliteration": "gan",
+      "englishLiteral": "garden",
+      "englishNatural": "a garden",
+      "root": "gan",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "הַגָּן",
+      "transliteration": "haGan",
+      "englishLiteral": "the-garden",
+      "englishNatural": "the garden",
+      "root": "gan",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 14
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "הַגָּן",
+      "transliteration": "haGan",
+      "englishLiteral": "the-garden",
+      "englishNatural": "of the garden",
+      "root": "gan",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 22,
+        "english": 22
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": "'?\"",
+        "englishNatural": "'?\""
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "בַּגָּן",
+      "transliteration": "baGan",
+      "englishLiteral": "in-Garden",
+      "englishNatural": "in Garden",
+      "root": "gan",
+      "prefixes": [
+        "ba"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "הַגָּן",
+      "transliteration": "haGan",
+      "englishLiteral": "the-garden",
+      "englishNatural": "the garden",
+      "root": "gan",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ""
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "מִגַּן־",
+      "transliteration": "miGan-",
+      "englishLiteral": "from-Garden",
+      "englishNatural": "from Garden",
+      "root": "gan",
+      "prefixes": [
+        "mi"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "לְגַן־",
+      "transliteration": "leGan-",
+      "englishLiteral": "to-Garden",
+      "englishNatural": "of Garden",
+      "root": "gan",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "הַגָּן",
+      "transliteration": "haGan",
+      "englishLiteral": "the-garden",
+      "englishNatural": "the garden",
+      "root": "gan",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",'",
+        "englishNatural": ",'"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "בַּגָּן",
+      "transliteration": "baGan",
+      "englishLiteral": "in-Garden",
+      "englishNatural": "in Garden",
+      "root": "gan",
+      "prefixes": [
+        "ba"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "הַגָּן׃",
+      "transliteration": "haGan",
+      "englishLiteral": "the-garden",
+      "englishNatural": "of Garden",
+      "root": "gan",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 18,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

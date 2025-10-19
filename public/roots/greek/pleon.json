@@ -1,0 +1,34 @@
+{
+  "key": "pleon",
+  "greek": "πλέον",
+  "transliteration": "pleon",
+  "englishLiteral": "more",
+  "englishNatural": "more",
+  "wordInstances": [
+    {
+      "greek": "πλέον",
+      "transliteration": "pleon",
+      "englishLiteral": "more",
+      "englishNatural": "more",
+      "root": "pleon",
+      "order": {
+        "greek": 14,
+        "english": 16
+      },
+      "morphology": {
+        "type": "adverb",
+        "degree": "comparative"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,48 @@
+{
+  "key": "chaburah",
+  "hebrew": "חַבּוּרָה",
+  "transliteration": "chaburah",
+  "englishLiteral": "stripe",
+  "englishNatural": "stripe",
+  "type": "noun",
+  "description": "stripe, blow, bruise, wound",
+  "wordInstances": [
+    {
+      "hebrew": "לְחַבֻּרָתִי",
+      "transliteration": "leChaburati",
+      "englishLiteral": "to-stripe-my",
+      "englishNatural": "to my stripe",
+      "root": "chaburah",
+      "prefixes": [
+        "le"
+      ],
+      "suffixes": [
+        "i"
+      ],
+      "order": {
+        "hebrew": 17,
+        "english": 17
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "feminine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 23
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

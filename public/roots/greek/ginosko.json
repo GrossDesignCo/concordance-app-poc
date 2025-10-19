@@ -1,0 +1,38 @@
+{
+  "key": "ginosko",
+  "greek": "γινώσκω",
+  "transliteration": "ginosko",
+  "englishLiteral": "know",
+  "englishNatural": "know",
+  "wordInstances": [
+    {
+      "greek": "γινώσκεις",
+      "transliteration": "ginōskeis",
+      "englishLiteral": "know",
+      "englishNatural": "know",
+      "root": "ginosko",
+      "order": {
+        "greek": 27,
+        "english": 27
+      },
+      "morphology": {
+        "type": "verb",
+        "tense": "present",
+        "voice": "active",
+        "mood": "indicative",
+        "person": "2nd",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

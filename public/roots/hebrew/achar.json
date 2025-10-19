@@ -1,0 +1,206 @@
+{
+  "key": "achar",
+  "hebrew": "אַחֲרֵי",
+  "transliteration": "achar",
+  "englishLiteral": "after",
+  "englishNatural": "after",
+  "type": "preposition",
+  "description": "after, behind, following",
+  "wordInstances": [
+    {
+      "hebrew": "אַחֲרֵי",
+      "transliteration": "acharey",
+      "englishLiteral": "after",
+      "englishNatural": "after",
+      "root": "achar",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 10
+      }
+    },
+    {
+      "hebrew": "אַחֲרֵי",
+      "transliteration": "acharey",
+      "englishLiteral": "after",
+      "englishNatural": "after",
+      "root": "achar",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 13
+      }
+    },
+    {
+      "hebrew": "אַחֲרֵי",
+      "transliteration": "acharey",
+      "englishLiteral": "after",
+      "englishNatural": "after",
+      "root": "achar",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "אַחֲרֵי",
+      "transliteration": "acharey",
+      "englishLiteral": "after",
+      "englishNatural": "after",
+      "root": "achar",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "אַחֲרֵי",
+      "transliteration": "acharey",
+      "englishLiteral": "after",
+      "englishNatural": "after",
+      "root": "achar",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "אַחֲרֵי",
+      "transliteration": "acharey",
+      "englishLiteral": "after",
+      "englishNatural": "And after",
+      "root": "achar",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "אַחֲרֵי",
+      "transliteration": "acharei",
+      "englishLiteral": "after",
+      "englishNatural": "after",
+      "root": "achar",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 30
+      }
+    },
+    {
+      "hebrew": "אַחֲרֵי",
+      "transliteration": "acharey",
+      "englishLiteral": "after",
+      "englishNatural": "after",
+      "root": "achar",
+      "order": {
+        "hebrew": 4,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "אַחֲרֵי",
+      "transliteration": "acharey",
+      "englishLiteral": "after",
+      "englishNatural": "after",
+      "root": "achar",
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "אַחֲרֵי־",
+      "transliteration": "acharei-",
+      "englishLiteral": "after-",
+      "englishNatural": "after",
+      "root": "achar",
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,38 @@
+{
+  "key": "krateo",
+  "greek": "κρατέω",
+  "transliteration": "krateo",
+  "englishLiteral": "seize",
+  "englishNatural": "seize",
+  "wordInstances": [
+    {
+      "greek": "ἐκράτησεν",
+      "transliteration": "ekratēsen",
+      "englishLiteral": "he-seized",
+      "englishNatural": "he seized",
+      "root": "krateo",
+      "order": {
+        "greek": 2,
+        "english": 2
+      },
+      "morphology": {
+        "number": "singular",
+        "person": "3rd",
+        "tense": "aorist",
+        "voice": "active",
+        "mood": "indicative",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Revelation",
+        "chapter": 20,
+        "verse": 2
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

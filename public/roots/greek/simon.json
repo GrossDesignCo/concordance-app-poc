@@ -1,0 +1,123 @@
+{
+  "key": "simon",
+  "greek": "Σίμων",
+  "transliteration": "Simon",
+  "englishLiteral": "Hearer (Simon)",
+  "englishNatural": "Hearer (Simon)",
+  "translatedFrom": [
+    "shama"
+  ],
+  "wordInstances": [
+    {
+      "greek": "Σίμωνι",
+      "transliteration": "Simōni",
+      "englishLiteral": "Hearer (Simon)",
+      "englishNatural": "Hearer (Simon)",
+      "root": "simon",
+      "order": {
+        "greek": 6,
+        "english": 10
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "dative",
+        "state": "definite"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "Σίμων",
+      "transliteration": "Simōn",
+      "englishLiteral": "Hearer (Simon)",
+      "englishNatural": "Hearer (Simon)",
+      "root": "simon",
+      "order": {
+        "greek": 10,
+        "english": 12
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "vocative",
+        "state": "anarthrous"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 15
+      }
+    },
+    {
+      "greek": "Σίμων",
+      "transliteration": "Simōn",
+      "englishLiteral": "Hearer (Simon)",
+      "englishNatural": "Hearer (Simon)",
+      "root": "simon",
+      "order": {
+        "greek": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "vocative",
+        "state": "anarthrous"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "greek": "Σίμων",
+      "transliteration": "Simōn",
+      "englishLiteral": "Hearer (Simon)",
+      "englishNatural": "Hearer (Simon)",
+      "root": "simon",
+      "order": {
+        "greek": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular",
+        "case": "vocative",
+        "state": "anarthrous"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": [
+    "shama"
+  ]
+}

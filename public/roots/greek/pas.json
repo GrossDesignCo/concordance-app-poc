@@ -1,0 +1,40 @@
+{
+  "key": "pas",
+  "greek": "πᾶς",
+  "transliteration": "pas",
+  "englishLiteral": "all",
+  "englishNatural": "all",
+  "wordInstances": [
+    {
+      "greek": "πάντα",
+      "transliteration": "panta",
+      "englishLiteral": "all",
+      "englishNatural": "all",
+      "root": "pas",
+      "order": {
+        "greek": 23,
+        "english": 25
+      },
+      "morphology": {
+        "type": "adjective",
+        "gender": "neuter",
+        "number": "plural",
+        "case": "accusative",
+        "degree": "positive"
+      },
+      "grammarSuffix": {
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "John",
+        "chapter": 21,
+        "verse": 17
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

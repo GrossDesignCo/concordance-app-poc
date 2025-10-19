@@ -1,0 +1,47 @@
+{
+  "key": "panim",
+  "hebrew": "פנים",
+  "transliteration": "panim",
+  "englishLiteral": "faces",
+  "englishNatural": "faces",
+  "type": "noun",
+  "description": "faces, presence, before (always plural in Hebrew)",
+  "related": [
+    "panah"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "פָּנָיו",
+      "transliteration": "panav",
+      "englishLiteral": "his-faces",
+      "englishNatural": "his faces (eyes)",
+      "root": "panim",
+      "suffixes": [
+        "av"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 34,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

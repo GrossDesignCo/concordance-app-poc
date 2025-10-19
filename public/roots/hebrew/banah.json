@@ -1,0 +1,68 @@
+{
+  "key": "banah",
+  "hebrew": "בנה",
+  "transliteration": "banah",
+  "englishLiteral": "to build",
+  "englishNatural": "to build",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וַיִּבֶן",
+      "transliteration": "vaYiven",
+      "englishLiteral": "And-built",
+      "englishNatural": "built",
+      "root": "banah",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": {
+        "hebrew": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "בֹּנֶה",
+      "transliteration": "boneh",
+      "englishLiteral": "building",
+      "englishNatural": "building",
+      "root": "banah",
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "tense": "participle",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 17
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

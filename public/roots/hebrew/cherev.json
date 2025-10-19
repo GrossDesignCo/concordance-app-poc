@@ -1,0 +1,44 @@
+{
+  "key": "cherev",
+  "hebrew": "חרב",
+  "transliteration": "cherev",
+  "englishLiteral": "sword",
+  "englishNatural": "sword",
+  "type": "noun",
+  "description": "sword, blade, weapon",
+  "wordInstances": [
+    {
+      "hebrew": "הַחֶרֶב",
+      "transliteration": "haCherev",
+      "englishLiteral": "the-sword",
+      "englishNatural": "the Sword",
+      "root": "cherev",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 12,
+        "english": 12
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

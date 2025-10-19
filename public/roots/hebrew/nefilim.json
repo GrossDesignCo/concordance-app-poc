@@ -1,0 +1,44 @@
+{
+  "key": "nefilim",
+  "hebrew": "נפלים",
+  "transliteration": "nefilim",
+  "englishLiteral": "fallen_ones",
+  "englishNatural": "fallen-ones",
+  "type": "noun",
+  "description": "fallen ones, giants, those who have fallen",
+  "related": [
+    "naphal"
+  ],
+  "wordInstances": [
+    {
+      "hebrew": "הַנְּפִלִים",
+      "transliteration": "haNephalim",
+      "englishLiteral": "The-fallen_ones",
+      "englishNatural": "The fallen-ones",
+      "root": "nefilim",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "plural",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

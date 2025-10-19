@@ -1,0 +1,47 @@
+{
+  "key": "nasakh",
+  "hebrew": "נָסַךְ",
+  "transliteration": "nasakh",
+  "englishLiteral": "to pour_out",
+  "englishNatural": "to pour-out",
+  "type": "verb",
+  "description": "to pour out, anoint, install, set up (as in office)",
+  "wordInstances": [
+    {
+      "hebrew": "נִסַּכְתִּי",
+      "transliteration": "nisakhti",
+      "englishLiteral": "was-poured_out-I",
+      "englishNatural": "I was poured-out",
+      "root": "nasakh",
+      "suffixes": [
+        "ti"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 2
+      },
+      "morphology": {
+        "gender": "feminine",
+        "number": "singular",
+        "person": "1st",
+        "tense": "perfect",
+        "stem": "niphal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 8,
+        "verse": 23
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

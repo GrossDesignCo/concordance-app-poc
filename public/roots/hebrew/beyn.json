@@ -1,0 +1,288 @@
+{
+  "key": "beyn",
+  "hebrew": "בין",
+  "transliteration": "beyn",
+  "englishLiteral": "between",
+  "englishNatural": "between",
+  "type": "preposition",
+  "wordInstances": [
+    {
+      "hebrew": "בֵּ֥ין",
+      "transliteration": "beyn",
+      "englishLiteral": "between",
+      "englishNatural": "between",
+      "root": "beyn",
+      "order": {
+        "hebrew": 8,
+        "english": 9
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "וּבֵ֥ין",
+      "transliteration": "uBeyn",
+      "englishLiteral": "and-between",
+      "englishNatural": "and between",
+      "root": "beyn",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 11
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "בֵּ֥ין",
+      "transliteration": "beyn",
+      "englishLiteral": "between",
+      "englishNatural": "between",
+      "root": "beyn",
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "וּבֵ֣ין",
+      "transliteration": "uBeyn",
+      "englishLiteral": "and-between",
+      "englishNatural": "and between",
+      "root": "beyn",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "בֵּ֥ין",
+      "transliteration": "beyn",
+      "englishLiteral": "between",
+      "englishNatural": "between",
+      "root": "beyn",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "וּבֵ֥ין",
+      "transliteration": "uBeyn",
+      "englishLiteral": "and-between",
+      "englishNatural": "and between",
+      "root": "beyn",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "בֵּין",
+      "transliteration": "beyn",
+      "englishLiteral": "between",
+      "englishNatural": "between",
+      "root": "beyn",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 6
+      }
+    },
+    {
+      "hebrew": "בֵּ֤ין",
+      "transliteration": "beyn",
+      "englishLiteral": "between",
+      "englishNatural": "between",
+      "root": "beyn",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "וּבֵ֣ין",
+      "transliteration": "uBeyn",
+      "englishLiteral": "and-between",
+      "englishNatural": "and between",
+      "root": "beyn",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "בֵּינְךָ",
+      "transliteration": "beynkha",
+      "englishLiteral": "between-you",
+      "englishNatural": "between you",
+      "root": "beyn",
+      "suffixes": [
+        "kha"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "וּבֵין",
+      "transliteration": "uveyn",
+      "englishLiteral": "and-between",
+      "englishNatural": "and between",
+      "root": "beyn",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "וּבֵין",
+      "transliteration": "uveyn",
+      "englishLiteral": "and-between",
+      "englishNatural": "and between",
+      "root": "beyn",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "וּבֵין",
+      "transliteration": "uveyn",
+      "englishLiteral": "and-between",
+      "englishNatural": "and between",
+      "root": "beyn",
+      "prefixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "preposition"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 15
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

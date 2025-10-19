@@ -1,0 +1,63 @@
+{
+  "key": "koh",
+  "hebrew": "כה",
+  "transliteration": "koh",
+  "englishLiteral": "thus",
+  "englishNatural": "thus",
+  "type": "adverb",
+  "description": "thus, so, in this manner",
+  "wordInstances": [
+    {
+      "hebrew": "כֹּה",
+      "transliteration": "koh",
+      "englishLiteral": "Thus",
+      "englishNatural": "Thus",
+      "root": "koh",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "hebrew": "כֹּה־",
+      "transliteration": "koh-",
+      "englishLiteral": "Thus-",
+      "englishNatural": "Thus",
+      "root": "koh",
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "type": "adverb"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Exodus",
+        "chapter": 3,
+        "verse": 15
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

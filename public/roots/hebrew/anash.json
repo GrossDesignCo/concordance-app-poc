@@ -1,0 +1,51 @@
+{
+  "key": "anash",
+  "hebrew": "ענש",
+  "transliteration": "anash",
+  "englishLiteral": "to punish",
+  "englishNatural": "to punish",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וְנֶעֱנָשׁוּ",
+      "transliteration": "veNeEnashu",
+      "englishLiteral": "and-are-punished",
+      "englishNatural": "and are punished",
+      "root": "anash",
+      "prefixes": [
+        "ve",
+        "ne"
+      ],
+      "suffixes": [
+        "u"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 7
+      },
+      "morphology": {
+        "gender": "neuter",
+        "number": "plural",
+        "person": "3rd",
+        "tense": "perfect",
+        "stem": "niphal",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Proverbs",
+        "chapter": 22,
+        "verse": 3
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

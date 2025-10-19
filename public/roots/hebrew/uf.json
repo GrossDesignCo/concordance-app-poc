@@ -1,0 +1,197 @@
+{
+  "key": "uf",
+  "hebrew": "עוף",
+  "transliteration": "uf",
+  "englishLiteral": "to fly",
+  "englishNatural": "to fly",
+  "type": "verb",
+  "wordInstances": [
+    {
+      "hebrew": "וְעוֹף֙",
+      "transliteration": "veOf",
+      "englishLiteral": "And-flyer",
+      "englishNatural": "And let flyer",
+      "root": "uf",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "יְעוֹפֵ֣ף",
+      "transliteration": "yeOfef",
+      "englishLiteral": "let-fly",
+      "englishNatural": "fly",
+      "root": "uf",
+      "prefixes": [
+        "ye"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "verb"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "ע֤וֹף",
+      "transliteration": "of",
+      "englishLiteral": "flyer",
+      "englishNatural": "flyer",
+      "root": "uf",
+      "order": {
+        "hebrew": 17,
+        "english": 18
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 21
+      }
+    },
+    {
+      "hebrew": "וְהָע֖וֹף",
+      "transliteration": "veHaOf",
+      "englishLiteral": "And-the-flyer",
+      "englishNatural": "And let the flyer",
+      "root": "uf",
+      "prefixes": [
+        "ve",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "מְעוֹפֵף",
+      "transliteration": "meOfef",
+      "englishLiteral": "flying",
+      "englishNatural": "flying",
+      "root": "uf",
+      "prefixes": [
+        "me"
+      ],
+      "order": {
+        "hebrew": 16,
+        "english": 16
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 14,
+        "verse": 29
+      }
+    },
+    {
+      "hebrew": "יְעוֹפֵף",
+      "transliteration": "yeOfef",
+      "englishLiteral": "he-flies",
+      "englishNatural": "he flies",
+      "root": "uf",
+      "prefixes": [
+        "ye"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "piel",
+        "type": "verb"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "וַיָּעָף",
+      "transliteration": "vaYaof",
+      "englishLiteral": "And-flew",
+      "englishNatural": "And flew",
+      "root": "uf",
+      "prefixes": [
+        "va"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "person": "3rd",
+        "tense": "imperfect",
+        "stem": "qal",
+        "type": "verb"
+      },
+      "lineBreaksBefore": 2,
+      "verseContext": {
+        "book": "Isaiah",
+        "chapter": 6,
+        "verse": 6
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}

@@ -1,0 +1,1077 @@
+{
+  "key": "adam",
+  "hebrew": "אדם",
+  "transliteration": "adam",
+  "englishLiteral": "Human (Adam)",
+  "englishNatural": "Human (Adam)",
+  "description": "Humans in general, Name of Adam, distinct term from from man (ish), male (zakhar)",
+  "related": [
+    "adamah",
+    "ish",
+    "ishah",
+    "zakhar",
+    "neqevah"
+  ],
+  "type": "noun",
+  "wordInstances": [
+    {
+      "hebrew": "אָדָ֛ם",
+      "transliteration": "Adam",
+      "englishLiteral": "Human (Adam)",
+      "englishNatural": "Human (Adam)",
+      "root": "adam",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 26
+      }
+    },
+    {
+      "hebrew": "הָֽאָדָם֙",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 1,
+        "verse": 27
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 15
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishNatural": ",",
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 16
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "for the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 7,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 18
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 24,
+        "english": 22
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 19
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "And the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "וּלְאָדָם",
+      "transliteration": "uLeAdam",
+      "englishLiteral": "and-to-Human (Adam)",
+      "englishNatural": "and to Human (Adam)",
+      "root": "adam",
+      "prefixes": [
+        "u",
+        "le"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 11
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 21
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "הָאָדָם׃",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 13,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "And the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 23
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "וְאָדָם",
+      "transliteration": "veAdam",
+      "englishLiteral": "and-Human (Adam)",
+      "englishNatural": "and Human (Adam)",
+      "root": "adam",
+      "prefixes": [
+        "ve"
+      ],
+      "order": {
+        "hebrew": 19,
+        "english": 19
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "and the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 14,
+        "english": 13
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 10,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 2,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "And the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ","
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 12
+      }
+    },
+    {
+      "hebrew": "וּלְאָדָם",
+      "transliteration": "uleAdam",
+      "englishLiteral": "And-to-Human (Adam)",
+      "englishNatural": "And to Human (Adam)",
+      "root": "adam",
+      "prefixes": [
+        "u",
+        "le"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "And the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 20
+      }
+    },
+    {
+      "hebrew": "לְאָדָם",
+      "transliteration": "leAdam",
+      "englishLiteral": "to-Human (Adam)",
+      "englishNatural": "to Human (Adam)",
+      "root": "adam",
+      "prefixes": [
+        "le"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 21
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ";",
+        "englishNatural": ";"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 24
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "and the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 11,
+        "english": 10
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 5,
+        "english": 5
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 3,
+        "verse": 9
+      }
+    },
+    {
+      "hebrew": "וְהָאָדָם",
+      "transliteration": "veHaAdam",
+      "englishLiteral": "And-the-human",
+      "englishNatural": "And the human",
+      "root": "adam",
+      "prefixes": [
+        "ve",
+        "ha"
+      ],
+      "order": {
+        "hebrew": 1,
+        "english": 1
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "אָדָם",
+      "transliteration": "Adam",
+      "englishLiteral": "Human (Adam)",
+      "englishNatural": "And Human (Adam)",
+      "root": "adam",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 4,
+        "verse": 25
+      }
+    },
+    {
+      "hebrew": "אָדָם",
+      "transliteration": "Adam",
+      "englishLiteral": "Human (Adam)",
+      "englishNatural": "Human (Adam)",
+      "root": "adam",
+      "order": {
+        "hebrew": 4,
+        "english": 4
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ".",
+        "englishNatural": "."
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "אָדָם",
+      "transliteration": "adam",
+      "englishLiteral": "Human (Adam)",
+      "englishNatural": "Human (Adam)",
+      "root": "adam",
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "אָדָם",
+      "transliteration": "Adam",
+      "englishLiteral": "Human (Adam)",
+      "englishNatural": "Human (Adam)",
+      "root": "adam",
+      "order": {
+        "hebrew": 9,
+        "english": 9
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",\"",
+        "englishNatural": ",\""
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "אָדָם",
+      "transliteration": "Adam",
+      "englishLiteral": "Human (Adam)",
+      "englishNatural": "And Human (Adam)",
+      "root": "adam",
+      "order": {
+        "hebrew": 2,
+        "english": 1
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "lineBreaksBefore": {
+        "english": 1
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "אָדָם",
+      "transliteration": "Adam",
+      "englishLiteral": "Human (Adam)",
+      "englishNatural": "Human (Adam)",
+      "root": "adam",
+      "order": {
+        "hebrew": 3,
+        "english": 2
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "אָדָם",
+      "transliteration": "Adam",
+      "englishLiteral": "Human (Adam)",
+      "englishNatural": "Human (Adam)",
+      "root": "adam",
+      "order": {
+        "hebrew": 4,
+        "english": 3
+      },
+      "morphology": {
+        "type": "noun",
+        "gender": "masculine",
+        "number": "singular"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 5,
+        "verse": 5
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 4,
+        "english": 3
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 1
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "Human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 2
+      }
+    },
+    {
+      "hebrew": "בָאָדָם",
+      "transliteration": "baAdam",
+      "englishLiteral": "in-the-human",
+      "englishNatural": "in the human",
+      "root": "adam",
+      "prefixes": [
+        "ba"
+      ],
+      "order": {
+        "hebrew": 6,
+        "english": 6
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 3
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "Human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 15,
+        "english": 15
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarSuffix": {
+        "englishLiteral": ",",
+        "englishNatural": ","
+      },
+      "lineBreaksAfter": 1,
+      "verseContext": {
+        "book": "Genesis",
+        "chapter": 6,
+        "verse": 4
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "The human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 8,
+        "english": 8
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "grammarPrefix": {
+        "englishLiteral": "\"",
+        "englishNatural": "\""
+      },
+      "lineBreaksBefore": 1,
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 7
+      }
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "transliteration": "haAdam",
+      "englishLiteral": "the-human",
+      "englishNatural": "the human",
+      "root": "adam",
+      "prefixes": [
+        "ha"
+      ],
+      "order": {
+        "hebrew": 3,
+        "english": 4
+      },
+      "morphology": {
+        "gender": "masculine",
+        "number": "singular",
+        "type": "noun"
+      },
+      "verseContext": {
+        "book": "Jonah",
+        "chapter": 3,
+        "verse": 8
+      }
+    }
+  ],
+  "usage": {},
+  "verses": {},
+  "chapters": {},
+  "books": [],
+  "translationConnections": []
+}
