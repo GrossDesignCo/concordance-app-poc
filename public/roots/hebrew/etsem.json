@@ -5,64 +5,16 @@
   "englishLiteral": "bone",
   "englishNatural": "bone",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "עֶצֶם",
-      "transliteration": "etsem",
-      "englishLiteral": "Bone",
-      "englishNatural": "Bone",
-      "root": "etsem",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "מֵעֲצָמַי",
-      "transliteration": "meAtzamai",
-      "englishLiteral": "from-my-bones",
-      "englishNatural": "from my bones",
-      "root": "etsem",
-      "prefixes": [
-        "me"
-      ],
-      "suffixes": [
-        "ai"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 23
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "23": [
+          4,
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

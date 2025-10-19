@@ -9,36 +9,15 @@
   "related": [
     "avar"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "עִבְרִי",
-      "transliteration": "ivri",
-      "englishLiteral": "Hebrew",
-      "englishNatural": "A Hebrew",
-      "root": "ivri",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 9
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "9": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

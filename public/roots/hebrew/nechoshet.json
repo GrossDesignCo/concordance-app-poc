@@ -5,84 +5,23 @@
   "englishLiteral": "bronze",
   "englishNatural": "bronze",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "נְחֹשֶׁת",
-      "transliteration": "nechoshet",
-      "englishLiteral": "bronze",
-      "englishNatural": "bronze",
-      "root": "nechoshet",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 22
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "22": [
+          9
+        ]
       }
     },
-    {
-      "hebrew": "נְחֹשֶׁת",
-      "transliteration": "nechoshet",
-      "englishLiteral": "bronze",
-      "englishNatural": "a bronze",
-      "root": "nechoshet",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "הַנְּחֹשֶׁת",
-      "transliteration": "haNechoshet",
-      "englishLiteral": "the-bronze",
-      "englishNatural": "the bronze",
-      "root": "nechoshet",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 17,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
+    "numbers": {
+      "21": {
+        "9": [
+          3,
+          16
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

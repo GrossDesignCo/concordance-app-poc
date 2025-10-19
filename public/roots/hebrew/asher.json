@@ -6,781 +6,148 @@
   "englishNatural": "which",
   "description": "which, that, which it is, which is in it, which has",
   "type": "relative",
-  "wordInstances": [
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 14
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "14": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "אֲשֶׁ֥ר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 14,
-        "english": 14
+    "genesis": {
+      "1": {
+        "7": [
+          7,
+          12
+        ],
+        "11": [
+          13
+        ],
+        "12": [
+          10
+        ],
+        "21": [
+          10
+        ],
+        "29": [
+          10,
+          18
+        ],
+        "30": [
+          10
+        ],
+        "31": [
+          4
+        ]
       },
-      "morphology": {
-        "type": "relative"
+      "2": {
+        "2": [
+          5,
+          12
+        ],
+        "3": [
+          12
+        ],
+        "8": [
+          10
+        ],
+        "11": [
+          9
+        ],
+        "19": [
+          20
+        ],
+        "22": [
+          5
+        ]
       },
-      "grammarSuffix": {
-        "englishLiteral": ","
+      "3": {
+        "1": [
+          6
+        ],
+        "3": [
+          4
+        ],
+        "11": [
+          9
+        ],
+        "12": [
+          3
+        ],
+        "17": [
+          9
+        ],
+        "23": [
+          8
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 11
+      "4": {
+        "11": [
+          5
+        ]
+      },
+      "5": {
+        "5": [
+          4
+        ],
+        "29": [
+          12
+        ]
+      },
+      "6": {
+        "2": [
+          13
+        ],
+        "4": [
+          8,
+          19
+        ]
       }
     },
-    {
-      "hebrew": "אֲשֶׁ֤ר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 11,
-        "english": 11
+    "jonah": {
+      "1": {
+        "5": [
+          9
+        ],
+        "8": [
+          5
+        ],
+        "9": [
+          10
+        ]
       },
-      "morphology": {
-        "type": "relative"
+      "3": {
+        "2": [
+          10
+        ],
+        "8": [
+          14
+        ],
+        "10": [
+          12
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 12
+      "4": {
+        "5": [
+          15
+        ]
       }
     },
-    {
-      "hebrew": "אֲשֶׁר֩",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר֙",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר־",
-      "transliteration": "asher-",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 19,
-        "english": 19
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר־",
-      "transliteration": "asher-",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁ֣ר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which was",
-      "root": "asher",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר֙",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁ֥ר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 21,
-        "english": 21
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 9,
-        "english": 10
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 5,
-        "english": 4
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 20,
-        "english": 20
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which were",
-      "root": "asher",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "בַּאֲשֶׁר",
-      "transliteration": "beAsher",
-      "englishLiteral": "in-which",
-      "englishNatural": "in which",
-      "root": "asher",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר־",
-      "transliteration": "asher-",
-      "englishLiteral": "which-",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר־",
-      "transliteration": "asher-",
-      "englishLiteral": "which-",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which is",
-      "root": "asher",
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "אֲשֶׁר",
-      "transliteration": "asher",
-      "englishLiteral": "which",
-      "englishNatural": "which",
-      "root": "asher",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 4
+    "psalms": {
+      "1": {
+        "1": [
+          2
+        ],
+        "3": [
+          6,
+          14
+        ],
+        "4": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

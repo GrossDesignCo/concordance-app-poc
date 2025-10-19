@@ -6,45 +6,15 @@
   "englishNatural": "fat",
   "type": "noun",
   "description": "fat, best part",
-  "wordInstances": [
-    {
-      "hebrew": "וּמֵחֶלְבֵהֶן",
-      "transliteration": "umeChelveHen",
-      "englishLiteral": "and-from-fat-of-them",
-      "englishNatural": "and from their fat",
-      "root": "chelev",
-      "prefixes": [
-        "u",
-        "me"
-      ],
-      "suffixes": [
-        "hen"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 4
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "4": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

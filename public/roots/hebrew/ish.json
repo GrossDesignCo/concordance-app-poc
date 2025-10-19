@@ -8,423 +8,85 @@
     "ishah"
   ],
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "מֵאִישׁ",
-      "transliteration": "meIsh",
-      "englishLiteral": "from-Man",
-      "englishNatural": "from Man",
-      "root": "ish",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "23": [
+          12
+        ],
+        "24": [
+          3
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
+      "3": {
+        "6": [
+          18
+        ],
+        "16": [
+          11
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 23
+      "4": {
+        "1": [
+          11
+        ],
+        "19": [
+          4
+        ],
+        "23": [
+          12
+        ]
+      },
+      "6": {
+        "4": [
+          21
+        ]
       }
     },
-    {
-      "hebrew": "אִישׁ",
-      "transliteration": "ish",
-      "englishLiteral": "man",
-      "englishNatural": "Man",
-      "root": "ish",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 24
+    "isaiah": {
+      "6": {
+        "5": [
+          6
+        ]
       }
     },
-    {
-      "hebrew": "אִישֵׁךְ",
-      "transliteration": "ishekh",
-      "englishLiteral": "man-your",
-      "englishNatural": "your man",
-      "root": "ish",
-      "suffixes": [
-        "ekh"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
+    "jonah": {
+      "1": {
+        "5": [
+          3
+        ],
+        "7": [
+          1
+        ],
+        "10": [
+          1,
+          11
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 16
+      "3": {
+        "5": [
+          1
+        ],
+        "8": [
+          9
+        ]
       }
     },
-    {
-      "hebrew": "לְאִישָׁהּ",
-      "transliteration": "leIshah",
-      "englishLiteral": "to-her-man",
-      "englishNatural": "to her man",
-      "root": "ish",
-      "prefixes": [
-        "le"
-      ],
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 19,
-        "english": 20
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 6
+    "numbers": {
+      "21": {
+        "9": [
+          12
+        ]
       }
     },
-    {
-      "hebrew": "אִישׁ",
-      "transliteration": "ish",
-      "englishLiteral": "a-man",
-      "englishNatural": "a man",
-      "root": "ish",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "נָשִׁים",
-      "transliteration": "nashim",
-      "englishLiteral": "women",
-      "englishNatural": "women",
-      "root": "ish",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "feminine",
-        "number": "plural"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "אִישׁ",
-      "transliteration": "ish",
-      "englishLiteral": "man",
-      "englishNatural": "man",
-      "root": "ish",
-      "order": {
-        "hebrew": 13,
-        "english": 14
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "אַנְשֵׁי",
-      "transliteration": "anshei",
-      "englishLiteral": "men-of",
-      "englishNatural": "men of",
-      "root": "ish",
-      "order": {
-        "hebrew": 22,
-        "english": 22
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "אִישׁ",
-      "transliteration": "ish",
-      "englishLiteral": "man",
-      "englishNatural": "a man",
-      "root": "ish",
-      "morphology": {
-        "type": "noun",
-        "state": "absolute",
-        "number": "singular",
-        "gender": "masculine"
-      },
-      "order": {
-        "hebrew": 7,
-        "english": 8
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "הָאֲנָשִׁים",
-      "transliteration": "haAnashim",
-      "englishLiteral": "the-men",
-      "englishNatural": "And the men",
-      "root": "ish",
-      "prefixes": [
-        "ha"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "הָאֲנָשִׁים",
-      "transliteration": "haAnashim",
-      "englishLiteral": "the-men",
-      "englishNatural": "the men",
-      "root": "ish",
-      "prefixes": [
-        "ha"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "אִישׁ",
-      "transliteration": "ish",
-      "englishLiteral": "man",
-      "englishNatural": "man",
-      "root": "ish",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "אִישׁ",
-      "transliteration": "ish",
-      "englishLiteral": "man",
-      "englishNatural": "And man",
-      "root": "ish",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "אַנְשֵׁי",
-      "transliteration": "anshei",
-      "englishLiteral": "men-of",
-      "englishNatural": "And the men of",
-      "root": "ish",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "אִישׁ",
-      "transliteration": "ish",
-      "englishLiteral": "man",
-      "englishNatural": "man",
-      "root": "ish",
-      "order": {
-        "hebrew": 10,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "אִישׁ",
-      "transliteration": "ish",
-      "englishLiteral": "man",
-      "englishNatural": "a man",
-      "root": "ish",
-      "order": {
-        "hebrew": 13,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "הָאִישׁ",
-      "transliteration": "haIsh",
-      "englishLiteral": "the-man",
-      "englishNatural": "the man",
-      "root": "ish",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 1
+    "psalms": {
+      "1": {
+        "1": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

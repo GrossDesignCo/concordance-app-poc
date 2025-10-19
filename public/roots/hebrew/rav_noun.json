@@ -9,36 +9,15 @@
   "related": [
     "rav"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "רַב",
-      "transliteration": "rav",
-      "englishLiteral": "chief",
-      "englishNatural": "And the chief",
-      "root": "rav_noun",
-      "order": {
-        "hebrew": 3,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 6
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "6": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

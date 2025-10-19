@@ -7,93 +7,22 @@
   "translatedFrom": [
     "Yohanan"
   ],
-  "wordInstances": [
-    {
-      "greek": "Ἰωάννου",
-      "transliteration": "Iōannou",
-      "englishLiteral": "He—is-Gracious (John)",
-      "englishNatural": "He—is-Gracious (John)",
-      "root": "ioannes",
-      "order": {
-        "greek": 11,
-        "english": 13
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "genitive",
-        "state": "anarthrous"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 15
-      }
-    },
-    {
-      "greek": "Ἰωάννου",
-      "transliteration": "Iōannou",
-      "englishLiteral": "He—is-Gracious (John)",
-      "englishNatural": "He—is-Gracious (John)",
-      "root": "ioannes",
-      "order": {
-        "greek": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "genitive",
-        "state": "anarthrous"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 16
-      }
-    },
-    {
-      "greek": "Ἰωάννου",
-      "transliteration": "Iōannou",
-      "englishLiteral": "He—is-Gracious (John)",
-      "englishNatural": "He—is-Gracious (John)",
-      "root": "ioannes",
-      "order": {
-        "greek": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "genitive",
-        "state": "anarthrous"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 17
+  "wordIndexes": {
+    "john": {
+      "21": {
+        "15": [
+          10
+        ],
+        "16": [
+          5
+        ],
+        "17": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": [
     "Yohanan"
   ]

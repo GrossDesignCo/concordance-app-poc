@@ -12,308 +12,50 @@
   "translatedTo": [
     "ophis"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "וְהַנָּחָשׁ",
-      "transliteration": "veHaNachash",
-      "englishLiteral": "And-the-snake",
-      "englishNatural": "And the snake",
-      "root": "nachash",
-      "prefixes": [
-        "ve",
-        "ha"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "1": [
+          0
+        ],
+        "2": [
+          3
+        ],
+        "4": [
+          1
+        ],
+        "13": [
+          9
+        ],
+        "14": [
+          4
+        ]
       }
     },
-    {
-      "hebrew": "הַנָּחָשׁ",
-      "transliteration": "hanachash",
-      "englishLiteral": "The-snake",
-      "englishNatural": "The snake",
-      "root": "nachash",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 13
+    "isaiah": {
+      "14": {
+        "29": [
+          10
+        ]
       }
     },
-    {
-      "hebrew": "הַנָּחָשׁ",
-      "transliteration": "haNachash",
-      "englishLiteral": "the-snake",
-      "englishNatural": "the snake",
-      "root": "nachash",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "הַנָּחָשׁ",
-      "transliteration": "haNachash",
-      "englishLiteral": "the-snake",
-      "englishNatural": "the snake",
-      "root": "nachash",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "הַנָּחָשׁ",
-      "transliteration": "haNachash",
-      "englishLiteral": "the-snake",
-      "englishNatural": "And the snake",
-      "root": "nachash",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "נָחָשׁ",
-      "transliteration": "nachash",
-      "englishLiteral": "snake",
-      "englishNatural": "of a snake",
-      "root": "nachash",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 14,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "הַנְּחָשִׁים",
-      "transliteration": "haNechashim",
-      "englishLiteral": "the-snakes",
-      "englishNatural": "the snakes",
-      "root": "nachash",
-      "prefixes": [
-        "ha"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "הַנָּחָשׁ",
-      "transliteration": "haNachash",
-      "englishLiteral": "the-snake",
-      "englishNatural": "the snake",
-      "root": "nachash",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 17,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\""
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "נְחַשׁ",
-      "transliteration": "nechash",
-      "englishLiteral": "snake",
-      "englishNatural": "snake",
-      "root": "nachash",
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "הַנָּחָשׁ",
-      "transliteration": "haNachash",
-      "englishLiteral": "the-snake",
-      "englishNatural": "the snake",
-      "root": "nachash",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "נְחַשׁ",
-      "transliteration": "nechash",
-      "englishLiteral": "snake",
-      "englishNatural": "snake",
-      "root": "nachash",
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
+    "numbers": {
+      "21": {
+        "6": [
+          4
+        ],
+        "7": [
+          16
+        ],
+        "9": [
+          2,
+          10,
+          15
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": [
     "ophis"
   ]

@@ -6,195 +6,36 @@
   "englishNatural": "eight",
   "type": "numeral",
   "description": "eight, the number eight",
-  "wordInstances": [
-    {
-      "hebrew": "וּשְׁמֹנֶה",
-      "transliteration": "uShmoneh",
-      "englishLiteral": "and-eight",
-      "englishNatural": "and eight",
-      "root": "shmoneh",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "וּשְׁמֹנֶה",
-      "transliteration": "uShmoneh",
-      "englishLiteral": "and-eight",
-      "englishNatural": "and eight",
-      "root": "shmoneh",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "וּשְׁמֹנֶה",
-      "transliteration": "uShmoneh",
-      "englishLiteral": "and-eight",
-      "englishNatural": "and eight",
-      "root": "shmoneh",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "וּשְׁמֹנֶה",
-      "transliteration": "uShmoneh",
-      "englishLiteral": "and-eight",
-      "englishNatural": "and eight",
-      "root": "shmoneh",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "שְׁמֹנֶה",
-      "transliteration": "shmoneh",
-      "englishLiteral": "eight",
-      "englishNatural": "eight",
-      "root": "shmoneh",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "וּשְׁמֹנֵה",
-      "transliteration": "uShmoneh",
-      "englishLiteral": "and-eight",
-      "englishNatural": "and eight",
-      "root": "shmoneh",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "שְׁמֹנֶה",
-      "transliteration": "shmoneh",
-      "englishLiteral": "eight",
-      "englishNatural": "eight",
-      "root": "shmoneh",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וּשְׁמֹנֶה",
-      "transliteration": "uShmoneh",
-      "englishLiteral": "and-eight",
-      "englishNatural": "and eight",
-      "root": "shmoneh",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 7
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "4": [
+          7
+        ],
+        "7": [
+          8
+        ],
+        "10": [
+          9
+        ],
+        "13": [
+          8
+        ],
+        "16": [
+          8
+        ],
+        "17": [
+          7
+        ],
+        "19": [
+          6
+        ],
+        "30": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

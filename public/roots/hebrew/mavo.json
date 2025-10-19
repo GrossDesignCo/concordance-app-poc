@@ -9,33 +9,15 @@
   "related": [
     "bo"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "מְבוֹא",
-      "transliteration": "mevo",
-      "englishLiteral": "incoming-of",
-      "englishNatural": "incoming of",
-      "root": "mavo",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 3
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "3": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

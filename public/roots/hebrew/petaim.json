@@ -9,39 +9,15 @@
   "related": [
     "peti"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "לַפְּתָאיִם",
-      "transliteration": "lapetaim",
-      "englishLiteral": "to-simple_men",
-      "englishNatural": "to simple men",
-      "root": "petaim",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 4
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "4": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

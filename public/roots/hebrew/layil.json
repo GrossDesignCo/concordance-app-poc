@@ -8,186 +8,38 @@
     "yom"
   ],
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "הַלָּ֑יְלָה",
-      "transliteration": "haLaylah",
-      "englishLiteral": "the-night",
-      "englishNatural": "the night",
-      "root": "layil",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 14
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "5": [
+          6
+        ],
+        "14": [
+          10
+        ],
+        "16": [
+          15
+        ],
+        "18": [
+          2
+        ]
       }
     },
-    {
-      "hebrew": "הַלַּ֔יְלָה",
-      "transliteration": "haLaylah",
-      "englishLiteral": "the-night",
-      "englishNatural": "the night",
-      "root": "layil",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 16
+    "jonah": {
+      "1": {
+        "17": [
+          14
+        ]
       }
     },
-    {
-      "hebrew": "וּבַלַּ֔יְלָה",
-      "transliteration": "uBaLaylah",
-      "englishLiteral": "and-in-the-night",
-      "englishNatural": "and in the night",
-      "root": "layil",
-      "prefixes": [
-        "u",
-        "be",
-        "ha"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "לָ֑יְלָה",
-      "transliteration": "laylah",
-      "englishLiteral": "Night",
-      "englishNatural": "Night",
-      "root": "layil",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "לֵילוֹת",
-      "transliteration": "leilot",
-      "englishLiteral": "nights",
-      "englishNatural": "nights",
-      "root": "layil",
-      "suffixes": [
-        "ot"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "וָלָיְלָה",
-      "transliteration": "vaLaylah",
-      "englishLiteral": "and-night",
-      "englishNatural": "and night",
-      "root": "layil",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 2
+    "psalms": {
+      "1": {
+        "2": [
+          8
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

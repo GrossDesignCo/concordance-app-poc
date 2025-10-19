@@ -5,214 +5,46 @@
   "englishLiteral": "way",
   "englishNatural": "way",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "דֶּרֶךְ",
-      "transliteration": "derekh",
-      "englishLiteral": "way",
-      "englishNatural": "the way",
-      "root": "derekh",
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 24
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "24": [
+          15
+        ]
       }
     },
-    {
-      "hebrew": "מִדַּרְכָּם",
-      "transliteration": "midarkam",
-      "englishLiteral": "from-way-their",
-      "englishNatural": "their way",
-      "root": "derekh",
-      "prefixes": [
-        "mi"
-      ],
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 10
+    "jonah": {
+      "3": {
+        "8": [
+          10
+        ],
+        "10": [
+          6
+        ]
       }
     },
-    {
-      "hebrew": "מִדַּרְכּוֹ",
-      "transliteration": "midarko",
-      "englishLiteral": "from-way-his",
-      "englishNatural": "his way",
-      "root": "derekh",
-      "prefixes": [
-        "mi"
-      ],
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 8
+    "proverbs": {
+      "8": {
+        "2": [
+          3
+        ],
+        "22": [
+          3
+        ]
       }
     },
-    {
-      "hebrew": "דָרֶךְ",
-      "transliteration": "derekh",
-      "englishLiteral": "way",
-      "englishNatural": "a way",
-      "root": "derekh",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "דַּרְכּוֹ",
-      "transliteration": "darko",
-      "englishLiteral": "way-his",
-      "englishNatural": "his way",
-      "root": "derekh",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "וּבְדֶרֶךְ",
-      "transliteration": "uvDerekh",
-      "englishLiteral": "and-in-way-of",
-      "englishNatural": "and in the way of",
-      "root": "derekh",
-      "prefixes": [
-        "u",
-        "be"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "דֶּרֶךְ",
-      "transliteration": "derekh",
-      "englishLiteral": "way-of",
-      "englishNatural": "the way of",
-      "root": "derekh",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "וְדֶרֶךְ",
-      "transliteration": "veDerekh",
-      "englishLiteral": "and-way-of",
-      "englishNatural": "and the way of",
-      "root": "derekh",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 6
+    "psalms": {
+      "1": {
+        "1": [
+          7
+        ],
+        "6": [
+          3,
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

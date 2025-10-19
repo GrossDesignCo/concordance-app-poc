@@ -9,42 +9,15 @@
   "related": [
     "qarav"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "הַכְּרֻבִים",
-      "transliteration": "haKeruvim",
-      "englishLiteral": "the-Approaching_Ones",
-      "englishNatural": "the Approaching-Ones",
-      "root": "keruv",
-      "prefixes": [
-        "ha"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 24
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "24": [
+          8
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

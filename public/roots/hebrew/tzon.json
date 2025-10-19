@@ -6,95 +6,25 @@
   "englishNatural": "flock",
   "type": "noun",
   "description": "flock, sheep, goats",
-  "wordInstances": [
-    {
-      "hebrew": "צֹאן",
-      "transliteration": "tzon",
-      "englishLiteral": "flock",
-      "englishNatural": "of flock",
-      "root": "tzon",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 2
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "2": [
+          9
+        ],
+        "4": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "צֹאנוֹ",
-      "transliteration": "tzono",
-      "englishLiteral": "his-flock",
-      "englishNatural": "his flock",
-      "root": "tzon",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וְהַצֹּאן",
-      "transliteration": "veHaTzon",
-      "englishLiteral": "and-the-flock",
-      "englishNatural": "and the flock",
-      "root": "tzon",
-      "prefixes": [
-        "ve",
-        "ha"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 7
+    "jonah": {
+      "3": {
+        "7": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

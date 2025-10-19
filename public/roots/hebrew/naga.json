@@ -5,121 +5,30 @@
   "englishLiteral": "to touch",
   "englishNatural": "to touch",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "תִגְּעוּ",
-      "transliteration": "tigu",
-      "englishLiteral": "you-shall-touch",
-      "englishNatural": "and you shall touch",
-      "root": "naga",
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "2nd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 3
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "3": [
+          13
+        ]
       }
     },
-    {
-      "hebrew": "וַיַּגַּע",
-      "transliteration": "vaYaGga",
-      "englishLiteral": "And-he-touched",
-      "englishNatural": "And he touched",
-      "root": "naga",
-      "prefixes": [
-        "va",
-        "ye"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "sequential_imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 7
+    "isaiah": {
+      "6": {
+        "7": [
+          0,
+          5
+        ]
       }
     },
-    {
-      "hebrew": "נָגַע",
-      "transliteration": "naga",
-      "englishLiteral": "has-touched",
-      "englishNatural": "has touched",
-      "root": "naga",
-      "order": {
-        "hebrew": 6,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "וַיִּגַּע",
-      "transliteration": "vaYiga",
-      "englishLiteral": "And-touched",
-      "englishNatural": "touched",
-      "root": "naga",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 6
+    "jonah": {
+      "3": {
+        "6": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

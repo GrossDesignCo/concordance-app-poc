@@ -9,36 +9,15 @@
   "related": [
     "Yaval"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "יוּבָל",
-      "transliteration": "Yuval",
-      "englishLiteral": "Music (Jubal)",
-      "englishNatural": "Music (Jubal)",
-      "root": "Yuval",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 21
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "21": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

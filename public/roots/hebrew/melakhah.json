@@ -5,115 +5,26 @@
   "englishLiteral": "work",
   "englishNatural": "work",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "מְלַאכְתּוֹ",
-      "transliteration": "melakhto",
-      "englishLiteral": "his-work",
-      "englishNatural": "his work",
-      "root": "melakhah",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 2
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "2": [
+          4,
+          11
+        ],
+        "3": [
+          11
+        ]
       }
     },
-    {
-      "hebrew": "מְלַאכְתּוֹ",
-      "transliteration": "melakhto",
-      "englishLiteral": "his-work",
-      "englishNatural": "his work",
-      "root": "melakhah",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "מְלַאכְתּוֹ",
-      "transliteration": "melakhto",
-      "englishLiteral": "his-work",
-      "englishNatural": "his work",
-      "root": "melakhah",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "מְּלַאכְתְּךָ",
-      "transliteration": "melakhtekha",
-      "englishLiteral": "work-your",
-      "englishNatural": "is your work",
-      "root": "melakhah",
-      "suffixes": [
-        "tekha"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "?",
-        "englishNatural": "?"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 8
+    "jonah": {
+      "1": {
+        "8": [
+          11
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

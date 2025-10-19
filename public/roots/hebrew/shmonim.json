@@ -9,83 +9,21 @@
   "related": [
     "shmoneh"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "וּשְׁמֹנִים",
-      "transliteration": "uShmonim",
-      "englishLiteral": "and-eighty",
-      "englishNatural": "and eighty",
-      "root": "shmonim",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "וּשְׁמֹנִים",
-      "transliteration": "uShmonim",
-      "englishLiteral": "and-eighty",
-      "englishNatural": "and eighty",
-      "root": "shmonim",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "וּשְׁמֹנִים",
-      "transliteration": "uShmonim",
-      "englishLiteral": "and-eighty",
-      "englishNatural": "and eighty",
-      "root": "shmonim",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 28
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "25": [
+          3
+        ],
+        "26": [
+          6
+        ],
+        "28": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

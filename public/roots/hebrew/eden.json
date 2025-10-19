@@ -6,144 +6,34 @@
   "englishNatural": "Delight (Eden)",
   "description": "Eden, garden of delight, paradise, luxury",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "מֵעֵדֶן",
-      "transliteration": "meEden",
-      "englishLiteral": "from-Delight (Eden)",
-      "englishNatural": "from Delight (Eden)",
-      "root": "eden",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "8": [
+          4
+        ],
+        "10": [
+          2
+        ],
+        "15": [
+          7
+        ]
       },
-      "morphology": {
-        "type": "noun"
+      "3": {
+        "23": [
+          4
+        ],
+        "24": [
+          6
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "עֵדֶן",
-      "transliteration": "Eden",
-      "englishLiteral": "Delight (Eden)",
-      "englishNatural": "Delight (Eden)",
-      "root": "eden",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "בְּעֵדֶן",
-      "transliteration": "beEden",
-      "englishLiteral": "in-Delight (Eden)",
-      "englishNatural": "in Delight (Eden)",
-      "root": "eden",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "עֵדֶן",
-      "transliteration": "Eden",
-      "englishLiteral": "Delight (Eden)",
-      "englishNatural": "of Delight (Eden)",
-      "root": "eden",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "עֵדֶן",
-      "transliteration": "Eden",
-      "englishLiteral": "Delight (Eden)",
-      "englishNatural": "of Delight (Eden)",
-      "root": "eden",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "עֵדֶן",
-      "transliteration": "Eden",
-      "englishLiteral": "Delight",
-      "englishNatural": "of Delight",
-      "root": "eden",
-      "order": {
-        "hebrew": 9,
-        "english": 10
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 16
+      "4": {
+        "16": [
+          8
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

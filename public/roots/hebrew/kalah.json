@@ -5,69 +5,18 @@
   "englishLiteral": "to finish",
   "englishNatural": "to finish",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיְכֻלּוּ",
-      "transliteration": "vaYechullu",
-      "englishLiteral": "And-were-finished",
-      "englishNatural": "And finished were",
-      "root": "kalah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וַיְכַל",
-      "transliteration": "vaYechal",
-      "englishLiteral": "And-finished",
-      "englishNatural": "finished",
-      "root": "kalah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 2
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "1": [
+          0
+        ],
+        "2": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

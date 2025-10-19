@@ -6,32 +6,15 @@
   "englishNatural": "tunic",
   "type": "noun",
   "description": "a long garment, tunic, robe, coat",
-  "wordInstances": [
-    {
-      "hebrew": "כָּתְנוֹת",
-      "transliteration": "kotnot",
-      "englishLiteral": "tunics",
-      "englishNatural": "tunics",
-      "root": "kuttonet",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 21
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "21": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

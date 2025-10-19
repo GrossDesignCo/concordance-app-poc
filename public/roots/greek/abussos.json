@@ -4,40 +4,15 @@
   "transliteration": "abussos",
   "englishLiteral": "abyss",
   "englishNatural": "abyss",
-  "wordInstances": [
-    {
-      "greek": "ἀβύσσου",
-      "transliteration": "abussou",
-      "englishLiteral": "abyss",
-      "englishNatural": "abyss",
-      "root": "abussos",
-      "order": {
-        "greek": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "case": "genitive",
-        "type": "noun",
-        "state": "definite"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ",",
-        "greek": ",",
-        "transliteration": ","
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 1
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "1": [
+          11
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

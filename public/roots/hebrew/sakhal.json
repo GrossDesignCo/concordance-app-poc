@@ -6,39 +6,15 @@
   "englishNatural": "be wise",
   "description": "to be wise, have insight, understand, prosper",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "לְהַשְׂכִּיל",
-      "transliteration": "leHashkil",
-      "englishLiteral": "to-make-wise",
-      "englishNatural": "to make wise",
-      "root": "sakhal",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 14
-      },
-      "morphology": {
-        "type": "verb",
-        "stem": "hiphil",
-        "tense": "infinitive_construct"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 6
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "6": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

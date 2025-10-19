@@ -6,46 +6,15 @@
   "englishNatural": "to lead",
   "type": "verb",
   "description": "to lead, guide, conduct gently",
-  "wordInstances": [
-    {
-      "hebrew": "יְנַהֲלֵנִי",
-      "transliteration": "yeNahaleni",
-      "englishLiteral": "he-leads-me",
-      "englishNatural": "he leads me",
-      "root": "nahal",
-      "prefixes": [
-        "ye"
-      ],
-      "suffixes": [
-        "ni"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "piel",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 2
+  "wordIndexes": {
+    "psalms": {
+      "23": {
+        "2": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

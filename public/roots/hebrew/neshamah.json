@@ -5,30 +5,15 @@
   "englishLiteral": "breath",
   "englishNatural": "breath",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "נִשְׁמַת",
-      "transliteration": "nishmat",
-      "englishLiteral": "breath-of",
-      "englishNatural": "the breath of",
-      "root": "neshamah",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 7
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "7": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

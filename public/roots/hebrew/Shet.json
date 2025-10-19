@@ -9,186 +9,35 @@
   "related": [
     "shit"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "שֵׁת",
-      "transliteration": "Shet",
-      "englishLiteral": "Appointed (Seth)",
-      "englishNatural": "Appointed (Seth)",
-      "root": "Shet",
-      "order": {
-        "hebrew": 11,
-        "english": 11
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "25": [
+          10
+        ],
+        "26": [
+          0
+        ]
       },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "וּלְשֵׁת",
-      "transliteration": "uleShet",
-      "englishLiteral": "and-to-Appointed (Seth)",
-      "englishNatural": "And to Appointed (Seth)",
-      "root": "Shet",
-      "prefixes": [
-        "u",
-        "le"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "שֵׁת",
-      "transliteration": "Shet",
-      "englishLiteral": "Appointed (Seth)",
-      "englishNatural": "Appointed (Seth)",
-      "root": "Shet",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "שֵׁת",
-      "transliteration": "Shet",
-      "englishLiteral": "Appointed (Seth)",
-      "englishNatural": "Appointed (Seth)",
-      "root": "Shet",
-      "order": {
-        "hebrew": 7,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "שֵׁת",
-      "transliteration": "Shet",
-      "englishLiteral": "Appointed (Seth)",
-      "englishNatural": "And Appointed (Seth)",
-      "root": "Shet",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "שֵׁת",
-      "transliteration": "Shet",
-      "englishLiteral": "Appointed (Seth)",
-      "englishNatural": "And Appointed (Seth)",
-      "root": "Shet",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "שֵׁת",
-      "transliteration": "Shet",
-      "englishLiteral": "Appointed (Seth)",
-      "englishNatural": "Appointed (Seth)",
-      "root": "Shet",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 8
+      "5": {
+        "3": [
+          11
+        ],
+        "4": [
+          6
+        ],
+        "6": [
+          1
+        ],
+        "7": [
+          1
+        ],
+        "8": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

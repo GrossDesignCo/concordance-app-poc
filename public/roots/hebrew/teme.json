@@ -5,55 +5,16 @@
   "englishLiteral": "unclean",
   "englishNatural": "unclean",
   "type": "adjective",
-  "wordInstances": [
-    {
-      "hebrew": "טְמֵא־",
-      "transliteration": "teme-",
-      "englishLiteral": "unclean-",
-      "englishNatural": "of unclean",
-      "root": "teme",
-      "morphology": {
-        "type": "adjective",
-        "state": "construct",
-        "number": "singular",
-        "gender": "masculine"
-      },
-      "order": {
-        "hebrew": 8,
-        "english": 9
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "טְמֵא",
-      "transliteration": "teme",
-      "englishLiteral": "unclean",
-      "englishNatural": "of unclean",
-      "root": "teme",
-      "morphology": {
-        "type": "adjective",
-        "state": "construct",
-        "number": "singular",
-        "gender": "masculine"
-      },
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "5": [
+          7,
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

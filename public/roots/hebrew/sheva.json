@@ -5,214 +5,35 @@
   "englishLiteral": "seven",
   "englishNatural": "seven",
   "type": "numeral",
-  "wordInstances": [
-    {
-      "hebrew": "שִׁבְעָתַיִם",
-      "transliteration": "shivatayim",
-      "englishLiteral": "sevenfold",
-      "englishNatural": "sevenfold",
-      "root": "sheva",
-      "suffixes": [
-        "ayim"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "15": [
+          7
+        ],
+        "24": [
+          1,
+          5,
+          6
+        ]
       },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "שִׁבְעָתַיִם",
-      "transliteration": "shivatayim",
-      "englishLiteral": "sevenfold",
-      "englishNatural": "sevenfold",
-      "root": "sheva",
-      "order": {
-        "hebrew": 2,
-        "english": 4
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "שִׁבְעִים",
-      "transliteration": "shivim",
-      "englishLiteral": "seventy",
-      "englishNatural": "seventy",
-      "root": "sheva",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "וְשִׁבְעָה",
-      "transliteration": "veShivah",
-      "englishLiteral": "and-seven",
-      "englishNatural": "and seven",
-      "root": "sheva",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "שֶׁבַע",
-      "transliteration": "sheva",
-      "englishLiteral": "seven",
-      "englishNatural": "seven",
-      "root": "sheva",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "וּשְׁבַע",
-      "transliteration": "uSheva",
-      "englishLiteral": "and-seven",
-      "englishNatural": "and seven",
-      "root": "sheva",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "שֶׁבַע",
-      "transliteration": "sheva",
-      "englishLiteral": "seven",
-      "englishNatural": "seven",
-      "root": "sheva",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "וּשְׁבַע",
-      "transliteration": "uSheva",
-      "englishLiteral": "and-seven",
-      "englishNatural": "and seven",
-      "root": "sheva",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "שֶׁבַע",
-      "transliteration": "sheva",
-      "englishLiteral": "seven",
-      "englishNatural": "seven",
-      "root": "sheva",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 7
+      "5": {
+        "7": [
+          6
+        ],
+        "25": [
+          2
+        ],
+        "26": [
+          8
+        ],
+        "31": [
+          4,
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

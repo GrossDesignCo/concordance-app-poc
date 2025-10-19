@@ -9,42 +9,15 @@
   "related": [
     "nagad"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "הַגִּידָה־",
-      "transliteration": "hagidah-",
-      "englishLiteral": "Tell-",
-      "englishNatural": "Tell",
-      "root": "hagidah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperative",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 8
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "8": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

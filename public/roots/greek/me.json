@@ -4,111 +4,22 @@
   "transliteration": "me",
   "englishLiteral": "me",
   "englishNatural": "me",
-  "wordInstances": [
-    {
-      "greek": "με",
-      "transliteration": "me",
-      "englishLiteral": "me",
-      "englishNatural": "me",
-      "root": "me",
-      "order": {
-        "greek": 13,
-        "english": 15
-      },
-      "morphology": {
-        "type": "pronoun",
-        "person": "1st",
-        "number": "singular",
-        "case": "accusative"
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 15
-      }
-    },
-    {
-      "greek": "με",
-      "transliteration": "me",
-      "englishLiteral": "me",
-      "englishNatural": "me",
-      "root": "me",
-      "order": {
-        "greek": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "pronoun",
-        "person": "1st",
-        "number": "singular",
-        "case": "accusative"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "?\"",
-        "englishNatural": "?\""
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 16
-      }
-    },
-    {
-      "greek": "με",
-      "transliteration": "me",
-      "englishLiteral": "me",
-      "englishNatural": "me",
-      "root": "me",
-      "order": {
-        "greek": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "pronoun",
-        "person": "1st",
-        "number": "singular",
-        "case": "accusative"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "?\"",
-        "englishNatural": "?\""
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 17
-      }
-    },
-    {
-      "greek": "με",
-      "transliteration": "me",
-      "englishLiteral": "me",
-      "englishNatural": "me",
-      "root": "me",
-      "order": {
-        "greek": 18,
-        "english": 18
-      },
-      "morphology": {
-        "type": "pronoun",
-        "person": "1st",
-        "number": "singular",
-        "case": "accusative"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "?\"",
-        "englishNatural": "?\""
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 17
+  "wordIndexes": {
+    "john": {
+      "21": {
+        "15": [
+          12
+        ],
+        "16": [
+          7
+        ],
+        "17": [
+          7,
+          17
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

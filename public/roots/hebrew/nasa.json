@@ -5,120 +5,32 @@
   "englishLiteral": "to lift_up",
   "englishNatural": "to lift-up",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "נֹשֵׂא",
-      "transliteration": "nose",
-      "englishLiteral": "lifting_up",
-      "englishNatural": "lifting-up",
-      "root": "nasa",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "tense": "participle",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "7": [
+          3
+        ]
       }
     },
-    {
-      "hebrew": "מִנְּשֹׂא",
-      "transliteration": "minso",
-      "englishLiteral": "from-lifting_up",
-      "englishNatural": "from lifting-up",
-      "root": "nasa",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "tense": "infinitive_construct",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 13
+    "genesis": {
+      "4": {
+        "7": [
+          3
+        ],
+        "13": [
+          6
+        ]
       }
     },
-    {
-      "hebrew": "שְׂאֵת",
-      "transliteration": "set",
-      "englishLiteral": "lifting_up",
-      "englishNatural": "lifting-up",
-      "root": "nasa",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "?",
-        "englishNatural": "?"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "וְנִשָּׂא",
-      "transliteration": "veNisa",
-      "englishLiteral": "and-lifted_up",
-      "englishNatural": "and lifted-up",
-      "root": "nasa",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "tense": "participle",
-        "stem": "niphal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 1
+    "isaiah": {
+      "6": {
+        "1": [
+          11
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

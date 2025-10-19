@@ -9,60 +9,18 @@
   "related": [
     "binah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "לְהָבִין",
-      "transliteration": "lehavin",
-      "englishLiteral": "To-understand",
-      "englishNatural": "To understand",
-      "root": "bin",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "tense": "infinitive_construct",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "לְהָבִין",
-      "transliteration": "lehavin",
-      "englishLiteral": "To-understand",
-      "englishNatural": "To understand",
-      "root": "bin",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "tense": "infinitive_construct",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 6
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "2": [
+          3
+        ],
+        "6": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

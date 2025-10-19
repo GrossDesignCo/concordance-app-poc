@@ -8,75 +8,29 @@
     "mut"
   ],
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "מוֹת",
-      "transliteration": "mot",
-      "englishLiteral": "death",
-      "englishNatural": "death",
-      "root": "mavet",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 17
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "17": [
+          11
+        ]
       }
     },
-    {
-      "hebrew": "מוֹת",
-      "transliteration": "mot",
-      "englishLiteral": "death-of",
-      "englishNatural": "the death of",
-      "root": "mavet",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 1
+    "isaiah": {
+      "6": {
+        "1": [
+          1
+        ]
       }
     },
-    {
-      "hebrew": "מָוֶת",
-      "transliteration": "mavet",
-      "englishLiteral": "of-death",
-      "englishNatural": "of death",
-      "root": "mavet",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 1
+    "proverbs": {
+      "22": {
+        "1": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

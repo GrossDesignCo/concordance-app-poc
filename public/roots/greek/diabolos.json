@@ -4,34 +4,15 @@
   "transliteration": "diabolos",
   "englishLiteral": "Accuser",
   "englishNatural": "Accuser",
-  "wordInstances": [
-    {
-      "greek": "Διάβολος",
-      "transliteration": "Diabolos",
-      "englishLiteral": "Accuser",
-      "englishNatural": "Accuser",
-      "root": "diabolos",
-      "order": {
-        "greek": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "case": "nominative",
-        "type": "noun",
-        "state": "anarthrous"
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 2
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "2": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

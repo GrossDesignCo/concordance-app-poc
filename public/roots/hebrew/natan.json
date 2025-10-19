@@ -5,270 +5,58 @@
   "englishLiteral": "to give",
   "englishNatural": "to give",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיִּתֵּ֥ן",
-      "transliteration": "vaYiten",
-      "englishLiteral": "And-put",
-      "englishNatural": "put",
-      "root": "natan",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "17": [
+          0
+        ],
+        "29": [
+          3
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
+      "3": {
+        "6": [
+          16
+        ],
+        "12": [
+          4,
+          7
+        ]
       },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 17
+      "4": {
+        "12": [
+          6
+        ]
       }
     },
-    {
-      "hebrew": "נָתַ֨תִּי",
-      "transliteration": "natati",
-      "englishLiteral": "I-give",
-      "englishNatural": "I give",
-      "root": "natan",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "1st",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
+    "jonah": {
+      "1": {
+        "3": [
+          12
+        ]
       }
     },
-    {
-      "hebrew": "נָתַתָּה",
-      "transliteration": "natata",
-      "englishLiteral": "you-gave",
-      "englishNatural": "you gave",
-      "root": "natan",
-      "suffixes": [
-        "ta"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
+    "proverbs": {
+      "1": {
+        "4": [
+          0
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 12
+      "8": {
+        "1": [
+          4
+        ]
       }
     },
-    {
-      "hebrew": "נָתְנָה־",
-      "transliteration": "natnah-",
-      "englishLiteral": "she-gave-",
-      "englishNatural": "gave",
-      "root": "natan",
-      "suffixes": [
-        "nah"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "וַתִּתֵּן",
-      "transliteration": "vatiten",
-      "englishLiteral": "and-gave",
-      "englishNatural": "and gave",
-      "root": "natan",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 17,
-        "english": 18
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "תֵּת־",
-      "transliteration": "tet-",
-      "englishLiteral": "give-",
-      "englishNatural": "to give",
-      "root": "natan",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "tense": "infinitive_construct",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "וַיִּתֵּן",
-      "transliteration": "vaYitten",
-      "englishLiteral": "and-gave",
-      "englishNatural": "and he paid",
-      "root": "natan",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "לָתֵת",
-      "transliteration": "latet",
-      "englishLiteral": "To-give",
-      "englishNatural": "To give",
-      "root": "natan",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "tense": "infinitive_construct",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "תִּתֵּן",
-      "transliteration": "titten",
-      "englishLiteral": "will-give",
-      "englishNatural": "give",
-      "root": "natan",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "יִתֵּן",
-      "transliteration": "yiten",
-      "englishLiteral": "it-gives",
-      "englishNatural": "gives",
-      "root": "natan",
-      "prefixes": [
-        "yi"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 3
+    "psalms": {
+      "1": {
+        "3": [
+          8
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

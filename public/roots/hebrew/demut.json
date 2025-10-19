@@ -5,99 +5,23 @@
   "englishLiteral": "likeness",
   "englishNatural": "likeness",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "כִּדְמוּתֵ֑נוּ",
-      "transliteration": "kiDmuteinu",
-      "englishLiteral": "as-our-likeness",
-      "englishNatural": "as our likeness",
-      "root": "demut",
-      "prefixes": [
-        "ki"
-      ],
-      "suffixes": [
-        "einu"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "26": [
+          5
+        ]
       },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "בִּדְמוּת",
-      "transliteration": "biDemut",
-      "englishLiteral": "in-likeness-of",
-      "englishNatural": "in likeness of",
-      "root": "demut",
-      "prefixes": [
-        "bi"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "feminine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "בִּדְמוּתוֹ",
-      "transliteration": "biDemuto",
-      "englishLiteral": "in-likeness-his",
-      "englishNatural": "in his likeness",
-      "root": "demut",
-      "prefixes": [
-        "bi"
-      ],
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "feminine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 3
+      "5": {
+        "1": [
+          8
+        ],
+        "3": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

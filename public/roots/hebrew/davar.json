@@ -6,163 +6,38 @@
   "englishNatural": "word",
   "type": "noun",
   "description": "word, matter, thing, speech",
-  "wordInstances": [
-    {
-      "hebrew": "דְבַר־",
-      "transliteration": "devar-",
-      "englishLiteral": "word-of",
-      "englishNatural": "And the word of",
-      "root": "davar",
-      "order": {
-        "hebrew": 2,
-        "english": 1
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "1": [
+          1
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
+      "3": {
+        "1": [
+          1
+        ],
+        "3": [
+          5
+        ],
+        "6": [
+          1
+        ]
       },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 1
+      "4": {
+        "2": [
+          8
+        ]
       }
     },
-    {
-      "hebrew": "דְבַר־",
-      "transliteration": "devar-",
-      "englishLiteral": "word-of",
-      "englishNatural": "And the word of",
-      "root": "davar",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "כִּדְבַר",
-      "transliteration": "kidvar",
-      "englishLiteral": "according-to-word-of",
-      "englishNatural": "according to the word of",
-      "root": "davar",
-      "prefixes": [
-        "ki"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "הַדָּבָר",
-      "transliteration": "haDavar",
-      "englishLiteral": "the-word",
-      "englishNatural": "And the word",
-      "root": "davar",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "דְבָרִי",
-      "transliteration": "devari",
-      "englishLiteral": "word-my",
-      "englishNatural": "my word",
-      "root": "davar",
-      "suffixes": [
-        "i_possessive"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "דִּבְרֵי",
-      "transliteration": "divre",
-      "englishLiteral": "words-of",
-      "englishNatural": "words of",
-      "root": "davar",
-      "suffixes": [
-        "i"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 6
+    "proverbs": {
+      "1": {
+        "6": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

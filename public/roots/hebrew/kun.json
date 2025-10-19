@@ -6,41 +6,15 @@
   "englishNatural": "to establish",
   "type": "verb",
   "description": "to establish, set up, prepare, make firm, be ready",
-  "wordInstances": [
-    {
-      "hebrew": "בַּהֲכִינוֹ",
-      "transliteration": "baHakhino",
-      "englishLiteral": "In-establishing-his",
-      "englishNatural": "In his establishing",
-      "root": "kun",
-      "prefixes": [
-        "ba",
-        "ha"
-      ],
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 27
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "27": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

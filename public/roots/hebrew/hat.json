@@ -6,35 +6,15 @@
   "englishNatural": "flame",
   "type": "noun",
   "description": "flame, blaze, flashing fire",
-  "wordInstances": [
-    {
-      "hebrew": "לַהַט",
-      "transliteration": "laHat",
-      "englishLiteral": "flame",
-      "englishNatural": "the Flame of",
-      "root": "hat",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 24
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "24": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

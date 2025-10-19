@@ -6,88 +6,21 @@
   "englishNatural": "discipline",
   "type": "noun",
   "description": "discipline, correction, chastening, instruction",
-  "wordInstances": [
-    {
-      "hebrew": "וּמוּסָר",
-      "transliteration": "umusar",
-      "englishLiteral": "and-Discipline",
-      "englishNatural": "and Discipline",
-      "root": "musar",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "מוּסַר",
-      "transliteration": "musar",
-      "englishLiteral": "discipline",
-      "englishNatural": "discipline",
-      "root": "musar",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וּמוּסָר",
-      "transliteration": "uMusar",
-      "englishLiteral": "and-discipline",
-      "englishNatural": "and discipline",
-      "root": "musar",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 7
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "2": [
+          2
+        ],
+        "3": [
+          1
+        ],
+        "7": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

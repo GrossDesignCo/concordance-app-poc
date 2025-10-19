@@ -6,256 +6,46 @@
   "englishNatural": "to stand-up",
   "type": "verb",
   "description": "to arise, stand up, establish, endure",
-  "wordInstances": [
-    {
-      "hebrew": "וַיָּקָם",
-      "transliteration": "vayYaqam",
-      "englishLiteral": "and-he-stood_up",
-      "englishNatural": "stood-up",
-      "root": "qum",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 8
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "8": [
+          8
+        ]
       }
     },
-    {
-      "hebrew": "קוּם",
-      "transliteration": "qum",
-      "englishLiteral": "Stand_up",
-      "englishNatural": "Stand-up",
-      "root": "qum",
-      "order": {
-        "hebrew": 1,
-        "english": 1
+    "jonah": {
+      "1": {
+        "2": [
+          0
+        ],
+        "3": [
+          0
+        ],
+        "6": [
+          9
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperative",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 2
+      "3": {
+        "2": [
+          0
+        ],
+        "3": [
+          0
+        ],
+        "6": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "וַיָּקָם",
-      "transliteration": "vaYaqam",
-      "englishLiteral": "And-stood_up",
-      "englishNatural": "stood-up",
-      "root": "qum",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "קוּם",
-      "transliteration": "qum",
-      "englishLiteral": "Stand_up",
-      "englishNatural": "Stand-up",
-      "root": "qum",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperative",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "קוּם",
-      "transliteration": "qum",
-      "englishLiteral": "Stand_up",
-      "englishNatural": "Stand-up",
-      "root": "qum",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "type": "verb",
-        "tense": "imperative",
-        "stem": "qal"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "וַיָּקָם",
-      "transliteration": "vaYaqam",
-      "englishLiteral": "And-stood_up",
-      "englishNatural": "stood-up",
-      "root": "qum",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וַיָּקָם",
-      "transliteration": "vaYaqam",
-      "englishLiteral": "and-stood_up",
-      "englishNatural": "and he stood-up",
-      "root": "qum",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "יָקֻמוּ",
-      "transliteration": "yaqumu",
-      "englishLiteral": "they-will-stand_up",
-      "englishNatural": "will stand-up",
-      "root": "qum",
-      "prefixes": [
-        "ya"
-      ],
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 5
+    "psalms": {
+      "1": {
+        "5": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

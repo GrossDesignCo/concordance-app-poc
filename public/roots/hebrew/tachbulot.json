@@ -6,35 +6,15 @@
   "englishNatural": "wise-counsels",
   "type": "noun",
   "description": "wise counsels, guidance, steersmanship, direction",
-  "wordInstances": [
-    {
-      "hebrew": "תַּחְבֻּלוֹת",
-      "transliteration": "tachbulot",
-      "englishLiteral": "wise_counsels",
-      "englishNatural": "wise-counsels",
-      "root": "tachbulot",
-      "order": {
-        "hebrew": 6,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 5
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "5": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

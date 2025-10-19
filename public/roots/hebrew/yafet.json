@@ -6,38 +6,15 @@
   "englishNatural": "Spacious (Japheth)",
   "type": "noun",
   "description": "proper name, Japheth, meaning \"expansion\" or \"spaciousness\"",
-  "wordInstances": [
-    {
-      "hebrew": "יָפֶת",
-      "transliteration": "Yafet",
-      "englishLiteral": "Spacious (Japheth)",
-      "englishNatural": "Spacious (Japheth)",
-      "root": "yafet",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "noun",
-        "state": "absolute"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 32
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "32": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

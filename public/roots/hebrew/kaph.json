@@ -6,44 +6,15 @@
   "englishNatural": "palm",
   "type": "noun",
   "description": "palm of hand, hand, sole of foot",
-  "wordInstances": [
-    {
-      "hebrew": "בְּכַפֵּיהֶם",
-      "transliteration": "beKappeihem",
-      "englishLiteral": "in-palms-their",
-      "englishNatural": "in their hands",
-      "root": "kaph",
-      "prefixes": [
-        "be"
-      ],
-      "suffixes": [
-        "ey",
-        "hem"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 8
+  "wordIndexes": {
+    "jonah": {
+      "3": {
+        "8": [
+          15
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,35 +6,15 @@
   "englishNatural": "thistle",
   "type": "noun",
   "description": "thorny plant, thistle, bramble",
-  "wordInstances": [
-    {
-      "hebrew": "וְדַרְדַּר",
-      "transliteration": "veDardar",
-      "englishLiteral": "and-thistle",
-      "englishNatural": "and thistle",
-      "root": "dardar",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 18
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "18": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

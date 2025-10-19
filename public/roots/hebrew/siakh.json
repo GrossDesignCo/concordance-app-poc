@@ -5,30 +5,15 @@
   "englishLiteral": "shrub",
   "englishNatural": "shrub",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "שִׂיחַ",
-      "transliteration": "siakh",
-      "englishLiteral": "shrub",
-      "englishNatural": "shrub",
-      "root": "siakh",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 5
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "5": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

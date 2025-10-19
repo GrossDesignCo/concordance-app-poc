@@ -4,35 +4,15 @@
   "transliteration": "deo",
   "englishLiteral": "bind",
   "englishNatural": "bind",
-  "wordInstances": [
-    {
-      "greek": "ἔδησεν",
-      "transliteration": "edēsen",
-      "englishLiteral": "he-bound",
-      "englishNatural": "he bound",
-      "root": "deo",
-      "order": {
-        "greek": 16,
-        "english": 16
-      },
-      "morphology": {
-        "number": "singular",
-        "person": "3rd",
-        "tense": "aorist",
-        "voice": "active",
-        "mood": "indicative",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 2
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "2": [
+          15
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

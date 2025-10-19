@@ -6,71 +6,18 @@
   "englishNatural": "to conceive",
   "type": "verb",
   "description": "to conceive, become pregnant",
-  "wordInstances": [
-    {
-      "hebrew": "וַתַּהַר",
-      "transliteration": "vatTahar",
-      "englishLiteral": "and-she-conceived",
-      "englishNatural": "and she conceived",
-      "root": "harah",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "ta"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וַתַּהַר",
-      "transliteration": "vatTahar",
-      "englishLiteral": "and-she-conceived",
-      "englishNatural": "and she conceived",
-      "root": "harah",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "ta"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "1": [
+          5
+        ],
+        "17": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -11,2005 +11,225 @@
   "translatedTo": [
     "eimi"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "וַֽיְהִי־",
-      "transliteration": "vaVayhi-",
-      "englishLiteral": "And-was-",
-      "englishNatural": "And it was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 19,
-        "english": 19
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי־",
-      "transliteration": "vaVayhi-",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי־",
-      "transliteration": "vaVayhi-",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "יְהִ֤י",
-      "transliteration": "yehi",
-      "englishLiteral": "Let-be",
-      "englishNatural": "Let there be",
-      "root": "hayah",
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "וְהָי֤וּ",
-      "transliteration": "veHayu",
-      "englishLiteral": "And-they-will-be",
-      "englishNatural": "And they will be",
-      "root": "hayah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "וְהָי֤וּ",
-      "transliteration": "veHayu",
-      "englishLiteral": "And-they-will-be",
-      "englishNatural": "And they will be",
-      "root": "hayah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי־",
-      "transliteration": "vaVayhi-",
-      "englishLiteral": "And-was-",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי־",
-      "transliteration": "vaVayhi-",
-      "englishLiteral": "And-was-",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "הָיְתָ֥ה",
-      "transliteration": "haytah",
-      "englishLiteral": "was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי־",
-      "transliteration": "vaVayhi-",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי־",
-      "transliteration": "vaVayhi-",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "יִֽהְיֶ֖ה",
-      "transliteration": "yihyeh",
-      "englishLiteral": "it-shall-be",
-      "englishNatural": "it shall be",
-      "root": "hayah",
-      "order": {
-        "hebrew": 26,
-        "english": 26
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "יְהִ֣י",
-      "transliteration": "yehi",
-      "englishLiteral": "Let-be",
-      "englishNatural": "be",
-      "root": "hayah",
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "jussive",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\""
-      },
-      "grammarSuffix": {
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי־",
-      "transliteration": "vaVayhi-",
-      "englishLiteral": "And-was",
-      "englishNatural": "And it was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 20,
-        "english": 20
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "יְהִי",
-      "transliteration": "yehi",
-      "englishLiteral": "Let-be",
-      "englishNatural": "be",
-      "root": "hayah",
-      "prefixes": [
-        "ye"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "jussive",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "וִיהִי",
-      "transliteration": "vihi",
-      "englishLiteral": "and-let-be",
-      "englishNatural": "and let it be",
-      "root": "hayah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "jussive",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי־",
-      "transliteration": "vaVayhi-",
-      "englishLiteral": "And-was-",
-      "englishNatural": "And it was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "וַֽיְהִי־",
-      "transliteration": "vaVayhi-",
-      "englishLiteral": "And-was-",
-      "englishNatural": "And it was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "וְהָיָה",
-      "transliteration": "veHayah",
-      "englishLiteral": "and-was",
-      "englishNatural": "and became",
-      "root": "hayah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "הֱיוֹת",
-      "transliteration": "heyot",
-      "englishLiteral": "to-be",
-      "englishNatural": "to be",
-      "root": "hayah",
-      "order": {
-        "hebrew": 6,
-        "english": 7
-      },
-      "morphology": {
-        "type": "verb",
-        "stem": "qal",
-        "tense": "infinitive_construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "וְהָיוּ",
-      "transliteration": "veHayu",
-      "englishLiteral": "and-will-be",
-      "englishNatural": "and will become",
-      "root": "hayah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "וַיִּהְיוּ",
-      "transliteration": "vaYihyu",
-      "englishLiteral": "And-they-were",
-      "englishNatural": "were",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "יִהְיֶה",
-      "transliteration": "yihyeh",
-      "englishLiteral": "will-be",
-      "englishNatural": "was",
-      "root": "hayah",
-      "order": {
-        "hebrew": 5,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "and-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "הָיָה",
-      "transliteration": "hayah",
-      "englishLiteral": "was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "הָיְתָה",
-      "transliteration": "hayetah",
-      "englishLiteral": "was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "הָיָה",
-      "transliteration": "hayah",
-      "englishLiteral": "has-become",
-      "englishNatural": "has become",
-      "root": "hayah",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "וִהְיִיתֶם",
-      "transliteration": "viHyiytem",
-      "englishLiteral": "and-you_all-will-be",
-      "englishNatural": "and you-all will be",
-      "root": "hayah",
-      "prefixes": [
-        "ve"
-      ],
-      "suffixes": [
-        "tem"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "2nd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "תִּהְיֶה",
-      "transliteration": "tihyeh",
-      "englishLiteral": "you-will-be",
-      "englishNatural": "you will be",
-      "root": "hayah",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "וְהָיִיתִי",
-      "transliteration": "veHayiti",
-      "englishLiteral": "and-I-will-be",
-      "englishNatural": "and I will be",
-      "root": "hayah",
-      "prefixes": [
-        "ve"
-      ],
-      "suffixes": [
-        "ti"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "1st",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "וְהָיָה",
-      "transliteration": "vehayah",
-      "englishLiteral": "and-it-will-be",
-      "englishNatural": "and it will be",
-      "root": "hayah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vayHi",
-      "englishLiteral": "and-he-was",
-      "englishNatural": "and he was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "וַיְהִי־",
-      "transliteration": "vayHi-",
-      "englishLiteral": "And-he-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "הָיָה",
-      "transliteration": "hayah",
-      "englishLiteral": "was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "הָיָה",
-      "transliteration": "hayah",
-      "englishLiteral": "was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "stem": "qal",
-        "tense": "perfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "הָיָה",
-      "transliteration": "hayah",
-      "englishLiteral": "was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "stem": "qal",
-        "tense": "perfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vayHi",
-      "englishLiteral": "And-it-was",
-      "englishNatural": "And it was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vayHi",
-      "englishLiteral": "And-it-was",
-      "englishNatural": "and it was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "בִּהְיוֹתָם",
-      "transliteration": "biHyotam",
-      "englishLiteral": "in-their-being",
-      "englishNatural": "in their being",
-      "root": "hayah",
-      "prefixes": [
-        "be"
-      ],
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "number": "plural",
-        "person": "3rd",
-        "tense": "infinitive_construct",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "וַיִּהְיוּ",
-      "transliteration": "vaYihyu",
-      "englishLiteral": "and-were",
-      "englishNatural": "were",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 4
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "plural",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "וַיִּהְיוּ",
-      "transliteration": "vaYihyu",
-      "englishLiteral": "and-were",
-      "englishNatural": "were",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 4
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "plural",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "וַיִּהְיוּ",
-      "transliteration": "vaYihyu",
-      "englishLiteral": "and-were",
-      "englishNatural": "were",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 4
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "plural",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "וַיִּהְיוּ",
-      "transliteration": "vaYihyu",
-      "englishLiteral": "and-were",
-      "englishNatural": "were",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 4
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "plural",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "and-were",
-      "englishNatural": "were",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 4
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "plural",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "and-was",
-      "englishNatural": "he was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 5
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "and-was",
-      "englishNatural": "were",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 5
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "And-was",
-      "englishNatural": "were",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "וַיִּהְיוּ",
-      "transliteration": "vaYihyu",
-      "englishLiteral": "and-were",
-      "englishNatural": "were",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 7
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "plural",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וַיִּהְיוּ",
-      "transliteration": "vaYihyu",
-      "englishLiteral": "and-were",
-      "englishNatural": "were",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 6
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "plural",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וַיִּהְיוּ",
-      "transliteration": "vaYihyu",
-      "englishLiteral": "and-were",
-      "englishNatural": "were",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 4
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "plural",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vayHi",
-      "englishLiteral": "And-it-was",
-      "englishNatural": "And it was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וְהָיוּ",
-      "transliteration": "veHayu",
-      "englishLiteral": "and-they-will-be",
-      "englishNatural": "will be",
-      "root": "hayah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "הָיוּ",
-      "transliteration": "hayu",
-      "englishLiteral": "were",
-      "englishNatural": "were",
-      "root": "hayah",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "and-was",
-      "englishNatural": "and there was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וַיְהִי",
-      "transliteration": "vaYehi",
-      "englishLiteral": "And-was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "הָיְתָה",
-      "transliteration": "haytah",
-      "englishLiteral": "was",
-      "englishNatural": "was",
-      "root": "hayah",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "הֱיוֹתִי",
-      "transliteration": "heyoti",
-      "englishLiteral": "being-my",
-      "englishNatural": "I was",
-      "root": "hayah",
-      "suffixes": [
-        "i_possessive"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "number": "singular",
-        "person": "1st",
-        "tense": "infinitive_construct",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "יִּהְיֶה",
-      "transliteration": "yihyeh",
-      "englishLiteral": "will-be",
-      "englishNatural": "will be",
-      "root": "hayah",
-      "order": {
-        "hebrew": 19,
-        "english": 19
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וְהָיָה",
-      "transliteration": "veHayah",
-      "englishLiteral": "and-it-will-be",
-      "englishNatural": "and it shall come about",
-      "root": "hayah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "וְהָיָה",
-      "transliteration": "veHayah",
-      "englishLiteral": "and-it-was",
-      "englishNatural": "and it came about",
-      "root": "hayah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "וְהָיָה",
-      "transliteration": "veHayah",
-      "englishLiteral": "And-he-will-be",
-      "englishNatural": "And he will be",
-      "root": "hayah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 3
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "2": [
+          1
+        ],
+        "3": [
+          2,
+          4
+        ],
+        "5": [
+          7,
+          9
+        ],
+        "6": [
+          2,
+          6
+        ],
+        "7": [
+          15
+        ],
+        "8": [
+          4,
+          6
+        ],
+        "9": [
+          11
+        ],
+        "11": [
+          18
+        ],
+        "13": [
+          0,
+          2
+        ],
+        "14": [
+          2,
+          11
+        ],
+        "15": [
+          0
+        ],
+        "19": [
+          0,
+          2
+        ],
+        "23": [
+          0,
+          2
+        ],
+        "29": [
+          25
+        ],
+        "30": [
+          19
+        ],
+        "31": [
+          9,
+          11
+        ]
+      },
+      "2": {
+        "5": [
+          4
+        ],
+        "7": [
+          12
+        ],
+        "10": [
+          8
+        ],
+        "18": [
+          5
+        ],
+        "24": [
+          10
+        ],
+        "25": [
+          0
+        ]
+      },
+      "3": {
+        "1": [
+          1
+        ],
+        "5": [
+          9
+        ],
+        "20": [
+          7
+        ],
+        "22": [
+          5
+        ]
+      },
+      "4": {
+        "2": [
+          6,
+          11
+        ],
+        "3": [
+          0
+        ],
+        "8": [
+          5,
+          6
+        ],
+        "12": [
+          11
+        ],
+        "14": [
+          9,
+          13
+        ],
+        "17": [
+          8
+        ],
+        "20": [
+          5
+        ],
+        "21": [
+          4
+        ]
+      },
+      "5": {
+        "4": [
+          0
+        ],
+        "5": [
+          0
+        ],
+        "8": [
+          0
+        ],
+        "11": [
+          0
+        ],
+        "14": [
+          0
+        ],
+        "17": [
+          0
+        ],
+        "20": [
+          0
+        ],
+        "23": [
+          0
+        ],
+        "26": [
+          0
+        ],
+        "27": [
+          0
+        ],
+        "31": [
+          0
+        ]
+      },
+      "6": {
+        "1": [
+          0
+        ],
+        "3": [
+          10
+        ],
+        "4": [
+          1
+        ]
+      }
+    },
+    "jonah": {
+      "1": {
+        "1": [
+          0
+        ],
+        "4": [
+          6
+        ],
+        "17": [
+          7
+        ]
+      },
+      "3": {
+        "1": [
+          0
+        ],
+        "3": [
+          8
+        ]
+      },
+      "4": {
+        "2": [
+          10
+        ],
+        "5": [
+          18
+        ]
+      }
+    },
+    "numbers": {
+      "21": {
+        "8": [
+          11
+        ],
+        "9": [
+          7
+        ]
+      }
+    },
+    "psalms": {
+      "1": {
+        "3": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": [
     "eimi"
   ]

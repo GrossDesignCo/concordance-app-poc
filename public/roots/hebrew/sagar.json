@@ -5,38 +5,15 @@
   "englishLiteral": "to close",
   "englishNatural": "to close",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיִּסְגֹּר",
-      "transliteration": "vaYisgor",
-      "englishLiteral": "and-closed-up",
-      "englishNatural": "and closed up",
-      "root": "sagar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 21
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "21": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -8,84 +8,19 @@
     "sherets"
   ],
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "יִשְׁרְצ֣וּ",
-      "transliteration": "yiShretsu",
-      "englishLiteral": "Let-swarm",
-      "englishNatural": "swarm with",
-      "root": "sharats",
-      "prefixes": [
-        "yi"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "שֶׁ֖רֶץ",
-      "transliteration": "sherets",
-      "englishLiteral": "swarm",
-      "englishNatural": "a swarm",
-      "root": "sharats",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "שָׁרְצ֨וּ",
-      "transliteration": "sharTsu",
-      "englishLiteral": "swarmed",
-      "englishNatural": "swarmed",
-      "root": "sharats",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "20": [
+          2,
+          4
+        ],
+        "21": [
+          11
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

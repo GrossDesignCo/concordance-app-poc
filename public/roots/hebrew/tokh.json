@@ -6,128 +6,35 @@
   "englishNatural": "midst",
   "description": "the middle, the center, the midst, the midst of",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "בְּתוֹךְ",
-      "transliteration": "beTokh",
-      "englishLiteral": "in-midst-of",
-      "englishNatural": "in the midst of",
-      "root": "tokh",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "6": [
+          4
+        ]
       },
-      "morphology": {
-        "type": "preposition"
+      "2": {
+        "9": [
+          12
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 6
+      "3": {
+        "3": [
+          5
+        ],
+        "8": [
+          15
+        ]
       }
     },
-    {
-      "hebrew": "בְּתוֹךְ",
-      "transliteration": "beTokh",
-      "englishLiteral": "in-midst",
-      "englishNatural": "in the midst of",
-      "root": "tokh",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "בְּתוֹךְ",
-      "transliteration": "betokh",
-      "englishLiteral": "in-midst-of",
-      "englishNatural": "is in the midst of",
-      "root": "tokh",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "בְּתוֹךְ",
-      "transliteration": "betokh",
-      "englishLiteral": "in-midst-of",
-      "englishNatural": "in the midst of",
-      "root": "tokh",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "וּבְתוֹךְ",
-      "transliteration": "uVeTokh",
-      "englishLiteral": "and-in-midst-of",
-      "englishNatural": "and in the midst of",
-      "root": "tokh",
-      "morphology": {
-        "type": "noun",
-        "state": "construct",
-        "number": "singular",
-        "gender": "masculine"
-      },
-      "prefixes": [
-        "u",
-        "be"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
+    "isaiah": {
+      "6": {
+        "5": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

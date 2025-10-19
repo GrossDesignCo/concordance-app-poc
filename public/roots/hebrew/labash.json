@@ -6,75 +6,22 @@
   "englishNatural": "to clothe",
   "type": "verb",
   "description": "to put on clothing, to dress, to clothe someone",
-  "wordInstances": [
-    {
-      "hebrew": "וַיַּלְבִּשֵׁם׃",
-      "transliteration": "vayYaLbishem",
-      "englishLiteral": "and-he-clothed-them",
-      "englishNatural": "and clothed them",
-      "root": "labash",
-      "prefixes": [
-        "va",
-        "yi"
-      ],
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 21
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "21": [
+          7
+        ]
       }
     },
-    {
-      "hebrew": "וַיִּלְבְּשׁוּ",
-      "transliteration": "vaYilbeshu",
-      "englishLiteral": "and-clothed",
-      "englishNatural": "and clothed",
-      "root": "labash",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 5
+    "jonah": {
+      "3": {
+        "5": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -8,68 +8,20 @@
     "or"
   ],
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "לְאֹתֹ֔ת",
-      "transliteration": "leOtot",
-      "englishLiteral": "for-signs",
-      "englishNatural": "for signs",
-      "root": "ot",
-      "prefixes": [
-        "le"
-      ],
-      "suffixes": [
-        "ot"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 14
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "14": [
+          12
+        ]
       },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "אוֹת",
-      "transliteration": "ot",
-      "englishLiteral": "sign",
-      "englishNatural": "a sign",
-      "root": "ot",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
+      "4": {
+        "15": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

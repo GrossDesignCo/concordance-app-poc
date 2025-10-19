@@ -5,175 +5,50 @@
   "englishLiteral": "if",
   "englishNatural": "if",
   "type": "conjunction",
-  "wordInstances": [
-    {
-      "hebrew": "אִם־",
-      "transliteration": "im-",
-      "englishLiteral": "if-",
-      "englishNatural": "if",
-      "root": "im",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 7
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "7": [
+          1,
+          4
+        ]
       }
     },
-    {
-      "hebrew": "וְאִם",
-      "transliteration": "veim",
-      "englishLiteral": "And-if",
-      "englishNatural": "And if",
-      "root": "im",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 7
+    "numbers": {
+      "21": {
+        "9": [
+          8
+        ]
       }
     },
-    {
-      "hebrew": "אִם",
-      "transliteration": "im",
-      "englishLiteral": "if",
-      "englishNatural": "if",
-      "root": "im",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
+    "proverbs": {
+      "22": {
+        "2": [
+          4
+        ]
       }
     },
-    {
-      "hebrew": "עִם",
-      "transliteration": "im",
-      "englishLiteral": "with",
-      "englishNatural": "with",
-      "root": "im",
-      "order": {
-        "hebrew": 5,
-        "english": 5
+    "psalms": {
+      "1": {
+        "2": [
+          1
+        ],
+        "4": [
+          4
+        ]
       },
-      "morphology": {
-        "type": "preposition"
+      "23": {
+        "4": [
+          10
+        ]
       },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אִם",
-      "transliteration": "im",
-      "englishLiteral": "if",
-      "englishNatural": "if",
-      "root": "im",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אִם",
-      "transliteration": "im",
-      "englishLiteral": "if",
-      "englishNatural": "if",
-      "root": "im",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "אִם־",
-      "transliteration": "im-",
-      "englishLiteral": "if-",
-      "englishNatural": "If",
-      "root": "im",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "עִמָּדִי",
-      "transliteration": "imadi",
-      "englishLiteral": "with-me",
-      "englishNatural": "are with me",
-      "root": "im",
-      "suffixes": [
-        "i"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 4
+      "131": {
+        "2": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

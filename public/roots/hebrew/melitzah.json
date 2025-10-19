@@ -6,39 +6,15 @@
   "englishNatural": "interpretation",
   "type": "noun",
   "description": "interpretation, figure of speech, eloquent speech",
-  "wordInstances": [
-    {
-      "hebrew": "וּמְלִיצָה",
-      "transliteration": "uMelitzah",
-      "englishLiteral": "and-interpretation",
-      "englishNatural": "and the interpretation",
-      "root": "melitzah",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 6
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "6": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

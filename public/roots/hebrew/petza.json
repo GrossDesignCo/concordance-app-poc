@@ -6,43 +6,15 @@
   "englishNatural": "wound",
   "type": "noun",
   "description": "wound, bruise, injury",
-  "wordInstances": [
-    {
-      "hebrew": "לְפִצְעִי",
-      "transliteration": "leFitzi",
-      "englishLiteral": "to-wound-my",
-      "englishNatural": "to my wound",
-      "root": "petza",
-      "prefixes": [
-        "le"
-      ],
-      "suffixes": [
-        "i"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 23
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "23": [
+          14
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

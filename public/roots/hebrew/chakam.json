@@ -9,56 +9,18 @@
   "related": [
     "chokmah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "חָכָם",
-      "transliteration": "chakam",
-      "englishLiteral": "wise-man",
-      "englishNatural": "A wise man",
-      "root": "chakam",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "חֲכָמִים",
-      "transliteration": "chachamim",
-      "englishLiteral": "wise-men",
-      "englishNatural": "wise men",
-      "root": "chakam",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 6
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "5": [
+          1
+        ],
+        "6": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,68 +6,18 @@
   "englishNatural": "righteous",
   "type": "adjective",
   "description": "righteous, just, innocent, lawful",
-  "wordInstances": [
-    {
-      "hebrew": "צַדִּיקִים",
-      "transliteration": "tzadiqim",
-      "englishLiteral": "righteous-ones",
-      "englishNatural": "the righteous",
-      "root": "tzadiq",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "צַדִּיקִים",
-      "transliteration": "tzadiqim",
-      "englishLiteral": "righteous-ones",
-      "englishNatural": "the righteous",
-      "root": "tzadiq",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 6
+  "wordIndexes": {
+    "psalms": {
+      "1": {
+        "5": [
+          8
+        ],
+        "6": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

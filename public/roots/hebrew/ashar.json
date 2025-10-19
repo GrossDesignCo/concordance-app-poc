@@ -8,53 +8,22 @@
     "rash"
   ],
   "type": "adjective",
-  "wordInstances": [
-    {
-      "hebrew": "עָשִׁיר",
-      "transliteration": "ashir",
-      "englishLiteral": "Rich",
-      "englishNatural": "Rich",
-      "root": "ashar",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "adjective"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 2
+  "wordIndexes": {
+    "proverbs": {
+      "22": {
+        "2": [
+          0
+        ]
       }
     },
-    {
-      "hebrew": "אַשְׁרֵי",
-      "transliteration": "ashrei",
-      "englishLiteral": "Blessed-is",
-      "englishNatural": "Blessed is",
-      "root": "ashar",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "interjection"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 1
+    "psalms": {
+      "1": {
+        "1": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -5,144 +5,31 @@
   "englishLiteral": "to multiply",
   "englishNatural": "to multiply",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וּרְב֗וּ",
-      "transliteration": "uReVu",
-      "englishLiteral": "and-multiply",
-      "englishNatural": "and multiply",
-      "root": "ravah",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "22": [
+          5,
+          11
+        ],
+        "28": [
+          7
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "2nd",
-        "tense": "imperative",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 22
+      "6": {
+        "1": [
+          4
+        ]
       }
     },
-    {
-      "hebrew": "יִ֥רֶב",
-      "transliteration": "yiRev",
-      "englishLiteral": "let-multiply",
-      "englishNatural": "multiply",
-      "root": "ravah",
-      "prefixes": [
-        "yi"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "וּרְב֛וּ",
-      "transliteration": "uRevu",
-      "englishLiteral": "and-multiply",
-      "englishNatural": "and multiply",
-      "root": "ravah",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "2nd",
-        "tense": "imperative",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 28
-      }
-    },
-    {
-      "hebrew": "לָרֹב",
-      "transliteration": "laRov",
-      "englishLiteral": "to-multiply",
-      "englishNatural": "to multiply",
-      "root": "ravah",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "tense": "infinitive_construct",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "רְוָיָה",
-      "transliteration": "revayah",
-      "englishLiteral": "overflowing",
-      "englishNatural": "overflowing",
-      "root": "ravah",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "tense": "participle",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 5
+    "psalms": {
+      "23": {
+        "5": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

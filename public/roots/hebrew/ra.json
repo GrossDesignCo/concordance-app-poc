@@ -9,349 +9,67 @@
     "tov"
   ],
   "type": "adjective",
-  "wordInstances": [
-    {
-      "hebrew": "וָרָע",
-      "transliteration": "vaRa",
-      "englishLiteral": "and-bad",
-      "englishNatural": "and Bad",
-      "root": "ra",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "9": [
+          17
+        ],
+        "17": [
+          3
+        ]
       },
-      "morphology": {
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 17
+      "3": {
+        "5": [
+          13
+        ],
+        "22": [
+          10
+        ]
       }
     },
-    {
-      "hebrew": "וָרָע׃",
-      "transliteration": "vaRa",
-      "englishLiteral": "and-bad",
-      "englishNatural": "and Bad",
-      "root": "ra",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 18,
-        "english": 18
+    "jonah": {
+      "1": {
+        "7": [
+          9
+        ],
+        "8": [
+          7
+        ]
       },
-      "morphology": {
-        "type": "adjective"
+      "3": {
+        "8": [
+          11
+        ],
+        "10": [
+          7,
+          11
+        ]
       },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 9
+      "4": {
+        "1": [
+          3
+        ],
+        "2": [
+          31
+        ]
       }
     },
-    {
-      "hebrew": "וָרָע",
-      "transliteration": "vaRa",
-      "englishLiteral": "and-bad",
-      "englishNatural": "and bad",
-      "root": "ra",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 22
+    "proverbs": {
+      "22": {
+        "3": [
+          2
+        ]
       }
     },
-    {
-      "hebrew": "וָרָע׃",
-      "transliteration": "vaRa",
-      "englishLiteral": "and-bad",
-      "englishNatural": "and bad",
-      "root": "ra",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "הָרָעָה",
-      "transliteration": "haRaah",
-      "englishLiteral": "the-bad",
-      "englishNatural": "this bad",
-      "root": "ra",
-      "prefixes": [
-        "ha"
-      ],
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "הָרָעָה",
-      "transliteration": "haRaah",
-      "englishLiteral": "the-bad",
-      "englishNatural": "the bad",
-      "root": "ra",
-      "prefixes": [
-        "ha"
-      ],
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "הָרָעָה",
-      "transliteration": "haRaah",
-      "englishLiteral": "the-bad",
-      "englishNatural": "from the bad of",
-      "root": "ra",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "הָרָעָה",
-      "transliteration": "haRaah",
-      "englishLiteral": "the-bad",
-      "englishNatural": "the bad",
-      "root": "ra",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "הָרָעָה",
-      "transliteration": "haRaah",
-      "englishLiteral": "the-bad",
-      "englishNatural": "from the bad of",
-      "root": "ra",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "רָעָה",
-      "transliteration": "raah",
-      "englishLiteral": "bad",
-      "englishNatural": "bad",
-      "root": "ra",
-      "order": {
-        "hebrew": 4,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "הָרָעָה",
-      "transliteration": "haRaah",
-      "englishLiteral": "the-bad",
-      "englishNatural": "the bad",
-      "root": "ra",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 32,
-        "english": 32
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "רָעָה",
-      "transliteration": "ra`ah",
-      "englishLiteral": "bad",
-      "englishNatural": "bad",
-      "root": "ra",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "רָע",
-      "transliteration": "ra",
-      "englishLiteral": "bad",
-      "englishNatural": "bad",
-      "root": "ra",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 4
+    "psalms": {
+      "23": {
+        "4": [
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

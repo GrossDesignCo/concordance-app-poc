@@ -4,34 +4,15 @@
   "transliteration": "kleis",
   "englishLiteral": "key",
   "englishNatural": "key",
-  "wordInstances": [
-    {
-      "greek": "κλεῖν",
-      "transliteration": "klein",
-      "englishLiteral": "key",
-      "englishNatural": "key",
-      "root": "kleis",
-      "order": {
-        "greek": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "case": "accusative",
-        "type": "noun",
-        "state": "definite"
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 1
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "1": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,68 +6,20 @@
   "englishNatural": "bowels",
   "type": "noun",
   "description": "bowels, belly, intestines, inward parts",
-  "wordInstances": [
-    {
-      "hebrew": "בִּמְעֵי",
-      "transliteration": "bimei",
-      "englishLiteral": "in-bowels-of",
-      "englishNatural": "in the bowels of",
-      "root": "meah_bowels",
-      "prefixes": [
-        "bi"
-      ],
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "17": [
+          9
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "מִמְּעֵי",
-      "transliteration": "mimei",
-      "englishLiteral": "from-bowels-of",
-      "englishNatural": "from the bowels of",
-      "root": "meah_bowels",
-      "prefixes": [
-        "mi"
-      ],
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 2,
-        "verse": 1
+      "2": {
+        "1": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

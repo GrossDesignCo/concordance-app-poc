@@ -9,35 +9,15 @@
   "related": [
     "rum"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "גָבַהּ",
-      "transliteration": "gavah",
-      "englishLiteral": "is-tall",
-      "englishNatural": "is tall",
-      "root": "gavah",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 1
+  "wordIndexes": {
+    "psalms": {
+      "131": {
+        "1": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

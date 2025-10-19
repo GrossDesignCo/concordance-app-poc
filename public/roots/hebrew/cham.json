@@ -6,34 +6,15 @@
   "englishNatural": "Hot (Ham)",
   "type": "noun",
   "description": "proper name, Ham, meaning \"hot\" or \"warm\"",
-  "wordInstances": [
-    {
-      "hebrew": "חָם",
-      "transliteration": "Cham",
-      "englishLiteral": "Hot (Ham)",
-      "englishNatural": "Hot (Ham)",
-      "root": "cham",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "noun",
-        "state": "absolute"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 32
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "32": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

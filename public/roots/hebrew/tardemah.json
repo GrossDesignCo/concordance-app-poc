@@ -8,32 +8,15 @@
   "related": [
     "radam"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "תַּרְדֵּמָה",
-      "transliteration": "tardemah",
-      "englishLiteral": "deep_trance",
-      "englishNatural": "caused a deep-trance",
-      "root": "tardemah",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 21
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "21": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

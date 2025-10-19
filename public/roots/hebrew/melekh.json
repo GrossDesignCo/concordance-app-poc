@@ -5,135 +5,35 @@
   "englishLiteral": "king",
   "englishNatural": "king",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "הַמֶּלֶךְ",
-      "transliteration": "haMelekh",
-      "englishLiteral": "the-king",
-      "englishNatural": "the king",
-      "root": "melekh",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 1
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "1": [
+          2
+        ],
+        "5": [
+          18
+        ]
       }
     },
-    {
-      "hebrew": "הַמֶּלֶךְ",
-      "transliteration": "haMelekh",
-      "englishLiteral": "the-king",
-      "englishNatural": "the King",
-      "root": "melekh",
-      "morphology": {
-        "type": "noun",
-        "state": "absolute",
-        "number": "singular",
-        "gender": "masculine"
-      },
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 19,
-        "english": 21
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
+    "jonah": {
+      "3": {
+        "6": [
+          3
+        ],
+        "7": [
+          4
+        ]
       }
     },
-    {
-      "hebrew": "מֶלֶךְ",
-      "transliteration": "melekh",
-      "englishLiteral": "king-of",
-      "englishNatural": "the king of",
-      "root": "melekh",
-      "order": {
-        "hebrew": 4,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "הַמֶּלֶךְ",
-      "transliteration": "haMelekh",
-      "englishLiteral": "the-king",
-      "englishNatural": "the king",
-      "root": "melekh",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "מֶלֶךְ",
-      "transliteration": "melekh",
-      "englishLiteral": "king of",
-      "englishNatural": "king of",
-      "root": "melekh",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 1
+    "proverbs": {
+      "1": {
+        "1": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

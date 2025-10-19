@@ -6,32 +6,15 @@
   "englishNatural": "live-coal",
   "description": "a glowing stone, heated to the point of glowing hot",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "רִצְפָּה",
-      "transliteration": "ritzpah",
-      "englishLiteral": "live_coal",
-      "englishNatural": "a live-coal",
-      "root": "ritzpah",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 6
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "6": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

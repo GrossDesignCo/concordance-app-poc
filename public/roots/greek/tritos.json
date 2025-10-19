@@ -4,65 +4,16 @@
   "transliteration": "tritos",
   "englishLiteral": "third",
   "englishNatural": "third",
-  "wordInstances": [
-    {
-      "greek": "τρίτον",
-      "transliteration": "triton",
-      "englishLiteral": "third",
-      "englishNatural": "third time",
-      "root": "tritos",
-      "order": {
-        "greek": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "adjective",
-        "gender": "neuter",
-        "number": "singular",
-        "case": "accusative",
-        "degree": "positive"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 17
-      }
-    },
-    {
-      "greek": "τρίτον",
-      "transliteration": "triton",
-      "englishLiteral": "third",
-      "englishNatural": "third time",
-      "root": "tritos",
-      "order": {
-        "greek": 16,
-        "english": 16
-      },
-      "morphology": {
-        "type": "adjective",
-        "gender": "neuter",
-        "number": "singular",
-        "case": "accusative",
-        "degree": "positive"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 17
+  "wordIndexes": {
+    "john": {
+      "21": {
+        "17": [
+          3,
+          15
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

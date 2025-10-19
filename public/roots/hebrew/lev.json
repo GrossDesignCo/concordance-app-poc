@@ -9,39 +9,15 @@
   "related": [
     "levav"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "לִבִּי",
-      "transliteration": "libi",
-      "englishLiteral": "my-heart",
-      "englishNatural": "my heart",
-      "root": "lev",
-      "suffixes": [
-        "i"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "1st",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 1
+  "wordIndexes": {
+    "psalms": {
+      "131": {
+        "1": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

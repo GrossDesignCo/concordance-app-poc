@@ -6,39 +6,15 @@
   "englishNatural": "shadow",
   "type": "noun",
   "description": "shadow, shade, protection",
-  "wordInstances": [
-    {
-      "hebrew": "בַּצֵּל",
-      "transliteration": "baTzel",
-      "englishLiteral": "in-the-shadow",
-      "englishNatural": "in the shadow",
-      "root": "tzel",
-      "prefixes": [
-        "ba"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 5
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "5": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

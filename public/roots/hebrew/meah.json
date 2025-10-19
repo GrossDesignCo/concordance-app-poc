@@ -6,587 +6,89 @@
   "englishNatural": "hundred",
   "type": "numeral",
   "description": "hundred, the number one hundred",
-  "wordInstances": [
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 11,
-        "english": 11
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "3": [
+          3
+        ],
+        "4": [
+          8
+        ],
+        "5": [
+          7
+        ],
+        "6": [
+          4
+        ],
+        "7": [
+          9
+        ],
+        "8": [
+          8
+        ],
+        "10": [
+          10
+        ],
+        "11": [
+          7
+        ],
+        "13": [
+          9
+        ],
+        "14": [
+          7
+        ],
+        "16": [
+          9
+        ],
+        "17": [
+          8
+        ],
+        "18": [
+          5
+        ],
+        "19": [
+          7
+        ],
+        "20": [
+          8
+        ],
+        "22": [
+          9
+        ],
+        "23": [
+          8
+        ],
+        "25": [
+          5
+        ],
+        "26": [
+          9
+        ],
+        "27": [
+          8
+        ],
+        "28": [
+          5
+        ],
+        "30": [
+          10
+        ],
+        "31": [
+          8
+        ],
+        "32": [
+          3
+        ]
       },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "וּמְאַת",
-      "transliteration": "uMeat",
-      "englishLiteral": "and-hundred-of",
-      "englishNatural": "and a hundred",
-      "root": "meah",
-      "prefixes": [
-        "u",
-        "me"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "וּמְאַת",
-      "transliteration": "uMeat",
-      "englishLiteral": "and-hundred",
-      "englishNatural": "and a hundred",
-      "root": "meah",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "וּמְאַת",
-      "transliteration": "uMeat",
-      "englishLiteral": "and-hundred",
-      "englishNatural": "and a hundred",
-      "root": "meah",
-      "prefixes": [
-        "u",
-        "me"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 28
-      }
-    },
-    {
-      "hebrew": "וּמְאַת",
-      "transliteration": "uMeat",
-      "englishLiteral": "and-hundred",
-      "englishNatural": "and a hundred",
-      "root": "meah",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "numeral",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "numeral",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "numeral",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 32
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וּמְאַת",
-      "transliteration": "uMeat",
-      "englishLiteral": "and-hundred-of",
-      "englishNatural": "and a hundred",
-      "root": "meah",
-      "prefixes": [
-        "u",
-        "me"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "מֵאוֹת",
-      "transliteration": "meot",
-      "englishLiteral": "hundreds",
-      "englishNatural": "hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "מֵאָה",
-      "transliteration": "meah",
-      "englishLiteral": "hundred",
-      "englishNatural": "a hundred",
-      "root": "meah",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 3
+      "6": {
+        "3": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

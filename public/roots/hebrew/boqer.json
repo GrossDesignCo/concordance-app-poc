@@ -5,175 +5,30 @@
   "englishLiteral": "morning",
   "englishNatural": "morning",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "בֹ֖קֶר",
-      "transliteration": "boqer",
-      "englishLiteral": "morning",
-      "englishNatural": "And morning",
-      "root": "boqer",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ""
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "בֹ֖קֶר",
-      "transliteration": "boqer",
-      "englishLiteral": "morning",
-      "englishNatural": "And morning",
-      "root": "boqer",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "בֹ֖קֶר",
-      "transliteration": "boqer",
-      "englishLiteral": "morning",
-      "englishNatural": "And morning",
-      "root": "boqer",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "בֹ֖קֶר",
-      "transliteration": "boqer",
-      "englishLiteral": "morning",
-      "englishNatural": "And morning",
-      "root": "boqer",
-      "order": {
-        "hebrew": 13,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "בֹ֖קֶר",
-      "transliteration": "voqer",
-      "englishLiteral": "morning",
-      "englishNatural": "And morning",
-      "root": "boqer",
-      "order": {
-        "hebrew": 11,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "בֹ֖קֶר",
-      "transliteration": "voqer",
-      "englishLiteral": "morning",
-      "englishNatural": "And morning",
-      "root": "boqer",
-      "order": {
-        "hebrew": 8,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ""
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 8
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "5": [
+          10
+        ],
+        "8": [
+          7
+        ],
+        "13": [
+          3
+        ],
+        "19": [
+          3
+        ],
+        "23": [
+          3
+        ],
+        "31": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

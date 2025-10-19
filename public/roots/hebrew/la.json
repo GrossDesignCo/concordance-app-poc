@@ -6,134 +6,31 @@
   "englishNatural": "to",
   "description": "preposition - to, for, in order to",
   "type": "preposition",
-  "wordInstances": [
-    {
-      "hebrew": "לְךָ",
-      "transliteration": "lekha",
-      "englishLiteral": "to-you",
-      "englishNatural": "to you",
-      "root": "la",
-      "suffixes": [
-        "kha"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 11
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "7": [
+          11
+        ],
+        "9": [
+          6
+        ],
+        "11": [
+          3
+        ],
+        "18": [
+          3
+        ]
       }
     },
-    {
-      "hebrew": "לָךְ",
-      "transliteration": "lakh",
-      "englishLiteral": "to-you",
-      "englishNatural": "to you",
-      "root": "la",
-      "suffixes": [
-        "ekh"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "לָהֶם",
-      "transliteration": "lahem",
-      "englishLiteral": "to-them",
-      "englishNatural": "for themselves",
-      "root": "la",
-      "suffixes": [
-        "hem"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "לוֹ",
-      "transliteration": "lo",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "la",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "לָהֶם",
-      "transliteration": "lahem",
-      "englishLiteral": "to-them",
-      "englishNatural": "to them",
-      "root": "la",
-      "suffixes": [
-        "hem"
-      ],
-      "order": {
-        "hebrew": 20,
-        "english": 20
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
+    "jonah": {
+      "1": {
+        "10": [
+          19
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

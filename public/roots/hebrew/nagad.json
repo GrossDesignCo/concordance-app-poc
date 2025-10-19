@@ -6,59 +6,22 @@
   "englishNatural": "to declare",
   "type": "verb",
   "description": "to tell publicly, declare, report, make known",
-  "wordInstances": [
-    {
-      "hebrew": "הִגִּיד",
-      "transliteration": "higid",
-      "englishLiteral": "declared",
-      "englishNatural": "declared",
-      "root": "nagad",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 11
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "11": [
+          2
+        ]
       }
     },
-    {
-      "hebrew": "הִגִּיד",
-      "transliteration": "higid",
-      "englishLiteral": "he-said",
-      "englishNatural": "he had said",
-      "root": "nagad",
-      "order": {
-        "hebrew": 19,
-        "english": 19
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
+    "jonah": {
+      "1": {
+        "10": [
+          18
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

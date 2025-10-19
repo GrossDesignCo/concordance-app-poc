@@ -9,30 +9,15 @@
   "related": [
     "mi"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "לְמִי־",
-      "transliteration": "lemi-",
-      "englishLiteral": "for-who-",
-      "englishNatural": "for who",
-      "root": "lemi",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 8
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "8": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

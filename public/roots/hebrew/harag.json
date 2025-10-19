@@ -6,157 +6,27 @@
   "englishNatural": "to kill",
   "type": "verb",
   "description": "to kill, slay, murder, destroy",
-  "wordInstances": [
-    {
-      "hebrew": "יַהַרְגֵנִי",
-      "transliteration": "yahargeini",
-      "englishLiteral": "will-kill-me",
-      "englishNatural": "will kill me",
-      "root": "harag",
-      "suffixes": [
-        "ni"
-      ],
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "הֹרֵג",
-      "transliteration": "horeg",
-      "englishLiteral": "killing",
-      "englishNatural": "killing",
-      "root": "harag",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "tense": "participle",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "הָרַגְתִּי",
-      "transliteration": "haragti",
-      "englishLiteral": "I-have-killed",
-      "englishNatural": "I have killed",
-      "root": "harag",
-      "order": {
-        "hebrew": 14,
-        "english": 13
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "1st",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "perfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "הֲרָגוֹ",
-      "transliteration": "harago",
-      "englishLiteral": "killed-him",
-      "englishNatural": "killed him",
-      "root": "harag",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 21,
-        "english": 22
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "perfect"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "וַיַּהַרְגֵהוּ",
-      "transliteration": "vayYahargehu",
-      "englishLiteral": "and-he-killed-him",
-      "englishNatural": "and killed him",
-      "root": "harag",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "hu"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 8
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "8": [
+          13
+        ],
+        "14": [
+          16
+        ],
+        "15": [
+          5
+        ],
+        "23": [
+          13
+        ],
+        "25": [
+          20
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

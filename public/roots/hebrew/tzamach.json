@@ -6,96 +6,23 @@
   "englishNatural": "to grow",
   "type": "verb",
   "description": "to grow, sprout, bring forth, cause to grow",
-  "wordInstances": [
-    {
-      "hebrew": "יִצְמָח",
-      "transliteration": "yitzmach",
-      "englishLiteral": "will-grow",
-      "englishNatural": "grown",
-      "root": "tzamach",
-      "order": {
-        "hebrew": 11,
-        "english": 11
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "5": [
+          10
+        ],
+        "9": [
+          0
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וַיַּצְמַח",
-      "transliteration": "vaYatzmach",
-      "englishLiteral": "And-grew",
-      "englishNatural": "grew",
-      "root": "tzamach",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "תַּצְמִיחַ",
-      "transliteration": "tatzmich",
-      "englishLiteral": "it-will-grow",
-      "englishNatural": "it will grow",
-      "root": "tzamach",
-      "prefixes": [
-        "ta"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 18
+      "3": {
+        "18": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

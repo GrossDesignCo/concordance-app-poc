@@ -5,42 +5,15 @@
   "englishLiteral": "eye",
   "englishNatural": "eye",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "עֵינָי",
-      "transliteration": "einai",
-      "englishLiteral": "my-eyes",
-      "englishNatural": "my eyes",
-      "root": "ayin_eye",
-      "morphology": {
-        "type": "noun",
-        "state": "construct",
-        "number": "dual",
-        "gender": "feminine"
-      },
-      "suffixes": [
-        "ai"
-      ],
-      "order": {
-        "hebrew": 23,
-        "english": 18
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\""
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "5": [
+          22
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

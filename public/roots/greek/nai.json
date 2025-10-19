@@ -4,65 +4,18 @@
   "transliteration": "nai",
   "englishLiteral": "yes",
   "englishNatural": "yes",
-  "wordInstances": [
-    {
-      "greek": "ναί",
-      "transliteration": "nai",
-      "englishLiteral": "Yes",
-      "englishNatural": "Yes",
-      "root": "nai",
-      "order": {
-        "greek": 18,
-        "english": 20
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 15
-      }
-    },
-    {
-      "greek": "ναί",
-      "transliteration": "nai",
-      "englishLiteral": "Yes",
-      "englishNatural": "Yes",
-      "root": "nai",
-      "order": {
-        "greek": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 16
+  "wordIndexes": {
+    "john": {
+      "21": {
+        "15": [
+          17
+        ],
+        "16": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

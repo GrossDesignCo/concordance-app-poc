@@ -9,240 +9,41 @@
   "related": [
     "qiryah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "עִיר",
-      "transliteration": "ir",
-      "englishLiteral": "city",
-      "englishNatural": "a city",
-      "root": "ir",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "17": [
+          10,
+          13
+        ]
       }
     },
-    {
-      "hebrew": "הָעִיר",
-      "transliteration": "haIr",
-      "englishLiteral": "the-city",
-      "englishNatural": "the city",
-      "root": "ir",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
+    "jonah": {
+      "1": {
+        "2": [
+          4
+        ]
       },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
+      "3": {
+        "2": [
+          4
+        ],
+        "3": [
+          9
+        ],
+        "4": [
+          3
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "הָעִיר",
-      "transliteration": "haIr",
-      "englishLiteral": "the-city",
-      "englishNatural": "the city",
-      "root": "ir",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "הָעִיר",
-      "transliteration": "haIr",
-      "englishLiteral": "the-city",
-      "englishNatural": "The City",
-      "root": "ir",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "עִיר־",
-      "transliteration": "ir-",
-      "englishLiteral": "city-",
-      "englishNatural": "a city",
-      "root": "ir",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "בָעִיר",
-      "transliteration": "baIr",
-      "englishLiteral": "in-the-city",
-      "englishNatural": "into the city",
-      "root": "ir",
-      "prefixes": [
-        "ba"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "הָעִיר",
-      "transliteration": "haIr",
-      "englishLiteral": "the-city",
-      "englishNatural": "the city",
-      "root": "ir",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "לָעִיר",
-      "transliteration": "laIr",
-      "englishLiteral": "to-the-city",
-      "englishNatural": "to the city",
-      "root": "ir",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "בָּעִיר",
-      "transliteration": "baIr",
-      "englishLiteral": "in-the-city",
-      "englishNatural": "in the city",
-      "root": "ir",
-      "prefixes": [
-        "ba"
-      ],
-      "order": {
-        "hebrew": 20,
-        "english": 20
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 5
+      "4": {
+        "5": [
+          3,
+          6,
+          19
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

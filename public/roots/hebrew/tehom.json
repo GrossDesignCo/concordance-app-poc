@@ -5,92 +5,25 @@
   "englishLiteral": "deep",
   "englishNatural": "deep",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "תְהֹ֑ום",
-      "transliteration": "tehom",
-      "englishLiteral": "deep",
-      "englishNatural": "the deep",
-      "root": "tehom",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "transliteration": ".",
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 2
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "2": [
+          6
+        ]
       }
     },
-    {
-      "hebrew": "תְּהֹמוֹת",
-      "transliteration": "tehomot",
-      "englishLiteral": "depths",
-      "englishNatural": "depths",
-      "root": "tehom",
-      "suffixes": [
-        "ot"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "תְהוֹם",
-      "transliteration": "tehom",
-      "englishLiteral": "deep",
-      "englishNatural": "the deep",
-      "root": "tehom",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 27
+    "proverbs": {
+      "8": {
+        "24": [
+          1
+        ],
+        "27": [
+          8
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

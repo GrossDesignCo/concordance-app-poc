@@ -6,2214 +6,318 @@
   "englishNatural": "",
   "description": "a direct object marker, points to the object of the verb",
   "type": "particle",
-  "wordInstances": [
-    {
-      "hebrew": "אֵ֥ת",
-      "transliteration": "et",
-      "englishLiteral": "↳",
-      "root": "et",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וְאֵ֥ת",
-      "transliteration": "veEt",
-      "englishLiteral": "and-↳",
-      "englishNatural": "and",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "וְאֶת־",
-      "transliteration": "veEt-",
-      "englishLiteral": "And-↳",
-      "englishNatural": "And",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "וְאֵ֖ת",
-      "transliteration": "veEt",
-      "englishLiteral": "And-↳",
-      "englishNatural": "And",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "אֹתָ֛ם",
-      "transliteration": "otam",
-      "englishLiteral": "them",
-      "englishNatural": "them",
-      "root": "et",
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 3
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "וְאֵ֣ת",
-      "transliteration": "veEt",
-      "englishLiteral": "And-↳",
-      "englishNatural": "And",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "וְאֵ֣ת",
-      "transliteration": "veEt",
-      "englishLiteral": "And-↳",
-      "englishNatural": "And",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "אֹתָ֖ם",
-      "transliteration": "otam",
-      "englishLiteral": "them",
-      "englishNatural": "them",
-      "root": "et",
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 3
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "וְאֶת־",
-      "transliteration": "veEt-",
-      "englishLiteral": "And-↳",
-      "englishNatural": "And",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "וְאֵ֛ת",
-      "transliteration": "veEt",
-      "englishLiteral": "And-↳",
-      "englishNatural": "And",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "אֹת֑וֹ",
-      "transliteration": "oto",
-      "englishLiteral": "him",
-      "englishNatural": "him",
-      "root": "et",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "אֹתָֽם׃",
-      "transliteration": "otam",
-      "englishLiteral": "them",
-      "englishNatural": "them",
-      "root": "et",
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "אֹתָם֮",
-      "transliteration": "otam",
-      "englishLiteral": "them",
-      "englishNatural": "them",
-      "root": "et",
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 3
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 28
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 28
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "וְאֶת־",
-      "transliteration": "veEt-",
-      "englishLiteral": "And-↳",
-      "englishNatural": "And",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "אֶת",
-      "transliteration": "et",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "אֵת",
-      "transliteration": "et",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "אֵת",
-      "transliteration": "et",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "וְאֵת",
-      "transliteration": "veEt",
-      "englishLiteral": "and-↳",
-      "englishNatural": "and",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "וְאֶת־",
-      "transliteration": "veEt-",
-      "englishLiteral": "and-↳",
-      "englishNatural": "and",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "אֹתוֹ",
-      "transliteration": "oto",
-      "englishLiteral": "him",
-      "englishNatural": "it",
-      "root": "et",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "אֶת",
-      "transliteration": "et",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 22,
-        "english": 22
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\""
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "וְאֵת",
-      "transliteration": "veEt",
-      "englishLiteral": "and-↳",
-      "englishNatural": "and",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳-",
-      "englishNatural": "with",
-      "root": "et",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "אֹתִי",
-      "transliteration": "oti",
-      "englishLiteral": "↳-me",
-      "englishNatural": "me",
-      "root": "et",
-      "suffixes": [
-        "i"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "number": "singular",
-        "person": "1st",
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "אֹתוֹ",
-      "transliteration": "oto",
-      "englishLiteral": "↳-him",
-      "englishNatural": "him",
-      "root": "et",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 18
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "אֹתוֹ",
-      "transliteration": "oto",
-      "englishLiteral": "him",
-      "englishNatural": "him",
-      "root": "et",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "אֹתָם",
-      "transliteration": "otam",
-      "englishLiteral": "them",
-      "englishNatural": "them",
-      "root": "et",
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "with",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "with",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "אֹתוֹ",
-      "transliteration": "oto",
-      "englishLiteral": "him",
-      "englishNatural": "him",
-      "root": "et",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 9
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "root": "et",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "root": "et",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "root": "et",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 32
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "root": "et",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 32
-      }
-    },
-    {
-      "hebrew": "וְאֶת־",
-      "transliteration": "veEt-",
-      "englishLiteral": "and-↳",
-      "englishNatural": "and",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 32
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 6,
-        "english": 5
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אֶת",
-      "transliteration": "et",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "אֶת",
-      "transliteration": "et",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "morphology": {
-        "type": "particle"
-      },
-      "order": {
-        "hebrew": 18,
-        "english": 20
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וְאֶת־",
-      "transliteration": "veEt-",
-      "englishLiteral": "and-↳",
-      "englishNatural": "and",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "וְאֶת־",
-      "transliteration": "veEt-",
-      "englishLiteral": "and-↳",
-      "englishNatural": "and",
-      "root": "et",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 2,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אֶת־",
-      "transliteration": "et-",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "אֵת",
-      "transliteration": "et",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 4,
-        "english": 0
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "אֶת",
-      "transliteration": "et",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 8,
-        "english": 0
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "אֶת",
-      "transliteration": "et",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 16,
-        "english": 0
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "אֹתוֹ",
-      "transliteration": "oto",
-      "englishLiteral": "it",
-      "englishNatural": "it",
-      "root": "et",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "אֹתוֹ",
-      "transliteration": "oto",
-      "englishLiteral": "it",
-      "englishNatural": "it",
-      "root": "et",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "pronoun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "אֶת",
-      "transliteration": "et",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 12,
-        "english": 0
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "אֶת",
-      "transliteration": "et",
-      "englishLiteral": "↳",
-      "englishNatural": "",
-      "root": "et",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 117,
-        "verse": 1
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "1": [
+          3,
+          5
+        ],
+        "4": [
+          2
+        ],
+        "7": [
+          2
+        ],
+        "16": [
+          2,
+          6,
+          11,
+          16
+        ],
+        "17": [
+          1
+        ],
+        "21": [
+          2,
+          5,
+          14
+        ],
+        "22": [
+          1,
+          7
+        ],
+        "25": [
+          2,
+          6,
+          9
+        ],
+        "27": [
+          2,
+          8,
+          12
+        ],
+        "28": [
+          1,
+          9
+        ],
+        "29": [
+          5,
+          15
+        ],
+        "30": [
+          14
+        ],
+        "31": [
+          2
+        ]
+      },
+      "2": {
+        "3": [
+          2,
+          6
+        ],
+        "5": [
+          21
+        ],
+        "6": [
+          5
+        ],
+        "7": [
+          3
+        ],
+        "8": [
+          8
+        ],
+        "10": [
+          4
+        ],
+        "11": [
+          5
+        ],
+        "13": [
+          6
+        ],
+        "15": [
+          3
+        ],
+        "19": [
+          8
+        ],
+        "22": [
+          3
+        ],
+        "24": [
+          4,
+          6
+        ]
+      },
+      "3": {
+        "8": [
+          1
+        ],
+        "10": [
+          1
+        ],
+        "18": [
+          5
+        ],
+        "23": [
+          6
+        ],
+        "24": [
+          1,
+          7,
+          9,
+          14
+        ]
+      },
+      "4": {
+        "1": [
+          2,
+          7,
+          12
+        ],
+        "2": [
+          2,
+          4
+        ],
+        "11": [
+          7,
+          10
+        ],
+        "12": [
+          2
+        ],
+        "14": [
+          2
+        ],
+        "15": [
+          15
+        ],
+        "17": [
+          2,
+          6
+        ],
+        "18": [
+          2,
+          6,
+          10,
+          14
+        ],
+        "20": [
+          2
+        ],
+        "22": [
+          4
+        ],
+        "25": [
+          3,
+          8
+        ],
+        "26": [
+          6
+        ]
+      },
+      "5": {
+        "1": [
+          11
+        ],
+        "2": [
+          4,
+          6
+        ],
+        "3": [
+          9
+        ],
+        "4": [
+          5
+        ],
+        "6": [
+          7
+        ],
+        "7": [
+          4
+        ],
+        "9": [
+          5
+        ],
+        "10": [
+          4
+        ],
+        "12": [
+          5
+        ],
+        "13": [
+          4
+        ],
+        "15": [
+          6
+        ],
+        "16": [
+          4
+        ],
+        "18": [
+          8
+        ],
+        "19": [
+          4
+        ],
+        "21": [
+          6
+        ],
+        "22": [
+          2,
+          6
+        ],
+        "24": [
+          2,
+          7
+        ],
+        "25": [
+          8
+        ],
+        "26": [
+          3
+        ],
+        "29": [
+          1
+        ],
+        "30": [
+          4
+        ],
+        "32": [
+          7,
+          9,
+          11
+        ]
+      },
+      "6": {
+        "2": [
+          3
+        ]
+      }
+    },
+    "isaiah": {
+      "6": {
+        "1": [
+          5,
+          14
+        ],
+        "5": [
+          17
+        ]
+      }
+    },
+    "jonah": {
+      "1": {
+        "5": [
+          7
+        ],
+        "9": [
+          4,
+          12,
+          14
+        ],
+        "17": [
+          5
+        ]
+      },
+      "2": {
+        "10": [
+          4
+        ]
+      },
+      "3": {
+        "2": [
+          8
+        ],
+        "10": [
+          2
+        ]
+      },
+      "4": {
+        "3": [
+          4
+        ]
+      }
+    },
+    "numbers": {
+      "21": {
+        "6": [
+          3,
+          7
+        ],
+        "7": [
+          15
+        ],
+        "8": [
+          8,
+          15
+        ],
+        "9": [
+          11
+        ]
+      }
+    },
+    "psalms": {
+      "117": {
+        "1": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

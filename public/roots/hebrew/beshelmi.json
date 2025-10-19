@@ -6,30 +6,15 @@
   "englishNatural": "for whose sake",
   "type": "preposition",
   "description": "for whose sake, on account of whom",
-  "wordInstances": [
-    {
-      "hebrew": "בְּשֶׁלְּמִי",
-      "transliteration": "beshelmi",
-      "englishLiteral": "for-whose-sake",
-      "englishNatural": "for whose sake",
-      "root": "beshelmi",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 7
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "7": [
+          8
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

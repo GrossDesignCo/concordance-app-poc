@@ -6,37 +6,15 @@
   "englishNatural": "heel",
   "type": "noun",
   "description": "heel, footprint, rear guard",
-  "wordInstances": [
-    {
-      "hebrew": "עָקֵב",
-      "transliteration": "aqev",
-      "englishLiteral": "heel",
-      "englishNatural": "heel",
-      "root": "aqev",
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 15
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "15": [
+          14
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

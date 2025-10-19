@@ -5,59 +5,22 @@
   "englishLiteral": "wing",
   "englishNatural": "wing",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "כָּנָ֖ף",
-      "transliteration": "kaNaf",
-      "englishLiteral": "wing",
-      "englishNatural": "winged",
-      "root": "kenaf",
-      "prefixes": [
-        "ka"
-      ],
-      "order": {
-        "hebrew": 18,
-        "english": 17
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "21": [
+          17
+        ]
       }
     },
-    {
-      "hebrew": "כְּנָפַיִם",
-      "transliteration": "kenafayim",
-      "englishLiteral": "wings",
-      "englishNatural": "wings",
-      "root": "kenaf",
-      "suffixes": [
-        "ayim"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 2
+    "isaiah": {
+      "6": {
+        "2": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

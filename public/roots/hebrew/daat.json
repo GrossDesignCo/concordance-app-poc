@@ -5,101 +5,28 @@
   "englishLiteral": "knowledge",
   "englishNatural": "knowledge",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "הַדַּעַת",
-      "transliteration": "haDaat",
-      "englishLiteral": "the-knowledge",
-      "englishNatural": "of Knowledge of",
-      "root": "daat",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 17
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "9": [
+          15
+        ],
+        "17": [
+          1
+        ]
       }
     },
-    {
-      "hebrew": "הַדַּעַת",
-      "transliteration": "haDaat",
-      "englishLiteral": "the-knowledge",
-      "englishNatural": "of Knowledge",
-      "root": "daat",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "דַּעַת",
-      "transliteration": "daat",
-      "englishLiteral": "knowledge",
-      "englishNatural": "knowledge",
-      "root": "daat",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "דָּעַת",
-      "transliteration": "daat",
-      "englishLiteral": "knowledge",
-      "englishNatural": "knowledge",
-      "root": "daat",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 7
+    "proverbs": {
+      "1": {
+        "4": [
+          4
+        ],
+        "7": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

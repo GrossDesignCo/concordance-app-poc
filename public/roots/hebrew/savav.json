@@ -6,59 +6,18 @@
   "englishNatural": "to surround",
   "description": "to go around, to encircle, to surround",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "הַסֹּבֵב",
-      "transliteration": "haSovev",
-      "englishLiteral": "the-surrounding",
-      "englishNatural": "surrounds",
-      "root": "savav",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "verb",
-        "stem": "qal",
-        "tense": "participle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "הַסּוֹבֵב",
-      "transliteration": "haSovev",
-      "englishLiteral": "the-surrounding",
-      "englishNatural": "surrounds",
-      "root": "savav",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "verb",
-        "stem": "piel",
-        "tense": "participle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 13
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "11": [
+          4
+        ],
+        "13": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

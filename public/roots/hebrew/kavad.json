@@ -6,33 +6,15 @@
   "englishNatural": "to be-heavy",
   "type": "verb",
   "description": "to be heavy, weighty, burdensome, honored, abundant",
-  "wordInstances": [
-    {
-      "hebrew": "נִכְבַּדֵּי",
-      "transliteration": "nikhbadei",
-      "englishLiteral": "heavy_with",
-      "englishNatural": "heavy-with",
-      "root": "kavad",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "stem": "niphal",
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 24
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "24": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

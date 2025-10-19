@@ -6,40 +6,15 @@
   "englishNatural": "uprightness",
   "type": "noun",
   "description": "uprightness, equity, fairness, straightness",
-  "wordInstances": [
-    {
-      "hebrew": "וּמֵישָׁרִים",
-      "transliteration": "umesharim",
-      "englishLiteral": "and-uprightness",
-      "englishNatural": "and uprightness",
-      "root": "mesharim",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 3
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "3": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

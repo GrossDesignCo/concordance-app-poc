@@ -4,80 +4,25 @@
   "transliteration": "probata",
   "englishLiteral": "sheep",
   "englishNatural": "sheep",
-  "wordInstances": [
-    {
-      "greek": "πρόβατά",
-      "transliteration": "probata",
-      "englishLiteral": "sheep",
-      "englishNatural": "sheep",
-      "root": "probaton",
-      "order": {
-        "greek": 22,
-        "english": 22
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "neuter",
-        "number": "plural",
-        "case": "accusative",
-        "state": "definite"
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 16
+  "wordIndexes": {
+    "john": {
+      "21": {
+        "16": [
+          21
+        ],
+        "17": [
+          34
+        ]
       }
     },
-    {
-      "greek": "πρόβατά",
-      "transliteration": "probata",
-      "englishLiteral": "sheep",
-      "englishNatural": "sheep",
-      "root": "probaton",
-      "order": {
-        "greek": 35,
-        "english": 35
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "neuter",
-        "number": "plural",
-        "case": "accusative",
-        "state": "definite"
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 17
-      }
-    },
-    {
-      "greek": "πρόβατα",
-      "transliteration": "probata",
-      "englishLiteral": "sheep",
-      "englishNatural": "sheep",
-      "root": "probaton",
-      "order": {
-        "greek": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "neuter",
-        "number": "plural",
-        "case": "accusative",
-        "state": "anarthrous"
-      },
-      "verseContext": {
-        "book": "Matthew",
-        "chapter": 10,
-        "verse": 16
+    "matthew": {
+      "10": {
+        "16": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

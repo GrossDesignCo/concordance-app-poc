@@ -6,35 +6,15 @@
   "englishNatural": "add",
   "type": "verb",
   "description": "to add, continue, do again",
-  "wordInstances": [
-    {
-      "hebrew": "תֹסֵף",
-      "transliteration": "toseeph",
-      "englishLiteral": "it-will-add",
-      "englishNatural": "it will add",
-      "root": "yasaph",
-      "order": {
-        "hebrew": 6,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 12
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "12": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

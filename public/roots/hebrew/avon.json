@@ -6,112 +6,30 @@
   "englishNatural": "twisting",
   "description": "moral crookedness, perversity, guilt, twistedness",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "עָוֹן",
-      "transliteration": "avon",
-      "englishLiteral": "twisting",
-      "englishNatural": "twisting",
-      "root": "avon",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "7": [
+          4,
+          11
+        ]
       }
     },
-    {
-      "hebrew": "עֲוֹן",
-      "transliteration": "avon",
-      "englishLiteral": "twisting",
-      "englishNatural": "twisting",
-      "root": "avon",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+    "genesis": {
+      "4": {
+        "13": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "עֲוֹנִי",
-      "transliteration": "avoni",
-      "englishLiteral": "my-twisting",
-      "englishNatural": "is my twisting",
-      "root": "avon",
-      "suffixes": [
-        "i"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "1st",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "עֲוֹנֶךָ",
-      "transliteration": "avonekha",
-      "englishLiteral": "your-twisting",
-      "englishNatural": "your twisting",
-      "root": "avon",
-      "suffixes": [
-        "ekha"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 7
+    "isaiah": {
+      "6": {
+        "7": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

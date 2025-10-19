@@ -4,37 +4,15 @@
   "transliteration": "etos",
   "englishLiteral": "year",
   "englishNatural": "year",
-  "wordInstances": [
-    {
-      "greek": "ἔτη",
-      "transliteration": "etē",
-      "englishLiteral": "years",
-      "englishNatural": "years",
-      "root": "etos",
-      "order": {
-        "greek": 19,
-        "english": 19
-      },
-      "morphology": {
-        "gender": "neuter",
-        "number": "plural",
-        "case": "accusative",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 2
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "2": [
+          18
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

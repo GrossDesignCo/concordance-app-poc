@@ -5,33 +5,15 @@
   "englishLiteral": "stone",
   "englishNatural": "stone",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "וְאֶבֶן",
-      "transliteration": "veEven",
-      "englishLiteral": "and-stone",
-      "englishNatural": "and the stone",
-      "root": "even",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 12
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "12": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,35 +6,15 @@
   "englishNatural": "channel",
   "type": "noun",
   "description": "stream, channel, division of water, like division in Genesis of the world into continents, or irrigation canals",
-  "wordInstances": [
-    {
-      "hebrew": "פַּלְגֵי",
-      "transliteration": "palgei",
-      "englishLiteral": "channels-of",
-      "englishNatural": "channels of",
-      "root": "peleg",
-      "suffixes": [
-        "ei"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 3
+  "wordIndexes": {
+    "psalms": {
+      "1": {
+        "3": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

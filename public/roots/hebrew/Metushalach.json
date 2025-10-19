@@ -6,120 +6,24 @@
   "englishNatural": "Man-of-the-Dart (Methuselah)",
   "type": "noun",
   "description": "proper name, Methuselah, meaning \"man of the dart\" or \"when he dies, it shall be sent\"",
-  "wordInstances": [
-    {
-      "hebrew": "מְתוּשָׁלַח",
-      "transliteration": "Metushalach",
-      "englishLiteral": "Man-of-the-Dart (Methuselah)",
-      "englishNatural": "Man-of-the-Dart (Methuselah)",
-      "root": "Metushalach",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "מְתוּשָׁלַח",
-      "transliteration": "Metushalach",
-      "englishLiteral": "Man-of-the-Dart (Methuselah)",
-      "englishNatural": "Man-of-the-Dart (Methuselah)",
-      "root": "Metushalach",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",\"",
-        "englishNatural": ",\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "מְתוּשָׁלַח",
-      "transliteration": "Metushalach",
-      "englishLiteral": "Man-of-the-Dart (Methuselah)",
-      "englishNatural": "And Man-of-the-Dart (Methuselah)",
-      "root": "Metushalach",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "מְתוּשָׁלַח",
-      "transliteration": "Metushalach",
-      "englishLiteral": "Man-of-the-Dart (Methuselah)",
-      "englishNatural": "Man-of-the-Dart (Methuselah)",
-      "root": "Metushalach",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 27
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "21": [
+          7
+        ],
+        "22": [
+          7
+        ],
+        "25": [
+          1
+        ],
+        "27": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,40 +6,15 @@
   "englishNatural": "to dwell",
   "type": "verb",
   "description": "to dwell, abide, settle temporarily, inhabit, remain",
-  "wordInstances": [
-    {
-      "hebrew": "וַיַּשְׁכֵּן",
-      "transliteration": "vayYashken",
-      "englishLiteral": "and-he-caused-to-dwell",
-      "englishNatural": "and he caused to dwell",
-      "root": "shakhan",
-      "prefixes": [
-        "va",
-        "yi"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 24
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "24": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

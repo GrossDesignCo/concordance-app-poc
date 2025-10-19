@@ -9,39 +9,15 @@
   "related": [
     "sakhal"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "הַשְׂכֵּל",
-      "transliteration": "haskel",
-      "englishLiteral": "wise_conduct",
-      "englishNatural": "wise-conduct",
-      "root": "haskel",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 3
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "3": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

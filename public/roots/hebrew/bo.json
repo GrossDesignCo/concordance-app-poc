@@ -5,246 +5,53 @@
   "englishLiteral": "to come",
   "englishNatural": "to come",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיָּבֵא",
-      "transliteration": "vaYave",
-      "englishLiteral": "And-brought",
-      "englishNatural": "And brought",
-      "root": "bo",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "19": [
+          12
+        ],
+        "22": [
+          10
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
+      "4": {
+        "3": [
+          3
+        ],
+        "4": [
+          1
+        ],
+        "7": [
+          14
+        ]
       },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
+      "6": {
+        "4": [
+          9
+        ]
       }
     },
-    {
-      "hebrew": "וַיְבִאֶהָ",
-      "transliteration": "vaYeviEha",
-      "englishLiteral": "and-brought-her",
-      "englishNatural": "and brought her",
-      "root": "bo",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
+    "jonah": {
+      "1": {
+        "3": [
+          16
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 22
+      "3": {
+        "4": [
+          2
+        ]
       }
     },
-    {
-      "hebrew": "וַיָּבֵא",
-      "transliteration": "vayYave",
-      "englishLiteral": "And-he-brought",
-      "englishNatural": "brought",
-      "root": "bo",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "הֵבִיא",
-      "transliteration": "hevi",
-      "englishLiteral": "brought",
-      "englishNatural": "brought",
-      "root": "bo",
-      "order": {
-        "hebrew": 2,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "בּוֹ",
-      "transliteration": "bo",
-      "englishLiteral": "over-it",
-      "englishNatural": "over it",
-      "root": "bo",
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "יָבֹאוּ",
-      "transliteration": "yavou",
-      "englishLiteral": "they-came",
-      "englishNatural": "came",
-      "root": "bo",
-      "order": {
-        "hebrew": 10,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "לָבוֹא",
-      "transliteration": "lavo",
-      "englishLiteral": "to-go",
-      "englishNatural": "to go",
-      "root": "bo",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "infinitive_construct",
-        "stem": "qal"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "לָבוֹא",
-      "transliteration": "lavo",
-      "englishLiteral": "to-enter",
-      "englishNatural": "to enter",
-      "root": "bo",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "infinitive_construct",
-        "stem": "qal"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וַיָּבֹא",
-      "transliteration": "vaYavo",
-      "englishLiteral": "And-came",
-      "englishNatural": "came",
-      "root": "bo",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 7
+    "numbers": {
+      "21": {
+        "7": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

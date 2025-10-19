@@ -9,84 +9,21 @@
   "related": [
     "qanah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "קַיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "Acquired (Cain)",
-      "root": "Qayin",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "קָיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "Acquired (Cain)",
-      "root": "Qayin",
-      "order": {
-        "hebrew": 4,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "קָיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "Acquired (Cain)",
-      "root": "Qayin",
-      "order": {
-        "hebrew": 22,
-        "english": 21
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "."
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 25
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "17": [
+          1
+        ],
+        "24": [
+          3
+        ],
+        "25": [
+          21
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

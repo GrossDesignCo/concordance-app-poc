@@ -6,87 +6,30 @@
   "englishNatural": "wandering",
   "type": "adjective",
   "description": "wandering, restless, moving to and fro",
-  "wordInstances": [
-    {
-      "hebrew": "נָע",
-      "transliteration": "na",
-      "englishLiteral": "wandering",
-      "englishNatural": "wandering",
-      "root": "na",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 12
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "12": [
+          9
+        ],
+        "14": [
+          10
+        ]
       }
     },
-    {
-      "hebrew": "נָע",
-      "transliteration": "na",
-      "englishLiteral": "wandering",
-      "englishNatural": "wandering",
-      "root": "na",
-      "order": {
-        "hebrew": 11,
-        "english": 11
+    "jonah": {
+      "1": {
+        "8": [
+          3
+        ]
       },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "נָּא",
-      "transliteration": "na",
-      "englishLiteral": "us",
-      "englishNatural": "us",
-      "root": "na",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "נָא",
-      "transliteration": "na",
-      "englishLiteral": "please",
-      "englishNatural": "please",
-      "root": "na",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 3
+      "4": {
+        "3": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

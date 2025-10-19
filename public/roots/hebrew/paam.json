@@ -5,39 +5,15 @@
   "englishLiteral": "time",
   "englishNatural": "time",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "הַפַּעַם",
-      "transliteration": "haPaam",
-      "englishLiteral": "the-time",
-      "englishNatural": "the time",
-      "root": "paam",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "!",
-        "englishNatural": "!"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 23
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "23": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

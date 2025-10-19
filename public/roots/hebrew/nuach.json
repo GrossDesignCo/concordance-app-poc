@@ -6,175 +6,34 @@
   "englishNatural": "to rest",
   "description": "to cause to rest, to gingerly place, like carefully resting a child in a crib",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיַּנִּחֵהוּ",
-      "transliteration": "vaYanNichehu",
-      "englishLiteral": "and-rested-him",
-      "englishNatural": "and rested him",
-      "root": "nuach",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "ehu"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "15": [
+          5
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 15
+      "5": {
+        "29": [
+          3
+        ],
+        "30": [
+          5
+        ],
+        "32": [
+          0,
+          6
+        ]
       }
     },
-    {
-      "hebrew": "נֹחַ",
-      "transliteration": "Noach",
-      "englishLiteral": "Rest (Noah)",
-      "englishNatural": "Rest (Noah)",
-      "root": "nuach",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "noun",
-        "state": "absolute"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",\"",
-        "englishNatural": ",\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "נֹחַ",
-      "transliteration": "Noach",
-      "englishLiteral": "Rest (Noah)",
-      "englishNatural": "Rest (Noah)",
-      "root": "nuach",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun",
-        "state": "absolute"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "וְנֹחַ",
-      "transliteration": "veNoach",
-      "englishLiteral": "And-Rest (Noah)",
-      "englishNatural": "And Rest (Noah)",
-      "root": "nuach",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "state": "absolute"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 32
-      }
-    },
-    {
-      "hebrew": "נֹחַ",
-      "transliteration": "Noach",
-      "englishLiteral": "Rest (Noah)",
-      "englishNatural": "and Rest (Noah)",
-      "root": "nuach",
-      "order": {
-        "hebrew": 7,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun",
-        "state": "absolute"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 32
-      }
-    },
-    {
-      "hebrew": "מְנֻחוֹת",
-      "transliteration": "menuchot",
-      "englishLiteral": "rest_place",
-      "englishNatural": "rest-place",
-      "root": "nuach",
-      "prefixes": [
-        "me"
-      ],
-      "suffixes": [
-        "ot"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 2
+    "psalms": {
+      "23": {
+        "2": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

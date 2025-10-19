@@ -9,54 +9,18 @@
   "related": [
     "sheva"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "שִׁבְעִים",
-      "transliteration": "shivim",
-      "englishLiteral": "seventy",
-      "englishNatural": "seventy",
-      "root": "shivim",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "וְשִׁבְעִים",
-      "transliteration": "veShivim",
-      "englishLiteral": "and-seventy",
-      "englishNatural": "and seventy",
-      "root": "shivim",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 31
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "12": [
+          2
+        ],
+        "31": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

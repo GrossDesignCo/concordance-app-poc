@@ -6,32 +6,15 @@
   "englishNatural": "booth",
   "type": "noun",
   "description": "booth, hut, temporary shelter, tabernacle",
-  "wordInstances": [
-    {
-      "hebrew": "סֻכָּה",
-      "transliteration": "sukkah",
-      "englishLiteral": "booth",
-      "englishNatural": "a booth",
-      "root": "sukkah",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 5
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "5": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

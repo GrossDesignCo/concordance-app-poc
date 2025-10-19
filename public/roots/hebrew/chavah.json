@@ -10,55 +10,20 @@
     "chai",
     "chayah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "חַוָּה",
-      "transliteration": "Chavah",
-      "englishLiteral": "Life_Giver (Eve)",
-      "englishNatural": "Life-Giver (Eve)",
-      "root": "chavah",
-      "order": {
-        "hebrew": 5,
-        "english": 5
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "20": [
+          4
+        ]
       },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "חַוָּה",
-      "transliteration": "Chavah",
-      "englishLiteral": "Living (Eve)",
-      "englishNatural": "Living (Eve)",
-      "root": "chavah",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 1
+      "4": {
+        "1": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

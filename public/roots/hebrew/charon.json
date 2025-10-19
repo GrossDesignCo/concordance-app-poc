@@ -9,36 +9,15 @@
   "related": [
     "charah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "מֵחֲרוֹן",
-      "transliteration": "meCharon",
-      "englishLiteral": "from-burning-of",
-      "englishNatural": "from the burning of",
-      "root": "charon",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 9
+  "wordIndexes": {
+    "jonah": {
+      "3": {
+        "9": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -9,57 +9,20 @@
   "related": [
     "av"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "אֲבֹתֵיכֶם",
-      "transliteration": "avoteikem",
-      "englishLiteral": "your-fathers",
-      "englishNatural": "your fathers",
-      "root": "avot",
-      "order": {
-        "hebrew": 13,
-        "english": 13
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "15": [
+          12
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "אָבוֹת",
-      "transliteration": "avot",
-      "englishLiteral": "fathers",
-      "englishNatural": "fathers",
-      "root": "avot",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+      "34": {
+        "7": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

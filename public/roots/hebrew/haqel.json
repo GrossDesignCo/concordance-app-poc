@@ -6,36 +6,15 @@
   "englishNatural": "to lighten",
   "type": "verb",
   "description": "to make light, to lighten, to relieve",
-  "wordInstances": [
-    {
-      "hebrew": "לְהָקֵל",
-      "transliteration": "leHaqel",
-      "englishLiteral": "to-lighten",
-      "englishNatural": "to lighten it",
-      "root": "haqel",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "infinitive_construct",
-        "stem": "hiphil"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 5
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "5": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

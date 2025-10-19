@@ -6,39 +6,15 @@
   "englishNatural": "to stand",
   "type": "verb",
   "description": "to stand, take a stand, be stationed",
-  "wordInstances": [
-    {
-      "hebrew": "נִצָּבָה",
-      "transliteration": "nitzavah",
-      "englishLiteral": "she-has-stationed_herself",
-      "englishNatural": "she has stationed-herself",
-      "root": "netzav",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "niphal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 2
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "2": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

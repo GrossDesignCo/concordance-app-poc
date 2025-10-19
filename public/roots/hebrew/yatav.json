@@ -6,97 +6,23 @@
   "englishNatural": "to do-well",
   "type": "verb",
   "description": "to be good, to do well, to make good",
-  "wordInstances": [
-    {
-      "hebrew": "תֵּיטִיב",
-      "transliteration": "teytiv",
-      "englishLiteral": "you-do_well",
-      "englishNatural": "you do-well",
-      "root": "yatav",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 7
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "7": [
+          2,
+          6
+        ]
       }
     },
-    {
-      "hebrew": "תֵיטִיב",
-      "transliteration": "teytiv",
-      "englishLiteral": "you-do_well",
-      "englishNatural": "you do-well",
-      "root": "yatav",
-      "order": {
-        "hebrew": 7,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "הַהֵיטֵב",
-      "transliteration": "haHeitiv",
-      "englishLiteral": "the-doing_well",
-      "englishNatural": "the doing-well",
-      "root": "yatav",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "tense": "infinitive_absolute",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 4
+    "jonah": {
+      "4": {
+        "4": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

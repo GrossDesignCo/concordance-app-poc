@@ -8,141 +8,33 @@
     "seraph"
   ],
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "שָׂרָף",
-      "transliteration": "saraph",
-      "englishLiteral": "burning_one",
-      "englishNatural": "a burning-one",
-      "root": "saraph",
-      "order": {
-        "hebrew": 15,
-        "english": 15
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "2": [
+          0
+        ],
+        "6": [
+          4
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 14,
-        "verse": 29
+      "14": {
+        "29": [
+          14
+        ]
       }
     },
-    {
-      "hebrew": "שְׂרָפִים",
-      "transliteration": "seraphim",
-      "englishLiteral": "Burning_ones",
-      "englishNatural": "Burning-ones",
-      "root": "saraph",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "הַשְּׂרָפִים",
-      "transliteration": "haSeraphim",
-      "englishLiteral": "the-burning_ones",
-      "englishNatural": "the burning-ones",
-      "root": "saraph",
-      "prefixes": [
-        "ha"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "הַשְּׂרָפִים",
-      "transliteration": "haSeraphim",
-      "englishLiteral": "the-burning_ones",
-      "englishNatural": "the burning-ones",
-      "root": "saraph",
-      "prefixes": [
-        "ha"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "שָׂרָף",
-      "transliteration": "saraph",
-      "englishLiteral": "burning_one",
-      "englishNatural": "a burning-one",
-      "root": "saraph",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 8
+    "numbers": {
+      "21": {
+        "6": [
+          5
+        ],
+        "8": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

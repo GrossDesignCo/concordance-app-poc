@@ -8,96 +8,27 @@
     "arba"
   ],
   "type": "numeral",
-  "wordInstances": [
-    {
-      "hebrew": "רִבֵּעִים",
-      "transliteration": "ribeim",
-      "englishLiteral": "fourth_ones",
-      "englishNatural": "fourth-ones",
-      "root": "revii",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 22,
-        "english": 22
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "numeral"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "7": [
+          21
+        ]
       }
     },
-    {
-      "hebrew": "רְבִיעִֽי׃",
-      "transliteration": "reviyi",
-      "englishLiteral": "fourth",
-      "englishNatural": "A fourth",
-      "root": "revii",
-      "order": {
-        "hebrew": 6,
-        "english": 5
+    "genesis": {
+      "1": {
+        "19": [
+          5
+        ]
       },
-      "morphology": {
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "."
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "הָרְבִיעִי",
-      "transliteration": "haRevii",
-      "englishLiteral": "the-fourth",
-      "englishNatural": "And the fourth",
-      "root": "revii",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 9
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 14
+      "2": {
+        "14": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

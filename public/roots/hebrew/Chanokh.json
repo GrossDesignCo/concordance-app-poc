@@ -6,231 +6,39 @@
   "englishNatural": "Dedicated (Enoch)",
   "type": "noun",
   "description": "proper name, Enoch, meaning \"dedicated\" or \"initiated\"",
-  "wordInstances": [
-    {
-      "hebrew": "חֲנוֹךְ",
-      "transliteration": "Chanokh",
-      "englishLiteral": "Dedicated (Enoch)",
-      "englishNatural": "Dedicated (Enoch)",
-      "root": "Chanokh",
-      "order": {
-        "hebrew": 8,
-        "english": 8
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "17": [
+          7,
+          16
+        ],
+        "18": [
+          1
+        ]
       },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "חֲנוֹךְ",
-      "transliteration": "Chanokh",
-      "englishLiteral": "Dedicated (Enoch)",
-      "englishNatural": "Dedicated (Enoch)",
-      "root": "Chanokh",
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "לַחֲנוֹךְ",
-      "transliteration": "laChanokh",
-      "englishLiteral": "to-Dedicated (Enoch)",
-      "englishNatural": "And to Dedicated (Enoch)",
-      "root": "Chanokh",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "חֲנוֹךְ",
-      "transliteration": "Chanokh",
-      "englishLiteral": "Dedicated (Enoch)",
-      "englishNatural": "Dedicated (Enoch)",
-      "root": "Chanokh",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "חֲנוֹךְ",
-      "transliteration": "Chanokh",
-      "englishLiteral": "Dedicated (Enoch)",
-      "englishNatural": "Dedicated (Enoch)",
-      "root": "Chanokh",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "חֲנוֹךְ",
-      "transliteration": "Chanokh",
-      "englishLiteral": "Dedicated (Enoch)",
-      "englishNatural": "And Dedicated (Enoch)",
-      "root": "Chanokh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "חֲנוֹךְ",
-      "transliteration": "Chanokh",
-      "englishLiteral": "Dedicated (Enoch)",
-      "englishNatural": "And Dedicated (Enoch)",
-      "root": "Chanokh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "חֲנוֹךְ",
-      "transliteration": "Chanokh",
-      "englishLiteral": "Dedicated (Enoch)",
-      "englishNatural": "Dedicated (Enoch)",
-      "root": "Chanokh",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "חֲנוֹךְ",
-      "transliteration": "Chanokh",
-      "englishLiteral": "Dedicated (Enoch)",
-      "englishNatural": "And Dedicated (Enoch)",
-      "root": "Chanokh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 24
+      "5": {
+        "18": [
+          9
+        ],
+        "19": [
+          5
+        ],
+        "21": [
+          1
+        ],
+        "22": [
+          1
+        ],
+        "23": [
+          3
+        ],
+        "24": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

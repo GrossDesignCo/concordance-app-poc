@@ -6,180 +6,42 @@
   "englishNatural": "to bring-out",
   "description": "to come out, to bring out, to bring forth",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַתּוֹצֵ֨א",
-      "transliteration": "vaToTze",
-      "englishLiteral": "And-brought-out",
-      "englishNatural": "brought-out",
-      "root": "yatsa",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "12": [
+          0
+        ],
+        "24": [
+          2
+        ]
       },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
+      "2": {
+        "10": [
+          1
+        ]
       },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 12
+      "4": {
+        "16": [
+          0
+        ]
       }
     },
-    {
-      "hebrew": "תּוֹצֵ֨א",
-      "transliteration": "totze",
-      "englishLiteral": "Let-bring_out",
-      "englishNatural": "bring-out",
-      "root": "yatsa",
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 24
+    "isaiah": {
+      "14": {
+        "29": [
+          11
+        ]
       }
     },
-    {
-      "hebrew": "יֹצֵא",
-      "transliteration": "yotze",
-      "englishLiteral": "goes-out",
-      "englishNatural": "went out",
-      "root": "yatsa",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "וַיֵּצֵא",
-      "transliteration": "vayYetze",
-      "englishLiteral": "And-he-went-out",
-      "englishNatural": "went out",
-      "root": "yatsa",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "יֵצֵא",
-      "transliteration": "yetze",
-      "englishLiteral": "shall-come-forth",
-      "englishNatural": "shall come forth",
-      "root": "yatsa",
-      "prefixes": [
-        "ye"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 14,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "וַיֵּצֵא",
-      "transliteration": "vaYetze",
-      "englishLiteral": "And-went_out",
-      "englishNatural": "went-out",
-      "root": "yatsa",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 5
+    "jonah": {
+      "4": {
+        "5": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

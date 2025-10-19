@@ -5,32 +5,15 @@
   "englishLiteral": "viper",
   "englishNatural": "viper",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "צֶפַע",
-      "transliteration": "tsefa",
-      "englishLiteral": "viper",
-      "englishNatural": "a viper",
-      "root": "tsefa",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 14,
-        "verse": 29
+  "wordIndexes": {
+    "isaiah": {
+      "14": {
+        "29": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

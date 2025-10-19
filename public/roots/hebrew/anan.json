@@ -6,39 +6,15 @@
   "englishNatural": "cloud",
   "type": "noun",
   "description": "cloud, thick cloud, divine presence cloud",
-  "wordInstances": [
-    {
-      "hebrew": "בֶּעָנָן",
-      "transliteration": "beAnan",
-      "englishLiteral": "in-cloud",
-      "englishNatural": "in the cloud",
-      "root": "anan",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 5
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "5": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

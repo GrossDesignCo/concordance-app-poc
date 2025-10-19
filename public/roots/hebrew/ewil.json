@@ -6,35 +6,15 @@
   "englishNatural": "fool",
   "type": "noun",
   "description": "fool, foolish person, one lacking wisdom",
-  "wordInstances": [
-    {
-      "hebrew": "אֱוִילִים",
-      "transliteration": "ewilim",
-      "englishLiteral": "fools",
-      "englishNatural": "fools",
-      "root": "ewil",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 7
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "7": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

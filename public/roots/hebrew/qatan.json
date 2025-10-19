@@ -5,68 +5,22 @@
   "englishLiteral": "small",
   "englishNatural": "small",
   "type": "adjective",
-  "wordInstances": [
-    {
-      "hebrew": "הַקָּטֹן֙",
-      "transliteration": "haQaton",
-      "englishLiteral": "the-small",
-      "englishNatural": "the small",
-      "root": "qatan",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 16
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "16": [
+          13
+        ]
       }
     },
-    {
-      "hebrew": "קְטַנָּם",
-      "transliteration": "qetanam",
-      "englishLiteral": "small-their",
-      "englishNatural": "their small",
-      "root": "qatan",
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 5
+    "jonah": {
+      "3": {
+        "5": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,74 +6,21 @@
   "englishNatural": "ten",
   "type": "numeral",
   "description": "ten, the number ten (in compound numbers like twelve)",
-  "wordInstances": [
-    {
-      "hebrew": "עֶשְׂרֵה",
-      "transliteration": "esreh",
-      "englishLiteral": "ten",
-      "englishNatural": "ten",
-      "root": "esreh",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "עֶשֶׂר",
-      "transliteration": "eser",
-      "englishLiteral": "ten",
-      "englishNatural": "ten",
-      "root": "esreh",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "עֶשְׂרֵה",
-      "transliteration": "esreh",
-      "englishLiteral": "ten",
-      "englishNatural": "ten",
-      "root": "esreh",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 8
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "8": [
+          5
+        ],
+        "10": [
+          7
+        ],
+        "14": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

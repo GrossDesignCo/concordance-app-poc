@@ -12,62 +12,16 @@
     "hem",
     "henah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "הָהֵם",
-      "transliteration": "hahem",
-      "englishLiteral": "the-those",
-      "englishNatural": "in those",
-      "root": "hemah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "type": "pronoun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "הֵמָּה",
-      "transliteration": "hemah",
-      "englishLiteral": "they",
-      "englishNatural": "they",
-      "root": "hemah",
-      "order": {
-        "hebrew": 18,
-        "english": 17
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 4
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "4": [
+          4,
+          17
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

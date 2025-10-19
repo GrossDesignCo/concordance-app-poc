@@ -9,156 +9,31 @@
   "related": [
     "chayah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "חַיֶּיךָ",
-      "transliteration": "chayyekha",
-      "englishLiteral": "lives-your",
-      "englishNatural": "of your life",
-      "root": "chayyim",
-      "suffixes": [
-        "ekha"
-      ],
-      "order": {
-        "hebrew": 23,
-        "english": 23
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 14
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "14": [
+          22
+        ],
+        "17": [
+          22
+        ],
+        "22": [
+          18
+        ],
+        "24": [
+          17
+        ]
       }
     },
-    {
-      "hebrew": "חַיֶּיךָ׃",
-      "transliteration": "chayyekha",
-      "englishLiteral": "lives-your",
-      "englishNatural": "your life",
-      "root": "chayyim",
-      "suffixes": [
-        "ekha"
-      ],
-      "order": {
-        "hebrew": 23,
-        "english": 23
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";\"",
-        "englishNatural": ";\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "הַחַיִּים",
-      "transliteration": "haChayyim",
-      "englishLiteral": "the-lives",
-      "englishNatural": "of Life",
-      "root": "chayyim",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 19,
-        "english": 19
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "הַחַיִּים׃",
-      "transliteration": "haChayyim",
-      "englishLiteral": "the-lives",
-      "englishNatural": "of Life",
-      "root": "chayyim",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 18,
-        "english": 18
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "מֵחַיָּי",
-      "transliteration": "mechayyai",
-      "englishLiteral": "from-lives-my",
-      "englishNatural": "from my life",
-      "root": "chayyim",
-      "prefixes": [
-        "me"
-      ],
-      "suffixes": [
-        "i_possessive"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 3
+    "jonah": {
+      "4": {
+        "3": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

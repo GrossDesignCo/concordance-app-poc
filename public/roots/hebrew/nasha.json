@@ -6,45 +6,15 @@
   "englishNatural": "to deceive",
   "type": "verb",
   "description": "to deceive, to lead astray, to beguile",
-  "wordInstances": [
-    {
-      "hebrew": "הִשִּׁיאַנִי",
-      "transliteration": "hishiani",
-      "englishLiteral": "he-deceived-me",
-      "englishNatural": "he deceived me",
-      "root": "nasha",
-      "prefixes": [
-        "hi"
-      ],
-      "suffixes": [
-        "ani"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 13
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "13": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

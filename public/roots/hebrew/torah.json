@@ -6,65 +6,16 @@
   "englishNatural": "law",
   "type": "noun",
   "description": "instruction, teaching, law, direction, later translated \"nomos/law\" & picked up by the Apostles",
-  "wordInstances": [
-    {
-      "hebrew": "בְּתוֹרַת",
-      "transliteration": "beTorah",
-      "englishLiteral": "in-law-of",
-      "englishNatural": "in the law of",
-      "root": "torah",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "וּבְתוֹרָתוֹ",
-      "transliteration": "uvTorato",
-      "englishLiteral": "and-in-his-law",
-      "englishNatural": "and in his law",
-      "root": "torah",
-      "prefixes": [
-        "u",
-        "be"
-      ],
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 2
+  "wordIndexes": {
+    "psalms": {
+      "1": {
+        "2": [
+          2,
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

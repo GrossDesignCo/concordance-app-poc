@@ -4,34 +4,15 @@
   "transliteration": "halusis",
   "englishLiteral": "chain",
   "englishNatural": "chain",
-  "wordInstances": [
-    {
-      "greek": "ἅλυσιν",
-      "transliteration": "halusin",
-      "englishLiteral": "chain",
-      "englishNatural": "a chain",
-      "root": "halusis",
-      "order": {
-        "greek": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "case": "accusative",
-        "type": "noun",
-        "state": "anarthrous"
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 1
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "1": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

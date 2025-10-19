@@ -6,32 +6,15 @@
   "englishNatural": "Wallowers (Philistia)",
   "description": "the Philistines, from the hebrew word for wallowing or rolling in the mud",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "פְלֶשֶׁת",
-      "transliteration": "Peleshet",
-      "englishLiteral": "Wallowers (Philistia)",
-      "englishNatural": "Wallowers (Philistia)",
-      "root": "Peleshet",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 14,
-        "verse": 29
+  "wordIndexes": {
+    "isaiah": {
+      "14": {
+        "29": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

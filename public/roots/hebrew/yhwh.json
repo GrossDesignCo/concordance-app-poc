@@ -9,1570 +9,258 @@
   "translatedTo": [
     "ego"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "'",
-        "englishNatural": "'"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 8,
-        "english": 7
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 15,
-        "english": 12
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 9,
-        "english": 8
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "of He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 3,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 11,
-        "english": 10
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 4,
-        "english": 5
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He-Who-Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "לַיהוָה",
-      "transliteration": "laYHWH",
-      "englishLiteral": "to-He_Who_Is",
-      "englishNatural": "to He-Who-Is",
-      "root": "yhwh",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 9,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He-Who-Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 15,
-        "english": 14
-      },
-      "morphology": {
-        "type": "noun",
-        "state": "absolute"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\""
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "morphology": {
-        "type": "noun",
-        "state": "absolute",
-        "number": "singular",
-        "gender": "masculine"
-      },
-      "order": {
-        "hebrew": 20,
-        "english": 22
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 21,
-        "english": 21
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וַיהוָה",
-      "transliteration": "vaYHWH",
-      "englishLiteral": "And-He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 2,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 2,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "בַיהוָה",
-      "transliteration": "vaYHWH",
-      "englishLiteral": "against-He_Who_Is",
-      "englishNatural": "against He-Who-Is",
-      "root": "yhwh",
-      "prefixes": [
-        "ba"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "And He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He-Who-Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 117,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 117,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "יָהּ",
-      "transliteration": "yah",
-      "englishLiteral": "He—",
-      "englishNatural": "He—",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 117,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "יְהוָה",
-      "transliteration": "YHWH",
-      "englishLiteral": "He_Who_Is",
-      "englishNatural": "He-Who-Is",
-      "root": "yhwh",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 6
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "15": [
+          10
+        ]
+      },
+      "34": {
+        "5": [
+          1,
+          8
+        ],
+        "6": [
+          1,
+          5,
+          6
+        ]
+      }
+    },
+    "genesis": {
+      "2": {
+        "4": [
+          7
+        ],
+        "5": [
+          14
+        ],
+        "7": [
+          1
+        ],
+        "8": [
+          1
+        ],
+        "9": [
+          1
+        ],
+        "15": [
+          1
+        ],
+        "16": [
+          1
+        ],
+        "18": [
+          1
+        ],
+        "19": [
+          1
+        ],
+        "21": [
+          1
+        ],
+        "22": [
+          1
+        ]
+      },
+      "3": {
+        "1": [
+          8
+        ],
+        "8": [
+          3,
+          13
+        ],
+        "9": [
+          1
+        ],
+        "13": [
+          1
+        ],
+        "14": [
+          1
+        ],
+        "21": [
+          1
+        ],
+        "22": [
+          1
+        ],
+        "23": [
+          1
+        ]
+      },
+      "4": {
+        "1": [
+          13
+        ],
+        "3": [
+          8
+        ],
+        "4": [
+          8
+        ],
+        "6": [
+          1
+        ],
+        "9": [
+          1
+        ],
+        "13": [
+          3
+        ],
+        "15": [
+          2,
+          10
+        ],
+        "16": [
+          3
+        ],
+        "26": [
+          13
+        ]
+      },
+      "5": {
+        "29": [
+          14
+        ]
+      },
+      "6": {
+        "3": [
+          1
+        ]
+      }
+    },
+    "isaiah": {
+      "6": {
+        "3": [
+          8
+        ],
+        "5": [
+          19
+        ]
+      }
+    },
+    "jonah": {
+      "1": {
+        "1": [
+          2
+        ],
+        "3": [
+          5,
+          20
+        ],
+        "4": [
+          0
+        ],
+        "9": [
+          5
+        ],
+        "10": [
+          14
+        ],
+        "17": [
+          1
+        ]
+      },
+      "2": {
+        "1": [
+          3
+        ],
+        "10": [
+          1
+        ]
+      },
+      "3": {
+        "1": [
+          2
+        ],
+        "3": [
+          6
+        ]
+      },
+      "4": {
+        "2": [
+          2,
+          5
+        ],
+        "3": [
+          1
+        ],
+        "4": [
+          1
+        ]
+      }
+    },
+    "numbers": {
+      "21": {
+        "6": [
+          1
+        ],
+        "7": [
+          8,
+          12
+        ],
+        "8": [
+          1
+        ]
+      }
+    },
+    "proverbs": {
+      "1": {
+        "7": [
+          1
+        ]
+      },
+      "8": {
+        "22": [
+          0
+        ]
+      },
+      "22": {
+        "2": [
+          6
+        ]
+      }
+    },
+    "psalms": {
+      "1": {
+        "2": [
+          3
+        ],
+        "6": [
+          2
+        ]
+      },
+      "23": {
+        "1": [
+          0
+        ],
+        "6": [
+          9
+        ]
+      },
+      "117": {
+        "1": [
+          2
+        ],
+        "2": [
+          5,
+          8
+        ]
+      },
+      "131": {
+        "1": [
+          3
+        ],
+        "3": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": [
     "ego"
   ]

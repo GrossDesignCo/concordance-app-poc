@@ -8,365 +8,41 @@
     "or_skin"
   ],
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "מְאֹרֹ֖ת",
-      "transliteration": "meOrot",
-      "englishLiteral": "light_sources",
-      "englishNatural": "light-sources",
-      "root": "or",
-      "prefixes": [
-        "me"
-      ],
-      "suffixes": [
-        "ot"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "לִמְאוֹרֹ֖ת",
-      "transliteration": "liMeOrot",
-      "englishLiteral": "for-light_sources",
-      "englishNatural": "for light-sources",
-      "root": "or",
-      "prefixes": [
-        "li"
-      ],
-      "suffixes": [
-        "ot"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "לְהָאִ֖יר",
-      "transliteration": "leHair",
-      "englishLiteral": "to-shine_light",
-      "englishNatural": "to shine-light",
-      "root": "or",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "הַמְּאֹרֹ֖ת",
-      "transliteration": "haMeOrot",
-      "englishLiteral": "the-light_sources",
-      "englishNatural": "the light-sources",
-      "root": "or",
-      "prefixes": [
-        "ha",
-        "me"
-      ],
-      "suffixes": [
-        "ot"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "הַמָּא֤וֹר",
-      "transliteration": "haMaor",
-      "englishLiteral": "the-light_source",
-      "englishNatural": "the light-source",
-      "root": "or",
-      "prefixes": [
-        "ha",
-        "ma"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "הַמָּא֤וֹר",
-      "transliteration": "haMaor",
-      "englishLiteral": "the-light_source",
-      "englishNatural": "the light-source",
-      "root": "or",
-      "prefixes": [
-        "ha",
-        "ma"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "לְהָאִ֖יר",
-      "transliteration": "leHair",
-      "englishLiteral": "to-shine_light",
-      "englishNatural": "to shine-light",
-      "root": "or",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "הָא֖וֹר",
-      "transliteration": "haOr",
-      "englishLiteral": "the-light",
-      "englishNatural": "the light",
-      "root": "or",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "א֑וֹר",
-      "transliteration": "or",
-      "englishLiteral": "light",
-      "englishNatural": "Let light",
-      "root": "or",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
-      },
-      "grammarPrefix": {
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\""
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "אֽוֹר",
-      "transliteration": "or",
-      "englishLiteral": "light",
-      "englishNatural": "And light",
-      "root": "or",
-      "order": {
-        "hebrew": 6,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "."
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "הָא֖וֹר",
-      "transliteration": "haOr",
-      "englishLiteral": "the-light",
-      "englishNatural": "the light",
-      "root": "or",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "הָא֖וֹר",
-      "transliteration": "haOr",
-      "englishLiteral": "the-light",
-      "englishNatural": "the light",
-      "root": "or",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "transliteration": ",",
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "לָא֔וֹר",
-      "transliteration": "laOr",
-      "englishLiteral": "to_the-light",
-      "englishNatural": "to the light",
-      "root": "or",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 5
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "3": [
+          3,
+          5
+        ],
+        "4": [
+          3,
+          9
+        ],
+        "5": [
+          2
+        ],
+        "14": [
+          3
+        ],
+        "15": [
+          1,
+          4
+        ],
+        "16": [
+          4,
+          7,
+          12
+        ],
+        "17": [
+          5
+        ],
+        "18": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

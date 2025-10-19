@@ -6,39 +6,15 @@
   "englishNatural": "to vomit",
   "type": "verb",
   "description": "to vomit, spew out, disgorge",
-  "wordInstances": [
-    {
-      "hebrew": "וַיָּקֵא",
-      "transliteration": "vaYaqe",
-      "englishLiteral": "and-vomited",
-      "englishNatural": "and he vomited",
-      "root": "qey",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 2,
-        "verse": 10
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "10": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

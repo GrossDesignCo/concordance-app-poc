@@ -4,30 +4,15 @@
   "transliteration": "epi",
   "englishLiteral": "upon",
   "englishNatural": "in",
-  "wordInstances": [
-    {
-      "greek": "ἐπὶ",
-      "transliteration": "epi",
-      "englishLiteral": "upon",
-      "englishNatural": "in",
-      "root": "epi",
-      "order": {
-        "greek": 16,
-        "english": 16
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 1
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "1": [
+          15
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

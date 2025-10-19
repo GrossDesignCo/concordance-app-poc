@@ -6,79 +6,21 @@
   "englishNatural": "flee",
   "type": "verb",
   "description": "to flee, wander, be a fugitive",
-  "wordInstances": [
-    {
-      "hebrew": "וָנָד",
-      "transliteration": "vanad",
-      "englishLiteral": "and-fugitive",
-      "englishNatural": "and fugitive",
-      "root": "nadad",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "וָנָד",
-      "transliteration": "vanad",
-      "englishLiteral": "and-fugitive",
-      "englishNatural": "and fugitive",
-      "root": "nadad",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "נוֹד",
-      "transliteration": "Nod",
-      "englishLiteral": "Wandering",
-      "englishNatural": "of Wandering",
-      "root": "nadad",
-      "order": {
-        "hebrew": 7,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 16
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "12": [
+          10
+        ],
+        "14": [
+          11
+        ],
+        "16": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

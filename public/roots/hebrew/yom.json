@@ -8,1194 +8,161 @@
     "layil"
   ],
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "י֥וֹם",
-      "transliteration": "yom",
-      "englishLiteral": "Day",
-      "englishNatural": "day",
-      "root": "yom",
-      "order": {
-        "hebrew": 5,
-        "english": 6
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "5": [
+          3,
+          11
+        ],
+        "8": [
+          8
+        ],
+        "13": [
+          4
+        ],
+        "14": [
+          8,
+          14
+        ],
+        "16": [
+          10
+        ],
+        "18": [
+          1
+        ],
+        "19": [
+          4
+        ],
+        "23": [
+          4
+        ],
+        "31": [
+          13
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
+      "2": {
+        "2": [
+          2,
+          8
+        ],
+        "3": [
+          3
+        ],
+        "4": [
+          5
+        ],
+        "17": [
+          8
+        ]
       },
-      "grammarSuffix": {
-        "englishNatural": "."
+      "3": {
+        "5": [
+          4
+        ],
+        "8": [
+          8
+        ],
+        "14": [
+          21
+        ],
+        "17": [
+          21
+        ]
       },
-      "lineBreaksBefore": {
-        "hebrew": 1
+      "4": {
+        "3": [
+          2
+        ],
+        "14": [
+          3
+        ]
       },
-      "lineBreaksAfter": {
-        "english": 1
+      "5": {
+        "1": [
+          4
+        ],
+        "2": [
+          9
+        ],
+        "4": [
+          1
+        ],
+        "5": [
+          2
+        ],
+        "8": [
+          2
+        ],
+        "11": [
+          2
+        ],
+        "14": [
+          2
+        ],
+        "17": [
+          2
+        ],
+        "20": [
+          2
+        ],
+        "23": [
+          2
+        ],
+        "27": [
+          2
+        ],
+        "31": [
+          2
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 13
+      "6": {
+        "3": [
+          11
+        ],
+        "4": [
+          3
+        ]
       }
     },
-    {
-      "hebrew": "הַיּ֖וֹם",
-      "transliteration": "haYom",
-      "englishLiteral": "the-day",
-      "englishNatural": "the day",
-      "root": "yom",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 10
+    "jonah": {
+      "1": {
+        "17": [
+          12
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 14
+      "3": {
+        "3": [
+          14
+        ],
+        "4": [
+          5,
+          11
+        ]
       }
     },
-    {
-      "hebrew": "וּלְיָמִ֣ים",
-      "transliteration": "uLeYamim",
-      "englishLiteral": "and-for-days",
-      "englishNatural": "and for days",
-      "root": "yom",
-      "prefixes": [
-        "u",
-        "le"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 14
+    "proverbs": {
+      "22": {
+        "1": [
+          4,
+          6
+        ]
       }
     },
-    {
-      "hebrew": "הַיּ֔וֹם",
-      "transliteration": "haYom",
-      "englishLiteral": "the-day",
-      "englishNatural": "the day",
-      "root": "yom",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "בַּיּ֣וֹם",
-      "transliteration": "baYom",
-      "englishLiteral": "in-the-day",
-      "englishNatural": "in the day",
-      "root": "yom",
-      "prefixes": [
-        "be",
-        "ha"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "י֥וֹם",
-      "transliteration": "yom",
-      "englishLiteral": "Day",
-      "englishNatural": "day",
-      "root": "yom",
-      "order": {
-        "hebrew": 5,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "י֥וֹם",
-      "transliteration": "yom",
-      "englishLiteral": "Day",
-      "englishNatural": "day",
-      "root": "yom",
-      "order": {
-        "hebrew": 5,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "י֥וֹם",
-      "transliteration": "yom",
-      "englishLiteral": "Day",
-      "englishNatural": "day",
-      "root": "yom",
-      "order": {
-        "hebrew": 14,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "י֑וֹם",
-      "transliteration": "yom",
-      "englishLiteral": "Day",
-      "englishNatural": "Day",
-      "root": "yom",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",\"",
-        "englishNatural": ",\""
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "י֥וֹם",
-      "transliteration": "yom",
-      "englishLiteral": "Day",
-      "englishNatural": "day",
-      "root": "yom",
-      "order": {
-        "hebrew": 12,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "י֥וֹם",
-      "transliteration": "yom",
-      "englishLiteral": "Day",
-      "englishNatural": "day",
-      "root": "yom",
-      "order": {
-        "hebrew": 9,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "בְּיוֹם",
-      "transliteration": "beYom",
-      "englishLiteral": "in-day",
-      "englishNatural": "in the day of",
-      "root": "yom",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "בַּיּוֹם",
-      "transliteration": "baYom",
-      "englishLiteral": "in-day",
-      "englishNatural": "day",
-      "root": "yom",
-      "prefixes": [
-        "ba"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "בַּיּוֹם",
-      "transliteration": "baYom",
-      "englishLiteral": "in-day",
-      "englishNatural": "day",
-      "root": "yom",
-      "prefixes": [
-        "ba"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "יוֹם",
-      "transliteration": "yom",
-      "englishLiteral": "day",
-      "englishNatural": "day",
-      "root": "yom",
-      "order": {
-        "hebrew": 4,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "בְּיוֹם",
-      "transliteration": "beYom",
-      "englishLiteral": "in-day",
-      "englishNatural": "in the day",
-      "root": "yom",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "יְמֵי",
-      "transliteration": "yemey",
-      "englishLiteral": "days",
-      "englishNatural": "the days",
-      "root": "yom",
-      "suffixes": [
-        "construct_y"
-      ],
-      "order": {
-        "hebrew": 22,
-        "english": 22
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "יְמֵי",
-      "transliteration": "yemey",
-      "englishLiteral": "days-of",
-      "englishNatural": "the days of",
-      "root": "yom",
-      "suffixes": [
-        "construct_y"
-      ],
-      "order": {
-        "hebrew": 22,
-        "english": 22
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "בְיוֹם",
-      "transliteration": "beYom",
-      "englishLiteral": "in-day",
-      "englishNatural": "in the day",
-      "root": "yom",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "הַיּוֹם",
-      "transliteration": "haYom",
-      "englishLiteral": "the-day",
-      "englishNatural": "of the day",
-      "root": "yom",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "הַיּוֹם",
-      "transliteration": "haYom",
-      "englishLiteral": "the-day",
-      "englishNatural": "this day",
-      "root": "yom",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "יָמִים",
-      "transliteration": "yamim",
-      "englishLiteral": "days",
-      "englishNatural": "days",
-      "root": "yom",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "בְּיוֹם",
-      "transliteration": "beYom",
-      "englishLiteral": "In-day",
-      "englishNatural": "In the day",
-      "root": "yom",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "יְמֵי",
-      "transliteration": "yemey",
-      "englishLiteral": "days-of",
-      "englishNatural": "the days of",
-      "root": "yom",
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "יְמֵי",
-      "transliteration": "yemey",
-      "englishLiteral": "days-of",
-      "englishNatural": "the days of",
-      "root": "yom",
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "יְמֵי",
-      "transliteration": "yemey",
-      "englishLiteral": "days-of",
-      "englishNatural": "the days of",
-      "root": "yom",
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "בְּיוֹם",
-      "transliteration": "beYom",
-      "englishLiteral": "in-day",
-      "englishNatural": "in the day of",
-      "root": "yom",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "יְמֵי",
-      "transliteration": "yemey",
-      "englishLiteral": "days-of",
-      "englishNatural": "the days of",
-      "root": "yom",
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "יְמֵי",
-      "transliteration": "yemey",
-      "englishLiteral": "days-of",
-      "englishNatural": "the days of",
-      "root": "yom",
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "יְמֵי",
-      "transliteration": "yemey",
-      "englishLiteral": "days-of",
-      "englishNatural": "the days of",
-      "root": "yom",
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "יְמֵי",
-      "transliteration": "yemey",
-      "englishLiteral": "days-of",
-      "englishNatural": "the days of",
-      "root": "yom",
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "יְמֵי־",
-      "transliteration": "yemey-",
-      "englishLiteral": "days-of",
-      "englishNatural": "And the days of",
-      "root": "yom",
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "יְמֵי",
-      "transliteration": "yemey",
-      "englishLiteral": "days-of",
-      "englishNatural": "the days of",
-      "root": "yom",
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "יְמֵי",
-      "transliteration": "yemey",
-      "englishLiteral": "days-of",
-      "englishNatural": "the days of",
-      "root": "yom",
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "יָמָיו",
-      "transliteration": "yamav",
-      "englishLiteral": "his-days",
-      "englishNatural": "and his days",
-      "root": "yom",
-      "suffixes": [
-        "av"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "בַּיָּמִים",
-      "transliteration": "baYamim",
-      "englishLiteral": "in-the-days",
-      "englishNatural": "days",
-      "root": "yom",
-      "prefixes": [
-        "ba"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "יָמִים",
-      "transliteration": "yamim",
-      "englishLiteral": "days",
-      "englishNatural": "days",
-      "root": "yom",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "יָמִים",
-      "transliteration": "yamim",
-      "englishLiteral": "days",
-      "englishNatural": "days",
-      "root": "yom",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "יוֹם",
-      "transliteration": "yom",
-      "englishLiteral": "day",
-      "englishNatural": "day",
-      "root": "yom",
-      "order": {
-        "hebrew": 6,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "יוֹם",
-      "transliteration": "yom",
-      "englishLiteral": "day",
-      "englishNatural": "days",
-      "root": "yom",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וְיוֹם",
-      "transliteration": "veYom",
-      "englishLiteral": "and-day",
-      "englishNatural": "and the day",
-      "root": "yom",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "מִיּוֹם",
-      "transliteration": "miYom",
-      "englishLiteral": "than-day",
-      "englishNatural": "than the day",
-      "root": "yom",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "יוֹמָם",
-      "transliteration": "yomam",
-      "englishLiteral": "by-day",
-      "englishNatural": "by day",
-      "root": "yom",
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "יְמֵי",
-      "transliteration": "yemei",
-      "englishLiteral": "days-of",
-      "englishNatural": "the days of",
-      "root": "yom",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "יָמִים",
-      "transliteration": "yamim",
-      "englishLiteral": "days",
-      "englishNatural": "days",
-      "root": "yom",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 6
+    "psalms": {
+      "1": {
+        "2": [
+          7
+        ]
+      },
+      "23": {
+        "6": [
+          5,
+          11
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

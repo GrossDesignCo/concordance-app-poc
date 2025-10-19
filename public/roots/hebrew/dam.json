@@ -6,61 +6,18 @@
   "englishNatural": "blood",
   "type": "noun",
   "description": "blood, life-force",
-  "wordInstances": [
-    {
-      "hebrew": "דְּמֵי",
-      "transliteration": "demey",
-      "englishLiteral": "blood-of",
-      "englishNatural": "the blood of",
-      "root": "dam",
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "דְּמֵי",
-      "transliteration": "demey",
-      "englishLiteral": "blood-of",
-      "englishNatural": "the blood of",
-      "root": "dam",
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 11
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "10": [
+          4
+        ],
+        "11": [
+          11
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

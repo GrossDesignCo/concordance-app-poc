@@ -6,37 +6,15 @@
   "englishNatural": "gird",
   "description": "to gird, bind around, put on a belt or covering",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "חֲגֹרֹת׃",
-      "transliteration": "chagorot",
-      "englishLiteral": "girdings",
-      "englishNatural": "girdings",
-      "root": "chagar",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 7
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "7": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -5,94 +5,19 @@
   "englishLiteral": "lip",
   "englishNatural": "lip",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "שְׂפָתַיִם",
-      "transliteration": "sfatayim",
-      "englishLiteral": "lips",
-      "englishNatural": "lips",
-      "root": "safah",
-      "morphology": {
-        "type": "noun",
-        "state": "absolute",
-        "number": "dual",
-        "gender": "feminine"
-      },
-      "suffixes": [
-        "ayim"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 10
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "שְׂפָתַיִם",
-      "transliteration": "sfatayim",
-      "englishLiteral": "lips",
-      "englishNatural": "lips",
-      "root": "safah",
-      "morphology": {
-        "type": "noun",
-        "state": "absolute",
-        "number": "dual",
-        "gender": "feminine"
-      },
-      "suffixes": [
-        "ayim"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "שְׂפָתֶיךָ",
-      "transliteration": "sfatekha",
-      "englishLiteral": "your-lips",
-      "englishNatural": "your lips",
-      "root": "safah",
-      "suffixes": [
-        "ekha"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "person": "2nd",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 7
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "5": [
+          8,
+          13
+        ],
+        "7": [
+          8
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

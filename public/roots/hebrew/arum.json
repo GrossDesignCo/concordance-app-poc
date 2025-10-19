@@ -11,88 +11,26 @@
   "related": [
     "armah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "עָרוּם",
-      "transliteration": "arum",
-      "englishLiteral": "shrewd",
-      "englishNatural": "shrewd",
-      "root": "arum",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "1": [
+          2
+        ],
+        "7": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "עֵירֻמִּם",
-      "transliteration": "eyrumim",
-      "englishLiteral": "naked",
-      "englishNatural": "naked",
-      "root": "arum",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "עָרוּם",
-      "transliteration": "arum",
-      "englishLiteral": "Shrewd",
-      "englishNatural": "Shrewd",
-      "root": "arum",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 3
+    "proverbs": {
+      "22": {
+        "3": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": [
     "phronimos"
   ]

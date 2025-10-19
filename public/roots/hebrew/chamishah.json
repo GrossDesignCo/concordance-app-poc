@@ -9,32 +9,15 @@
   "related": [
     "chamishi"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "חֲמִשָּׁה",
-      "transliteration": "chamishah",
-      "englishLiteral": "five",
-      "englishNatural": "five",
-      "root": "chamishah",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 21
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "21": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

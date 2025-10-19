@@ -6,107 +6,28 @@
   "englishNatural": "mouth",
   "type": "noun",
   "description": "mouth, opening, entrance",
-  "wordInstances": [
-    {
-      "hebrew": "פִּיהָ",
-      "transliteration": "piha",
-      "englishLiteral": "her-mouth",
-      "englishNatural": "her mouth",
-      "root": "peh",
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 11
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "11": [
+          8
+        ]
       }
     },
-    {
-      "hebrew": "לִפְנֵי",
-      "transliteration": "lifnei",
-      "englishLiteral": "to-face-of",
-      "englishNatural": "to the-face-of",
-      "root": "peh",
-      "prefixes": [
-        "li"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "פְּנֵי",
-      "transliteration": "penei",
-      "englishLiteral": "face-of",
-      "englishNatural": "the face of",
-      "root": "peh",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "לְפִי",
-      "transliteration": "lePhi",
-      "englishLiteral": "to-mouth-of",
-      "englishNatural": "to the mouth of",
-      "root": "peh",
-      "prefixes": [
-        "le"
-      ],
-      "suffixes": [
-        "i"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 3
+    "proverbs": {
+      "8": {
+        "3": [
+          2
+        ],
+        "25": [
+          3
+        ],
+        "27": [
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

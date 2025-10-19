@@ -6,177 +6,32 @@
   "englishNatural": "to",
   "type": "preposition",
   "description": "to, for, at, in",
-  "wordInstances": [
-    {
-      "hebrew": "לָךְ",
-      "transliteration": "lakh",
-      "englishLiteral": "to-you",
-      "englishNatural": "to you",
-      "root": "lamed",
-      "suffixes": [
-        "kha"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "6": [
+          6
+        ],
+        "12": [
+          8
+        ],
+        "15": [
+          1
+        ]
       },
-      "morphology": {
-        "number": "singular",
-        "person": "2nd",
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "לוֹ",
-      "transliteration": "lo",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "lamed",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "לָךְ",
-      "transliteration": "lakh",
-      "englishLiteral": "to-you",
-      "englishNatural": "to you",
-      "root": "lamed",
-      "suffixes": [
-        "kh"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "לָהֶם",
-      "transliteration": "lahem",
-      "englishLiteral": "to-them",
-      "englishNatural": "to them",
-      "root": "lamed",
-      "suffixes": [
-        "hem"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "לָהֶם",
-      "transliteration": "lahem",
-      "englishLiteral": "to-them",
-      "englishNatural": "to themselves",
-      "root": "lamed",
-      "suffixes": [
-        "hem"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "לָהֶם",
-      "transliteration": "lahem",
-      "englishLiteral": "to-them",
-      "englishNatural": "and to them",
-      "root": "lamed",
-      "suffixes": [
-        "hem"
-      ],
-      "order": {
-        "hebrew": 17,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 4
+      "6": {
+        "1": [
+          10
+        ],
+        "2": [
+          10
+        ],
+        "4": [
+          16
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

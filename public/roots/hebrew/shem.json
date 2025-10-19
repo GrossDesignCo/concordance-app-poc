@@ -5,573 +5,97 @@
   "englishLiteral": "name",
   "englishNatural": "name",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "שְּׁמִי",
-      "transliteration": "shmi",
-      "englishLiteral": "my-name",
-      "englishNatural": "my name",
-      "root": "shem",
-      "suffixes": [
-        "i_possessive"
-      ],
-      "order": {
-        "hebrew": 23,
-        "english": 23
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "15": [
+          22
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 15
+      "34": {
+        "5": [
+          7
+        ]
       }
     },
-    {
-      "hebrew": "בְשֵׁם",
-      "transliteration": "beshem",
-      "englishLiteral": "in-name",
-      "englishNatural": "the name of",
-      "root": "shem",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
+    "genesis": {
+      "2": {
+        "11": [
+          0
+        ],
+        "13": [
+          0
+        ],
+        "14": [
+          0
+        ],
+        "19": [
+          27
+        ],
+        "20": [
+          2
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
+      "3": {
+        "20": [
+          2
+        ]
       },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 5
+      "4": {
+        "17": [
+          12,
+          14
+        ],
+        "19": [
+          5,
+          8
+        ],
+        "21": [
+          0
+        ],
+        "25": [
+          9
+        ],
+        "26": [
+          7,
+          12
+        ]
+      },
+      "5": {
+        "2": [
+          7
+        ],
+        "3": [
+          10
+        ],
+        "29": [
+          2
+        ],
+        "32": [
+          8
+        ]
+      },
+      "6": {
+        "4": [
+          22
+        ]
       }
     },
-    {
-      "hebrew": "שֵׁם",
-      "transliteration": "shem",
-      "englishLiteral": "Name",
-      "englishNatural": "The name",
-      "root": "shem",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 11
+    "proverbs": {
+      "22": {
+        "1": [
+          1
+        ]
       }
     },
-    {
-      "hebrew": "וְשֵׁם־",
-      "transliteration": "veShem-",
-      "englishLiteral": "and-name-",
-      "englishNatural": "And the name of",
-      "root": "shem",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "שֵׁם",
-      "transliteration": "shem",
-      "englishLiteral": "name",
-      "englishNatural": "The name of",
-      "root": "shem",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "שְׁמוֹ׃",
-      "transliteration": "shemo",
-      "englishLiteral": "its-name",
-      "englishNatural": "its name",
-      "root": "shem",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 28,
-        "english": 28
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "שֵׁמוֹת",
-      "transliteration": "shemot",
-      "englishLiteral": "names",
-      "englishNatural": "names",
-      "root": "shem",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "שֵׁם",
-      "transliteration": "shem",
-      "englishLiteral": "name",
-      "englishNatural": "name",
-      "root": "shem",
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "שֵׁם",
-      "transliteration": "shem",
-      "englishLiteral": "name",
-      "englishNatural": "the name of",
-      "root": "shem",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "כְּשֵׁם",
-      "transliteration": "keShem",
-      "englishLiteral": "as-name",
-      "englishNatural": "after the name of",
-      "root": "shem",
-      "prefixes": [
-        "ke"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "שֵׁם",
-      "transliteration": "shem",
-      "englishLiteral": "name",
-      "englishNatural": "the name",
-      "root": "shem",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "וְשֵׁם",
-      "transliteration": "veShem",
-      "englishLiteral": "and-name",
-      "englishNatural": "and the name",
-      "root": "shem",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "וְשֵׁם",
-      "transliteration": "veShem",
-      "englishLiteral": "and-name",
-      "englishNatural": "And the name",
-      "root": "shem",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "שְׁמוֹ",
-      "transliteration": "shemo",
-      "englishLiteral": "name-his",
-      "englishNatural": "his name",
-      "root": "shem",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "שְׁמוֹ",
-      "transliteration": "shemo",
-      "englishLiteral": "name-his",
-      "englishNatural": "his name",
-      "root": "shem",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "בְּשֵׁם",
-      "transliteration": "beShem",
-      "englishLiteral": "in-name-of",
-      "englishNatural": "in the name of",
-      "root": "shem",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "שְׁמָם",
-      "transliteration": "shemam",
-      "englishLiteral": "name-their",
-      "englishNatural": "their name",
-      "root": "shem",
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "שְׁמוֹ",
-      "transliteration": "shmo",
-      "englishLiteral": "his-name",
-      "englishNatural": "his name",
-      "root": "shem",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "שְׁמוֹ",
-      "transliteration": "shemo",
-      "englishLiteral": "name-his",
-      "englishNatural": "his name",
-      "root": "shem",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "שֵׁם",
-      "transliteration": "Shem",
-      "englishLiteral": "Name (Shem)",
-      "englishNatural": "Name (Shem)",
-      "root": "shem",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "noun",
-        "state": "absolute"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 32
-      }
-    },
-    {
-      "hebrew": "הַשֵּׁם",
-      "transliteration": "haShem",
-      "englishLiteral": "the-name",
-      "englishNatural": "the name",
-      "root": "shem",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 23,
-        "english": 23
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "שֵׁם",
-      "transliteration": "shem",
-      "englishLiteral": "name",
-      "englishNatural": "name",
-      "root": "shem",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "שְׁמוֹ",
-      "transliteration": "shemo",
-      "englishLiteral": "his-name",
-      "englishNatural": "his name",
-      "root": "shem",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 3
+    "psalms": {
+      "23": {
+        "3": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

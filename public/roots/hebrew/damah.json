@@ -5,42 +5,15 @@
   "englishLiteral": "to be silenced",
   "englishNatural": "to be silenced",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "נִדְמֵיתִי",
-      "transliteration": "nidmeiti",
-      "englishLiteral": "I-am-silenced",
-      "englishNatural": "I am silenced",
-      "root": "damah",
-      "suffixes": [
-        "ti"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "perfect",
-        "stem": "niphal",
-        "person": "1st",
-        "number": "singular",
-        "gender": "masculine"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "5": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

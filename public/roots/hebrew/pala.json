@@ -6,41 +6,15 @@
   "englishNatural": "to be-wonderful",
   "type": "verb",
   "description": "to be wonderful, marvelous, extraordinary, beyond understanding",
-  "wordInstances": [
-    {
-      "hebrew": "וּבְנִפְלָאוֹת",
-      "transliteration": "uvNiFlaot",
-      "englishLiteral": "and-in-wonders",
-      "englishNatural": "and in wonders",
-      "root": "pala",
-      "prefixes": [
-        "u",
-        "be"
-      ],
-      "suffixes": [
-        "ot"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "tense": "participle",
-        "stem": "niphal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 1
+  "wordIndexes": {
+    "psalms": {
+      "131": {
+        "1": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

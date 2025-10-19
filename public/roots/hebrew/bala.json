@@ -6,35 +6,15 @@
   "englishNatural": "to swallow",
   "type": "verb",
   "description": "to swallow, swallow up, engulf",
-  "wordInstances": [
-    {
-      "hebrew": "לִבְלֹעַ",
-      "transliteration": "livloa",
-      "englishLiteral": "to-swallow",
-      "englishNatural": "to swallow",
-      "root": "bala",
-      "prefixes": [
-        "li"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "infinitive_construct",
-        "stem": "qal"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 17
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "17": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

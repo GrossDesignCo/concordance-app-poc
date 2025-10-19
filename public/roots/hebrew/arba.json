@@ -8,54 +8,20 @@
     "revii"
   ],
   "type": "numeral",
-  "wordInstances": [
-    {
-      "hebrew": "לְאַרְבָּעָה",
-      "transliteration": "leArbaah",
-      "englishLiteral": "to-four",
-      "englishNatural": "into four",
-      "root": "arba",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "10": [
+          9
+        ]
       },
-      "morphology": {
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "אַרְבָּעִים",
-      "transliteration": "arbaim",
-      "englishLiteral": "forty",
-      "englishNatural": "forty",
-      "root": "arba",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 13
+      "5": {
+        "13": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

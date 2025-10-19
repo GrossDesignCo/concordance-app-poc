@@ -9,70 +9,18 @@
     "kavash"
   ],
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וְיִרְדּוּ֩",
-      "transliteration": "veYirdu",
-      "englishLiteral": "And-let-them-subjugate",
-      "englishNatural": "And let them subjugate",
-      "root": "radah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "וּרְד֞וּ",
-      "transliteration": "uRedu",
-      "englishLiteral": "and-subjugate",
-      "englishNatural": "and subjugate",
-      "root": "radah",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "2nd",
-        "tense": "imperative",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 28
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "26": [
+          6
+        ],
+        "28": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

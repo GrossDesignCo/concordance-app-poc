@@ -9,33 +9,15 @@
   "related": [
     "amar"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "אִמְרֵי",
-      "transliteration": "imre",
-      "englishLiteral": "words-of",
-      "englishNatural": "words of",
-      "root": "emer",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 2
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "2": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

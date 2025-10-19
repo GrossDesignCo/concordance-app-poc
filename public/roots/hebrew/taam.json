@@ -6,37 +6,15 @@
   "englishNatural": "decree",
   "type": "noun",
   "description": "decree, command, taste, judgment",
-  "wordInstances": [
-    {
-      "hebrew": "מִטַּעַם",
-      "transliteration": "mitaam",
-      "englishLiteral": "from-decree-of",
-      "englishNatural": "from the decree of",
-      "root": "taam",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 7
+  "wordIndexes": {
+    "jonah": {
+      "3": {
+        "7": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

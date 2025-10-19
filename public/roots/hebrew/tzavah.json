@@ -6,97 +6,23 @@
   "englishNatural": "to command",
   "description": "to command, to order, to instruct",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיְצַו",
-      "transliteration": "vaYetzav",
-      "englishLiteral": "And-commanded",
-      "englishNatural": "commanded",
-      "root": "tzavah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "16": [
+          0
+        ]
       },
-      "morphology": {
-        "type": "verb",
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "piel"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "צִוִּיתִיךָ",
-      "transliteration": "tzivitikha",
-      "englishLiteral": "I-command-you",
-      "englishNatural": "I command you",
-      "root": "tzavah",
-      "suffixes": [
-        "ti",
-        "kha"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "common",
-        "number": "singular",
-        "person": "1st",
-        "tense": "perfect",
-        "stem": "piel",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "צִוִּיתִיךָ",
-      "transliteration": "tzivitikha",
-      "englishLiteral": "I-commanded-you",
-      "englishNatural": "I commanded you",
-      "root": "tzavah",
-      "suffixes": [
-        "ti",
-        "ekha"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "1st",
-        "tense": "perfect",
-        "stem": "piel",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 17
+      "3": {
+        "11": [
+          10
+        ],
+        "17": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

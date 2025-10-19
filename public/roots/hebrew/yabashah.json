@@ -5,126 +5,30 @@
   "englishLiteral": "dry_ground",
   "englishNatural": "dry-ground",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "לַיַּבָּשָׁה֙",
-      "transliteration": "laYabashah",
-      "englishLiteral": "to_the-dry_ground",
-      "englishNatural": "to the dry-ground",
-      "root": "yabashah",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 10
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "9": [
+          10
+        ],
+        "10": [
+          2
+        ]
       }
     },
-    {
-      "hebrew": "הַיַּבָּשָׁ֑ה",
-      "transliteration": "haYabashah",
-      "englishLiteral": "the-dry_ground",
-      "englishNatural": "And let the dry-ground",
-      "root": "yabashah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 9
+    "jonah": {
+      "1": {
+        "9": [
+          15
+        ]
       },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\""
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "הַיַּבָּשָׁה",
-      "transliteration": "haYabashah",
-      "englishLiteral": "the-dry_ground",
-      "englishNatural": "the dry-ground",
-      "root": "yabashah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "הַיַּבָּשָׁה",
-      "transliteration": "haYabashah",
-      "englishLiteral": "the-dry_ground",
-      "englishNatural": "the dry-ground",
-      "root": "yabashah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 2,
-        "verse": 10
+      "2": {
+        "10": [
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,67 +6,18 @@
   "englishNatural": "to cover",
   "type": "verb",
   "description": "to cover, conceal, hide, clothe",
-  "wordInstances": [
-    {
-      "hebrew": "וַיְכַס",
-      "transliteration": "vaYekhas",
-      "englishLiteral": "and-covered",
-      "englishNatural": "and covered",
-      "root": "kasah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "piel",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "וְיִתְכַּסּוּ",
-      "transliteration": "veYitkassu",
-      "englishLiteral": "And-they-will-be-covered",
-      "englishNatural": "And they will be covered",
-      "root": "kasah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hithpael",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 8
+  "wordIndexes": {
+    "jonah": {
+      "3": {
+        "6": [
+          10
+        ],
+        "8": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

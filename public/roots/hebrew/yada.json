@@ -6,395 +6,70 @@
   "englishNatural": "to know",
   "description": "to know, to be aware of, to understand",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "לָדַעַת",
-      "transliteration": "laDaat",
-      "englishLiteral": "to-know",
-      "englishNatural": "to know",
-      "root": "yada",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "5": [
+          1,
+          11
+        ],
+        "7": [
+          3
+        ],
+        "22": [
+          8
+        ]
       },
-      "morphology": {
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 22
+      "4": {
+        "1": [
+          1
+        ],
+        "9": [
+          9
+        ],
+        "17": [
+          0
+        ],
+        "25": [
+          0
+        ]
       }
     },
-    {
-      "hebrew": "יֹדֵעַ",
-      "transliteration": "yodea",
-      "englishLiteral": "knowing",
-      "englishNatural": "is knowing",
-      "root": "yada",
-      "order": {
-        "hebrew": 2,
-        "english": 3
+    "jonah": {
+      "1": {
+        "7": [
+          7
+        ],
+        "10": [
+          10
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "participle",
-        "stem": "qal",
-        "type": "verb"
+      "3": {
+        "9": [
+          1
+        ]
       },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 5
+      "4": {
+        "2": [
+          19
+        ]
       }
     },
-    {
-      "hebrew": "יֹדְעֵי",
-      "transliteration": "yodey",
-      "englishLiteral": "knowing",
-      "englishNatural": "knowing",
-      "root": "yada",
-      "suffixes": [
-        "construct_y"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "participle",
-        "stem": "qal",
-        "state": "construct",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 5
+    "proverbs": {
+      "1": {
+        "2": [
+          0
+        ]
       }
     },
-    {
-      "hebrew": "וַיֵּדְעוּ",
-      "transliteration": "vaYedu",
-      "englishLiteral": "and-knew",
-      "englishNatural": "and they knew",
-      "root": "yada",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "יָדַע",
-      "transliteration": "yada",
-      "englishLiteral": "knew",
-      "englishNatural": "knew",
-      "root": "yada",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וַיֵּדַע",
-      "transliteration": "vayYeda",
-      "englishLiteral": "And-he-knew",
-      "englishNatural": "And",
-      "root": "yada",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "וַיֵּדַע",
-      "transliteration": "vaYeda",
-      "englishLiteral": "and-knew",
-      "englishNatural": "knew",
-      "root": "yada",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "יָדַעְתִּי",
-      "transliteration": "yadati",
-      "englishLiteral": "I-knew",
-      "englishNatural": "I knew",
-      "root": "yada",
-      "suffixes": [
-        "ti"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "1st",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "יָדְעוּ",
-      "transliteration": "yadu",
-      "englishLiteral": "knew",
-      "englishNatural": "knew",
-      "root": "yada",
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "וְנֵדְעָה",
-      "transliteration": "veNedah",
-      "englishLiteral": "and-let-us-know",
-      "englishNatural": "and let us know",
-      "root": "yada",
-      "prefixes": [
-        "ve"
-      ],
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "1st",
-        "tense": "cohortative",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "יוֹדֵעַ",
-      "transliteration": "yodea",
-      "englishLiteral": "knows",
-      "englishNatural": "knows",
-      "root": "yada",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "participle",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "?",
-        "englishNatural": "?"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "יָדַעְתִּי",
-      "transliteration": "yadati",
-      "englishLiteral": "I-knew",
-      "englishNatural": "I knew",
-      "root": "yada",
-      "suffixes": [
-        "ti"
-      ],
-      "order": {
-        "hebrew": 20,
-        "english": 20
-      },
-      "morphology": {
-        "number": "singular",
-        "person": "1st",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "לָדַעַת",
-      "transliteration": "ladaat",
-      "englishLiteral": "To-know",
-      "englishNatural": "To know",
-      "root": "yada",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "tense": "infinitive_construct",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "יוֹדֵעַ",
-      "transliteration": "yodea",
-      "englishLiteral": "knowing",
-      "englishNatural": "knows",
-      "root": "yada",
-      "order": {
-        "hebrew": 2,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "tense": "participle",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 6
+    "psalms": {
+      "1": {
+        "6": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

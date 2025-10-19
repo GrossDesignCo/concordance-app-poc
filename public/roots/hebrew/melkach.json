@@ -5,35 +5,15 @@
   "englishLiteral": "tongs",
   "englishNatural": "tongs",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "בְּמֶלְקַחַיִם",
-      "transliteration": "beMelkachayim",
-      "englishLiteral": "with-tongs",
-      "englishNatural": "with tongs",
-      "root": "melkach",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "dual",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 6
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "6": [
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

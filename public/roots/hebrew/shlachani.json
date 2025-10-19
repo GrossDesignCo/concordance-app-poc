@@ -9,60 +9,18 @@
   "related": [
     "shalach"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "שְׁלָחַנִי",
-      "transliteration": "shlachani",
-      "englishLiteral": "sent-me",
-      "englishNatural": "has sent me",
-      "root": "shlachani",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "שְׁלָחַנִי",
-      "transliteration": "shlachani",
-      "englishLiteral": "sent-me",
-      "englishNatural": "has sent me",
-      "root": "shlachani",
-      "order": {
-        "hebrew": 20,
-        "english": 20
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 15
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "14": [
+          13
+        ],
+        "15": [
+          19
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

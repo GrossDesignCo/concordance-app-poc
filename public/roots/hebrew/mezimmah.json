@@ -6,40 +6,15 @@
   "englishNatural": "purpose",
   "type": "noun",
   "description": "purpose, plan, discretion, prudence, evil device",
-  "wordInstances": [
-    {
-      "hebrew": "וּמְזִמָּה",
-      "transliteration": "umezimmah",
-      "englishLiteral": "and-purpose",
-      "englishNatural": "and purpose",
-      "root": "mezimmah",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 4
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "4": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

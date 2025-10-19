@@ -8,432 +8,57 @@
     "mavet"
   ],
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "תָּמוּת׃",
-      "transliteration": "tamuth",
-      "englishLiteral": "you-will-die",
-      "englishNatural": "you will die",
-      "root": "mut",
-      "prefixes": [
-        "ta"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "17": [
+          12
+        ]
       },
-      "morphology": {
-        "type": "verb",
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperfect",
-        "stem": "qal"
+      "3": {
+        "3": [
+          16
+        ],
+        "4": [
+          5,
+          6
+        ]
       },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 17
+      "5": {
+        "5": [
+          11
+        ],
+        "8": [
+          10
+        ],
+        "11": [
+          9
+        ],
+        "14": [
+          9
+        ],
+        "17": [
+          10
+        ],
+        "20": [
+          10
+        ],
+        "27": [
+          10
+        ],
+        "31": [
+          10
+        ]
       }
     },
-    {
-      "hebrew": "תְּמֻתוּן׃",
-      "transliteration": "temutun",
-      "englishLiteral": "you-shall-die",
-      "englishNatural": "you should die",
-      "root": "mut",
-      "suffixes": [
-        "un"
-      ],
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "2nd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "'.\"",
-        "englishNatural": "'.\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "מוֹת",
-      "transliteration": "mot",
-      "englishLiteral": "dying",
-      "englishNatural": "Dying",
-      "root": "mut",
-      "order": {
-        "hebrew": 6,
-        "english": 5
-      },
-      "morphology": {
-        "type": "verb",
-        "stem": "qal",
-        "tense": "infinitive_absolute"
-      },
-      "grammarPrefix": {
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishNatural": "?"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "תְּמֻתוּן׃",
-      "transliteration": "temutun",
-      "englishLiteral": "you-shall-die",
-      "englishNatural": "You shall die",
-      "root": "mut",
-      "suffixes": [
-        "un"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "2nd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\""
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וַיָּמֹת",
-      "transliteration": "vaYamot",
-      "englishLiteral": "and-he-died",
-      "englishNatural": "and he died",
-      "root": "mut",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": 1,
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "וַיָּמֹת",
-      "transliteration": "vaYamot",
-      "englishLiteral": "and-he-died",
-      "englishNatural": "and he died",
-      "root": "mut",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": 1,
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "וַיָּמֹת",
-      "transliteration": "vaYamot",
-      "englishLiteral": "and-he-died",
-      "englishNatural": "and he died",
-      "root": "mut",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": 1,
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "וַיָּמֹת",
-      "transliteration": "vaYamot",
-      "englishLiteral": "and-he-died",
-      "englishNatural": "and he died",
-      "root": "mut",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": 1,
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "וַיָּמֹת",
-      "transliteration": "vaYamot",
-      "englishLiteral": "and-he-died",
-      "englishNatural": "and he died",
-      "root": "mut",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "וַיָּמֹת",
-      "transliteration": "vaYamot",
-      "englishLiteral": "and-died",
-      "englishNatural": "and he died",
-      "root": "mut",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "וַיָּמֹת",
-      "transliteration": "vaYamot",
-      "englishLiteral": "and-he-died",
-      "englishNatural": "and he died",
-      "root": "mut",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 11
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": 1,
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וַיָּמֹת",
-      "transliteration": "vaYamot",
-      "englishLiteral": "and-he-died",
-      "englishNatural": "and he died",
-      "root": "mut",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": 1,
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "וַיָּמָת",
-      "transliteration": "vaYamat",
-      "englishLiteral": "and-died",
-      "englishNatural": "died",
-      "root": "mut",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 6
+    "numbers": {
+      "21": {
+        "6": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

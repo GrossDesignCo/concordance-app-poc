@@ -9,34 +9,15 @@
   "related": [
     "aqev"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "יַעֲקֹב",
-      "transliteration": "Yaaqov",
-      "englishLiteral": "Heel_Grasper (Jacob)",
-      "englishNatural": "Heel-Grasper (Jacob)",
-      "root": "yaaqov",
-      "order": {
-        "hebrew": 19,
-        "english": 19
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 15
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "15": [
+          18
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

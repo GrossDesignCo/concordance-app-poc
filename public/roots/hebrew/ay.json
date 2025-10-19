@@ -6,60 +6,22 @@
   "englishNatural": "where",
   "type": "adverb",
   "description": "where, in what place",
-  "wordInstances": [
-    {
-      "hebrew": "אֵי",
-      "transliteration": "ay",
-      "englishLiteral": "Where",
-      "englishNatural": "Where",
-      "root": "ay",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": "?",
-        "englishNatural": "?"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 9
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "9": [
+          4
+        ]
       }
     },
-    {
-      "hebrew": "וְאֵי־",
-      "transliteration": "veEi-",
-      "englishLiteral": "and-where-",
-      "englishNatural": "and where",
-      "root": "ay",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 8
+    "jonah": {
+      "1": {
+        "8": [
+          16
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

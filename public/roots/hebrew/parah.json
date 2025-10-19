@@ -8,67 +8,18 @@
     "peri"
   ],
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "פְּר֣וּ",
-      "transliteration": "peRu",
-      "englishLiteral": "Be-fruitful",
-      "englishNatural": "Be fruitful",
-      "root": "parah",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "2nd",
-        "tense": "imperative",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "פְּר֥וּ",
-      "transliteration": "peru",
-      "englishLiteral": "Be-fruitful",
-      "englishNatural": "Be fruitful",
-      "root": "parah",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "2nd",
-        "tense": "imperative",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 28
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "22": [
+          4
+        ],
+        "28": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

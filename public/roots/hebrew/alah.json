@@ -5,94 +5,29 @@
   "englishLiteral": "to go_up",
   "englishNatural": "to go up",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "יַעֲלֶה",
-      "transliteration": "yaaleh",
-      "englishLiteral": "will-go_up",
-      "englishNatural": "went up",
-      "root": "alah",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 6
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "6": [
+          1
+        ]
       }
     },
-    {
-      "hebrew": "עָלְתָה",
-      "transliteration": "aletah",
-      "englishLiteral": "went_up",
-      "englishNatural": "has come up",
-      "root": "alah",
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 2
+    "jonah": {
+      "1": {
+        "2": [
+          9
+        ]
       }
     },
-    {
-      "hebrew": "הַמַּעֲלוֹת",
-      "transliteration": "haMaalot",
-      "englishLiteral": "the-overs",
-      "englishNatural": "of The Overs",
-      "root": "alah",
-      "prefixes": [
-        "ha"
-      ],
-      "suffixes": [
-        "ot"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 1
+    "psalms": {
+      "131": {
+        "1": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

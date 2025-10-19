@@ -5,122 +5,30 @@
   "englishLiteral": "to find",
   "englishNatural": "to find",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "מָצָא",
-      "transliteration": "matza",
-      "englishLiteral": "was-found",
-      "englishNatural": "was found",
-      "root": "matza",
-      "order": {
-        "hebrew": 13,
-        "english": 14
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "20": [
+          12
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 20
+      "4": {
+        "14": [
+          15
+        ],
+        "15": [
+          17
+        ]
       }
     },
-    {
-      "hebrew": "מֹצְאִי",
-      "transliteration": "motzei",
-      "englishLiteral": "finding-me",
-      "englishNatural": "finding me",
-      "root": "matza",
-      "suffixes": [
-        "i"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "1st",
-        "tense": "participle",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "מֹצְאוֹ",
-      "transliteration": "motzo",
-      "englishLiteral": "finding-him",
-      "englishNatural": "on finding him",
-      "root": "matza",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 18,
-        "english": 19
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "participle",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "וַיִּמְצָא",
-      "transliteration": "vaYimtza",
-      "englishLiteral": "and-found",
-      "englishNatural": "and he found",
-      "root": "matza",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 3
+    "jonah": {
+      "1": {
+        "3": [
+          8
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

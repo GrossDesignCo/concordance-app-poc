@@ -6,33 +6,15 @@
   "englishNatural": "appearance",
   "description": "sight, appearance, what is seen",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "לְמַרְאֶה",
-      "transliteration": "leMareh",
-      "englishLiteral": "to-sight",
-      "englishNatural": "to the sight",
-      "root": "mareh",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 9
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "9": [
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

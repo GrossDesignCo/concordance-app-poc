@@ -9,36 +9,15 @@
   "related": [
     "laqach"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "לֶקַח",
-      "transliteration": "leqach",
-      "englishLiteral": "teaching",
-      "englishNatural": "teaching",
-      "root": "leqach",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 5
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "5": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

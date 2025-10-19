@@ -5,42 +5,15 @@
   "englishLiteral": "to sleep",
   "englishNatural": "to sleep",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיִּישָׁן",
-      "transliteration": "vaYishan",
-      "englishLiteral": "and-he-slept",
-      "englishNatural": "and he slept",
-      "root": "yashen",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 21
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "21": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -5,180 +5,50 @@
   "englishLiteral": "there",
   "englishNatural": "there",
   "type": "adverb",
-  "wordInstances": [
-    {
-      "hebrew": "שָׁם",
-      "transliteration": "sham",
-      "englishLiteral": "there",
-      "englishNatural": "there",
-      "root": "sham",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 5
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "5": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "וּמִשָּׁם",
-      "transliteration": "uMisham",
-      "englishLiteral": "and-from-there",
-      "englishNatural": "and from there",
-      "root": "sham",
-      "prefixes": [
-        "u",
-        "mi"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
+    "genesis": {
+      "2": {
+        "8": [
+          7
+        ],
+        "10": [
+          6
+        ],
+        "11": [
+          10
+        ],
+        "12": [
+          4
+        ]
       },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 10
+      "3": {
+        "23": [
+          10
+        ]
       }
     },
-    {
-      "hebrew": "שָׁם",
-      "transliteration": "sham",
-      "englishLiteral": "there",
-      "englishNatural": "there is",
-      "root": "sham",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 11
+    "jonah": {
+      "4": {
+        "5": [
+          9
+        ]
       }
     },
-    {
-      "hebrew": "שָׁם",
-      "transliteration": "sham",
-      "englishLiteral": "there",
-      "englishNatural": "there is",
-      "root": "sham",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "שָׁם",
-      "transliteration": "sham",
-      "englishLiteral": "there",
-      "englishNatural": "there",
-      "root": "sham",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "מִשָּׁם׃",
-      "transliteration": "miSham",
-      "englishLiteral": "from-there",
-      "englishNatural": "from there",
-      "root": "sham",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 9
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "."
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "שָׁם",
-      "transliteration": "sham",
-      "englishLiteral": "there",
-      "englishNatural": "there",
-      "root": "sham",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "שָׁם",
-      "transliteration": "sham",
-      "englishLiteral": "there",
-      "englishNatural": "there",
-      "root": "sham",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 27
+    "proverbs": {
+      "8": {
+        "27": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

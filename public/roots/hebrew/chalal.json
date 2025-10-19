@@ -6,93 +6,27 @@
   "englishNatural": "to begin",
   "type": "verb",
   "description": "to begin, start, commence; also to profane, defile",
-  "wordInstances": [
-    {
-      "hebrew": "הוּחַל",
-      "transliteration": "huchal",
-      "englishLiteral": "was-begun",
-      "englishNatural": "it began",
-      "root": "chalal",
-      "order": {
-        "hebrew": 11,
-        "english": 11
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "26": [
+          10
+        ]
       },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "hophal",
-        "tense": "perfect"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 26
+      "6": {
+        "1": [
+          2
+        ]
       }
     },
-    {
-      "hebrew": "הֵחֵל",
-      "transliteration": "hechel",
-      "englishLiteral": "began",
-      "englishNatural": "began",
-      "root": "chalal",
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וַיָּחֶל",
-      "transliteration": "vaYachel",
-      "englishLiteral": "And-began",
-      "englishNatural": "began",
-      "root": "chalal",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 4
+    "jonah": {
+      "3": {
+        "4": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

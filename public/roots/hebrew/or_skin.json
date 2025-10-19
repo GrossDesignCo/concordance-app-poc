@@ -9,32 +9,15 @@
     "or"
   ],
   "description": "animal skin, hide, leather",
-  "wordInstances": [
-    {
-      "hebrew": "עוֹר",
-      "transliteration": "or",
-      "englishLiteral": "skin",
-      "englishNatural": "of skin",
-      "root": "or_skin",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 21
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "21": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

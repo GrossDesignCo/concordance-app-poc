@@ -10,54 +10,20 @@
     "neqevah"
   ],
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "זָכָ֥ר",
-      "transliteration": "zakhar",
-      "englishLiteral": "male",
-      "englishNatural": "male",
-      "root": "zakhar",
-      "order": {
-        "hebrew": 10,
-        "english": 10
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "27": [
+          9
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "זָכָר",
-      "transliteration": "zakhar",
-      "englishLiteral": "male",
-      "englishNatural": "Male",
-      "root": "zakhar",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 2
+      "5": {
+        "2": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

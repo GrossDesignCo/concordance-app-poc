@@ -6,103 +6,28 @@
   "englishNatural": "who",
   "type": "pronoun",
   "description": "who, whoever (interrogative pronoun)",
-  "wordInstances": [
-    {
-      "hebrew": "מִי",
-      "transliteration": "mi",
-      "englishLiteral": "Who",
-      "englishNatural": "Who",
-      "root": "mi",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 11
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "11": [
+          1
+        ],
+        "19": [
+          9
+        ],
+        "22": [
+          7
+        ]
       }
     },
-    {
-      "hebrew": "מִמֶּנָּה",
-      "transliteration": "mimenah",
-      "englishLiteral": "from-her",
-      "englishNatural": "from it",
-      "root": "mi",
-      "suffixes": [
-        "enah"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "מִמֶּנּוּ",
-      "transliteration": "miMennu",
-      "englishLiteral": "from-us",
-      "englishNatural": "from us",
-      "root": "mi",
-      "prefixes": [
-        "mi"
-      ],
-      "suffixes": [
-        "enu"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "מִי־",
-      "transliteration": "mi-",
-      "englishLiteral": "who-",
-      "englishNatural": "Who",
-      "root": "mi",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 9
+    "jonah": {
+      "3": {
+        "9": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

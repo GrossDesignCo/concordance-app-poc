@@ -6,36 +6,15 @@
   "englishNatural": "bread",
   "type": "noun",
   "description": "bread, food, sustenance",
-  "wordInstances": [
-    {
-      "hebrew": "לֶחֶם",
-      "transliteration": "lechem",
-      "englishLiteral": "bread",
-      "englishNatural": "bread",
-      "root": "lechem",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 19
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "19": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

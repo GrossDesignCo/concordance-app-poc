@@ -6,162 +6,39 @@
   "englishNatural": "what",
   "type": "pronoun",
   "description": "interrogative pronoun - what, how",
-  "wordInstances": [
-    {
-      "hebrew": "מַה־",
-      "transliteration": "mah-",
-      "englishLiteral": "What-",
-      "englishNatural": "What",
-      "root": "mah",
-      "order": {
-        "hebrew": 5,
-        "english": 5
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "13": [
+          4
+        ]
       },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 13
+      "4": {
+        "10": [
+          1
+        ]
       }
     },
-    {
-      "hebrew": "מֶה",
-      "transliteration": "meh",
-      "englishLiteral": "What",
-      "englishNatural": "What",
-      "root": "mah",
-      "order": {
-        "hebrew": 2,
-        "english": 2
+    "jonah": {
+      "1": {
+        "6": [
+          6
+        ],
+        "8": [
+          10,
+          14
+        ],
+        "10": [
+          6
+        ]
       },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "מַה־",
-      "transliteration": "mah-",
-      "englishLiteral": "What-",
-      "englishNatural": "What",
-      "root": "mah",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "מַה־",
-      "transliteration": "mah-",
-      "englishLiteral": "What-",
-      "englishNatural": "What",
-      "root": "mah",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "מַה־",
-      "transliteration": "mah-",
-      "englishLiteral": "What-",
-      "englishNatural": "What",
-      "root": "mah",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "מָה",
-      "transliteration": "mah",
-      "englishLiteral": "What",
-      "englishNatural": "What",
-      "root": "mah",
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "מַה־",
-      "transliteration": "mah-",
-      "englishLiteral": "what-",
-      "englishNatural": "what",
-      "root": "mah",
-      "order": {
-        "hebrew": 18,
-        "english": 18
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 5
+      "4": {
+        "5": [
+          17
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

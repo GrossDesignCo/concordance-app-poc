@@ -5,56 +5,22 @@
   "englishLiteral": "high",
   "englishNatural": "high",
   "type": "adjective",
-  "wordInstances": [
-    {
-      "hebrew": "רָם",
-      "transliteration": "ram",
-      "englishLiteral": "high",
-      "englishNatural": "high",
-      "root": "rum",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 1
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "1": [
+          10
+        ]
       }
     },
-    {
-      "hebrew": "רָמוּ",
-      "transliteration": "ramu",
-      "englishLiteral": "are-high",
-      "englishNatural": "are high",
-      "root": "rum",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "common",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 1
+    "psalms": {
+      "131": {
+        "1": [
+          8
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

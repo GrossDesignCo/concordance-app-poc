@@ -5,359 +5,72 @@
   "englishLiteral": "he",
   "englishNatural": "he",
   "type": "pronoun",
-  "wordInstances": [
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "he",
-      "englishNatural": "it",
-      "root": "hu",
-      "order": {
-        "hebrew": 4,
-        "english": 4
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "11": [
+          3
+        ],
+        "12": [
+          2
+        ],
+        "13": [
+          4
+        ],
+        "14": [
+          4,
+          10
+        ],
+        "19": [
+          26
+        ]
       },
-      "morphology": {
-        "type": "pronoun"
+      "3": {
+        "6": [
+          8
+        ],
+        "15": [
+          9
+        ],
+        "16": [
+          13
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 11
+      "4": {
+        "4": [
+          3
+        ],
+        "20": [
+          4
+        ],
+        "21": [
+          3
+        ],
+        "26": [
+          2
+        ]
+      },
+      "6": {
+        "3": [
+          8
+        ]
       }
     },
-    {
-      "hebrew": "הַהִוא",
-      "transliteration": "haHi",
-      "englishLiteral": "the-that",
-      "englishNatural": "of that",
-      "root": "hu",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 12
+    "isaiah": {
+      "6": {
+        "2": [
+          3
+        ]
       }
     },
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "he",
-      "englishNatural": "it",
-      "root": "hu",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "he",
-      "englishNatural": "it",
-      "root": "hu",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "he",
-      "englishNatural": "it is",
-      "root": "hu",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "it",
-      "englishNatural": "that was",
-      "root": "hu",
-      "order": {
-        "hebrew": 27,
-        "english": 27
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "he",
-      "englishNatural": "he",
-      "root": "hu",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "וְהוּא",
-      "transliteration": "veHu",
-      "englishLiteral": "and-he",
-      "englishNatural": "and he",
-      "root": "hu",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "it",
-      "englishNatural": "it was",
-      "root": "hu",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "he",
-      "englishNatural": "he",
-      "root": "hu",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "pronoun",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "he",
-      "englishNatural": "he",
-      "root": "hu",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "pronoun",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "he",
-      "englishNatural": "he",
-      "root": "hu",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "he",
-      "englishNatural": "he",
-      "root": "hu",
-      "order": {
-        "hebrew": 4,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "pronoun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "he",
-      "englishNatural": "he",
-      "root": "hu",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "לוֹ",
-      "transliteration": "lo",
-      "englishLiteral": "to-him",
-      "englishNatural": "him",
-      "root": "hu",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "הוּא",
-      "transliteration": "hu",
-      "englishLiteral": "he",
-      "englishNatural": "he",
-      "root": "hu",
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
+    "jonah": {
+      "1": {
+        "10": [
+          15
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

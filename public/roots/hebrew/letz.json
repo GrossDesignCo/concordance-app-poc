@@ -6,35 +6,15 @@
   "englishNatural": "scoffer",
   "type": "noun",
   "description": "scoffer, mocker, one who scorns",
-  "wordInstances": [
-    {
-      "hebrew": "לֵצִים",
-      "transliteration": "letzim",
-      "englishLiteral": "scoffers",
-      "englishNatural": "scoffers",
-      "root": "letz",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 1
+  "wordIndexes": {
+    "psalms": {
+      "1": {
+        "1": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

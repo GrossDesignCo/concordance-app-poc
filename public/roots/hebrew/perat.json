@@ -6,35 +6,15 @@
   "englishNatural": "Fruitful (Perat)",
   "description": "Proper noun, river name, traditionally identified as the Euphrates",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "פְּרָת׃",
-      "transliteration": "Perat",
-      "englishLiteral": "Fruitful (Perat)",
-      "englishNatural": "Fruitful (Perat)",
-      "root": "perat",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 14
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "14": [
+          11
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

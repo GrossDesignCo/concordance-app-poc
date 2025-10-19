@@ -4,34 +4,15 @@
   "transliteration": "idou",
   "englishLiteral": "behold",
   "englishNatural": "behold",
-  "wordInstances": [
-    {
-      "greek": "Ἰδοὺ",
-      "transliteration": "Idou",
-      "englishLiteral": "Behold",
-      "englishNatural": "Behold",
-      "root": "idou",
-      "order": {
-        "greek": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Matthew",
-        "chapter": 10,
-        "verse": 16
+  "wordIndexes": {
+    "matthew": {
+      "10": {
+        "16": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

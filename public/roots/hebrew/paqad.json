@@ -6,35 +6,15 @@
   "englishNatural": "to visit",
   "type": "verb",
   "description": "to visit, attend to, punish, number, appoint",
-  "wordInstances": [
-    {
-      "hebrew": "פֹּקֵד",
-      "transliteration": "poqed",
-      "englishLiteral": "visiting",
-      "englishNatural": "visiting",
-      "root": "paqad",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "tense": "participle",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "7": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

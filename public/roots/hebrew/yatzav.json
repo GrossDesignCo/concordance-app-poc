@@ -10,39 +10,15 @@
     "amad",
     "netzav"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "וַיִּתְיַצֵּב",
-      "transliteration": "vaYityatzev",
-      "englishLiteral": "and-positioned-himself",
-      "englishNatural": "and positioned himself",
-      "root": "yatzav",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hithpael",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 5
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "5": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

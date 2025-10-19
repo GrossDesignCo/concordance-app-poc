@@ -9,78 +9,21 @@
   "related": [
     "tesha"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "וְתִשְׁעִים",
-      "transliteration": "veTishim",
-      "englishLiteral": "and-ninety",
-      "englishNatural": "and ninety",
-      "root": "tishim",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "וְתִשְׁעִים",
-      "transliteration": "veTishim",
-      "englishLiteral": "and-ninety",
-      "englishNatural": "and ninety",
-      "root": "tishim",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "תִּשְׁעִים",
-      "transliteration": "tishim",
-      "englishLiteral": "ninety",
-      "englishNatural": "ninety",
-      "root": "tishim",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 9
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "9": [
+          2
+        ],
+        "17": [
+          5
+        ],
+        "30": [
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

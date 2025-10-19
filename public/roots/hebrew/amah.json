@@ -5,38 +5,15 @@
   "englishLiteral": "pillar",
   "englishNatural": "pillar",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "אַמּ֣וֹת",
-      "transliteration": "amot",
-      "englishLiteral": "pillars",
-      "englishNatural": "And pillars of",
-      "root": "amah",
-      "suffixes": [
-        "ot"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 4
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "4": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -4,35 +4,15 @@
   "transliteration": "apostello",
   "englishLiteral": "send",
   "englishNatural": "send",
-  "wordInstances": [
-    {
-      "greek": "ἀποστέλλω",
-      "transliteration": "apostello",
-      "englishLiteral": "send",
-      "englishNatural": "send",
-      "root": "apostello",
-      "order": {
-        "greek": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "present",
-        "voice": "active",
-        "mood": "indicative",
-        "person": "1st",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Matthew",
-        "chapter": 10,
-        "verse": 16
+  "wordIndexes": {
+    "matthew": {
+      "10": {
+        "16": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

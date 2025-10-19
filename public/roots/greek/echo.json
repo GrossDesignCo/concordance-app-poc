@@ -4,36 +4,15 @@
   "transliteration": "echo",
   "englishLiteral": "have",
   "englishNatural": "have",
-  "wordInstances": [
-    {
-      "greek": "ἔχοντα",
-      "transliteration": "echonta",
-      "englishLiteral": "having",
-      "englishNatural": "having",
-      "root": "echo",
-      "order": {
-        "greek": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "case": "accusative",
-        "tense": "present",
-        "voice": "active",
-        "mood": "participle",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 1
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "1": [
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

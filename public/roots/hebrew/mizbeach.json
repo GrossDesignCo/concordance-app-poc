@@ -5,39 +5,15 @@
   "englishLiteral": "altar",
   "englishNatural": "altar",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "הַמִּזְבֵּחַ",
-      "transliteration": "haMizbeach",
-      "englishLiteral": "the-altar",
-      "englishNatural": "the altar",
-      "root": "mizbeach",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 6
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "6": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

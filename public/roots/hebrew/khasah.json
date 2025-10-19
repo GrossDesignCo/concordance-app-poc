@@ -5,65 +5,16 @@
   "englishLiteral": "to cover",
   "englishNatural": "to cover",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "יְכַסֶּה",
-      "transliteration": "yeKhasseh",
-      "englishLiteral": "he-covers",
-      "englishNatural": "he covers",
-      "root": "khasah",
-      "prefixes": [
-        "ye"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "piel",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "יְכַסֶּה",
-      "transliteration": "yeKhasseh",
-      "englishLiteral": "he-covers",
-      "englishNatural": "he covers",
-      "root": "khasah",
-      "prefixes": [
-        "ye"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "piel",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 2
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "2": [
+          8,
+          11
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

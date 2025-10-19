@@ -6,129 +6,27 @@
   "englishNatural": "Praise-of-God (Mahalaleel)",
   "type": "noun",
   "description": "proper name, Mahalaleel, meaning \"praise of God\" or \"God be praised\"",
-  "wordInstances": [
-    {
-      "hebrew": "מַהֲלַלְאֵל",
-      "transliteration": "Mahalalel",
-      "englishLiteral": "Praise_of_God (Mahalaleel)",
-      "englishNatural": "Praise-of-God (Mahalaleel)",
-      "root": "mahalalel",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "מַהֲלַלְאֵל",
-      "transliteration": "Mahalalel",
-      "englishLiteral": "Praise_of_God (Mahalaleel)",
-      "englishNatural": "Praise-of-God (Mahalaleel)",
-      "root": "mahalalel",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "מַהֲלַלְאֵל",
-      "transliteration": "Mahalalel",
-      "englishLiteral": "Praise_of_God (Mahalaleel)",
-      "englishNatural": "And Praise-of-God (Mahalaleel)",
-      "root": "mahalalel",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "מַהֲלַלְאֵל",
-      "transliteration": "Mahalalel",
-      "englishLiteral": "Praise_of_God (Mahalaleel)",
-      "englishNatural": "And Praise-of-God (Mahalaleel)",
-      "root": "mahalalel",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "מַהֲלַלְאֵל",
-      "transliteration": "Mahalalel",
-      "englishLiteral": "Praise_of_God (Mahalaleel)",
-      "englishNatural": "Praise-of-God (Mahalaleel)",
-      "root": "mahalalel",
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 17
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "12": [
+          6
+        ],
+        "13": [
+          5
+        ],
+        "15": [
+          1
+        ],
+        "16": [
+          1
+        ],
+        "17": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -8,688 +8,86 @@
     "ish"
   ],
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "לְאִשָּׁה",
-      "transliteration": "leIshah",
-      "englishLiteral": "to-woman",
-      "englishNatural": "into a woman",
-      "root": "ishah",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "אִשָּׁה",
-      "transliteration": "ishah",
-      "englishLiteral": "Woman",
-      "englishNatural": "Woman",
-      "root": "ishah",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "בְּאִשְׁתּוֹ",
-      "transliteration": "beIshto",
-      "englishLiteral": "in-his-woman",
-      "englishNatural": "in his woman",
-      "root": "ishah",
-      "prefixes": [
-        "be"
-      ],
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "וְאִשְׁתּוֹ",
-      "transliteration": "veIshto",
-      "englishLiteral": "and-his-woman",
-      "englishNatural": "and his woman",
-      "root": "ishah",
-      "prefixes": [
-        "ve"
-      ],
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "הָאִשָּׁה",
-      "transliteration": "haIshah",
-      "englishLiteral": "the-woman",
-      "englishNatural": "the woman",
-      "root": "ishah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "הָאִשָּׁה",
-      "transliteration": "haIshah",
-      "englishLiteral": "The-woman",
-      "englishNatural": "The woman",
-      "root": "ishah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "לָאִשָּׁה",
-      "transliteration": "laIshah",
-      "englishLiteral": "to-the-woman",
-      "englishNatural": "to the woman",
-      "root": "ishah",
-      "prefixes": [
-        "la"
-      ],
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "הָאִשָּׁה",
-      "transliteration": "haIshah",
-      "englishLiteral": "the-woman",
-      "englishNatural": "And the woman",
-      "root": "ishah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "הָאִשָּׁה",
-      "transliteration": "haIshah",
-      "englishLiteral": "the-woman",
-      "englishNatural": "the woman",
-      "root": "ishah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "הָאִשָּׁה",
-      "transliteration": "haIshah",
-      "englishLiteral": "the-woman",
-      "englishNatural": "the woman",
-      "root": "ishah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "אִשְׁתֶּךָ",
-      "transliteration": "ishtekha",
-      "englishLiteral": "wife-your",
-      "englishNatural": "of your wife",
-      "root": "ishah",
-      "suffixes": [
-        "ekha"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "הָאִשָּׁה",
-      "transliteration": "haIshah",
-      "englishLiteral": "the-woman",
-      "englishNatural": "And the woman",
-      "root": "ishah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ""
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "אִשְׁתּוֹ",
-      "transliteration": "ishto",
-      "englishLiteral": "wife-his",
-      "englishNatural": "his wife's",
-      "root": "ishah",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "וּלְאִשְׁתּוֹ",
-      "transliteration": "uleIshto",
-      "englishLiteral": "and-to-woman-his",
-      "englishNatural": "and to his woman",
-      "root": "ishah",
-      "prefixes": [
-        "u",
-        "le"
-      ],
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "הָאִשָּׁה",
-      "transliteration": "haIshah",
-      "englishLiteral": "the-woman",
-      "englishNatural": "And the woman",
-      "root": "ishah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "הָאִשָּׁה",
-      "transliteration": "haIshah",
-      "englishLiteral": "the-woman",
-      "englishNatural": "the woman",
-      "root": "ishah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "הָאִשָּׁה",
-      "transliteration": "haIshah",
-      "englishLiteral": "the-woman",
-      "englishNatural": "And the woman",
-      "root": "ishah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "וְאִשְׁתּוֹ",
-      "transliteration": "ve'ishto",
-      "englishLiteral": "and-his-wife",
-      "englishNatural": "and his wife",
-      "root": "ishah",
-      "prefixes": [
-        "ve"
-      ],
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "אִשְׁתּוֹ",
-      "transliteration": "ishto",
-      "englishLiteral": "his-woman",
-      "englishNatural": "his woman",
-      "root": "ishah",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "אִשְׁתּוֹ",
-      "transliteration": "ishto",
-      "englishLiteral": "his-woman",
-      "englishNatural": "knew his woman",
-      "root": "ishah",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "לְנָשָׁיו",
-      "transliteration": "leNashayv",
-      "englishLiteral": "to-women-his",
-      "englishNatural": "to his women",
-      "root": "ishah",
-      "prefixes": [
-        "le"
-      ],
-      "suffixes": [
-        "av"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "feminine",
-        "number": "plural"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "נְשֵׁי",
-      "transliteration": "neshei",
-      "englishLiteral": "women-of",
-      "englishNatural": "women of",
-      "root": "ishah",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "אִשְׁתּוֹ",
-      "transliteration": "ishto",
-      "englishLiteral": "woman-his",
-      "englishNatural": "his woman",
-      "root": "ishah",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 4
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "נָשִׁים",
-      "transliteration": "nashim",
-      "englishLiteral": "women",
-      "englishNatural": "women",
-      "root": "ishah",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 2
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "22": [
+          9
+        ],
+        "23": [
+          10
+        ],
+        "24": [
+          9
+        ],
+        "25": [
+          4
+        ]
+      },
+      "3": {
+        "1": [
+          12
+        ],
+        "2": [
+          1
+        ],
+        "3": [
+          1
+        ],
+        "4": [
+          3
+        ],
+        "6": [
+          1
+        ],
+        "8": [
+          11
+        ],
+        "12": [
+          2
+        ],
+        "13": [
+          3,
+          8
+        ],
+        "15": [
+          4
+        ],
+        "16": [
+          1
+        ],
+        "17": [
+          5
+        ],
+        "20": [
+          3
+        ],
+        "21": [
+          4
+        ]
+      },
+      "4": {
+        "1": [
+          4
+        ],
+        "17": [
+          3
+        ],
+        "23": [
+          2,
+          7
+        ],
+        "25": [
+          4
+        ]
+      },
+      "6": {
+        "2": [
+          11
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

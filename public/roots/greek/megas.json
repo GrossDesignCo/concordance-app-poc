@@ -7,35 +7,16 @@
   "translatedFrom": [
     "gadol"
   ],
-  "wordInstances": [
-    {
-      "greek": "μεγάλην",
-      "transliteration": "megalēn",
-      "englishLiteral": "great",
-      "englishNatural": "great",
-      "root": "megas",
-      "order": {
-        "greek": 15,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "case": "accusative",
-        "type": "adjective",
-        "degree": "positive"
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 1
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "1": [
+          14
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": [
     "gadol"
   ]

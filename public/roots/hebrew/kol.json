@@ -5,1209 +5,182 @@
   "englishLiteral": "all",
   "englishNatural": "all",
   "type": "adjective",
-  "wordInstances": [
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 7,
-        "english": 7
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "21": [
+          6,
+          15
+        ],
+        "25": [
+          10
+        ],
+        "26": [
+          12,
+          14
+        ],
+        "28": [
+          17
+        ],
+        "29": [
+          6,
+          13,
+          16
+        ],
+        "30": [
+          0,
+          3,
+          6,
+          15
+        ],
+        "31": [
+          3
+        ]
       },
-      "morphology": {
-        "type": "adjective"
+      "2": {
+        "1": [
+          3
+        ],
+        "2": [
+          10
+        ],
+        "3": [
+          10
+        ],
+        "5": [
+          0,
+          6
+        ],
+        "6": [
+          6
+        ],
+        "9": [
+          4
+        ],
+        "11": [
+          6
+        ],
+        "13": [
+          7
+        ],
+        "16": [
+          6
+        ],
+        "19": [
+          5,
+          9,
+          19
+        ],
+        "20": [
+          3,
+          7
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
+      "3": {
+        "1": [
+          3,
+          19
+        ],
+        "14": [
+          10,
+          12,
+          20
+        ],
+        "17": [
+          20
+        ],
+        "20": [
+          9
+        ]
+      },
+      "4": {
+        "14": [
+          14
+        ],
+        "15": [
+          4,
+          16
+        ],
+        "21": [
+          6
+        ],
+        "22": [
+          7
+        ]
+      },
+      "5": {
+        "5": [
+          1
+        ],
+        "8": [
+          1
+        ],
+        "11": [
+          1
+        ],
+        "14": [
+          1
+        ],
+        "17": [
+          1
+        ],
+        "20": [
+          1
+        ],
+        "23": [
+          1
+        ],
+        "27": [
+          1
+        ],
+        "31": [
+          1
+        ]
+      },
+      "6": {
+        "2": [
+          12
+        ]
       }
     },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 16,
-        "english": 16
+    "isaiah": {
+      "6": {
+        "3": [
+          11
+        ]
       },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
+      "14": {
+        "29": [
+          3
+        ]
       }
     },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 25
+    "numbers": {
+      "21": {
+        "8": [
+          12
+        ]
       }
     },
-    {
-      "hebrew": "וּבְכָל־",
-      "transliteration": "uVeKol-",
-      "englishLiteral": "and-in-all",
-      "englishNatural": "and among all",
-      "root": "kol",
-      "prefixes": [
-        "u",
-        "be"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "וּבְכָל־",
-      "transliteration": "uVeKol-",
-      "englishLiteral": "and-in-all",
-      "englishNatural": "and among all",
-      "root": "kol",
-      "prefixes": [
-        "u",
-        "be"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "וּבְכָל־",
-      "transliteration": "uVeKol-",
-      "englishLiteral": "and-in-all",
-      "englishNatural": "and among all",
-      "root": "kol",
-      "prefixes": [
-        "u",
-        "be"
-      ],
-      "order": {
-        "hebrew": 18,
-        "english": 18
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 28
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "כָל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "וּלְכָל־",
-      "transliteration": "uLeKol-",
-      "englishLiteral": "And-to-all",
-      "englishNatural": "And to all",
-      "root": "kol",
-      "prefixes": [
-        "u",
-        "le"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "וּלְכָל־",
-      "transliteration": "uLeKol-",
-      "englishLiteral": "and-to-all",
-      "englishNatural": "and to all",
-      "root": "kol",
-      "prefixes": [
-        "u",
-        "le"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "וּלְכֹ֖ל",
-      "transliteration": "uLeKol",
-      "englishLiteral": "and-to-all",
-      "englishNatural": "and to all",
-      "root": "kol",
-      "prefixes": [
-        "u",
-        "le"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "כָּל",
-      "transliteration": "kol",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "וְכָל־",
-      "transliteration": "veKol-",
-      "englishLiteral": "and-all-",
-      "englishNatural": "and all",
-      "root": "kol",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "מִכֹּל",
-      "transliteration": "miKol",
-      "englishLiteral": "From-all",
-      "englishNatural": "From all",
-      "root": "kol",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "grammarPrefix": {
-        "englishNatural": "\"",
-        "englishLiteral": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "every",
-      "root": "kol",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "every",
-      "root": "kol",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "וְכֹל",
-      "transliteration": "veKol",
-      "englishLiteral": "And-all",
-      "englishNatural": "And everything",
-      "root": "kol",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 20,
-        "english": 20
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "מִכָּל־",
-      "transliteration": "miKol-",
-      "englishLiteral": "from-all",
-      "englishNatural": "from all",
-      "root": "kol",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "לְכָל־",
-      "transliteration": "leKol-",
-      "englishLiteral": "to-every-",
-      "englishNatural": "to every",
-      "root": "kol",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "וּלְכֹל",
-      "transliteration": "uLeKol",
-      "englishLiteral": "and-to-every",
-      "englishNatural": "and to every",
-      "root": "kol",
-      "prefixes": [
-        "u",
-        "le"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "מִכָּל־",
-      "transliteration": "miKol-",
-      "englishLiteral": "from-all",
-      "englishNatural": "from all",
-      "root": "kol",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וְכֹל",
-      "transliteration": "veKol",
-      "englishLiteral": "And-all",
-      "englishNatural": "And all",
-      "root": "kol",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וְכָל",
-      "transliteration": "veKol",
-      "englishLiteral": "and-all",
-      "englishNatural": "and all",
-      "root": "kol",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "every",
-      "root": "kol",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "מִכֹּל",
-      "transliteration": "miKol",
-      "englishLiteral": "from-all",
-      "englishNatural": "out of every",
-      "root": "kol",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "מִכֹּל",
-      "transliteration": "miKol",
-      "englishLiteral": "from-all",
-      "englishNatural": "from any",
-      "root": "kol",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 20,
-        "english": 20
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "מִכֹּל",
-      "transliteration": "mikol",
-      "englishLiteral": "from-all",
-      "englishNatural": "from every",
-      "root": "kol",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "וּמִכֹּל",
-      "transliteration": "umikol",
-      "englishLiteral": "and-from-all",
-      "englishNatural": "and from every",
-      "root": "kol",
-      "prefixes": [
-        "u",
-        "mi"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 21,
-        "english": 21
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "כֹּל",
-      "transliteration": "kol",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 21,
-        "english": 21
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all",
-      "englishNatural": "of all",
-      "root": "kol",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "כָל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 17,
-        "english": 16
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "noun",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "And all",
-      "root": "kol",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "And all",
-      "root": "kol",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "And all",
-      "root": "kol",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "And all",
-      "root": "kol",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "כָּל",
-      "transliteration": "kol",
-      "englishLiteral": "all",
-      "englishNatural": "And all",
-      "root": "kol",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "כָּל",
-      "transliteration": "kol",
-      "englishLiteral": "all",
-      "englishNatural": "And all",
-      "root": "kol",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "And all",
-      "root": "kol",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "And all",
-      "root": "kol",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "And all",
-      "root": "kol",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "מִכֹּל",
-      "transliteration": "mikol",
-      "englishLiteral": "from-all",
-      "englishNatural": "from all",
-      "root": "kol",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "כֻּלֵּךְ",
-      "transliteration": "kulekh",
-      "englishLiteral": "all-of-you",
-      "englishNatural": "all of you",
-      "root": "kol",
-      "suffixes": [
-        "ekh"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "2nd",
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 14,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "כָּל",
-      "transliteration": "kol",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "כָּל",
-      "transliteration": "kol",
-      "englishLiteral": "all",
-      "englishNatural": "everyone",
-      "root": "kol",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "וְכֹל",
-      "transliteration": "veKhol",
-      "englishLiteral": "and-all",
-      "englishNatural": "and all",
-      "root": "kol",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "כָּל",
-      "transliteration": "kol",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 117,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "כָּל",
-      "transliteration": "kol",
-      "englishLiteral": "all",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 117,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "כָּל־",
-      "transliteration": "kol-",
-      "englishLiteral": "all-",
-      "englishNatural": "all",
-      "root": "kol",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 6
+    "psalms": {
+      "1": {
+        "3": [
+          13
+        ]
+      },
+      "23": {
+        "6": [
+          4
+        ]
+      },
+      "117": {
+        "1": [
+          3,
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

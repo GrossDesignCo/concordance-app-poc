@@ -9,39 +9,15 @@
   "related": [
     "bo"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "תָּבוֹא",
-      "transliteration": "tavo",
-      "englishLiteral": "you-come",
-      "englishNatural": "come you",
-      "root": "tavo",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "?",
-        "englishNatural": "?"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 8
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "8": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

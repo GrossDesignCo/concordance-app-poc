@@ -6,66 +6,16 @@
   "englishNatural": "to clear",
   "type": "verb",
   "description": "to clear, be clean, be innocent, go unpunished",
-  "wordInstances": [
-    {
-      "hebrew": "וְנַקֵּה",
-      "transliteration": "veNakeh",
-      "englishLiteral": "and-clearing",
-      "englishNatural": "and clearing",
-      "root": "nakeh",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "tense": "infinitive_absolute",
-        "stem": "piel",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "יְנַקֶּה",
-      "transliteration": "yenakeh",
-      "englishLiteral": "he-will-clear",
-      "englishNatural": "he will clear",
-      "root": "nakeh",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "piel",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "7": [
+          7,
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

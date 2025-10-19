@@ -8,33 +8,15 @@
     "al"
   ],
   "type": "preposition",
-  "wordInstances": [
-    {
-      "hebrew": "מִמַּעַל",
-      "transliteration": "miMaal",
-      "englishLiteral": "from-above",
-      "englishNatural": "above",
-      "root": "maal",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 2
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "2": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

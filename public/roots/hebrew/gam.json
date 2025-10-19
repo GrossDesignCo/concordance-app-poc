@@ -6,155 +6,41 @@
   "englishNatural": "also",
   "description": "also, even, indeed",
   "type": "adverb",
-  "wordInstances": [
-    {
-      "hebrew": "גַּם",
-      "transliteration": "gam",
-      "englishLiteral": "also",
-      "englishNatural": "also",
-      "root": "gam",
-      "order": {
-        "hebrew": 17,
-        "english": 17
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "6": [
+          17
+        ],
+        "22": [
+          16
+        ]
       },
-      "morphology": {
-        "type": "adverb"
+      "4": {
+        "4": [
+          2
+        ],
+        "22": [
+          1
+        ],
+        "26": [
+          1
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 22
+      "6": {
+        "4": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "גַּם־",
-      "transliteration": "gam-",
-      "englishLiteral": "also-",
-      "englishNatural": "also",
-      "root": "gam",
-      "order": {
-        "hebrew": 18,
-        "english": 19
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "גַם־",
-      "transliteration": "gam-",
-      "englishLiteral": "also-",
-      "englishNatural": "also",
-      "root": "gam",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "גַּם־",
-      "transliteration": "gam-",
-      "englishLiteral": "also",
-      "englishNatural": "also",
-      "root": "gam",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "גַם־",
-      "transliteration": "gam-",
-      "englishLiteral": "also",
-      "englishNatural": "also",
-      "root": "gam",
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וְגַם",
-      "transliteration": "vegam",
-      "englishLiteral": "and-also",
-      "englishNatural": "and also",
-      "root": "gam",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "גַּם",
-      "transliteration": "gam",
-      "englishLiteral": "Also",
-      "englishNatural": "Also",
-      "root": "gam",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 4
+    "psalms": {
+      "23": {
+        "4": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

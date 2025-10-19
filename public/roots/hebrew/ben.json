@@ -6,608 +6,100 @@
   "englishNatural": "son",
   "type": "noun",
   "description": "son, child, descendant",
-  "wordInstances": [
-    {
-      "hebrew": "לִבְנֵי",
-      "transliteration": "livney",
-      "englishLiteral": "to-sons-of",
-      "englishNatural": "to the sons of",
-      "root": "ben",
-      "prefixes": [
-        "li"
-      ],
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "14": [
+          10
+        ],
+        "15": [
+          8
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 14
+      "34": {
+        "7": [
+          14,
+          16,
+          17
+        ]
       }
     },
-    {
-      "hebrew": "בְּנֵי",
-      "transliteration": "beney",
-      "englishLiteral": "sons-of",
-      "englishNatural": "the sons of",
-      "root": "ben",
-      "prefixes": [
-        "be"
-      ],
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
+    "genesis": {
+      "3": {
+        "16": [
+          9
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
+      "4": {
+        "17": [
+          15
+        ],
+        "25": [
+          6
+        ],
+        "26": [
+          4
+        ]
       },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 15
+      "5": {
+        "4": [
+          11
+        ],
+        "7": [
+          12
+        ],
+        "10": [
+          13
+        ],
+        "13": [
+          12
+        ],
+        "16": [
+          12
+        ],
+        "19": [
+          10
+        ],
+        "22": [
+          12
+        ],
+        "26": [
+          12
+        ],
+        "28": [
+          8
+        ],
+        "30": [
+          13
+        ],
+        "32": [
+          1
+        ]
+      },
+      "6": {
+        "2": [
+          1
+        ],
+        "4": [
+          10
+        ]
       }
     },
-    {
-      "hebrew": "בָּנִים",
-      "transliteration": "banim",
-      "englishLiteral": "sons",
-      "englishNatural": "sons",
-      "root": "ben",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+    "jonah": {
+      "1": {
+        "1": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "בְּנֵי",
-      "transliteration": "beney",
-      "englishLiteral": "sons-of",
-      "englishNatural": "sons of",
-      "root": "ben",
-      "prefixes": [
-        "be"
-      ],
-      "suffixes": [
-        "ey"
-      ],
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "בָנִים",
-      "transliteration": "vanim",
-      "englishLiteral": "sons",
-      "englishNatural": "sons",
-      "root": "ben",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 18,
-        "english": 18
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "בָנִים",
-      "transliteration": "banim",
-      "englishLiteral": "sons",
-      "englishNatural": "sons",
-      "root": "ben",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "בְּנוֹ",
-      "transliteration": "beno",
-      "englishLiteral": "son-his",
-      "englishNatural": "his son",
-      "root": "ben",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "בֵּן",
-      "transliteration": "ben",
-      "englishLiteral": "son",
-      "englishNatural": "a son",
-      "root": "ben",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "בֵּן",
-      "transliteration": "ben",
-      "englishLiteral": "son",
-      "englishNatural": "a son",
-      "root": "ben",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "בָּנִים",
-      "transliteration": "banim",
-      "englishLiteral": "sons",
-      "englishNatural": "sons",
-      "root": "ben",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "בָּנִים",
-      "transliteration": "banim",
-      "englishLiteral": "sons",
-      "englishNatural": "sons",
-      "root": "ben",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "בָּנִים",
-      "transliteration": "banim",
-      "englishLiteral": "sons",
-      "englishNatural": "sons",
-      "root": "ben",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "בָּנִים",
-      "transliteration": "banim",
-      "englishLiteral": "sons",
-      "englishNatural": "sons",
-      "root": "ben",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "בָּנִים",
-      "transliteration": "banim",
-      "englishLiteral": "sons",
-      "englishNatural": "sons",
-      "root": "ben",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "בָּנִים",
-      "transliteration": "banim",
-      "englishLiteral": "sons",
-      "englishNatural": "sons",
-      "root": "ben",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "בֵּן",
-      "transliteration": "ben",
-      "englishLiteral": "son",
-      "englishNatural": "a son",
-      "root": "ben",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 28
-      }
-    },
-    {
-      "hebrew": "בָּנִים",
-      "transliteration": "banim",
-      "englishLiteral": "sons",
-      "englishNatural": "sons",
-      "root": "ben",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "state": "absolute"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "בֶּן־",
-      "transliteration": "ben-",
-      "englishLiteral": "son-of",
-      "englishNatural": "a son of",
-      "root": "ben",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 32
-      }
-    },
-    {
-      "hebrew": "בָּנִים",
-      "transliteration": "banim",
-      "englishLiteral": "sons",
-      "englishNatural": "sons",
-      "root": "ben",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "בָּנִים",
-      "transliteration": "banim",
-      "englishLiteral": "sons",
-      "englishNatural": "sons",
-      "root": "ben",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "בְנֵי־",
-      "transliteration": "beney-",
-      "englishLiteral": "sons-",
-      "englishNatural": "And the sons",
-      "root": "ben",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "בְנֵי",
-      "transliteration": "beney",
-      "englishLiteral": "sons-of",
-      "englishNatural": "the sons of",
-      "root": "ben",
-      "order": {
-        "hebrew": 11,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "בֶן־",
-      "transliteration": "ben-",
-      "englishLiteral": "son-of",
-      "englishNatural": "son of",
-      "root": "ben",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "בֶן־",
-      "transliteration": "ben-",
-      "englishLiteral": "son-of-",
-      "englishNatural": "son of",
-      "root": "ben",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 1
+    "proverbs": {
+      "1": {
+        "1": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

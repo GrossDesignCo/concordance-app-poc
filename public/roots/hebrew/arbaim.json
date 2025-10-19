@@ -9,30 +9,15 @@
   "related": [
     "arba"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "אַרְבָּעִים",
-      "transliteration": "arbaim",
-      "englishLiteral": "forty",
-      "englishNatural": "forty",
-      "root": "arbaim",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 4
+  "wordIndexes": {
+    "jonah": {
+      "3": {
+        "4": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

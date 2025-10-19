@@ -4,30 +4,15 @@
   "transliteration": "ek",
   "englishLiteral": "out-of",
   "englishNatural": "from",
-  "wordInstances": [
-    {
-      "greek": "ἐκ",
-      "transliteration": "ek",
-      "englishLiteral": "out-of",
-      "englishNatural": "from",
-      "root": "ek",
-      "order": {
-        "greek": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 1
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "1": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

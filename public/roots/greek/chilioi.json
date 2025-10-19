@@ -4,33 +4,15 @@
   "transliteration": "chilioi",
   "englishLiteral": "thousand",
   "englishNatural": "thousand",
-  "wordInstances": [
-    {
-      "greek": "χίλια",
-      "transliteration": "chilia",
-      "englishLiteral": "thousand",
-      "englishNatural": "a thousand",
-      "root": "chilioi",
-      "order": {
-        "greek": 18,
-        "english": 18
-      },
-      "morphology": {
-        "gender": "neuter",
-        "number": "plural",
-        "case": "accusative",
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 2
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "2": [
+          17
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -9,37 +9,15 @@
   "related": [
     "yashav"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "וּבְמוֹשַׁב",
-      "transliteration": "uvMoshav",
-      "englishLiteral": "and-in-seat-of",
-      "englishNatural": "and in the seat of",
-      "root": "moshav",
-      "prefixes": [
-        "u",
-        "be"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 1
+  "wordIndexes": {
+    "psalms": {
+      "1": {
+        "1": [
+          11
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

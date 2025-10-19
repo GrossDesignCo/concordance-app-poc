@@ -6,1010 +6,179 @@
   "englishNatural": "that",
   "description": "that, that it is, that is, for, because",
   "type": "relative",
-  "wordInstances": [
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that it was",
-      "root": "ki",
-      "order": {
-        "hebrew": 11,
-        "english": 11
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "4": [
+          4
+        ],
+        "10": [
+          10
+        ],
+        "12": [
+          15
+        ],
+        "18": [
+          10
+        ],
+        "21": [
+          21
+        ],
+        "25": [
+          16
+        ]
       },
-      "morphology": {
-        "type": "conjunction"
+      "2": {
+        "3": [
+          7
+        ],
+        "5": [
+          11
+        ],
+        "17": [
+          7
+        ],
+        "23": [
+          11
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 10
+      "3": {
+        "1": [
+          14
+        ],
+        "5": [
+          0,
+          3
+        ],
+        "6": [
+          2,
+          6
+        ],
+        "7": [
+          4
+        ],
+        "10": [
+          6
+        ],
+        "11": [
+          4
+        ],
+        "14": [
+          5
+        ],
+        "17": [
+          2
+        ],
+        "19": [
+          8,
+          11
+        ],
+        "20": [
+          5
+        ]
+      },
+      "4": {
+        "12": [
+          0
+        ],
+        "23": [
+          11
+        ],
+        "24": [
+          0
+        ],
+        "25": [
+          11,
+          19
+        ]
+      },
+      "5": {
+        "24": [
+          5
+        ]
+      },
+      "6": {
+        "1": [
+          1
+        ],
+        "2": [
+          6
+        ]
       }
     },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that it was",
-      "root": "ki",
-      "order": {
-        "hebrew": 16,
-        "english": 16
+    "isaiah": {
+      "6": {
+        "5": [
+          3,
+          5,
+          16
+        ]
       },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 12
+      "14": {
+        "29": [
+          4,
+          8
+        ]
       }
     },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that it was",
-      "root": "ki",
-      "order": {
-        "hebrew": 11,
-        "english": 11
+    "jonah": {
+      "1": {
+        "2": [
+          8
+        ],
+        "10": [
+          9,
+          12,
+          17
+        ]
       },
-      "morphology": {
-        "type": "conjunction"
+      "3": {
+        "10": [
+          4
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 18
+      "4": {
+        "2": [
+          18,
+          20
+        ],
+        "3": [
+          7
+        ]
       }
     },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that it was",
-      "root": "ki",
-      "order": {
-        "hebrew": 22,
-        "english": 22
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
+    "numbers": {
+      "21": {
+        "7": [
+          6
+        ]
       }
     },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that it was",
-      "root": "ki",
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that it was",
-      "root": "ki",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "for",
-      "englishNatural": "for",
-      "root": "ki",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "Because",
-      "root": "ki",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "That",
-      "englishNatural": "That",
-      "root": "ki",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "That",
-      "englishNatural": "That",
-      "root": "ki",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "וְכִי",
-      "transliteration": "veKi",
-      "englishLiteral": "and-that",
-      "englishNatural": "and that",
-      "root": "ki",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 8
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "When",
-      "englishNatural": "When",
-      "root": "ki",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 20,
-        "english": 20
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 14,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 14,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "for-",
-      "englishNatural": "for",
-      "root": "ki",
-      "morphology": {
-        "type": "conjunction"
-      },
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "for",
-      "englishNatural": "for",
-      "root": "ki",
-      "morphology": {
-        "type": "conjunction"
-      },
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "for",
-      "englishNatural": "for",
-      "root": "ki",
-      "morphology": {
-        "type": "conjunction"
-      },
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 18,
-        "english": 18
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 19,
-        "english": 19
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 21,
-        "english": 21
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "relative"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "That",
-      "englishNatural": "That",
-      "root": "ki",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "that",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "That",
-      "englishNatural": "That",
-      "root": "ki",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "כִּי",
-      "transliteration": "ki",
-      "englishLiteral": "That",
-      "englishNatural": "That",
-      "root": "ki",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 117,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "כִּי־",
-      "transliteration": "ki-",
-      "englishLiteral": "that-",
-      "englishNatural": "that",
-      "root": "ki",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "conjunction"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 4
+    "psalms": {
+      "1": {
+        "2": [
+          0
+        ],
+        "4": [
+          3
+        ],
+        "6": [
+          0
+        ]
+      },
+      "23": {
+        "4": [
+          1,
+          8
+        ]
+      },
+      "117": {
+        "2": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

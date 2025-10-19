@@ -5,534 +5,92 @@
   "englishLiteral": "to see",
   "englishNatural": "to see",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיַּ֥רְא",
-      "transliteration": "vaYar",
-      "englishLiteral": "And-saw",
-      "englishNatural": "saw",
-      "root": "raah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 10
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "4": [
+          0
+        ],
+        "9": [
+          9
+        ],
+        "10": [
+          8
+        ],
+        "12": [
+          13
+        ],
+        "18": [
+          8
+        ],
+        "21": [
+          19
+        ],
+        "25": [
+          14
+        ],
+        "31": [
+          0
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
+      "2": {
+        "19": [
+          15
+        ]
       },
-      "grammarSuffix": {
-        "englishNatural": ","
+      "3": {
+        "6": [
+          0
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 10
+      "6": {
+        "2": [
+          0
+        ]
       }
     },
-    {
-      "hebrew": "וַיַּ֥רְא",
-      "transliteration": "vaYar",
-      "englishLiteral": "And-saw",
-      "englishNatural": "saw",
-      "root": "raah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 12
+    "isaiah": {
+      "6": {
+        "1": [
+          4
+        ],
+        "5": [
+          21
+        ]
       }
     },
-    {
-      "hebrew": "וַיַּ֧רְא",
-      "transliteration": "vaYar",
-      "englishLiteral": "And-saw",
-      "englishNatural": "saw",
-      "root": "raah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 10
+    "jonah": {
+      "1": {
+        "2": [
+          10
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
+      "3": {
+        "10": [
+          0
+        ]
       },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 18
+      "4": {
+        "5": [
+          16
+        ]
       }
     },
-    {
-      "hebrew": "וַיַּ֥רְא",
-      "transliteration": "vaYar",
-      "englishLiteral": "And-saw",
-      "englishNatural": "saw",
-      "root": "raah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 20,
-        "english": 21
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
+    "numbers": {
+      "21": {
+        "8": [
+          14
+        ]
       }
     },
-    {
-      "hebrew": "וַיַּ֥רְא",
-      "transliteration": "vaYar",
-      "englishLiteral": "And-saw",
-      "englishNatural": "saw",
-      "root": "raah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "וַיַּ֤רְא",
-      "transliteration": "vaYar",
-      "englishLiteral": "And-saw",
-      "englishNatural": "saw",
-      "root": "raah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "וַיַּ֧רְא",
-      "transliteration": "vaYar",
-      "englishLiteral": "And-saw",
-      "englishNatural": "saw",
-      "root": "raah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וְתֵרָאֶ֖ה",
-      "transliteration": "veTeRaah",
-      "englishLiteral": "And-be-seen",
-      "englishNatural": "be seen",
-      "root": "raah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "niphal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ".\"",
-        "englishLiteral": ","
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "לִרְאוֹת",
-      "transliteration": "liReot",
-      "englishLiteral": "to-see",
-      "englishNatural": "to see",
-      "root": "raah",
-      "prefixes": [
-        "li"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "type": "verb",
-        "stem": "qal",
-        "tense": "infinitive_construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "וַתֵּרֶא",
-      "transliteration": "vatere",
-      "englishLiteral": "And-saw",
-      "englishNatural": "saw",
-      "root": "raah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "וַיִּרְאוּ",
-      "transliteration": "vayYiru",
-      "englishLiteral": "And-they-saw",
-      "englishNatural": "saw",
-      "root": "raah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "וָאֶרְאֶה",
-      "transliteration": "vaEr'eh",
-      "englishLiteral": "And-I-saw",
-      "englishNatural": "And I saw",
-      "root": "raah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "1st",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "רָאוּ",
-      "transliteration": "rau",
-      "englishLiteral": "have-seen",
-      "englishNatural": "have seen",
-      "root": "raah",
-      "morphology": {
-        "type": "verb",
-        "tense": "perfect",
-        "stem": "qal",
-        "person": "3rd",
-        "number": "plural",
-        "gender": "common"
-      },
-      "order": {
-        "hebrew": 22,
-        "english": 19
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "רָעָתָם",
-      "transliteration": "raatam",
-      "englishLiteral": "bad-their",
-      "englishNatural": "their bad",
-      "root": "raah",
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "וַיַּרְא",
-      "transliteration": "vaYar",
-      "englishLiteral": "And-saw",
-      "englishNatural": "saw",
-      "root": "raah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "יִרְאֶה",
-      "transliteration": "yireh",
-      "englishLiteral": "he-will-see",
-      "englishNatural": "he will see",
-      "root": "raah",
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וְרָאָה",
-      "transliteration": "veRaah",
-      "englishLiteral": "and-sees",
-      "englishNatural": "and sees",
-      "root": "raah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "רָאָה",
-      "transliteration": "ra'ah",
-      "englishLiteral": "sees",
-      "englishNatural": "sees",
-      "root": "raah",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 3
+    "proverbs": {
+      "22": {
+        "3": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

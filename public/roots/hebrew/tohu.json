@@ -5,33 +5,15 @@
   "englishLiteral": "waste",
   "englishNatural": "waste",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "תֹ֙הוּ֙",
-      "transliteration": "tohu",
-      "englishLiteral": "waste",
-      "englishNatural": "waste",
-      "root": "tohu",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 2
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "2": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

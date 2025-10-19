@@ -5,844 +5,128 @@
   "englishLiteral": "to make",
   "englishNatural": "to make",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "עֹ֤שֶׂה",
-      "transliteration": "oseh",
-      "englishLiteral": "making",
-      "englishNatural": "making",
-      "root": "asah",
-      "order": {
-        "hebrew": 11,
-        "english": 11
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "7": [
+          0
+        ],
+        "11": [
+          10
+        ],
+        "12": [
+          8
+        ],
+        "16": [
+          0
+        ],
+        "25": [
+          0
+        ],
+        "26": [
+          2
+        ],
+        "31": [
+          5
+        ]
       },
-      "morphology": {
-        "type": "verb"
+      "2": {
+        "2": [
+          6,
+          13
+        ],
+        "3": [
+          15
+        ],
+        "4": [
+          6
+        ],
+        "18": [
+          8
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 11
+      "3": {
+        "1": [
+          7
+        ],
+        "7": [
+          10
+        ],
+        "13": [
+          6
+        ],
+        "14": [
+          6
+        ],
+        "21": [
+          0
+        ]
+      },
+      "4": {
+        "10": [
+          2
+        ]
+      },
+      "5": {
+        "1": [
+          10
+        ],
+        "29": [
+          7
+        ]
       }
     },
-    {
-      "hebrew": "עֹֽשֶׂה",
-      "transliteration": "oseh",
-      "englishLiteral": "making",
-      "englishNatural": "making",
-      "root": "asah",
-      "order": {
-        "hebrew": 9,
-        "english": 9
+    "jonah": {
+      "1": {
+        "9": [
+          11
+        ],
+        "10": [
+          8
+        ]
       },
-      "morphology": {
-        "type": "verb"
+      "3": {
+        "10": [
+          14,
+          17
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 12
+      "4": {
+        "5": [
+          7
+        ]
       }
     },
-    {
-      "hebrew": "וַיַּ֣עַשׂ",
-      "transliteration": "vaYaas",
-      "englishLiteral": "And-made",
-      "englishNatural": "made",
-      "root": "asah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 16
+    "numbers": {
+      "21": {
+        "8": [
+          4
+        ],
+        "9": [
+          0
+        ]
       }
     },
-    {
-      "hebrew": "וַיַּ֣עַשׂ",
-      "transliteration": "vaYaas",
-      "englishLiteral": "And-made",
-      "englishNatural": "made",
-      "root": "asah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
+    "proverbs": {
+      "8": {
+        "26": [
+          2
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 25
+      "22": {
+        "2": [
+          7
+        ]
       }
     },
-    {
-      "hebrew": "נַֽעֲשֶׂ֥ה",
-      "transliteration": "naAseh",
-      "englishLiteral": "Let_us-make",
-      "englishNatural": "Let us make",
-      "root": "asah",
-      "prefixes": [
-        "na"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "1st",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "עָשָׂ֑ה",
-      "transliteration": "asah",
-      "englishLiteral": "made",
-      "englishNatural": "made",
-      "root": "asah",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 31
-      }
-    },
-    {
-      "hebrew": "וַיַּ֣עַשׂ",
-      "transliteration": "vaYaas",
-      "englishLiteral": "And-made",
-      "englishNatural": "made",
-      "root": "asah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "אֶעֱשֶׂה־",
-      "transliteration": "eese-",
-      "englishLiteral": "I-will-make-",
-      "englishNatural": "I will make",
-      "root": "asah",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "1st",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "עָשָׂה",
-      "transliteration": "asah",
-      "englishLiteral": "made",
-      "englishNatural": "he made",
-      "root": "asah",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "transliteration": ";",
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "עָשָׂה׃",
-      "transliteration": "asah",
-      "englishLiteral": "made",
-      "englishNatural": "he made",
-      "root": "asah",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "לַעֲשׂוֹת׃",
-      "transliteration": "laasot",
-      "englishLiteral": "to-make",
-      "englishNatural": "made",
-      "root": "asah",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "type": "verb",
-        "stem": "qal",
-        "tense": "infinitive_construct"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "עֲשׂוֹת",
-      "transliteration": "asot",
-      "englishLiteral": "making",
-      "englishNatural": "made",
-      "root": "asah",
-      "order": {
-        "hebrew": 7,
-        "english": 9
-      },
-      "morphology": {
-        "type": "verb",
-        "stem": "qal",
-        "tense": "infinitive_construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "עָשָׂה",
-      "transliteration": "asah",
-      "englishLiteral": "made",
-      "englishNatural": "had made",
-      "root": "asah",
-      "order": {
-        "hebrew": 8,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": "."
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "עָשִׂית",
-      "transliteration": "asit",
-      "englishLiteral": "you-have-made",
-      "englishNatural": "you have made",
-      "root": "asah",
-      "suffixes": [
-        "it_verb"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "?\"",
-        "englishNatural": "?\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "עָשִׂיתָ",
-      "transliteration": "asita",
-      "englishLiteral": "you-made",
-      "englishNatural": "you have made",
-      "root": "asah",
-      "suffixes": [
-        "ta"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "וַיַּעַשׂ",
-      "transliteration": "vayYaas",
-      "englishLiteral": "And-he-made",
-      "englishNatural": "made",
-      "root": "asah",
-      "prefixes": [
-        "va",
-        "yi"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "וַיַּעֲשׂוּ",
-      "transliteration": "vaYaasu",
-      "englishLiteral": "and-made",
-      "englishNatural": "and made",
-      "root": "asah",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "עָשִׂיתָ",
-      "transliteration": "asita",
-      "englishLiteral": "you-did",
-      "englishNatural": "have you done",
-      "root": "asah",
-      "suffixes": [
-        "ta"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "?",
-        "englishNatural": "?"
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "עָשָׂה",
-      "transliteration": "asah",
-      "englishLiteral": "he-made",
-      "englishNatural": "he made",
-      "root": "asah",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "perfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "מִמַּעֲשֵׂנוּ",
-      "transliteration": "miMaasenu",
-      "englishLiteral": "from-our-making",
-      "englishNatural": "from our making",
-      "root": "asah",
-      "prefixes": [
-        "mi",
-        "ma"
-      ],
-      "suffixes": [
-        "enu"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "עָשִׂיתָ",
-      "transliteration": "asita",
-      "englishLiteral": "you-did",
-      "englishNatural": "you have done",
-      "root": "asah",
-      "suffixes": [
-        "ta"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "?\"",
-        "englishNatural": "?\""
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "עָשָׂה",
-      "transliteration": "asah",
-      "englishLiteral": "made",
-      "englishNatural": "made",
-      "root": "asah",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "לַעֲשׂוֹת",
-      "transliteration": "laasot",
-      "englishLiteral": "to-make",
-      "englishNatural": "to make",
-      "root": "asah",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "infinitive_construct",
-        "stem": "qal"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "עָשָׂה",
-      "transliteration": "asah",
-      "englishLiteral": "he-made",
-      "englishNatural": "and he made it",
-      "root": "asah",
-      "order": {
-        "hebrew": 18,
-        "english": 17
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "."
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "וַיַּעַשׂ",
-      "transliteration": "vaYaas",
-      "englishLiteral": "and-made",
-      "englishNatural": "and made",
-      "root": "asah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "עֲשֵׂה",
-      "transliteration": "aseh",
-      "englishLiteral": "Make",
-      "englishNatural": "Make",
-      "root": "asah",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "וַיַּעַשׂ",
-      "transliteration": "vaYaas",
-      "englishLiteral": "And-made",
-      "englishNatural": "made",
-      "root": "asah",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "עָשָׂה",
-      "transliteration": "asah",
-      "englishLiteral": "made",
-      "englishNatural": "made",
-      "root": "asah",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "עָשָׂה",
-      "transliteration": "asah",
-      "englishLiteral": "had-made",
-      "englishNatural": "had made",
-      "root": "asah",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "יַעֲשֶׂה",
-      "transliteration": "yaAseh",
-      "englishLiteral": "he-makes",
-      "englishNatural": "he makes",
-      "root": "asah",
-      "prefixes": [
-        "ya"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 3
+    "psalms": {
+      "1": {
+        "3": [
+          15
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

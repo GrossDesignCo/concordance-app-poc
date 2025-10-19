@@ -6,210 +6,36 @@
   "englishNatural": "Dwelling-of-Fish (Nineveh)",
   "type": "noun",
   "description": "proper name, Nineveh, capital city of Assyria",
-  "wordInstances": [
-    {
-      "hebrew": "נִינְוֵה",
-      "transliteration": "Nineveh",
-      "englishLiteral": "Dwelling_of_Fish (Nineveh)",
-      "englishNatural": "Dwelling-of-Fish (Nineveh)",
-      "root": "nineveh",
-      "order": {
-        "hebrew": 4,
-        "english": 4
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "2": [
+          3
+        ]
       },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "נִינְוֵה",
-      "transliteration": "Nineveh",
-      "englishLiteral": "Dwelling_of_Fish (Nineveh)",
-      "englishNatural": "Dwelling-of-Fish (Nineveh)",
-      "root": "nineveh",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "נִינְוֵה",
-      "transliteration": "Nineveh",
-      "englishLiteral": "Dwelling_of_Fish (Nineveh)",
-      "englishNatural": "Dwelling-of-Fish (Nineveh)",
-      "root": "nineveh",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וְנִינְוֵה",
-      "transliteration": "veNineveh",
-      "englishLiteral": "And-Dwelling_of_Fish (Nineveh)",
-      "englishNatural": "And Dwelling-of-Fish (Nineveh)",
-      "root": "nineveh",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וְנִינְוֵה",
-      "transliteration": "veNineveh",
-      "englishLiteral": "and-Dwelling_of_Fish (Nineveh)",
-      "englishNatural": "and Dwelling-of-Fish (Nineveh)",
-      "root": "nineveh",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "נִינְוֵה",
-      "transliteration": "Nineveh",
-      "englishLiteral": "Dwelling_of_Fish (Nineveh)",
-      "englishNatural": "Dwelling-of-Fish (Nineveh)",
-      "root": "nineveh",
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "נִינְוֵה",
-      "transliteration": "Nineveh",
-      "englishLiteral": "Dwelling_of_Fish (Nineveh)",
-      "englishNatural": "Dwelling-of-Fish (Nineveh)",
-      "root": "nineveh",
-      "order": {
-        "hebrew": 5,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "בְּנִינְוֵה",
-      "transliteration": "beNineveh",
-      "englishLiteral": "in-Dwelling_of_Fish (Nineveh)",
-      "englishNatural": "in Dwelling-of-Fish (Nineveh)",
-      "root": "nineveh",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 7
+      "3": {
+        "2": [
+          3
+        ],
+        "3": [
+          4,
+          7
+        ],
+        "4": [
+          12
+        ],
+        "5": [
+          2
+        ],
+        "6": [
+          4
+        ],
+        "7": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

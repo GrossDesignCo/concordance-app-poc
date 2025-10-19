@@ -6,388 +6,58 @@
   "englishNatural": "to acquire",
   "type": "verb",
   "description": "to acquire, buy, purchase, get, obtain",
-  "wordInstances": [
-    {
-      "hebrew": "קַיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "Acquired (Cain)",
-      "root": "qanah",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 1
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "1": [
+          8,
+          10
+        ],
+        "2": [
+          10
+        ],
+        "3": [
+          4
+        ],
+        "5": [
+          1,
+          7
+        ],
+        "6": [
+          3
+        ],
+        "8": [
+          1,
+          9
+        ],
+        "9": [
+          3
+        ],
+        "13": [
+          1
+        ],
+        "15": [
+          6,
+          11
+        ],
+        "16": [
+          1
+        ]
       }
     },
-    {
-      "hebrew": "קָנִיתִי",
-      "transliteration": "qaniti",
-      "englishLiteral": "I-have-acquired",
-      "englishNatural": "I have acquired",
-      "root": "qanah",
-      "suffixes": [
-        "ti"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
+    "proverbs": {
+      "1": {
+        "5": [
+          6
+        ]
       },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "1st",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "קַיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "And Acquired (Cain)",
-      "root": "qanah",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "קַיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "Acquired (Cain)",
-      "root": "qanah",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "לְקַיִן",
-      "transliteration": "leQayin",
-      "englishLiteral": "for-Acquired (Cain)",
-      "englishNatural": "for Acquired (Cain)",
-      "root": "qanah",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "קַיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "And Acquired (Cain)",
-      "root": "qanah",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "וְקַיִן",
-      "transliteration": "veQayin",
-      "englishLiteral": "and-Acquired (Cain)",
-      "englishNatural": "and Acquired (Cain)",
-      "root": "qanah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "קַיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "And Acquired (Cain)",
-      "root": "qanah",
-      "order": {
-        "hebrew": 5,
-        "english": 4
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "קַיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "Acquired (Cain)",
-      "root": "qanah",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "לְקַיִן",
-      "transliteration": "leQayin",
-      "englishLiteral": "to-Acquired (Cain)",
-      "englishNatural": "to Acquired (Cain)",
-      "root": "qanah",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "קַיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "Acquired (Cain)",
-      "root": "qanah",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "קַיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "And Acquired (Cain)",
-      "root": "qanah",
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "קַיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "and Acquired (Cain)",
-      "root": "qanah",
-      "order": {
-        "hebrew": 10,
-        "english": 9
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "קַיִן",
-      "transliteration": "Qayin",
-      "englishLiteral": "Acquired (Cain)",
-      "englishNatural": "Acquired (Cain)",
-      "root": "qanah",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "יִקְנֶה",
-      "transliteration": "yiqneh",
-      "englishLiteral": "will-acquire",
-      "englishNatural": "will acquire",
-      "root": "qanah",
-      "order": {
-        "hebrew": 7,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "."
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "קָנָנִי",
-      "transliteration": "qanani",
-      "englishLiteral": "acquired-me",
-      "englishNatural": "acquired me",
-      "root": "qanah",
-      "suffixes": [
-        "ni"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 22
+      "8": {
+        "22": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

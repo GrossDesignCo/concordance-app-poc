@@ -6,35 +6,15 @@
   "englishNatural": "assembly",
   "type": "noun",
   "description": "congregation, assembly, community",
-  "wordInstances": [
-    {
-      "hebrew": "בַּעֲדַת",
-      "transliteration": "baAdat",
-      "englishLiteral": "in-assembly-of",
-      "englishNatural": "in the assembly of",
-      "root": "edah",
-      "prefixes": [
-        "ba"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 5
+  "wordIndexes": {
+    "psalms": {
+      "1": {
+        "5": [
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

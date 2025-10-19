@@ -4,35 +4,15 @@
   "transliteration": "ginesthe",
   "englishLiteral": "become",
   "englishNatural": "become",
-  "wordInstances": [
-    {
-      "greek": "γίνεσθε",
-      "transliteration": "ginesthe",
-      "englishLiteral": "be",
-      "englishNatural": "be",
-      "root": "ginomai",
-      "order": {
-        "greek": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "present",
-        "voice": "middle",
-        "mood": "imperative",
-        "person": "2nd",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Matthew",
-        "chapter": 10,
-        "verse": 16
+  "wordIndexes": {
+    "matthew": {
+      "10": {
+        "16": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

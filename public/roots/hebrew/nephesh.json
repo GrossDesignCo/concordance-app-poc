@@ -5,270 +5,52 @@
   "englishLiteral": "throat",
   "englishNatural": "throat",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "נֶ֣פֶשׁ",
-      "transliteration": "nephesh",
-      "englishLiteral": "throat",
-      "englishNatural": "throat",
-      "root": "nephesh",
-      "order": {
-        "hebrew": 6,
-        "english": 7
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "20": [
+          5
+        ],
+        "21": [
+          7
+        ],
+        "24": [
+          4
+        ],
+        "30": [
+          12
+        ]
       },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 20
+      "2": {
+        "7": [
+          14
+        ],
+        "19": [
+          24
+        ]
       }
     },
-    {
-      "hebrew": "נֶ֣פֶשׁ",
-      "transliteration": "nephesh",
-      "englishLiteral": "throat",
-      "englishNatural": "throat",
-      "root": "nephesh",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
+    "jonah": {
+      "4": {
+        "3": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "נֶ֤פֶשׁ",
-      "transliteration": "nephesh",
-      "englishLiteral": "throat",
-      "englishNatural": "throat",
-      "root": "nephesh",
-      "order": {
-        "hebrew": 5,
-        "english": 6
+    "psalms": {
+      "23": {
+        "3": [
+          0
+        ]
       },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "נֶ֥פֶשׁ",
-      "transliteration": "nephesh",
-      "englishLiteral": "throat",
-      "englishNatural": "throat",
-      "root": "nephesh",
-      "order": {
-        "hebrew": 13,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ":"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "נֶפֶשׁ",
-      "transliteration": "nephesh",
-      "englishLiteral": "throat",
-      "englishNatural": "throat",
-      "root": "nephesh",
-      "order": {
-        "hebrew": 25,
-        "english": 26
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "לְנֶפֶשׁ",
-      "transliteration": "leNefesh",
-      "englishLiteral": "to-throat",
-      "englishNatural": "throat",
-      "root": "nephesh",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 16
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "נַפְשִׁי",
-      "transliteration": "nafshi",
-      "englishLiteral": "throat-my",
-      "englishNatural": "my throat",
-      "root": "nephesh",
-      "suffixes": [
-        "i_possessive"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "נַפְשִׁי",
-      "transliteration": "nafshi",
-      "englishLiteral": "my-throat",
-      "englishNatural": "my throat",
-      "root": "nephesh",
-      "suffixes": [
-        "i"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "1st",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "נַפְשִׁי",
-      "transliteration": "nafshi",
-      "englishLiteral": "my-throat",
-      "englishNatural": "my throat",
-      "root": "nephesh",
-      "suffixes": [
-        "i"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "1st",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "נַפְשִׁי",
-      "transliteration": "nafshi",
-      "englishLiteral": "my-throat",
-      "englishNatural": "my throat",
-      "root": "nephesh",
-      "suffixes": [
-        "i"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "1st",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 3
+      "131": {
+        "2": [
+          4,
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

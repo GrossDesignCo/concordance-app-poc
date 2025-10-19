@@ -5,90 +5,25 @@
   "englishLiteral": "opposite",
   "englishNatural": "opposite",
   "type": "preposition",
-  "wordInstances": [
-    {
-      "hebrew": "כְּנֶגְדּוֹ׃",
-      "transliteration": "keNegdo",
-      "englishLiteral": "as-his_opposite",
-      "englishNatural": "as his opposite",
-      "root": "neged",
-      "prefixes": [
-        "ke"
-      ],
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 18
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "18": [
+          11
+        ],
+        "20": [
+          14
+        ]
       }
     },
-    {
-      "hebrew": "כְּנֶגְדּוֹ",
-      "transliteration": "keNegdo",
-      "englishLiteral": "as-his_opposite",
-      "englishNatural": "as his opposite",
-      "root": "neged",
-      "prefixes": [
-        "ke"
-      ],
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "נֶגֶד",
-      "transliteration": "neged",
-      "englishLiteral": "in-presence-of",
-      "englishNatural": "in the presence of",
-      "root": "neged",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 5
+    "psalms": {
+      "23": {
+        "5": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

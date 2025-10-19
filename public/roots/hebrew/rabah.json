@@ -9,34 +9,15 @@
   "related": [
     "harbah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "אַרְבֶּה",
-      "transliteration": "arbeh",
-      "englishLiteral": "I-will_multiply",
-      "englishNatural": "I will multiply",
-      "root": "rabah",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "person": "1st",
-        "number": "singular",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 16
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "16": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

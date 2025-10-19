@@ -6,76 +6,18 @@
   "englishNatural": "hide",
   "description": "to hide, conceal oneself",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וָאֵחָבֵא",
-      "transliteration": "vaEchave",
-      "englishLiteral": "and-I-hid",
-      "englishNatural": "and I hid",
-      "root": "chaba",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "common",
-        "number": "singular",
-        "person": "1st",
-        "tense": "imperfect",
-        "stem": "niphal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "וַיִּתְחַבֵּא",
-      "transliteration": "vaYitchabe",
-      "englishLiteral": "and-hid",
-      "englishNatural": "hid",
-      "root": "chaba",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hithpael",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 8
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "8": [
+          9
+        ],
+        "10": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -4,36 +4,15 @@
   "transliteration": "katabaino",
   "englishLiteral": "descend",
   "englishNatural": "descend",
-  "wordInstances": [
-    {
-      "greek": "καταβαίνοντα",
-      "transliteration": "katabainonta",
-      "englishLiteral": "descending",
-      "englishNatural": "descending",
-      "root": "katabaino",
-      "order": {
-        "greek": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "case": "accusative",
-        "tense": "present",
-        "voice": "active",
-        "mood": "participle",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 1
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "1": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

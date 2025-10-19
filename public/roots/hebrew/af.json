@@ -6,90 +6,27 @@
   "englishNatural": "Indeed?",
   "description": "Exclamation of surprise or disbelief",
   "type": "interrogative",
-  "wordInstances": [
-    {
-      "hebrew": "אַפַּיִם",
-      "transliteration": "apayim",
-      "englishLiteral": "nostrils",
-      "englishNatural": "nostrils",
-      "root": "af",
-      "suffixes": [
-        "ayim"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "dual",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 6
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "6": [
+          11
+        ]
       }
     },
-    {
-      "hebrew": "בְּאַפָּיו",
-      "transliteration": "beAppav",
-      "englishLiteral": "in-his-nostrils",
-      "englishNatural": "into his nostrils",
-      "root": "af",
-      "prefixes": [
-        "be"
-      ],
-      "suffixes": [
-        "av"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
+    "genesis": {
+      "2": {
+        "7": [
+          9
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "אַף",
-      "transliteration": "af",
-      "englishLiteral": "Is_it_so",
-      "englishNatural": "Is-it-so",
-      "root": "af",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
+      "3": {
+        "1": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,32 +6,15 @@
   "englishNatural": "song",
   "type": "noun",
   "description": "song, singing, music",
-  "wordInstances": [
-    {
-      "hebrew": "שִׁיר",
-      "transliteration": "shir",
-      "englishLiteral": "song",
-      "englishNatural": "A Song",
-      "root": "shir",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 1
+  "wordIndexes": {
+    "psalms": {
+      "131": {
+        "1": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

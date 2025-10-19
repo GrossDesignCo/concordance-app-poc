@@ -6,31 +6,15 @@
   "englishNatural": "perhaps",
   "type": "adverb",
   "description": "perhaps, maybe, if so be, peradventure",
-  "wordInstances": [
-    {
-      "hebrew": "אוּלַי",
-      "transliteration": "ulay",
-      "englishLiteral": "Perhaps",
-      "englishNatural": "If so be",
-      "root": "ulay",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 6
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "6": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

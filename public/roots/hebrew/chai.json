@@ -10,37 +10,15 @@
     "chayah",
     "chayyim"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "חָי׃",
-      "transliteration": "chai",
-      "englishLiteral": "Living",
-      "englishNatural": "Living",
-      "root": "chai",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 20
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "20": [
+          10
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

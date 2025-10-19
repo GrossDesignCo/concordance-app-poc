@@ -5,40 +5,15 @@
   "englishLiteral": "foot",
   "englishNatural": "foot",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "רַגְלָיו",
-      "transliteration": "raglav",
-      "englishLiteral": "his-feet",
-      "englishNatural": "his feet",
-      "root": "regel",
-      "suffixes": [
-        "av"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 2
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "2": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

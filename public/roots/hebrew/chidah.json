@@ -6,43 +6,15 @@
   "englishNatural": "sharp-saying",
   "type": "noun",
   "description": "rooted in sharpness, a sharp-saying, a riddle, an enigma, a dark saying, a puzzle",
-  "wordInstances": [
-    {
-      "hebrew": "וְחִידֹתָם",
-      "transliteration": "veChidotam",
-      "englishLiteral": "and-sharp_sayings-their",
-      "englishNatural": "and their sharp-sayings",
-      "root": "chidah",
-      "prefixes": [
-        "ve"
-      ],
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 6
+  "wordIndexes": {
+    "proverbs": {
+      "1": {
+        "6": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

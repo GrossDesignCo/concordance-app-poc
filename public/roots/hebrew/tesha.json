@@ -6,173 +6,31 @@
   "englishNatural": "nine",
   "type": "numeral",
   "description": "nine, the number nine",
-  "wordInstances": [
-    {
-      "hebrew": "וּתְשַׁע",
-      "transliteration": "uTesha",
-      "englishLiteral": "and-nine",
-      "englishNatural": "and nine",
-      "root": "tesha",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "וּתְשַׁע",
-      "transliteration": "uTesha",
-      "englishLiteral": "and-nine",
-      "englishNatural": "and nine",
-      "root": "tesha",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "וּתְשַׁע",
-      "transliteration": "uTesha",
-      "englishLiteral": "and-nine",
-      "englishNatural": "and nine",
-      "root": "tesha",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "תֵּשַׁע",
-      "transliteration": "tesha",
-      "englishLiteral": "nine",
-      "englishNatural": "nine",
-      "root": "tesha",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "וּתְשַׁע",
-      "transliteration": "uTesha",
-      "englishLiteral": "and-nine",
-      "englishNatural": "and nine",
-      "root": "tesha",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "תְּשַׁע",
-      "transliteration": "tesha",
-      "englishLiteral": "nine",
-      "englishNatural": "nine",
-      "root": "tesha",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וּתְשַׁע",
-      "transliteration": "uTesha",
-      "englishLiteral": "and-nine",
-      "englishNatural": "and nine",
-      "root": "tesha",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 8
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "5": [
+          6
+        ],
+        "8": [
+          7
+        ],
+        "11": [
+          6
+        ],
+        "14": [
+          6
+        ],
+        "20": [
+          7
+        ],
+        "27": [
+          4,
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

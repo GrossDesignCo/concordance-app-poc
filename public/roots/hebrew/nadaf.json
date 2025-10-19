@@ -6,47 +6,15 @@
   "englishNatural": "to drive-away",
   "type": "verb",
   "description": "to drive away, scatter, blow away",
-  "wordInstances": [
-    {
-      "hebrew": "תִּדְּפֶנּוּ",
-      "transliteration": "tidpenu",
-      "englishLiteral": "it-drives_away-it",
-      "englishNatural": "drives-away",
-      "root": "nadaf",
-      "prefixes": [
-        "ti"
-      ],
-      "suffixes": [
-        "nu"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 4
+  "wordIndexes": {
+    "psalms": {
+      "1": {
+        "4": [
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

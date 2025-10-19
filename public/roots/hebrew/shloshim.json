@@ -6,77 +6,21 @@
   "englishNatural": "thirty",
   "type": "numeral",
   "description": "thirty, the number thirty",
-  "wordInstances": [
-    {
-      "hebrew": "שְׁלֹשִׁים",
-      "transliteration": "shloshim",
-      "englishLiteral": "thirty",
-      "englishNatural": "thirty",
-      "root": "shloshim",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "שְׁלֹשִׁים",
-      "transliteration": "shloshim",
-      "englishLiteral": "thirty",
-      "englishNatural": "thirty",
-      "root": "shloshim",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וּשְׁלֹשִׁים",
-      "transliteration": "uShloshim",
-      "englishLiteral": "and-thirty",
-      "englishNatural": "and thirty",
-      "root": "shloshim",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "masculine",
-        "number": "plural"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 5
+  "wordIndexes": {
+    "genesis": {
+      "5": {
+        "3": [
+          2
+        ],
+        "5": [
+          9
+        ],
+        "16": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

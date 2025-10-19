@@ -7,68 +7,17 @@
   "translatedFrom": [
     "eloah"
   ],
-  "wordInstances": [
-    {
-      "greek": "θεόν",
-      "transliteration": "theon",
-      "englishLiteral": "God",
-      "englishNatural": "God",
-      "root": "theos",
-      "order": {
-        "greek": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "case": "accusative",
-        "state": "definite",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ",",
-        "greek": ",",
-        "transliteration": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "greek": "θεὸς",
-      "transliteration": "theos",
-      "englishLiteral": "God",
-      "englishNatural": "God",
-      "root": "theos",
-      "order": {
-        "greek": 14,
-        "english": 17
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "case": "nominative",
-        "state": "anarthrous",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishNatural": ".",
-        "greek": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 1,
-        "verse": 1
+  "wordIndexes": {
+    "john": {
+      "1": {
+        "1": [
+          11,
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": [
     "eloah"
   ]

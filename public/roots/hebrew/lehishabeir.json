@@ -9,37 +9,15 @@
   "related": [
     "shabar"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "לְהִשָּׁבֵר",
-      "transliteration": "lehishabeir",
-      "englishLiteral": "to-be-broken",
-      "englishNatural": "to be broken",
-      "root": "lehishabeir",
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "infinitive_construct",
-        "stem": "niphal"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 4
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "4": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

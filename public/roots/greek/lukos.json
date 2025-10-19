@@ -4,38 +4,15 @@
   "transliteration": "lukon",
   "englishLiteral": "wolf",
   "englishNatural": "wolf",
-  "wordInstances": [
-    {
-      "greek": "λύκων",
-      "transliteration": "lukon",
-      "englishLiteral": "wolves",
-      "englishNatural": "wolves",
-      "root": "lukos",
-      "order": {
-        "greek": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "case": "genitive"
-      },
-      "grammarSuffix": {
-        "transliteration": ";",
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Matthew",
-        "chapter": 10,
-        "verse": 16
+  "wordIndexes": {
+    "matthew": {
+      "10": {
+        "16": [
+          8
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

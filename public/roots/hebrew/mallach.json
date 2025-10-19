@@ -6,44 +6,15 @@
   "englishNatural": "sailor",
   "type": "noun",
   "description": "mariner, sailor, seaman",
-  "wordInstances": [
-    {
-      "hebrew": "הַמַּלָּחִים",
-      "transliteration": "haMallachim",
-      "englishLiteral": "the-sailors",
-      "englishNatural": "And the sailors",
-      "root": "mallach",
-      "prefixes": [
-        "ha"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 5
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "5": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

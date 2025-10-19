@@ -5,38 +5,15 @@
   "englishLiteral": "to break",
   "englishNatural": "to break",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "נִשְׁבַּר",
-      "transliteration": "nishbar",
-      "englishLiteral": "is-broken",
-      "englishNatural": "is broken",
-      "root": "shavar",
-      "prefixes": [
-        "ni"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "niphal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 14,
-        "verse": 29
+  "wordIndexes": {
+    "isaiah": {
+      "14": {
+        "29": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

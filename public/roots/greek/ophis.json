@@ -7,61 +7,23 @@
   "translatedFrom": [
     "nachash"
   ],
-  "wordInstances": [
-    {
-      "greek": "ὄφεις",
-      "transliteration": "opheis",
-      "englishLiteral": "snakes",
-      "englishNatural": "snakes",
-      "root": "ophis",
-      "order": {
-        "greek": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "plural",
-        "case": "nominative"
-      },
-      "verseContext": {
-        "book": "Matthew",
-        "chapter": 10,
-        "verse": 16
+  "wordIndexes": {
+    "matthew": {
+      "10": {
+        "16": [
+          14
+        ]
       }
     },
-    {
-      "greek": "ὄφιν",
-      "transliteration": "ophin",
-      "englishLiteral": "Snake",
-      "englishNatural": "Snake",
-      "root": "ophis",
-      "order": {
-        "greek": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "case": "accusative",
-        "type": "noun",
-        "state": "definite"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 2
+    "revelation": {
+      "20": {
+        "2": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": [
     "nachash"
   ]

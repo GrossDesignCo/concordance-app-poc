@@ -5,164 +5,36 @@
   "englishLiteral": "to take",
   "englishNatural": "to take",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיִּקַּח",
-      "transliteration": "vaYikach",
-      "englishLiteral": "And-took",
-      "englishNatural": "took",
-      "root": "lakach",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "15": [
+          0
+        ],
+        "21": [
+          7
+        ],
+        "22": [
+          6
+        ],
+        "23": [
+          13
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 15
+      "5": {
+        "24": [
+          6
+        ]
       }
     },
-    {
-      "hebrew": "וַיִּקַּח",
-      "transliteration": "vaYikach",
-      "englishLiteral": "and-he-took",
-      "englishNatural": "and he took",
-      "root": "lakach",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "לָקַח",
-      "transliteration": "lakach",
-      "englishLiteral": "he-took",
-      "englishNatural": "he took",
-      "root": "lakach",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "לֻקֳּחָה",
-      "transliteration": "luqqachah",
-      "englishLiteral": "was-taken",
-      "englishNatural": "was taken",
-      "root": "lakach",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "pual",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "לָקַח",
-      "transliteration": "lakach",
-      "englishLiteral": "took",
-      "englishNatural": "took",
-      "root": "lakach",
-      "order": {
-        "hebrew": 7,
-        "english": 8
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "perfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "לָקַח",
-      "transliteration": "lakach",
-      "englishLiteral": "he-took",
-      "englishNatural": "he had taken",
-      "root": "lakach",
-      "order": {
-        "hebrew": 9,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 6
+    "isaiah": {
+      "6": {
+        "6": [
+          8
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

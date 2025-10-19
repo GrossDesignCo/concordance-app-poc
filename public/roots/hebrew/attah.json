@@ -6,34 +6,15 @@
   "englishNatural": "now",
   "type": "adverb",
   "description": "now, at this time, presently",
-  "wordInstances": [
-    {
-      "hebrew": "וְעַתָּה",
-      "transliteration": "veAttah",
-      "englishLiteral": "And-now",
-      "englishNatural": "And now",
-      "root": "attah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 3
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "3": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

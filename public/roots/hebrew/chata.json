@@ -5,152 +5,39 @@
   "englishLiteral": "to sin",
   "englishNatural": "to sin",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "חַטָּאת",
-      "transliteration": "chatat",
-      "englishLiteral": "sin",
-      "englishNatural": "sin",
-      "root": "chata",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 7
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "7": [
+          8
+        ]
       }
     },
-    {
-      "hebrew": "וְחַטָּאתְךָ",
-      "transliteration": "veChatatkha",
-      "englishLiteral": "and-your-sin",
-      "englishNatural": "and your sin",
-      "root": "chata",
-      "prefixes": [
-        "ve"
-      ],
-      "suffixes": [
-        "at",
-        "kha"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "2nd",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 7
+    "isaiah": {
+      "6": {
+        "7": [
+          11
+        ]
       }
     },
-    {
-      "hebrew": "חָטָאנוּ",
-      "transliteration": "chatanu",
-      "englishLiteral": "we-have-sinned",
-      "englishNatural": "We have sinned",
-      "root": "chata",
-      "suffixes": [
-        "nu"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "common",
-        "number": "plural",
-        "person": "1st",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 7
+    "numbers": {
+      "21": {
+        "7": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "חַטָּאִים",
-      "transliteration": "chataim",
-      "englishLiteral": "sinners",
-      "englishNatural": "sinners",
-      "root": "chata",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וְחַטָּאִים",
-      "transliteration": "veChataim",
-      "englishLiteral": "and-sinners",
-      "englishNatural": "and sinners",
-      "root": "chata",
-      "prefixes": [
-        "ve"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 5
+    "psalms": {
+      "1": {
+        "1": [
+          8
+        ],
+        "5": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

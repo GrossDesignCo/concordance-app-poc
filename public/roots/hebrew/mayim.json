@@ -8,401 +8,65 @@
     "shamayim"
   ],
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "הַמַּ֖יִם",
-      "transliteration": "haMayim",
-      "englishLiteral": "the-waters",
-      "englishNatural": "the waters",
-      "root": "mayim",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 10
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "2": [
+          11
+        ],
+        "6": [
+          5,
+          9,
+          10
+        ],
+        "7": [
+          6,
+          11
+        ],
+        "9": [
+          3
+        ],
+        "10": [
+          5
+        ],
+        "20": [
+          3
+        ],
+        "21": [
+          12
+        ],
+        "22": [
+          8
+        ]
       }
     },
-    {
-      "hebrew": "הַמָּֽיִם",
-      "transliteration": "haMayim",
-      "englishLiteral": "the-waters",
-      "englishNatural": "the waters",
-      "root": "mayim",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "lineBreaksAfter": 1,
-      "grammarSuffix": {
-        "transliteration": ".",
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 2
+    "jonah": {
+      "3": {
+        "7": [
+          16
+        ]
       }
     },
-    {
-      "hebrew": "הַמַּ֔יִם",
-      "transliteration": "haMayim",
-      "englishLiteral": "the-waters",
-      "englishNatural": "Let the waters",
-      "root": "mayim",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarPrefix": {
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 20
+    "proverbs": {
+      "8": {
+        "24": [
+          6
+        ]
       }
     },
-    {
-      "hebrew": "הַמַּ֜יִם",
-      "transliteration": "haMayim",
-      "englishLiteral": "the-waters",
-      "englishNatural": "the waters",
-      "root": "mayim",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
+    "psalms": {
+      "1": {
+        "3": [
+          5
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "הַמַּ֙יִם֙",
-      "transliteration": "haMayim",
-      "englishLiteral": "the-waters",
-      "englishNatural": "the waters",
-      "root": "mayim",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "הַמָּיִם֙",
-      "transliteration": "haMayim",
-      "englishLiteral": "the-waters",
-      "englishNatural": "the waters",
-      "root": "mayim",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "מַיִם",
-      "transliteration": "mayim",
-      "englishLiteral": "waters",
-      "englishNatural": "waters",
-      "root": "mayim",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "לָמָיִם",
-      "transliteration": "laMayim",
-      "englishLiteral": "to-waters",
-      "englishNatural": "and waters",
-      "root": "mayim",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "הַמַּ֙יִם֙",
-      "transliteration": "haMayim",
-      "englishLiteral": "the-waters",
-      "englishNatural": "the waters",
-      "root": "mayim",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "הַמַּ֖יִם",
-      "transliteration": "haMayim",
-      "englishLiteral": "the-waters",
-      "englishNatural": "the waters",
-      "root": "mayim",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "הַמַּ֜יִם",
-      "transliteration": "haMayim",
-      "englishLiteral": "the-waters",
-      "englishNatural": "Let the waters",
-      "root": "mayim",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarPrefix": {
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "וּמַיִם",
-      "transliteration": "uMayim",
-      "englishLiteral": "and-waters",
-      "englishNatural": "and waters",
-      "root": "mayim",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "מָיִם",
-      "transliteration": "mayim",
-      "englishLiteral": "waters",
-      "englishNatural": "waters",
-      "root": "mayim",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "מָיִם",
-      "transliteration": "mayim",
-      "englishLiteral": "waters",
-      "englishNatural": "waters",
-      "root": "mayim",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "מֵי",
-      "transliteration": "mei",
-      "englishLiteral": "water-of",
-      "englishNatural": "water of",
-      "root": "mayim",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 2
+      "23": {
+        "2": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

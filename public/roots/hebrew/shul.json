@@ -5,43 +5,15 @@
   "englishLiteral": "garment",
   "englishNatural": "garment",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "וְשׁוּלָיו",
-      "transliteration": "veShulav",
-      "englishLiteral": "and-his-garments",
-      "englishNatural": "and his garments",
-      "root": "shul",
-      "prefixes": [
-        "ve"
-      ],
-      "suffixes": [
-        "av"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 1
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "1": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

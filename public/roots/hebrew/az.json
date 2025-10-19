@@ -6,56 +6,22 @@
   "englishNatural": "at_that_time",
   "type": "adverb",
   "description": "back then, at that time, of old, eg. \"at-that-time I told you what would happen\"",
-  "wordInstances": [
-    {
-      "hebrew": "אָז",
-      "transliteration": "az",
-      "englishLiteral": "then",
-      "englishNatural": "then",
-      "root": "az",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 26
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "26": [
+          9
+        ]
       }
     },
-    {
-      "hebrew": "מֵאָז",
-      "transliteration": "meAz",
-      "englishLiteral": "from-that_time",
-      "englishNatural": "from that-time",
-      "root": "az",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 22
+    "proverbs": {
+      "8": {
+        "22": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

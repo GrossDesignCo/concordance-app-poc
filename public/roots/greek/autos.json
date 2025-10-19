@@ -4,283 +4,37 @@
   "transliteration": "autos",
   "englishLiteral": "him",
   "englishNatural": "him",
-  "wordInstances": [
-    {
-      "greek": "αὐτῷ",
-      "transliteration": "autō",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "autos",
-      "order": {
-        "greek": 17,
-        "english": 19
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "dative"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 15
+  "wordIndexes": {
+    "john": {
+      "21": {
+        "15": [
+          16,
+          25
+        ],
+        "16": [
+          1,
+          9,
+          18
+        ],
+        "17": [
+          1,
+          13,
+          20,
+          31
+        ]
       }
     },
-    {
-      "greek": "αὐτῷ",
-      "transliteration": "autō",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "autos",
-      "order": {
-        "greek": 26,
-        "english": 28
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "dative"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 15
-      }
-    },
-    {
-      "greek": "αὐτῷ",
-      "transliteration": "autō",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "autos",
-      "order": {
-        "greek": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "dative"
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 16
-      }
-    },
-    {
-      "greek": "αὐτῷ",
-      "transliteration": "autō",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "autos",
-      "order": {
-        "greek": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "dative"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 16
-      }
-    },
-    {
-      "greek": "αὐτῷ",
-      "transliteration": "autō",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "autos",
-      "order": {
-        "greek": 19,
-        "english": 19
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "dative"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 16
-      }
-    },
-    {
-      "greek": "αὐτῷ",
-      "transliteration": "autō",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "autos",
-      "order": {
-        "greek": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "dative"
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 17
-      }
-    },
-    {
-      "greek": "αὐτῷ",
-      "transliteration": "autō",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "autos",
-      "order": {
-        "greek": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "dative"
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 17
-      }
-    },
-    {
-      "greek": "αὐτῷ",
-      "transliteration": "autō",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "autos",
-      "order": {
-        "greek": 21,
-        "english": 21
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "dative"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 17
-      }
-    },
-    {
-      "greek": "αὐτῷ",
-      "transliteration": "autō",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "autos",
-      "order": {
-        "greek": 32,
-        "english": 32
-      },
-      "morphology": {
-        "type": "pronoun",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "dative"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 17
-      }
-    },
-    {
-      "greek": "αὐτοῦ",
-      "transliteration": "autou",
-      "englishLiteral": "his",
-      "englishNatural": "of his",
-      "root": "autos",
-      "order": {
-        "greek": 19,
-        "english": 19
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "case": "genitive",
-        "type": "pronoun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": ".",
-        "greek": ".",
-        "transliteration": "."
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 1
-      }
-    },
-    {
-      "greek": "αὐτὸν",
-      "transliteration": "auton",
-      "englishLiteral": "him",
-      "englishNatural": "him",
-      "root": "autos",
-      "order": {
-        "greek": 17,
-        "english": 17
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "case": "accusative",
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 2
+    "revelation": {
+      "20": {
+        "1": [
+          18
+        ],
+        "2": [
+          16
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

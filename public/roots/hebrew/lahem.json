@@ -6,34 +6,15 @@
   "englishNatural": "to them",
   "type": "preposition",
   "description": "to them, for them (preposition with 3rd person masculine plural suffix)",
-  "wordInstances": [
-    {
-      "hebrew": "לָהֶם",
-      "transliteration": "lahem",
-      "englishLiteral": "to-them",
-      "englishNatural": "to them",
-      "root": "lahem",
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 10
+  "wordIndexes": {
+    "jonah": {
+      "3": {
+        "10": [
+          15
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

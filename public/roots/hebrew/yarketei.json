@@ -6,33 +6,15 @@
   "englishNatural": "far-reaches",
   "type": "noun",
   "description": "farthest possible place, extremities, depths, innermost parts",
-  "wordInstances": [
-    {
-      "hebrew": "יַרְכְּתֵי",
-      "transliteration": "yarketei",
-      "englishLiteral": "far_reaches-of",
-      "englishNatural": "the far-reaches of",
-      "root": "yarketei",
-      "order": {
-        "hebrew": 19,
-        "english": 19
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "state": "construct",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 5
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "5": [
+          18
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

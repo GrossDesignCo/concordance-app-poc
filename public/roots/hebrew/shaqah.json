@@ -6,63 +6,18 @@
   "englishNatural": "to give drink",
   "description": "to drink, but not like \"I drink water\", but to quench anothers thirst, like when someone says \"beer me\" in English, but more generic",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "לְהַשְׁקוֹת",
-      "transliteration": "leHashqot",
-      "englishLiteral": "to-give_drink",
-      "englishNatural": "to give-drink to",
-      "root": "shaqah",
-      "prefixes": [
-        "le",
-        "ha"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "verb",
-        "stem": "hiphil",
-        "tense": "infinitive_construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "וְהִשְׁקָה",
-      "transliteration": "veHishqah",
-      "englishLiteral": "and-gave_drink",
-      "englishNatural": "and gave drink to",
-      "root": "shaqah",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 6
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "6": [
+          4
+        ],
+        "10": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

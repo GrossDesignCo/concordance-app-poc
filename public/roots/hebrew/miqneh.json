@@ -9,40 +9,15 @@
   "related": [
     "qanah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "וּמִקְנֶה",
-      "transliteration": "uMiqneh",
-      "englishLiteral": "and-cattle",
-      "englishNatural": "and cattle",
-      "root": "miqneh",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 20
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "20": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,128 +6,37 @@
   "englishNatural": "steadfast-love",
   "type": "noun",
   "description": "loving-kindness, mercy, steadfast love, covenant loyalty",
-  "wordInstances": [
-    {
-      "hebrew": "חֶסֶד",
-      "transliteration": "chesed",
-      "englishLiteral": "steadfast_love",
-      "englishNatural": "steadfast-love",
-      "root": "chesed",
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 6
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "6": [
+          13
+        ],
+        "7": [
+          1
+        ]
       }
     },
-    {
-      "hebrew": "חֶסֶד",
-      "transliteration": "chesed",
-      "englishLiteral": "steadfast_love",
-      "englishNatural": "steadfast-love",
-      "root": "chesed",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+    "jonah": {
+      "4": {
+        "2": [
+          28
+        ]
       }
     },
-    {
-      "hebrew": "חֶסֶד",
-      "transliteration": "chesed",
-      "englishLiteral": "steadfast_love",
-      "englishNatural": "of steadfast-love",
-      "root": "chesed",
-      "order": {
-        "hebrew": 29,
-        "english": 29
+    "psalms": {
+      "23": {
+        "6": [
+          2
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "חַסְדּוֹ",
-      "transliteration": "chasdo",
-      "englishLiteral": "his-steadfast_love",
-      "englishNatural": "his steadfast-love",
-      "root": "chesed",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 117,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "וָחֶסֶד",
-      "transliteration": "vaChesed",
-      "englishLiteral": "and-steadfast_love",
-      "englishNatural": "and steadfast-love",
-      "root": "chesed",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 6
+      "117": {
+        "2": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

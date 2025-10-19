@@ -6,838 +6,118 @@
   "englishNatural": "to call-out",
   "description": "to call, to call out to, to name, to call by name",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיִּקְרָא",
-      "transliteration": "vaYiqra",
-      "englishLiteral": "and-called-out",
-      "englishNatural": "and called out",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 5
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "5": [
+          6
+        ],
+        "6": [
+          4
+        ]
       }
     },
-    {
-      "hebrew": "וַיִּקְרָא",
-      "transliteration": "vaYiqra",
-      "englishLiteral": "and-called_out",
-      "englishNatural": "and called-out",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
+    "genesis": {
+      "1": {
+        "5": [
+          0,
+          5
+        ],
+        "8": [
+          0
+        ],
+        "10": [
+          0,
+          6
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
+      "2": {
+        "19": [
+          17,
+          21
+        ],
+        "20": [
+          0
+        ],
+        "23": [
+          9
+        ]
       },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
+      "3": {
+        "9": [
+          0
+        ],
+        "20": [
+          0
+        ]
       },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 6
+      "4": {
+        "17": [
+          11
+        ],
+        "25": [
+          7
+        ],
+        "26": [
+          5,
+          11
+        ]
+      },
+      "5": {
+        "2": [
+          5
+        ],
+        "3": [
+          8
+        ],
+        "29": [
+          0
+        ]
       }
     },
-    {
-      "hebrew": "וַיִּקְרָ֨א",
-      "transliteration": "vaYiqra",
-      "englishLiteral": "And-called_out",
-      "englishNatural": "called-out",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 10
+    "isaiah": {
+      "6": {
+        "3": [
+          0
+        ],
+        "4": [
+          4
+        ]
       }
     },
-    {
-      "hebrew": "קָרָ֣א",
-      "transliteration": "qara",
-      "englishLiteral": "called_out",
-      "englishNatural": "he called-out",
-      "root": "qara",
-      "order": {
-        "hebrew": 7,
-        "english": 7
+    "jonah": {
+      "1": {
+        "2": [
+          6
+        ],
+        "6": [
+          10
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 10
+      "3": {
+        "2": [
+          6,
+          9
+        ],
+        "4": [
+          7
+        ],
+        "5": [
+          4
+        ],
+        "8": [
+          4
+        ]
       }
     },
-    {
-      "hebrew": "וַיִּקְרָ֨א",
-      "transliteration": "vaYiqra",
-      "englishLiteral": "And-called_out",
-      "englishNatural": "called-out",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "קָ֣רָא",
-      "transliteration": "qara",
-      "englishLiteral": "called",
-      "englishNatural": "and called",
-      "root": "qara",
-      "order": {
-        "hebrew": 6,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וַיִּקְרָ֧א",
-      "transliteration": "vaYiqra",
-      "englishLiteral": "And-called_out",
-      "englishNatural": "called-out",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "יִּקְרָא־",
-      "transliteration": "yiqra-",
-      "englishLiteral": "he-calls_out-",
-      "englishNatural": "he would call-out",
-      "root": "qara",
-      "order": {
-        "hebrew": 18,
-        "english": 18
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "יִקְרָא־",
-      "transliteration": "yiqra-",
-      "englishLiteral": "he-calls_out-",
-      "englishNatural": "would call-out",
-      "root": "qara",
-      "order": {
-        "hebrew": 22,
-        "english": 23
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "וַיִּקְרָא",
-      "transliteration": "vaYiqra",
-      "englishLiteral": "And-called_out",
-      "englishNatural": "called-out",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "יִקָּרֵא",
-      "transliteration": "yiqarei",
-      "englishLiteral": "will-be-called",
-      "englishNatural": "will be called",
-      "root": "qara",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "niphal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "וַיִּקְרָא",
-      "transliteration": "vayYiqra",
-      "englishLiteral": "And-he-called_out",
-      "englishNatural": "called-out",
-      "root": "qara",
-      "prefixes": [
-        "va",
-        "yi"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "וַיִּקְרָא",
-      "transliteration": "vaYiqra",
-      "englishLiteral": "And-called_out",
-      "englishNatural": "called-out",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "וַיִּקְרָא",
-      "transliteration": "vayYiqra",
-      "englishLiteral": "and-he-called",
-      "englishNatural": "and he called",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "וַתִּקְרָא",
-      "transliteration": "vaTiqra",
-      "englishLiteral": "and-called",
-      "englishNatural": "and called",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "feminine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "וַיִּקְרָא",
-      "transliteration": "vaYiqra",
-      "englishLiteral": "and-called",
-      "englishNatural": "and he called",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "לִקְרֹא",
-      "transliteration": "liqro",
-      "englishLiteral": "to-call-out",
-      "englishNatural": "to call out",
-      "root": "qara",
-      "prefixes": [
-        "li"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "verb",
-        "stem": "qal",
-        "tense": "infinitive_construct"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "וַיִּקְרָא",
-      "transliteration": "vaYiqra",
-      "englishLiteral": "and-called_out",
-      "englishNatural": "and called-out",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "וַיִּקְרָא",
-      "transliteration": "vaYiqra",
-      "englishLiteral": "And-called_out",
-      "englishNatural": "And he called-out",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "וַיִּקְרָא",
-      "transliteration": "vaYiqra",
-      "englishLiteral": "and-called_out",
-      "englishNatural": "and called-out",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וְקָרָא",
-      "transliteration": "veKara",
-      "englishLiteral": "And-called_out",
-      "englishNatural": "called-out",
-      "root": "qara",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "הַקּוֹרֵ֑א",
-      "transliteration": "haQore",
-      "englishLiteral": "the-caller",
-      "englishNatural": "the caller",
-      "root": "qara",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וּקְרָא",
-      "transliteration": "uQera",
-      "englishLiteral": "and-call_out",
-      "englishNatural": "and call-out",
-      "root": "qara",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperative",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "קְרָא",
-      "transliteration": "qera",
-      "englishLiteral": "call_out",
-      "englishNatural": "call-out",
-      "root": "qara",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperative",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "וּקְרָא",
-      "transliteration": "uQera",
-      "englishLiteral": "and-call_out",
-      "englishNatural": "and call-out",
-      "root": "qara",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "type": "verb",
-        "tense": "imperative",
-        "stem": "qal"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "הַקְּרִיאָה",
-      "transliteration": "haQeriah",
-      "englishLiteral": "the-calling_out",
-      "englishNatural": "the calling-out",
-      "root": "qara",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "וַיִּקְרָא",
-      "transliteration": "vaYiqra",
-      "englishLiteral": "and-called_out",
-      "englishNatural": "and he called-out",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וַיִּקְרְאוּ־",
-      "transliteration": "vaYiqreu-",
-      "englishLiteral": "and-called_out-",
-      "englishNatural": "and called-out",
-      "root": "qara",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וְיִקְרְאוּ",
-      "transliteration": "veYiqreu",
-      "englishLiteral": "and-they-will-call_out",
-      "englishNatural": "and they will call-out",
-      "root": "qara",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "תִקְרָא",
-      "transliteration": "tiqra",
-      "englishLiteral": "will-call_out",
-      "englishNatural": "call-out",
-      "root": "qara",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "?",
-        "englishNatural": "?"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 1
+    "proverbs": {
+      "8": {
+        "1": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

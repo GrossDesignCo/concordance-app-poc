@@ -6,42 +6,15 @@
   "englishNatural": "to cover",
   "description": "to cover over, to make atonement",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "תְּכֻפָּר",
-      "transliteration": "teKupar",
-      "englishLiteral": "will-be-covered",
-      "englishNatural": "will be covered",
-      "root": "kafar",
-      "prefixes": [
-        "te"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "pual",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 7
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "7": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

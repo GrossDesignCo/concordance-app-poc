@@ -15,7 +15,7 @@ import fs from 'fs';
 import path from 'path';
 import { roots as hebrewRoots } from '@/data/dictionary/hebrew/roots';
 import { roots as greekRoots } from '@/data/dictionary/greek/roots';
-import { Verse, TranslationWord } from '@/types';
+import { Verse } from '@/types';
 
 // Ensures that the given directory exists
 async function ensureDirectoryExists(dirPath: string): Promise<void> {
@@ -28,11 +28,14 @@ async function ensureDirectoryExists(dirPath: string): Promise<void> {
   }
 }
 
-// Collects all word instances for each root from scripture
-async function collectWordInstancesByRoot(): Promise<
-  Record<string, TranslationWord[]>
+// Collects word indexes for each root from scripture
+async function collectWordIndexesByRoot(): Promise<
+  Record<string, Record<string, Record<number, Record<number, number[]>>>>
 > {
-  const wordsByRoot: Record<string, TranslationWord[]> = {};
+  const wordIndexesByRoot: Record<
+    string,
+    Record<string, Record<number, Record<number, number[]>>>
+  > = {};
 
   const scriptureDir = path.join(process.cwd(), 'src/data/scripture');
   const books = fs
@@ -57,6 +60,7 @@ async function collectWordInstancesByRoot(): Promise<
     // Process each chapter
     for (const chapterDir of chapters) {
       const chapterPath = path.join(bookDir, chapterDir);
+      const chapterNumber = parseInt(chapterDir.split('-')[1]);
 
       // Import and process each verse
       const verseFiles = fs
@@ -68,35 +72,49 @@ async function collectWordInstancesByRoot(): Promise<
         const verseModule = await import(versePath);
         const verse: Verse = verseModule[Object.keys(verseModule)[0]];
 
-        // Process each word in the verse
-        for (const word of verse.words) {
+        // Process each word in the verse with its index
+        verse.words.forEach((word, wordIndex) => {
           if (word.root) {
-            if (!wordsByRoot[word.root]) {
-              wordsByRoot[word.root] = [];
+            // Initialize nested structure if needed
+            if (!wordIndexesByRoot[word.root]) {
+              wordIndexesByRoot[word.root] = {};
             }
-            // Add the word instance with verse metadata
-            wordsByRoot[word.root].push({
-              ...word,
-              // Add verse context for reference
-              verseContext: {
-                book: verse.meta.book,
-                chapter: verse.meta.chapter,
-                verse: verse.meta.verse,
-              },
-            } as TranslationWord & { verseContext: { book: string; chapter: number; verse: number } });
+            if (!wordIndexesByRoot[word.root][book]) {
+              wordIndexesByRoot[word.root][book] = {};
+            }
+            if (!wordIndexesByRoot[word.root][book][chapterNumber]) {
+              wordIndexesByRoot[word.root][book][chapterNumber] = {};
+            }
+            if (
+              !wordIndexesByRoot[word.root][book][chapterNumber][
+                verse.meta.verse
+              ]
+            ) {
+              wordIndexesByRoot[word.root][book][chapterNumber][
+                verse.meta.verse
+              ] = [];
+            }
+
+            // Add the word index to the array
+            wordIndexesByRoot[word.root][book][chapterNumber][
+              verse.meta.verse
+            ].push(wordIndex);
           }
-        }
+        });
       }
     }
   }
 
-  return wordsByRoot;
+  return wordIndexesByRoot;
 }
 
 // Generates root files for the given language
 async function generateRootFiles(
   language: 'hebrew' | 'greek',
-  wordsByRoot: Record<string, TranslationWord[]>
+  wordIndexesByRoot: Record<
+    string,
+    Record<string, Record<number, Record<number, number[]>>>
+  >
 ): Promise<void> {
   try {
     console.log(`Generating root files for ${language}...`);
@@ -111,19 +129,16 @@ async function generateRootFiles(
     // Generate a file for each root
     let fileCount = 0;
     for (const [rootKey, rootData] of Object.entries(roots)) {
-      // Get all word instances for this root
-      const wordInstances = wordsByRoot[rootKey] || [];
+      // Get word indexes for this root
+      const wordIndexes = wordIndexesByRoot[rootKey] || {};
 
       const rootFileContent = {
         key: rootKey,
         ...rootData,
-        // Populated with actual word instances
-        wordInstances: wordInstances,
+        // Word indexes organized by book > chapter > verse > [wordIndex, ...]
+        wordIndexes: wordIndexes,
         // Placeholder for future data
         usage: {},
-        verses: {},
-        chapters: {},
-        books: [],
         translationConnections:
           rootData.translatedFrom || rootData.translatedTo || [],
       };
@@ -152,16 +167,16 @@ export async function generateAllRootFiles(): Promise<void> {
     const rootsDir = path.join(process.cwd(), 'public/roots');
     await ensureDirectoryExists(rootsDir);
 
-    // Collect all word instances by root from scripture
-    console.log('Collecting word instances from scripture...');
-    const wordsByRoot = await collectWordInstancesByRoot();
+    // Collect word indexes by root from scripture
+    console.log('Collecting word indexes from scripture...');
+    const wordIndexesByRoot = await collectWordIndexesByRoot();
     console.log(
-      `Found word instances for ${Object.keys(wordsByRoot).length} roots`
+      `Found word indexes for ${Object.keys(wordIndexesByRoot).length} roots`
     );
 
     // Generate files for both languages
-    await generateRootFiles('hebrew', wordsByRoot);
-    await generateRootFiles('greek', wordsByRoot);
+    await generateRootFiles('hebrew', wordIndexesByRoot);
+    await generateRootFiles('greek', wordIndexesByRoot);
 
     console.log('Successfully generated all root files');
   } catch (error) {

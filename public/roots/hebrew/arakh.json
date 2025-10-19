@@ -6,36 +6,15 @@
   "englishNatural": "to arrange",
   "type": "verb",
   "description": "to arrange, set in order, prepare, lay out",
-  "wordInstances": [
-    {
-      "hebrew": "תַּעֲרֹךְ",
-      "transliteration": "taarokh",
-      "englishLiteral": "you-prepare",
-      "englishNatural": "you prepare",
-      "root": "arakh",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "person": "2nd",
-        "gender": "masculine",
-        "number": "singular",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 5
+  "wordIndexes": {
+    "psalms": {
+      "23": {
+        "5": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,39 +6,15 @@
   "englishNatural": "firstborn",
   "type": "noun",
   "description": "firstborn, firstling",
-  "wordInstances": [
-    {
-      "hebrew": "מִבְּכֹרוֹת",
-      "transliteration": "miBekhorot",
-      "englishLiteral": "from-firstborn-of",
-      "englishNatural": "from the firstborn of",
-      "root": "bekhor",
-      "prefixes": [
-        "mi"
-      ],
-      "suffixes": [
-        "ot"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 4
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "4": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

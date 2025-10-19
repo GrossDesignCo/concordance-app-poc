@@ -9,94 +9,21 @@
     "nachash"
   ],
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיְנַשְּׁכוּ",
-      "transliteration": "vaYeNashkhu",
-      "englishLiteral": "and-they-struck",
-      "englishNatural": "and they struck",
-      "root": "nashakh",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "piel",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "הַנָּשׁוּךְ",
-      "transliteration": "haNashukh",
-      "englishLiteral": "the-struck",
-      "englishNatural": "who is struck",
-      "root": "nashakh",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "נָשַׁךְ",
-      "transliteration": "nashakh",
-      "englishLiteral": "struck",
-      "englishNatural": "struck",
-      "root": "nashakh",
-      "order": {
-        "hebrew": 10,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
+  "wordIndexes": {
+    "numbers": {
+      "21": {
+        "6": [
+          6
+        ],
+        "8": [
+          13
+        ],
+        "9": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

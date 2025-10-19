@@ -6,39 +6,15 @@
   "englishNatural": "to lie-down",
   "type": "verb",
   "description": "to lie down, to sleep, to rest",
-  "wordInstances": [
-    {
-      "hebrew": "וַיִּשְׁכַּב",
-      "transliteration": "vaYishkav",
-      "englishLiteral": "and-lay_down",
-      "englishNatural": "and he lay down",
-      "root": "shakav",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 21,
-        "english": 21
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 5
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "5": [
+          20
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,39 +6,15 @@
   "englishNatural": "to sink",
   "type": "verb",
   "description": "to sink, settle, be settled, be established",
-  "wordInstances": [
-    {
-      "hebrew": "הָטְבָּעוּ",
-      "transliteration": "hotbau",
-      "englishLiteral": "were-sunk",
-      "englishNatural": "were sunk",
-      "root": "taba",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "hophal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 25
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "25": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

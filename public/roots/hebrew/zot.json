@@ -6,74 +6,25 @@
   "englishNatural": "this",
   "type": "pronoun",
   "description": "feminine demonstrative pronoun - this",
-  "wordInstances": [
-    {
-      "hebrew": "זֹּאת",
-      "transliteration": "zot",
-      "englishLiteral": "this",
-      "englishNatural": "is this",
-      "root": "zot",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 13
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "13": [
+          5
+        ],
+        "14": [
+          7
+        ]
       }
     },
-    {
-      "hebrew": "זֹּאת",
-      "transliteration": "zot",
-      "englishLiteral": "this",
-      "englishNatural": "this",
-      "root": "zot",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "pronoun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "זֹּאת",
-      "transliteration": "zot",
-      "englishLiteral": "this",
-      "englishNatural": "is this",
-      "root": "zot",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "pronoun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
+    "jonah": {
+      "1": {
+        "10": [
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -5,43 +5,15 @@
   "englishLiteral": "appointed_time",
   "englishNatural": "appointed-time",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "וּלְמוֹעֲדִ֖ים",
-      "transliteration": "uLeMoedim",
-      "englishLiteral": "and-for-appointed_times",
-      "englishNatural": "and for appointed-times",
-      "root": "moed",
-      "prefixes": [
-        "u",
-        "le"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 14
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "14": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

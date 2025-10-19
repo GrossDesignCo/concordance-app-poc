@@ -6,57 +6,16 @@
   "englishNatural": "Man-of-God (Methusael)",
   "type": "noun",
   "description": "proper name, Methusael, meaning \"man of God\" or \"who is of God\"",
-  "wordInstances": [
-    {
-      "hebrew": "מְתוּשָׁאֵל",
-      "transliteration": "Methushael",
-      "englishLiteral": "Man-of-God (Methusael)",
-      "englishNatural": "Man-of-God (Methusael)",
-      "root": "Methushael",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "וּמְתוּשָׁאֵל",
-      "transliteration": "uMethushael",
-      "englishLiteral": "and-Man-of-God (Methusael)",
-      "englishNatural": "and Man-of-God (Methusael)",
-      "root": "Methushael",
-      "prefixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 18
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "18": [
+          11,
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -9,43 +9,15 @@
   "related": [
     "tardemah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "וַיֵּרָדַם",
-      "transliteration": "vaYeradam",
-      "englishLiteral": "and-deeply_tranced",
-      "englishNatural": "and deeply-tranced",
-      "root": "radam",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 22,
-        "english": 22
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 5
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "5": [
+          21
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

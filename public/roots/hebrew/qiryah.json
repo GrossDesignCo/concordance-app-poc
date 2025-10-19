@@ -6,36 +6,15 @@
   "englishNatural": "city",
   "type": "noun",
   "description": "city, town, settlement",
-  "wordInstances": [
-    {
-      "hebrew": "קָרְיָה",
-      "transliteration": "qaryah",
-      "englishLiteral": "city",
-      "englishNatural": "a city",
-      "root": "qiryah",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 3
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "3": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

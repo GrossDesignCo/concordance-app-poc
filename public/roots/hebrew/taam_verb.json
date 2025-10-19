@@ -6,38 +6,15 @@
   "englishNatural": "to taste",
   "type": "verb",
   "description": "to taste, eat, perceive",
-  "wordInstances": [
-    {
-      "hebrew": "יִטְעֲמוּ",
-      "transliteration": "yitamu",
-      "englishLiteral": "they-will-taste",
-      "englishNatural": "they will taste",
-      "root": "taam_verb",
-      "order": {
-        "hebrew": 13,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 7
+  "wordIndexes": {
+    "jonah": {
+      "3": {
+        "7": [
+          12
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

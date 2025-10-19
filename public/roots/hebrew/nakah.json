@@ -10,60 +10,22 @@
     "nashakh"
   ],
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "הַכּוֹת־",
-      "transliteration": "hakot-",
-      "englishLiteral": "striking-",
-      "englishNatural": "strike",
-      "root": "nakah",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 17
-      },
-      "morphology": {
-        "tense": "infinitive_construct",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "15": [
+          14
+        ]
       }
     },
-    {
-      "hebrew": "מַכֵּךְ",
-      "transliteration": "makekh",
-      "englishLiteral": "of-him-who-strikes-you-down",
-      "englishNatural": "of him who strikes you down",
-      "root": "nakah",
-      "suffixes": [
-        "ekh"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 14,
-        "verse": 29
+    "isaiah": {
+      "14": {
+        "29": [
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

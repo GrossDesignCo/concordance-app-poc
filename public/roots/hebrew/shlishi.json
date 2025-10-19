@@ -5,88 +5,27 @@
   "englishLiteral": "third",
   "englishNatural": "third",
   "type": "numeral",
-  "wordInstances": [
-    {
-      "hebrew": "שִׁלֵּשִׁים",
-      "transliteration": "shilleshim",
-      "englishLiteral": "third_ones",
-      "englishNatural": "third-ones",
-      "root": "shlishi",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 20,
-        "english": 20
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "7": [
+          19
+        ]
       }
     },
-    {
-      "hebrew": "שְׁלִישִֽׁי׃",
-      "transliteration": "shlishi",
-      "englishLiteral": "third",
-      "englishNatural": "A third",
-      "root": "shlishi",
-      "order": {
-        "hebrew": 6,
-        "english": 5
+    "genesis": {
+      "1": {
+        "13": [
+          5
+        ]
       },
-      "morphology": {
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishLiteral": "."
-      },
-      "lineBreaksBefore": {
-        "english": 1
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "הַשְּׁלִישִׁי",
-      "transliteration": "haShlishi",
-      "englishLiteral": "the-third",
-      "englishNatural": "the third",
-      "root": "shlishi",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 14
+      "2": {
+        "14": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,42 +6,15 @@
   "englishNatural": "thousand",
   "type": "numeral",
   "description": "thousand, a thousand",
-  "wordInstances": [
-    {
-      "hebrew": "לָאֲלָפִים",
-      "transliteration": "laAlafim",
-      "englishLiteral": "to-thousands",
-      "englishNatural": "for thousands",
-      "root": "elef",
-      "prefixes": [
-        "la"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "numeral"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "7": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

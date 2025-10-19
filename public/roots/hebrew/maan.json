@@ -6,34 +6,15 @@
   "englishNatural": "sake",
   "type": "noun",
   "description": "purpose, sake, account, for the sake of",
-  "wordInstances": [
-    {
-      "hebrew": "לְמַעַן",
-      "transliteration": "lemaan",
-      "englishLiteral": "for-sake-of",
-      "englishNatural": "for the sake of",
-      "root": "maan",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 3
+  "wordIndexes": {
+    "psalms": {
+      "23": {
+        "3": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

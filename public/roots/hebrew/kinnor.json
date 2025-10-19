@@ -6,35 +6,15 @@
   "englishNatural": "lyre",
   "type": "noun",
   "description": "lyre, harp (a stringed instrument)",
-  "wordInstances": [
-    {
-      "hebrew": "כִּנּוֹר",
-      "transliteration": "kinnor",
-      "englishLiteral": "lyre",
-      "englishNatural": "lyre",
-      "root": "kinnor",
-      "order": {
-        "hebrew": 9,
-        "english": 8
-      },
-      "morphology": {
-        "type": "noun",
-        "gender": "masculine",
-        "number": "singular"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 21
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "21": [
+          8
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

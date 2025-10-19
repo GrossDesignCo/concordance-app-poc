@@ -6,31 +6,15 @@
   "englishNatural": "between",
   "type": "preposition",
   "description": "between, among, in the midst of",
-  "wordInstances": [
-    {
-      "hebrew": "בֵּין",
-      "transliteration": "bein",
-      "englishLiteral": "between",
-      "englishNatural": "between",
-      "root": "bein",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 2
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "2": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,32 +6,15 @@
   "englishNatural": "circle",
   "type": "noun",
   "description": "circle, compass, horizon, vault",
-  "wordInstances": [
-    {
-      "hebrew": "חוּג",
-      "transliteration": "chug",
-      "englishLiteral": "circle",
-      "englishNatural": "circle",
-      "root": "chug",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 27
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "27": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

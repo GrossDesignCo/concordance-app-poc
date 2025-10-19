@@ -6,38 +6,15 @@
   "englishNatural": "sailor",
   "type": "noun",
   "description": "sailor, shipmaster, ship captain",
-  "wordInstances": [
-    {
-      "hebrew": "הַחֹבֵל",
-      "transliteration": "haChovel",
-      "englishLiteral": "the-sailor",
-      "englishNatural": "sailor",
-      "root": "chovel",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 6
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "6": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -8,84 +8,27 @@
     "parah"
   ],
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "פְרִֽי־",
-      "transliteration": "peri-",
-      "englishLiteral": "fruit-of",
-      "englishNatural": "fruit of",
-      "root": "peri",
-      "order": {
-        "hebrew": 21,
-        "english": 21
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "29": [
+          20
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
+      "4": {
+        "3": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "מִפְּרִי",
-      "transliteration": "miPeri",
-      "englishLiteral": "from-fruit-of",
-      "englishNatural": "from the fruit of",
-      "root": "peri",
-      "prefixes": [
-        "mi"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וּפִרְיוֹ",
-      "transliteration": "uFiryo",
-      "englishLiteral": "and-its-fruit",
-      "englishNatural": "and its fruit",
-      "root": "peri",
-      "prefixes": [
-        "u"
-      ],
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 14,
-        "verse": 29
+    "isaiah": {
+      "14": {
+        "29": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

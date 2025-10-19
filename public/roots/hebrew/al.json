@@ -6,923 +6,172 @@
   "englishNatural": "over",
   "description": "over, upon, above, on, upon, above, on top of, on the top of",
   "type": "preposition",
-  "wordInstances": [
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 6
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "6": [
+          2
+        ],
+        "7": [
+          13,
+          15,
+          18,
+          20
+        ]
       }
     },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "on",
-      "root": "al",
-      "order": {
-        "hebrew": 14,
-        "english": 14
+    "genesis": {
+      "1": {
+        "7": [
+          13
+        ],
+        "11": [
+          16
+        ],
+        "15": [
+          5
+        ],
+        "17": [
+          6
+        ],
+        "20": [
+          9,
+          11
+        ],
+        "26": [
+          17
+        ],
+        "28": [
+          20
+        ],
+        "29": [
+          11
+        ],
+        "30": [
+          8
+        ]
       },
-      "morphology": {
-        "type": "preposition"
+      "2": {
+        "5": [
+          16
+        ],
+        "16": [
+          3
+        ],
+        "21": [
+          4
+        ],
+        "24": [
+          0
+        ]
       },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+      "3": {
+        "14": [
+          15
+        ]
+      },
+      "4": {
+        "14": [
+          4
+        ]
+      },
+      "6": {
+        "1": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "וְעַל־",
-      "transliteration": "veAl-",
-      "englishLiteral": "and-over-",
-      "englishNatural": "and on",
-      "root": "al",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
+    "isaiah": {
+      "6": {
+        "1": [
+          8
+        ],
+        "6": [
+          9
+        ],
+        "7": [
+          7
+        ]
       },
-      "morphology": {
-        "type": "preposition"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+      "14": {
+        "29": [
+          0
+        ]
       }
     },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "on",
-      "root": "al",
-      "order": {
-        "hebrew": 19,
-        "english": 19
+    "jonah": {
+      "1": {
+        "2": [
+          7
+        ],
+        "5": [
+          14
+        ],
+        "7": [
+          16
+        ]
       },
-      "morphology": {
-        "type": "preposition"
+      "3": {
+        "6": [
+          9,
+          13
+        ],
+        "10": [
+          10
+        ]
       },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+      "4": {
+        "2": [
+          11,
+          13,
+          30
+        ]
       }
     },
-    {
-      "hebrew": "וְעַל־",
-      "transliteration": "veAl-",
-      "englishLiteral": "and-over-",
-      "englishNatural": "and on",
-      "root": "al",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 21,
-        "english": 21
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+    "numbers": {
+      "21": {
+        "7": [
+          14
+        ],
+        "8": [
+          9
+        ],
+        "9": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 11
+    "proverbs": {
+      "8": {
+        "27": [
+          6
+        ]
       }
     },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 18,
-        "english": 18
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 21,
-        "english": 21
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 28
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "מֵעַ֣ל",
-      "transliteration": "meAl",
-      "englishLiteral": "from-over",
-      "englishNatural": "were over",
-      "root": "al",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "עַל",
-      "transliteration": "al",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 21
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "moreover",
-      "root": "al",
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "עַל",
-      "transliteration": "al",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "on-",
-      "englishNatural": "on",
-      "root": "al",
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "מֵעַל",
-      "transliteration": "meAl",
-      "englishLiteral": "from-over",
-      "englishNatural": "from over",
-      "root": "al",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "אַל",
-      "transliteration": "al",
-      "englishLiteral": "Do-not",
-      "englishNatural": "Do not",
-      "root": "al",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 14,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "עַל",
-      "transliteration": "al",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "מֵעַל",
-      "transliteration": "meAl",
-      "englishLiteral": "from-upon",
-      "englishNatural": "from upon",
-      "root": "al",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "עָלֶיהָ",
-      "transliteration": "aleha",
-      "englishLiteral": "over-her",
-      "englishNatural": "over her",
-      "root": "al",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "מֵעֲלֵיהֶם",
-      "transliteration": "meAleihem",
-      "englishLiteral": "from-over-them",
-      "englishNatural": "from over them",
-      "root": "al",
-      "prefixes": [
-        "me"
-      ],
-      "suffixes": [
-        "eihem"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "מֵעָלָיו",
-      "transliteration": "meAlav",
-      "englishLiteral": "from-over-him",
-      "englishNatural": "from over him",
-      "root": "al",
-      "prefixes": [
-        "me"
-      ],
-      "suffixes": [
-        "av"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 11
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 14,
-        "english": 15
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "moreover",
-      "root": "al",
-      "order": {
-        "hebrew": 14,
-        "english": 15
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 31,
-        "english": 31
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "מֵעָלֵינוּ",
-      "transliteration": "meAleinu",
-      "englishLiteral": "from-over-us",
-      "englishNatural": "from over us",
-      "root": "al",
-      "prefixes": [
-        "me"
-      ],
-      "suffixes": [
-        "einu"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 16
-      },
-      "grammarSuffix": {
-        "englishNatural": ".\""
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "עַל",
-      "transliteration": "al",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "עַל",
-      "transliteration": "al",
-      "englishLiteral": "on",
-      "englishNatural": "on",
-      "root": "al",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 27
-      }
-    },
-    {
-      "hebrew": "עַל",
-      "transliteration": "al",
-      "englishLiteral": "over",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "עָלֵינוּ",
-      "transliteration": "aleinu",
-      "englishLiteral": "toward-us",
-      "englishNatural": "toward us",
-      "root": "al",
-      "suffixes": [
-        "nu"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "1st",
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 117,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "עֲלֵי",
-      "transliteration": "alei",
-      "englishLiteral": "upon",
-      "englishNatural": "upon",
-      "root": "al",
-      "suffixes": [
-        "ei"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "עָלַי",
-      "transliteration": "alai",
-      "englishLiteral": "upon",
-      "englishNatural": "upon",
-      "root": "al",
-      "suffixes": [
-        "ai"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "person": "1st",
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "עַל־",
-      "transliteration": "al-",
-      "englishLiteral": "over-",
-      "englishNatural": "over",
-      "root": "al",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 2
+    "psalms": {
+      "1": {
+        "3": [
+          3
+        ]
+      },
+      "23": {
+        "2": [
+          3
+        ]
+      },
+      "117": {
+        "2": [
+          2
+        ]
+      },
+      "131": {
+        "2": [
+          6,
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

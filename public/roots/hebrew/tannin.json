@@ -5,42 +5,15 @@
   "englishLiteral": "monster",
   "englishNatural": "monster",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "הַתַּנִּינִ֖ם",
-      "transliteration": "haTanninim",
-      "englishLiteral": "the-monsters",
-      "englishNatural": "the monsters",
-      "root": "tannin",
-      "prefixes": [
-        "ha"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 21
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "21": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

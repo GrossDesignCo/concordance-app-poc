@@ -9,41 +9,15 @@
   "related": [
     "tzar"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "צֹרְרָי",
-      "transliteration": "tzorerai",
-      "englishLiteral": "my-enemies",
-      "englishNatural": "my enemies",
-      "root": "tzarar",
-      "suffixes": [
-        "ai"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "1st",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 5
+  "wordIndexes": {
+    "psalms": {
+      "23": {
+        "5": [
+          4
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

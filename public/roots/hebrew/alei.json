@@ -9,30 +9,15 @@
   "related": [
     "al"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "עֲלֵי־",
-      "transliteration": "alei-",
-      "englishLiteral": "overlooking",
-      "englishNatural": "overlooking",
-      "root": "alei",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 2
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "2": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

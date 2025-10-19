@@ -9,33 +9,15 @@
   "related": [
     "esreh"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "וְעֶשְׂרִים",
-      "transliteration": "veEsrim",
-      "englishLiteral": "and-twenty",
-      "englishNatural": "and twenty",
-      "root": "esrim",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 3
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "3": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

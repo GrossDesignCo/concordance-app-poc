@@ -4,38 +4,15 @@
   "transliteration": "neoteros",
   "englishLiteral": "younger",
   "englishNatural": "younger",
-  "wordInstances": [
-    {
-      "greek": "νεώτερος",
-      "transliteration": "neoteros",
-      "englishLiteral": "younger",
-      "englishNatural": "younger",
-      "root": "neoteros",
-      "order": {
-        "greek": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adjective",
-        "gender": "masculine",
-        "number": "singular",
-        "case": "nominative",
-        "degree": "comparative"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 18
+  "wordIndexes": {
+    "john": {
+      "21": {
+        "18": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

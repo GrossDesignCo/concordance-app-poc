@@ -8,96 +8,23 @@
     "akhal"
   ],
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "לְאָכְלָֽה׃",
-      "transliteration": "leOchlah",
-      "englishLiteral": "for-food",
-      "englishNatural": "for food",
-      "root": "okhel",
-      "prefixes": [
-        "le"
-      ],
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 27,
-        "english": 27
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "29": [
+          26
+        ],
+        "30": [
+          18
+        ]
       },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "לְאָכְלָ֑ה",
-      "transliteration": "leOchlah",
-      "englishLiteral": "for-food",
-      "englishNatural": "for food",
-      "root": "okhel",
-      "prefixes": [
-        "le"
-      ],
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 19,
-        "english": 19
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 30
-      }
-    },
-    {
-      "hebrew": "לְמַאֲכָל",
-      "transliteration": "leMaakhal",
-      "englishLiteral": "to-food",
-      "englishNatural": "for food",
-      "root": "okhel",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 9
+      "2": {
+        "9": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

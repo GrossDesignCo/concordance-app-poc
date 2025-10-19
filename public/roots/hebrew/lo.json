@@ -5,936 +5,146 @@
   "englishLiteral": "not",
   "englishNatural": "not",
   "type": "adverb",
-  "wordInstances": [
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 7
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "7": [
+          8
+        ]
       }
     },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 5,
-        "english": 7
+    "genesis": {
+      "2": {
+        "5": [
+          12
+        ],
+        "17": [
+          4
+        ],
+        "18": [
+          3,
+          9
+        ],
+        "19": [
+          18,
+          22
+        ],
+        "20": [
+          11
+        ],
+        "25": [
+          5
+        ]
       },
-      "morphology": {
-        "type": "adverb"
+      "3": {
+        "1": [
+          17
+        ],
+        "3": [
+          9,
+          12
+        ],
+        "4": [
+          4
+        ],
+        "17": [
+          12
+        ]
       },
-      "grammarSuffix": {
-        "englishNatural": ";"
+      "4": {
+        "5": [
+          4
+        ],
+        "7": [
+          0,
+          5
+        ],
+        "9": [
+          8
+        ],
+        "12": [
+          4
+        ],
+        "19": [
+          1
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 17
+      "6": {
+        "3": [
+          2
+        ]
       }
     },
-    {
-      "hebrew": "לֹא־",
-      "transliteration": "lo-",
-      "englishLiteral": "No-",
-      "englishNatural": "No",
-      "root": "lo",
-      "order": {
-        "hebrew": 4,
-        "english": 4
+    "jonah": {
+      "1": {
+        "6": [
+          17
+        ]
       },
-      "morphology": {
-        "type": "adverb"
+      "3": {
+        "9": [
+          8
+        ],
+        "10": [
+          16
+        ]
       },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 18
+      "4": {
+        "1": [
+          6
+        ],
+        "2": [
+          6
+        ]
       }
     },
-    {
-      "hebrew": "לוֹ",
-      "transliteration": "lo",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "lo",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 18
+    "proverbs": {
+      "8": {
+        "1": [
+          0
+        ],
+        "26": [
+          1
+        ]
       }
     },
-    {
-      "hebrew": "לוֹ",
-      "transliteration": "lo",
-      "englishLiteral": "to-it",
-      "englishNatural": "to it",
-      "root": "lo",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 19,
-        "english": 19
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "לוֹ",
-      "transliteration": "lo",
-      "englishLiteral": "to-it",
-      "englishNatural": "to it",
-      "root": "lo",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 23,
-        "english": 24
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "no",
-      "englishNatural": "no",
-      "root": "lo",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "וְלֹא",
-      "transliteration": "veLo",
-      "englishLiteral": "and-not",
-      "englishNatural": "not",
-      "root": "lo",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 25
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "not",
-      "englishNatural": "had not",
-      "root": "lo",
-      "order": {
-        "hebrew": 13,
-        "english": 14
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "Not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 18,
-        "english": 19
-      },
-      "grammarPrefix": {
-        "englishLiteral": "'"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "Not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 13,
-        "english": 15
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "'"
-      },
-      "grammarSuffix": {
-        "englishNatural": "';"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "Not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 10,
-        "english": 12
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "'"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וְלֹא",
-      "transliteration": "velo",
-      "englishLiteral": "and-not",
-      "englishNatural": "not",
-      "root": "lo",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 15
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "לֹא־",
-      "transliteration": "lo-",
-      "englishLiteral": "Not-",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 5,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\""
-      },
-      "grammarSuffix": {
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "לֹא־",
-      "transliteration": "lo-",
-      "englishLiteral": "not-",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 5,
-        "english": 6
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "לוֹ",
-      "transliteration": "lo",
-      "englishLiteral": "to-himself",
-      "englishNatural": "to himself",
-      "root": "lo",
-      "order": {
-        "hebrew": 2,
-        "english": 3
-      },
-      "morphology": {
-        "type": "preposition",
-        "person": "3rd"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "no",
-      "englishNatural": "no",
-      "root": "lo",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וַהֲלוֹא",
-      "transliteration": "vaHaLo",
-      "englishLiteral": "And-is_there_not",
-      "englishNatural": "And is there not",
-      "root": "lo",
-      "prefixes": [
-        "va",
-        "ha"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 6,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "Not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 9,
-        "english": 10
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\""
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "לֹא־",
-      "transliteration": "lo-",
-      "englishLiteral": "not-",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 3,
-        "english": 5
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\""
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וְלֹא",
-      "transliteration": "veLo",
-      "englishLiteral": "and-not",
-      "englishNatural": "that we may not",
-      "root": "lo",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 18,
-        "english": 18
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "וְלֹא",
-      "transliteration": "veLo",
-      "englishLiteral": "and-not",
-      "englishNatural": "not",
-      "root": "lo",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 17,
-        "english": 18
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "וְלֹא",
-      "transliteration": "veLo",
-      "englishLiteral": "and-not",
-      "englishNatural": "not",
-      "root": "lo",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 10
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "grammarSuffix": {
-        "englishNatural": "?\""
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "לוֹ",
-      "transliteration": "lo",
-      "englishLiteral": "to-him",
-      "englishNatural": "to him",
-      "root": "lo",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "הֲלוֹא־",
-      "transliteration": "halo-",
-      "englishLiteral": "is-not-",
-      "englishNatural": "was not",
-      "root": "lo",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "הֲלֹא־",
-      "transliteration": "haLo",
-      "englishLiteral": "Does-not",
-      "englishNatural": "Does not",
-      "root": "lo",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 4,
-        "english": 5
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 10,
-        "english": 11
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 14,
-        "english": 15
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 12,
-        "english": 13
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "Not",
-      "englishNatural": "Not",
-      "root": "lo",
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 3,
-        "english": 5
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "לֹא־",
-      "transliteration": "lo-",
-      "englishLiteral": "not-",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 5,
-        "english": 7
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וְלֹא־",
-      "transliteration": "velo-",
-      "englishLiteral": "and-not-",
-      "englishNatural": "not",
-      "root": "lo",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 10
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וְלֹא־",
-      "transliteration": "velo-",
-      "englishLiteral": "and-not-",
-      "englishNatural": "not",
-      "root": "lo",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 12
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 131,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "לֹא",
-      "transliteration": "lo",
-      "englishLiteral": "not",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "type": "adverb"
-      },
-      "grammarSuffix": {
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "לֹא־",
-      "transliteration": "lo-",
-      "englishLiteral": "not-",
-      "englishNatural": "not",
-      "root": "lo",
-      "order": {
-        "hebrew": 6,
-        "english": 7
-      },
-      "morphology": {
-        "type": "particle"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 4
+    "psalms": {
+      "1": {
+        "1": [
+          3,
+          9,
+          13
+        ],
+        "3": [
+          11
+        ],
+        "4": [
+          0
+        ],
+        "5": [
+          2
+        ]
+      },
+      "23": {
+        "1": [
+          2
+        ],
+        "4": [
+          5
+        ]
+      },
+      "131": {
+        "1": [
+          4,
+          7,
+          10
+        ],
+        "2": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

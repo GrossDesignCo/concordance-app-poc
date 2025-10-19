@@ -6,121 +6,26 @@
   "englishNatural": "to go-down",
   "type": "verb",
   "description": "to go down, descend, come down",
-  "wordInstances": [
-    {
-      "hebrew": "וַיֵּרֶד",
-      "transliteration": "vaYered",
-      "englishLiteral": "And-went_down",
-      "englishNatural": "went-down",
-      "root": "yarad",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 5
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "5": [
+          0
+        ]
       }
     },
-    {
-      "hebrew": "וַיֵּרֶד",
-      "transliteration": "vaYered",
-      "englishLiteral": "and-went_down",
-      "englishNatural": "and went-down to",
-      "root": "yarad",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וַיֵּרֶד",
-      "transliteration": "vaYered",
-      "englishLiteral": "and-went_down",
-      "englishNatural": "and went-down",
-      "root": "yarad",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "יָרַד",
-      "transliteration": "yarad",
-      "englishLiteral": "went_down",
-      "englishNatural": "had gone down",
-      "root": "yarad",
-      "order": {
-        "hebrew": 17,
-        "english": 17
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 5
+    "jonah": {
+      "1": {
+        "3": [
+          6,
+          14
+        ],
+        "5": [
+          16
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -6,35 +6,15 @@
   "englishNatural": "to judge",
   "type": "verb",
   "description": "to judge, contend, strive with, execute judgment",
-  "wordInstances": [
-    {
-      "hebrew": "יָדוֹן",
-      "transliteration": "yadon",
-      "englishLiteral": "will-judge",
-      "englishNatural": "will judge",
-      "root": "din",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 3
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "3": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

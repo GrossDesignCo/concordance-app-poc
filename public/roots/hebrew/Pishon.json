@@ -6,34 +6,15 @@
   "englishNatural": "Spreading (Pishon)",
   "description": "Proper noun, river name in Eden",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "פִּישׁוֹן",
-      "transliteration": "Pishon",
-      "englishLiteral": "Spreading (Pishon)",
-      "englishNatural": "Spreading (Pishon)",
-      "root": "Pishon",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 11
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "11": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

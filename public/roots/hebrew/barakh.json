@@ -5,129 +5,28 @@
   "englishLiteral": "to bless",
   "englishNatural": "to bless",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיְבָ֧רֶךְ",
-      "transliteration": "vaYeVarekh",
-      "englishLiteral": "And-blessed",
-      "englishNatural": "blessed",
-      "root": "barakh",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "22": [
+          0
+        ],
+        "28": [
+          0
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "piel",
-        "type": "verb"
+      "2": {
+        "3": [
+          0
+        ]
       },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "וַיְבָ֣רֶךְ",
-      "transliteration": "vaYeVarech",
-      "englishLiteral": "And-blessed",
-      "englishNatural": "blessed",
-      "root": "barakh",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "piel",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 28
-      }
-    },
-    {
-      "hebrew": "וַיְבָרֶךְ",
-      "transliteration": "vaYeVarekh",
-      "englishLiteral": "And-blessed",
-      "englishNatural": "blessed",
-      "root": "barakh",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "piel",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וַיְבָרֶךְ",
-      "transliteration": "vaYevarekh",
-      "englishLiteral": "and-blessed",
-      "englishNatural": "and blessed",
-      "root": "barakh",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "piel",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 2
+      "5": {
+        "2": [
+          3
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

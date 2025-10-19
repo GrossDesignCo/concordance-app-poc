@@ -5,244 +5,38 @@
   "englishLiteral": "sea",
   "englishNatural": "sea",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "יַמִּ֑ים",
-      "transliteration": "yamim",
-      "englishLiteral": "Seas",
-      "englishNatural": "Seas",
-      "root": "yam",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarPrefix": {
-        "englishLiteral": "\"",
-        "englishNatural": "\""
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 10
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "10": [
+          7
+        ],
+        "22": [
+          9
+        ],
+        "26": [
+          8
+        ],
+        "28": [
+          14
+        ]
       }
     },
-    {
-      "hebrew": "בַּיַּמִּ֔ים",
-      "transliteration": "baYamim",
-      "englishLiteral": "in-the-seas",
-      "englishNatural": "in the seas",
-      "root": "yam",
-      "prefixes": [
-        "be",
-        "ha"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "הַיָּ֜ם",
-      "transliteration": "haYam",
-      "englishLiteral": "the-sea",
-      "englishNatural": "the sea",
-      "root": "yam",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "הַיָּ֔ם",
-      "transliteration": "haYam",
-      "englishLiteral": "the-sea",
-      "englishNatural": "the sea",
-      "root": "yam",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 28
-      }
-    },
-    {
-      "hebrew": "הַיָּם",
-      "transliteration": "haYam",
-      "englishLiteral": "the-sea",
-      "englishNatural": "the sea",
-      "root": "yam",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "בַּיָּם",
-      "transliteration": "baYam",
-      "englishLiteral": "in-the-sea",
-      "englishNatural": "in the sea",
-      "root": "yam",
-      "prefixes": [
-        "ba",
-        "ha"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "הַיָּם",
-      "transliteration": "haYam",
-      "englishLiteral": "the-sea",
-      "englishNatural": "the sea",
-      "root": "yam",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "הַיָּם",
-      "transliteration": "haYam",
-      "englishLiteral": "the-sea",
-      "englishNatural": "the sea",
-      "root": "yam",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 9
+    "jonah": {
+      "1": {
+        "4": [
+          5,
+          9
+        ],
+        "5": [
+          12
+        ],
+        "9": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

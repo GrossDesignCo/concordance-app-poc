@@ -9,245 +9,54 @@
     "arche"
   ],
   "description": "head, chief, beginning, top, summit",
-  "wordInstances": [
-    {
-      "hebrew": "בְּרֵאשִׁ֖ית",
-      "transliteration": "beReshit",
-      "englishLiteral": "In-heading",
-      "englishNatural": "In heading",
-      "root": "rosh",
-      "prefixes": [
-        "be"
-      ],
-      "suffixes": [
-        "it"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "1": [
+          0
+        ]
       },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "state": "absolute",
-        "type": "noun"
+      "2": {
+        "10": [
+          10
+        ]
       },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 1
+      "3": {
+        "15": [
+          11
+        ]
       }
     },
-    {
-      "hebrew": "רָאשִׁים׃",
-      "transliteration": "rashim",
-      "englishLiteral": "heads",
-      "englishNatural": "heads",
-      "root": "rosh",
-      "order": {
-        "hebrew": 11,
-        "english": 11
+    "proverbs": {
+      "1": {
+        "7": [
+          2
+        ]
       },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 10
+      "8": {
+        "2": [
+          0
+        ],
+        "22": [
+          2
+        ],
+        "23": [
+          2
+        ],
+        "26": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "רֹאשׁ",
-      "transliteration": "rosh",
-      "englishLiteral": "head",
-      "englishNatural": "head",
-      "root": "rosh",
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "רֵאשִׁית",
-      "transliteration": "reshit",
-      "englishLiteral": "heading-of",
-      "englishNatural": "heading of",
-      "root": "rosh",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "בְּרֹאשׁ",
-      "transliteration": "beRosh",
-      "englishLiteral": "In-head-of",
-      "englishNatural": "In head of",
-      "root": "rosh",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "רֵאשִׁית",
-      "transliteration": "reshit",
-      "englishLiteral": "heading-of",
-      "englishNatural": "the heading of",
-      "root": "rosh",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "מֵרֹאשׁ",
-      "transliteration": "meRosh",
-      "englishLiteral": "from-heading",
-      "englishNatural": "from the heading",
-      "root": "rosh",
-      "prefixes": [
-        "me"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "וְרֹאשׁ",
-      "transliteration": "veRosh",
-      "englishLiteral": "and-head-of",
-      "englishNatural": "and the head of",
-      "root": "rosh",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "רֹאשִׁי",
-      "transliteration": "roshi",
-      "englishLiteral": "my-head",
-      "englishNatural": "my head",
-      "root": "rosh",
-      "suffixes": [
-        "i"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "1st",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 5
+    "psalms": {
+      "23": {
+        "5": [
+          7
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": [
     "arche"
   ]

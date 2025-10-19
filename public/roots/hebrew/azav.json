@@ -5,35 +5,15 @@
   "englishLiteral": "to leave",
   "englishNatural": "to leave",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "יַעֲזָב",
-      "transliteration": "yaazov",
-      "englishLiteral": "he-will-leave",
-      "englishNatural": "will leave",
-      "root": "azav",
-      "order": {
-        "hebrew": 3,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 24
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "24": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

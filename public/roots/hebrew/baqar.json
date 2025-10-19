@@ -6,36 +6,15 @@
   "englishNatural": "cattle",
   "type": "noun",
   "description": "cattle, herd, oxen",
-  "wordInstances": [
-    {
-      "hebrew": "הַבָּקָר",
-      "transliteration": "haBaqar",
-      "englishLiteral": "the-cattle",
-      "englishNatural": "the cattle",
-      "root": "baqar",
-      "prefixes": [
-        "ha"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 7
+  "wordIndexes": {
+    "jonah": {
+      "3": {
+        "7": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

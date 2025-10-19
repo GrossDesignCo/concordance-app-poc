@@ -5,41 +5,15 @@
   "englishLiteral": "meet",
   "englishNatural": "meet",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "נִפְגָּשׁוּ",
-      "transliteration": "niFgashu",
-      "englishLiteral": "meet",
-      "englishNatural": "meet",
-      "root": "pagash",
-      "prefixes": [
-        "ni"
-      ],
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "niphal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 22,
-        "verse": 2
+  "wordIndexes": {
+    "proverbs": {
+      "22": {
+        "2": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

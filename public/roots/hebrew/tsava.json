@@ -6,97 +6,25 @@
   "englishNatural": "host",
   "description": "a large group, a nation, a people, or an army",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "צְבָאָם׃",
-      "transliteration": "tsevaam",
-      "englishLiteral": "their-host",
-      "englishNatural": "their host",
-      "root": "tsava",
-      "suffixes": [
-        "am"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".",
-        "englishNatural": "."
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 1
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "1": [
+          4
+        ]
       }
     },
-    {
-      "hebrew": "צְבָאוֹת",
-      "transliteration": "tsvaot",
-      "englishLiteral": "of-Hosts",
-      "englishNatural": "of Hosts",
-      "root": "tsava",
-      "suffixes": [
-        "ot"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "צְבָאוֹת",
-      "transliteration": "tsvaot",
-      "englishLiteral": "of-Hosts",
-      "englishNatural": "of Hosts",
-      "root": "tsava",
-      "morphology": {
-        "type": "noun",
-        "state": "absolute",
-        "number": "plural",
-        "gender": "feminine"
-      },
-      "order": {
-        "hebrew": 21,
-        "english": 23
-      },
-      "grammarSuffix": {
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": {
-        "english": 1
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
+    "isaiah": {
+      "6": {
+        "3": [
+          9
+        ],
+        "5": [
+          20
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

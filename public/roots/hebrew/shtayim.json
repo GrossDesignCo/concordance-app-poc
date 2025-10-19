@@ -5,234 +5,48 @@
   "englishLiteral": "two",
   "englishNatural": "two",
   "type": "numeral",
-  "wordInstances": [
-    {
-      "hebrew": "שְׁנֵ֥י",
-      "transliteration": "shney",
-      "englishLiteral": "two",
-      "englishNatural": "two",
-      "root": "shtayim",
-      "order": {
-        "hebrew": 4,
-        "english": 4
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "16": [
+          3
+        ]
       },
-      "morphology": {
-        "type": "adjective"
+      "3": {
+        "7": [
+          2
+        ]
       },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
+      "4": {
+        "19": [
+          3
+        ]
       },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 16
+      "5": {
+        "18": [
+          2
+        ],
+        "20": [
+          4
+        ],
+        "26": [
+          5
+        ],
+        "28": [
+          2
+        ]
       }
     },
-    {
-      "hebrew": "שְׁנֵיהֶם",
-      "transliteration": "shneyhem",
-      "englishLiteral": "two-of-them",
-      "englishNatural": "both of them",
-      "root": "shtayim",
-      "suffixes": [
-        "hem"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "dual",
-        "type": "numeral"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "שְׁתֵּי",
-      "transliteration": "shte",
-      "englishLiteral": "two",
-      "englishNatural": "two",
-      "root": "shtayim",
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "dual"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 19
-      }
-    },
-    {
-      "hebrew": "שְׁתַּיִם",
-      "transliteration": "shtayim",
-      "englishLiteral": "two",
-      "englishNatural": "two",
-      "root": "shtayim",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "dual"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "שְׁתַּיִם",
-      "transliteration": "shtayim",
-      "englishLiteral": "two",
-      "englishNatural": "two",
-      "root": "shtayim",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "dual"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "שְׁתַּיִם",
-      "transliteration": "shtayim",
-      "englishLiteral": "two",
-      "englishNatural": "two",
-      "root": "shtayim",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "שְׁתַּיִם",
-      "transliteration": "shtayim",
-      "englishLiteral": "two",
-      "englishNatural": "two",
-      "root": "shtayim",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "type": "numeral",
-        "gender": "feminine",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 28
-      }
-    },
-    {
-      "hebrew": "בִּשְׁתַּיִם",
-      "transliteration": "biShtayim",
-      "englishLiteral": "in-two",
-      "englishNatural": "in two",
-      "root": "shtayim",
-      "prefixes": [
-        "be"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "וּבִשְׁתַּיִם",
-      "transliteration": "uViShtayim",
-      "englishLiteral": "and-in-two",
-      "englishNatural": "and in two",
-      "root": "shtayim",
-      "prefixes": [
-        "u",
-        "be"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "וּבִשְׁתַּיִם",
-      "transliteration": "uViShtayim",
-      "englishLiteral": "and-in-two",
-      "englishNatural": "and in two",
-      "root": "shtayim",
-      "prefixes": [
-        "u",
-        "be"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "type": "numeral"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 2
+    "isaiah": {
+      "6": {
+        "2": [
+          7,
+          10,
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

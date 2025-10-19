@@ -6,71 +6,16 @@
   "englishNatural": "to bruise",
   "type": "verb",
   "description": "to bruise, crush, strike, wound",
-  "wordInstances": [
-    {
-      "hebrew": "יְשׁוּפְךָ",
-      "transliteration": "yeshufkha",
-      "englishLiteral": "he-will-bruise-your",
-      "englishNatural": "will bruise your",
-      "root": "shuf",
-      "prefixes": [
-        "ye"
-      ],
-      "suffixes": [
-        "kha"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "תְּשׁוּפֶנּוּ",
-      "transliteration": "teshufenu",
-      "englishLiteral": "you-will-bruise-his",
-      "englishNatural": "will bruise his",
-      "root": "shuf",
-      "prefixes": [
-        "te"
-      ],
-      "suffixes": [
-        "nu_object"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 15
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "15": [
+          10,
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

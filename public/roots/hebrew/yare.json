@@ -6,162 +6,35 @@
   "englishNatural": "to fear",
   "type": "verb",
   "description": "to fear, be afraid, revere, awesome",
-  "wordInstances": [
-    {
-      "hebrew": "וָאִירָא",
-      "transliteration": "vaIra",
-      "englishLiteral": "and-I-feared",
-      "englishNatural": "and I feared",
-      "root": "yare",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "common",
-        "number": "singular",
-        "person": "1st",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 10
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "10": [
+          5
+        ]
       }
     },
-    {
-      "hebrew": "וַיִּירְאוּ",
-      "transliteration": "vaYirau",
-      "englishLiteral": "And-feared",
-      "englishNatural": "feared",
-      "root": "yare",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
+    "jonah": {
+      "1": {
+        "5": [
+          0
+        ],
+        "9": [
+          9
+        ],
+        "10": [
+          0
+        ]
       }
     },
-    {
-      "hebrew": "וַיִּירְאוּ",
-      "transliteration": "vaYirau",
-      "englishLiteral": "And-feared",
-      "englishNatural": "feared",
-      "root": "yare",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "יָרֵא",
-      "transliteration": "yarei",
-      "englishLiteral": "fear",
-      "englishNatural": "fear",
-      "root": "yare",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "1st",
-        "tense": "participle",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "אִירָא",
-      "transliteration": "ira",
-      "englishLiteral": "I-fear",
-      "englishNatural": "I fear",
-      "root": "yare",
-      "order": {
-        "hebrew": 7,
-        "english": 6
-      },
-      "morphology": {
-        "person": "1st",
-        "number": "singular",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 23,
-        "verse": 4
+    "psalms": {
+      "23": {
+        "4": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

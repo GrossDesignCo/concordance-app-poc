@@ -6,36 +6,15 @@
   "englishNatural": "fast",
   "type": "noun",
   "description": "fast, fasting, abstaining from food",
-  "wordInstances": [
-    {
-      "hebrew": "צוֹם",
-      "transliteration": "tzom",
-      "englishLiteral": "fast",
-      "englishNatural": "a fast",
-      "root": "tzom",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 5
+  "wordIndexes": {
+    "jonah": {
+      "3": {
+        "5": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

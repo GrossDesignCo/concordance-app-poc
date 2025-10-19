@@ -6,38 +6,15 @@
   "englishNatural": "opened",
   "type": "verb",
   "description": "to open, open wide (especially the mouth)",
-  "wordInstances": [
-    {
-      "hebrew": "פָּצְתָה",
-      "transliteration": "patzah",
-      "englishLiteral": "she-opened",
-      "englishNatural": "has opened",
-      "root": "patsa",
-      "suffixes": [
-        "ah"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 11
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "11": [
+          6
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

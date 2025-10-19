@@ -4,38 +4,15 @@
   "transliteration": "satanas",
   "englishLiteral": "Adversary",
   "englishNatural": "Adversary",
-  "wordInstances": [
-    {
-      "greek": "Σατανᾶς",
-      "transliteration": "Satanas",
-      "englishLiteral": "Adversary",
-      "englishNatural": "Adversary",
-      "root": "satanas",
-      "order": {
-        "greek": 14,
-        "english": 14
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "case": "nominative",
-        "type": "noun",
-        "state": "definite"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 2
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "2": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

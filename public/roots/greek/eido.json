@@ -4,35 +4,15 @@
   "transliteration": "eidon",
   "englishLiteral": "I-saw",
   "englishNatural": "I saw",
-  "wordInstances": [
-    {
-      "greek": "εἶδον",
-      "transliteration": "eidon",
-      "englishLiteral": "I-saw",
-      "englishNatural": "I saw",
-      "root": "eido",
-      "order": {
-        "greek": 2,
-        "english": 2
-      },
-      "morphology": {
-        "number": "singular",
-        "person": "1st",
-        "tense": "aorist",
-        "voice": "active",
-        "mood": "indicative",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Revelation",
-        "chapter": 20,
-        "verse": 1
+  "wordIndexes": {
+    "revelation": {
+      "20": {
+        "1": [
+          1
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

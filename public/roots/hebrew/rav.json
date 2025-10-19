@@ -8,81 +8,29 @@
   "related": [
     "rav_noun"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "וְרַב־",
-      "transliteration": "veRav-",
-      "englishLiteral": "and-many-",
-      "englishNatural": "and abundant in",
-      "root": "rav",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 13,
-        "english": 13
-      },
-      "morphology": {
-        "type": "adjective",
-        "state": "construct"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 34,
-        "verse": 6
+  "wordIndexes": {
+    "exodus": {
+      "34": {
+        "6": [
+          12
+        ]
       }
     },
-    {
-      "hebrew": "וְרַב־",
-      "transliteration": "veRav-",
-      "englishLiteral": "and-great-",
-      "englishNatural": "and great",
-      "root": "rav",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 28,
-        "english": 28
-      },
-      "morphology": {
-        "type": "adjective"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
+    "jonah": {
+      "4": {
+        "2": [
+          27
+        ]
       }
     },
-    {
-      "hebrew": "רָב",
-      "transliteration": "rav",
-      "englishLiteral": "many",
-      "englishNatural": "and many",
-      "root": "rav",
-      "order": {
-        "hebrew": 12,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "adjective"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 6
+    "numbers": {
+      "21": {
+        "6": [
+          11
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

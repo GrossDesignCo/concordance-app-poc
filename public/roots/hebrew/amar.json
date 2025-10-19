@@ -8,1996 +8,221 @@
     "dabar"
   ],
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "And he said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "תֹאמַר",
-      "transliteration": "tomar",
-      "englishLiteral": "you-will-say",
-      "englishNatural": "you will say",
-      "root": "amar",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "תֹאמַר",
-      "transliteration": "tomar",
-      "englishLiteral": "you-will-say",
-      "englishNatural": "you will say",
-      "root": "amar",
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "2nd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "וַיֹּ֥אמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "וַיֹּ֣אמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "וַיֹּ֣אמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 20
-      }
-    },
-    {
-      "hebrew": "לֵאמֹ֕ר",
-      "transliteration": "leMor",
-      "englishLiteral": "saying",
-      "englishNatural": "saying",
-      "root": "amar",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "וַיֹּ֣אמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 24
-      }
-    },
-    {
-      "hebrew": "וַיֹּ֣אמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 26
-      }
-    },
-    {
-      "hebrew": "וַיֹּ֨אמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 28
-      }
-    },
-    {
-      "hebrew": "וַיֹּ֣אמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "וַיֹּ֥אמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "וַיֹּ֣אמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "לֵאמֹר",
-      "transliteration": "leEmor",
-      "englishLiteral": "to-say",
-      "englishNatural": "saying",
-      "root": "amar",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "type": "verb",
-        "stem": "qal",
-        "tense": "infinitive_construct"
-      },
-      "grammarSuffix": {
-        "englishNatural": ",",
-        "englishLiteral": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 18
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "And he said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 11,
-        "english": 11
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "אָמַר",
-      "transliteration": "amar",
-      "englishLiteral": "said",
-      "englishNatural": "said",
-      "root": "amar",
-      "order": {
-        "hebrew": 16,
-        "english": 17
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "And he said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "And he said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "וַתֹּאמֶר",
-      "transliteration": "vatomer",
-      "englishLiteral": "And-she-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 14
-      }
-    },
-    {
-      "hebrew": "אָמַר",
-      "transliteration": "amar",
-      "englishLiteral": "he-said",
-      "englishNatural": "he said",
-      "root": "amar",
-      "order": {
-        "hebrew": 3,
-        "english": 3
-      },
-      "morphology": {
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 16
-      }
-    },
-    {
-      "hebrew": "אָמַר",
-      "transliteration": "amar",
-      "englishLiteral": "he-said",
-      "englishNatural": "he said",
-      "root": "amar",
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "לֵאמֹר",
-      "transliteration": "lemor",
-      "englishLiteral": "to-say",
-      "englishNatural": "saying",
-      "root": "amar",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 17
-      }
-    },
-    {
-      "hebrew": "וַתֹּאמֶר",
-      "transliteration": "vaTomar",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ""
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vayYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va",
-        "yi"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 3
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 22
-      }
-    },
-    {
-      "hebrew": "וַתֹּאמֶר",
-      "transliteration": "vaTomar",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "אָמַר",
-      "transliteration": "amar",
-      "englishLiteral": "said",
-      "englishNatural": "said",
-      "root": "amar",
-      "order": {
-        "hebrew": 8,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "and-said",
-      "englishNatural": "and said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "וַתֹּאמֶר",
-      "transliteration": "vatTomer",
-      "englishLiteral": "and-she-said",
-      "englishNatural": "and said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "ta"
-      ],
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vayYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "And he said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vayYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 13
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vayYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "and-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "type": "verb",
-        "person": "3rd",
-        "gender": "masculine",
-        "number": "singular",
-        "stem": "qal",
-        "tense": "imperfect"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 23
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vayYomer",
-      "englishLiteral": "And-He-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vayYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vayYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vayYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "And he said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "לֵאמֹר",
-      "transliteration": "leEmor",
-      "englishLiteral": "to-say",
-      "englishNatural": "to say",
-      "root": "amar",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "verb",
-        "stem": "qal",
-        "tense": "infinitive_construct"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 5,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vayYomer",
-      "englishLiteral": "And-he-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 6,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וְאָמַר",
-      "transliteration": "veAmar",
-      "englishLiteral": "and-said",
-      "englishNatural": "and said",
-      "root": "amar",
-      "prefixes": [
-        "ve"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "וָאֹמַר",
-      "transliteration": "vaOmar",
-      "englishLiteral": "And-I-said",
-      "englishNatural": "And I said",
-      "root": "amar",
-      "morphology": {
-        "type": "verb",
-        "tense": "perfect",
-        "stem": "qal",
-        "person": "1st",
-        "number": "singular",
-        "gender": "masculine"
-      },
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 5
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "and-he-said",
-      "englishNatural": "and he said",
-      "root": "amar",
-      "prefixes": [
-        "va",
-        "yo"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "sequential_imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "לֵאמֹר",
-      "transliteration": "lemor",
-      "englishLiteral": "to-say",
-      "englishNatural": "saying",
-      "root": "amar",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "infinitive_construct",
-        "stem": "qal"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמְרוּ",
-      "transliteration": "vaYomeru",
-      "englishLiteral": "and-said",
-      "englishNatural": "and said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "and-said",
-      "englishNatural": "and said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 6
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמְרוּ",
-      "transliteration": "vaYomeru",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמְרוּ",
-      "transliteration": "vaYomeru",
-      "englishLiteral": "And-said",
-      "englishNatural": "And they said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 8
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "And he said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 1
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 9
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "spoke",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 2,
-        "verse": 10
-      }
-    },
-    {
-      "hebrew": "לֵאמֹר",
-      "transliteration": "lemor",
-      "englishLiteral": "to-say",
-      "englishNatural": "to say",
-      "root": "amar",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "infinitive_construct",
-        "stem": "qal"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ";",
-        "englishNatural": ";"
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 1
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמַר",
-      "transliteration": "vaYomar",
-      "englishLiteral": "and-said",
-      "englishNatural": "and said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "and-said",
-      "englishNatural": "and said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 2,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "לֵאמֹר",
-      "transliteration": "lemor",
-      "englishLiteral": "to-say",
-      "englishNatural": "to say",
-      "root": "amar",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "infinitive_construct",
-        "stem": "qal"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 3,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמַר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "and-said",
-      "englishNatural": "and said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 4,
-        "english": 4
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": {
-        "hebrew": 1
-      },
-      "grammarSuffix": {
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 4
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמְרוּ",
-      "transliteration": "vaYomru",
-      "englishLiteral": "and-they-said",
-      "englishNatural": "and said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "suffixes": [
-        "u"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 7
-      }
-    },
-    {
-      "hebrew": "וַיֹּאמֶר",
-      "transliteration": "vaYomer",
-      "englishLiteral": "And-said",
-      "englishNatural": "said",
-      "root": "amar",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 1,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 8
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "14": [
+          0,
+          7,
+          9
+        ],
+        "15": [
+          0,
+          6
+        ]
+      }
+    },
+    "genesis": {
+      "1": {
+        "3": [
+          0
+        ],
+        "6": [
+          0
+        ],
+        "9": [
+          0
+        ],
+        "11": [
+          0
+        ],
+        "14": [
+          0
+        ],
+        "20": [
+          0
+        ],
+        "22": [
+          3
+        ],
+        "24": [
+          0
+        ],
+        "26": [
+          0
+        ],
+        "28": [
+          3
+        ],
+        "29": [
+          0
+        ]
+      },
+      "2": {
+        "16": [
+          5
+        ],
+        "18": [
+          0
+        ],
+        "23": [
+          0
+        ]
+      },
+      "3": {
+        "1": [
+          10,
+          15
+        ],
+        "2": [
+          0
+        ],
+        "3": [
+          0,
+          7
+        ],
+        "4": [
+          0
+        ],
+        "9": [
+          5
+        ],
+        "10": [
+          0
+        ],
+        "11": [
+          0
+        ],
+        "12": [
+          0
+        ],
+        "13": [
+          0,
+          7
+        ],
+        "14": [
+          0
+        ],
+        "16": [
+          2
+        ],
+        "17": [
+          1,
+          11
+        ],
+        "22": [
+          0
+        ]
+      },
+      "4": {
+        "1": [
+          9
+        ],
+        "6": [
+          0
+        ],
+        "8": [
+          0
+        ],
+        "9": [
+          0,
+          7
+        ],
+        "10": [
+          0
+        ],
+        "13": [
+          0
+        ],
+        "15": [
+          0
+        ],
+        "23": [
+          0
+        ]
+      },
+      "5": {
+        "29": [
+          4
+        ]
+      },
+      "6": {
+        "3": [
+          0
+        ]
+      }
+    },
+    "isaiah": {
+      "6": {
+        "3": [
+          4
+        ],
+        "5": [
+          0
+        ],
+        "7": [
+          3
+        ]
+      }
+    },
+    "jonah": {
+      "1": {
+        "1": [
+          7
+        ],
+        "6": [
+          4
+        ],
+        "7": [
+          0
+        ],
+        "8": [
+          0
+        ],
+        "9": [
+          0
+        ],
+        "10": [
+          4
+        ]
+      },
+      "2": {
+        "10": [
+          0
+        ]
+      },
+      "3": {
+        "1": [
+          6
+        ],
+        "4": [
+          8
+        ],
+        "7": [
+          1,
+          6
+        ]
+      },
+      "4": {
+        "2": [
+          3
+        ],
+        "4": [
+          0
+        ]
+      }
+    },
+    "numbers": {
+      "21": {
+        "7": [
+          4
+        ],
+        "8": [
+          0
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

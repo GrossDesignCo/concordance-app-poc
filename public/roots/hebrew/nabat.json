@@ -5,39 +5,15 @@
   "englishLiteral": "to look",
   "englishNatural": "to look",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וְהִבִּיט",
-      "transliteration": "veHibit",
-      "englishLiteral": "and-he-looked",
-      "englishNatural": "and he looked",
-      "root": "nabat",
-      "prefixes": [
-        "ve",
-        "hi"
-      ],
-      "order": {
-        "hebrew": 14,
-        "english": 13
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "hiphil",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Numbers",
-        "chapter": 21,
-        "verse": 9
+  "wordIndexes": {
+    "numbers": {
+      "21": {
+        "9": [
+          13
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

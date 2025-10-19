@@ -6,63 +6,18 @@
   "englishNatural": "to stop",
   "description": "specifically to Sabbath, to take a holy rest period",
   "type": "verb",
-  "wordInstances": [
-    {
-      "hebrew": "וַיִּשְׁבֹּת",
-      "transliteration": "vaYishbot",
-      "englishLiteral": "and-stopped",
-      "englishNatural": "and stopped",
-      "root": "shavat",
-      "prefixes": [
-        "va"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "imperfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 2
-      }
-    },
-    {
-      "hebrew": "שָׁבַת",
-      "transliteration": "shavat",
-      "englishLiteral": "stopped",
-      "englishNatural": "he stopped",
-      "root": "shavat",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "person": "3rd",
-        "tense": "perfect",
-        "stem": "qal",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 2,
-        "verse": 3
+  "wordIndexes": {
+    "genesis": {
+      "2": {
+        "2": [
+          7
+        ],
+        "3": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

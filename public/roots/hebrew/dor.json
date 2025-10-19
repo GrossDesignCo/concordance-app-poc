@@ -6,61 +6,16 @@
   "englishNatural": "generation",
   "type": "noun",
   "description": "generation, age, period of time",
-  "wordInstances": [
-    {
-      "hebrew": "לְדֹר",
-      "transliteration": "leDor",
-      "englishLiteral": "to-generation",
-      "englishNatural": "to generation of",
-      "root": "dor",
-      "prefixes": [
-        "le"
-      ],
-      "order": {
-        "hebrew": 27,
-        "english": 27
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 15
-      }
-    },
-    {
-      "hebrew": "דֹּר",
-      "transliteration": "dor",
-      "englishLiteral": "generation",
-      "englishNatural": "generation",
-      "root": "dor",
-      "order": {
-        "hebrew": 28,
-        "english": 28
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ".\"",
-        "englishNatural": ".\""
-      },
-      "lineBreaksAfter": 1,
-      "verseContext": {
-        "book": "Exodus",
-        "chapter": 3,
-        "verse": 15
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "15": [
+          26,
+          27
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

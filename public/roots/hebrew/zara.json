@@ -5,187 +5,26 @@
   "englishLiteral": "seed",
   "englishNatural": "seed",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "מַזְרִ֣יעַ",
-      "transliteration": "maZria",
-      "englishLiteral": "seeding",
-      "englishNatural": "seeding",
-      "root": "zara",
-      "prefixes": [
-        "ma"
-      ],
-      "order": {
-        "hebrew": 7,
-        "english": 7
-      },
-      "morphology": {
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "זֶ֔רַע",
-      "transliteration": "zera",
-      "englishLiteral": "seed",
-      "englishNatural": "seed",
-      "root": "zara",
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "זַרְעוֹ־",
-      "transliteration": "zaro-",
-      "englishLiteral": "its-seed-",
-      "englishNatural": "has its seed",
-      "root": "zara",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 15,
-        "english": 15
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 11
-      }
-    },
-    {
-      "hebrew": "מַזְרִ֣יעַ",
-      "transliteration": "maZria",
-      "englishLiteral": "seeding",
-      "englishNatural": "seeding",
-      "root": "zara",
-      "prefixes": [
-        "ma"
-      ],
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "זֶ֔רַע",
-      "transliteration": "zera",
-      "englishLiteral": "seed",
-      "englishNatural": "seed",
-      "root": "zara",
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "זַרְעוֹ־ב֖וֹ",
-      "transliteration": "zaro-bo",
-      "englishLiteral": "its-seed-in-it",
-      "englishNatural": "has its seed in it",
-      "root": "zara",
-      "suffixes": [
-        "o"
-      ],
-      "order": {
-        "hebrew": 12,
-        "english": 12
-      },
-      "morphology": {
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 12
-      }
-    },
-    {
-      "hebrew": "זֹרֵ֣עַ",
-      "transliteration": "zorea",
-      "englishLiteral": "seeding",
-      "englishNatural": "seeding",
-      "root": "zara",
-      "order": {
-        "hebrew": 9,
-        "english": 9
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
-      }
-    },
-    {
-      "hebrew": "זֹרֵ֣עַ",
-      "transliteration": "zorea",
-      "englishLiteral": "seeding",
-      "englishNatural": "seeding",
-      "root": "zara",
-      "order": {
-        "hebrew": 23,
-        "english": 23
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 1,
-        "verse": 29
+  "wordIndexes": {
+    "genesis": {
+      "1": {
+        "11": [
+          6,
+          7,
+          14
+        ],
+        "12": [
+          4,
+          5,
+          11
+        ],
+        "29": [
+          8,
+          22
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

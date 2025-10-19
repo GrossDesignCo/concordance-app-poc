@@ -6,36 +6,15 @@
   "englishNatural": "fig",
   "description": "fig tree, fig fruit",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "תְאֵנָה",
-      "transliteration": "teenah",
-      "englishLiteral": "fig",
-      "englishNatural": "fig",
-      "root": "teenah",
-      "order": {
-        "hebrew": 10,
-        "english": 10
-      },
-      "morphology": {
-        "gender": "feminine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "grammarSuffix": {
-        "englishLiteral": ",",
-        "englishNatural": ","
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 3,
-        "verse": 7
+  "wordIndexes": {
+    "genesis": {
+      "3": {
+        "7": [
+          9
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

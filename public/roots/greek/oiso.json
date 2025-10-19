@@ -4,35 +4,15 @@
   "transliteration": "oiso",
   "englishLiteral": "carry",
   "englishNatural": "carry",
-  "wordInstances": [
-    {
-      "greek": "οἴσει",
-      "transliteration": "oisei",
-      "englishLiteral": "will-carry",
-      "englishNatural": "will carry",
-      "root": "oiso",
-      "order": {
-        "greek": 26,
-        "english": 26
-      },
-      "morphology": {
-        "type": "verb",
-        "tense": "future",
-        "voice": "active",
-        "mood": "indicative",
-        "person": "3rd",
-        "number": "singular"
-      },
-      "verseContext": {
-        "book": "John",
-        "chapter": 21,
-        "verse": 18
+  "wordIndexes": {
+    "john": {
+      "21": {
+        "18": [
+          25
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

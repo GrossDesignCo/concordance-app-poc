@@ -9,51 +9,16 @@
   "related": [
     "panah"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "מִלִּפְנֵי",
-      "transliteration": "millifney",
-      "englishLiteral": "from-the-face-of",
-      "englishNatural": "from the face of",
-      "root": "millifney",
-      "order": {
-        "hebrew": 5,
-        "english": 5
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 3
-      }
-    },
-    {
-      "hebrew": "מִלִּפְנֵי",
-      "transliteration": "millifney",
-      "englishLiteral": "from-the-face-of",
-      "englishNatural": "from the face of",
-      "root": "millifney",
-      "order": {
-        "hebrew": 20,
-        "english": 20
-      },
-      "morphology": {
-        "type": "preposition"
-      },
-      "lineBreaksBefore": 1,
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 1,
-        "verse": 3
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "3": [
+          4,
+          19
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

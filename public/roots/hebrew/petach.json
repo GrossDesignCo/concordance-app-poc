@@ -6,59 +6,22 @@
   "englishNatural": "door",
   "type": "noun",
   "description": "door, entrance, opening",
-  "wordInstances": [
-    {
-      "hebrew": "לַפֶּתַח",
-      "transliteration": "laPetach",
-      "englishLiteral": "to-door",
-      "englishNatural": "to the door",
-      "root": "petach",
-      "prefixes": [
-        "la"
-      ],
-      "order": {
-        "hebrew": 8,
-        "english": 8
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Genesis",
-        "chapter": 4,
-        "verse": 7
+  "wordIndexes": {
+    "genesis": {
+      "4": {
+        "7": [
+          7
+        ]
       }
     },
-    {
-      "hebrew": "פְתָחִים",
-      "transliteration": "petachim",
-      "englishLiteral": "openings",
-      "englishNatural": "openings",
-      "root": "petach",
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Proverbs",
-        "chapter": 8,
-        "verse": 3
+    "proverbs": {
+      "8": {
+        "3": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

@@ -9,37 +9,15 @@
   "related": [
     "qedem"
   ],
-  "wordInstances": [
-    {
-      "hebrew": "קִדַּמְתִּי",
-      "transliteration": "qidamti",
-      "englishLiteral": "I-preceded",
-      "englishNatural": "I preceded",
-      "root": "qidam",
-      "suffixes": [
-        "ti"
-      ],
-      "order": {
-        "hebrew": 16,
-        "english": 16
-      },
-      "morphology": {
-        "number": "singular",
-        "person": "1st",
-        "tense": "perfect",
-        "stem": "piel",
-        "type": "verb"
-      },
-      "verseContext": {
-        "book": "Jonah",
-        "chapter": 4,
-        "verse": 2
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "2": [
+          15
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

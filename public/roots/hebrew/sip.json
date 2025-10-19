@@ -5,38 +5,15 @@
   "englishLiteral": "threshold",
   "englishNatural": "threshold",
   "type": "noun",
-  "wordInstances": [
-    {
-      "hebrew": "הַסִּפִּ֔ים",
-      "transliteration": "haSippim",
-      "englishLiteral": "the-thresholds",
-      "englishNatural": "the thresholds",
-      "root": "sip",
-      "prefixes": [
-        "ha"
-      ],
-      "suffixes": [
-        "im"
-      ],
-      "order": {
-        "hebrew": 3,
-        "english": 2
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "plural",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Isaiah",
-        "chapter": 6,
-        "verse": 4
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "4": [
+          2
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }

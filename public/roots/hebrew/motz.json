@@ -6,35 +6,15 @@
   "englishNatural": "chaff",
   "type": "noun",
   "description": "chaff, husks separated from grain by winnowing",
-  "wordInstances": [
-    {
-      "hebrew": "כַּמֹּץ",
-      "transliteration": "kaMotz",
-      "englishLiteral": "as-chaff",
-      "englishNatural": "as chaff",
-      "root": "motz",
-      "prefixes": [
-        "ka"
-      ],
-      "order": {
-        "hebrew": 6,
-        "english": 6
-      },
-      "morphology": {
-        "gender": "masculine",
-        "number": "singular",
-        "type": "noun"
-      },
-      "verseContext": {
-        "book": "Psalms",
-        "chapter": 1,
-        "verse": 4
+  "wordIndexes": {
+    "psalms": {
+      "1": {
+        "4": [
+          5
+        ]
       }
     }
-  ],
+  },
   "usage": {},
-  "verses": {},
-  "chapters": {},
-  "books": [],
   "translationConnections": []
 }
