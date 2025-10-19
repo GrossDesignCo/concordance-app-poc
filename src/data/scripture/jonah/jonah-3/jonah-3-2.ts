@@ -83,12 +83,16 @@ export const jonah_3_2: Verse = {
         number: 'singular',
         type: 'noun',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'הָעִיר',
       transliteration: 'haIr',
       englishLiteral: 'the-city',
-      englishNatural: 'the city',
+      englishNatural: 'The City',
       root: 'ir',
       prefixes: ['ha'],
       order: {
@@ -100,12 +104,16 @@ export const jonah_3_2: Verse = {
         number: 'singular',
         type: 'noun',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'הַגְּדוֹלָה',
       transliteration: 'haGedolah',
       englishLiteral: 'the-great',
-      englishNatural: 'the great',
+      englishNatural: 'The Great',
       root: 'gadol',
       prefixes: ['ha'],
       order: {
@@ -264,10 +272,10 @@ export const jonah_3_2: Verse = {
     transliteration:
       'qum lekh el-Nineveh haIr haGedolah uQera eleha et-haQeriah asher anokhi dover elekha',
     englishLiteral:
-      '"Stand_up, go to- Dwelling_of_Fish (Nineveh) the-city the-great, and-call_out to-her ↳ the-calling_out which I speaking to-you.',
+      '"Stand_up, go to- Dwelling_of_Fish (Nineveh), the-city, the-great, and-call_out to-her ↳ the-calling_out which I speaking to-you.',
     englishNatural:
-      '"Stand-up, go to Dwelling-of-Fish (Nineveh) the city the great, and call-out to her the calling-out which I am speaking to you.',
+      '"Stand-up, go to Dwelling-of-Fish (Nineveh), The City, The Great, and call-out to her the calling-out which I am speaking to you.',
     kjv: 'Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-10-19' },
   },
 };

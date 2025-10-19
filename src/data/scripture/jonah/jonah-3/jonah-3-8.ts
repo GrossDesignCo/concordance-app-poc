@@ -47,12 +47,13 @@ export const jonah_3_8: Verse = {
         englishLiteral: ',',
         englishNatural: ',',
       },
+      lineBreaksAfter: 1,
     },
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-Human (Adam)',
-      englishNatural: 'the Human (Adam)',
+      englishLiteral: 'the-human',
+      englishNatural: 'the human',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -200,7 +201,7 @@ export const jonah_3_8: Verse = {
       hebrew: 'מִדַּרְכּוֹ',
       transliteration: 'midarko',
       englishLiteral: 'from-way-his',
-      englishNatural: 'from his way',
+      englishNatural: 'his way',
       root: 'derekh',
       prefixes: ['mi'],
       suffixes: ['o'],
@@ -218,12 +219,12 @@ export const jonah_3_8: Verse = {
       hebrew: 'הָרָעָה',
       transliteration: 'haRaah',
       englishLiteral: 'the-bad',
-      englishNatural: 'the bad',
+      englishNatural: 'from the bad of',
       root: 'ra',
       prefixes: ['ha'],
       order: {
         hebrew: 12,
-        english: 13,
+        english: 11,
       },
       morphology: {
         gender: 'feminine',
@@ -240,7 +241,7 @@ export const jonah_3_8: Verse = {
       prefixes: ['u'],
       order: {
         hebrew: 13,
-        english: 14,
+        english: 13,
       },
       morphology: {
         type: 'preposition',
@@ -256,7 +257,7 @@ export const jonah_3_8: Verse = {
       prefixes: ['ha'],
       order: {
         hebrew: 14,
-        english: 15,
+        english: 14,
       },
       morphology: {
         gender: 'masculine',
@@ -272,7 +273,7 @@ export const jonah_3_8: Verse = {
       root: 'asher',
       order: {
         hebrew: 15,
-        english: 16,
+        english: 15,
       },
       morphology: {
         type: 'relative',
@@ -288,7 +289,7 @@ export const jonah_3_8: Verse = {
       suffixes: ['ey', 'hem'],
       order: {
         hebrew: 16,
-        english: 17,
+        english: 16,
       },
       morphology: {
         gender: 'feminine',
@@ -308,10 +309,10 @@ export const jonah_3_8: Verse = {
     transliteration:
       'veYitkassu saq haAdam veHaBehemah veYiqreu el-Elohim beChazqah veYashuvu ish midarko haRaah umin-heChamas asher beKappeihem',
     englishLiteral:
-      'And-they-will-be-covered sackcloth, the-Human (Adam) and-the-beast, and-they-will-call_out to- Gods in-strength; and-return man from-way-his the-bad and-from- the-violence which in-palms-their.',
+      'And-they-will-be-covered sackcloth, the-human and-the-beast, and-they-will-call_out to- Gods in-strength; and-return man from-way-his the-bad and-from- the-violence which in-palms-their.',
     englishNatural:
-      'And they will be covered sackcloth, the Human (Adam) and the beast, and they will call-out to God in strength; and return man from his way the bad and from the violence which is in their hands.',
+      'And they will be covered sackcloth, the human and the beast, and they will call-out to God in strength; and return man from the bad of his way and from the violence which is in their hands.',
     kjv: 'But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-10-19' },
   },
 };

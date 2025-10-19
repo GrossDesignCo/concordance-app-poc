@@ -8,6 +8,7 @@ import { jonah_3_6 } from './jonah-3-6';
 import { jonah_3_7 } from './jonah-3-7';
 import { jonah_3_8 } from './jonah-3-8';
 import { jonah_3_9 } from './jonah-3-9';
+import { jonah_3_10 } from './jonah-3-10';
 
 export default {
   meta: {
@@ -24,5 +25,6 @@ export default {
     jonah_3_7,
     jonah_3_8,
     jonah_3_9,
+    jonah_3_10,
   ],
 } as Chapter;

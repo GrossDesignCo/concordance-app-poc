@@ -35,11 +35,16 @@ al-yitamu meumah
 al-yiru 
 uMayim al-yishtu
 
-veYitkassu saq haAdam veHaBehemah 
+veYitkassu saq
+haAdam veHaBehemah 
 veYiqreu el-Elohim beChazqah 
 veYashuvu ish midarko haRaah 
 umin-heChamas asher beKappeihem
 
-mi-yodea yashuv veNicham haElohim veShav 
-meCharon apo 
+mi-yodea yashuv veNicham haElohim 
+veShav meCharon apo
+
 veLo noved
+
+vaYar haElohim et-maaseihem ki-shavu midarkam haRaah 
+vaYinachem haElohim al-haRaah asher-diber laasot lahem veLo asah

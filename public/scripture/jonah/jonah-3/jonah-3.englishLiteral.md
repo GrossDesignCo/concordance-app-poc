@@ -1,7 +1,7 @@
 
 And-was word-of He_Who_Is to- Dove (Jonah) second_time, to-say;
 
-"Stand_up, go to- Dwelling_of_Fish (Nineveh) the-city the-great, 
+"Stand_up, go to- Dwelling_of_Fish (Nineveh), the-city, the-great, 
 and-call_out to-her ↳ the-calling_out 
 which I speaking to-you.
 
@@ -29,17 +29,22 @@ and-sat over- the-ashes.
 
 And-cried_out and-said in-Dwelling_of_Fish (Nineveh), 
 from-decree-of the-king and-greats-his, to-say, 
-"the-Human (Adam) and-the-beast, 
+"the-human and-the-beast, 
 the-cattle and-the-flock, 
 not- they-will-taste anything, 
 not- they-will-graze 
-and-waters not- they-will-drink;"
+and-waters not- they-will-drink;
 
-And-they-will-be-covered sackcloth, the-Human (Adam) and-the-beast, 
+And-they-will-be-covered sackcloth,
+the-human and-the-beast, 
 and-they-will-call_out to- Gods in-strength; 
 and-return man from-way-his the-bad 
 and-from- the-violence which in-palms-their.
 
-who- knows? he-will-return and-will-comfort the-Gods, and-turn 
-from-burning-of nose-his, 
-and-not we-will-perish?
+who- knows? he-will-return and-will-comfort the-Gods, 
+and-turn from-burning-of nose-his,
+
+and-not we-will-perish?"
+
+And-saw the-Gods ↳ works-their, that- they-returned from-way-their the-bad; 
+and-comforted the-Gods, over- the-bad which- he-spoke to-make to-them; and-not he-made.

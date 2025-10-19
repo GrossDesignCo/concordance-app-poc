@@ -87,6 +87,13 @@ const SUFFIXES = {
     englishNatural: 'it',
     function: '3rd person masculine singular object',
   },
+  eha: {
+    hebrew: 'יהָ',
+    transliteration: 'eha',
+    englishLiteral: 'her',
+    englishNatural: 'its',
+    function: '3rd person feminine singular possessive',
+  },
   ehu: {
     hebrew: 'ֵהוּ',
     transliteration: 'ehu',

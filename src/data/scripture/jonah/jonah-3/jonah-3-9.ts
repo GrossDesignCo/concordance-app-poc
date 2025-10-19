@@ -63,9 +63,6 @@ export const jonah_3_9: Verse = {
         stem: 'qal',
         type: 'verb',
       },
-      lineBreaksBefore: {
-        english: 1,
-      },
     },
     {
       hebrew: 'וְנִחַם',
@@ -130,6 +127,7 @@ export const jonah_3_9: Verse = {
         stem: 'qal',
         type: 'verb',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'מֵחֲרוֹן',
@@ -148,7 +146,6 @@ export const jonah_3_9: Verse = {
         state: 'construct',
         type: 'noun',
       },
-      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אַפּוֹ',
@@ -170,6 +167,7 @@ export const jonah_3_9: Verse = {
         englishLiteral: ',',
         englishNatural: ',',
       },
+      lineBreaksAfter: 1,
     },
     {
       hebrew: 'וְלֹא',
@@ -192,7 +190,7 @@ export const jonah_3_9: Verse = {
         english: 1,
       },
       grammarSuffix: {
-        englishNatural: '?',
+        englishNatural: '?"',
       },
     },
     {
@@ -214,7 +212,7 @@ export const jonah_3_9: Verse = {
         type: 'verb',
       },
       grammarSuffix: {
-        englishLiteral: '?',
+        englishLiteral: '?"',
       },
       lineBreaksAfter: {
         hebrew: 1,
@@ -227,10 +225,10 @@ export const jonah_3_9: Verse = {
     transliteration:
       'mi-yodea yashuv veNicham haElohim veShav meCharon apo veLo noved',
     englishLiteral:
-      'who- knows? he-will-return and-will-comfort the-Gods, and-turn from-burning-of nose-his, and-not we-will-perish?',
+      'who- knows? he-will-return and-will-comfort the-Gods, and-turn from-burning-of nose-his, and-not we-will-perish?"',
     englishNatural:
-      'Who knows? The God will return and will comfort, and turn from the burning of his nose, and we will perish not?',
+      'Who knows? The God will return and will comfort, and turn from the burning of his nose, and we will perish not?"',
     kjv: 'Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-10-19' },
   },
 };

@@ -2998,7 +2998,7 @@ const ROOTS = {
     hebrew: 'יָטַב',
     transliteration: 'yatav',
     englishLiteral: 'to do_well',
-    englishNatural: 'to do well',
+    englishNatural: 'to do-well',
     type: 'verb',
     description: 'to be good, to do well, to make good',
   },
@@ -4914,6 +4914,80 @@ const ROOTS = {
     type: 'noun',
     description: 'nose, nostril, face; often used idiomatically for anger',
     related: ['af'],
+  },
+  // Jonah 3:10 additions
+  maaseh: {
+    hebrew: 'מעשה',
+    transliteration: 'maaseh',
+    englishLiteral: 'work',
+    englishNatural: 'work',
+    type: 'noun',
+    description: 'work, deed, action, thing made',
+    related: ['asah'],
+  },
+  lahem: {
+    hebrew: 'להם',
+    transliteration: 'lahem',
+    englishLiteral: 'to-them',
+    englishNatural: 'to them',
+    type: 'preposition',
+    description:
+      'to them, for them (preposition with 3rd person masculine plural suffix)',
+  },
+  // Jonah 4:1 additions
+  yara: {
+    hebrew: 'ירע',
+    transliteration: 'yara',
+    englishLiteral: 'to be_bad',
+    englishNatural: 'to be-bad',
+    type: 'verb',
+    description: 'to be bad, evil, displeasing to someone; to cause distress',
+    related: ['ra'],
+  },
+  // Jonah 4:2 additions
+  anna: {
+    hebrew: 'אנה',
+    transliteration: 'anna',
+    englishLiteral: 'please',
+    englishNatural: 'please',
+    type: 'particle',
+    description: 'please, I pray, entreaty particle',
+  },
+  qidam: {
+    hebrew: 'קדם',
+    transliteration: 'qidam',
+    englishLiteral: 'to precede',
+    englishNatural: 'to precede',
+    type: 'verb',
+    description: 'to precede, go before, anticipate, do beforehand',
+    related: ['qedem'],
+  },
+  // Jonah 4:3 additions
+  attah: {
+    hebrew: 'עתה',
+    transliteration: 'attah',
+    englishLiteral: 'now',
+    englishNatural: 'now',
+    type: 'adverb',
+    description: 'now, at this time, presently',
+  },
+  mot: {
+    hebrew: 'מות',
+    transliteration: 'mot',
+    englishLiteral: 'to die',
+    englishNatural: 'to die',
+    type: 'verb',
+    description: 'to die, be dead, kill',
+    related: ['mavet'],
+  },
+  // Jonah 4:5 additions
+  sukkah: {
+    hebrew: 'סכה',
+    transliteration: 'sukkah',
+    englishLiteral: 'booth',
+    englishNatural: 'booth',
+    type: 'noun',
+    description: 'booth, hut, temporary shelter, tabernacle',
   },
 } as const;
 

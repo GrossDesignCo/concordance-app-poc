@@ -1,7 +1,7 @@
 
 And the word of He-Who-Is was to Dove (Jonah) the second time, to say;
 
-"Stand-up, go to Dwelling-of-Fish (Nineveh) the city the great, 
+"Stand-up, go to Dwelling-of-Fish (Nineveh), The City, The Great, 
 and call-out to her the calling-out 
 which I am speaking to you.
 
@@ -29,17 +29,21 @@ and sat over the ashes.
 
 And he cried-out and said in Dwelling-of-Fish (Nineveh), 
 from the decree of the king and his greats, to say, 
-"The Human (Adam) and the beast, 
+"The human and the beast, 
 the cattle and the flock, 
 they will taste not anything, 
 they will graze not, 
-and waters they will drink not;"
+and waters they will drink not;
 
-And they will be covered sackcloth, the Human (Adam) and the beast, 
+And they will be covered sackcloth,
+the human and the beast, 
 and they will call-out to God in strength; 
-and return man from his way the bad 
+and return man from the bad of his way 
 and from the violence which is in their hands.
 
-Who knows? The God 
-will return and will comfort, and turn 
-from the burning of his nose, and we will perish not?
+Who knows? The God will return and will comfort, 
+and turn from the burning of his nose,
+and we will perish not?"
+
+And the God saw their works, that they returned from the bad of their way; 
+and the God comforted, over the bad which he spoke to make to them; and he made it not.
