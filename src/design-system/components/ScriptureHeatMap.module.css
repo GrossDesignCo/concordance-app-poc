@@ -1,0 +1,71 @@
+.books {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--ds-space-4);
+}
+
+.bookName {
+  display: flex;
+  align-items: center;
+  gap: var(--ds-space-2);
+}
+
+.bookProgress {
+  font-weight: 400;
+  color: var(--ds-fg-low-contrast);
+}
+
+.chapters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+}
+
+.chapterNumber {
+  font-size: 0.65rem;
+}
+
+.verses {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  place-content: start;
+  max-height: 40px;
+  gap: 1px;
+}
+
+.verse {
+  width: 3px;
+  height: 3px;
+  background-color: var(--ds-bg-container-low-contrast);
+}
+
+.verse.filled {
+  background-color: var(--ds-fg-low-contrast);
+}
+
+.minimal {
+  .books {
+    gap: var(--ds-space-1);
+  }
+
+  .bookName {
+    gap: var(--ds-space-1);
+    font-size: 0.875rem;
+    font-weight: 400;
+  }
+
+  .chapters {
+    gap: var(--ds-space-1) 0;
+  }
+
+  .verses {
+    max-height: 40px;
+    gap: 0;
+  }
+
+  .verse {
+    width: 2px;
+    height: 2px;
+  }
+}
