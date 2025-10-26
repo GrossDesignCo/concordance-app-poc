@@ -1,0 +1,20 @@
+{
+  "key": "yeshuah",
+  "hebrew": "ישועה",
+  "transliteration": "yeshuah",
+  "englishLiteral": "salvation",
+  "englishNatural": "salvation",
+  "type": "noun",
+  "description": "salvation, deliverance, victory, help",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "9": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

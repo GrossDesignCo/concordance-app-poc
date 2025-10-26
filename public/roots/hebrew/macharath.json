@@ -1,0 +1,20 @@
+{
+  "key": "macharath",
+  "hebrew": "מחרת",
+  "transliteration": "macharath",
+  "englishLiteral": "next_day",
+  "englishNatural": "next-day",
+  "type": "noun",
+  "description": "the next day, the morrow, tomorrow",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "7": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

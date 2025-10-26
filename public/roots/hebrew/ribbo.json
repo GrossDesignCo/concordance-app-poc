@@ -1,0 +1,20 @@
+{
+  "key": "ribbo",
+  "hebrew": "רבו",
+  "transliteration": "ribbo",
+  "englishLiteral": "ten_thousand",
+  "englishNatural": "ten-thousand",
+  "type": "numeral",
+  "description": "ten thousand, myriad",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "11": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

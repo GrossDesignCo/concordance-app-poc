@@ -1,0 +1,21 @@
+{
+  "key": "shemesh",
+  "hebrew": "שמש",
+  "transliteration": "shemesh",
+  "englishLiteral": "sun",
+  "englishNatural": "sun",
+  "type": "noun",
+  "description": "sun, sunlight",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "8": [
+          2,
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

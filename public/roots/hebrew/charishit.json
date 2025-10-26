@@ -1,0 +1,20 @@
+{
+  "key": "charishit",
+  "hebrew": "חרישית",
+  "transliteration": "charishit",
+  "englishLiteral": "scorching",
+  "englishNatural": "scorching",
+  "type": "adjective",
+  "description": "scorching, sultry, hot and dry",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "8": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

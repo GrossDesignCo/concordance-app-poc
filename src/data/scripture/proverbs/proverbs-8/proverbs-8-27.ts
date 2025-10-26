@@ -149,8 +149,8 @@ export const proverbs_8_27: Verse = {
     {
       hebrew: 'תְהוֹם',
       transliteration: 'tehom',
-      englishLiteral: 'deep',
-      englishNatural: 'the deep',
+      englishLiteral: 'abyss',
+      englishNatural: 'the abyss',
       root: 'tehom',
       order: {
         hebrew: 9,
@@ -171,10 +171,10 @@ export const proverbs_8_27: Verse = {
     hebrew: 'בַּהֲכִינוֹ שָׁמַיִם שָׁם אָנִי בְּחוּקוֹ חוּג עַל־פְּנֵי תְהוֹם',
     transliteration: 'baHakhino shamayim sham ani beChuqo chug al penei tehom',
     englishLiteral:
-      'In-establishing-his heavens, there I; in-inscribing-his circle over face-of deep.',
+      'In-establishing-his heavens, there I; in-inscribing-his circle over face-of abyss.',
     englishNatural:
-      'In his establishing heavens, there I; in his inscribing circle over the face of the deep.',
+      'In his establishing heavens, there I; in his inscribing circle over the face of the abyss.',
     kjv: 'When he prepared the heavens, I was there: when he set a compass upon the face of the depth',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
   },
 };

@@ -1,0 +1,20 @@
+{
+  "key": "natzal",
+  "hebrew": "נצל",
+  "transliteration": "natzal",
+  "englishLiteral": "to deliver",
+  "englishNatural": "to deliver",
+  "type": "verb",
+  "description": "to deliver, rescue, save, snatch away",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "6": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

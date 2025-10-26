@@ -1,0 +1,20 @@
+{
+  "key": "amal",
+  "hebrew": "עמל",
+  "transliteration": "amal",
+  "englishLiteral": "to labor",
+  "englishNatural": "to labor",
+  "type": "verb",
+  "description": "to labor, toil, work hard",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "10": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

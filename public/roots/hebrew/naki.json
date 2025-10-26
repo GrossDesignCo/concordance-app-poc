@@ -1,0 +1,23 @@
+{
+  "key": "naki",
+  "hebrew": "נקי",
+  "transliteration": "naki",
+  "englishLiteral": "innocent",
+  "englishNatural": "innocent",
+  "type": "adjective",
+  "description": "innocent, clean, free from guilt",
+  "related": [
+    "nakeh"
+  ],
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "14": [
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -28,7 +28,7 @@ export const jonah_1_4: Verse = {
       transliteration: 'hetil',
       englishLiteral: 'hurled',
       englishNatural: 'hurled',
-      root: 'hetil',
+      root: 'tul',
       order: {
         hebrew: 2,
         english: 2,
@@ -256,6 +256,6 @@ export const jonah_1_4: Verse = {
     englishNatural:
       'And He-Who-Is hurled a great wind to the sea, and there was a great tempest in the sea, and the ship planned to be broken.',
     kjv: 'But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
   },
 };

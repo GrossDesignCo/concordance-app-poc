@@ -1,0 +1,23 @@
+{
+  "key": "gadal",
+  "hebrew": "גדל",
+  "transliteration": "gadal",
+  "englishLiteral": "to grow",
+  "englishNatural": "to grow",
+  "type": "verb",
+  "description": "to grow, become great, bring up, make great",
+  "related": [
+    "gadol"
+  ],
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "10": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

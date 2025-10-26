@@ -5,6 +5,10 @@
       2,
       3
     ],
+    "jonah": [
+      2,
+      4
+    ],
     "proverbs": [
       1,
       8
@@ -35,7 +39,8 @@
     "jonah": [
       1,
       2,
-      3
+      3,
+      4
     ]
   },
   "amar": {
@@ -74,6 +79,7 @@
     ],
     "jonah": [
       1,
+      2,
       3,
       4
     ],
@@ -100,7 +106,8 @@
       6
     ],
     "jonah": [
-      1
+      1,
+      2
     ],
     "proverbs": [
       8
@@ -153,6 +160,9 @@
     "genesis": [
       1
     ],
+    "jonah": [
+      2
+    ],
     "proverbs": [
       8
     ]
@@ -164,7 +174,8 @@
       6
     ],
     "jonah": [
-      1
+      1,
+      4
     ],
     "psalms": [
       1
@@ -180,6 +191,7 @@
       1
     ],
     "jonah": [
+      2,
       3
     ],
     "proverbs": [
@@ -305,6 +317,7 @@
       3
     ],
     "jonah": [
+      2,
       3
     ],
     "proverbs": [
@@ -340,6 +353,9 @@
       6,
       14
     ],
+    "jonah": [
+      2
+    ],
     "numbers": [
       21
     ],
@@ -355,6 +371,9 @@
       2,
       3,
       5
+    ],
+    "jonah": [
+      2
     ],
     "numbers": [
       21
@@ -438,6 +457,7 @@
     ],
     "jonah": [
       1,
+      2,
       3,
       4
     ],
@@ -655,7 +675,8 @@
       3
     ],
     "jonah": [
-      1
+      1,
+      4
     ]
   },
   "mut": {
@@ -685,6 +706,9 @@
   "shalach": {
     "genesis": [
       3
+    ],
+    "jonah": [
+      2
     ],
     "numbers": [
       21
@@ -726,6 +750,7 @@
     ],
     "jonah": [
       1,
+      2,
       3
     ],
     "numbers": [
@@ -779,6 +804,7 @@
       3
     ],
     "jonah": [
+      2,
       3,
       4
     ],
@@ -883,6 +909,9 @@
     ]
   },
   "nabat": {
+    "jonah": [
+      2
+    ],
     "numbers": [
       21
     ]
@@ -973,6 +1002,7 @@
     ],
     "jonah": [
       1,
+      2,
       3,
       4
     ],
@@ -1105,6 +1135,9 @@
     ],
     "isaiah": [
       6
+    ],
+    "jonah": [
+      4
     ]
   },
   "uf": {
@@ -1149,6 +1182,9 @@
     ],
     "isaiah": [
       14
+    ],
+    "jonah": [
+      4
     ]
   },
   "tov": {
@@ -1194,6 +1230,9 @@
     "genesis": [
       1,
       3
+    ],
+    "jonah": [
+      4
     ]
   },
   "qara": {
@@ -1212,6 +1251,7 @@
     ],
     "jonah": [
       1,
+      2,
       3
     ],
     "proverbs": [
@@ -1279,7 +1319,8 @@
       1
     ],
     "jonah": [
-      1
+      1,
+      2
     ]
   },
   "shem": {
@@ -1315,6 +1356,9 @@
     ],
     "isaiah": [
       6
+    ],
+    "jonah": [
+      4
     ],
     "proverbs": [
       22
@@ -1471,6 +1515,8 @@
       2
     ],
     "jonah": [
+      1,
+      2,
       4
     ],
     "psalms": [
@@ -1542,7 +1588,8 @@
       3
     ],
     "jonah": [
-      3
+      3,
+      4
     ]
   },
   "afar": {
@@ -1564,7 +1611,8 @@
       6
     ],
     "jonah": [
-      3
+      3,
+      4
     ]
   },
   "tselem": {
@@ -1596,6 +1644,9 @@
     "genesis": [
       1,
       5
+    ],
+    "jonah": [
+      2
     ]
   },
   "neqevah": {
@@ -1650,6 +1701,7 @@
       1
     ],
     "jonah": [
+      1,
       4
     ]
   },
@@ -1664,6 +1716,9 @@
     "isaiah": [
       6
     ],
+    "jonah": [
+      1
+    ],
     "psalms": [
       1
     ]
@@ -1671,6 +1726,9 @@
   "samach": {
     "isaiah": [
       14
+    ],
+    "jonah": [
+      4
     ]
   },
   "kalah": {
@@ -1711,6 +1769,9 @@
     "genesis": [
       2,
       3,
+      4
+    ],
+    "jonah": [
       4
     ]
   },
@@ -1761,7 +1822,9 @@
       2
     ],
     "jonah": [
-      1
+      1,
+      2,
+      4
     ],
     "psalms": [
       131
@@ -1849,6 +1912,9 @@
   "nahar": {
     "genesis": [
       2
+    ],
+    "jonah": [
+      2
     ]
   },
   "parad": {
@@ -1876,6 +1942,9 @@
       2,
       3,
       4
+    ],
+    "jonah": [
+      2
     ]
   },
   "badad": {
@@ -1890,6 +1959,9 @@
   },
   "neged": {
     "genesis": [
+      2
+    ],
+    "jonah": [
       2
     ],
     "psalms": [
@@ -1908,6 +1980,9 @@
   },
   "savav": {
     "genesis": [
+      2
+    ],
+    "jonah": [
       2
     ]
   },
@@ -2051,6 +2126,9 @@
   "azav": {
     "genesis": [
       2
+    ],
+    "jonah": [
+      2
     ]
   },
   "av": {
@@ -2084,6 +2162,9 @@
   "hekhal": {
     "isaiah": [
       6
+    ],
+    "jonah": [
+      2
     ]
   },
   "shul": {
@@ -2129,6 +2210,9 @@
     ],
     "isaiah": [
       6
+    ],
+    "jonah": [
+      1
     ]
   },
   "kavod": {
@@ -2158,6 +2242,9 @@
     ],
     "isaiah": [
       6
+    ],
+    "jonah": [
+      2
     ],
     "proverbs": [
       8
@@ -2212,6 +2299,7 @@
       6
     ],
     "jonah": [
+      2,
       4
     ]
   },
@@ -2223,6 +2311,9 @@
   "ayin_eye": {
     "isaiah": [
       6
+    ],
+    "jonah": [
+      2
     ]
   },
   "pi": {
@@ -2332,7 +2423,8 @@
       3
     ],
     "jonah": [
-      1
+      1,
+      2
     ]
   },
   "chagar": {
@@ -2344,6 +2436,9 @@
     "genesis": [
       3,
       4
+    ],
+    "jonah": [
+      2
     ],
     "proverbs": [
       1
@@ -2505,7 +2600,8 @@
       6
     ],
     "jonah": [
-      1
+      1,
+      4
     ],
     "proverbs": [
       1
@@ -2542,6 +2638,7 @@
       3
     ],
     "jonah": [
+      1,
       3
     ],
     "psalms": [
@@ -2585,6 +2682,9 @@
       3,
       6
     ],
+    "jonah": [
+      2
+    ],
     "proverbs": [
       8
     ],
@@ -2597,6 +2697,9 @@
     "genesis": [
       3,
       4
+    ],
+    "jonah": [
+      2
     ]
   },
   "keruv": {
@@ -2632,6 +2735,7 @@
       34
     ],
     "jonah": [
+      2,
       4
     ],
     "psalms": [
@@ -2873,6 +2977,9 @@
     ]
   },
   "akh": {
+    "jonah": [
+      2
+    ],
     "psalms": [
       23
     ]
@@ -2915,6 +3022,11 @@
       131
     ]
   },
+  "levav": {
+    "jonah": [
+      2
+    ]
+  },
   "shavah": {
     "psalms": [
       131
@@ -2953,6 +3065,9 @@
     "genesis": [
       4
     ],
+    "jonah": [
+      2
+    ],
     "proverbs": [
       1
     ]
@@ -2965,6 +3080,9 @@
   "hevel": {
     "genesis": [
       4
+    ],
+    "jonah": [
+      2
     ]
   },
   "tzon": {
@@ -3251,6 +3369,9 @@
     ]
   },
   "har": {
+    "jonah": [
+      2
+    ],
     "proverbs": [
       8
     ]
@@ -3292,7 +3413,9 @@
   },
   "ani": {
     "jonah": [
-      1
+      1,
+      2,
+      4
     ],
     "proverbs": [
       8
@@ -3592,6 +3715,9 @@
   "esreh": {
     "genesis": [
       5
+    ],
+    "jonah": [
+      4
     ]
   },
   "qeynan": {
@@ -3620,6 +3746,9 @@
   "dam": {
     "genesis": [
       4
+    ],
+    "jonah": [
+      1
     ]
   },
   "tsaaq": {
@@ -3715,7 +3844,8 @@
   "nineveh": {
     "jonah": [
       1,
-      3
+      3,
+      4
     ]
   },
   "barach": {
@@ -3740,7 +3870,8 @@
       34
     ],
     "jonah": [
-      1
+      1,
+      2
     ]
   },
   "yafo": {
@@ -3764,11 +3895,6 @@
     ]
   },
   "immahhem": {
-    "jonah": [
-      1
-    ]
-  },
-  "hetil": {
     "jonah": [
       1
     ]
@@ -4020,7 +4146,8 @@
   },
   "manah": {
     "jonah": [
-      1
+      1,
+      4
     ]
   },
   "dag": {
@@ -4117,6 +4244,7 @@
   },
   "al_negative": {
     "jonah": [
+      1,
       3
     ]
   },
@@ -4169,6 +4297,7 @@
   },
   "anna": {
     "jonah": [
+      1,
       4
     ]
   },
@@ -4190,6 +4319,287 @@
   "sukkah": {
     "jonah": [
       4
+    ]
+  },
+  "qiqayon": {
+    "jonah": [
+      4
+    ]
+  },
+  "natzal": {
+    "jonah": [
+      4
+    ]
+  },
+  "simchah": {
+    "jonah": [
+      4
+    ]
+  },
+  "tolaat": {
+    "jonah": [
+      4
+    ]
+  },
+  "shachar": {
+    "jonah": [
+      4
+    ]
+  },
+  "macharath": {
+    "jonah": [
+      4
+    ]
+  },
+  "yavesh": {
+    "jonah": [
+      4
+    ]
+  },
+  "zarach": {
+    "jonah": [
+      4
+    ]
+  },
+  "shemesh": {
+    "jonah": [
+      4
+    ]
+  },
+  "qadim": {
+    "jonah": [
+      4
+    ]
+  },
+  "charishit": {
+    "jonah": [
+      4
+    ]
+  },
+  "alaf": {
+    "jonah": [
+      4
+    ]
+  },
+  "shaal": {
+    "jonah": [
+      4
+    ]
+  },
+  "chas": {
+    "jonah": [
+      4
+    ]
+  },
+  "amal": {
+    "jonah": [
+      4
+    ]
+  },
+  "gadal": {
+    "jonah": [
+      4
+    ]
+  },
+  "laylah": {
+    "jonah": [
+      4
+    ]
+  },
+  "yesh": {
+    "jonah": [
+      4
+    ]
+  },
+  "harbeh": {
+    "jonah": [
+      4
+    ]
+  },
+  "ribbo": {
+    "jonah": [
+      4
+    ]
+  },
+  "yamin": {
+    "jonah": [
+      4
+    ]
+  },
+  "smol": {
+    "jonah": [
+      4
+    ]
+  },
+  "shatoq": {
+    "jonah": [
+      1
+    ]
+  },
+  "soer": {
+    "jonah": [
+      1
+    ]
+  },
+  "chatar": {
+    "jonah": [
+      1
+    ]
+  },
+  "yakol": {
+    "jonah": [
+      1
+    ]
+  },
+  "naki": {
+    "jonah": [
+      1
+    ]
+  },
+  "chafatz": {
+    "jonah": [
+      1
+    ]
+  },
+  "tul": {
+    "jonah": [
+      1
+    ]
+  },
+  "zaaf": {
+    "jonah": [
+      1
+    ]
+  },
+  "zavach": {
+    "jonah": [
+      1,
+      2
+    ]
+  },
+  "neder": {
+    "jonah": [
+      1
+    ]
+  },
+  "darar": {
+    "jonah": [
+      1
+    ]
+  },
+  "tzarah": {
+    "jonah": [
+      2
+    ]
+  },
+  "anah": {
+    "jonah": [
+      2
+    ]
+  },
+  "beten": {
+    "jonah": [
+      2
+    ]
+  },
+  "sheol": {
+    "jonah": [
+      2
+    ]
+  },
+  "shavah_cry": {
+    "jonah": [
+      2
+    ]
+  },
+  "metzulah": {
+    "jonah": [
+      2
+    ]
+  },
+  "mishbar": {
+    "jonah": [
+      2
+    ]
+  },
+  "gal": {
+    "jonah": [
+      2
+    ]
+  },
+  "qodesh": {
+    "jonah": [
+      2
+    ]
+  },
+  "afaf": {
+    "jonah": [
+      2
+    ]
+  },
+  "suf": {
+    "jonah": [
+      2
+    ]
+  },
+  "chavash": {
+    "jonah": [
+      2
+    ]
+  },
+  "qatzav": {
+    "jonah": [
+      2
+    ]
+  },
+  "bariach": {
+    "jonah": [
+      2
+    ]
+  },
+  "baad": {
+    "jonah": [
+      2
+    ]
+  },
+  "shachat": {
+    "jonah": [
+      2
+    ]
+  },
+  "ataf": {
+    "jonah": [
+      2
+    ]
+  },
+  "tefilah": {
+    "jonah": [
+      2
+    ]
+  },
+  "shav": {
+    "jonah": [
+      2
+    ]
+  },
+  "todah": {
+    "jonah": [
+      2
+    ]
+  },
+  "nadar": {
+    "jonah": [
+      2
+    ]
+  },
+  "shalem": {
+    "jonah": [
+      2
+    ]
+  },
+  "yeshuah": {
+    "jonah": [
+      2
     ]
   },
   "en": {

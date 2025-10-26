@@ -1,0 +1,20 @@
+{
+  "key": "smol",
+  "hebrew": "שמאל",
+  "transliteration": "smol",
+  "englishLiteral": "left_hand",
+  "englishNatural": "left-hand",
+  "type": "noun",
+  "description": "left hand, left side",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "11": [
+          20
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,23 @@
+{
+  "key": "simchah",
+  "hebrew": "שמחה",
+  "transliteration": "simchah",
+  "englishLiteral": "joy",
+  "englishNatural": "joy",
+  "type": "noun",
+  "description": "joy, gladness, mirth, pleasure",
+  "related": [
+    "samach"
+  ],
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "6": [
+          18
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

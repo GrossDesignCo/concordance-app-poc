@@ -46,6 +46,30 @@ And the men feared a great fear,
 and said to him, "What is this you have done?" 
 that the men knew, that from the face of He-Who-Is he was fleeing, that he had said to them.
 
+And they said to him, "What shall be done to you 
+and will quiet the sea from over us? 
+That the sea is walking and storming."
+
+And he said to them, "Lift-me-up and hurl me to the sea; 
+and it will quiet the sea from over you; 
+that I know that for my sake the tempest, the great, the this is over you."
+
+And the men rowed to return to the dry-ground; 
+and they were-able not; 
+that the sea was walking and storming over them.
+
+And they called-out to He-Who-Is and said, 
+"Please He-Who-Is, please let us perish not in the throat of the man the this; 
+and give over us not innocent blood; 
+that you He-Who-Is, as which you have delighted you have made.
+
+And they lifted-up Dove (Jonah) and hurled him to the sea; 
+and the sea stood from its rage.
+
+And the men feared a great fear of He-Who-Is; 
+and sacrificed a sacrifice to He-Who-Is 
+and vowed vows.
+
 And He-Who-Is appointed a great fish to swallow Dove (Jonah); 
 And Dove (Jonah) was in the bowels of the fish 
 three days and three nights.

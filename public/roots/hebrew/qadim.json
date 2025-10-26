@@ -1,0 +1,23 @@
+{
+  "key": "qadim",
+  "hebrew": "קדים",
+  "transliteration": "qadim",
+  "englishLiteral": "east_wind",
+  "englishNatural": "east-wind",
+  "type": "noun",
+  "description": "east wind, eastern wind",
+  "related": [
+    "qedem"
+  ],
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "8": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

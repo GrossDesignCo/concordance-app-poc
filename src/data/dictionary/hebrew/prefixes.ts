@@ -222,6 +222,14 @@ const PREFIXES = {
     englishNatural: 'the',
     function: 'definite article prefix',
   },
+  // Jonah 4:10 addition
+  she: {
+    hebrew: 'שֶׁ',
+    transliteration: 'she',
+    englishLiteral: 'that',
+    englishNatural: 'that',
+    function: 'relative particle - that, which',
+  },
 } as const;
 
 type PrefixKey = keyof typeof PREFIXES;

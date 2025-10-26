@@ -1,6 +1,7 @@
 {
   "rosh": [
     "genesis",
+    "jonah",
     "proverbs",
     "psalms"
   ],
@@ -57,6 +58,7 @@
   ],
   "tehom": [
     "genesis",
+    "jonah",
     "proverbs"
   ],
   "ruach": [
@@ -138,11 +140,13 @@
   "kol": [
     "genesis",
     "isaiah",
+    "jonah",
     "numbers",
     "psalms"
   ],
   "chayah": [
     "genesis",
+    "jonah",
     "numbers",
     "psalms"
   ],
@@ -260,6 +264,7 @@
   ],
   "shalach": [
     "genesis",
+    "jonah",
     "numbers",
     "psalms"
   ],
@@ -343,6 +348,7 @@
     "psalms"
   ],
   "nabat": [
+    "jonah",
     "numbers"
   ],
   "yisrael": [
@@ -432,7 +438,8 @@
   ],
   "shtayim": [
     "genesis",
-    "isaiah"
+    "isaiah",
+    "jonah"
   ],
   "uf": [
     "genesis",
@@ -452,7 +459,8 @@
   ],
   "nakah": [
     "genesis",
-    "isaiah"
+    "isaiah",
+    "jonah"
   ],
   "tov": [
     "genesis",
@@ -470,7 +478,8 @@
     "genesis"
   ],
   "beyn": [
-    "genesis"
+    "genesis",
+    "jonah"
   ],
   "qara": [
     "exodus",
@@ -520,6 +529,7 @@
   "mavet": [
     "genesis",
     "isaiah",
+    "jonah",
     "proverbs"
   ],
   "yalad": [
@@ -643,7 +653,8 @@
     "jonah"
   ],
   "zakhar": [
-    "genesis"
+    "genesis",
+    "jonah"
   ],
   "neqevah": [
     "genesis"
@@ -677,10 +688,12 @@
   ],
   "amad": [
     "isaiah",
+    "jonah",
     "psalms"
   ],
   "samach": [
-    "isaiah"
+    "isaiah",
+    "jonah"
   ],
   "kalah": [
     "genesis"
@@ -701,7 +714,8 @@
     "jonah"
   ],
   "avad": [
-    "genesis"
+    "genesis",
+    "jonah"
   ],
   "matar": [
     "genesis"
@@ -769,7 +783,8 @@
     "proverbs"
   ],
   "nahar": [
-    "genesis"
+    "genesis",
+    "jonah"
   ],
   "parad": [
     "genesis"
@@ -782,7 +797,8 @@
     "psalms"
   ],
   "shamar": [
-    "genesis"
+    "genesis",
+    "jonah"
   ],
   "badad": [
     "genesis"
@@ -792,6 +808,7 @@
   ],
   "neged": [
     "genesis",
+    "jonah",
     "psalms"
   ],
   "Pishon": [
@@ -801,7 +818,8 @@
     "genesis"
   ],
   "savav": [
-    "genesis"
+    "genesis",
+    "jonah"
   ],
   "zahav": [
     "genesis"
@@ -877,7 +895,8 @@
     "genesis"
   ],
   "azav": [
-    "genesis"
+    "genesis",
+    "jonah"
   ],
   "av": [
     "genesis"
@@ -894,7 +913,8 @@
     "jonah"
   ],
   "hekhal": [
-    "isaiah"
+    "isaiah",
+    "jonah"
   ],
   "shul": [
     "isaiah"
@@ -917,7 +937,8 @@
   "nasa": [
     "exodus",
     "genesis",
-    "isaiah"
+    "isaiah",
+    "jonah"
   ],
   "kavod": [
     "isaiah"
@@ -934,6 +955,7 @@
   "qol": [
     "genesis",
     "isaiah",
+    "jonah",
     "proverbs"
   ],
   "ashan": [
@@ -966,7 +988,8 @@
     "isaiah"
   ],
   "ayin_eye": [
-    "isaiah"
+    "isaiah",
+    "jonah"
   ],
   "pi": [
     "isaiah"
@@ -1026,6 +1049,7 @@
   ],
   "shama": [
     "genesis",
+    "jonah",
     "proverbs"
   ],
   "chaba": [
@@ -1148,11 +1172,13 @@
   "olam": [
     "exodus",
     "genesis",
+    "jonah",
     "proverbs",
     "psalms"
   ],
   "garash": [
-    "genesis"
+    "genesis",
+    "jonah"
   ],
   "keruv": [
     "genesis"
@@ -1306,6 +1332,7 @@
     "psalms"
   ],
   "akh": [
+    "jonah",
     "psalms"
   ],
   "radaf": [
@@ -1330,6 +1357,9 @@
   "pala": [
     "psalms"
   ],
+  "levav": [
+    "jonah"
+  ],
   "shavah": [
     "psalms"
   ],
@@ -1351,13 +1381,15 @@
   ],
   "yasaf": [
     "genesis",
+    "jonah",
     "proverbs"
   ],
   "ach": [
     "genesis"
   ],
   "hevel": [
-    "genesis"
+    "genesis",
+    "jonah"
   ],
   "tzon": [
     "genesis",
@@ -1521,6 +1553,7 @@
     "proverbs"
   ],
   "har": [
+    "jonah",
     "proverbs"
   ],
   "taba": [
@@ -1713,7 +1746,8 @@
     "genesis"
   ],
   "esreh": [
-    "genesis"
+    "genesis",
+    "jonah"
   ],
   "qeynan": [
     "genesis"
@@ -1729,7 +1763,8 @@
     "jonah"
   ],
   "dam": [
-    "genesis"
+    "genesis",
+    "jonah"
   ],
   "tsaaq": [
     "genesis",
@@ -1810,9 +1845,6 @@
     "jonah"
   ],
   "immahhem": [
-    "jonah"
-  ],
-  "hetil": [
     "jonah"
   ],
   "saar": [
@@ -2059,6 +2091,174 @@
     "jonah"
   ],
   "sukkah": [
+    "jonah"
+  ],
+  "qiqayon": [
+    "jonah"
+  ],
+  "natzal": [
+    "jonah"
+  ],
+  "simchah": [
+    "jonah"
+  ],
+  "tolaat": [
+    "jonah"
+  ],
+  "shachar": [
+    "jonah"
+  ],
+  "macharath": [
+    "jonah"
+  ],
+  "yavesh": [
+    "jonah"
+  ],
+  "zarach": [
+    "jonah"
+  ],
+  "shemesh": [
+    "jonah"
+  ],
+  "qadim": [
+    "jonah"
+  ],
+  "charishit": [
+    "jonah"
+  ],
+  "alaf": [
+    "jonah"
+  ],
+  "shaal": [
+    "jonah"
+  ],
+  "chas": [
+    "jonah"
+  ],
+  "amal": [
+    "jonah"
+  ],
+  "gadal": [
+    "jonah"
+  ],
+  "laylah": [
+    "jonah"
+  ],
+  "yesh": [
+    "jonah"
+  ],
+  "harbeh": [
+    "jonah"
+  ],
+  "ribbo": [
+    "jonah"
+  ],
+  "yamin": [
+    "jonah"
+  ],
+  "smol": [
+    "jonah"
+  ],
+  "shatoq": [
+    "jonah"
+  ],
+  "soer": [
+    "jonah"
+  ],
+  "chatar": [
+    "jonah"
+  ],
+  "yakol": [
+    "jonah"
+  ],
+  "naki": [
+    "jonah"
+  ],
+  "chafatz": [
+    "jonah"
+  ],
+  "tul": [
+    "jonah"
+  ],
+  "zaaf": [
+    "jonah"
+  ],
+  "zavach": [
+    "jonah"
+  ],
+  "neder": [
+    "jonah"
+  ],
+  "darar": [
+    "jonah"
+  ],
+  "tzarah": [
+    "jonah"
+  ],
+  "anah": [
+    "jonah"
+  ],
+  "beten": [
+    "jonah"
+  ],
+  "sheol": [
+    "jonah"
+  ],
+  "shavah_cry": [
+    "jonah"
+  ],
+  "metzulah": [
+    "jonah"
+  ],
+  "mishbar": [
+    "jonah"
+  ],
+  "gal": [
+    "jonah"
+  ],
+  "qodesh": [
+    "jonah"
+  ],
+  "afaf": [
+    "jonah"
+  ],
+  "suf": [
+    "jonah"
+  ],
+  "chavash": [
+    "jonah"
+  ],
+  "qatzav": [
+    "jonah"
+  ],
+  "bariach": [
+    "jonah"
+  ],
+  "baad": [
+    "jonah"
+  ],
+  "shachat": [
+    "jonah"
+  ],
+  "ataf": [
+    "jonah"
+  ],
+  "tefilah": [
+    "jonah"
+  ],
+  "shav": [
+    "jonah"
+  ],
+  "todah": [
+    "jonah"
+  ],
+  "nadar": [
+    "jonah"
+  ],
+  "shalem": [
+    "jonah"
+  ],
+  "yeshuah": [
     "jonah"
   ],
   "en": [

@@ -1,0 +1,26 @@
+{
+  "key": "soer",
+  "hebrew": "סער",
+  "transliteration": "soer",
+  "englishLiteral": "to storm",
+  "englishNatural": "to storm",
+  "type": "verb",
+  "description": "to storm, rage, be tempestuous",
+  "related": [
+    "saar"
+  ],
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "11": [
+          11
+        ],
+        "13": [
+          10
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

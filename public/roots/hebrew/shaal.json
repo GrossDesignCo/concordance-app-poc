@@ -1,0 +1,20 @@
+{
+  "key": "shaal",
+  "hebrew": "שאל",
+  "transliteration": "shaal",
+  "englishLiteral": "to ask",
+  "englishNatural": "to ask",
+  "type": "verb",
+  "description": "to ask, inquire, request, demand",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "8": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

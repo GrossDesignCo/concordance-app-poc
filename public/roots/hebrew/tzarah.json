@@ -1,0 +1,23 @@
+{
+  "key": "tzarah",
+  "hebrew": "צרה",
+  "transliteration": "tzarah",
+  "englishLiteral": "distress",
+  "englishNatural": "distress",
+  "type": "noun",
+  "description": "distress, trouble, affliction, anguish",
+  "related": [
+    "tzar"
+  ],
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "2": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

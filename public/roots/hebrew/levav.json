@@ -9,7 +9,15 @@
   "related": [
     "lev"
   ],
-  "wordIndexes": {},
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "3": [
+          2
+        ]
+      }
+    }
+  },
   "usage": {},
   "translationConnections": []
 }

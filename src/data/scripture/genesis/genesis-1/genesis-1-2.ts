@@ -125,8 +125,8 @@ export const genesis_1_2: Verse = {
     {
       hebrew: 'תְהֹ֑ום',
       transliteration: 'tehom',
-      englishLiteral: 'deep',
-      englishNatural: 'the deep',
+      englishLiteral: 'abyss',
+      englishNatural: 'the abyss',
       root: 'tehom',
       order: {
         hebrew: 7,
@@ -254,10 +254,10 @@ export const genesis_1_2: Verse = {
     transliteration:
       'veHaAretz haytah tohu vaVohu; veChoshekh al-peney tehom. veRuach Elohim meRachefet al-peney haMayim.',
     englishLiteral:
-      'And-the-land was waste and-void; And-darkness over-face-of deep. And-Wind, Gods, was-stirring over-face-of the-waters.',
+      'And-the-land was waste and-void; And-darkness over-face-of abyss. And-Wind, Gods, was-stirring over-face-of the-waters.',
     englishNatural:
-      'And the land was waste and void; And darkness over the face of the deep. And the Wind of God was stirring over the face of the waters.',
+      'And the land was waste and void; And darkness over the face of the abyss. And the Wind of God was stirring over the face of the waters.',
     kjv: 'And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
   },
 };

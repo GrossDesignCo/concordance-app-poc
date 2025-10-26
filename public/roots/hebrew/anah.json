@@ -1,0 +1,20 @@
+{
+  "key": "anah",
+  "hebrew": "ענה",
+  "transliteration": "anah",
+  "englishLiteral": "to answer",
+  "englishNatural": "to answer",
+  "type": "verb",
+  "description": "to answer, respond, reply, testify",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "2": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

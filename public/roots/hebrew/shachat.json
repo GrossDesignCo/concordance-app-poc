@@ -1,0 +1,20 @@
+{
+  "key": "shachat",
+  "hebrew": "שחת",
+  "transliteration": "shachat",
+  "englishLiteral": "corruption",
+  "englishNatural": "corruption",
+  "type": "noun",
+  "description": "pit, corruption, destruction, grave, the process of decay/decomposition in death",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "6": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

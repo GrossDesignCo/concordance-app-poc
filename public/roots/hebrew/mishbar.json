@@ -1,0 +1,23 @@
+{
+  "key": "mishbar",
+  "hebrew": "משבר",
+  "transliteration": "mishbar",
+  "englishLiteral": "breaker",
+  "englishNatural": "breaker",
+  "type": "noun",
+  "description": "breaker, wave that breaks, crushing wave",
+  "related": [
+    "shabar"
+  ],
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "3": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

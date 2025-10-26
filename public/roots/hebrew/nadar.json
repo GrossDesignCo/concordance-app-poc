@@ -1,0 +1,23 @@
+{
+  "key": "nadar",
+  "hebrew": "נדר",
+  "transliteration": "nadar",
+  "englishLiteral": "to vow",
+  "englishNatural": "to vow",
+  "type": "verb",
+  "description": "to vow, make a vow, promise solemnly",
+  "related": [
+    "neder"
+  ],
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "9": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

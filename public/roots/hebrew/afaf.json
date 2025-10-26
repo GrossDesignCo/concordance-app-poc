@@ -1,0 +1,20 @@
+{
+  "key": "afaf",
+  "hebrew": "אפף",
+  "transliteration": "afaf",
+  "englishLiteral": "to surround",
+  "englishNatural": "to surround",
+  "type": "verb",
+  "description": "to surround, encompass, go around, encircle",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "5": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

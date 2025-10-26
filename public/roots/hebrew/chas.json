@@ -1,0 +1,23 @@
+{
+  "key": "chas",
+  "hebrew": "חוס",
+  "transliteration": "chas",
+  "englishLiteral": "to pity",
+  "englishNatural": "to pity",
+  "type": "verb",
+  "description": "to pity, have compassion, spare, look with compassion",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "10": [
+          3
+        ],
+        "11": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

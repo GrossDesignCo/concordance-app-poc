@@ -30,8 +30,8 @@ export const proverbs_8_24: Verse = {
     {
       hebrew: 'תְּהֹמוֹת',
       transliteration: 'tehomot',
-      englishLiteral: 'depths',
-      englishNatural: 'depths',
+      englishLiteral: 'abyss',
+      englishNatural: 'abyss',
       root: 'tehom',
       suffixes: ['ot'],
       order: {
@@ -156,10 +156,10 @@ export const proverbs_8_24: Verse = {
       'בְּאֵין תְּהֹמוֹת נוֹלָדְתִּי בְּאֵין מַעְיָנוֹת נִכְבַּדֵּי מָיִם',
     transliteration: 'beEin tehomot noladti beEin mayanot nikhbadei mayim',
     englishLiteral:
-      'In-nothing, depths, was-born-I; in-nothing, springs, heavy_with waters.',
+      'In-nothing, abyss, was-born-I; in-nothing, springs, heavy_with waters.',
     englishNatural:
-      'In nothing, depths, I was born; in nothing, springs, heavy-with waters.',
+      'In nothing, abyss, I was born; in nothing, springs, heavy-with waters.',
     kjv: 'When there were no depths, I was brought forth; when there were no fountains abounding with water',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
   },
 };

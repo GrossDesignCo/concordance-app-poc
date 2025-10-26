@@ -1,1 +1,1 @@
-Do-not you-shall-rejoice Wallowers (Philistia) all-of-you that is-broken rod of-him-who-strikes-you-down that from-root snake shall-come-forth viper and-its-fruit burning_one flying. 
+Do-not you-shall-rejoice Wallowers (Philistia) all-of-you that is-broken rod of-him-who-strikes_down-you that from-root snake shall-come-forth viper and-its-fruit burning_one flying. 

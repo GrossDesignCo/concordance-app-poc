@@ -1,0 +1,20 @@
+{
+  "key": "bariach",
+  "hebrew": "בריח",
+  "transliteration": "bariach",
+  "englishLiteral": "bar",
+  "englishNatural": "bar",
+  "type": "noun",
+  "description": "bar, bolt, barrier",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "6": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

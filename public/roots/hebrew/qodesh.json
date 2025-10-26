@@ -1,0 +1,23 @@
+{
+  "key": "qodesh",
+  "hebrew": "קדש",
+  "transliteration": "qodesh",
+  "englishLiteral": "holiness",
+  "englishNatural": "holiness",
+  "type": "noun",
+  "description": "holiness, sacredness, holy thing, sanctuary",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "4": [
+          10
+        ],
+        "7": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

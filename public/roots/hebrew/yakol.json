@@ -1,0 +1,20 @@
+{
+  "key": "yakol",
+  "hebrew": "יכל",
+  "transliteration": "yakol",
+  "englishLiteral": "to be_able",
+  "englishNatural": "to be-able",
+  "type": "verb",
+  "description": "to be able, can, have power, prevail",
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "13": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

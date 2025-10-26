@@ -45,6 +45,30 @@ And-feared the-men fear great,
 and-said to-him, "What- this you-did?" 
 that- knew the-men, that- from-the-face-of He_Who_Is he fleeing, that he-said to-them.
 
+And-said to-him, "what- shall-be-done to-you 
+and-will-quiet the-sea from-over-us? 
+that the-sea walking and-storming."
+
+And-said to-them, "lift_up-me and-hurl-me to- the-sea; 
+and-will-quiet the-sea from-over-you; 
+that knowing I that for-sake-my the-tempest, the-great, the-this over-you."
+
+And-rowed the-men to-return to- the-dry_ground; 
+and-not they-were-able; 
+that the-sea walking and-storming over-them.
+
+And-called_out to- He_Who_Is and-said, 
+"please He_Who_Is, not- please let-us-perish in-throat-of the-man the-this; 
+and-not- give over-us blood innocent; 
+that- you He_Who_Is, as-which you-delighted you-made.
+
+And-lifted_up ↳ Dove (Jonah) and-hurled-him to- the-sea; 
+and-stood the-sea from-rage-its.
+
+And-feared the-men fear great ↳ He_Who_Is; 
+and-sacrificed- sacrifice to-He_Who_Is 
+and-vowed vows.
+
 And-appointed He_Who_Is fish great to-swallow ↳ Dove (Jonah); 
 And-was Dove (Jonah) in-bowels-of the-fish 
 three days and-three nights.

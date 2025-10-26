@@ -54,7 +54,7 @@ And-he-said to-him He_Who_Is,
 "Not-so, all- killing Acquired (Cain),
 sevenfold it-will-be-avenged."
 And-he-set He_Who_Is for-Acquired (Cain) sign,
-for-not striking- ↳-him all- finding-him.
+for-not striking_down- ↳-him all- finding-him.
 
 And-he-went-out Acquired (Cain), from-face-of He_Who_Is;
 and-he-dwelt in-land- Wandering,

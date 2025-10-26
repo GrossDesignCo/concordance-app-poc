@@ -1,0 +1,23 @@
+{
+  "key": "harbeh",
+  "hebrew": "הרבה",
+  "transliteration": "harbeh",
+  "englishLiteral": "much",
+  "englishNatural": "much",
+  "type": "adverb",
+  "description": "much, many, great amount",
+  "related": [
+    "rabah"
+  ],
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "11": [
+          10
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

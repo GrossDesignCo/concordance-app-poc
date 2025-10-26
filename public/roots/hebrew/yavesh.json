@@ -1,0 +1,20 @@
+{
+  "key": "yavesh",
+  "hebrew": "יבש",
+  "transliteration": "yavesh",
+  "englishLiteral": "to wither",
+  "englishNatural": "to wither",
+  "type": "verb",
+  "description": "to be dry, wither, dry up",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "7": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

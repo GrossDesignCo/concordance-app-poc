@@ -1,0 +1,20 @@
+{
+  "key": "beten",
+  "hebrew": "בטן",
+  "transliteration": "beten",
+  "englishLiteral": "belly",
+  "englishNatural": "belly",
+  "type": "noun",
+  "description": "belly, womb, body, inward parts",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "2": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

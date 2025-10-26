@@ -1,0 +1,23 @@
+{
+  "key": "shatoq",
+  "hebrew": "שתק",
+  "transliteration": "shatoq",
+  "englishLiteral": "to quiet",
+  "englishNatural": "to quiet",
+  "type": "verb",
+  "description": "to be quiet, still, calm, silent",
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "11": [
+          5
+        ],
+        "12": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "shavah_cry",
+  "hebrew": "שוע",
+  "transliteration": "shavah",
+  "englishLiteral": "to cry_out",
+  "englishNatural": "to cry-out",
+  "type": "verb",
+  "description": "to cry for help, call for aid, shout for deliverance",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "2": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

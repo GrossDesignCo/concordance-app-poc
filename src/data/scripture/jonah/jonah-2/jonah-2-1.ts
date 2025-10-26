@@ -9,7 +9,7 @@ export const jonah_2_1: Verse = {
   words: [
     {
       hebrew: 'וַיִּתְפַּלֵּל',
-      transliteration: 'vaYitpallel',
+      transliteration: 'vaYitpalel',
       englishLiteral: 'And-prayed',
       englishNatural: 'prayed',
       root: 'palal',
@@ -79,8 +79,8 @@ export const jonah_2_1: Verse = {
     },
     {
       hebrew: 'אֱלֹהָיו',
-      transliteration: 'Elohav',
-      englishLiteral: 'his-Gods',
+      transliteration: 'elohav',
+      englishLiteral: 'Gods-his',
       englishNatural: 'his God',
       root: 'eloah',
       suffixes: ['av'],
@@ -93,10 +93,6 @@ export const jonah_2_1: Verse = {
         number: 'plural',
         type: 'noun',
       },
-      grammarSuffix: {
-        englishLiteral: ',',
-        englishNatural: ',',
-      },
     },
     {
       hebrew: 'מִמְּעֵי',
@@ -105,7 +101,7 @@ export const jonah_2_1: Verse = {
       englishNatural: 'from the bowels of',
       root: 'meah_bowels',
       prefixes: ['mi'],
-      suffixes: ['ey'],
+      suffixes: ['ei'],
       order: {
         hebrew: 6,
         english: 6,
@@ -116,7 +112,6 @@ export const jonah_2_1: Verse = {
         state: 'construct',
         type: 'noun',
       },
-      lineBreaksBefore: 1,
     },
     {
       hebrew: 'הַדָּגָה',
@@ -135,20 +130,20 @@ export const jonah_2_1: Verse = {
         type: 'noun',
       },
       grammarSuffix: {
-        englishLiteral: '.',
-        englishNatural: '.',
+        englishLiteral: ';',
+        englishNatural: ';',
       },
       lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
     hebrew: 'וַיִּתְפַּלֵּל יוֹנָה אֶל־יְהוָה אֱלֹהָיו מִמְּעֵי הַדָּגָה',
-    transliteration: 'vaYitpallel Yonah el-YHWH Elohav mimei haDagah',
+    transliteration: 'vaYitpalel Yonah el-YHWH elohav mimei haDagah',
     englishLiteral:
-      'And-prayed Dove (Jonah) to- He_Who_Is his-Gods, from-bowels-of the-fish.',
+      'And-prayed Dove (Jonah) to- He_Who_Is Gods-his from-bowels-of the-fish;',
     englishNatural:
-      'And Dove (Jonah) prayed to He-Who-Is his God, from the bowels of the fish.',
-    kjv: "Then Jonah prayed unto the LORD his God out of the fish's belly.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+      'And Dove (Jonah) prayed to He-Who-Is his God from the bowels of the fish;',
+    kjv: "And Jonah prayed unto the LORD his God out of the fish's belly:",
+    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
   },
 };

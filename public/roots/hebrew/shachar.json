@@ -1,0 +1,20 @@
+{
+  "key": "shachar",
+  "hebrew": "שחר",
+  "transliteration": "shachar",
+  "englishLiteral": "dawn",
+  "englishNatural": "dawn",
+  "type": "noun",
+  "description": "dawn, morning, daybreak",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "7": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

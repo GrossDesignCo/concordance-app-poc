@@ -18,7 +18,7 @@ export const isaiah_14_29: Verse = {
         english: 1,
       },
       morphology: {
-        type: 'particle'
+        type: 'particle',
       },
     },
     {
@@ -39,7 +39,7 @@ export const isaiah_14_29: Verse = {
         person: '2nd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -55,7 +55,7 @@ export const isaiah_14_29: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -73,7 +73,7 @@ export const isaiah_14_29: Verse = {
         gender: 'feminine',
         number: 'singular',
         person: '2nd',
-        type: 'adjective'
+        type: 'adjective',
       },
     },
     {
@@ -87,7 +87,7 @@ export const isaiah_14_29: Verse = {
         english: 5,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
     },
     {
@@ -107,7 +107,7 @@ export const isaiah_14_29: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'niphal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -124,14 +124,14 @@ export const isaiah_14_29: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
       hebrew: 'מַכֵּךְ',
       transliteration: 'makekh',
-      englishLiteral: 'of-him-who-strikes-you-down',
-      englishNatural: 'of him who strikes you down',
+      englishLiteral: 'of-him-who-strikes_down-you',
+      englishNatural: 'of him who strikes-down you',
       root: 'nakah',
       suffixes: ['ekh'],
       order: {
@@ -142,7 +142,7 @@ export const isaiah_14_29: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '2nd',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -156,7 +156,7 @@ export const isaiah_14_29: Verse = {
         english: 9,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
     },
     {
@@ -171,7 +171,7 @@ export const isaiah_14_29: Verse = {
         english: 10,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -188,7 +188,7 @@ export const isaiah_14_29: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -208,7 +208,7 @@ export const isaiah_14_29: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -224,7 +224,7 @@ export const isaiah_14_29: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -243,7 +243,7 @@ export const isaiah_14_29: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '3rd',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -259,7 +259,7 @@ export const isaiah_14_29: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -276,7 +276,7 @@ export const isaiah_14_29: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -285,11 +285,15 @@ export const isaiah_14_29: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'אַל תִּשְׂמְחִי פְלֶשֶׁת כֻּלֵּךְ כִּי נִשְׁבַּר שֵׁבֶט מַכֵּךְ כִּי מִשֹּׁרֶשׁ נָחָשׁ יֵצֵא צֶפַע וּפִרְיוֹ שָׂרָף מְעוֹפֵף',
-    transliteration: 'al tiSmechi Peleshet kulekh ki nishbar shevet makekh ki miShoresh nachash yetze tsefa uFiryo saraph meOfef',
-    englishLiteral: 'Do-not you-shall-rejoice Wallowers (Philistia) all-of-you that is-broken rod of-him-who-strikes-you-down that from-root snake shall-come-forth viper and-its-fruit burning_one flying',
-    englishNatural: 'Do not rejoice Wallowers (Philistia) all of you that is broken the rod of him who strikes you down that from the root of a snake shall come forth a viper and its fruit a burning-one flying',
-    kjv: 'Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent\'s root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    hebrew:
+      'אַל תִּשְׂמְחִי פְלֶשֶׁת כֻּלֵּךְ כִּי נִשְׁבַּר שֵׁבֶט מַכֵּךְ כִּי מִשֹּׁרֶשׁ נָחָשׁ יֵצֵא צֶפַע וּפִרְיוֹ שָׂרָף מְעוֹפֵף',
+    transliteration:
+      'al tiSmechi Peleshet kulekh ki nishbar shevet makekh ki miShoresh nachash yetze tsefa uFiryo saraph meOfef',
+    englishLiteral:
+      'Do-not you-shall-rejoice Wallowers (Philistia) all-of-you that is-broken rod of-him-who-strikes_down-you that from-root snake shall-come-forth viper and-its-fruit burning_one flying',
+    englishNatural:
+      'Do not rejoice Wallowers (Philistia) all of you that is broken the rod of him who strikes-down you that from the root of a snake shall come forth a viper and its fruit a burning-one flying',
+    kjv: "Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent's root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.",
+    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
   },
-}; 
+};

@@ -53,7 +53,7 @@ And He-Who-Is said to him,
 "Not so, all killing Acquired (Cain),
 sevenfold it will be avenged."
 And He-Who-Is set for Acquired (Cain) a sign,
-so that not all strike him on finding him.
+so that not all striking-down him on finding him.
 
 And Acquired (Cain) went out, from the presence of He-Who-Is;
 and dwelt in the land of Wandering,

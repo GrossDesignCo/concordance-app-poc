@@ -1,0 +1,20 @@
+{
+  "key": "zarach",
+  "hebrew": "זרח",
+  "transliteration": "zarach",
+  "englishLiteral": "to rise",
+  "englishNatural": "to rise",
+  "type": "verb",
+  "description": "to rise, shine forth, appear (of sun, light)",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "8": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

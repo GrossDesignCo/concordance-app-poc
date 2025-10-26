@@ -1,0 +1,20 @@
+{
+  "key": "sheol",
+  "hebrew": "שאול",
+  "transliteration": "sheol",
+  "englishLiteral": "Hades",
+  "englishNatural": "Hades",
+  "type": "noun",
+  "description": "Sheol, the grave (only metaphorically, not for physical graves), the place of the dead, the underworld",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "2": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

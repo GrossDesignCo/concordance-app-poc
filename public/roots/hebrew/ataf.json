@@ -1,0 +1,20 @@
+{
+  "key": "ataf",
+  "hebrew": "עטף",
+  "transliteration": "ataf",
+  "englishLiteral": "to faint",
+  "englishNatural": "to faint",
+  "type": "verb",
+  "description": "to faint, be feeble, be overwhelmed, wrap oneself",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "7": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

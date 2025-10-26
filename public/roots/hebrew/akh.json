@@ -7,6 +7,13 @@
   "type": "adverb",
   "description": "emphatic particle, surely, only, but, however",
   "wordIndexes": {
+    "jonah": {
+      "2": {
+        "4": [
+          5
+        ]
+      }
+    },
     "psalms": {
       "23": {
         "6": [

@@ -1,0 +1,20 @@
+{
+  "key": "baad",
+  "hebrew": "בעד",
+  "transliteration": "baad",
+  "englishLiteral": "behind",
+  "englishNatural": "behind",
+  "type": "preposition",
+  "description": "behind, through, around, for the sake of",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "6": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

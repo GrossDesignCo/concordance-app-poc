@@ -1,0 +1,23 @@
+{
+  "key": "chafatz",
+  "hebrew": "חפץ",
+  "transliteration": "chafatz",
+  "englishLiteral": "to delight",
+  "englishNatural": "to delight",
+  "type": "verb",
+  "description": "to delight in, take pleasure in, desire, be pleased with",
+  "related": [
+    "chafetz"
+  ],
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "14": [
+          21
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

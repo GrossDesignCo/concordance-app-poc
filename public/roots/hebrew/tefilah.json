@@ -1,0 +1,23 @@
+{
+  "key": "tefilah",
+  "hebrew": "תפלה",
+  "transliteration": "tefilah",
+  "englishLiteral": "prayer",
+  "englishNatural": "prayer",
+  "type": "noun",
+  "description": "prayer, supplication, intercession",
+  "related": [
+    "palal"
+  ],
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "7": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

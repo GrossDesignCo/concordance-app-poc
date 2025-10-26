@@ -1,0 +1,20 @@
+{
+  "key": "chatar",
+  "hebrew": "חתר",
+  "transliteration": "chatar",
+  "englishLiteral": "to row",
+  "englishNatural": "to row",
+  "type": "verb",
+  "description": "to row, dig, break through with effort",
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "13": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

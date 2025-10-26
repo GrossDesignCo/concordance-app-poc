@@ -273,8 +273,8 @@ export const genesis_4_15: Verse = {
     {
       hebrew: 'הַכּוֹת־',
       transliteration: 'hakot-',
-      englishLiteral: 'striking-',
-      englishNatural: 'strike',
+      englishLiteral: 'striking_down-',
+      englishNatural: 'striking-down',
       root: 'nakah',
       prefixes: ['ha'],
       order: {
@@ -351,10 +351,10 @@ export const genesis_4_15: Verse = {
     transliteration:
       'vayYomer lo YHWH lakhen kol-horeg Qayin shivatayim yuqam vayYasem YHWH leQayin ot leVilti hakot-oto kol-motzo',
     englishLiteral:
-      'And-he-said to-him He_Who_Is, "Not-so, all- killing Acquired (Cain), sevenfold it-will-be-avenged." And-he-set He_Who_Is for-Acquired (Cain) sign, for-not striking- ↳-him all- finding-him.',
+      'And-he-said to-him He_Who_Is, "Not-so, all- killing Acquired (Cain), sevenfold it-will-be-avenged." And-he-set He_Who_Is for-Acquired (Cain) sign, for-not striking_down- ↳-him all- finding-him.',
     englishNatural:
-      'And He-Who-Is said to him, "Not so, all killing Acquired (Cain), sevenfold it will be avenged." And He-Who-Is set for Acquired (Cain) a sign, so that not all strike him on finding him.',
+      'And He-Who-Is said to him, "Not so, all killing Acquired (Cain), sevenfold it will be avenged." And He-Who-Is set for Acquired (Cain) a sign, so that not all striking-down him on finding him.',
     kjv: 'And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+  },
 };

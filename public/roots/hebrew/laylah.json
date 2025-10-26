@@ -1,0 +1,21 @@
+{
+  "key": "laylah",
+  "hebrew": "לילה",
+  "transliteration": "laylah",
+  "englishLiteral": "night",
+  "englishNatural": "night",
+  "type": "noun",
+  "description": "night, nighttime",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "10": [
+          13,
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

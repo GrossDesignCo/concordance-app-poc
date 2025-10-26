@@ -1,0 +1,20 @@
+{
+  "key": "gal",
+  "hebrew": "גל",
+  "transliteration": "gal",
+  "englishLiteral": "wave",
+  "englishNatural": "wave",
+  "type": "noun",
+  "description": "wave, billow, heap",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "3": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

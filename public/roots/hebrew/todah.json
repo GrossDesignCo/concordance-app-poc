@@ -1,0 +1,20 @@
+{
+  "key": "todah",
+  "hebrew": "תודה",
+  "transliteration": "todah",
+  "englishLiteral": "thanksgiving",
+  "englishNatural": "thanksgiving",
+  "type": "noun",
+  "description": "thanksgiving, praise, confession, thank offering",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "9": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

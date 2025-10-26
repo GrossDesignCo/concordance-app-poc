@@ -1,0 +1,20 @@
+{
+  "key": "suf",
+  "hebrew": "סוף",
+  "transliteration": "suf",
+  "englishLiteral": "reed",
+  "englishNatural": "reed",
+  "type": "noun",
+  "description": "reed, rush, seaweed, water plant",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "5": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

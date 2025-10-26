@@ -2,14 +2,22 @@
   "key": "tehom",
   "hebrew": "תהום",
   "transliteration": "tehom",
-  "englishLiteral": "deep",
-  "englishNatural": "deep",
+  "englishLiteral": "abyss",
+  "englishNatural": "abyss",
   "type": "noun",
+  "description": "The abyss, the primordial chaos waters, the depths",
   "wordIndexes": {
     "genesis": {
       "1": {
         "2": [
           6
+        ]
+      }
+    },
+    "jonah": {
+      "2": {
+        "5": [
+          4
         ]
       }
     },

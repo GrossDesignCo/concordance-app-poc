@@ -45,6 +45,30 @@ vaYirau haAnashim yirah gedolah
 vaYomeru elav mah-zot asita 
 ki-yadu haAnashim ki-miLiFney YHWH hu boreach ki higid lahem
 
+vaYomeru elav mah-naasah lakh 
+veyiShtoq haYam meAleynu 
+ki haYam holekh vesoer
+
+vaYomer alehem sauni vahatiluni el-haYam 
+veyishtoq haYam meAleykhem 
+ki yodea ani ki beshelli haSaar haGadol haZeh aleykhem
+
+vaYachteru haAnashim lehashiv el-haYabashah 
+veLo yakholu 
+ki haYam holekh vesoer alehem
+
+vaYiqreu el-YHWH vaYomeru 
+anna YHWH al-na novdah beNefesh haIsh haZeh 
+veAl-titten alenu dam naqi 
+ki-atah YHWH kaAsher chafatzta asita
+
+vaYiseu et-Yonah vaYetiluhu el-haYam 
+vaYaamod haYam mizaapo
+
+vaYireu haAnashim yirah gedolah et-YHWH 
+vaYizbechu-zevach laYHWH 
+vaYideru nedarim
+
 vaYeman YHWH dag gadol livloa et-Yonah 
 vaYehi Yonah bimei haDag 
 shloshah yamim uShloshah leilot

@@ -1,0 +1,20 @@
+{
+  "key": "zaaf",
+  "hebrew": "זעף",
+  "transliteration": "zaaf",
+  "englishLiteral": "rage",
+  "englishNatural": "rage",
+  "type": "noun",
+  "description": "rage, fury, wrath, storming",
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "15": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

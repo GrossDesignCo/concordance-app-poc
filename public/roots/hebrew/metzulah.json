@@ -1,0 +1,20 @@
+{
+  "key": "metzulah",
+  "hebrew": "מצולה",
+  "transliteration": "metzulah",
+  "englishLiteral": "depth",
+  "englishNatural": "depth",
+  "type": "noun",
+  "description": "depth, deep place, abyss, the depths",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "3": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

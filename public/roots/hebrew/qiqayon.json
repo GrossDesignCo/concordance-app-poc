@@ -1,0 +1,30 @@
+{
+  "key": "qiqayon",
+  "hebrew": "קיקיון",
+  "transliteration": "qiqayon",
+  "englishLiteral": "luscious_plant",
+  "englishNatural": "luscious-plant",
+  "type": "noun",
+  "description": "a unique plant in scripture (possibly castor/ricinus), likely an Egyptian loanword, only one appearance in the Hebrew Bible",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "6": [
+          3,
+          17
+        ],
+        "7": [
+          8
+        ],
+        "9": [
+          8
+        ],
+        "10": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

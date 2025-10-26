@@ -1,0 +1,20 @@
+{
+  "key": "alaf",
+  "hebrew": "עלף",
+  "transliteration": "alaf",
+  "englishLiteral": "to faint",
+  "englishNatural": "to faint",
+  "type": "verb",
+  "description": "to faint, become feeble, be exhausted",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "8": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

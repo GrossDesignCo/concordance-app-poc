@@ -1,0 +1,26 @@
+{
+  "key": "zavach",
+  "hebrew": "זבח",
+  "transliteration": "zavach",
+  "englishLiteral": "sacrifice",
+  "englishNatural": "sacrifice",
+  "type": "noun",
+  "description": "sacrifice, offering, slaughter for sacrifice",
+  "wordIndexes": {
+    "jonah": {
+      "1": {
+        "16": [
+          6,
+          7
+        ]
+      },
+      "2": {
+        "9": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

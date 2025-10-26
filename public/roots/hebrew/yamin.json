@@ -1,0 +1,20 @@
+{
+  "key": "yamin",
+  "hebrew": "ימין",
+  "transliteration": "yamin",
+  "englishLiteral": "right_hand",
+  "englishNatural": "right-hand",
+  "type": "noun",
+  "description": "right hand, right side",
+  "wordIndexes": {
+    "jonah": {
+      "4": {
+        "11": [
+          19
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

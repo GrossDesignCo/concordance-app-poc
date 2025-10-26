@@ -1,0 +1,20 @@
+{
+  "key": "chavash",
+  "hebrew": "חבש",
+  "transliteration": "chavash",
+  "englishLiteral": "to bind",
+  "englishNatural": "to bind",
+  "type": "verb",
+  "description": "to bind, wrap, tie up, bandage",
+  "wordIndexes": {
+    "jonah": {
+      "2": {
+        "5": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

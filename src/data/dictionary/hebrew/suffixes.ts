@@ -94,6 +94,27 @@ const SUFFIXES = {
     englishNatural: 'its',
     function: '3rd person feminine singular possessive',
   },
+  ato: {
+    hebrew: 'תוֹ',
+    transliteration: 'ato',
+    englishLiteral: 'his',
+    englishNatural: 'his',
+    function: '3rd person masculine singular possessive on feminine noun',
+  },
+  to: {
+    hebrew: 'תוֹ',
+    transliteration: 'to',
+    englishLiteral: 'it',
+    englishNatural: 'it',
+    function: '3rd person masculine singular object suffix',
+  },
+  khem: {
+    hebrew: 'כֶם',
+    transliteration: 'khem',
+    englishLiteral: 'you',
+    englishNatural: 'you',
+    function: '2nd person masculine plural object suffix',
+  },
   ehu: {
     hebrew: 'ֵהוּ',
     transliteration: 'ehu',
@@ -301,6 +322,13 @@ const SUFFIXES = {
     englishLiteral: 'me',
     englishNatural: 'me',
     function: '1st person singular object suffix',
+  },
+  ay: {
+    hebrew: 'ַי',
+    transliteration: 'ay',
+    englishLiteral: 'me',
+    englishNatural: 'me',
+    function: '1st person singular object suffix with preposition',
   },
   hen: {
     hebrew: 'הֶן',

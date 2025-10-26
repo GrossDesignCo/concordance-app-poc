@@ -1,7 +1,7 @@
 In-heading, created Gods ↳ the-skies and-↳ the-land
 
 And-the-land was waste and-void; 
-And-darkness over-face-of deep.
+And-darkness over-face-of abyss.
 And-Wind, Gods, was-stirring over-face-of the-waters.
 
 And-said Gods, "Let-be light."
