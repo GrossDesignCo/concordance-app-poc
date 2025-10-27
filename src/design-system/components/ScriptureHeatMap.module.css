@@ -1,7 +1,16 @@
 .books {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--ds-space-4);
+  gap: var(--ds-space-2);
+}
+
+.book {
+  padding: var(--ds-space-2);
+}
+
+.book.complete {
+  background-color: var(--ds-bg-container-low-contrast);
+  border-radius: var(--ds-radius-md);
 }
 
 .bookName {

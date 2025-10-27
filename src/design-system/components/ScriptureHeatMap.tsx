@@ -38,9 +38,14 @@ export async function ScriptureHeatMap({
       <div className={styles.books}>
         {Object.entries(scripture.books).map(([bookKey, book]) => {
           const isInProgress = book.progress > 0.01 && book.progress < 99.99;
+          const isComplete = book.progress === 100;
+          console.log(book.bookName, book.progress);
 
           return (
-            <div key={bookKey}>
+            <div
+              key={bookKey}
+              className={cx(styles.book, { [styles.complete]: isComplete })}
+            >
               <h4 className={styles.bookName}>
                 {book.bookName} {/* If measuring progress */}
                 {isInProgress && mode === 'full-page' && (
