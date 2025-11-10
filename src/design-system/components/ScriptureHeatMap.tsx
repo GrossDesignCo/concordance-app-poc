@@ -39,7 +39,6 @@ export async function ScriptureHeatMap({
         {Object.entries(scripture.books).map(([bookKey, book]) => {
           const isInProgress = book.progress > 0.01 && book.progress < 99.99;
           const isComplete = book.progress === 100;
-          console.log(book.bookName, book.progress);
 
           return (
             <div
