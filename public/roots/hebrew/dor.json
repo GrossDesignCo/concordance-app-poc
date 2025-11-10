@@ -6,12 +6,22 @@
   "englishNatural": "generation",
   "type": "noun",
   "description": "generation, age, period of time",
+  "related": [
+    "toledot"
+  ],
   "wordIndexes": {
     "exodus": {
       "3": {
         "15": [
           26,
           27
+        ]
+      }
+    },
+    "genesis": {
+      "6": {
+        "9": [
+          8
         ]
       }
     }

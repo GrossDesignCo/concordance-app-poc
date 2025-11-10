@@ -1,0 +1,23 @@
+{
+  "key": "yetzer",
+  "hebrew": "יצר",
+  "transliteration": "yetzer",
+  "englishLiteral": "forming",
+  "englishNatural": "forming",
+  "type": "noun",
+  "description": "forming, imagination, form, purpose, framing",
+  "related": [
+    "yatsar"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "5": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

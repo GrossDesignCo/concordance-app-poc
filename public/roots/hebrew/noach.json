@@ -1,0 +1,31 @@
+{
+  "key": "noach",
+  "hebrew": "נח",
+  "transliteration": "noach",
+  "englishLiteral": "Rest (Noah)",
+  "englishNatural": "Rest (Noah)",
+  "type": "noun",
+  "description": "Noah (rest, comfort), name of the flood survivor",
+  "related": [
+    "nuach"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "8": [
+          0
+        ],
+        "9": [
+          2,
+          3,
+          12
+        ],
+        "10": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

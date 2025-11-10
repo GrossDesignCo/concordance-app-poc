@@ -1,0 +1,20 @@
+{
+  "key": "hineh",
+  "hebrew": "הנה",
+  "transliteration": "hineh",
+  "englishLiteral": "behold",
+  "englishNatural": "behold",
+  "type": "interjection",
+  "description": "behold, look, see (draws attention)",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "12": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

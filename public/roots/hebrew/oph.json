@@ -1,0 +1,20 @@
+{
+  "key": "oph",
+  "hebrew": "עוף",
+  "transliteration": "oph",
+  "englishLiteral": "bird",
+  "englishNatural": "bird",
+  "type": "noun",
+  "description": "bird, fowl, flying creature",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "7": [
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -288,9 +288,7 @@ export const genesis_6_3: Verse = {
         englishLiteral: '."',
         englishNatural: '."',
       },
-      lineBreaksAfter: {
-        hebrew: 1,
-      },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
@@ -303,6 +301,6 @@ export const genesis_6_3: Verse = {
     englishNatural:
       'And He-Who-Is said, "My Wind will judge not in the human to the-age, in moreover he is flesh; and his days will be a hundred and twenty years."',
     kjv: 'And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
   },
 };

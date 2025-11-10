@@ -2,10 +2,14 @@
   "key": "chanan",
   "hebrew": "חנן",
   "transliteration": "chanan",
-  "englishLiteral": "to be_gracious",
-  "englishNatural": "to be-gracious",
+  "englishLiteral": "to give_grace",
+  "englishNatural": "to give-grace",
   "type": "verb",
-  "description": "to be gracious, show favor, be merciful",
+  "description": "to give grace, show favor, be merciful",
+  "related": [
+    "chanun",
+    "chen"
+  ],
   "wordIndexes": {},
   "usage": {},
   "translationConnections": []

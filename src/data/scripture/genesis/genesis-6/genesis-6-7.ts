@@ -1,0 +1,424 @@
+import { Verse } from '@/types';
+
+export const genesis_6_7: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 6,
+    verse: 7,
+  },
+  words: [
+    {
+      hebrew: 'וַיֹּאמֶר',
+      transliteration: 'vayYomer',
+      englishLiteral: 'And-he-said',
+      englishNatural: 'said',
+      root: 'amar',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'יְהוָה',
+      transliteration: 'YHWH',
+      englishLiteral: 'He_Who_Is',
+      englishNatural: 'And He-Who-Is',
+      root: 'yhwh',
+      order: {
+        hebrew: 2,
+        english: 1,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
+    },
+    {
+      hebrew: 'אֶמְחֶה',
+      transliteration: 'emcheh',
+      englishLiteral: 'I-will-wipe_out',
+      englishNatural: 'I will wipe-out',
+      root: 'machah',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '1st',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarPrefix: {
+        englishLiteral: '"',
+        englishNatural: '"',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'הָאָדָם',
+      transliteration: 'haAdam',
+      englishLiteral: 'the-human',
+      englishNatural: 'the human',
+      root: 'adam',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֲשֶׁר־',
+      transliteration: 'asher-',
+      englishLiteral: 'which-',
+      englishNatural: 'which',
+      root: 'asher',
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        type: 'relative',
+      },
+    },
+    {
+      hebrew: 'בָּרָאתִי',
+      transliteration: 'barati',
+      englishLiteral: 'I-created',
+      englishNatural: 'I created',
+      root: 'bara',
+      suffixes: ['ti'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'מֵעַל',
+      transliteration: 'meAl',
+      englishLiteral: 'from-over',
+      englishNatural: 'from over',
+      root: 'al',
+      prefixes: ['me'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'פְּנֵי',
+      transliteration: 'peney',
+      englishLiteral: 'face-of',
+      englishNatural: 'the face of',
+      root: 'panah',
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָאֲדָמָה',
+      transliteration: 'haAdamah',
+      englishLiteral: 'the-ground',
+      englishNatural: 'the ground',
+      root: 'adamah',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'מֵאָדָם',
+      transliteration: 'meAdam',
+      englishLiteral: 'from-human',
+      englishNatural: 'from human',
+      root: 'adam',
+      prefixes: ['me'],
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'עַד־',
+      transliteration: 'ad-',
+      englishLiteral: 'unto-',
+      englishNatural: 'unto',
+      root: 'ad',
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'בְּהֵמָה',
+      transliteration: 'behemah',
+      englishLiteral: 'beast',
+      englishNatural: 'beast',
+      root: 'behemah',
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'עַד־',
+      transliteration: 'ad-',
+      englishLiteral: 'unto-',
+      englishNatural: 'unto',
+      root: 'ad',
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'רֶמֶשׂ',
+      transliteration: 'remes',
+      englishLiteral: 'creeping_thing',
+      englishNatural: 'creeping-thing',
+      root: 'remes',
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְעַד־',
+      transliteration: 'vead-',
+      englishLiteral: 'and-unto-',
+      englishNatural: 'and unto',
+      root: 'ad',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'עוֹף',
+      transliteration: 'oph',
+      englishLiteral: 'bird-of',
+      englishNatural: 'bird of',
+      root: 'oph',
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַשָּׁמַיִם',
+      transliteration: 'haShamayim',
+      englishLiteral: 'the-skies',
+      englishNatural: 'the skies',
+      root: 'shamayim',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 18,
+        english: 18,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'dual',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'כִּי',
+      transliteration: 'ki',
+      englishLiteral: 'that',
+      englishNatural: 'for',
+      root: 'ki',
+      order: {
+        hebrew: 19,
+        english: 19,
+      },
+      morphology: {
+        type: 'conjunction',
+      },
+    },
+    {
+      hebrew: 'נִחַמְתִּי',
+      transliteration: 'nichamti',
+      englishLiteral: 'I-have-relented',
+      englishNatural: 'I have relented',
+      root: 'nacham',
+      suffixes: ['ti'],
+      order: {
+        hebrew: 20,
+        english: 20,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'niphal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'כִּי',
+      transliteration: 'ki',
+      englishLiteral: 'that',
+      englishNatural: 'that',
+      root: 'ki',
+      order: {
+        hebrew: 21,
+        english: 21,
+      },
+      morphology: {
+        type: 'conjunction',
+      },
+    },
+    {
+      hebrew: 'עֲשִׂיתִם',
+      transliteration: 'asitim',
+      englishLiteral: 'I-have-made-them',
+      englishNatural: 'I have made them',
+      root: 'asah',
+      suffixes: ['tem'],
+      order: {
+        hebrew: 22,
+        english: 22,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: '."',
+        englishNatural: '."',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַיֹּאמֶר יְהוָה אֶמְחֶה אֶת־הָאָדָם אֲשֶׁר־בָּרָאתִי מֵעַל פְּנֵי הָאֲדָמָה מֵאָדָם עַד־בְּהֵמָה עַד־רֶמֶשׂ וְעַד־עוֹף הַשָּׁמַיִם כִּי נִחַמְתִּי כִּי עֲשִׂיתִם',
+    transliteration:
+      'vayYomer YHWH emcheh et-haAdam asher-barati meAl peney haAdamah meAdam ad-behemah ad-remes vead-oph haShamayim ki nichamti ki asitim',
+    englishLiteral:
+      'And-he-said He_Who_Is, "I-will-wipe_out ↳ the-human which- I-created from-over face-of the-ground, from-human unto- beast, unto- creeping_thing, and-unto- bird-of the-skies; that I-have-relented that I-have-made-them."',
+    englishNatural:
+      'And He-Who-Is said, "I will wipe-out the human which I created from over the face of the ground, from human unto beast, unto creeping-thing, and unto bird of the skies; for I have relented that I have made them."',
+    kjv: 'And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+  },
+};

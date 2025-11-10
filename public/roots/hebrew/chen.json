@@ -1,0 +1,24 @@
+{
+  "key": "chen",
+  "hebrew": "חן",
+  "transliteration": "chen",
+  "englishLiteral": "grace",
+  "englishNatural": "grace",
+  "type": "noun",
+  "description": "grace, favor, charm, kindness",
+  "related": [
+    "chanan",
+    "chanun"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "8": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "atzav",
+  "hebrew": "עצב",
+  "transliteration": "atzav",
+  "englishLiteral": "to grieve",
+  "englishNatural": "to grieve",
+  "type": "verb",
+  "description": "to grieve, pain, hurt, be sorrowful",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "6": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,23 @@
+{
+  "key": "remes",
+  "hebrew": "רמש",
+  "transliteration": "remes",
+  "englishLiteral": "creeping_thing",
+  "englishNatural": "creeping-thing",
+  "type": "noun",
+  "description": "creeping thing, moving thing, reptile",
+  "related": [
+    "ramas"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "7": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

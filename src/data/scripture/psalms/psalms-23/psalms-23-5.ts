@@ -186,7 +186,7 @@ export const psalms_23_5: Verse = {
       transliteration: 'revayah',
       englishLiteral: 'overflowing',
       englishNatural: 'overflowing',
-      root: 'ravah',
+      root: 'rabah',
       order: {
         hebrew: 10,
         english: 10,
@@ -211,6 +211,6 @@ export const psalms_23_5: Verse = {
     englishLiteral: 'you-prepare to-my-face table, in-presence-of my-enemies; you-anoint with-oil my-head, my-cup, overflowing.',
     englishNatural: 'you prepare to my face a table, in the presence of my enemies; you anoint with oil my head, my cup, overflowing.',
     kjv: 'Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-16' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
   },
 }; 

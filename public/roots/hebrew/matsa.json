@@ -1,0 +1,20 @@
+{
+  "key": "matsa",
+  "hebrew": "מצא",
+  "transliteration": "matsa",
+  "englishLiteral": "to find",
+  "englishNatural": "to find",
+  "type": "verb",
+  "description": "to find, discover, meet, obtain, reach",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "8": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

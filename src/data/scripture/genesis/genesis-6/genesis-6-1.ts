@@ -87,7 +87,7 @@ export const genesis_6_1: Verse = {
       transliteration: 'laRov',
       englishLiteral: 'to-multiply',
       englishNatural: 'to multiply',
-      root: 'ravah',
+      root: 'rabah',
       prefixes: ['la'],
       order: {
         hebrew: 5,
@@ -223,6 +223,6 @@ export const genesis_6_1: Verse = {
     englishNatural:
       'And it was, that the human began to multiply over the face of the soil; and daughters were birthed to them.',
     kjv: 'And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
   },
 };

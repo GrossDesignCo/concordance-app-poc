@@ -1,0 +1,297 @@
+import { Verse } from '@/types';
+
+export const genesis_6_5: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 6,
+    verse: 5,
+  },
+  words: [
+    {
+      hebrew: 'וַיַּרְא',
+      transliteration: 'vayYar',
+      englishLiteral: 'And-he-saw',
+      englishNatural: 'saw',
+      root: 'raah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+    },
+    {
+      hebrew: 'יְהוָה',
+      transliteration: 'YHWH',
+      englishLiteral: 'He_Who_Is',
+      englishNatural: 'And He-Who-Is',
+      root: 'yhwh',
+      order: {
+        hebrew: 2,
+        english: 1,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'כִּי',
+      transliteration: 'ki',
+      englishLiteral: 'that',
+      englishNatural: 'that',
+      root: 'ki',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        type: 'conjunction',
+      },
+    },
+    {
+      hebrew: 'רַבָּה',
+      transliteration: 'rabbah',
+      englishLiteral: 'multiplying-was',
+      englishNatural: 'was multiplying',
+      root: 'rabah',
+      order: {
+        hebrew: 4,
+        english: 6,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'רָעַת',
+      transliteration: 'raat',
+      englishLiteral: 'bad-of',
+      englishNatural: 'the bad of',
+      root: 'raah_bad',
+      order: {
+        hebrew: 5,
+        english: 4,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָאָדָם',
+      transliteration: 'haAdam',
+      englishLiteral: 'the-human',
+      englishNatural: 'Human (Adam)',
+      root: 'adam',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 6,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'בָּאָרֶץ',
+      transliteration: 'baAretz',
+      englishLiteral: 'in-the-land',
+      englishNatural: 'in the land',
+      root: 'eretz',
+      prefixes: ['ba'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְכָל־',
+      transliteration: 'vekhol-',
+      englishLiteral: 'and-all-',
+      englishNatural: 'and all',
+      root: 'kol',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'יֵצֶר',
+      transliteration: 'yetzer',
+      englishLiteral: 'forming-of',
+      englishNatural: 'the forming of',
+      root: 'yetzer',
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'מַחְשְׁבֹת',
+      transliteration: 'machshevot',
+      englishLiteral: 'thoughts-of',
+      englishNatural: 'thoughts of',
+      root: 'machashavah',
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לִבּוֹ',
+      transliteration: 'libbo',
+      englishLiteral: 'heart-his',
+      englishNatural: 'his heart',
+      root: 'lev',
+      prefixes: ['le'],
+      suffixes: ['o'],
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'רַק',
+      transliteration: 'raq',
+      englishLiteral: 'only',
+      englishNatural: 'only',
+      root: 'raq',
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'רַע',
+      transliteration: 'ra',
+      englishLiteral: 'bad',
+      englishNatural: 'bad',
+      root: 'ra',
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'adjective',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'כָּל־',
+      transliteration: 'kol-',
+      englishLiteral: 'all-',
+      englishNatural: 'all',
+      root: 'kol',
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַיּוֹם',
+      transliteration: 'haYom',
+      englishLiteral: 'the-day',
+      englishNatural: 'the day',
+      root: 'yom',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַיַּרְא יְהוָה כִּי רַבָּה רָעַת הָאָדָם בָּאָרֶץ וְכָל־יֵצֶר מַחְשְׁבֹת לִבּוֹ רַק רַע כָּל־הַיּוֹם',
+    transliteration:
+      'vayYar YHWH ki rabbah raat haAdam baAretz vekhol-yetzer machshevot libbo raq ra kol-haYom',
+    englishLiteral:
+      'And-he-saw He_Who_Is that multiplying-was bad-of the-human in-the-land, and-all- forming-of thoughts-of heart-his, only bad, all- the-day.',
+    englishNatural:
+      'And He-Who-Is saw that the bad of Human (Adam) was multiplying in the land, and all the forming of thoughts of his heart, only bad, all the day.',
+    kjv: 'And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+  },
+};

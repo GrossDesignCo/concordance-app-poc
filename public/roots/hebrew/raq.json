@@ -1,0 +1,20 @@
+{
+  "key": "raq",
+  "hebrew": "רק",
+  "transliteration": "raq",
+  "englishLiteral": "only",
+  "englishNatural": "only",
+  "type": "adverb",
+  "description": "only, altogether, surely, but",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "5": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

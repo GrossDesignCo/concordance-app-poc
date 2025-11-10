@@ -4,7 +4,7 @@
   "transliteration": "halakh",
   "englishLiteral": "to walk",
   "englishNatural": "to walk",
-  "description": "to go, to walk, to travel",
+  "description": "to walk, go, proceed, travel, live, behave",
   "type": "verb",
   "wordIndexes": {
     "genesis": {
@@ -27,6 +27,11 @@
         ],
         "24": [
           0
+        ]
+      },
+      "6": {
+        "9": [
+          11
         ]
       }
     },

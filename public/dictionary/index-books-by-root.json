@@ -612,10 +612,6 @@
   "parah": [
     "genesis"
   ],
-  "ravah": [
-    "genesis",
-    "psalms"
-  ],
   "male": [
     "genesis",
     "isaiah"
@@ -1119,7 +1115,8 @@
     "genesis"
   ],
   "rabah": [
-    "genesis"
+    "genesis",
+    "psalms"
   ],
   "heron": [
     "genesis"
@@ -1352,6 +1349,7 @@
     "psalms"
   ],
   "lev": [
+    "genesis",
     "psalms"
   ],
   "pala": [
@@ -1950,7 +1948,8 @@
     "exodus"
   ],
   "dor": [
-    "exodus"
+    "exodus",
+    "genesis"
   ],
   "anan": [
     "exodus"
@@ -2055,6 +2054,7 @@
     "jonah"
   ],
   "chamas": [
+    "genesis",
     "jonah"
   ],
   "kaph": [
@@ -2238,6 +2238,7 @@
     "jonah"
   ],
   "shachat": [
+    "genesis",
     "jonah"
   ],
   "ataf": [
@@ -2260,6 +2261,51 @@
   ],
   "yeshuah": [
     "jonah"
+  ],
+  "raah_bad": [
+    "genesis"
+  ],
+  "yetzer": [
+    "genesis"
+  ],
+  "machashavah": [
+    "genesis"
+  ],
+  "raq": [
+    "genesis"
+  ],
+  "atzav": [
+    "genesis"
+  ],
+  "machah": [
+    "genesis"
+  ],
+  "remes": [
+    "genesis"
+  ],
+  "oph": [
+    "genesis"
+  ],
+  "noach": [
+    "genesis"
+  ],
+  "matsa": [
+    "genesis"
+  ],
+  "chen": [
+    "genesis"
+  ],
+  "eleh": [
+    "genesis"
+  ],
+  "tzaddiq": [
+    "genesis"
+  ],
+  "tamim": [
+    "genesis"
+  ],
+  "hineh": [
+    "genesis"
   ],
   "en": [
     "john",

@@ -1,0 +1,20 @@
+{
+  "key": "eleh",
+  "hebrew": "אלה",
+  "transliteration": "eleh",
+  "englishLiteral": "these",
+  "englishNatural": "these",
+  "type": "pronoun",
+  "description": "these, those (demonstrative pronoun)",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "9": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "tamim",
+  "hebrew": "תמים",
+  "transliteration": "tamim",
+  "englishLiteral": "blameless",
+  "englishNatural": "blameless",
+  "type": "adjective",
+  "description": "blameless, complete, perfect, whole, sound",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "9": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

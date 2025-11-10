@@ -2,15 +2,23 @@
   "key": "nacham",
   "hebrew": "נָחַם",
   "transliteration": "nacham",
-  "englishLiteral": "to comfort",
-  "englishNatural": "to comfort",
+  "englishLiteral": "to relent",
+  "englishNatural": "to relent",
   "type": "verb",
-  "description": "to comfort, console, have compassion",
+  "description": "to relent, to change the mind, to sigh deeply, to comfort, console, have compassion",
   "wordIndexes": {
     "genesis": {
       "5": {
         "29": [
           6
+        ]
+      },
+      "6": {
+        "6": [
+          0
+        ],
+        "7": [
+          19
         ]
       }
     },

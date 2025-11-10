@@ -1,0 +1,23 @@
+{
+  "key": "tzaddiq",
+  "hebrew": "צדיק",
+  "transliteration": "tzaddiq",
+  "englishLiteral": "righteous",
+  "englishNatural": "righteous",
+  "type": "adjective",
+  "description": "righteous, just, lawful, correct",
+  "related": [
+    "tzedeq"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "9": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -2,12 +2,13 @@
   "key": "chanun",
   "hebrew": "חנון",
   "transliteration": "chanun",
-  "englishLiteral": "gracious",
-  "englishNatural": "gracious",
+  "englishLiteral": "graceful",
+  "englishNatural": "graceful",
   "type": "adjective",
-  "description": "gracious, showing favor, kind",
+  "description": "graceful, gracious, showing favor, kind",
   "related": [
-    "chanan"
+    "chanan",
+    "chen"
   ],
   "wordIndexes": {
     "exodus": {

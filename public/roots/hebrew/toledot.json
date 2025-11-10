@@ -7,13 +7,19 @@
   "type": "noun",
   "description": "generations, descendants, genealogies, family history",
   "related": [
-    "yalad"
+    "yalad",
+    "dor"
   ],
   "wordIndexes": {
     "genesis": {
       "5": {
         "1": [
           2
+        ]
+      },
+      "6": {
+        "9": [
+          1
         ]
       }
     }

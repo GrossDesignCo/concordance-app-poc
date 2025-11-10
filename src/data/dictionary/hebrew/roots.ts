@@ -1131,13 +1131,6 @@ const ROOTS = {
     related: ['peri'],
     type: 'verb',
   },
-  ravah: {
-    hebrew: 'רבה',
-    transliteration: 'ravah',
-    englishLiteral: 'to multiply',
-    englishNatural: 'to multiply',
-    type: 'verb',
-  },
   male: {
     hebrew: 'מלא',
     transliteration: 'male',
@@ -1676,7 +1669,7 @@ const ROOTS = {
     transliteration: 'halakh',
     englishLiteral: 'to walk',
     englishNatural: 'to walk',
-    description: 'to go, to walk, to travel',
+    description: 'to walk, go, proceed, travel, live, behave',
     type: 'verb',
   },
   ashur: {
@@ -2279,8 +2272,8 @@ const ROOTS = {
     englishLiteral: 'to multiply',
     englishNatural: 'to multiply',
     type: 'verb',
-    description: 'to multiply, increase, become many',
-    related: ['harbah'],
+    description: 'to multiply, increase, become many, be great, be numerous',
+    related: ['harbah', 'rav'],
   },
   heron: {
     hebrew: 'הֵרָיוֹן',
@@ -2767,10 +2760,11 @@ const ROOTS = {
   nacham: {
     hebrew: 'נָחַם',
     transliteration: 'nacham',
-    englishLiteral: 'to comfort',
-    englishNatural: 'to comfort',
+    englishLiteral: 'to relent',
+    englishNatural: 'to relent',
     type: 'verb',
-    description: 'to comfort, console, have compassion',
+    description:
+      'to relent, to change the mind, to sigh deeply, to comfort, console, have compassion',
   },
   tzel: {
     hebrew: 'צֵל',
@@ -3816,7 +3810,7 @@ const ROOTS = {
     englishNatural: 'generations',
     type: 'noun',
     description: 'generations, descendants, genealogies, family history',
-    related: ['yalad'],
+    related: ['yalad', 'dor'],
   },
   // Genesis 5:3 additions
   shloshim: {
@@ -4560,6 +4554,7 @@ const ROOTS = {
     englishNatural: 'generation',
     type: 'noun',
     description: 'generation, age, period of time',
+    related: ['toledot'],
   },
   // Exodus 34:5 additions
   anan: {
@@ -4592,11 +4587,11 @@ const ROOTS = {
   chanun: {
     hebrew: 'חנון',
     transliteration: 'chanun',
-    englishLiteral: 'gracious',
-    englishNatural: 'gracious',
+    englishLiteral: 'graceful',
+    englishNatural: 'graceful',
     type: 'adjective',
-    description: 'gracious, showing favor, kind',
-    related: ['chanan'],
+    description: 'graceful, gracious, showing favor, kind',
+    related: ['chanan', 'chen'],
   },
   erekh: {
     hebrew: 'ארך',
@@ -4618,10 +4613,11 @@ const ROOTS = {
   chanan: {
     hebrew: 'חנן',
     transliteration: 'chanan',
-    englishLiteral: 'to be_gracious',
-    englishNatural: 'to be-gracious',
+    englishLiteral: 'to give_grace',
+    englishNatural: 'to give-grace',
     type: 'verb',
-    description: 'to be gracious, show favor, be merciful',
+    description: 'to give grace, show favor, be merciful',
+    related: ['chanun', 'chen'],
   },
   panim: {
     hebrew: 'פנים',
@@ -5463,6 +5459,139 @@ const ROOTS = {
     englishNatural: 'salvation',
     type: 'noun',
     description: 'salvation, deliverance, victory, help',
+  },
+  // Genesis 6:5 additions
+  raah_bad: {
+    hebrew: 'רעה',
+    transliteration: 'raah',
+    englishLiteral: 'bad',
+    englishNatural: 'bad',
+    type: 'noun',
+    description: 'bad, wickedness, badness, harm',
+    related: ['ra'],
+  },
+  yetzer: {
+    hebrew: 'יצר',
+    transliteration: 'yetzer',
+    englishLiteral: 'forming',
+    englishNatural: 'forming',
+    type: 'noun',
+    description: 'forming, imagination, form, purpose, framing',
+    related: ['yatsar'],
+  },
+  machashavah: {
+    hebrew: 'מחשבה',
+    transliteration: 'machashavah',
+    englishLiteral: 'thought',
+    englishNatural: 'thought',
+    type: 'noun',
+    description: 'thought, plan, device, purpose',
+    related: ['chashav'],
+  },
+  raq: {
+    hebrew: 'רק',
+    transliteration: 'raq',
+    englishLiteral: 'only',
+    englishNatural: 'only',
+    type: 'adverb',
+    description: 'only, altogether, surely, but',
+  },
+  // Genesis 6:6 additions
+  atzav: {
+    hebrew: 'עצב',
+    transliteration: 'atzav',
+    englishLiteral: 'to grieve',
+    englishNatural: 'to grieve',
+    type: 'verb',
+    description: 'to grieve, pain, hurt, be sorrowful',
+  },
+  // Genesis 6:7 additions
+  machah: {
+    hebrew: 'מחה',
+    transliteration: 'machah',
+    englishLiteral: 'to wipe_out',
+    englishNatural: 'to wipe-out',
+    type: 'verb',
+    description: 'to blot out, wipe out, erase, destroy',
+  },
+  remes: {
+    hebrew: 'רמש',
+    transliteration: 'remes',
+    englishLiteral: 'creeping_thing',
+    englishNatural: 'creeping-thing',
+    type: 'noun',
+    description: 'creeping thing, moving thing, reptile',
+    related: ['ramas'],
+  },
+  oph: {
+    hebrew: 'עוף',
+    transliteration: 'oph',
+    englishLiteral: 'bird',
+    englishNatural: 'bird',
+    type: 'noun',
+    description: 'bird, fowl, flying creature',
+  },
+  // Genesis 6:8 additions
+  noach: {
+    hebrew: 'נח',
+    transliteration: 'noach',
+    englishLiteral: 'Rest (Noah)',
+    englishNatural: 'Rest (Noah)',
+    type: 'noun',
+    description: 'Noah (rest, comfort), name of the flood survivor',
+    related: ['nuach'],
+  },
+  matsa: {
+    hebrew: 'מצא',
+    transliteration: 'matsa',
+    englishLiteral: 'to find',
+    englishNatural: 'to find',
+    type: 'verb',
+    description: 'to find, discover, meet, obtain, reach',
+  },
+  chen: {
+    hebrew: 'חן',
+    transliteration: 'chen',
+    englishLiteral: 'grace',
+    englishNatural: 'grace',
+    type: 'noun',
+    description: 'grace, favor, charm, kindness',
+    related: ['chanan', 'chanun'],
+  },
+  // Genesis 6:9 additions
+  eleh: {
+    hebrew: 'אלה',
+    transliteration: 'eleh',
+    englishLiteral: 'these',
+    englishNatural: 'these',
+    type: 'pronoun',
+    description: 'these, those (demonstrative pronoun)',
+  },
+  tzaddiq: {
+    hebrew: 'צדיק',
+    transliteration: 'tzaddiq',
+    englishLiteral: 'righteous',
+    englishNatural: 'righteous',
+    type: 'adjective',
+    description: 'righteous, just, lawful, correct',
+    related: ['tzedeq'],
+  },
+  tamim: {
+    hebrew: 'תמים',
+    transliteration: 'tamim',
+    englishLiteral: 'blameless',
+    englishNatural: 'blameless',
+    type: 'adjective',
+    description: 'blameless, complete, perfect, whole, sound',
+  },
+  // Genesis 6:12 additions
+  hineh: {
+    hebrew: 'הנה',
+    transliteration: 'hineh',
+    englishLiteral: 'behold',
+    englishNatural: 'behold',
+    type: 'interjection',
+    description: 'behold, look, see (draws attention)',
   },
 } as const;
 

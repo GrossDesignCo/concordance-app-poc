@@ -1,0 +1,23 @@
+{
+  "key": "raah_bad",
+  "hebrew": "רעה",
+  "transliteration": "raah",
+  "englishLiteral": "bad",
+  "englishNatural": "bad",
+  "type": "noun",
+  "description": "bad, wickedness, badness, harm",
+  "related": [
+    "ra"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "5": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}
