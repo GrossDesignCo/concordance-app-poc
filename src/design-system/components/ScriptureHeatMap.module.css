@@ -30,6 +30,11 @@
   gap: 3px;
 }
 
+/* TODO: Safari issue, chapters don't properly use their intrinsic width when in a flex container */
+/* .chapter {
+  flex-basis: max-content;
+} */
+
 .chapterNumber {
   font-size: 0.65rem;
 }

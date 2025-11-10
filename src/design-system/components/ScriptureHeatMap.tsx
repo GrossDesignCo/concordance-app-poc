@@ -56,7 +56,7 @@ export async function ScriptureHeatMap({
 
               <div className={styles.chapters}>
                 {Object.entries(book.chapters).map(([chapterKey, chapter]) => (
-                  <div key={chapterKey}>
+                  <div key={chapterKey} className={styles.chapter}>
                     {mode === 'full-page' && (
                       <span className={styles.chapterNumber}>
                         {chapter.chapterNumber}
