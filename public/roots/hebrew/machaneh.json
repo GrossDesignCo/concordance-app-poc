@@ -1,0 +1,20 @@
+{
+  "key": "machaneh",
+  "hebrew": "מחנה",
+  "transliteration": "machaneh",
+  "englishLiteral": "camp",
+  "englishNatural": "camp",
+  "type": "noun",
+  "description": "camp, encampment, army camp, host",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "24": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

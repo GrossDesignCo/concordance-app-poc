@@ -1,0 +1,37 @@
+{
+  "key": "ophan",
+  "hebrew": "אופן",
+  "transliteration": "ophan",
+  "englishLiteral": "wheel",
+  "englishNatural": "wheel",
+  "type": "noun",
+  "description": "wheel, wheel of a chariot",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "15": [
+          3
+        ],
+        "16": [
+          1,
+          12,
+          14
+        ],
+        "19": [
+          3,
+          10
+        ],
+        "20": [
+          10,
+          16
+        ],
+        "21": [
+          8,
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

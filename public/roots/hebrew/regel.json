@@ -6,6 +6,24 @@
   "englishNatural": "foot",
   "type": "noun",
   "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "7": [
+          0,
+          1,
+          4,
+          6
+        ]
+      },
+      "2": {
+        "1": [
+          6
+        ],
+        "2": [
+          8
+        ]
+      }
+    },
     "isaiah": {
       "6": {
         "2": [

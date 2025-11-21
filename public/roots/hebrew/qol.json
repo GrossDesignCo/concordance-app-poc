@@ -6,6 +6,23 @@
   "englishNatural": "voice",
   "type": "noun",
   "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "24": [
+          2,
+          4,
+          7,
+          10,
+          12
+        ],
+        "25": [
+          1
+        ],
+        "28": [
+          21
+        ]
+      }
+    },
     "genesis": {
       "3": {
         "8": [

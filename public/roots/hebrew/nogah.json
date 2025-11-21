@@ -1,0 +1,29 @@
+{
+  "key": "nogah",
+  "hebrew": "נגה",
+  "transliteration": "nogah",
+  "englishLiteral": "brightness",
+  "englishNatural": "brightness",
+  "type": "noun",
+  "description": "brightness, shining, radiance",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "4": [
+          11
+        ],
+        "13": [
+          12
+        ],
+        "27": [
+          17
+        ],
+        "28": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

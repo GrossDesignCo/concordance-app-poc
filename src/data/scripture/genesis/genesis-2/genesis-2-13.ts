@@ -96,8 +96,8 @@ export const genesis_2_13: Verse = {
     {
       hebrew: 'הַסּוֹבֵב',
       transliteration: 'haSovev',
-      englishLiteral: 'the-surrounding',
-      englishNatural: 'surrounds',
+      englishLiteral: 'the-going_around',
+      englishNatural: 'goes-around',
       root: 'savav',
       prefixes: ['ha'],
       order: {
@@ -176,10 +176,10 @@ export const genesis_2_13: Verse = {
     transliteration:
       'veShem-haNahar haSheni Gichon hu haSovev et kol-eretz Kush',
     englishLiteral:
-      'and-name- the-river the-second, Gusher (Gichon); he the-surrounding ↳ all- land Black (Kush).',
+      'and-name- the-river the-second, Gusher (Gichon); he the-going_around ↳ all- land Black (Kush).',
     englishNatural:
-      'And the name of the second river, Gusher (Gichon); it surrounds all the land of Black (Kush).',
+      'And the name of the second river, Gusher (Gichon); it goes-around all the land of Black (Kush).',
     kjv: 'And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
   },
 };

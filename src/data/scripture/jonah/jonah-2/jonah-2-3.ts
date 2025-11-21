@@ -109,8 +109,8 @@ export const jonah_2_3: Verse = {
     {
       hebrew: 'יְסֹבְבֵנִי',
       transliteration: 'yesoveveni',
-      englishLiteral: 'surrounds-me',
-      englishNatural: 'surrounds me',
+      englishLiteral: 'goes_around-me',
+      englishNatural: 'goes-around me',
       root: 'savav',
       suffixes: ['ni'],
       order: {
@@ -231,10 +231,10 @@ export const jonah_2_3: Verse = {
     transliteration:
       'vaTaShlikheni metzulah biLevav yamim veNahar yesoveveni kol-mishbarekha veGalekha alay avaru',
     englishLiteral:
-      'And-you-sent-me deep, in-heart-of seas; and-river surrounds-me; all- breakers-your and-waves-your, over-me passed.',
+      'And-you-sent-me deep, in-heart-of seas; and-river goes_around-me; all- breakers-your and-waves-your, over-me passed.',
     englishNatural:
-      'And you sent me into the deep, in the heart of the seas; and the river surrounds me; all your breakers and your waves, over me have passed.',
+      'And you sent me into the deep, in the heart of the seas; and the river goes-around me; all your breakers and your waves, over me have passed.',
     kjv: 'For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
   },
 };

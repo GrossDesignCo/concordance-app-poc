@@ -7,6 +7,27 @@
   "description": "a direct object marker, points to the object of the verb",
   "type": "particle",
   "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "11": [
+          10
+        ],
+        "23": [
+          15
+        ],
+        "24": [
+          1
+        ]
+      },
+      "2": {
+        "1": [
+          8
+        ],
+        "2": [
+          10
+        ]
+      }
+    },
     "genesis": {
       "1": {
         "1": [

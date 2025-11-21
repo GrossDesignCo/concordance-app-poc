@@ -1,0 +1,20 @@
+{
+  "key": "lappid",
+  "hebrew": "לפיד",
+  "transliteration": "lappid",
+  "englishLiteral": "torch",
+  "englishNatural": "torch",
+  "type": "noun",
+  "description": "torch, lamp, firebrand, lightning flash",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "13": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -376,6 +376,29 @@ const SUFFIXES = {
     englishNatural: 'her',
     function: '3rd person feminine singular object',
   },
+  // Ezekiel 1:8 additions
+  tam: {
+    hebrew: 'תָּם',
+    transliteration: 'tam',
+    englishLiteral: 'them',
+    englishNatural: 'them',
+    function: '3rd person masculine plural suffix with numerals',
+  },
+  henah: {
+    hebrew: 'הֵנָּה',
+    transliteration: 'henah',
+    englishLiteral: 'them',
+    englishNatural: 'them',
+    function: '3rd person feminine plural suffix',
+  },
+  // Ezekiel 1:9 additions
+  tan: {
+    hebrew: 'תָּן',
+    transliteration: 'tan',
+    englishLiteral: 'their',
+    englishNatural: 'their',
+    function: '3rd person feminine plural possessive with infinitive construct',
+  },
 } as const;
 
 type SuffixKey = keyof typeof SUFFIXES;

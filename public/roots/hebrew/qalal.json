@@ -1,0 +1,20 @@
+{
+  "key": "qalal",
+  "hebrew": "קלל",
+  "transliteration": "qalal",
+  "englishLiteral": "polished",
+  "englishNatural": "polished",
+  "type": "adjective",
+  "description": "polished, burnished, bright, smooth",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "7": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -8,7 +8,7 @@ from-belly-of Hades I-cried_out,
 you-heard voice-my.
 
 And-you-sent-me deep, in-heart-of seas; 
-and-river surrounds-me; 
+and-river goes_around-me; 
 all- breakers-your and-waves-your, over-me passed.
 
 And-I said, 
@@ -16,7 +16,7 @@ And-I said,
 Only I-will-add, to-look to- temple-of holiness-your.'
 
 Surrounded-me waters, unto- throat; 
-abyss surrounds-me; 
+abyss goes_around-me; 
 reed binds, to-head-my.
 
 I-went_down to-cutoffs-of mountains; 

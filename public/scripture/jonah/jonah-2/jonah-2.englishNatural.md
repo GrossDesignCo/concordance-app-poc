@@ -8,7 +8,7 @@ from the belly of Hades I cried-out,
 you heard my voice.
 
 And you sent me into the deep, in the heart of the seas; 
-and the river surrounds me; 
+and the river goes-around me; 
 all your breakers and your waves, over me have passed.
 
 And I said, 
@@ -16,7 +16,7 @@ And I said,
 Only I will add, to look to the temple of your holiness.'
 
 Waters have surrounded me, unto the throat; 
-the abyss surrounds me; 
+the abyss goes-around me; 
 reed binds, to my head.
 
 I went down to the cutoffs of the mountains; 

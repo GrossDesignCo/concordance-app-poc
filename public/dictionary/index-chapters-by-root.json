@@ -1,5 +1,8 @@
 {
   "rosh": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -48,6 +51,9 @@
     "exodus": [
       3
     ],
+    "ezekiel": [
+      2
+    ],
     "genesis": [
       1,
       2,
@@ -70,6 +76,9 @@
     ]
   },
   "hayah": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -97,6 +106,9 @@
     ]
   },
   "eretz": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -140,6 +152,9 @@
     ]
   },
   "panah": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -169,6 +184,10 @@
     ]
   },
   "ruach": {
+    "ezekiel": [
+      1,
+      2
+    ],
     "genesis": [
       1,
       3,
@@ -188,6 +207,9 @@
     ]
   },
   "mayim": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1
     ],
@@ -277,6 +299,9 @@
     ]
   },
   "raah": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -368,6 +393,9 @@
     ]
   },
   "chayah": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -417,6 +445,9 @@
     ]
   },
   "ishah": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2,
       3,
@@ -450,6 +481,10 @@
     "exodus": [
       3
     ],
+    "ezekiel": [
+      1,
+      2
+    ],
     "genesis": [
       1,
       2,
@@ -472,6 +507,9 @@
     "exodus": [
       3,
       34
+    ],
+    "ezekiel": [
+      1
     ],
     "genesis": [
       2,
@@ -509,6 +547,10 @@
       3,
       34
     ],
+    "ezekiel": [
+      1,
+      2
+    ],
     "genesis": [
       1,
       2,
@@ -542,6 +584,9 @@
     ]
   },
   "ki": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -571,6 +616,9 @@
   "lo": {
     "exodus": [
       34
+    ],
+    "ezekiel": [
+      1
     ],
     "genesis": [
       2,
@@ -622,6 +670,9 @@
     ]
   },
   "min": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -637,6 +688,9 @@
     ]
   },
   "tokh": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -647,6 +701,9 @@
     ]
   },
   "ken": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -672,6 +729,9 @@
     ]
   },
   "be": {
+    "ezekiel": [
+      2
+    ],
     "genesis": [
       1,
       2,
@@ -724,6 +784,9 @@
     "exodus": [
       34
     ],
+    "ezekiel": [
+      1
+    ],
     "jonah": [
       4
     ],
@@ -746,6 +809,10 @@
     ]
   },
   "bo": {
+    "ezekiel": [
+      1,
+      2
+    ],
     "genesis": [
       2,
       4,
@@ -775,6 +842,10 @@
     ]
   },
   "dabar": {
+    "ezekiel": [
+      1,
+      2
+    ],
     "jonah": [
       3
     ],
@@ -884,6 +955,9 @@
     ]
   },
   "nechoshet": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       4
     ],
@@ -892,6 +966,9 @@
     ]
   },
   "ish": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2,
       3,
@@ -966,6 +1043,10 @@
     ]
   },
   "et": {
+    "ezekiel": [
+      1,
+      2
+    ],
     "genesis": [
       1,
       2,
@@ -993,6 +1074,10 @@
   "al": {
     "exodus": [
       34
+    ],
+    "ezekiel": [
+      1,
+      2
     ],
     "genesis": [
       1,
@@ -1030,6 +1115,9 @@
     ]
   },
   "kenaf": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1
     ],
@@ -1043,6 +1131,10 @@
     ]
   },
   "regel": {
+    "ezekiel": [
+      1,
+      2
+    ],
     "isaiah": [
       6
     ]
@@ -1071,6 +1163,9 @@
     ]
   },
   "tachat": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -1104,6 +1199,9 @@
     ]
   },
   "hu": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2,
       3,
@@ -1118,6 +1216,9 @@
     ]
   },
   "echad": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -1132,6 +1233,9 @@
     ]
   },
   "shtayim": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       3,
@@ -1155,6 +1259,9 @@
     ]
   },
   "yad": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       3,
       4,
@@ -1233,6 +1340,9 @@
     ]
   },
   "beyn": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       3
@@ -1265,6 +1375,9 @@
     ]
   },
   "yom": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -1297,6 +1410,9 @@
     ]
   },
   "raqia": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1
     ]
@@ -1410,6 +1526,9 @@
     "exodus": [
       3
     ],
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2,
       5
@@ -1456,6 +1575,9 @@
     ]
   },
   "gadol": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       4
@@ -1553,6 +1675,9 @@
     ]
   },
   "male": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       6
@@ -1601,6 +1726,10 @@
     ]
   },
   "adam": {
+    "ezekiel": [
+      1,
+      2
+    ],
     "genesis": [
       1,
       2,
@@ -1621,6 +1750,9 @@
     ]
   },
   "demut": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       5
@@ -1712,6 +1844,10 @@
     ]
   },
   "amad": {
+    "ezekiel": [
+      1,
+      2
+    ],
     "isaiah": [
       6
     ],
@@ -1799,6 +1935,9 @@
     ]
   },
   "ayin": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2,
       3,
@@ -1879,6 +2018,9 @@
     "exodus": [
       34
     ],
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2,
       3
@@ -1897,6 +2039,9 @@
     ]
   },
   "mareh": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2
     ]
@@ -1918,11 +2063,17 @@
     ]
   },
   "parad": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2
     ]
   },
   "arba": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2,
       5
@@ -1979,6 +2130,9 @@
     ]
   },
   "savav": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2
     ],
@@ -1997,6 +2151,9 @@
     ]
   },
   "even": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2
     ]
@@ -2022,6 +2179,9 @@
     ]
   },
   "halakh": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2,
       3,
@@ -2064,6 +2224,9 @@
     ]
   },
   "naphal": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       2
     ],
@@ -2153,6 +2316,9 @@
     ]
   },
   "kisse": {
+    "ezekiel": [
+      1
+    ],
     "isaiah": [
       6
     ],
@@ -2206,6 +2372,9 @@
     "exodus": [
       34
     ],
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       4
     ],
@@ -2217,6 +2386,9 @@
     ]
   },
   "kavod": {
+    "ezekiel": [
+      1
+    ],
     "isaiah": [
       6
     ]
@@ -2237,6 +2409,9 @@
     ]
   },
   "qol": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       3,
       4
@@ -2257,6 +2432,9 @@
     ]
   },
   "bayit": {
+    "ezekiel": [
+      1
+    ],
     "isaiah": [
       6
     ],
@@ -2371,6 +2549,9 @@
     ]
   },
   "laqach": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       3,
       4,
@@ -2420,6 +2601,9 @@
     ]
   },
   "la": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       3
     ],
@@ -2434,6 +2618,10 @@
     ]
   },
   "shama": {
+    "ezekiel": [
+      1,
+      2
+    ],
     "genesis": [
       3,
       4
@@ -2467,6 +2655,9 @@
     ]
   },
   "yirah": {
+    "ezekiel": [
+      1
+    ],
     "jonah": [
       1
     ],
@@ -2475,6 +2666,9 @@
     ]
   },
   "mi": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       3
     ],
@@ -2505,6 +2699,9 @@
     ]
   },
   "hi": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       3,
       4
@@ -2599,6 +2796,9 @@
       3,
       34
     ],
+    "ezekiel": [
+      2
+    ],
     "genesis": [
       3,
       4,
@@ -2640,6 +2840,9 @@
     ]
   },
   "shuv": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       3
     ],
@@ -3171,6 +3374,9 @@
     ]
   },
   "lamed": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       4,
       6
@@ -3534,6 +3740,9 @@
     ]
   },
   "achot": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       4
     ]
@@ -3869,6 +4078,9 @@
     ]
   },
   "tarshish": {
+    "ezekiel": [
+      1
+    ],
     "jonah": [
       1,
       4
@@ -3914,6 +4126,9 @@
     ]
   },
   "saar": {
+    "ezekiel": [
+      1
+    ],
     "jonah": [
       1
     ]
@@ -4095,11 +4310,17 @@
   "anan": {
     "exodus": [
       34
+    ],
+    "ezekiel": [
+      1
     ]
   },
   "yatzav": {
     "exodus": [
       34
+    ],
+    "ezekiel": [
+      1
     ]
   },
   "rachum": {
@@ -4220,6 +4441,9 @@
     ]
   },
   "kasah": {
+    "ezekiel": [
+      1
+    ],
     "jonah": [
       3
     ]
@@ -4279,6 +4503,9 @@
     ]
   },
   "kaph": {
+    "ezekiel": [
+      1
+    ],
     "jonah": [
       3
     ]
@@ -4301,6 +4528,9 @@
     ]
   },
   "maaseh": {
+    "ezekiel": [
+      1
+    ],
     "jonah": [
       3
     ]
@@ -4442,11 +4672,17 @@
     ]
   },
   "yamin": {
+    "ezekiel": [
+      1
+    ],
     "jonah": [
       4
     ]
   },
   "smol": {
+    "ezekiel": [
+      1
+    ],
     "jonah": [
       4
     ]
@@ -4696,8 +4932,216 @@
     ]
   },
   "hineh": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       6
+    ]
+  },
+  "tzafon": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "esh": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "nogah": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "saviv": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "chashmal": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "yashar": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "egel": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "natzatz": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "qalal": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "reva": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "chavar": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "ever": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "aryeh": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "shor": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "nesher": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "maala": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "geviyah": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "shamah": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "gachal": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "baar": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "lappid": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "baraq": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "ratzo": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "bazaq": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "ophan": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "etzal": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "gav": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "govah": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "umat": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "kerach": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "nora": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "natah": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "shaddai": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "hamulah": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "machaneh": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "raphah": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "sappir": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "matnayim": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "mattah": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "qeshet": {
+    "ezekiel": [
+      1
+    ]
+  },
+  "geshem": {
+    "ezekiel": [
+      1
     ]
   },
   "en": {

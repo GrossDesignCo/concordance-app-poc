@@ -76,8 +76,8 @@ export const genesis_2_11: Verse = {
     {
       hebrew: 'הַסֹּבֵב',
       transliteration: 'haSovev',
-      englishLiteral: 'the-surrounding',
-      englishNatural: 'surrounds',
+      englishLiteral: 'the-going_around',
+      englishNatural: 'goes-around',
       root: 'savav',
       prefixes: ['ha'],
       order: {
@@ -202,10 +202,10 @@ export const genesis_2_11: Verse = {
     transliteration:
       'shem haEchad Pishon hu haSovev et kol-eretz haChavilah asher sham haZahav',
     englishLiteral:
-      'Name the-one, Spreading (Pishon); he the-surrounding ↳ all- land the-Strength (Havilah), which there the-gold.',
+      'Name the-one, Spreading (Pishon); he the-going_around ↳ all- land the-Strength (Havilah), which there the-gold.',
     englishNatural:
-      'The name of one, Spreading (Pishon); it surrounds all the land of Strength (Havilah), which there is the gold.',
+      'The name of one, Spreading (Pishon); it goes-around all the land of Strength (Havilah), which there is the gold.',
     kjv: 'The name of the first is Pishon: that is it which compasseth the whole land of Havilah, where there is gold;',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
   },
 };

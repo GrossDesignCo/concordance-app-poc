@@ -1,0 +1,20 @@
+{
+  "key": "aryeh",
+  "hebrew": "אריה",
+  "transliteration": "aryeh",
+  "englishLiteral": "lion",
+  "englishNatural": "lion",
+  "type": "noun",
+  "description": "lion",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "10": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,23 @@
+{
+  "key": "raphah",
+  "hebrew": "רפה",
+  "transliteration": "raphah",
+  "englishLiteral": "to sink",
+  "englishNatural": "to sink",
+  "type": "verb",
+  "description": "to sink, to let drop, to let hang down, to relax",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "24": [
+          15
+        ],
+        "25": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

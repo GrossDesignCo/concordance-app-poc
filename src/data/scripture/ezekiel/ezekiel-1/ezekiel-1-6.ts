@@ -1,0 +1,147 @@
+import { Verse } from '@/types';
+
+export const ezekiel_1_6: Verse = {
+  meta: {
+    book: 'Ezekiel',
+    chapter: 1,
+    verse: 6,
+  },
+  words: [
+    {
+      hebrew: 'וְאַרְבָּעָה',
+      transliteration: 'veArbaah',
+      englishLiteral: 'And-four',
+      englishNatural: 'And four',
+      root: 'arba',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        type: 'numeral',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'פָנִים',
+      transliteration: 'fanim',
+      englishLiteral: 'faces',
+      englishNatural: 'faces',
+      root: 'panah',
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לְאֶחָת',
+      transliteration: 'leEchat',
+      englishLiteral: 'to-one',
+      englishNatural: 'to one',
+      root: 'echad',
+      prefixes: ['le'],
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'numeral',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְאַרְבַּע',
+      transliteration: 'veArba',
+      englishLiteral: 'and-four',
+      englishNatural: 'and four',
+      root: 'arba',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'כְּנָפַיִם',
+      transliteration: 'kenafayim',
+      englishLiteral: 'wings',
+      englishNatural: 'wings',
+      root: 'kenaf',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'dual',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לְאַחַת',
+      transliteration: 'leAchat',
+      englishLiteral: 'to-one',
+      englishNatural: 'to one',
+      root: 'echad',
+      prefixes: ['le'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'numeral',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'לָהֶם',
+      transliteration: 'lahem',
+      englishLiteral: 'to-them',
+      englishNatural: 'to them',
+      root: 'lamed',
+      suffixes: ['hem'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew: 'וְאַרְבָּעָה פָנִים לְאֶחָת וְאַרְבַּע כְּנָפַיִם לְאַחַת לָהֶם',
+    transliteration: 'veArbaah fanim leEchat veArba kenafayim leAchat lahem',
+    englishLiteral: 'And-four faces to-one, and-four wings to-one to-them.',
+    englishNatural: 'And four faces to one, and four wings to one, to them.',
+    kjv: 'And every one had four faces, and every one had four wings.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+  },
+};

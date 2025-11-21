@@ -1,0 +1,372 @@
+import { Verse } from '@/types';
+
+export const ezekiel_1_4: Verse = {
+  meta: {
+    book: 'Ezekiel',
+    chapter: 1,
+    verse: 4,
+  },
+  words: [
+    {
+      hebrew: 'וָאֵרֶא',
+      transliteration: 'vaEre',
+      englishLiteral: 'And-I-saw',
+      englishNatural: 'And I saw',
+      root: 'raah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'וְהִנֵּה',
+      transliteration: 'veHineh',
+      englishLiteral: 'and-behold',
+      englishNatural: 'and behold',
+      root: 'hineh',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        type: 'interjection',
+      },
+    },
+    {
+      hebrew: 'רוּחַ',
+      transliteration: 'ruach',
+      englishLiteral: 'wind',
+      englishNatural: 'a wind',
+      root: 'ruach',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'סְעָרָה',
+      transliteration: 'saarah',
+      englishLiteral: 'storm',
+      englishNatural: 'storm',
+      root: 'saar',
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'בָּאָה',
+      transliteration: 'baah',
+      englishLiteral: 'coming',
+      englishNatural: 'coming',
+      root: 'bo',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'מִן־',
+      transliteration: 'min-',
+      englishLiteral: 'from-',
+      englishNatural: 'from',
+      root: 'mi',
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'הַצָּפוֹן',
+      transliteration: 'haTzafon',
+      englishLiteral: 'the-north',
+      englishNatural: 'the north',
+      root: 'tzafon',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'עָנָן',
+      transliteration: 'anan',
+      englishLiteral: 'cloud',
+      englishNatural: 'cloud',
+      root: 'anan',
+      order: {
+        hebrew: 8,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'גָּדוֹל',
+      transliteration: 'gadol',
+      englishLiteral: 'great',
+      englishNatural: 'a great',
+      root: 'gadol',
+      order: {
+        hebrew: 9,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'adjective',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
+    },
+    {
+      hebrew: 'וְאֵשׁ',
+      transliteration: 'veEsh',
+      englishLiteral: 'and-fire',
+      englishNatural: 'and fire',
+      root: 'esh',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'מִתְלַקַּחַת',
+      transliteration: 'mitlaqqachat',
+      englishLiteral: 'flashing',
+      englishNatural: 'flashing',
+      root: 'laqach',
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'participle',
+        stem: 'hithpael',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְנֹגַהּ',
+      transliteration: 'veNogah',
+      englishLiteral: 'and-brightness',
+      englishNatural: 'and brightness',
+      root: 'nogah',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לוֹ',
+      transliteration: 'lo',
+      englishLiteral: 'to-it',
+      englishNatural: 'to it',
+      root: 'lamed',
+      suffixes: ['o'],
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'סָבִיב',
+      transliteration: 'saviv',
+      englishLiteral: 'all_around',
+      englishNatural: 'all-around',
+      root: 'saviv',
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וּמִתּוֹכָהּ',
+      transliteration: 'uMitokah',
+      englishLiteral: 'and-from-midst-its',
+      englishNatural: 'and from its midst',
+      root: 'tokh',
+      prefixes: ['u', 'mi'],
+      suffixes: ['ah'],
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'כְּעֵין',
+      transliteration: 'keEin',
+      englishLiteral: 'like-eye-of',
+      englishNatural: 'like an eye of',
+      root: 'ayin',
+      prefixes: ['ke'],
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַחַשְׁמַל',
+      transliteration: 'haChashmal',
+      englishLiteral: 'the-glowing_metal',
+      englishNatural: 'the glowing-metal',
+      root: 'chashmal',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'מִתּוֹךְ',
+      transliteration: 'mitokh',
+      englishLiteral: 'from-midst-of',
+      englishNatural: 'from the midst of',
+      root: 'tokh',
+      prefixes: ['mi'],
+      order: {
+        hebrew: 18,
+        english: 18,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָאֵשׁ',
+      transliteration: 'haEsh',
+      englishLiteral: 'the-fire',
+      englishNatural: 'the fire',
+      root: 'esh',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 19,
+        english: 19,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וָאֵרֶא וְהִנֵּה רוּחַ סְעָרָה בָּאָה מִן־הַצָּפוֹן עָנָן גָּדוֹל וְאֵשׁ מִתְלַקַּחַת וְנֹגַהּ לוֹ סָבִיב וּמִתּוֹכָהּ כְּעֵין הַחַשְׁמַל מִתּוֹךְ הָאֵשׁ',
+    transliteration:
+      'vaEre veHineh ruach saarah baah min-haTzafon anan gadol veEsh mitlaqqachat veNogah lo saviv uMitokah keEin haChashmal mitokh haEsh',
+    englishLiteral:
+      'And-I-saw and-behold wind storm coming from- the-north, cloud great, and-fire flashing, and-brightness to-it all_around, and-from-midst-its like-eye-of the-glowing_metal from-midst-of the-fire.',
+    englishNatural:
+      'And I saw and behold a wind storm coming from the north, a great cloud, and fire flashing, and brightness to it all-around, and from its midst like an eye of the glowing-metal from the midst of the fire.',
+    kjv: 'And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+  },
+};

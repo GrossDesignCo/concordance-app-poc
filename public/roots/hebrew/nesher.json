@@ -1,0 +1,20 @@
+{
+  "key": "nesher",
+  "hebrew": "נשר",
+  "transliteration": "nesher",
+  "englishLiteral": "eagle",
+  "englishNatural": "eagle",
+  "type": "noun",
+  "description": "eagle, vulture",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "10": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

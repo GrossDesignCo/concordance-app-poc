@@ -1,0 +1,23 @@
+{
+  "key": "nora",
+  "hebrew": "נורא",
+  "transliteration": "nora",
+  "englishLiteral": "fearful",
+  "englishNatural": "fearful",
+  "type": "adjective",
+  "description": "fearful, awesome, terrible, to be feared",
+  "related": [
+    "yirah"
+  ],
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "22": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

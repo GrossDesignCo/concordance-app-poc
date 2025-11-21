@@ -1,0 +1,23 @@
+{
+  "key": "etzal",
+  "hebrew": "אצל",
+  "transliteration": "etzal",
+  "englishLiteral": "beside",
+  "englishNatural": "beside",
+  "type": "preposition",
+  "description": "beside, near, next to, by the side of",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "15": [
+          6
+        ],
+        "19": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

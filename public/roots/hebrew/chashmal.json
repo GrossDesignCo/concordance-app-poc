@@ -1,0 +1,23 @@
+{
+  "key": "chashmal",
+  "hebrew": "חשמל",
+  "transliteration": "chashmal",
+  "englishLiteral": "glowing_metal",
+  "englishNatural": "glowing-metal",
+  "type": "noun",
+  "description": "glowing metal, amber, electrum (uncertain meaning, possibly bronze or amber)",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "4": [
+          16
+        ],
+        "27": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

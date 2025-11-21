@@ -1,0 +1,20 @@
+{
+  "key": "hamulah",
+  "hebrew": "המולה",
+  "transliteration": "hamulah",
+  "englishLiteral": "tumult",
+  "englishNatural": "tumult",
+  "type": "noun",
+  "description": "tumult, noise, sound, commotion, roar",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "24": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

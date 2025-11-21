@@ -1,0 +1,21 @@
+{
+  "key": "matnayim",
+  "hebrew": "מתניים",
+  "transliteration": "matnayim",
+  "englishLiteral": "loins",
+  "englishNatural": "loins",
+  "type": "noun",
+  "description": "loins, waist, hips; the area of the body between the ribs and hips, often used euphemistically",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "27": [
+          9,
+          12
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

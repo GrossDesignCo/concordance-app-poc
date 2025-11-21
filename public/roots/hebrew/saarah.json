@@ -1,0 +1,20 @@
+{
+  "key": "saarah",
+  "hebrew": "סערה",
+  "transliteration": "saarah",
+  "englishLiteral": "storm",
+  "englishNatural": "storm",
+  "type": "noun",
+  "description": "storm, tempest, whirlwind",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "4": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

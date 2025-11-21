@@ -2,11 +2,24 @@
   "key": "savav",
   "hebrew": "סבב",
   "transliteration": "savav",
-  "englishLiteral": "to surround",
-  "englishNatural": "to surround",
-  "description": "to go around, to encircle, to surround",
+  "englishLiteral": "to go_around",
+  "englishNatural": "to go-around",
+  "description": "to go around, to \"come around\" to something, to encircle, to surround, to take the long way around",
   "type": "verb",
   "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "9": [
+          6
+        ],
+        "12": [
+          13
+        ],
+        "17": [
+          6
+        ]
+      }
+    },
     "genesis": {
       "2": {
         "11": [

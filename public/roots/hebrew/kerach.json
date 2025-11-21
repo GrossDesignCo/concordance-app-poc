@@ -1,0 +1,20 @@
+{
+  "key": "kerach",
+  "hebrew": "קרח",
+  "transliteration": "kerach",
+  "englishLiteral": "ice",
+  "englishNatural": "ice",
+  "type": "noun",
+  "description": "ice, frost, crystal",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "22": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,23 @@
+{
+  "key": "bazaq",
+  "hebrew": "בזק",
+  "transliteration": "bazaq",
+  "englishLiteral": "flashing",
+  "englishNatural": "flashing",
+  "type": "noun",
+  "description": "flash, (the flashing of) lightning, flashing",
+  "related": [
+    "baraq"
+  ],
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "14": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

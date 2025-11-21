@@ -1,0 +1,20 @@
+{
+  "key": "tzafon",
+  "hebrew": "צפון",
+  "transliteration": "tzafon",
+  "englishLiteral": "north",
+  "englishNatural": "north",
+  "type": "noun",
+  "description": "north, northern",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "4": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -7,6 +7,22 @@
   "description": "preposition - to, for, in order to",
   "type": "preposition",
   "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "18": [
+          2,
+          4
+        ],
+        "23": [
+          10,
+          14
+        ],
+        "27": [
+          6,
+          18
+        ]
+      }
+    },
     "genesis": {
       "3": {
         "7": [

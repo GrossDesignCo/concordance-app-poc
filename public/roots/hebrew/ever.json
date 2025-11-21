@@ -1,0 +1,23 @@
+{
+  "key": "ever",
+  "hebrew": "עבר",
+  "transliteration": "ever",
+  "englishLiteral": "side",
+  "englishNatural": "side",
+  "type": "noun",
+  "description": "side, region, beyond, opposite side",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "9": [
+          10
+        ],
+        "12": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,380 @@
+import { Verse } from '@/types';
+
+export const ezekiel_1_27: Verse = {
+  meta: {
+    book: 'Ezekiel',
+    chapter: 1,
+    verse: 27,
+  },
+  words: [
+    {
+      hebrew: 'וָאֵרֶא',
+      transliteration: 'vaEre',
+      englishLiteral: 'And-I-saw',
+      englishNatural: 'And I saw',
+      root: 'raah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'כְּעֵין',
+      transliteration: 'keEin',
+      englishLiteral: 'like-eye-of',
+      englishNatural: 'like an eye of',
+      root: 'ayin',
+      prefixes: ['ke'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'חַשְׁמַל',
+      transliteration: 'chashmal',
+      englishLiteral: 'glowing_metal',
+      englishNatural: 'glowing-metal',
+      root: 'chashmal',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'כְּמַרְאֵה־',
+      transliteration: 'keMareeh-',
+      englishLiteral: 'like-appearance-of-',
+      englishNatural: 'like an appearance of',
+      root: 'mareh',
+      prefixes: ['ke'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֵשׁ',
+      transliteration: 'esh',
+      englishLiteral: 'fire',
+      englishNatural: 'fire',
+      root: 'esh',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'בֵּית־',
+      transliteration: 'beit-',
+      englishLiteral: 'house-',
+      englishNatural: 'a house',
+      root: 'bayit',
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לָהּ',
+      transliteration: 'lah',
+      englishLiteral: 'to',
+      englishNatural: 'to',
+      root: 'la',
+      suffixes: ['ah'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'סָבִיב',
+      transliteration: 'saviv',
+      englishLiteral: 'all_around',
+      englishNatural: 'all-around',
+      root: 'saviv',
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'מִמַּרְאֵה',
+      transliteration: 'miMareeh',
+      englishLiteral: 'from-appearance-of',
+      englishNatural: 'from the appearance of',
+      root: 'mareh',
+      prefixes: ['mi'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'מָתְנָיו',
+      transliteration: 'matnav',
+      englishLiteral: 'loins-his',
+      englishNatural: 'his loins',
+      root: 'matnayim',
+      suffixes: ['av'],
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'dual',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וּלְמַעְלָה',
+      transliteration: 'uleMaalah',
+      englishLiteral: 'and-to-upward',
+      englishNatural: 'and upward',
+      root: 'maala',
+      prefixes: ['u', 'le'],
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וּמִמַּרְאֵה',
+      transliteration: 'uMiMareeh',
+      englishLiteral: 'and-from-appearance-of',
+      englishNatural: 'and from the appearance of',
+      root: 'mareh',
+      prefixes: ['u', 'mi'],
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'מָתְנָיו',
+      transliteration: 'matnav',
+      englishLiteral: 'loins-his',
+      englishNatural: 'his loins',
+      root: 'matnayim',
+      suffixes: ['av'],
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'dual',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וּלְמַטָּה',
+      transliteration: 'uleMattah',
+      englishLiteral: 'and-to-downward',
+      englishNatural: 'and downward',
+      root: 'mattah',
+      prefixes: ['u', 'le'],
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'רָאִיתִי',
+      transliteration: 'raiti',
+      englishLiteral: 'I-saw',
+      englishNatural: 'I saw',
+      root: 'raah',
+      suffixes: ['ti'],
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'כְּמַרְאֵה־',
+      transliteration: 'keMareeh-',
+      englishLiteral: 'like-appearance-of-',
+      englishNatural: 'like an appearance of',
+      root: 'mareh',
+      prefixes: ['ke'],
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֵשׁ',
+      transliteration: 'esh',
+      englishLiteral: 'fire',
+      englishNatural: 'fire',
+      root: 'esh',
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְנֹגַהּ',
+      transliteration: 'veNogah',
+      englishLiteral: 'and-brightness',
+      englishNatural: 'and brightness',
+      root: 'nogah',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 18,
+        english: 18,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לוֹ',
+      transliteration: 'lo',
+      englishLiteral: 'to-him',
+      englishNatural: 'to him',
+      root: 'la',
+      suffixes: ['o'],
+      order: {
+        hebrew: 19,
+        english: 19,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'סָבִיב',
+      transliteration: 'saviv',
+      englishLiteral: 'all_around',
+      englishNatural: 'all-around',
+      root: 'saviv',
+      order: {
+        hebrew: 20,
+        english: 20,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וָאֵרֶא כְּעֵין חַשְׁמַל כְּמַרְאֵה־אֵשׁ בֵּית־לָהּ סָבִיב מִמַּרְאֵה מָתְנָיו וּלְמַעְלָה וּמִמַּרְאֵה מָתְנָיו וּלְמַטָּה רָאִיתִי כְּמַרְאֵה־אֵשׁ וְנֹגַהּ לוֹ סָבִיב',
+    transliteration:
+      'vaEre keEin chashmal keMareeh-esh beit-lah saviv miMareeh matnav uleMaalah uMiMareeh matnav uleMattah raiti keMareeh-esh veNogah lo saviv',
+    englishLiteral:
+      'And-I-saw like-eye-of glowing_metal, like-appearance-of- fire house- to all_around from-appearance-of loins-his and-to-upward, and-from-appearance-of loins-his and-to-downward I-saw like-appearance-of- fire, and-brightness to-him all_around.',
+    englishNatural:
+      'And I saw like an eye of glowing-metal, like an appearance of fire a house to all-around from the appearance of his loins and upward, and from the appearance of his loins and downward I saw like an appearance of fire, and brightness to him all-around.',
+    kjv: 'And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+  },
+};

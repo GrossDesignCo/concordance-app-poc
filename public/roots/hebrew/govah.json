@@ -1,0 +1,23 @@
+{
+  "key": "govah",
+  "hebrew": "גבה",
+  "transliteration": "govah",
+  "englishLiteral": "height",
+  "englishNatural": "height",
+  "type": "noun",
+  "description": "height, loftiness, tallness",
+  "related": [
+    "gavah"
+  ],
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "18": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

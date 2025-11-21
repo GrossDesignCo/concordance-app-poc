@@ -1,0 +1,21 @@
+{
+  "key": "gav",
+  "hebrew": "גב",
+  "transliteration": "gav",
+  "englishLiteral": "rim",
+  "englishNatural": "rim",
+  "type": "noun",
+  "description": "rim, back, rim of a wheel, back of the body",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "18": [
+          0,
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

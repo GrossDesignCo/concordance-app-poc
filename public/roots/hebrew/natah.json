@@ -1,0 +1,20 @@
+{
+  "key": "natah",
+  "hebrew": "נטה",
+  "transliteration": "natah",
+  "englishLiteral": "to stretch_out",
+  "englishNatural": "to stretch-out",
+  "type": "verb",
+  "description": "to stretch out, to extend, to spread out, to pitch (a tent)",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "22": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

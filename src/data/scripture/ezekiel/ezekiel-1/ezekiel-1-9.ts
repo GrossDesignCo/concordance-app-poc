@@ -1,0 +1,255 @@
+import { Verse } from '@/types';
+
+export const ezekiel_1_9: Verse = {
+  meta: {
+    book: 'Ezekiel',
+    chapter: 1,
+    verse: 9,
+  },
+  words: [
+    {
+      hebrew: 'חֹבְרֹת',
+      transliteration: 'choverot',
+      englishLiteral: 'joining',
+      englishNatural: 'Joining',
+      root: 'chavar',
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'אִשָּׁה',
+      transliteration: 'ishah',
+      englishLiteral: 'woman',
+      englishNatural: 'woman',
+      root: 'ishah',
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֶל־',
+      transliteration: 'el-',
+      englishLiteral: 'to-',
+      englishNatural: 'to',
+      root: 'el',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'אֲחוֹתָהּ',
+      transliteration: 'achotah',
+      englishLiteral: 'sister-her',
+      englishNatural: 'her sister',
+      root: 'achot',
+      suffixes: ['ah'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'כַּנְפֵיהֶם',
+      transliteration: 'kanfeihem',
+      englishLiteral: 'wings-their',
+      englishNatural: 'their wings',
+      root: 'kenaf',
+      suffixes: ['hem'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'dual',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'לֹא־',
+      transliteration: 'lo-',
+      englishLiteral: 'not-',
+      englishNatural: 'not',
+      root: 'lo',
+      order: {
+        hebrew: 6,
+        english: 7,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'יִסַּבּוּ',
+      transliteration: 'yisabbu',
+      englishLiteral: 'they-went_around',
+      englishNatural: 'they went-around',
+      root: 'savav',
+      order: {
+        hebrew: 7,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'niphal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'בְלֶכְתָּן',
+      transliteration: 'beLekhtan',
+      englishLiteral: 'in-going-their',
+      englishNatural: 'in their going',
+      root: 'halakh',
+      prefixes: ['be'],
+      suffixes: ['tan'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        tense: 'infinitive_construct',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'אִישׁ',
+      transliteration: 'ish',
+      englishLiteral: 'man',
+      englishNatural: 'man',
+      root: 'ish',
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֶל־',
+      transliteration: 'el-',
+      englishLiteral: 'to-',
+      englishNatural: 'to',
+      root: 'el',
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'עֵבֶר',
+      transliteration: 'ever',
+      englishLiteral: 'side-of',
+      englishNatural: 'the side of',
+      root: 'ever',
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'פָּנָיו',
+      transliteration: 'panav',
+      englishLiteral: 'face-his',
+      englishNatural: 'his face',
+      root: 'panah',
+      suffixes: ['av'],
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'יֵלֵכוּ',
+      transliteration: 'yelekhu',
+      englishLiteral: 'they-went',
+      englishNatural: 'they went',
+      root: 'halakh',
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'חֹבְרֹת אִשָּׁה אֶל־אֲחוֹתָהּ כַּנְפֵיהֶם לֹא־יִסַּבּוּ בְלֶכְתָּן אִישׁ אֶל־עֵבֶר פָּנָיו יֵלֵכוּ',
+    transliteration:
+      'choverot ishah el-achotah kanfeihem lo-yisabbu beLekhtan ish el-ever panav yelekhu',
+    englishLiteral:
+      'joining woman to- sister-her wings-their; not- they-went_around in-going-their; man to- side-of face-his they-went.',
+    englishNatural:
+      'Joining woman to her sister their wings; they went-around not in their going; man to the side of his face they went.',
+    kjv: 'Their wings were joined one to another; they turned not when they went; they went every one straight forward.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+  },
+};

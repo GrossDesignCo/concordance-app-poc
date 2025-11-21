@@ -1,0 +1,20 @@
+{
+  "key": "egel",
+  "hebrew": "עגל",
+  "transliteration": "egel",
+  "englishLiteral": "calf",
+  "englishNatural": "calf",
+  "type": "noun",
+  "description": "calf, young bull",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "7": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

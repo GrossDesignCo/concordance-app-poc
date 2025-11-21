@@ -1,0 +1,20 @@
+{
+  "key": "ratzo",
+  "hebrew": "רצא",
+  "transliteration": "ratzo",
+  "englishLiteral": "to run",
+  "englishNatural": "to run",
+  "type": "verb",
+  "description": "to run, to run back and forth, to hasten",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "14": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

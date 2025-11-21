@@ -1,0 +1,26 @@
+{
+  "key": "shamah",
+  "hebrew": "שמה",
+  "transliteration": "shamah",
+  "englishLiteral": "there",
+  "englishNatural": "there",
+  "type": "adverb",
+  "description": "there, thither, to that place",
+  "related": [
+    "sham"
+  ],
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "12": [
+          8
+        ],
+        "20": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

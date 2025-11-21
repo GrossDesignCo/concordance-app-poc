@@ -75,8 +75,8 @@ export const jonah_1_3: Verse = {
     {
       hebrew: 'תַּרְשִׁישָׁה',
       transliteration: 'Tarshishah',
-      englishLiteral: 'Breaking-ward',
-      englishNatural: 'Breaking-ward',
+      englishLiteral: 'Breaking (Tarshish)',
+      englishNatural: 'Breaking (Tarshish)',
       root: 'tarshish',
       suffixes: ['ah'],
       order: {
@@ -151,8 +151,8 @@ export const jonah_1_3: Verse = {
     {
       hebrew: 'יָפוֹ',
       transliteration: 'Yafo',
-      englishLiteral: 'Beautiful',
-      englishNatural: 'Beautiful',
+      englishLiteral: 'Beautiful (Joppa)',
+      englishNatural: 'Beautiful (Joppa)',
       root: 'yafo',
       order: {
         hebrew: 8,
@@ -226,8 +226,8 @@ export const jonah_1_3: Verse = {
     {
       hebrew: 'תַרְשִׁישׁ',
       transliteration: 'Tarshish',
-      englishLiteral: 'Breaking',
-      englishNatural: 'Breaking',
+      englishLiteral: 'Breaking (Tarshish)',
+      englishNatural: 'Breaking (Tarshish)',
       root: 'tarshish',
       order: {
         hebrew: 12,
@@ -359,8 +359,8 @@ export const jonah_1_3: Verse = {
     {
       hebrew: 'תַּרְשִׁישָׁה',
       transliteration: 'Tarshishah',
-      englishLiteral: 'Breaking-ward',
-      englishNatural: 'Breaking-ward',
+      englishLiteral: 'Breaking (Tarshish)',
+      englishNatural: 'Breaking (Tarshish)',
       root: 'tarshish',
       suffixes: ['ah'],
       order: {
@@ -419,10 +419,10 @@ export const jonah_1_3: Verse = {
     transliteration:
       'vaYaqam Yonah livroach Tarshishah millifney YHWH vaYered Yafo vaYimtza aniyah baah Tarshish vaYitten sekhorah vaYered bah lavo immahhem Tarshishah millifney YHWH',
     englishLiteral:
-      'And-stood_up Dove (Jonah), to-flee Breaking-ward, from-the-face-of He_Who_Is, and-went_down Beautiful; and-found ship going Breaking; and-gave fare-her, and-went_down in-her, to-go with-them Breaking-ward, from-the-face-of He_Who_Is.',
+      'And-stood_up Dove (Jonah), to-flee Breaking (Tarshish), from-the-face-of He_Who_Is, and-went_down Beautiful (Joppa); and-found ship going Breaking (Tarshish); and-gave fare-her, and-went_down in-her, to-go with-them Breaking (Tarshish), from-the-face-of He_Who_Is.',
     englishNatural:
-      'And Dove (Jonah) stood-up, to flee to Breaking-ward, from the face of He-Who-Is, and went-down to Beautiful; and he found a ship going to Breaking; and he paid the fare of it, and went-down into it, to go with them to Breaking-ward, from the face of He-Who-Is.',
+      'And Dove (Jonah) stood-up, to flee to Breaking (Tarshish), from the face of He-Who-Is, and went-down to Beautiful (Joppa); and he found a ship going to Breaking (Tarshish); and he paid the fare of it, and went-down into it, to go with them to Breaking (Tarshish), from the face of He-Who-Is.',
     kjv: 'But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
   },
 };

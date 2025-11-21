@@ -6,6 +6,9 @@
   "englishNatural": "live-coal",
   "description": "a glowing stone, heated to the point of glowing hot",
   "type": "noun",
+  "related": [
+    "gachal"
+  ],
   "wordIndexes": {
     "isaiah": {
       "6": {

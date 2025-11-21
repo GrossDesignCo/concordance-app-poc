@@ -109,8 +109,8 @@ export const jonah_2_5: Verse = {
     {
       hebrew: 'יְסֹבְבֵנִי',
       transliteration: 'yesoveveni',
-      englishLiteral: 'surrounds-me',
-      englishNatural: 'surrounds me',
+      englishLiteral: 'goes_around-me',
+      englishNatural: 'goes-around me',
       root: 'savav',
       prefixes: ['ye'],
       suffixes: ['ni'],
@@ -200,10 +200,10 @@ export const jonah_2_5: Verse = {
     transliteration:
       'afafuni mayim ad-nephesh tehom yesoveveni suf chavush leroshi',
     englishLiteral:
-      'Surrounded-me waters, unto- throat; abyss surrounds-me; reed binds, to-head-my.',
+      'Surrounded-me waters, unto- throat; abyss goes_around-me; reed binds, to-head-my.',
     englishNatural:
-      'Waters have surrounded me, unto the throat; the abyss surrounds me; reed binds, to my head.',
+      'Waters have surrounded me, unto the throat; the abyss goes-around me; reed binds, to my head.',
     kjv: 'The waters compassed me about, even to the soul: the depth compassed me round about, the weeds were wrapped about my head.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
   },
 };

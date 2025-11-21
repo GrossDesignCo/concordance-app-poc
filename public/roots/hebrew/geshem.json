@@ -1,0 +1,20 @@
+{
+  "key": "geshem",
+  "hebrew": "גשם",
+  "transliteration": "geshem",
+  "englishLiteral": "rain",
+  "englishNatural": "rain",
+  "type": "noun",
+  "description": "rain, shower, downpour",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "28": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

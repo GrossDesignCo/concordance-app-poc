@@ -27,8 +27,8 @@ and-tree the-knowledge good and-bad.
 
 And-river goes-out from-Delight (Eden) to-give_drink ↳ the-garden, and-from-there will-part and-was to-four heads.
 
-Name the-one, Spreading (Pishon); he the-surrounding ↳ all- land the-Strength (Havilah), which there the-gold. and-gold the-land the-that, good; there the-bedolach, and-stone the-onyx. 
-and-name- the-river the-second, Gusher (Gichon); he the-surrounding ↳ all- land Black (Kush). 
+Name the-one, Spreading (Pishon); he the-going_around ↳ all- land the-Strength (Havilah), which there the-gold. and-gold the-land the-that, good; there the-bedolach, and-stone the-onyx. 
+and-name- the-river the-second, Gusher (Gichon); he the-going_around ↳ all- land Black (Kush). 
 name the-river the-third, Rapid (Chidekel); he the-walking east-of Steppe (Ashur). 
 And-the-river the-fourth, he Fruitful (Perat).
 

@@ -1,0 +1,30 @@
+{
+  "key": "saviv",
+  "hebrew": "סביב",
+  "transliteration": "saviv",
+  "englishLiteral": "all_around",
+  "englishNatural": "all-around",
+  "type": "adverb",
+  "description": "around, surrounding, round about",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "4": [
+          13
+        ],
+        "18": [
+          8
+        ],
+        "27": [
+          7,
+          19
+        ],
+        "28": [
+          10
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

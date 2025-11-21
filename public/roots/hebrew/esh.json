@@ -1,0 +1,30 @@
+{
+  "key": "esh",
+  "hebrew": "אש",
+  "transliteration": "esh",
+  "englishLiteral": "fire",
+  "englishNatural": "fire",
+  "type": "noun",
+  "description": "fire, flame",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "4": [
+          9,
+          18
+        ],
+        "13": [
+          4,
+          13,
+          15
+        ],
+        "27": [
+          4,
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "sappir",
+  "hebrew": "ספיר",
+  "transliteration": "sappir",
+  "englishLiteral": "sapphire",
+  "englishNatural": "sapphire",
+  "type": "noun",
+  "description": "sapphire, lapis lazuli (a deep blue precious stone); often associated with divine glory and the throne of God",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "26": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -27,8 +27,8 @@ and the Tree of Knowledge of Good and Bad.
 
 And a river went out from Delight (Eden) to give-drink to the garden, and from there parted and became into four heads.
 
-The name of one, Spreading (Pishon); it surrounds all the land of Strength (Havilah), which there is the gold. And the gold of that land, good; there is the bedolach, and the stone of onyx. 
-And the name of the second river, Gusher (Gichon); it surrounds all the land of Black (Kush). 
+The name of one, Spreading (Pishon); it goes-around all the land of Strength (Havilah), which there is the gold. And the gold of that land, good; there is the bedolach, and the stone of onyx. 
+And the name of the second river, Gusher (Gichon); it goes-around all the land of Black (Kush). 
 The name of the third river, Rapid (Chidekel); it walks east of Steppe (Ashur). 
 And the fourth river, it is Fruitful (Perat).
 

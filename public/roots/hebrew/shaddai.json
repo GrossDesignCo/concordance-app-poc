@@ -1,0 +1,20 @@
+{
+  "key": "shaddai",
+  "hebrew": "שדי",
+  "transliteration": "shaddai",
+  "englishLiteral": "All_Powerful (Shaddai)",
+  "englishNatural": "All-Powerful (Shaddai)",
+  "type": "noun",
+  "description": "The Almighty, God Almighty, one of the names of God",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "24": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

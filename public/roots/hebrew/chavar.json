@@ -1,0 +1,23 @@
+{
+  "key": "chavar",
+  "hebrew": "חבר",
+  "transliteration": "chavar",
+  "englishLiteral": "to join",
+  "englishNatural": "to join",
+  "type": "verb",
+  "description": "to join, unite, bind together, be joined",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "9": [
+          0
+        ],
+        "11": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

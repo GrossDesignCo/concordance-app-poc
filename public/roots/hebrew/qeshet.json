@@ -1,0 +1,20 @@
+{
+  "key": "qeshet",
+  "hebrew": "קשת",
+  "transliteration": "qeshet",
+  "englishLiteral": "bow",
+  "englishNatural": "bow",
+  "type": "noun",
+  "description": "bow (weapon), rainbow, arch; the rainbow is a sign of the covenant in Genesis 9",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "28": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

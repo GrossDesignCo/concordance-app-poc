@@ -1,0 +1,23 @@
+{
+  "key": "gachal",
+  "hebrew": "גחל",
+  "transliteration": "gachal",
+  "englishLiteral": "coal",
+  "englishNatural": "coal",
+  "type": "noun",
+  "description": "coal, burning coal, ember",
+  "related": [
+    "ritzpah"
+  ],
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "13": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

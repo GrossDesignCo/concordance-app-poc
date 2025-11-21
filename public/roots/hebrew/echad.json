@@ -6,6 +6,20 @@
   "englishNatural": "one",
   "type": "numeral",
   "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "6": [
+          2,
+          5
+        ],
+        "15": [
+          4
+        ],
+        "16": [
+          6
+        ]
+      }
+    },
     "genesis": {
       "1": {
         "5": [

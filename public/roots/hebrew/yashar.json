@@ -1,0 +1,23 @@
+{
+  "key": "yashar",
+  "hebrew": "ישר",
+  "transliteration": "yashar",
+  "englishLiteral": "straight",
+  "englishNatural": "straight",
+  "type": "adjective",
+  "description": "straight, upright, right, level",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "7": [
+          2
+        ],
+        "23": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

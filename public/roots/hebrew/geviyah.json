@@ -1,0 +1,23 @@
+{
+  "key": "geviyah",
+  "hebrew": "גויה",
+  "transliteration": "geviyah",
+  "englishLiteral": "body",
+  "englishNatural": "body",
+  "type": "noun",
+  "description": "body, corpse, back (of body)",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "11": [
+          11
+        ],
+        "23": [
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

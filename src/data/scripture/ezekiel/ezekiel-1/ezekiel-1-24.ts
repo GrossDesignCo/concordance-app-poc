@@ -1,0 +1,347 @@
+import { Verse } from '@/types';
+
+export const ezekiel_1_24: Verse = {
+  meta: {
+    book: 'Ezekiel',
+    chapter: 1,
+    verse: 24,
+  },
+  words: [
+    {
+      hebrew: 'וָאֶשְׁמַע',
+      transliteration: 'vaEshma',
+      englishLiteral: 'And-I-heard',
+      englishNatural: 'And I heard',
+      root: 'shama',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'קוֹל',
+      transliteration: 'qol',
+      englishLiteral: 'voice-of',
+      englishNatural: 'the voice of',
+      root: 'qol',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'כַּנְפֵיהֶם',
+      transliteration: 'kanfeihem',
+      englishLiteral: 'wings-their',
+      englishNatural: 'their wings',
+      root: 'kenaf',
+      suffixes: ['hem'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'dual',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'כְּקוֹל',
+      transliteration: 'keQol',
+      englishLiteral: 'like-voice-of',
+      englishNatural: 'like the voice of',
+      root: 'qol',
+      prefixes: ['ke'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'מַיִם',
+      transliteration: 'mayim',
+      englishLiteral: 'waters',
+      englishNatural: 'waters',
+      root: 'mayim',
+      order: {
+        hebrew: 6,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+      lineBreaksAfter: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'רַבִּים',
+      transliteration: 'rabbim',
+      englishLiteral: 'many',
+      englishNatural: 'many',
+      root: 'rav',
+      order: {
+        hebrew: 7,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'adjective',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
+      lineBreaksAfter: {
+        hebrew: 1,
+      },
+    },
+    {
+      hebrew: 'כְּקוֹל־',
+      transliteration: 'keQol-',
+      englishLiteral: 'like-voice-of-',
+      englishNatural: 'like the voice of',
+      root: 'qol',
+      prefixes: ['ke'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'שַׁדַּי',
+      transliteration: 'shaddai',
+      englishLiteral: 'All_Powerful (Shaddai)',
+      englishNatural: 'All-Powerful (Shaddai)',
+      root: 'shaddai',
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'בְּלֶכְתָּם',
+      transliteration: 'beLekhtan',
+      englishLiteral: 'in-going-their',
+      englishNatural: 'in their going',
+      root: 'halakh',
+      prefixes: ['be'],
+      suffixes: ['tan'],
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        tense: 'infinitive_construct',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'קוֹל',
+      transliteration: 'qol',
+      englishLiteral: 'voice-of',
+      englishNatural: 'the voice of',
+      root: 'qol',
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הֲמֻלָּה',
+      transliteration: 'hamulah',
+      englishLiteral: 'tumult',
+      englishNatural: 'tumult',
+      root: 'hamulah',
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'כְּקוֹל',
+      transliteration: 'keQol',
+      englishLiteral: 'like-voice-of',
+      englishNatural: 'like the voice of',
+      root: 'qol',
+      prefixes: ['ke'],
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'מַחֲנֶה',
+      transliteration: 'machaneh',
+      englishLiteral: 'camp',
+      englishNatural: 'a camp',
+      root: 'machaneh',
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'בְּעָמְדָם',
+      transliteration: 'beAmdam',
+      englishLiteral: 'in-standing-their',
+      englishNatural: 'in their standing',
+      root: 'amad',
+      prefixes: ['be'],
+      suffixes: ['am'],
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        tense: 'infinitive_construct',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'תְּרַפֶּינָה',
+      transliteration: 'terapenah',
+      englishLiteral: 'they-sank',
+      englishNatural: 'they sank',
+      root: 'raphah',
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'piel',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'כַנְפֵיהֶן',
+      transliteration: 'kanfeihen',
+      englishLiteral: 'wings-their',
+      englishNatural: 'their wings',
+      root: 'kenaf',
+      suffixes: ['hen'],
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'dual',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וָאֶשְׁמַע אֶת־קוֹל כַּנְפֵיהֶם כְּקוֹל מַיִם רַבִּים כְּקוֹל־שַׁדַּי בְּלֶכְתָּם קוֹל הֲמֻלָּה כְּקוֹל מַחֲנֶה בְּעָמְדָם תְּרַפֶּינָה כַנְפֵיהֶן',
+    transliteration:
+      'vaEshma et-qol kanfeihem keQol mayim rabbim keQol-shaddai beLekhtan qol hamulah keQol machaneh beAmdam terapenah kanfeihen',
+    englishLiteral:
+      'And-I-heard ↳ voice-of wings-their, like-voice-of waters many, like-voice-of- All_Powerful (Shaddai), in-going-their voice-of tumult, like-voice-of camp; in-standing-their they-sank wings-their.',
+    englishNatural:
+      'And I heard the voice of their wings, like the voice of many waters, like the voice of All-Powerful (Shaddai), in their going the voice of tumult, like the voice of a camp; in their standing they sank their wings.',
+    kjv: 'And when they went, I heard the noise of their wings, like the noise of great waters, as the voice of the Almighty, the voice of speech, as the noise of an host: when they stood, they let down their wings.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+  },
+};

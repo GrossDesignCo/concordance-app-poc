@@ -1,0 +1,26 @@
+{
+  "key": "reva",
+  "hebrew": "רבע",
+  "transliteration": "reva",
+  "englishLiteral": "side",
+  "englishNatural": "side",
+  "type": "noun",
+  "description": "side, quarter, fourth part",
+  "related": [
+    "arba"
+  ],
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "8": [
+          6
+        ],
+        "17": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

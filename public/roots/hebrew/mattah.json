@@ -1,0 +1,23 @@
+{
+  "key": "mattah",
+  "hebrew": "מטה",
+  "transliteration": "mattah",
+  "englishLiteral": "downward",
+  "englishNatural": "downward",
+  "type": "adverb",
+  "description": "downward, below, beneath",
+  "related": [
+    "maala"
+  ],
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "27": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

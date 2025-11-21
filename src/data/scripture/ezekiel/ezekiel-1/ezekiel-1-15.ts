@@ -1,0 +1,210 @@
+import { Verse } from '@/types';
+
+export const ezekiel_1_15: Verse = {
+  meta: {
+    book: 'Ezekiel',
+    chapter: 1,
+    verse: 15,
+  },
+  words: [
+    {
+      hebrew: 'וָאֵרֶא',
+      transliteration: 'vaEre',
+      englishLiteral: 'And-I-saw',
+      englishNatural: 'And I saw',
+      root: 'raah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'הַחַיּוֹת',
+      transliteration: 'haChayot',
+      englishLiteral: 'the-living-things',
+      englishNatural: 'the living-things',
+      root: 'chayah',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְהִנֵּה',
+      transliteration: 'veHineh',
+      englishLiteral: 'and-behold',
+      englishNatural: 'and behold',
+      root: 'hineh',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        type: 'interjection',
+      },
+    },
+    {
+      hebrew: 'אוֹפַן',
+      transliteration: 'ophan',
+      englishLiteral: 'wheel',
+      englishNatural: 'wheel',
+      root: 'ophan',
+      order: {
+        hebrew: 4,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֶחָד',
+      transliteration: 'echad',
+      englishLiteral: 'one',
+      englishNatural: 'one',
+      root: 'echad',
+      order: {
+        hebrew: 5,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'בָּאָרֶץ',
+      transliteration: 'baAretz',
+      englishLiteral: 'in-the-land',
+      englishNatural: 'in the land',
+      root: 'eretz',
+      prefixes: ['be', 'ha'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      lineBreaksAfter: 1,
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'אֵצֶל',
+      transliteration: 'etzal',
+      englishLiteral: 'beside',
+      englishNatural: 'beside',
+      root: 'etzal',
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'הַחַיּוֹת',
+      transliteration: 'haChayot',
+      englishLiteral: 'the-living-things',
+      englishNatural: 'the living-things',
+      root: 'chayah',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'לְאַרְבַּעַת',
+      transliteration: 'leArbaat',
+      englishLiteral: 'to-four-of',
+      englishNatural: 'to four of',
+      root: 'arba',
+      prefixes: ['le'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'פָּנָיו',
+      transliteration: 'panav',
+      englishLiteral: 'faces-his',
+      englishNatural: 'his faces',
+      root: 'panah',
+      suffixes: ['av'],
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וָאֵרֶא הַחַיּוֹת וְהִנֵּה אוֹפַן אֶחָד בָּאָרֶץ אֵצֶל הַחַיּוֹת לְאַרְבַּעַת פָּנָיו',
+    transliteration:
+      'vaEre haChayot veHineh ophan echad baAretz etzal haChayot leArbaat panav',
+    englishLiteral:
+      'And-I-saw the-living-things, and-behold wheel one in-the-land, beside the-living-things, to-four-of faces-his.',
+    englishNatural:
+      'And I saw the living-things, and behold one wheel in the land, beside the living-things, to four of his faces.',
+    kjv: 'Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+  },
+};
