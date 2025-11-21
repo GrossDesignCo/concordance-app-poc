@@ -10,10 +10,9 @@
   display: inline-flex;
 } */
 
-.TranslationWord.hasEntry:not(.selected, .selectedRoot) {
-  box-shadow: 
-  inset 0 -1em 0 -0.8em var(--ds-bg-page-lit),
-  inset 0 -1em 0 -0.7em var(--ds-bg-container-low-contrast);
+.TranslationWord.hasEntry:not(.selected, .selectedRoot, .relatedRoot) {
+  box-shadow: inset 0 -1em 0 -0.8em var(--ds-bg-page-lit),
+    inset 0 -1em 0 -0.7em var(--ds-bg-container-low-contrast);
 }
 
 /* Additional wrapper for selected word, to help encapsulate construction info */
@@ -34,11 +33,25 @@
   /* Selected words are also rendered in reversed theme */
   background-color: var(--ds-fg-default);
   color: var(--ds-bg-default);
+  font-weight: 600;
 }
 
 .selectedRoot .Word {
   background-color: var(--ds-bg-container);
   padding: var(--ds-space-1);
+  font-weight: 600;
+}
+
+.relatedRoot .Word {
+  background: repeating-linear-gradient(
+    -45deg,
+    var(--ds-bg-container),
+    var(--ds-bg-container) 4px,
+    transparent 4px,
+    transparent 8px
+  );
+  padding: var(--ds-space-1);
+  font-weight: 600;
 }
 
 .TranslationWord:focus-visible {

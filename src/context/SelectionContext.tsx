@@ -5,6 +5,8 @@ import {
   useState,
   ReactNode,
   useEffect,
+  useRef,
+  useMemo,
 } from 'react';
 
 interface FilteredStructure {
@@ -30,6 +32,7 @@ interface SelectionContextProps {
   setFilterVerses: (shouldFilter: boolean) => void;
   filteredStructure: FilteredStructure | null;
   isLoadingStructure: boolean;
+  selectedRootsRelatedWords: string[]; // Array of root keys that are related to selected roots
 }
 
 const SelectionContext = createContext<SelectionContextProps | undefined>(
@@ -42,6 +45,84 @@ export const SelectionProvider = ({ children }: { children: ReactNode }) => {
   const [filteredStructure, setFilteredStructure] =
     useState<FilteredStructure | null>(null);
   const [isLoadingStructure, setIsLoadingStructure] = useState(false);
+  const [selectedRootsRelatedWords, setSelectedRootsRelatedWords] = useState<
+    string[]
+  >([]);
+
+  // Cache for root data to avoid refetching
+  const rootDataCache = useRef<Map<string, { related?: readonly string[] }>>(
+    new Map()
+  );
+
+  // Memoize the unique roots to avoid unnecessary effect triggers
+  const selectedRoots = useMemo(() => {
+    return [
+      ...new Set(selectedWords.map((word) => word.root).filter(Boolean)),
+    ] as string[];
+  }, [selectedWords]);
+
+  // Create a stable key for the selected roots to use as dependency
+  const selectedRootsKey = selectedRoots.sort().join(',');
+
+  // Fetch related roots data when selected roots change
+  useEffect(() => {
+    const fetchRelatedRoots = async () => {
+      if (selectedRoots.length === 0) {
+        setSelectedRootsRelatedWords([]);
+        return;
+      }
+
+      try {
+        const relatedWordsSet = new Set<string>();
+
+        // Process each root
+        for (const root of selectedRoots) {
+          // Check cache first
+          if (rootDataCache.current.has(root)) {
+            const cachedData = rootDataCache.current.get(root);
+            if (cachedData?.related) {
+              cachedData.related.forEach((relatedRoot) => {
+                relatedWordsSet.add(relatedRoot);
+              });
+            }
+            continue;
+          }
+
+          // If not in cache, fetch it
+          try {
+            // Determine language - check if it's in the word data
+            const selectedWord = selectedWords.find((w) => w.root === root);
+            const language = selectedWord?.hebrew ? 'hebrew' : 'greek';
+
+            const response = await fetch(`/roots/${language}/${root}.json`);
+            if (response.ok) {
+              const rootData = await response.json();
+
+              // Cache the result
+              rootDataCache.current.set(root, rootData);
+
+              // Add all related words to the set
+              if (rootData.related && Array.isArray(rootData.related)) {
+                rootData.related.forEach((relatedRoot: string) => {
+                  relatedWordsSet.add(relatedRoot);
+                });
+              }
+            }
+          } catch (error) {
+            console.error(`Error fetching root data for ${root}:`, error);
+          }
+        }
+
+        setSelectedRootsRelatedWords(Array.from(relatedWordsSet));
+      } catch (error) {
+        console.error('Error fetching related roots:', error);
+        setSelectedRootsRelatedWords([]);
+      }
+    };
+
+    fetchRelatedRoots();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [selectedRootsKey]);
 
   // Fetch filtered structure when words are selected
   useEffect(() => {
@@ -132,6 +213,7 @@ export const SelectionProvider = ({ children }: { children: ReactNode }) => {
         setFilterVerses,
         filteredStructure,
         isLoadingStructure,
+        selectedRootsRelatedWords,
       }}
     >
       {children}

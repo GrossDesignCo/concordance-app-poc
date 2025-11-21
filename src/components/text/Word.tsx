@@ -33,13 +33,16 @@ export default function Word({
   }, [lexiconState, hasEntry, word.transliteration, word, language]);
 
   // Visual states
-  const { selectedWords } = useSelection();
-  const isSelected = selectedWords.includes(word);
-  const selectedRoots = selectedWords.map((w) => w.root);
-  const hasSelectedRoot = word.root && selectedRoots.includes(word.root);
+  const { selectedWords, selectedRootsRelatedWords } = useSelection();
+  const anySelected = Boolean(selectedWords.length);
+  const isSelected = anySelected && selectedWords.includes(word);
+  const selectedRoots = anySelected ? selectedWords.map((w) => w.root) : [];
+  const hasSelectedRoot =
+    anySelected && word.root && selectedRoots.includes(word.root);
 
-  // const { resolvedTheme } = useTheme();
-  // const reverseTheme = resolvedTheme === 'light' ? 'dark' : 'light';
+  // Check if this word's root is in the related words array from the context
+  const isRelatedToSelectedRoot =
+    anySelected && word.root && selectedRootsRelatedWords.includes(word.root);
 
   // Get the actual text + grammar of the word to render based on props + data
   const { wordText, formattedWordText } = formatWord(
@@ -83,6 +86,8 @@ export default function Word({
         className={cx(styles.TranslationWord, [`word=${wordText}`], {
           [styles.selected]: isSelected,
           [styles.selectedRoot]: hasSelectedRoot && !isSelected,
+          [styles.relatedRoot]:
+            isRelatedToSelectedRoot && !isSelected && !hasSelectedRoot,
           [styles.hasEntry]: showEntryLink,
         })}
       >
