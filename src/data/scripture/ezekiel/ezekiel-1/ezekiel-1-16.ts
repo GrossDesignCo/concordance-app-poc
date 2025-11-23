@@ -86,8 +86,8 @@ export const ezekiel_1_16: Verse = {
     {
       hebrew: 'תַּרְשִׁישׁ',
       transliteration: 'tarshish',
-      englishLiteral: 'Breaking (Tarshish)',
-      englishNatural: 'Breaking (Tarshish)',
+      englishLiteral: 'gold-stone',
+      englishNatural: 'gold-stone',
       root: 'tarshish',
       order: {
         hebrew: 5,
@@ -293,10 +293,10 @@ export const ezekiel_1_16: Verse = {
     transliteration:
       'marah haOphanim uMaaseihem keEin tarshish uDemut echad leArbatan uMareihem uMaaseihem kaAsher yihyeh haOphan betokh haOphan',
     englishLiteral:
-      'appearance-of the-wheels and-work-their, like-eye-of Breaking (Tarshish), and-likeness one to-four-of-them, and-appearance-their and-work-their like-which it-was the-wheel in-midst-of the-wheel.',
+      'appearance-of the-wheels and-work-their, like-eye-of gold-stone, and-likeness one to-four-of-them, and-appearance-their and-work-their like-which it-was the-wheel in-midst-of the-wheel.',
     englishNatural:
-      'The appearance of the wheels and their work, like an eye of Breaking (Tarshish), and one likeness to four of them, and their appearance and their work like which it was the wheel in the midst of the wheel.',
+      'The appearance of the wheels and their work, like an eye of gold-stone, and one likeness to four of them, and their appearance and their work like which it was the wheel in the midst of the wheel.',
     kjv: 'The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-23' },
   },
 };

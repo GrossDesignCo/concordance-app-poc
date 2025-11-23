@@ -4183,11 +4183,12 @@ const ROOTS = {
   },
   tarshish: {
     hebrew: 'תרשיש',
-    transliteration: 'Tarshish',
-    englishLiteral: 'Breaking (Tarshish)',
-    englishNatural: 'Breaking (Tarshish)',
+    transliteration: 'tarshish',
+    englishLiteral: 'gold-stone',
+    englishNatural: 'gold-stone',
     type: 'noun',
-    description: 'proper name, Tarshish, distant port city, possibly in Spain',
+    description:
+      'beryl, chrysolite, a precious golden-yellow or sea-green gemstone; also the name Tarshish, a distant port city (possibly in Spain) from which such stones may have come',
   },
   millifney: {
     hebrew: 'מלפני',
