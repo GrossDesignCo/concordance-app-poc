@@ -401,6 +401,9 @@
     "numbers",
     "psalms"
   ],
+  "et_with": [
+    "genesis"
+  ],
   "al": [
     "exodus",
     "ezekiel",
@@ -467,7 +470,7 @@
     "isaiah",
     "jonah"
   ],
-  "shtayim": [
+  "shnayim": [
     "ezekiel",
     "genesis",
     "isaiah",
@@ -701,9 +704,6 @@
     "isaiah"
   ],
   "okhel": [
-    "genesis"
-  ],
-  "of": [
     "genesis"
   ],
   "yerek": [
@@ -1014,6 +1014,7 @@
   ],
   "bayit": [
     "ezekiel",
+    "genesis",
     "isaiah",
     "psalms"
   ],
@@ -1052,6 +1053,7 @@
     "isaiah"
   ],
   "kafar": [
+    "genesis",
     "isaiah"
   ],
   "yada": [
@@ -1400,6 +1402,7 @@
     "psalms"
   ],
   "orekh": [
+    "genesis",
     "psalms"
   ],
   "shir": [
@@ -1464,6 +1467,9 @@
   "petach": [
     "genesis",
     "proverbs"
+  ],
+  "patach": [
+    "genesis"
   ],
   "ravatz": [
     "genesis",
@@ -1610,6 +1616,7 @@
     "proverbs"
   ],
   "mayan": [
+    "genesis",
     "proverbs"
   ],
   "kavad": [
@@ -1626,6 +1633,7 @@
     "proverbs"
   ],
   "chutz": [
+    "genesis",
     "proverbs"
   ],
   "tevel": [
@@ -1641,6 +1649,7 @@
     "proverbs"
   ],
   "ani": [
+    "genesis",
     "jonah",
     "proverbs"
   ],
@@ -1804,9 +1813,6 @@
     "genesis"
   ],
   "yafet": [
-    "genesis"
-  ],
-  "shteym": [
     "genesis"
   ],
   "esreh": [
@@ -2040,7 +2046,8 @@
     "jonah"
   ],
   "panim": [
-    "exodus"
+    "exodus",
+    "genesis"
   ],
   "natsar": [
     "exodus"
@@ -2079,6 +2086,7 @@
     "jonah"
   ],
   "arbaim": [
+    "genesis",
     "jonah"
   ],
   "aman": [
@@ -2133,6 +2141,7 @@
     "jonah"
   ],
   "min_from": [
+    "genesis",
     "jonah"
   ],
   "charon": [
@@ -2215,6 +2224,7 @@
     "jonah"
   ],
   "laylah": [
+    "genesis",
     "jonah"
   ],
   "yesh": [
@@ -2429,7 +2439,8 @@
     "ezekiel"
   ],
   "maala": [
-    "ezekiel"
+    "ezekiel",
+    "genesis"
   ],
   "geviyah": [
     "ezekiel"
@@ -2504,7 +2515,77 @@
     "ezekiel"
   ],
   "geshem": [
-    "ezekiel"
+    "ezekiel",
+    "genesis"
+  ],
+  "tevah": [
+    "genesis"
+  ],
+  "gopher": [
+    "genesis"
+  ],
+  "qen": [
+    "genesis"
+  ],
+  "kofer": [
+    "genesis"
+  ],
+  "ammah": [
+    "genesis"
+  ],
+  "chamishim": [
+    "genesis"
+  ],
+  "rochav": [
+    "genesis"
+  ],
+  "qomah": [
+    "genesis"
+  ],
+  "tzohar": [
+    "genesis"
+  ],
+  "tzad": [
+    "genesis"
+  ],
+  "tachti": [
+    "genesis"
+  ],
+  "mabbul": [
+    "genesis"
+  ],
+  "gava": [
+    "genesis"
+  ],
+  "berit": [
+    "genesis"
+  ],
+  "asaph": [
+    "genesis"
+  ],
+  "tahor": [
+    "genesis"
+  ],
+  "chodesh": [
+    "genesis"
+  ],
+  "asar": [
+    "genesis"
+  ],
+  "baqa": [
+    "genesis"
+  ],
+  "arubbah": [
+    "genesis"
+  ],
+  "etzem": [
+    "genesis"
+  ],
+  "tzippor": [
+    "genesis"
+  ],
+  "kanaph": [
+    "genesis"
   ],
   "en": [
     "john",

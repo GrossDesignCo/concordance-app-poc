@@ -95,7 +95,7 @@ export const genesis_5_26: Verse = {
       transliteration: 'shtayim',
       englishLiteral: 'two',
       englishNatural: 'two',
-      root: 'shtayim',
+      root: 'shnayim',
       order: {
         hebrew: 6,
         english: 6,
@@ -266,6 +266,6 @@ export const genesis_5_26: Verse = {
     englishNatural:
       'And after he had birthed Powerful (Lamech), he was two and eighty years and seven hundred years, and birthed sons and daughters.',
     kjv: 'And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 };

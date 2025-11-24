@@ -55,7 +55,7 @@ export const genesis_5_18: Verse = {
       transliteration: 'shtayim',
       englishLiteral: 'two',
       englishNatural: 'two',
-      root: 'shtayim',
+      root: 'shnayim',
       order: {
         hebrew: 3,
         english: 3,
@@ -204,6 +204,6 @@ export const genesis_5_18: Verse = {
     englishNatural:
       'And Descending (Jared) lived two and sixty years and a hundred years, and birthed Dedicated (Enoch).',
     kjv: 'And Jared lived an hundred sixty and two years, and begat Enoch:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
 },
 };

@@ -4,7 +4,7 @@ and it fumed angrily to him.
 
 And he prayed to He-Who-Is and said, 
 "Please He-Who-Is, was not this my word until I was over my soil? 
-So moreover I preceded to flee to Breaking (Tarshish), 
+So moreover I preceded to flee to Gold-Stone (Tarshish), 
 that I knew that you are God gracious and compassionate, 
 long of nostrils and great of steadfast-love 
 and comforting over the bad.

@@ -21,7 +21,7 @@ And He-Who-Is said to Acquired (Cain),
 "Why is it fuming-anger to you, and why have your faces (eyes) fallen?
 
 And is there not, if you do-well, lifting-up?
-And if you do-well not, to the door sin is crouching,
+And if you do-well not, to the opening sin is crouching,
 and to you is its fixation, and you will rule over it."
 
 And Acquired (Cain) said to Vapor (Abel) his brother;

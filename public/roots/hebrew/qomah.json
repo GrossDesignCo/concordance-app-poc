@@ -1,0 +1,23 @@
+{
+  "key": "qomah",
+  "hebrew": "קומה",
+  "transliteration": "qomah",
+  "englishLiteral": "height",
+  "englishNatural": "height",
+  "type": "noun",
+  "description": "height, stature, rising up",
+  "related": [
+    "qum"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "15": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

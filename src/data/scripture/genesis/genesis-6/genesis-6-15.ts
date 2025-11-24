@@ -1,0 +1,282 @@
+import { Verse } from '@/types';
+
+export const genesis_6_15: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 6,
+    verse: 15,
+  },
+  words: [
+    {
+      hebrew: 'וְזֶה',
+      transliteration: 'veZeh',
+      englishLiteral: 'And-this',
+      englishNatural: 'And this',
+      root: 'zeh',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        type: 'pronoun',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'אֲשֶׁר',
+      transliteration: 'asher',
+      englishLiteral: 'which',
+      englishNatural: 'which',
+      root: 'asher',
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'תַּעֲשֶׂה',
+      transliteration: 'taAseh',
+      englishLiteral: 'you-shall-make',
+      englishNatural: 'you shall make',
+      root: 'asah',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '2nd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אֹתָהּ',
+      transliteration: 'otah',
+      englishLiteral: 'her',
+      englishNatural: 'it',
+      root: 'et',
+      suffixes: ['ah'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        type: 'particle',
+      },
+      grammarSuffix: {
+        englishLiteral: ':',
+        englishNatural: ':',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'שְׁלֹשׁ',
+      transliteration: 'shlosh',
+      englishLiteral: 'three',
+      englishNatural: 'three',
+      root: 'shalosh',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'מֵאוֹת',
+      transliteration: 'meot',
+      englishLiteral: 'hundreds',
+      englishNatural: 'hundred',
+      root: 'meah',
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'plural',
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'אַמָּה',
+      transliteration: 'ammah',
+      englishLiteral: 'cubit',
+      englishNatural: 'cubits',
+      root: 'ammah',
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֹרֶךְ',
+      transliteration: 'orekh',
+      englishLiteral: 'length-of',
+      englishNatural: 'the length of',
+      root: 'orekh',
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַתֵּבָה',
+      transliteration: 'haTevah',
+      englishLiteral: 'the-ark',
+      englishNatural: 'the ark',
+      root: 'tevah',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'חֲמִשִּׁים',
+      transliteration: 'chamishim',
+      englishLiteral: 'fifty',
+      englishNatural: 'fifty',
+      root: 'chamishim',
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'אַמָּה',
+      transliteration: 'ammah',
+      englishLiteral: 'cubit',
+      englishNatural: 'cubits',
+      root: 'ammah',
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'רָחְבָּהּ',
+      transliteration: 'rochbah',
+      englishLiteral: 'breadth-her',
+      englishNatural: 'its breadth',
+      root: 'rochav',
+      suffixes: ['ah'],
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וּשְׁלֹשִׁים',
+      transliteration: 'uShloshim',
+      englishLiteral: 'and-thirty',
+      englishNatural: 'and thirty',
+      root: 'shloshim',
+      prefixes: ['u'],
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'אַמָּה',
+      transliteration: 'ammah',
+      englishLiteral: 'cubit',
+      englishNatural: 'cubits',
+      root: 'ammah',
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'קוֹמָתָהּ',
+      transliteration: 'qomatah',
+      englishLiteral: 'height-her',
+      englishNatural: 'its height',
+      root: 'qomah',
+      suffixes: ['ah'],
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וְזֶה אֲשֶׁר תַּעֲשֶׂה אֹתָהּ שְׁלֹשׁ מֵאוֹת אַמָּה אֹרֶךְ הַתֵּבָה חֲמִשִּׁים אַמָּה רָחְבָּהּ וּשְׁלֹשִׁים אַמָּה קוֹמָתָהּ',
+    transliteration:
+      'veZeh asher taAseh otah shlosh meot ammah orekh haTevah chamishim ammah rochbah uShloshim ammah qomatah',
+    englishLiteral:
+      'And-this which you-shall-make her: three hundreds cubit length-of the-ark, fifty cubit breadth-her, and-thirty cubit height-her.',
+    englishNatural:
+      'And this which you shall make it: three hundred cubits the length of the ark, fifty cubits its breadth, and thirty cubits its height.',
+    kjv: 'And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+  },
+};

@@ -1,0 +1,21 @@
+{
+  "key": "chodesh",
+  "hebrew": "חדש",
+  "transliteration": "chodesh",
+  "englishLiteral": "month",
+  "englishNatural": "month",
+  "type": "noun",
+  "description": "month, new moon, lunar month",
+  "wordIndexes": {
+    "genesis": {
+      "7": {
+        "11": [
+          6,
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -5,7 +5,10 @@
   "englishLiteral": "with",
   "englishNatural": "with",
   "type": "preposition",
-  "description": "with, together with, in company with",
+  "description": "with, together with, in company with, among; emphasizes collective association, being part of a group, or doing something together; distinct from אֵת (et) which emphasizes personal proximity or relational presence",
+  "related": [
+    "et_with"
+  ],
   "wordIndexes": {
     "exodus": {
       "34": {

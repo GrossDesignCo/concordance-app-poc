@@ -1,0 +1,23 @@
+{
+  "key": "gava",
+  "hebrew": "גוע",
+  "transliteration": "gava",
+  "englishLiteral": "to expire",
+  "englishNatural": "to expire",
+  "type": "verb",
+  "description": "to expire, to die, to perish, to breathe out one's last breath",
+  "related": [
+    "mut"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "17": [
+          20
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

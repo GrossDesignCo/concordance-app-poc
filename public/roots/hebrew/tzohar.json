@@ -1,0 +1,20 @@
+{
+  "key": "tzohar",
+  "hebrew": "צהר",
+  "transliteration": "tzohar",
+  "englishLiteral": "illunination",
+  "englishNatural": "illunination",
+  "type": "noun",
+  "description": "light, window, opening for light; possibly a window or skylight in the ark",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "16": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

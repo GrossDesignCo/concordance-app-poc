@@ -4,10 +4,11 @@
   "transliteration": "okhel",
   "englishLiteral": "food",
   "englishNatural": "food",
+  "type": "noun",
+  "description": "food, something to eat, sustenance, nourishment;",
   "related": [
     "akhal"
   ],
-  "type": "noun",
   "wordIndexes": {
     "genesis": {
       "1": {
@@ -21,6 +22,12 @@
       "2": {
         "9": [
           9
+        ]
+      },
+      "6": {
+        "21": [
+          4,
+          12
         ]
       }
     }

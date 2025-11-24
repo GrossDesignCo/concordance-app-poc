@@ -2,15 +2,45 @@
   "key": "oph",
   "hebrew": "עוף",
   "transliteration": "oph",
-  "englishLiteral": "bird",
-  "englishNatural": "bird",
+  "englishLiteral": "flyer",
+  "englishNatural": "flyer",
   "type": "noun",
-  "description": "bird, fowl, flying creature",
+  "description": "general word for a flying creature, usually a bird but also includes bats, fowl, flying creature",
   "wordIndexes": {
     "genesis": {
+      "1": {
+        "26": [
+          9
+        ],
+        "28": [
+          15
+        ],
+        "30": [
+          4
+        ]
+      },
+      "2": {
+        "19": [
+          10
+        ],
+        "20": [
+          5
+        ]
+      },
       "6": {
         "7": [
           16
+        ],
+        "20": [
+          0
+        ]
+      },
+      "7": {
+        "8": [
+          9
+        ],
+        "14": [
+          14
         ]
       }
     }

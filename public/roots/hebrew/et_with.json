@@ -1,0 +1,35 @@
+{
+  "key": "et_with",
+  "hebrew": "אֵת",
+  "transliteration": "et",
+  "englishLiteral": "with",
+  "englishNatural": "with",
+  "description": "with, alongside, in the presence of (preposition); emphasizes personal accompaniment, proximity, or relational presence; distinct from עִם (im) which emphasizes collective association",
+  "type": "preposition",
+  "related": [
+    "im_with"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "18": [
+          3,
+          12
+        ],
+        "19": [
+          10
+        ]
+      },
+      "7": {
+        "7": [
+          6
+        ],
+        "13": [
+          15
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

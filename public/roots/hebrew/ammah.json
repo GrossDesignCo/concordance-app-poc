@@ -1,0 +1,25 @@
+{
+  "key": "ammah",
+  "hebrew": "אמה",
+  "transliteration": "ammah",
+  "englishLiteral": "cubit",
+  "englishNatural": "cubit",
+  "type": "noun",
+  "description": "cubit, a unit of measurement from elbow to fingertip, approximately 18 inches or 45 cm",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "15": [
+          6,
+          10,
+          13
+        ],
+        "16": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

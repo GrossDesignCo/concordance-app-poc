@@ -1,0 +1,45 @@
+{
+  "key": "tevah",
+  "hebrew": "תבה",
+  "transliteration": "tevah",
+  "englishLiteral": "ark",
+  "englishNatural": "ark",
+  "type": "noun",
+  "description": "ark, holy-chest, box for keeping idols/images in Egyptian; used for Noah's ark and for the basket that held baby Moses",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "14": [
+          2,
+          8
+        ],
+        "15": [
+          8
+        ],
+        "16": [
+          2,
+          8
+        ],
+        "18": [
+          6
+        ],
+        "19": [
+          8
+        ]
+      },
+      "7": {
+        "7": [
+          8
+        ],
+        "9": [
+          6
+        ],
+        "13": [
+          17
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

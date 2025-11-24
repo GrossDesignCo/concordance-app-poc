@@ -1,0 +1,20 @@
+{
+  "key": "berit",
+  "hebrew": "ברית",
+  "transliteration": "berit",
+  "englishLiteral": "covenant",
+  "englishNatural": "covenant",
+  "type": "noun",
+  "description": "covenant, treaty, alliance; a binding agreement between parties, often sealed with an oath or ritual",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "18": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

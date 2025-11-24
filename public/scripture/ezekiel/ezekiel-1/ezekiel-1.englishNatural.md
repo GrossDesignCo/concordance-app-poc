@@ -50,7 +50,7 @@ and behold one wheel in the land,
 beside the living-things, to four of his faces.
 
 The appearance of the wheels and their work,
-like an eye of Breaking (Tarshish),
+like an eye of gold-stone,
 and one likeness to four of them,
 and their appearance and their work
 like which it was the wheel in the midst of the wheel.

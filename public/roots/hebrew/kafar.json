@@ -4,9 +4,19 @@
   "transliteration": "kafar",
   "englishLiteral": "to cover",
   "englishNatural": "to cover",
-  "description": "to cover over, to make atonement",
+  "description": "to cover over, to make atonement; to cover with pitch for waterproofing or to cover sin for atonement",
   "type": "verb",
+  "related": [
+    "kofer"
+  ],
   "wordIndexes": {
+    "genesis": {
+      "6": {
+        "14": [
+          9
+        ]
+      }
+    },
     "isaiah": {
       "6": {
         "7": [

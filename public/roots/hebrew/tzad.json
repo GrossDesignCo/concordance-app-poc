@@ -1,0 +1,20 @@
+{
+  "key": "tzad",
+  "hebrew": "צד",
+  "transliteration": "tzad",
+  "englishLiteral": "side",
+  "englishNatural": "side",
+  "type": "noun",
+  "description": "side, flank, edge",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "16": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

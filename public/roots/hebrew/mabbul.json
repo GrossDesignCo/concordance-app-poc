@@ -1,0 +1,31 @@
+{
+  "key": "mabbul",
+  "hebrew": "מבול",
+  "transliteration": "mabbul",
+  "englishLiteral": "flood",
+  "englishNatural": "flood",
+  "type": "noun",
+  "description": "the flood, deluge; specifically Noah's flood, a catastrophic inundation of water",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "17": [
+          4
+        ]
+      },
+      "7": {
+        "6": [
+          5
+        ],
+        "7": [
+          11
+        ],
+        "10": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

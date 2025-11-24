@@ -1,0 +1,172 @@
+import { Verse } from '@/types';
+
+export const genesis_7_10: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 7,
+    verse: 10,
+  },
+  words: [
+    {
+      hebrew: 'וַיְהִי',
+      transliteration: 'vayehi',
+      englishLiteral: 'And-it-was',
+      englishNatural: 'And it was',
+      root: 'hayah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'לְשִׁבְעַת',
+      transliteration: 'leShivat',
+      englishLiteral: 'to-seven-of',
+      englishNatural: 'to seven of',
+      root: 'sheva',
+      prefixes: ['le'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'הַיָּמִים',
+      transliteration: 'haYamim',
+      englishLiteral: 'the-days',
+      englishNatural: 'the days',
+      root: 'yom',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וּמֵי',
+      transliteration: 'uMey',
+      englishLiteral: 'and-waters-of',
+      englishNatural: 'and waters of',
+      root: 'mayim',
+      prefixes: ['u'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַמַּבּוּל',
+      transliteration: 'haMabbul',
+      englishLiteral: 'the-flood',
+      englishNatural: 'the flood',
+      root: 'mabbul',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָיוּ',
+      transliteration: 'hayu',
+      englishLiteral: 'they-were',
+      englishNatural: 'were',
+      root: 'hayah',
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'עַל־',
+      transliteration: 'al-',
+      englishLiteral: 'over-',
+      englishNatural: 'over',
+      root: 'al',
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'הָאָרֶץ',
+      transliteration: 'haAretz',
+      englishLiteral: 'the-land',
+      englishNatural: 'the land',
+      root: 'eretz',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew: 'וַיְהִי לְשִׁבְעַת הַיָּמִים וּמֵי הַמַּבּוּל הָיוּ עַל־הָאָרֶץ',
+    transliteration: 'vayehi leShivat haYamim uMey haMabbul hayu al-haAretz',
+    englishLiteral:
+      'And-it-was to-seven-of the-days, and-waters-of the-flood they-were over- the-land.',
+    englishNatural:
+      'And it was to seven of the days, and waters of the flood were over the land.',
+    kjv: 'And it came to pass after seven days, that the waters of the flood were upon the earth.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+  },
+};

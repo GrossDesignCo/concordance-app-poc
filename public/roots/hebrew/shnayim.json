@@ -1,0 +1,89 @@
+{
+  "key": "shnayim",
+  "hebrew": "שנים",
+  "transliteration": "shnayim",
+  "englishLiteral": "two",
+  "englishNatural": "two",
+  "type": "numeral",
+  "description": "two; the number two, a pair, both (masculine form שְׁנַיִם, feminine form שְׁתַּיִם)",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "11": [
+          5,
+          8
+        ],
+        "23": [
+          8,
+          12
+        ]
+      }
+    },
+    "genesis": {
+      "1": {
+        "16": [
+          3
+        ]
+      },
+      "3": {
+        "7": [
+          2
+        ]
+      },
+      "4": {
+        "19": [
+          3
+        ]
+      },
+      "5": {
+        "8": [
+          4
+        ],
+        "18": [
+          2
+        ],
+        "20": [
+          4
+        ],
+        "26": [
+          5
+        ],
+        "28": [
+          2
+        ]
+      },
+      "6": {
+        "19": [
+          4
+        ],
+        "20": [
+          9
+        ]
+      },
+      "7": {
+        "9": [
+          0,
+          1
+        ]
+      }
+    },
+    "isaiah": {
+      "6": {
+        "2": [
+          7,
+          10,
+          13
+        ]
+      }
+    },
+    "jonah": {
+      "4": {
+        "11": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

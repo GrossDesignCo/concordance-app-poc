@@ -1,0 +1,199 @@
+import { Verse } from '@/types';
+
+export const genesis_7_6: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 7,
+    verse: 6,
+  },
+  words: [
+    {
+      hebrew: 'וְנֹחַ',
+      transliteration: 'veNoach',
+      englishLiteral: 'And-Rest (Noah)',
+      englishNatural: 'And Rest (Noah)',
+      root: 'noach',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'בֶּן־',
+      transliteration: 'ben-',
+      englishLiteral: 'son-of-',
+      englishNatural: 'a son of',
+      root: 'ben',
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'שֵׁשׁ',
+      transliteration: 'shesh',
+      englishLiteral: 'six',
+      englishNatural: 'six',
+      root: 'shesh',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'מֵאוֹת',
+      transliteration: 'meot',
+      englishLiteral: 'hundreds',
+      englishNatural: 'hundred',
+      root: 'meah',
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'plural',
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'שָׁנָה',
+      transliteration: 'shanah',
+      englishLiteral: 'year',
+      englishNatural: 'years',
+      root: 'shanah',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְהַמַּבּוּל',
+      transliteration: 'veHaMabbul',
+      englishLiteral: 'and-the-flood',
+      englishNatural: 'and the flood',
+      root: 'mabbul',
+      prefixes: ['ve', 'ha'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָיָה',
+      transliteration: 'hayah',
+      englishLiteral: 'it-was',
+      englishNatural: 'was',
+      root: 'hayah',
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'מַיִם',
+      transliteration: 'mayim',
+      englishLiteral: 'waters',
+      englishNatural: 'waters',
+      root: 'mayim',
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'עַל־',
+      transliteration: 'al-',
+      englishLiteral: 'over-',
+      englishNatural: 'over',
+      root: 'al',
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'הָאָרֶץ',
+      transliteration: 'haAretz',
+      englishLiteral: 'the-land',
+      englishNatural: 'the land',
+      root: 'eretz',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וְנֹחַ בֶּן־שֵׁשׁ מֵאוֹת שָׁנָה וְהַמַּבּוּל הָיָה מַיִם עַל־הָאָרֶץ',
+    transliteration:
+      'veNoach ben-shesh meot shanah veHaMabbul hayah mayim al-haAretz',
+    englishLiteral:
+      'And-Rest (Noah), son-of- six hundreds year, and-the-flood it-was waters over- the-land.',
+    englishNatural:
+      'And Rest (Noah), a son of six hundred years, and the flood was waters over the land.',
+    kjv: 'And Noah was six hundred years old when the flood of waters was upon the earth.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+  },
+};

@@ -155,7 +155,7 @@ export const ezekiel_1_23: Verse = {
       transliteration: 'shtayim',
       englishLiteral: 'two',
       englishNatural: 'two',
-      root: 'shtayim',
+      root: 'shnayim',
       order: {
         hebrew: 9,
         english: 8,
@@ -232,7 +232,7 @@ export const ezekiel_1_23: Verse = {
       transliteration: 'shtayim',
       englishLiteral: 'two',
       englishNatural: 'and two',
-      root: 'shtayim',
+      root: 'shnayim',
       order: {
         hebrew: 13,
         english: 12,
@@ -326,6 +326,6 @@ export const ezekiel_1_23: Verse = {
     englishNatural:
       'And under the hammering-out their wings straight, woman to her sister; two to a man, a covering to them, and two to a man, a covering to them their bodies.',
     kjv: 'And under the firmament were their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 };

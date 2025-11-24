@@ -172,8 +172,8 @@ export const genesis_2_3: Verse = {
     {
       hebrew: 'שָׁבַת',
       transliteration: 'shavat',
-      englishLiteral: 'stopped',
-      englishNatural: 'he stopped',
+      englishLiteral: 'sabbathed',
+      englishNatural: 'he sabbathed',
       root: 'shavat',
       order: {
         hebrew: 10,
@@ -306,10 +306,10 @@ export const genesis_2_3: Verse = {
     transliteration:
       'vaYeVarekh Elohim et-yom haShvi`i vaYeQadesh oto ki bo shavat miKol-melakhto asher bara Elohim laasot',
     englishLiteral:
-      'And-blessed Gods ↳ day the-seventh, and-sanctified him; that in-it stopped from-all his-work, which created Gods to-make.',
+      'And-blessed Gods ↳ day the-seventh, and-sanctified him; that in-it sabbathed from-all his-work, which created Gods to-make.',
     englishNatural:
-      'And God blessed the seventh day, and sanctified it; that in it he stopped from all his work, which God created, made.',
+      'And God blessed the seventh day, and sanctified it; that in it he sabbathed from all his work, which God created, made.',
     kjv: 'And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 };

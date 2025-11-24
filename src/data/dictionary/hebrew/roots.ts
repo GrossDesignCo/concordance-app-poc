@@ -668,6 +668,16 @@ const ROOTS = {
     description: 'a direct object marker, points to the object of the verb',
     type: 'particle',
   },
+  et_with: {
+    hebrew: 'אֵת',
+    transliteration: 'et',
+    englishLiteral: 'with',
+    englishNatural: 'with',
+    description:
+      'with, alongside, in the presence of (preposition); emphasizes personal accompaniment, proximity, or relational presence; distinct from עִם (im) which emphasizes collective association',
+    type: 'preposition',
+    related: ['im_with'],
+  },
   // Add missing root for 'on/upon'
   al: {
     hebrew: 'עַל',
@@ -796,12 +806,14 @@ const ROOTS = {
     englishNatural: 'one',
     type: 'numeral',
   },
-  shtayim: {
-    hebrew: 'שתים',
-    transliteration: 'shtayim',
+  shnayim: {
+    hebrew: 'שנים',
+    transliteration: 'shnayim',
     englishLiteral: 'two',
     englishNatural: 'two',
     type: 'numeral',
+    description:
+      'two; the number two, a pair, both (masculine form שְׁנַיִם, feminine form שְׁתַּיִם)',
   },
   uf: {
     hebrew: 'עוף',
@@ -1238,15 +1250,9 @@ const ROOTS = {
     transliteration: 'okhel',
     englishLiteral: 'food',
     englishNatural: 'food',
+    type: 'noun',
+    description: 'food, something to eat, sustenance, nourishment;',
     related: ['akhal'],
-    type: 'noun',
-  },
-  of: {
-    hebrew: 'עוף',
-    transliteration: 'of',
-    englishLiteral: 'bird',
-    englishNatural: 'bird',
-    type: 'noun',
   },
   yerek: {
     hebrew: 'ירק',
@@ -1338,8 +1344,8 @@ const ROOTS = {
   shavat: {
     hebrew: 'שבת',
     transliteration: 'shavat',
-    englishLiteral: 'to stop',
-    englishNatural: 'to stop',
+    englishLiteral: 'to sabbath',
+    englishNatural: 'to sabbath',
     description: 'specifically to Sabbath, to take a holy rest period',
     type: 'verb',
   },
@@ -1994,8 +2000,10 @@ const ROOTS = {
     transliteration: 'kafar',
     englishLiteral: 'to cover',
     englishNatural: 'to cover',
-    description: 'to cover over, to make atonement',
+    description:
+      'to cover over, to make atonement; to cover with pitch for waterproofing or to cover sin for atonement',
     type: 'verb',
+    related: ['kofer'],
   },
   // --- Added for Genesis 3:5 ---
   yada: {
@@ -2172,7 +2180,9 @@ const ROOTS = {
     englishLiteral: 'with',
     englishNatural: 'with',
     type: 'preposition',
-    description: 'with, together with, in company with',
+    description:
+      'with, together with, in company with, among; emphasizes collective association, being part of a group, or doing something together; distinct from אֵת (et) which emphasizes personal proximity or relational presence',
+    related: ['et_with'],
   },
   hi: {
     hebrew: 'היא',
@@ -3002,10 +3012,21 @@ const ROOTS = {
   petach: {
     hebrew: 'פֶּתַח',
     transliteration: 'petach',
-    englishLiteral: 'door',
-    englishNatural: 'door',
+    englishLiteral: 'opening',
+    englishNatural: 'opening',
     type: 'noun',
-    description: 'door, entrance, opening',
+    description:
+      'opening, entrance, doorway (the aperture, not the door object itself)',
+    related: ['patach'],
+  },
+  patach: {
+    hebrew: 'פָּתַח',
+    transliteration: 'patach',
+    englishLiteral: 'to open',
+    englishNatural: 'to open',
+    type: 'verb',
+    description: 'to open, to loosen, to unseal',
+    related: ['petach'],
   },
   ravatz: {
     hebrew: 'רָבַץ',
@@ -3959,15 +3980,6 @@ const ROOTS = {
     description: 'proper name, Japheth, meaning "expansion" or "spaciousness"',
   },
   // Genesis 5:8 additions
-  shteym: {
-    hebrew: 'שְׁתֵּים',
-    transliteration: 'shteym',
-    englishLiteral: 'two',
-    englishNatural: 'two',
-    type: 'numeral',
-    description: 'two, the number two (feminine form)',
-    related: ['shtayim'],
-  },
   esreh: {
     hebrew: 'עֶשְׂרֵה',
     transliteration: 'esreh',
@@ -5529,10 +5541,11 @@ const ROOTS = {
   oph: {
     hebrew: 'עוף',
     transliteration: 'oph',
-    englishLiteral: 'bird',
-    englishNatural: 'bird',
+    englishLiteral: 'flyer',
+    englishNatural: 'flyer',
     type: 'noun',
-    description: 'bird, fowl, flying creature',
+    description:
+      'general word for a flying creature, usually a bird but also includes bats, fowl, flying creature',
   },
   // Genesis 6:8 additions
   noach: {
@@ -5949,6 +5962,207 @@ const ROOTS = {
     englishNatural: 'rain',
     type: 'noun',
     description: 'rain, shower, downpour',
+  },
+  tevah: {
+    hebrew: 'תבה',
+    transliteration: 'tevah',
+    englishLiteral: 'ark',
+    englishNatural: 'ark',
+    type: 'noun',
+    description:
+      "ark, holy-chest, box for keeping idols/images in Egyptian; used for Noah's ark and for the basket that held baby Moses",
+  },
+  gopher: {
+    hebrew: 'גפר',
+    transliteration: 'gopher',
+    englishLiteral: 'gopher',
+    englishNatural: 'gopher',
+    type: 'noun',
+    description:
+      "gopher wood, a type of wood used in building Noah's ark; exact species unknown, possibly cypress or resinous wood",
+    related: ['kofer'],
+  },
+  qen: {
+    hebrew: 'קן',
+    transliteration: 'qen',
+    englishLiteral: 'nest',
+    englishNatural: 'nest',
+    type: 'noun',
+    description: 'nest, room, cell, chamber; a compartment or dwelling place',
+  },
+  kofer: {
+    hebrew: 'כפר',
+    transliteration: 'kofer',
+    englishLiteral: 'covering',
+    englishNatural: 'covering',
+    type: 'noun',
+    description:
+      'pitch, tar, bitumen, covering; a waterproofing substance; also ransom, atonement price',
+    related: ['kafar', 'gopher'],
+  },
+  ammah: {
+    hebrew: 'אמה',
+    transliteration: 'ammah',
+    englishLiteral: 'cubit',
+    englishNatural: 'cubit',
+    type: 'noun',
+    description:
+      'cubit, a unit of measurement from elbow to fingertip, approximately 18 inches or 45 cm',
+  },
+  chamishim: {
+    hebrew: 'חמשים',
+    transliteration: 'chamishim',
+    englishLiteral: 'fifty',
+    englishNatural: 'fifty',
+    type: 'numeral',
+    description: 'fifty, the number 50',
+  },
+  rochav: {
+    hebrew: 'רחב',
+    transliteration: 'rochav',
+    englishLiteral: 'breadth',
+    englishNatural: 'breadth',
+    type: 'noun',
+    description: 'breadth, width, expanse',
+  },
+  qomah: {
+    hebrew: 'קומה',
+    transliteration: 'qomah',
+    englishLiteral: 'height',
+    englishNatural: 'height',
+    type: 'noun',
+    description: 'height, stature, rising up',
+    related: ['qum'],
+  },
+  tzohar: {
+    hebrew: 'צהר',
+    transliteration: 'tzohar',
+    englishLiteral: 'illunination',
+    englishNatural: 'illunination',
+    type: 'noun',
+    description:
+      'light, window, opening for light; possibly a window or skylight in the ark',
+  },
+  tzad: {
+    hebrew: 'צד',
+    transliteration: 'tzad',
+    englishLiteral: 'side',
+    englishNatural: 'side',
+    type: 'noun',
+    description: 'side, flank, edge',
+  },
+  tachti: {
+    hebrew: 'תחתי',
+    transliteration: 'tachti',
+    englishLiteral: 'lower',
+    englishNatural: 'lower',
+    type: 'adjective',
+    description: 'lower, lowest, bottom',
+  },
+  mabbul: {
+    hebrew: 'מבול',
+    transliteration: 'mabbul',
+    englishLiteral: 'flood',
+    englishNatural: 'flood',
+    type: 'noun',
+    description:
+      "the flood, deluge; specifically Noah's flood, a catastrophic inundation of water",
+  },
+  gava: {
+    hebrew: 'גוע',
+    transliteration: 'gava',
+    englishLiteral: 'to expire',
+    englishNatural: 'to expire',
+    type: 'verb',
+    description:
+      "to expire, to die, to perish, to breathe out one's last breath",
+    related: ['mut'],
+  },
+  berit: {
+    hebrew: 'ברית',
+    transliteration: 'berit',
+    englishLiteral: 'covenant',
+    englishNatural: 'covenant',
+    type: 'noun',
+    description:
+      'covenant, treaty, alliance; a binding agreement between parties, often sealed with an oath or ritual',
+  },
+  asaph: {
+    hebrew: 'אסף',
+    transliteration: 'asaph',
+    englishLiteral: 'to gather',
+    englishNatural: 'to gather',
+    type: 'verb',
+    description: 'to gather, to collect, to assemble, to bring together',
+  },
+  tahor: {
+    hebrew: 'טהור',
+    transliteration: 'tahor',
+    englishLiteral: 'clean',
+    englishNatural: 'clean',
+    type: 'adjective',
+    description:
+      'clean, pure, ceremonially clean; ritually acceptable, undefiled',
+  },
+  chodesh: {
+    hebrew: 'חדש',
+    transliteration: 'chodesh',
+    englishLiteral: 'month',
+    englishNatural: 'month',
+    type: 'noun',
+    description: 'month, new moon, lunar month',
+  },
+  asar: {
+    hebrew: 'עשר',
+    transliteration: 'asar',
+    englishLiteral: 'ten',
+    englishNatural: 'ten',
+    type: 'numeral',
+    description: 'ten, decade',
+  },
+  baqa: {
+    hebrew: 'בקע',
+    transliteration: 'baqa',
+    englishLiteral: 'to break_open',
+    englishNatural: 'to break-open',
+    type: 'verb',
+    description:
+      'to break open, to split, to cleave, to burst forth; to break through',
+  },
+  arubbah: {
+    hebrew: 'ארבה',
+    transliteration: 'arubbah',
+    englishLiteral: 'window',
+    englishNatural: 'window',
+    type: 'noun',
+    description:
+      'window, lattice, sluice; specifically windows of heaven, floodgates',
+  },
+  etzem: {
+    hebrew: 'עצם',
+    transliteration: 'etzem',
+    englishLiteral: 'bone',
+    englishNatural: 'bone',
+    type: 'noun',
+    description:
+      'bone, substance, self, very; used idiomatically to mean "the very same" or "this exact"',
+  },
+  tzippor: {
+    hebrew: 'צפור',
+    transliteration: 'tzippor',
+    englishLiteral: 'sparrow',
+    englishNatural: 'sparrow',
+    type: 'noun',
+    description: 'sparrow, small bird, sparrow',
+    related: ['oph'],
+  },
+  kanaph: {
+    hebrew: 'כנף',
+    transliteration: 'kanaph',
+    englishLiteral: 'wing',
+    englishNatural: 'wing',
+    type: 'noun',
+    description: 'wing, extremity, edge, corner; also used metaphorically',
   },
 } as const;
 

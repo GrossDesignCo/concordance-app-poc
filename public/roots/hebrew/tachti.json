@@ -1,0 +1,20 @@
+{
+  "key": "tachti",
+  "hebrew": "תחתי",
+  "transliteration": "tachti",
+  "englishLiteral": "lower",
+  "englishNatural": "lower",
+  "type": "adjective",
+  "description": "lower, lowest, bottom",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "16": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

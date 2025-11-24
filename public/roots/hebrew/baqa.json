@@ -1,0 +1,20 @@
+{
+  "key": "baqa",
+  "hebrew": "בקע",
+  "transliteration": "baqa",
+  "englishLiteral": "to break_open",
+  "englishNatural": "to break-open",
+  "type": "verb",
+  "description": "to break open, to split, to cleave, to burst forth; to break through",
+  "wordIndexes": {
+    "genesis": {
+      "7": {
+        "11": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

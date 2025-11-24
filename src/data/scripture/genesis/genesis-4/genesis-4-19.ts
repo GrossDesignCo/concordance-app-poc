@@ -67,7 +67,7 @@ export const genesis_4_19: Verse = {
       transliteration: 'shte',
       englishLiteral: 'two',
       englishNatural: 'two',
-      root: 'shtayim',
+      root: 'shnayim',
       order: {
         hebrew: 4,
         english: 4,
@@ -227,6 +227,6 @@ export const genesis_4_19: Verse = {
     englishNatural:
       'And Powerful (Lamech) took to himself two women; the name of the one, Ornament (Adah), and the name of the second, Shadow (Zillah).',
     kjv: 'And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
 },
 };

@@ -1,0 +1,23 @@
+{
+  "key": "tzippor",
+  "hebrew": "צפור",
+  "transliteration": "tzippor",
+  "englishLiteral": "sparrow",
+  "englishNatural": "sparrow",
+  "type": "noun",
+  "description": "sparrow, small bird, sparrow",
+  "related": [
+    "oph"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "7": {
+        "14": [
+          17
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

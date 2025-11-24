@@ -110,7 +110,7 @@ export const ezekiel_1_11: Verse = {
       transliteration: 'shtayim',
       englishLiteral: 'two',
       englishNatural: 'two',
-      root: 'shtayim',
+      root: 'shnayim',
       order: {
         hebrew: 6,
         english: 5,
@@ -166,7 +166,7 @@ export const ezekiel_1_11: Verse = {
       transliteration: 'uShtayim',
       englishLiteral: 'and-two',
       englishNatural: 'and two',
-      root: 'shtayim',
+      root: 'shnayim',
       prefixes: ['ve'],
       order: {
         hebrew: 9,
@@ -243,6 +243,6 @@ export const ezekiel_1_11: Verse = {
     englishNatural:
       'And their faces and their wings separated upward; two joining man to man, and two covering their bodies.',
     kjv: 'Thus were their faces: and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 };

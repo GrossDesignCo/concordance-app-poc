@@ -1,0 +1,20 @@
+{
+  "key": "kanaph",
+  "hebrew": "כנף",
+  "transliteration": "kanaph",
+  "englishLiteral": "wing",
+  "englishNatural": "wing",
+  "type": "noun",
+  "description": "wing, extremity, edge, corner; also used metaphorically",
+  "wordIndexes": {
+    "genesis": {
+      "7": {
+        "14": [
+          19
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

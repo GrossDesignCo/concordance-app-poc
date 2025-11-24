@@ -1,0 +1,20 @@
+{
+  "key": "qen",
+  "hebrew": "קן",
+  "transliteration": "qen",
+  "englishLiteral": "nest",
+  "englishNatural": "nest",
+  "type": "noun",
+  "description": "nest, room, cell, chamber; a compartment or dwelling place",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "14": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

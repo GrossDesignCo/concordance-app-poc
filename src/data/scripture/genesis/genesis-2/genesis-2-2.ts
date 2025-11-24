@@ -148,8 +148,8 @@ export const genesis_2_2: Verse = {
     {
       hebrew: 'וַיִּשְׁבֹּת',
       transliteration: 'vaYishbot',
-      englishLiteral: 'and-stopped',
-      englishNatural: 'and stopped',
+      englishLiteral: 'and-sabbathed',
+      englishNatural: 'and sabbathed',
       root: 'shavat',
       prefixes: ['va'],
       order: {
@@ -283,10 +283,10 @@ export const genesis_2_2: Verse = {
     transliteration:
       'vaYechal Elohim baYom haShvi`i melakhto asher asah; vaYishbot baYom haShvi`i miKol-melakhto asher asah',
     englishLiteral:
-      'And-finished Gods in-day the-seventh, his-work which made; and-stopped in-day the-seventh, from-all his-work which made.',
+      'And-finished Gods in-day the-seventh, his-work which made; and-sabbathed in-day the-seventh, from-all his-work which made.',
     englishNatural:
-      'And God finished in the seventh day, his work which he made; and stopped in the seventh day, from all his work which he made.',
+      'And God finished in the seventh day, his work which he made; and sabbathed in the seventh day, from all his work which he made.',
     kjv: 'And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 };

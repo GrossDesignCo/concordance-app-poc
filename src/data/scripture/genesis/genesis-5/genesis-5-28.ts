@@ -53,7 +53,7 @@ export const genesis_5_28: Verse = {
       transliteration: 'shtayim',
       englishLiteral: 'two',
       englishNatural: 'two',
-      root: 'shtayim',
+      root: 'shnayim',
       order: {
         hebrew: 3,
         english: 3,
@@ -190,6 +190,6 @@ export const genesis_5_28: Verse = {
     englishNatural:
       'And Lamech lived two and eighty years and a hundred years, and birthed a son.',
     kjv: 'And Lamech lived an hundred eighty and two years, and begat a son:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 };

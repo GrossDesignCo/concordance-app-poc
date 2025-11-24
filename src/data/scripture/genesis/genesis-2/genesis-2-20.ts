@@ -107,7 +107,7 @@ export const genesis_2_20: Verse = {
       transliteration: 'uLeOf',
       englishLiteral: 'and-to-flyer',
       englishNatural: 'and to flyer of',
-      root: 'of',
+      root: 'oph',
       prefixes: ['u', 'le'],
       order: {
         hebrew: 6,
@@ -291,6 +291,6 @@ export const genesis_2_20: Verse = {
     englishNatural:
       'And the human called-out names to every beast, and to flyer of the skies, and to every living-thing of the field, and to Human (Adam), no help was found as his opposite.',
     kjv: 'And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 };

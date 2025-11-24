@@ -1,0 +1,381 @@
+import { Verse } from '@/types';
+
+export const genesis_7_14: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 7,
+    verse: 14,
+  },
+  words: [
+    {
+      hebrew: 'הֵמָּה',
+      transliteration: 'hemmah',
+      englishLiteral: 'they',
+      englishNatural: 'they',
+      root: 'hem',
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        type: 'pronoun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'וְכָל־',
+      transliteration: 'veKhol-',
+      englishLiteral: 'and-all-',
+      englishNatural: 'and all',
+      root: 'kol',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַחַיָּה',
+      transliteration: 'haChayah',
+      englishLiteral: 'the-living_thing',
+      englishNatural: 'the living-thing',
+      root: 'chayah',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לְמִינָהּ',
+      transliteration: 'leMina',
+      englishLiteral: 'to-kind-her',
+      englishNatural: 'to its kind',
+      root: 'min',
+      prefixes: ['le'],
+      suffixes: ['ah'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְכָל־',
+      transliteration: 'veKhol-',
+      englishLiteral: 'and-all-',
+      englishNatural: 'and all',
+      root: 'kol',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַבְּהֵמָה',
+      transliteration: 'haBehemah',
+      englishLiteral: 'the-beast',
+      englishNatural: 'the beast',
+      root: 'behemah',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לְמִינָהּ',
+      transliteration: 'leMina',
+      englishLiteral: 'to-kind-her',
+      englishNatural: 'to its kind',
+      root: 'min',
+      prefixes: ['le'],
+      suffixes: ['ah'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְכָל־',
+      transliteration: 'veKhol-',
+      englishLiteral: 'and-all-',
+      englishNatural: 'and all',
+      root: 'kol',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָרֶמֶשׂ',
+      transliteration: 'haRemes',
+      englishLiteral: 'the-creeping_thing',
+      englishNatural: 'the creeping-thing',
+      root: 'remes',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָרֹמֵשׂ',
+      transliteration: 'haRomes',
+      englishLiteral: 'the-creeping',
+      englishNatural: 'the creeping',
+      root: 'ramas',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'עַל־',
+      transliteration: 'al-',
+      englishLiteral: 'over-',
+      englishNatural: 'over',
+      root: 'al',
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'הָאָרֶץ',
+      transliteration: 'haAretz',
+      englishLiteral: 'the-land',
+      englishNatural: 'the land',
+      root: 'eretz',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לְמִינֵהוּ',
+      transliteration: 'leMinehu',
+      englishLiteral: 'to-kind-his',
+      englishNatural: 'to its kind',
+      root: 'min',
+      prefixes: ['le'],
+      suffixes: ['hu'],
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְכָל־',
+      transliteration: 'veKhol-',
+      englishLiteral: 'and-all-',
+      englishNatural: 'and all',
+      root: 'kol',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָעוֹף',
+      transliteration: 'haOph',
+      englishLiteral: 'the-flier',
+      englishNatural: 'the flier',
+      root: 'oph',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לְמִינֵהוּ',
+      transliteration: 'leMinehu',
+      englishLiteral: 'to-kind-his',
+      englishNatural: 'to its kind',
+      root: 'min',
+      prefixes: ['le'],
+      suffixes: ['hu'],
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'כֹּל',
+      transliteration: 'kol',
+      englishLiteral: 'all',
+      englishNatural: 'all',
+      root: 'kol',
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'צִפּוֹר',
+      transliteration: 'tzippor',
+      englishLiteral: 'sparrow',
+      englishNatural: 'sparrow',
+      root: 'tzippor',
+      order: {
+        hebrew: 18,
+        english: 18,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'כָּל־',
+      transliteration: 'kol-',
+      englishLiteral: 'all-',
+      englishNatural: 'all',
+      root: 'kol',
+      order: {
+        hebrew: 19,
+        english: 19,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'כָּנָף',
+      transliteration: 'kanaph',
+      englishLiteral: 'wing',
+      englishNatural: 'wing',
+      root: 'kanaph',
+      order: {
+        hebrew: 20,
+        english: 20,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'הֵמָּה וְכָל־הַחַיָּה לְמִינָהּ וְכָל־הַבְּהֵמָה לְמִינָהּ וְכָל־הָרֶמֶשׂ הָרֹמֵשׂ עַל־הָאָרֶץ לְמִינֵהוּ וְכָל־הָעוֹף לְמִינֵהוּ כֹּל צִפּוֹר כָּל־כָּנָף',
+    transliteration:
+      'hemmah veKhol-haChayah leMina veKhol-haBehemah leMina veKhol-haRemes haRomes al-haAretz leMinehu veKhol-haOph leMinehu kol tzippor kol-kanaph',
+    englishLiteral:
+      'they, and-all- the-living_thing to-kind-her, and-all- the-beast to-kind-her, and-all- the-creeping_thing the-creeping over- the-land to-kind-his, and-all- the-flier to-kind-his, all sparrow, all- wing.',
+    englishNatural:
+      'they, and all the living-thing to its kind, and all the beast to its kind, and all the creeping-thing the creeping over the land to its kind, and all the flier to its kind, all sparrow, all wing.',
+    kjv: 'They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+  },
+};

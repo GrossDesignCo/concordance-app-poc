@@ -3,12 +3,12 @@ And-was word-of He_Who_Is to- Dove (Jonah) son-of My_Truth, to-say;
 "Stand_up, go to- Dwelling_of_Fish (Nineveh), the-city, the-great; 
 and-call_out over-her, that- went_up bad-their before-me."
 
-And-stood_up Dove (Jonah), to-flee Breaking (Tarshish), 
+And-stood_up Dove (Jonah), to-flee Gold-Stone (Tarshish), 
 from-the-face-of He_Who_Is, 
 and-went_down Beautiful (Joppa); 
-and-found ship going Breaking (Tarshish); 
+and-found ship going Gold-Stone (Tarshish); 
 and-gave fare-her, 
-and-went_down in-her, to-go with-them Breaking (Tarshish), 
+and-went_down in-her, to-go with-them Gold-Stone (Tarshish), 
 from-the-face-of He_Who_Is.
 
 And-He_Who_Is hurled wind- great to- the-sea, 

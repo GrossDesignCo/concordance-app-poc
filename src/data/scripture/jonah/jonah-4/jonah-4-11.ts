@@ -201,7 +201,7 @@ export const jonah_4_11: Verse = {
       transliteration: 'mishteym-',
       englishLiteral: 'from-two-',
       englishNatural: 'more than two',
-      root: 'shtayim',
+      root: 'shnayim',
       prefixes: ['mi'],
       order: {
         hebrew: 12,
@@ -420,6 +420,6 @@ export const jonah_4_11: Verse = {
     englishNatural:
       'And I, will I pity not over Dwelling-of-Fish (Nineveh), the city, the great, which there-is in her much more than two ten ten-thousand Human (Adam), which knows not between his right-hand to his left-hand; and many beast?"',
     kjv: 'And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 };

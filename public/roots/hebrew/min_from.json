@@ -7,6 +7,20 @@
   "type": "preposition",
   "description": "from, out of, away from, since, than",
   "wordIndexes": {
+    "genesis": {
+      "6": {
+        "20": [
+          2
+        ]
+      },
+      "7": {
+        "8": [
+          0,
+          3,
+          8
+        ]
+      }
+    },
     "jonah": {
       "3": {
         "8": [

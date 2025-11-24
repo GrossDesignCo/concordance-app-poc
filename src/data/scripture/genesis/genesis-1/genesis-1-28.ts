@@ -314,7 +314,7 @@ export const genesis_1_28: Verse = {
       transliteration: 'uVeOf',
       englishLiteral: 'and-in-flyer-of',
       englishNatural: 'and among flyer of',
-      root: 'of',
+      root: 'oph',
       prefixes: ['u', 'be'],
       order: {
         hebrew: 16,
@@ -435,11 +435,15 @@ export const genesis_1_28: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִ֒ים וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִים֮ פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת־הָאָ֖רֶץ וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּ֔ם וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל־חַיָּ֖ה הָֽרֹמֶ֖שֶׂת עַל־הָאָֽרֶץ׃',
-    transliteration: 'vaYeVarech otam Elohim vaYomer lahem Elohim peru uRevu uMilu et-haAretz veKivshuah uRedu biDgat haYam uVeOf haShamayim uVeKol-chayah haRomeset al-haAretz',
-    englishLiteral: 'And-blessed them Gods, And-said to-them Gods, "Be-fruitful and-multiply and-fill ↳ the-land, And-conquer and-subjugate in-fish-of the-sea, and-in-flyer-of the-skies, and-in-all living-thing the-crawling over the-land."',
-    englishNatural: 'And God blessed them, And God said to them, "Be fruitful and multiply and fill the land, And conquer and subjugate among fish of the sea, and among flyer of the skies, and among all the crawling living thing over the land."',
+    hebrew:
+      'וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִ֒ים וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִים֮ פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת־הָאָ֖רֶץ וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּ֔ם וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל־חַיָּ֖ה הָֽרֹמֶ֖שֶׂת עַל־הָאָֽרֶץ׃',
+    transliteration:
+      'vaYeVarech otam Elohim vaYomer lahem Elohim peru uRevu uMilu et-haAretz veKivshuah uRedu biDgat haYam uVeOf haShamayim uVeKol-chayah haRomeset al-haAretz',
+    englishLiteral:
+      'And-blessed them Gods, And-said to-them Gods, "Be-fruitful and-multiply and-fill ↳ the-land, And-conquer and-subjugate in-fish-of the-sea, and-in-flyer-of the-skies, and-in-all living-thing the-crawling over the-land."',
+    englishNatural:
+      'And God blessed them, And God said to them, "Be fruitful and multiply and fill the land, And conquer and subjugate among fish of the sea, and among flyer of the skies, and among all the crawling living thing over the land."',
     kjv: 'And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
-}; 
+};

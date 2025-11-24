@@ -59,7 +59,7 @@ export const genesis_3_7: Verse = {
       transliteration: 'shneyhem',
       englishLiteral: 'two-of-them',
       englishNatural: 'both of them',
-      root: 'shtayim',
+      root: 'shnayim',
       suffixes: ['hem'],
       order: {
         hebrew: 3,
@@ -271,6 +271,6 @@ export const genesis_3_7: Verse = {
     englishLiteral: 'And-opened-were eyes-of two-of-them, and-knew that naked they; and-sewed leaf-of fig, and-made to-them girdings.',
     englishNatural: 'And the eyes of both of them were opened, and they knew that they were naked; and they sewed leaf of fig, and made for themselves girdings.',
     kjv: 'And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 }; 

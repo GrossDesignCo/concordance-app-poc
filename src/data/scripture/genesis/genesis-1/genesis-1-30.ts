@@ -82,7 +82,7 @@ export const genesis_1_30: Verse = {
       transliteration: 'of',
       englishLiteral: 'flyer-of',
       englishNatural: 'flyer of',
-      root: 'of',
+      root: 'oph',
       order: {
         hebrew: 5,
         english: 5,
@@ -363,11 +363,15 @@ export const genesis_1_30: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וּלְכָל־חַיַּ֣ת הָאָ֗רֶץ וּלְכָל־ע֣וֹף הַשָּׁמַ֔יִם וּלְכֹ֖ל רוֹמֵ֣שׂ עַל־הָאָ֑רֶץ אֲשֶׁר־בּ֛וֹ נֶ֥פֶשׁ חַיָּ֖ה אֶת־כָּל־יֶ֥רֶק עֵ֖שֶׂב לְאָכְלָ֑ה וַֽיְהִי־כֵֽן׃',
-    transliteration: 'uLeKol-chayat haAretz uLeKol-of haShamayim uLeKol romes al-haAretz asher-bo nephesh chayah et-kol-yerek esev leOchlah vaVayhi-ken',
-    englishLiteral: 'And-to-all living_thing-of the-land, and-to-all flyer-of the-skies, and-to-all crawler over the-land, which in-it throat living ↳ all green herb for-food." And-was so.',
-    englishNatural: 'And to all living-thing of the land, and to all flyer of the skies, and to all crawler over the land, which in it is living throat: all green herb for food." And it was so.',
+    hebrew:
+      'וּלְכָל־חַיַּ֣ת הָאָ֗רֶץ וּלְכָל־ע֣וֹף הַשָּׁמַ֔יִם וּלְכֹ֖ל רוֹמֵ֣שׂ עַל־הָאָ֑רֶץ אֲשֶׁר־בּ֛וֹ נֶ֥פֶשׁ חַיָּ֖ה אֶת־כָּל־יֶ֥רֶק עֵ֖שֶׂב לְאָכְלָ֑ה וַֽיְהִי־כֵֽן׃',
+    transliteration:
+      'uLeKol-chayat haAretz uLeKol-of haShamayim uLeKol romes al-haAretz asher-bo nephesh chayah et-kol-yerek esev leOchlah vaVayhi-ken',
+    englishLiteral:
+      'And-to-all living_thing-of the-land, and-to-all flyer-of the-skies, and-to-all crawler over the-land, which in-it throat living ↳ all green herb for-food." And-was so.',
+    englishNatural:
+      'And to all living-thing of the land, and to all flyer of the skies, and to all crawler over the land, which in it is living throat: all green herb for food." And it was so.',
     kjv: 'And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
-}; 
+};

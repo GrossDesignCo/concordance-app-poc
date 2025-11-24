@@ -21,7 +21,7 @@ And-He-said He_Who_Is to- Acquired (Cain),
 "Why it-fumed_angrily to-you, and-why they-fell your-faces?
 
 And-is_there_not, if- you-do_well, lifting_up?
-And-if not you-do_well, to-door sin crouching,
+And-if not you-do_well, to-opening sin crouching,
 and-to-you its-fixation, and-you you-will-rule- over-it."
 
 And-he-said Acquired (Cain) to Vapor (Abel) his-brother;

@@ -80,7 +80,7 @@ export const genesis_5_20: Verse = {
       transliteration: 'shtayim',
       englishLiteral: 'two',
       englishNatural: 'two',
-      root: 'shtayim',
+      root: 'shnayim',
       order: {
         hebrew: 5,
         english: 5,
@@ -215,6 +215,6 @@ export const genesis_5_20: Verse = {
     englishNatural:
       'And all the days of Descending (Jared) were two and sixty years and nine hundred years, and he died.',
     kjv: 'And all the days of Jared were nine hundred sixty and two years: and he died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
 },
 };

@@ -1,0 +1,21 @@
+{
+  "key": "tahor",
+  "hebrew": "טהור",
+  "transliteration": "tahor",
+  "englishLiteral": "clean",
+  "englishNatural": "clean",
+  "type": "adjective",
+  "description": "clean, pure, ceremonially clean; ritually acceptable, undefiled",
+  "wordIndexes": {
+    "genesis": {
+      "7": {
+        "8": [
+          2,
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

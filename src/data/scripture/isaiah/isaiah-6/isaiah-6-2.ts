@@ -139,7 +139,7 @@ export const isaiah_6_2: Verse = {
       transliteration: 'biShtayim',
       englishLiteral: 'in-two',
       englishNatural: 'in two',
-      root: 'shtayim',
+      root: 'shnayim',
       prefixes: ['be'],
       order: {
         hebrew: 8,
@@ -196,7 +196,7 @@ export const isaiah_6_2: Verse = {
       transliteration: 'uViShtayim',
       englishLiteral: 'and-in-two',
       englishNatural: 'and in two',
-      root: 'shtayim',
+      root: 'shnayim',
       prefixes: ['u', 'be'],
       order: {
         hebrew: 11,
@@ -253,7 +253,7 @@ export const isaiah_6_2: Verse = {
       transliteration: 'uViShtayim',
       englishLiteral: 'and-in-two',
       englishNatural: 'and in two',
-      root: 'shtayim',
+      root: 'shnayim',
       prefixes: ['u', 'be'],
       order: {
         hebrew: 14,
@@ -299,6 +299,6 @@ export const isaiah_6_2: Verse = {
     englishNatural:
       'Burning-ones were standing above him; six wings to each one, in two he covers his faces (eyes), and in two he covers his feet, and in two he flies.',
     kjv: 'Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 };

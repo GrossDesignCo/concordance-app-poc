@@ -1,0 +1,20 @@
+{
+  "key": "asaph",
+  "hebrew": "אסף",
+  "transliteration": "asaph",
+  "englishLiteral": "to gather",
+  "englishNatural": "to gather",
+  "type": "verb",
+  "description": "to gather, to collect, to assemble, to bring together",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "21": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

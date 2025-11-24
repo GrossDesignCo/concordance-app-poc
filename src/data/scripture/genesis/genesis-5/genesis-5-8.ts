@@ -80,7 +80,7 @@ export const genesis_5_8: Verse = {
       transliteration: 'shteym',
       englishLiteral: 'two',
       englishNatural: 'two',
-      root: 'shteym',
+      root: 'shnayim',
       order: {
         hebrew: 5,
         english: 5,
@@ -214,6 +214,6 @@ export const genesis_5_8: Verse = {
     englishNatural:
       'And all the days of Appointed (Seth) were two ten years and nine hundred years, and he died.',
     kjv: 'And all the days of Seth were nine hundred and twelve years: and he died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+  },
 };

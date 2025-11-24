@@ -177,7 +177,7 @@ export const genesis_2_19: Verse = {
       transliteration: 'of',
       englishLiteral: 'flyer',
       englishNatural: 'flyer of',
-      root: 'of',
+      root: 'oph',
       order: {
         hebrew: 11,
         english: 11,
@@ -499,6 +499,6 @@ export const genesis_2_19: Verse = {
     englishNatural:
       'And He-Who-Is God formed from the soil every living-thing of the field, and every flyer of the skies; And brought to the human to see what he would call-out to it; And everything which the human would call-out to it, each living throat, that was its name.',
     kjv: 'And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 };

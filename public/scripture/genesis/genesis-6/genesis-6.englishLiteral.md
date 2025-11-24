@@ -23,7 +23,7 @@ And-he-relented He_Who_Is, that- he-made ↳ the-human in-the-land,
 and-it-grieved-him to- heart-his.
 
 And-he-said He_Who_Is, "I-will-wipe_out ↳ the-human which- I-created
-from-over face-of the-ground,
+from-over face-of the-soil,
 from-human unto- beast, unto- creeping_thing, and-unto- bird-of the-skies;
 that I-have-relented that I-have-made-them."
 
@@ -43,3 +43,48 @@ and-it-filled the-land violence.
 And-he-saw Gods ↳ the-land,
 and-behold it-had-corrupted;
 that- had-corrupted all- flesh ↳ way-its over- the-land.
+
+And-he-said Gods to-Rest (Noah),
+"end-of all- flesh coming to-face-my;
+that- is-full the-land violence from-faces-their;
+and-behold-me destroying ↳ the-land."
+
+Make to-you ark-of trees-of- gopher;
+nests you-shall-make ↳ the-ark,
+and-you-shall-cover her from-house and-from-outside with-the-covering.
+
+And-this which you-shall-make her:
+three hundreds cubit length-of the-ark,
+fifty cubit breadth-her,
+and-thirty cubit height-her.
+
+illunination you-shall-make to-the-ark,
+and-to- cubit you-shall-finish-her from-to-upward;
+and-opening-of the-ark in-side-her you-shall-set;
+lower second and-third you-shall-make-her.
+
+And-I, behold-me, bringing ↳ the-flood waters over- the-land,
+to-destroy all- flesh which- in-him, wind-of lives from-under the-skies;
+all which- in-the-land will-expire.
+
+And-I-will-stand_up ↳ covenant-my with-you;
+and-you-shall-come to- the-ark,
+you and-sons-your and-woman-your and-women-of- sons-your with-you.
+
+And-from-all- the-living, from-all- flesh,
+two from-all you-shall-bring to- the-ark,
+to-keep_alive with-you;
+male and-female they-will-be.
+
+From-the-bird to-kind-his and-from- the-beast to-kind-her,
+from-all creeping_thing-of the-soil to-kind-his,
+two from-all they-will-come to-you,
+to-keep_alive.
+
+And-you take- to-you, from-all- food which it-is-eaten,
+and-you-shall-gather to-you;
+and-it-will-be to-you and-to-them to-food.
+
+And-he-made Rest (Noah);
+like-all which he-commanded him Gods,
+so he-made.

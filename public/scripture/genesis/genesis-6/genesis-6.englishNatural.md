@@ -23,7 +23,7 @@ And He-Who-Is relented, that he made Human (Adam) in the land,
 and it grieved him to his heart.
 
 And He-Who-Is said, "I will wipe-out the human which I created
-from over the face of the ground,
+from over the face of the soil,
 from human unto beast, unto creeping-thing, and unto bird of the skies;
 for I have relented that I have made them."
 
@@ -33,6 +33,7 @@ These are the birthings of Rest (Noah);
 
 Rest (Noah), a man righteous, blameless he was in his generation;
 Rest (Noah) walked-with the God.
+
 And Rest (Noah) birthed three sons:
 Name (Shem), and Hot (Ham), and Spacious (Japheth).
 
@@ -42,3 +43,48 @@ and the land filled-with violence.
 And God saw the land,
 and behold it had corrupted;
 that all flesh had corrupted its way over the land.
+
+And God said to Rest (Noah),
+"The end of all flesh has come to my face;
+that the land is full of violence from their faces;
+and behold me destroying the land."
+
+Make for yourself an ark of trees of gopher;
+nests you shall make the ark,
+and you shall cover it from inside and from outside with the covering.
+
+And this which you shall make it:
+three hundred cubits the length of the ark,
+fifty cubits its breadth,
+and thirty cubits its height.
+
+A illunination you shall make for the ark,
+and to a cubit you shall finish it from upward;
+and the opening of the ark in its side you shall set;
+lower second and third you shall make it.
+
+And I, behold me, bringing the flood waters over the land,
+to destroy all flesh which in it, the wind of life from under the skies;
+all which in the land will expire.
+
+And I will stand-up my covenant with you;
+and you shall come to the ark,
+you and your sons and your woman and the women of your sons with you.
+
+And from all the living, from all flesh,
+two from all you shall bring to the ark,
+to keep-alive with you;
+male and female they will be.
+
+From the bird to its kind and from the beast to its kind,
+from all creeping-thing of the soil to its kind,
+two from all they will come to you,
+to keep-alive.
+
+And you take to yourself, from all food which is eaten,
+and you shall gather to you;
+and it will be for you and for them for food.
+
+And Rest (Noah) made;
+like all which God commanded him,
+so he made.

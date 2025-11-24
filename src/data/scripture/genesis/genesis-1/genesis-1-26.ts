@@ -212,7 +212,7 @@ export const genesis_1_26: Verse = {
       transliteration: 'uVeOf',
       englishLiteral: 'and-in-flyer-of',
       englishNatural: 'and among flyer of',
-      root: 'of',
+      root: 'oph',
       prefixes: ['u', 'be'],
       order: {
         hebrew: 10,
@@ -397,11 +397,15 @@ export const genesis_1_26: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִּדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל־הָאָ֔רֶץ וּבְכָל־הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃',
-    transliteration: 'vaYomer Elohim naAseh Adam beTzalmenu kiDmuteinu veYirdu biDgat haYam uVeOf haShamayim uVaBehemah uVeKol-haAretz uVeKol-haRemes haRomes al-haAretz',
-    englishLiteral: 'And-said Gods, "Let_us-make Human (Adam), in-our-image, as-our-likeness, And-let-them-subjugate, in-fish-of the-sea, and-in-flyer-of the-skies, and-in-the-beast, and-in-all the-land, and-in-all the-crawler, the-crawling, over the-land."',
-    englishNatural: 'And God said, "Let us make Human (Adam), in our image, as our likeness, And let them subjugate, among fish of the sea, and among flyer of the skies, and among the beast, and among all the land, and among all the crawler, the crawling, over the land."',
+    hebrew:
+      'וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִּדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל־הָאָ֔רֶץ וּבְכָל־הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃',
+    transliteration:
+      'vaYomer Elohim naAseh Adam beTzalmenu kiDmuteinu veYirdu biDgat haYam uVeOf haShamayim uVaBehemah uVeKol-haAretz uVeKol-haRemes haRomes al-haAretz',
+    englishLiteral:
+      'And-said Gods, "Let_us-make Human (Adam), in-our-image, as-our-likeness, And-let-them-subjugate, in-fish-of the-sea, and-in-flyer-of the-skies, and-in-the-beast, and-in-all the-land, and-in-all the-crawler, the-crawling, over the-land."',
+    englishNatural:
+      'And God said, "Let us make Human (Adam), in our image, as our likeness, And let them subjugate, among fish of the sea, and among flyer of the skies, and among the beast, and among all the land, and among all the crawler, the crawling, over the land."',
     kjv: 'And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
-}; 
+};

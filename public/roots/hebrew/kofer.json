@@ -1,0 +1,24 @@
+{
+  "key": "kofer",
+  "hebrew": "כפר",
+  "transliteration": "kofer",
+  "englishLiteral": "covering",
+  "englishNatural": "covering",
+  "type": "noun",
+  "description": "pitch, tar, bitumen, covering; a waterproofing substance; also ransom, atonement price",
+  "related": [
+    "kafar",
+    "gopher"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "14": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

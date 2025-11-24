@@ -142,8 +142,8 @@ export const genesis_4_7: Verse = {
     {
       hebrew: 'לַפֶּתַח',
       transliteration: 'laPetach',
-      englishLiteral: 'to-door',
-      englishNatural: 'to the door',
+      englishLiteral: 'to-opening',
+      englishNatural: 'to the opening',
       root: 'petach',
       prefixes: ['la'],
       order: {
@@ -300,10 +300,10 @@ export const genesis_4_7: Verse = {
     transliteration:
       'vaHaLo im-teytiv set veim lo teytiv laPetach chatat rovetz veElekha teshukato veAtah timshal-bo',
     englishLiteral:
-      'And-is_there_not, if- you-do_well, lifting_up? And-if not you-do_well, to-door sin crouching, and-to-you its-fixation, and-you you-will-rule- over-it."',
+      'And-is_there_not, if- you-do_well, lifting_up? And-if not you-do_well, to-opening sin crouching, and-to-you its-fixation, and-you you-will-rule- over-it."',
     englishNatural:
-      'And is there not, if you do-well, lifting-up? And if you do-well not, to the door sin is crouching, and to you is its fixation, and you will rule over it."',
+      'And is there not, if you do-well, lifting-up? And if you do-well not, to the opening sin is crouching, and to you is its fixation, and you will rule over it."',
     kjv: 'If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 };

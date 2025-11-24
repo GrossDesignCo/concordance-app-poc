@@ -1,0 +1,276 @@
+import { Verse } from '@/types';
+
+export const genesis_6_19: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 6,
+    verse: 19,
+  },
+  words: [
+    {
+      hebrew: 'וּמִכָּל־',
+      transliteration: 'uMikol-',
+      englishLiteral: 'And-from-all-',
+      englishNatural: 'And from all',
+      root: 'kol',
+      prefixes: ['u', 'mi'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'הָחַי',
+      transliteration: 'haChai',
+      englishLiteral: 'the-living',
+      englishNatural: 'the living',
+      root: 'chai',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'adjective',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'מִכָּל־',
+      transliteration: 'mikol-',
+      englishLiteral: 'from-all-',
+      englishNatural: 'from all',
+      root: 'kol',
+      prefixes: ['mi'],
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'בָּשָׂר',
+      transliteration: 'basar',
+      englishLiteral: 'flesh',
+      englishNatural: 'flesh',
+      root: 'basar',
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'שְׁנַיִם',
+      transliteration: 'shnayim',
+      englishLiteral: 'two',
+      englishNatural: 'two',
+      root: 'shnayim',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'dual',
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'מִכֹּל',
+      transliteration: 'mikol',
+      englishLiteral: 'from-all',
+      englishNatural: 'from all',
+      root: 'kol',
+      prefixes: ['mi'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'תָּבִיא',
+      transliteration: 'tavi',
+      englishLiteral: 'you-shall-bring',
+      englishNatural: 'you shall bring',
+      root: 'bo',
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '2nd',
+        tense: 'imperfect',
+        stem: 'hiphil',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אֶל־',
+      transliteration: 'el-',
+      englishLiteral: 'to-',
+      englishNatural: 'to',
+      root: 'el',
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'הַתֵּבָה',
+      transliteration: 'haTevah',
+      englishLiteral: 'the-ark',
+      englishNatural: 'the ark',
+      root: 'tevah',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'לְהַחֲיֹת',
+      transliteration: 'leHachayot',
+      englishLiteral: 'to-keep_alive',
+      englishNatural: 'to keep-alive',
+      root: 'chayah',
+      prefixes: ['le', 'ha'],
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        tense: 'infinitive_construct',
+        stem: 'hiphil',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אִתָּךְ',
+      transliteration: 'itakh',
+      englishLiteral: 'with-you',
+      englishNatural: 'with you',
+      root: 'et_with',
+      suffixes: ['kha'],
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'זָכָר',
+      transliteration: 'zakhar',
+      englishLiteral: 'male',
+      englishNatural: 'male',
+      root: 'zakhar',
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וּנְקֵבָה',
+      transliteration: 'uNeqevah',
+      englishLiteral: 'and-female',
+      englishNatural: 'and female',
+      root: 'neqevah',
+      prefixes: ['u'],
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'יִהְיוּ',
+      transliteration: 'yihyu',
+      englishLiteral: 'they-will-be',
+      englishNatural: 'they will be',
+      root: 'hayah',
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וּמִכָּל־הָחַי מִכָּל־בָּשָׂר שְׁנַיִם מִכֹּל תָּבִיא אֶל־הַתֵּבָה לְהַחֲיֹת אִתָּךְ זָכָר וּנְקֵבָה יִהְיוּ',
+    transliteration:
+      'uMikol-haChai mikol-basar shnayim mikol tavi el-haTevah leHachayot itakh zakhar uNeqevah yihyu',
+    englishLiteral:
+      'And-from-all- the-living, from-all- flesh, two from-all you-shall-bring to- the-ark, to-keep_alive with-you; male and-female they-will-be.',
+    englishNatural:
+      'And from all the living, from all flesh, two from all you shall bring to the ark, to keep-alive with you; male and female they will be.',
+    kjv: 'And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+  },
+};

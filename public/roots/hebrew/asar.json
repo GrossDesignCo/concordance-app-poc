@@ -1,0 +1,20 @@
+{
+  "key": "asar",
+  "hebrew": "עשר",
+  "transliteration": "asar",
+  "englishLiteral": "ten",
+  "englishNatural": "ten",
+  "type": "numeral",
+  "description": "ten, decade",
+  "wordIndexes": {
+    "genesis": {
+      "7": {
+        "11": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

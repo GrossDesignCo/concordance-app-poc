@@ -2,14 +2,22 @@
   "key": "petach",
   "hebrew": "פֶּתַח",
   "transliteration": "petach",
-  "englishLiteral": "door",
-  "englishNatural": "door",
+  "englishLiteral": "opening",
+  "englishNatural": "opening",
   "type": "noun",
-  "description": "door, entrance, opening",
+  "description": "opening, entrance, doorway (the aperture, not the door object itself)",
+  "related": [
+    "patach"
+  ],
   "wordIndexes": {
     "genesis": {
       "4": {
         "7": [
+          7
+        ]
+      },
+      "6": {
+        "16": [
           7
         ]
       }

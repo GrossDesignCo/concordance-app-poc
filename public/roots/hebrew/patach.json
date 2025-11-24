@@ -1,0 +1,23 @@
+{
+  "key": "patach",
+  "hebrew": "פָּתַח",
+  "transliteration": "patach",
+  "englishLiteral": "to open",
+  "englishNatural": "to open",
+  "type": "verb",
+  "description": "to open, to loosen, to unseal",
+  "related": [
+    "petach"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "7": {
+        "11": [
+          21
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

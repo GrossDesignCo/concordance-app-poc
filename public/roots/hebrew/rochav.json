@@ -1,0 +1,20 @@
+{
+  "key": "rochav",
+  "hebrew": "רחב",
+  "transliteration": "rochav",
+  "englishLiteral": "breadth",
+  "englishNatural": "breadth",
+  "type": "noun",
+  "description": "breadth, width, expanse",
+  "wordIndexes": {
+    "genesis": {
+      "6": {
+        "15": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

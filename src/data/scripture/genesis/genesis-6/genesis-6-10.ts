@@ -43,6 +43,9 @@ export const genesis_6_10: Verse = {
       morphology: {
         type: 'noun',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'שְׁלֹשָׁה',
@@ -188,6 +191,6 @@ export const genesis_6_10: Verse = {
     englishNatural:
       'And Rest (Noah) birthed three sons: Name (Shem), and Hot (Ham), and Spacious (Japheth).',
     kjv: 'And Noah begat three sons, Shem, Ham, and Japheth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
   },
 };

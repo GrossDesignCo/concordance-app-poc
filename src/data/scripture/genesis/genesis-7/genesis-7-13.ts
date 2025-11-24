@@ -1,0 +1,339 @@
+import { Verse } from '@/types';
+
+export const genesis_7_13: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 7,
+    verse: 13,
+  },
+  words: [
+    {
+      hebrew: 'בְּעֶצֶם',
+      transliteration: 'beEtzem',
+      englishLiteral: 'In-bone-of',
+      englishNatural: 'In the bone of',
+      root: 'etzem',
+      prefixes: ['be'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'הַיּוֹם',
+      transliteration: 'haYom',
+      englishLiteral: 'the-day',
+      englishNatural: 'the day',
+      root: 'yom',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַזֶּה',
+      transliteration: 'haZeh',
+      englishLiteral: 'the-this',
+      englishNatural: 'the this',
+      root: 'zeh',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        type: 'demonstrative',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'בָּא',
+      transliteration: 'ba',
+      englishLiteral: 'he-came',
+      englishNatural: 'came',
+      root: 'bo',
+      order: {
+        hebrew: 4,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+      lineBreaksAfter: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'נֹחַ',
+      transliteration: 'Noach',
+      englishLiteral: 'Rest (Noah)',
+      englishNatural: 'Rest (Noah)',
+      root: 'noach',
+      order: {
+        hebrew: 5,
+        english: 4,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וְשֵׁם־',
+      transliteration: 'veShem-',
+      englishLiteral: 'and-Name (Shem)-',
+      englishNatural: 'and Name (Shem)',
+      root: 'shem',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וְחָם',
+      transliteration: 'veCham',
+      englishLiteral: 'and-Hot (Ham)',
+      englishNatural: 'and Hot (Ham)',
+      root: 'cham',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וָיֶפֶת',
+      transliteration: 'vaYefet',
+      englishLiteral: 'and-Spacious (Japheth)',
+      englishNatural: 'and Spacious (Japheth)',
+      root: 'yafet',
+      prefixes: ['va'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'בְּנֵי־',
+      transliteration: 'beney-',
+      englishLiteral: 'sons-of-',
+      englishNatural: 'the sons of',
+      root: 'ben',
+      prefixes: ['be'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'נֹחַ',
+      transliteration: 'Noach',
+      englishLiteral: 'Rest (Noah)',
+      englishNatural: 'Rest (Noah)',
+      root: 'noach',
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְאֵשֶׁת',
+      transliteration: 'veEshet',
+      englishLiteral: 'and-woman-of',
+      englishNatural: 'and the woman of',
+      root: 'ishah',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'נֹחַ',
+      transliteration: 'Noach',
+      englishLiteral: 'Rest (Noah)',
+      englishNatural: 'Rest (Noah)',
+      root: 'noach',
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וּשְׁלֹשֶׁת',
+      transliteration: 'uShloshet',
+      englishLiteral: 'and-three-of',
+      englishNatural: 'and the three',
+      root: 'shalosh',
+      prefixes: ['u'],
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'נְשֵׁי־',
+      transliteration: 'neshey-',
+      englishLiteral: 'women-of-',
+      englishNatural: 'women of',
+      root: 'ishah',
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'בָנָיו',
+      transliteration: 'vanav',
+      englishLiteral: 'sons-his',
+      englishNatural: 'his sons',
+      root: 'ben',
+      suffixes: ['av'],
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אִתָּם',
+      transliteration: 'ittam',
+      englishLiteral: 'with-them',
+      englishNatural: 'with them',
+      root: 'et_with',
+      suffixes: ['am'],
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'אֶל־',
+      transliteration: 'el-',
+      englishLiteral: 'to-',
+      englishNatural: 'to',
+      root: 'el',
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'הַתֵּבָה',
+      transliteration: 'haTevah',
+      englishLiteral: 'the-ark',
+      englishNatural: 'the ark',
+      root: 'tevah',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 18,
+        english: 18,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'בְּעֶצֶם הַיּוֹם הַזֶּה בָּא נֹחַ וְשֵׁם־וְחָם וָיֶפֶת בְּנֵי־נֹחַ וְאֵשֶׁת נֹחַ וּשְׁלֹשֶׁת נְשֵׁי־בָנָיו אִתָּם אֶל־הַתֵּבָה',
+    transliteration:
+      'beEtzem haYom haZeh ba Noach veShem-veCham vaYefet beney-Noach veEshet Noach uShloshet neshey-vanav ittam el-haTevah',
+    englishLiteral:
+      'In-bone-of the-day the-this he-came Rest (Noah) and-Name (Shem)- and-Hot (Ham) and-Spacious (Japheth) sons-of- Rest (Noah), and-woman-of Rest (Noah) and-three-of women-of- sons-his with-them, to- the-ark;',
+    englishNatural:
+      'In the bone of the day the this, Rest (Noah) came, and Name (Shem) and Hot (Ham) and Spacious (Japheth) the sons of Rest (Noah), and the woman of Rest (Noah) and the three women of his sons with them, to the ark;',
+    kjv: "In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark;",
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+  },
+};
