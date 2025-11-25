@@ -1,0 +1,23 @@
+{
+  "key": "golah",
+  "hebrew": "גולה",
+  "transliteration": "golah",
+  "englishLiteral": "exile",
+  "englishNatural": "exile",
+  "type": "noun",
+  "description": "exile, exiles, captivity; the body of exiles or the state of being in exile",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "1": [
+          8
+        ],
+        "2": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

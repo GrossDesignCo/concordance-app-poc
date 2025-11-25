@@ -10,6 +10,19 @@ The goal is to create as close to a 1:1 Hebrew:English mapping as possible, even
 4. AIs should always run tests after generating new translation/entry data.
 5. AIs should review the dictionary as needed and add data to it as appropriate when generating verse data.
 
+### Initial Generation Workflow
+
+Usually this works best if the ai-model:
+1. Does not search the internet, but generates from memory/training data
+2. Recalls first the standard hebrew for the verse, which will serve as our baseline
+3. Recalls the KJV (just for reference)
+4. Creates a shortlist of hebrew root words in the verse to check against the dictionary for translation choices
+5. Adds roots, suffixes, or prefixes that don't exist in the dictionary yet
+6. Generate the verse data following the same structure as the example verses
+7. Doublechecks for any potential duplicate dictionary entries
+
+**All translation decisions should be made by a human. AI-Models should only be used for scaffolding the initial data structure and referece material**
+
 ## Original Hebrew, Aramaic & Greek Principles
 
 1. Generally use the most widely accepted text.

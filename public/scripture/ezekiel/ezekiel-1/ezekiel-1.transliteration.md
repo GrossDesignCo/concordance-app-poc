@@ -1,4 +1,19 @@
 
+vayehi biShloshim shanah
+baRevii baChamishah laChodes
+vaAni betokh-haGolah al-nehar-Kebar
+niftechu haShamayim
+vaEreh marot elohim
+
+baChamishah laChodes
+hi haShanah haChamisit
+leGalut haMelekh Yehoyakhin
+
+hayo hayah devar-YHWH el-Yechezqel 
+ben-Buzi haKohen
+beEretz Kasdim al-nehar-Kebar
+vatehi alav sham yad-YHWH
+
 vaEre veHineh ruach saarah baah min-haTzafon
 anan gadol veEsh mitlaqqachat
 veNogah lo saviv

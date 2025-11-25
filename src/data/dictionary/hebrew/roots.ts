@@ -6164,6 +6164,68 @@ const ROOTS = {
     type: 'noun',
     description: 'wing, extremity, edge, corner; also used metaphorically',
   },
+  // Ezekiel 1:1-3 additions
+  golah: {
+    hebrew: 'גולה',
+    transliteration: 'golah',
+    englishLiteral: 'exile',
+    englishNatural: 'exile',
+    type: 'noun',
+    description:
+      'exile, exiles, captivity; the body of exiles or the state of being in exile',
+  },
+  kebar: {
+    hebrew: 'כבר',
+    transliteration: 'Kebar',
+    englishLiteral: 'Ancient (Kebar)',
+    englishNatural: 'Ancient (Kebar)',
+    type: 'noun',
+    description:
+      'Kebar, a river or canal in Babylonia where Jewish exiles were settled',
+  },
+  yehoyakhin: {
+    hebrew: 'יהויכין',
+    transliteration: 'Yehoyakhin',
+    englishLiteral: 'He_Establishes (Jehoiachin)',
+    englishNatural: 'He-Establishes (Jehoiachin)',
+    type: 'noun',
+    description:
+      'Jehoiachin, king of Judah, son of Jehoiakim; also called Jeconiah or Coniah',
+  },
+  yechezqel: {
+    hebrew: 'יחזקאל',
+    transliteration: 'Yechezqel',
+    englishLiteral: 'God_Strengthens (Ezekiel)',
+    englishNatural: 'God-Strengthens (Ezekiel)',
+    type: 'noun',
+    description: 'Ezekiel, the prophet, son of Buzi the priest',
+  },
+  buzi: {
+    hebrew: 'בוזי',
+    transliteration: 'Buzi',
+    englishLiteral: 'Contempt (Buzi)',
+    englishNatural: 'Contempt (Buzi)',
+    type: 'noun',
+    description: 'Buzi, father of the prophet Ezekiel',
+  },
+  kasdim: {
+    hebrew: 'כשדים',
+    transliteration: 'Kasdim',
+    englishLiteral: 'Chaldeans',
+    englishNatural: 'Chaldeans',
+    type: 'noun',
+    description:
+      'Chaldeans, the people of Chaldea in southern Babylonia; often used synonymously with Babylonians',
+  },
+  kohen: {
+    hebrew: 'כהן',
+    transliteration: 'kohen',
+    englishLiteral: 'priest',
+    englishNatural: 'priest',
+    type: 'noun',
+    description:
+      'priest, one who officiates at the altar and in religious ceremonies; specifically the Levitical priesthood',
+  },
 } as const;
 
 export type HebrewRootKey = keyof typeof ROOTS;

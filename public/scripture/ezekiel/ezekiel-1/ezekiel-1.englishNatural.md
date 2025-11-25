@@ -1,4 +1,19 @@
 
+And it was in year thirty,
+in the fourth, in the five to the month,
+and I in the midst of the exile upon river of Ancient (Kebar),
+the heavens
+were opened, and I saw visions of God.
+
+In the five to the month,
+it-was the year the fifth
+to the exile of the king He-Establishes (Jehoiachin).
+
+The word of He-Who-Is was being to God-Strengthens (Ezekiel) 
+son of Contempt (Buzi), the priest,
+in the land of Chaldeans upon river of Ancient (Kebar),
+and it was upon him there hand of He-Who-Is.
+
 And I saw and behold a wind storm coming from the north,
 a great cloud, and fire flashing,
 and brightness to it all-around,

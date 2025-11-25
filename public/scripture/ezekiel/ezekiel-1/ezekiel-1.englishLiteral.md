@@ -1,4 +1,19 @@
 
+And-it-was in-thirty year,
+in-the-fourth, in-the-five to-the-month,
+and-I in-midst-of- the-exile upon- river-of- Ancient (Kebar),
+they-were-opened the-heavens,
+and-I-saw visions-of Gods.
+
+In-the-five to-the-month,
+it the-year the-fifth
+to-exile-of the-king He_Establishes (Jehoiachin).
+
+Being was word-of- He_Who_Is to- God_Strengthens (Ezekiel) 
+son-of- Contempt (Buzi), the-priest,
+in-land-of Chaldeans upon- river-of- Ancient (Kebar),
+and-it-was upon-him there hand-of- He_Who_Is.
+
 And-I-saw and-behold wind storm coming from- the-north,
 cloud great, and-fire flashing,
 and-brightness to-it all_around,

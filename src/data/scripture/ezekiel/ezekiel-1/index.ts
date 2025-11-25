@@ -1,4 +1,7 @@
 import { Chapter } from '@/types';
+import { ezekiel_1_1 } from './ezekiel-1-1';
+import { ezekiel_1_2 } from './ezekiel-1-2';
+import { ezekiel_1_3 } from './ezekiel-1-3';
 import { ezekiel_1_4 } from './ezekiel-1-4';
 import { ezekiel_1_5 } from './ezekiel-1-5';
 import { ezekiel_1_6 } from './ezekiel-1-6';
@@ -31,6 +34,9 @@ const chapter: Chapter = {
     chapter: 1,
   },
   verses: [
+    ezekiel_1_1,
+    ezekiel_1_2,
+    ezekiel_1_3,
     ezekiel_1_4,
     ezekiel_1_5,
     ezekiel_1_6,

@@ -25434,9 +25434,9 @@
         "1": {
           "chapterNumber": 1,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
+            "1": true,
+            "2": true,
+            "3": true,
             "4": true,
             "5": true,
             "6": true,
@@ -25463,7 +25463,7 @@
             "27": true,
             "28": true
           },
-          "progress": 89.28571428571429
+          "progress": 100
         },
         "2": {
           "chapterNumber": 2,
@@ -26993,7 +26993,7 @@
           "progress": 0
         }
       },
-      "progress": 2.1209740769835035
+      "progress": 2.356637863315004
     },
     "DANIEL": {
       "bookName": "Daniel",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 0.9806128026235412
+  "totalProgress": 0.9902581744526252
 }

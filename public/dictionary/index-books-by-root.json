@@ -11,6 +11,7 @@
   ],
   "eloah": [
     "exodus",
+    "ezekiel",
     "genesis",
     "jonah"
   ],
@@ -83,6 +84,7 @@
     "psalms"
   ],
   "shamayim": [
+    "ezekiel",
     "genesis",
     "jonah",
     "proverbs"
@@ -107,6 +109,7 @@
   ],
   "revii": [
     "exodus",
+    "ezekiel",
     "genesis"
   ],
   "shevii": [
@@ -603,6 +606,7 @@
     "genesis"
   ],
   "shanah": [
+    "ezekiel",
     "genesis",
     "isaiah"
   ],
@@ -824,6 +828,7 @@
     "proverbs"
   ],
   "nahar": [
+    "ezekiel",
     "genesis",
     "jonah"
   ],
@@ -968,6 +973,7 @@
     "isaiah"
   ],
   "melekh": [
+    "ezekiel",
     "isaiah",
     "jonah",
     "proverbs"
@@ -1469,6 +1475,7 @@
     "proverbs"
   ],
   "patach": [
+    "ezekiel",
     "genesis"
   ],
   "ravatz": [
@@ -1556,6 +1563,7 @@
     "proverbs"
   ],
   "davar": [
+    "ezekiel",
     "jonah",
     "proverbs"
   ],
@@ -1649,6 +1657,7 @@
     "proverbs"
   ],
   "ani": [
+    "ezekiel",
     "genesis",
     "jonah",
     "proverbs"
@@ -1794,10 +1803,12 @@
     "genesis"
   ],
   "shalosh": [
+    "ezekiel",
     "genesis",
     "jonah"
   ],
   "chamesh": [
+    "ezekiel",
     "genesis"
   ],
   "shmonim": [
@@ -2567,6 +2578,7 @@
     "genesis"
   ],
   "chodesh": [
+    "ezekiel",
     "genesis"
   ],
   "asar": [
@@ -2586,6 +2598,27 @@
   ],
   "kanaph": [
     "genesis"
+  ],
+  "golah": [
+    "ezekiel"
+  ],
+  "kebar": [
+    "ezekiel"
+  ],
+  "yehoyakhin": [
+    "ezekiel"
+  ],
+  "yechezqel": [
+    "ezekiel"
+  ],
+  "buzi": [
+    "ezekiel"
+  ],
+  "kasdim": [
+    "ezekiel"
+  ],
+  "kohen": [
+    "ezekiel"
   ],
   "en": [
     "john",

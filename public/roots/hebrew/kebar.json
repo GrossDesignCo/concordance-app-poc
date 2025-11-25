@@ -1,0 +1,23 @@
+{
+  "key": "kebar",
+  "hebrew": "כבר",
+  "transliteration": "Kebar",
+  "englishLiteral": "Ancient (Kebar)",
+  "englishNatural": "Ancient (Kebar)",
+  "type": "noun",
+  "description": "Kebar, a river or canal in Babylonia where Jewish exiles were settled",
+  "wordIndexes": {
+    "ezekiel": {
+      "1": {
+        "1": [
+          11
+        ],
+        "3": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}
