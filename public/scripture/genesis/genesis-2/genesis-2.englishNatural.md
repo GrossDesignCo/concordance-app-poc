@@ -38,11 +38,11 @@ And He-Who-Is God commanded over the human, saying, "From all tree of the garden
 
 And He-Who-Is God said, "No good for the human to be to himself alone; I will make to him a help, as his opposite."
 
-And He-Who-Is God formed from the soil every living-thing of the field, and every flyer of the skies; 
+And He-Who-Is God formed from the soil every living-being of the field, and every flyer of the skies; 
 And brought to the human to see what he would call-out to it; 
 And everything which the human would call-out to it, each living throat, that was its name.
 
-And the human called-out names to every beast, and to flyer of the skies, and to every living-thing of the field, and to Human (Adam), no help was found as his opposite.
+And the human called-out names to every beast, and to flyer of the skies, and to every living-being of the field, and to Human (Adam), no help was found as his opposite.
 
 And He-Who-Is God caused a deep-trance to fall over the human, and he slept; and he took one from his sides, and closed up flesh under it.
 
@@ -50,8 +50,10 @@ And He-Who-Is God built the side which he took from the human, into a woman, and
 
 And the human said, 
 "This is the time! 
-Bone from my bones, and flesh from my flesh; 
-to this will be called-out "Woman," that from Man this was taken."
+Bone from my bones,
+and flesh from my flesh; 
+to this will be called-out 'Woman,'
+that from Man this was taken."
 
 So moreover, Man will leave his father, and his mother, and cling in his woman, and will become one flesh.
 

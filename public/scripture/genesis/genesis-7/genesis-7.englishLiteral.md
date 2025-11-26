@@ -34,7 +34,7 @@ he-came Rest (Noah) and-Name (Shem)- and-Hot (Ham) and-Spacious (Japheth) sons-o
 and-woman-of Rest (Noah) and-three-of women-of- sons-his with-them,
 to- the-ark;
 
-they, and-all- the-living_thing to-kind-her,
+they, and-all- the-living_being to-kind-her,
 and-all- the-beast to-kind-her,
 and-all- the-creeping_thing the-creeping over- the-land to-kind-his,
 and-all- the-flier to-kind-his,

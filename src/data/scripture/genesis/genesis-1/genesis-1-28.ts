@@ -365,7 +365,7 @@ export const genesis_1_28: Verse = {
     {
       hebrew: 'חַיָּ֖ה',
       transliteration: 'chayah',
-      englishLiteral: 'living-thing',
+      englishLiteral: 'living-being',
       englishNatural: 'living thing',
       root: 'chayah',
       suffixes: ['ah'],
@@ -440,10 +440,10 @@ export const genesis_1_28: Verse = {
     transliteration:
       'vaYeVarech otam Elohim vaYomer lahem Elohim peru uRevu uMilu et-haAretz veKivshuah uRedu biDgat haYam uVeOf haShamayim uVeKol-chayah haRomeset al-haAretz',
     englishLiteral:
-      'And-blessed them Gods, And-said to-them Gods, "Be-fruitful and-multiply and-fill ↳ the-land, And-conquer and-subjugate in-fish-of the-sea, and-in-flyer-of the-skies, and-in-all living-thing the-crawling over the-land."',
+      'And-blessed them Gods, And-said to-them Gods, "Be-fruitful and-multiply and-fill ↳ the-land, And-conquer and-subjugate in-fish-of the-sea, and-in-flyer-of the-skies, and-in-all living-being the-crawling over the-land."',
     englishNatural:
       'And God blessed them, And God said to them, "Be fruitful and multiply and fill the land, And conquer and subjugate among fish of the sea, and among flyer of the skies, and among all the crawling living thing over the land."',
     kjv: 'And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

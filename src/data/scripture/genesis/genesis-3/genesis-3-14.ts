@@ -24,7 +24,7 @@ export const genesis_3_14: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: {
         hebrew: 1,
@@ -41,7 +41,7 @@ export const genesis_3_14: Verse = {
         english: 1,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: {
         english: 1,
@@ -61,7 +61,7 @@ export const genesis_3_14: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -75,7 +75,7 @@ export const genesis_3_14: Verse = {
         english: 4,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -92,7 +92,7 @@ export const genesis_3_14: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -110,7 +110,7 @@ export const genesis_3_14: Verse = {
         english: 6,
       },
       morphology: {
-        type: 'relative'
+        type: 'relative',
       },
       grammarPrefix: {
         englishLiteral: '"',
@@ -135,7 +135,7 @@ export const genesis_3_14: Verse = {
         person: '2nd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -149,12 +149,13 @@ export const genesis_3_14: Verse = {
         english: 8,
       },
       morphology: {
-        type: 'pronoun'
+        type: 'pronoun',
       },
       grammarSuffix: {
         englishLiteral: ',',
         englishNatural: ',',
       },
+      lineBreaksAfter: 1,
     },
     {
       hebrew: 'אָרוּר',
@@ -169,7 +170,7 @@ export const genesis_3_14: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'adjective'
+        type: 'adjective',
       },
     },
     {
@@ -183,14 +184,14 @@ export const genesis_3_14: Verse = {
         english: 10,
       },
       morphology: {
-        type: 'pronoun'
+        type: 'pronoun',
       },
     },
     {
       hebrew: 'מִכֹּל',
       transliteration: 'mikol',
       englishLiteral: 'from-all',
-      englishNatural: 'from every',
+      englishNatural: 'from all',
       root: 'kol',
       prefixes: ['mi'],
       order: {
@@ -198,9 +199,8 @@ export const genesis_3_14: Verse = {
         english: 11,
       },
       morphology: {
-        type: 'adjective'
+        type: 'adjective',
       },
-      lineBreaksBefore: 1,
     },
     {
       hebrew: 'בְּהֵמָה',
@@ -215,14 +215,14 @@ export const genesis_3_14: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
       hebrew: 'וּמִכֹּל',
       transliteration: 'umikol',
       englishLiteral: 'and-from-all',
-      englishNatural: 'and from every',
+      englishNatural: 'and from all',
       root: 'kol',
       prefixes: ['u', 'mi'],
       order: {
@@ -230,14 +230,15 @@ export const genesis_3_14: Verse = {
         english: 13,
       },
       morphology: {
-        type: 'adjective'
+        type: 'adjective',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'חַיַּת',
       transliteration: 'chayat',
-      englishLiteral: 'living_thing',
-      englishNatural: 'living-thing',
+      englishLiteral: 'living_being',
+      englishNatural: 'living-being',
       root: 'chayah',
       suffixes: ['construct_t'],
       order: {
@@ -247,7 +248,7 @@ export const genesis_3_14: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -264,7 +265,7 @@ export const genesis_3_14: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -282,7 +283,7 @@ export const genesis_3_14: Verse = {
         english: 16,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
       lineBreaksBefore: 1,
     },
@@ -300,7 +301,7 @@ export const genesis_3_14: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -319,7 +320,7 @@ export const genesis_3_14: Verse = {
         person: '2nd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -340,7 +341,7 @@ export const genesis_3_14: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: 1,
     },
@@ -360,7 +361,7 @@ export const genesis_3_14: Verse = {
         person: '2nd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -378,7 +379,7 @@ export const genesis_3_14: Verse = {
         english: 21,
       },
       morphology: {
-        type: 'adjective'
+        type: 'adjective',
       },
       lineBreaksBefore: 1,
     },
@@ -396,7 +397,7 @@ export const genesis_3_14: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -413,7 +414,7 @@ export const genesis_3_14: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -423,11 +424,15 @@ export const genesis_3_14: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיֹּאמֶר יְהוָה אֱלֹהִים אֶל־הַנָּחָשׁ כִּי עָשִׂיתָ זֹּאת אָרוּר אַתָּה מִכֹּל בְּהֵמָה וּמִכֹּל חַיַּת הַשָּׂדֶה עַל־גְּחֹנְךָ תֵלֵךְ וְעָפָר תֹּאכַל כָּל־יְמֵי חַיֶּיךָ',
-    transliteration: 'vaYomer YHWH Elohim el-haNachash ki asita zot arur atah mikol behemah umikol chayat haSadeh al-gechonkha telekh veAfar tokhal kol-yemey chayyekha',
-    englishLiteral: 'And-he-said He_Who_Is Gods to- the-snake, "that you-made this, cursed you from-all beast and-from-all living_thing the-field; on- belly-your you-will_walk, and-dust you-will_eat, all- days lives-your.',
-    englishNatural: 'And He-Who-Is God said to the snake, "Because you have made this, cursed are you from every beast and from every living-thing of the field; on your belly you will walk, and dust you will eat, all the days of your life.',
+    hebrew:
+      'וַיֹּאמֶר יְהוָה אֱלֹהִים אֶל־הַנָּחָשׁ כִּי עָשִׂיתָ זֹּאת אָרוּר אַתָּה מִכֹּל בְּהֵמָה וּמִכֹּל חַיַּת הַשָּׂדֶה עַל־גְּחֹנְךָ תֵלֵךְ וְעָפָר תֹּאכַל כָּל־יְמֵי חַיֶּיךָ',
+    transliteration:
+      'vaYomer YHWH Elohim el-haNachash ki asita zot arur atah mikol behemah umikol chayat haSadeh al-gechonkha telekh veAfar tokhal kol-yemey chayyekha',
+    englishLiteral:
+      'And-he-said He_Who_Is Gods to- the-snake, "that you-made this, cursed you from-all beast and-from-all living_being the-field; on- belly-your you-will_walk, and-dust you-will_eat, all- days lives-your.',
+    englishNatural:
+      'And He-Who-Is God said to the snake, "Because you have made this, cursed are you from all beast and from all living-being of the field; on your belly you will walk, and dust you will eat, all the days of your life.',
     kjv: 'And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
-}; 
+};

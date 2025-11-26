@@ -31,8 +31,8 @@ export const ezekiel_1_15: Verse = {
     {
       hebrew: 'הַחַיּוֹת',
       transliteration: 'haChayot',
-      englishLiteral: 'the-living-things',
-      englishNatural: 'the living-things',
+      englishLiteral: 'the-living-beings',
+      englishNatural: 'the living-beings',
       root: 'chayah',
       prefixes: ['ha'],
       order: {
@@ -136,8 +136,8 @@ export const ezekiel_1_15: Verse = {
     {
       hebrew: 'הַחַיּוֹת',
       transliteration: 'haChayot',
-      englishLiteral: 'the-living-things',
-      englishNatural: 'the living-things',
+      englishLiteral: 'the-living-beings',
+      englishNatural: 'the living-beings',
       root: 'chayah',
       prefixes: ['ha'],
       order: {
@@ -201,10 +201,10 @@ export const ezekiel_1_15: Verse = {
     transliteration:
       'vaEre haChayot veHineh ophan echad baAretz etzal haChayot leArbaat panav',
     englishLiteral:
-      'And-I-saw the-living-things, and-behold wheel one in-the-land, beside the-living-things, to-four-of faces-his.',
+      'And-I-saw the-living-beings, and-behold wheel one in-the-land, beside the-living-beings, to-four-of faces-his.',
     englishNatural:
-      'And I saw the living-things, and behold one wheel in the land, beside the living-things, to four of his faces.',
+      'And I saw the living-beings, and behold one wheel in the land, beside the living-beings, to four of his faces.',
     kjv: 'Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

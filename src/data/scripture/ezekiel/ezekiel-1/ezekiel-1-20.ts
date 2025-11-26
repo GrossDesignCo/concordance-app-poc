@@ -281,8 +281,8 @@ export const ezekiel_1_20: Verse = {
     {
       hebrew: 'הַחַיָּה',
       transliteration: 'haChayah',
-      englishLiteral: 'the-living-thing',
-      englishNatural: 'the living-thing',
+      englishLiteral: 'the-living-being',
+      englishNatural: 'the living-being',
       root: 'chayah',
       prefixes: ['ha'],
       order: {
@@ -324,10 +324,10 @@ export const ezekiel_1_20: Verse = {
     transliteration:
       'al asher yihyeh-sham haRuach laLekhet yelekhu shamah haRuach laLekhet veHaOphanim yinasu leUmatam ki ruach haChayah baOphanim',
     englishLiteral:
-      'over which it-was- there, the-wind to-go, they-went, there, the-wind to-go, and-the-wheels they-were-lifted to-alongside-them, that wind-of the-living-thing in-the-wheels.',
+      'over which it-was- there, the-wind to-go, they-went, there, the-wind to-go, and-the-wheels they-were-lifted to-alongside-them, that wind-of the-living-being in-the-wheels.',
     englishNatural:
-      'Over which it was there, the wind to go, they went, there, the wind to go, and the wheels were lifted alongside them, that the wind of the living-thing in the wheels.',
+      'Over which it was there, the wind to go, they went, there, the wind to go, and the wheels were lifted alongside them, that the wind of the living-being in the wheels.',
     kjv: 'Whithersoever the spirit was to go, they went, thither was their spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

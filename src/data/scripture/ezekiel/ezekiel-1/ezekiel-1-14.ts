@@ -10,8 +10,8 @@ export const ezekiel_1_14: Verse = {
     {
       hebrew: 'וְהַחַיּוֹת',
       transliteration: 'veHaChayot',
-      englishLiteral: 'And-the-living-things',
-      englishNatural: 'And the living-things',
+      englishLiteral: 'And-the-living-beings',
+      englishNatural: 'And the living-beings',
       root: 'chayah',
       prefixes: ['ve', 'ha'],
       order: {
@@ -103,10 +103,10 @@ export const ezekiel_1_14: Verse = {
     hebrew: 'וְהַחַיּוֹת רָצוֹא וָשׁוֹב כְּמַרְאֵה הַבָּזָק',
     transliteration: 'veHaChayot ratzo vaShuv keMarah haBazaq',
     englishLiteral:
-      'And-the-living-things sprinting and-returning like-appearance-of the-flashing.',
+      'And-the-living-beings sprinting and-returning like-appearance-of the-flashing.',
     englishNatural:
-      'And the living-things sprinting and returning like the appearance of The Flashing.',
+      'And the living-beings sprinting and returning like the appearance of The Flashing.',
     kjv: 'And the living creatures ran and returned as the appearance of a flash of lightning.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

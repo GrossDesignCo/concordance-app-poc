@@ -1,5 +1,5 @@
 
-And the snake was shrewd, out of every living-thing of the field, which He-Who-Is God had made. 
+And the snake was shrewd, out of every living-being of the field, which He-Who-Is God had made. 
 And he said to the woman, "Is-it-so, that God said 'You shall eat not from any tree of the garden'?"
 
 And the woman said to the snake, "From the fruit of the tree of the garden we may eat."
@@ -34,8 +34,9 @@ And He-Who-Is God said to the woman, "What is this you have made?"
 And the woman said, "The snake, he deceived me, and I ate."
 
 And He-Who-Is God said to the snake, 
-"Because you have made this, cursed are you 
-from every beast and from every living-thing of the field; 
+"Because you have made this,
+cursed are you from all beast 
+and from all living-being of the field; 
 on your belly you will walk, 
 and dust you will eat, 
 all the days of your life.

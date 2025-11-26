@@ -83,9 +83,9 @@ And-was evening,
 And-was morning, 
 Day fifth.
 
-And-said Gods, "Let-bring_out the-land throat living, to-its-kind, beast, and-crawler, and-living_thing-of land."
+And-said Gods, "Let-bring_out the-land throat living, to-its-kind, beast, and-crawler, and-living_being-of land."
 
-And-made Gods, ↳ living_thing-of the-land, to-its-kind, 
+And-made Gods, ↳ living_being-of the-land, to-its-kind, 
 And-↳ the-beast, to-its-kind, 
 And-↳ all crawler the-ground, to-its-kind, 
 And-saw Gods, that- good.
@@ -99,12 +99,12 @@ male and-female, created them.
 
 And-blessed them Gods, 
 And-said to-them Gods, "Be-fruitful and-multiply and-fill ↳ the-land, 
-And-conquer and-subjugate in-fish-of the-sea, and-in-flyer-of the-skies, and-in-all living-thing the-crawling over the-land."
+And-conquer and-subjugate in-fish-of the-sea, and-in-flyer-of the-skies, and-in-all living-being the-crawling over the-land."
 
 And-said Gods, "Behold, I-give to-you ↳ all herb seeding seed, which over face-of all the-land, 
 And-↳ all the-tree which in-it fruit-of tree seeding seed, to-you it-shall-be for-food.
 
-And-to-all living_thing-of the-land, and-to-all flyer-of the-skies, and-to-all crawler over the-land, which in-it throat living ↳ all green herb for-food." 
+And-to-all living_being-of the-land, and-to-all flyer-of the-skies, and-to-all crawler over the-land, which in-it throat living ↳ all green herb for-food." 
 And-was so.
 
 And-saw Gods, ↳ all which made, 

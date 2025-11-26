@@ -21,7 +21,7 @@ export const genesis_3_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: 1,
     },
@@ -41,7 +41,7 @@ export const genesis_3_1: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -58,7 +58,7 @@ export const genesis_3_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
-        type: 'adjective'
+        type: 'adjective',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -80,8 +80,8 @@ export const genesis_3_1: Verse = {
     {
       hebrew: 'חַיַּת',
       transliteration: 'chayat',
-      englishLiteral: 'living_thing-of',
-      englishNatural: 'living-thing of',
+      englishLiteral: 'living_being-of',
+      englishNatural: 'living-being of',
       root: 'chayah',
       suffixes: ['construct_t'],
       order: {
@@ -92,7 +92,7 @@ export const genesis_3_1: Verse = {
         gender: 'feminine',
         number: 'singular',
         state: 'construct',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -109,7 +109,7 @@ export const genesis_3_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -143,7 +143,7 @@ export const genesis_3_1: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -193,7 +193,7 @@ export const genesis_3_1: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -225,7 +225,7 @@ export const genesis_3_1: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -278,7 +278,7 @@ export const genesis_3_1: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -295,7 +295,7 @@ export const genesis_3_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -332,7 +332,7 @@ export const genesis_3_1: Verse = {
         person: '2nd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarPrefix: {
         englishNatural: "'",
@@ -364,7 +364,7 @@ export const genesis_3_1: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -381,7 +381,7 @@ export const genesis_3_1: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '\'?"',
@@ -396,10 +396,10 @@ export const genesis_3_1: Verse = {
     transliteration:
       'veHaNachash hayah arum miKol chayat haSadeh asher asah YHWH Elohim vaYomer el haIshah af ki amar Elohim lo tokhlu miKol etz haGan',
     englishLiteral:
-      'And-the-snake was shrewd, from-all living_thing-of the-field, which made, He_Who_Is Gods. And-said, to the-woman, "Is_it_so, that said Gods, \'Not you-shall-eat from-all tree the-garden\'?"',
+      'And-the-snake was shrewd, from-all living_being-of the-field, which made, He_Who_Is Gods. And-said, to the-woman, "Is_it_so, that said Gods, \'Not you-shall-eat from-all tree the-garden\'?"',
     englishNatural:
-      'And the snake was shrewd, out of every living-thing of the field, which He-Who-Is God had made. And he said to the woman, "Is-it-so, that God said \'You shall eat not from any tree of the garden\'?"',
+      'And the snake was shrewd, out of every living-being of the field, which He-Who-Is God had made. And he said to the woman, "Is-it-so, that God said \'You shall eat not from any tree of the garden\'?"',
     kjv: 'Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-05' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+  },
 };

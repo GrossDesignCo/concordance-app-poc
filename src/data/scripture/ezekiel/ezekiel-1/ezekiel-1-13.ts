@@ -29,8 +29,8 @@ export const ezekiel_1_13: Verse = {
     {
       hebrew: 'הַחַיּוֹת',
       transliteration: 'haChayot',
-      englishLiteral: 'the-living_things',
-      englishNatural: 'the living-things',
+      englishLiteral: 'the-living_beings',
+      englishNatural: 'the living-beings',
       root: 'chayah',
       prefixes: ['ha'],
       order: {
@@ -216,8 +216,8 @@ export const ezekiel_1_13: Verse = {
     {
       hebrew: 'הַחַיּוֹת',
       transliteration: 'haChayot',
-      englishLiteral: 'the-living_things',
-      englishNatural: 'the living-things',
+      englishLiteral: 'the-living_beings',
+      englishNatural: 'the living-beings',
       root: 'chayah',
       prefixes: ['ha'],
       order: {
@@ -352,10 +352,10 @@ export const ezekiel_1_13: Verse = {
     transliteration:
       'uDemut haChayot mareihem keGachaley-esh boarot keMarah haLappidim hi mithalekhet beyn haChayot veNogah laEsh uMin-haEsh yotze baraq',
     englishLiteral:
-      'And-likeness-of the-living_things, appearance-their like-coals-of- fire burning, like-appearance-of the-torches she going between the-living_things; and-brightness to-the-fire, and-from- the-fire positioning lightning.',
+      'And-likeness-of the-living_beings, appearance-their like-coals-of- fire burning, like-appearance-of the-torches she going between the-living_beings; and-brightness to-the-fire, and-from- the-fire positioning lightning.',
     englishNatural:
-      'And the likeness of the living-things, their appearance like coals of burning fire, like the appearance of The Torches she was going between the living-things; and brightness to the fire, and from the fire positioned lightning.',
+      'And the likeness of the living-beings, their appearance like coals of burning fire, like the appearance of The Torches she was going between the living-beings; and brightness to the fire, and from the fire positioned lightning.',
     kjv: 'As for the likeness of the living creatures, their appearance was like burning coals of fire, and like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

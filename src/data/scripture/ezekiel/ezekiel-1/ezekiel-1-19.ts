@@ -27,8 +27,8 @@ export const ezekiel_1_19: Verse = {
     {
       hebrew: 'הַחַיּוֹת',
       transliteration: 'haChayot',
-      englishLiteral: 'the-living-things',
-      englishNatural: 'the living-things',
+      englishLiteral: 'the-living-beings',
+      englishNatural: 'the living-beings',
       root: 'chayah',
       prefixes: ['ha'],
       order: {
@@ -121,8 +121,8 @@ export const ezekiel_1_19: Verse = {
     {
       hebrew: 'הַחַיּוֹת',
       transliteration: 'haChayot',
-      englishLiteral: 'the-living-things',
-      englishNatural: 'the living-things',
+      englishLiteral: 'the-living-beings',
+      englishNatural: 'the living-beings',
       root: 'chayah',
       prefixes: ['ha'],
       order: {
@@ -226,10 +226,10 @@ export const ezekiel_1_19: Verse = {
     transliteration:
       'uVelekhet haChayot yelekhu haOphanim etzlam uVehinase haChayot meAl haAretz yinasu haOphanim',
     englishLiteral:
-      'And-in-going-of the-living-things, they-went the-wheels beside-them, and-in-being-lifted-of the-living-things from-over the-land, they-were-lifted the-wheels.',
+      'And-in-going-of the-living-beings, they-went the-wheels beside-them, and-in-being-lifted-of the-living-beings from-over the-land, they-were-lifted the-wheels.',
     englishNatural:
-      'And in the going of the living-things, the wheels went beside them, and in the being-lifted of the living-things from over the land, the wheels were lifted.',
+      'And in the going of the living-beings, the wheels went beside them, and in the being-lifted of the living-beings from over the land, the wheels were lifted.',
     kjv: 'And when the living creatures went, the wheels went by them: and when the living creatures were lifted up from the earth, the wheels were lifted up.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

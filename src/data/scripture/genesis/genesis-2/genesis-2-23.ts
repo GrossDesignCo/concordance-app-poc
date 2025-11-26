@@ -134,6 +134,7 @@ export const genesis_2_23: Verse = {
         englishLiteral: ',',
         englishNatural: ',',
       },
+      lineBreaksAfter: 1,
     },
     {
       hebrew: 'וּבָשָׂר',
@@ -225,13 +226,14 @@ export const genesis_2_23: Verse = {
         type: 'noun',
       },
       grammarPrefix: {
-        englishLiteral: '"',
-        englishNatural: '"',
+        englishLiteral: "'",
+        englishNatural: "'",
       },
       grammarSuffix: {
-        englishLiteral: ',"',
-        englishNatural: ',"',
+        englishLiteral: ",'",
+        englishNatural: ",'",
       },
+      lineBreaksAfter: 1,
     },
     {
       hebrew: 'כִּי',
@@ -317,9 +319,9 @@ export const genesis_2_23: Verse = {
     transliteration:
       'vaYomer haAdam zot haPaam etsem meAtzamai uVasar miVesari leZot yiqarei ishah ki meIsh luqqachah zot',
     englishLiteral:
-      'And-said the-human, "This the-time! Bone from-my-bones, and-flesh from-my-flesh; to-this will-be-called_out "Woman," that from-Man was-taken this."',
+      'And-said the-human, "This the-time! Bone from-my-bones, and-flesh from-my-flesh; to-this will-be-called_out \'Woman,\' that from-Man was-taken this."',
     englishNatural:
-      'And the human said, "This is the time! Bone from my bones, and flesh from my flesh; to this will be called-out "Woman," that from Man this was taken."',
+      'And the human said, "This is the time! Bone from my bones, and flesh from my flesh; to this will be called-out \'Woman,\' that from Man this was taken."',
     kjv: 'And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },

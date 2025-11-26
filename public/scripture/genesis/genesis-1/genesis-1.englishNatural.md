@@ -80,9 +80,9 @@ And evening was,
 And morning was, 
 A fifth day.
 
-And God said, "Let the land bring-out living throat, to its kind, beast, and crawler, and living-thing of land."
+And God said, "Let the land bring-out living throat, to its kind, beast, and crawler, and living-being of land."
 
-And God made, living-thing of the land, to its kind, 
+And God made, living-being of the land, to its kind, 
 And the beast, to its kind, 
 And all crawler the ground, to its kind, 
 And God saw, that it was good.
@@ -100,7 +100,7 @@ And conquer and subjugate among fish of the sea, and among flyer of the skies, a
 
 And God said, "Behold, I give to you all herb seeding seed, which over the face of all the land, 
 And all the tree which in it is fruit of tree seeding seed, to you it shall be for food.
-And to all living-thing of the land, and to all flyer of the skies, and to all crawler over the land, which in it is living throat: all green herb for food." 
+And to all living-being of the land, and to all flyer of the skies, and to all crawler over the land, which in it is living throat: all green herb for food." 
 And it was so.
 
 And God saw, all which was made, 

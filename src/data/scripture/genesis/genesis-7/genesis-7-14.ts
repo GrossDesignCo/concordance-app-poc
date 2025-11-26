@@ -44,8 +44,8 @@ export const genesis_7_14: Verse = {
     {
       hebrew: 'הַחַיָּה',
       transliteration: 'haChayah',
-      englishLiteral: 'the-living_thing',
-      englishNatural: 'the living-thing',
+      englishLiteral: 'the-living_being',
+      englishNatural: 'the living-being',
       root: 'chayah',
       prefixes: ['ha'],
       order: {
@@ -372,10 +372,10 @@ export const genesis_7_14: Verse = {
     transliteration:
       'hemmah veKhol-haChayah leMina veKhol-haBehemah leMina veKhol-haRemes haRomes al-haAretz leMinehu veKhol-haOph leMinehu kol tzippor kol-kanaph',
     englishLiteral:
-      'they, and-all- the-living_thing to-kind-her, and-all- the-beast to-kind-her, and-all- the-creeping_thing the-creeping over- the-land to-kind-his, and-all- the-flier to-kind-his, all sparrow, all- wing.',
+      'they, and-all- the-living_being to-kind-her, and-all- the-beast to-kind-her, and-all- the-creeping_thing the-creeping over- the-land to-kind-his, and-all- the-flier to-kind-his, all sparrow, all- wing.',
     englishNatural:
-      'they, and all the living-thing to its kind, and all the beast to its kind, and all the creeping-thing the creeping over the land to its kind, and all the flier to its kind, all sparrow, all wing.',
+      'they, and all the living-being to its kind, and all the beast to its kind, and all the creeping-thing the creeping over the land to its kind, and all the flier to its kind, all sparrow, all wing.',
     kjv: 'They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

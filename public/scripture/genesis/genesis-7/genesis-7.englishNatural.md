@@ -34,7 +34,7 @@ and Name (Shem) and Hot (Ham) and Spacious (Japheth) the sons of Rest (Noah),
 and the woman of Rest (Noah) and the three women of his sons with them,
 to the ark;
 
-they, and all the living-thing to its kind,
+they, and all the living-being to its kind,
 and all the beast to its kind,
 and all the creeping-thing the creeping over the land to its kind,
 and all the flier to its kind,

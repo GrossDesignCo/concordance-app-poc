@@ -200,8 +200,8 @@ export const genesis_1_24: Verse = {
     {
       hebrew: 'וְחַֽיְתוֹ־',
       transliteration: 'veChayto-',
-      englishLiteral: 'and-living_thing-of',
-      englishNatural: 'and living-thing of',
+      englishLiteral: 'and-living_being-of',
+      englishNatural: 'and living-being of',
       root: 'chayah',
       prefixes: ['ve'],
       suffixes: ['o'],
@@ -238,11 +238,15 @@ export const genesis_1_24: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיֹּ֣אמֶר אֱלֹהִ֔ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ־אֶ֖רֶץ',
-    transliteration: 'vaYomer Elohim totze haAretz nephesh chayah leMinah behemah vaRemes veChayto-eretz',
-    englishLiteral: 'And-said Gods, "Let-bring_out the-land throat living, to-its-kind, beast, and-crawler, and-living_thing-of land."',
-    englishNatural: 'And God said, "Let the land bring-out living throat, to its kind, beast, and crawler, and living-thing of land."',
+    hebrew:
+      'וַיֹּ֣אמֶר אֱלֹהִ֔ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ־אֶ֖רֶץ',
+    transliteration:
+      'vaYomer Elohim totze haAretz nephesh chayah leMinah behemah vaRemes veChayto-eretz',
+    englishLiteral:
+      'And-said Gods, "Let-bring_out the-land throat living, to-its-kind, beast, and-crawler, and-living_being-of land."',
+    englishNatural:
+      'And God said, "Let the land bring-out living throat, to its kind, beast, and crawler, and living-being of land."',
     kjv: 'And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
-}; 
+};

@@ -60,8 +60,8 @@ export const ezekiel_1_22: Verse = {
     {
       hebrew: 'הַחַיָּה',
       transliteration: 'haChayah',
-      englishLiteral: 'the-living-thing',
-      englishNatural: 'the living-thing',
+      englishLiteral: 'the-living-being',
+      englishNatural: 'the living-being',
       root: 'chayah',
       prefixes: ['ha'],
       order: {
@@ -239,10 +239,10 @@ export const ezekiel_1_22: Verse = {
     transliteration:
       'uDemut al-raashey haChayah raqia keEin haKerach haNora natuy al-raasheihem miLemaala',
     englishLiteral:
-      'And-likeness-of over- heads-of the-living-thing hammering_out, like-eye-of the-crystal the-fearsome, stretched-out over- heads-their from-to-upward.',
+      'And-likeness-of over- heads-of the-living-being hammering_out, like-eye-of the-crystal the-fearsome, stretched-out over- heads-their from-to-upward.',
     englishNatural:
-      'And the likeness of a hammering-out, over the heads of the living-thing, like an eye of The Crystal, The Fearsome, stretched-out over their heads from above.',
+      'And the likeness of a hammering-out, over the heads of the living-being, like an eye of The Crystal, The Fearsome, stretched-out over their heads from above.',
     kjv: 'And the likeness of the firmament upon the heads of the living creature was as the colour of the terrible crystal, stretched forth over their heads above.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

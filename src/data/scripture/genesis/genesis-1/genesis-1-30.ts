@@ -28,8 +28,8 @@ export const genesis_1_30: Verse = {
     {
       hebrew: 'חַיַּ֣ת',
       transliteration: 'chayat',
-      englishLiteral: 'living_thing-of',
-      englishNatural: 'living-thing of',
+      englishLiteral: 'living_being-of',
+      englishNatural: 'living-being of',
       root: 'chayah',
       order: {
         hebrew: 2,
@@ -368,10 +368,10 @@ export const genesis_1_30: Verse = {
     transliteration:
       'uLeKol-chayat haAretz uLeKol-of haShamayim uLeKol romes al-haAretz asher-bo nephesh chayah et-kol-yerek esev leOchlah vaVayhi-ken',
     englishLiteral:
-      'And-to-all living_thing-of the-land, and-to-all flyer-of the-skies, and-to-all crawler over the-land, which in-it throat living ↳ all green herb for-food." And-was so.',
+      'And-to-all living_being-of the-land, and-to-all flyer-of the-skies, and-to-all crawler over the-land, which in-it throat living ↳ all green herb for-food." And-was so.',
     englishNatural:
-      'And to all living-thing of the land, and to all flyer of the skies, and to all crawler over the land, which in it is living throat: all green herb for food." And it was so.',
+      'And to all living-being of the land, and to all flyer of the skies, and to all crawler over the land, which in it is living throat: all green herb for food." And it was so.',
     kjv: 'And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

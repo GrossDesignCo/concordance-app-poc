@@ -19,7 +19,7 @@ a great cloud, and fire flashing,
 and brightness to it all-around,
 and from its midst like an eye of the glowing-metal from the midst of the fire.
 
-And from its midst a likeness of four living-things;
+And from its midst a likeness of four living-beings;
 and this their appearance,
 a likeness of human to them.
 
@@ -52,17 +52,17 @@ And man to the side of his face they went;
 to which it was there the wind to go they went;
 they went-around not in their going.
 
-And the likeness of the living-things, their appearance
+And the likeness of the living-beings, their appearance
 like coals of burning fire,
-like the appearance of The Torches she was going between the living-things;
+like the appearance of The Torches she was going between the living-beings;
 and brightness to the fire,
 and from the fire positioned lightning.
 
-And the living-things sprinting and returning like the appearance of The Flashing.
+And the living-beings sprinting and returning like the appearance of The Flashing.
 
-And I saw the living-things,
+And I saw the living-beings,
 and behold one wheel in the land,
-beside the living-things, to four of his faces.
+beside the living-beings, to four of his faces.
 
 The appearance of the wheels and their work,
 like an eye of gold-stone,
@@ -77,21 +77,21 @@ And their rims and height to them,
 and fear to them,
 and their rims full of eyes all-around to four of them.
 
-And in the going of the living-things, the wheels went beside them,
-and in the being-lifted of the living-things from over the land, the wheels were lifted.
+And in the going of the living-beings, the wheels went beside them,
+and in the being-lifted of the living-beings from over the land, the wheels were lifted.
 
 Over which it was there, the wind to go, they went,
 there, the wind to go,
 and the wheels were lifted alongside them,
-that the wind of the living-thing in the wheels.
+that the wind of the living-being in the wheels.
 
 In their going they went,
 and in their standing they stood,
 and in their being-lifted from over the land
 the wheels were lifted to alongside them,
-that the wind of the living-thing, in the wheels.
+that the wind of the living-being, in the wheels.
 
-And the likeness of a hammering-out, over the heads of the living-thing,
+And the likeness of a hammering-out, over the heads of the living-being,
 like an eye of The Crystal, The Fearsome,
 stretched-out over their heads from above.
 

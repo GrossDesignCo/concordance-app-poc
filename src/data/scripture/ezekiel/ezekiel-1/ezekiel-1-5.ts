@@ -60,8 +60,8 @@ export const ezekiel_1_5: Verse = {
     {
       hebrew: 'חַיּוֹת',
       transliteration: 'chayot',
-      englishLiteral: 'living_things',
-      englishNatural: 'living-things',
+      englishLiteral: 'living_beings',
+      englishNatural: 'living-beings',
       root: 'chayah',
       order: {
         hebrew: 4,
@@ -180,10 +180,10 @@ export const ezekiel_1_5: Verse = {
     transliteration:
       'uMitokah demut arba chayot veZeh mareihen demut adam lahenah',
     englishLiteral:
-      'And-from-midst-its likeness-of four living_things; and-this appearance-their, likeness-of human to-them.',
+      'And-from-midst-its likeness-of four living_beings; and-this appearance-their, likeness-of human to-them.',
     englishNatural:
-      'And from its midst a likeness of four living-things; and this their appearance, a likeness of human to them.',
+      'And from its midst a likeness of four living-beings; and this their appearance, a likeness of human to them.',
     kjv: 'Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

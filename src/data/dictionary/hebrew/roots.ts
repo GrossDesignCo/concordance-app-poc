@@ -283,10 +283,12 @@ const ROOTS = {
   chayah: {
     hebrew: 'חיה',
     transliteration: 'chayah',
-    englishLiteral: 'living_thing',
-    englishNatural: 'living-thing',
+    englishLiteral: 'living_being',
+    englishNatural: 'living-being',
     type: 'noun',
-    description: 'living thing, living creature, animal',
+    description:
+      'living-being/being-thing, living creature, mostly animals but broad term for all lifeforms',
+    related: ['chayah', 'chayyim', 'chai', 'hayah'],
   },
   sadeh: {
     hebrew: 'שׂדה',

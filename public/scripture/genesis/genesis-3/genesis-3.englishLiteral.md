@@ -1,5 +1,5 @@
 
-And-the-snake was shrewd, from-all living_thing-of the-field, which made, He_Who_Is Gods. 
+And-the-snake was shrewd, from-all living_being-of the-field, which made, He_Who_Is Gods. 
 And-said, to the-woman, "Is_it_so, that said Gods, 'Not you-shall-eat from-all tree the-garden'?"
 
 And-said, the-woman, to, the-snake, "from-fruit-of tree the-garden, we-eat."
@@ -34,8 +34,9 @@ And-he-said He_Who_Is Gods to-the-woman, "What- this you-have-made?"
 And-she-said, the-woman "The-snake, he-deceived-me, and-I-ate."
 
 And-he-said He_Who_Is Gods to- the-snake, 
-"that you-made this, cursed you 
-from-all beast and-from-all living_thing the-field; 
+"that you-made this,
+cursed you from-all beast 
+and-from-all living_being the-field; 
 on- belly-your you-will_walk, 
 and-dust you-will_eat, 
 all- days lives-your.

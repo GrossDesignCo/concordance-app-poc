@@ -34,8 +34,9 @@ vaYomer YHWH Elohim laIshah mah-zot asit
 vatomer haIshah hanachash hishiani vaOkhel
 
 vaYomer YHWH Elohim el-haNachash 
-ki asita zot arur atah 
-mikol behemah umikol chayat haSadeh 
+ki asita zot
+arur atah mikol behemah 
+umikol chayat haSadeh 
 al-gechonkha telekh 
 veAfar tokhal 
 kol-yemey chayyekha

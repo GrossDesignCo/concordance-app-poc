@@ -19,7 +19,7 @@ cloud great, and-fire flashing,
 and-brightness to-it all_around,
 and-from-midst-its like-eye-of the-glowing_metal from-midst-of the-fire.
 
-And-from-midst-its likeness-of four living_things;
+And-from-midst-its likeness-of four living_beings;
 and-this appearance-their,
 likeness-of human to-them.
 
@@ -52,17 +52,17 @@ And-man to- side-of face-his they-went;
 to which it-was- there the-wind to-go they-went;
 not they-went-around in-going-their.
 
-And-likeness-of the-living_things, appearance-their
+And-likeness-of the-living_beings, appearance-their
 like-coals-of- fire burning,
-like-appearance-of the-torches she going between the-living_things;
+like-appearance-of the-torches she going between the-living_beings;
 and-brightness to-the-fire,
 and-from- the-fire positioning lightning.
 
-And-the-living-things sprinting and-returning like-appearance-of the-flashing.
+And-the-living-beings sprinting and-returning like-appearance-of the-flashing.
 
-And-I-saw the-living-things,
+And-I-saw the-living-beings,
 and-behold wheel one in-the-land,
-beside the-living-things, to-four-of faces-his.
+beside the-living-beings, to-four-of faces-his.
 
 appearance-of the-wheels and-work-their,
 like-eye-of gold-stone,
@@ -77,21 +77,21 @@ And-rims-their and-height to-them,
 and-fear to-them,
 and-rims-their full-of eyes all_around to-four-of-them.
 
-And-in-going-of the-living-things, they-went the-wheels beside-them,
-and-in-being-lifted-of the-living-things from-over the-land, they-were-lifted the-wheels.
+And-in-going-of the-living-beings, they-went the-wheels beside-them,
+and-in-being-lifted-of the-living-beings from-over the-land, they-were-lifted the-wheels.
 
 over which it-was- there, the-wind to-go, they-went,
 there, the-wind to-go,
 and-the-wheels they-were-lifted to-alongside-them,
-that wind-of the-living-thing in-the-wheels.
+that wind-of the-living-being in-the-wheels.
 
 In-going-their they-went,
 and-in-standing-their they-stood,
 and-in-being-lifted-their from-over the-land
 they-were-lifted the-wheels to-alongside-them,
-that wind-of the-living-thing, in-the-wheels.
+that wind-of the-living-being, in-the-wheels.
 
-And-likeness-of over- heads-of the-living-thing hammering_out,
+And-likeness-of over- heads-of the-living-being hammering_out,
 like-eye-of the-crystal the-fearsome,
 stretched-out over- heads-their from-to-upward.
 

@@ -70,8 +70,8 @@ export const genesis_1_25: Verse = {
     {
       hebrew: 'חַיַּ֤ת',
       transliteration: 'chayat',
-      englishLiteral: 'living_thing-of',
-      englishNatural: 'living-thing of',
+      englishLiteral: 'living_being-of',
+      englishNatural: 'living-being of',
       root: 'chayah',
       order: {
         hebrew: 4,
@@ -346,11 +346,15 @@ export const genesis_1_25: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיַּ֣עַשׂ אֱלֹהִים֙ אֶת־חַיַּ֤ת הָאָ֔רֶץ לְמִינָ֖הּ וְאֶת־הַבְּהֵמָ֖ה לְמִינָ֑הּ וְאֵ֛ת כָּל־רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֖הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃',
-    transliteration: 'vaYaas Elohim et-chayat haAretz leMinah veEt-haBehemah leMinah veEt kol-remes haAdamah leMinehu vaYar Elohim ki-tov',
-    englishLiteral: 'And-made Gods, ↳ living_thing-of the-land, to-its-kind, And-↳ the-beast, to-its-kind, And-↳ all crawler the-ground, to-its-kind, And-saw Gods, that- good.',
-    englishNatural: 'And God made, living-thing of the land, to its kind, And the beast, to its kind, And all crawler the ground, to its kind, And God saw, that it was good.',
+    hebrew:
+      'וַיַּ֣עַשׂ אֱלֹהִים֙ אֶת־חַיַּ֤ת הָאָ֔רֶץ לְמִינָ֖הּ וְאֶת־הַבְּהֵמָ֖ה לְמִינָ֑הּ וְאֵ֛ת כָּל־רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֖הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃',
+    transliteration:
+      'vaYaas Elohim et-chayat haAretz leMinah veEt-haBehemah leMinah veEt kol-remes haAdamah leMinehu vaYar Elohim ki-tov',
+    englishLiteral:
+      'And-made Gods, ↳ living_being-of the-land, to-its-kind, And-↳ the-beast, to-its-kind, And-↳ all crawler the-ground, to-its-kind, And-saw Gods, that- good.',
+    englishNatural:
+      'And God made, living-being of the land, to its kind, And the beast, to its kind, And all crawler the ground, to its kind, And God saw, that it was good.',
     kjv: 'And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
-}; 
+};

@@ -50,8 +50,10 @@ vaYiven YHWH Elohim et-haTzela asher lakach min-haAdam leIshah vaYeviEha el-haAd
 
 vaYomer haAdam 
 zot haPaam 
-etsem meAtzamai uVasar miVesari 
-leZot yiqarei ishah ki meIsh luqqachah zot
+etsem meAtzamai
+uVasar miVesari 
+leZot yiqarei ishah
+ki meIsh luqqachah zot
 
 al-ken yaazov ish et-aviv veEt-immo veDavaq beIshto veHayu leVasar echad
 
