@@ -96,7 +96,7 @@ export const genesis_1_5: Verse = {
       hebrew: 'וְלַחֹ֖שֶׁךְ',
       transliteration: 'veLaChoshekh',
       englishLiteral: 'and-to-darkness',
-      englishNatural: 'darkness',
+      englishNatural: 'to darkness',
       root: 'choshekh',
       prefixes: ['ve', 'la'],
       order: {
@@ -115,8 +115,8 @@ export const genesis_1_5: Verse = {
     {
       hebrew: 'קָ֣רָא',
       transliteration: 'qara',
-      englishLiteral: 'called',
-      englishNatural: 'and called',
+      englishLiteral: 'called_out',
+      englishNatural: 'and called-out',
       root: 'qara',
       order: {
         hebrew: 6,
@@ -310,11 +310,15 @@ export const genesis_1_5: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיִּקְרָ֨א אֱלֹהִ֤ים לָא֔וֹר י֑וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם אֶחָֽד',
-    transliteration: 'vaYiqra Elohim laOr yom veLaChoshekh qara laylah vaYehi erev vaYehi voqer yom echad',
-    englishLiteral: 'And-called_out Gods to_the-light, "Day," and-to-darkness, called, "Night." And-was, evening, And-was, morning, Day one.',
-    englishNatural: 'And God called-out to the light "Day," and called darkness "Night." And evening was, And morning was, One day.',
+    hebrew:
+      'וַיִּקְרָ֨א אֱלֹהִ֤ים לָא֔וֹר י֑וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם אֶחָֽד',
+    transliteration:
+      'vaYiqra Elohim laOr yom veLaChoshekh qara laylah vaYehi erev vaYehi voqer yom echad',
+    englishLiteral:
+      'And-called_out Gods to_the-light, "Day," and-to-darkness, called_out, "Night." And-was, evening, And-was, morning, Day one.',
+    englishNatural:
+      'And God called-out to the light "Day," and called-out to darkness "Night." And evening was, And morning was, One day.',
     kjv: 'And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
-}; 
+};

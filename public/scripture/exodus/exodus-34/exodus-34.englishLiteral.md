@@ -1,7 +1,7 @@
 
 And-went_down He_Who_Is in-cloud, 
 and-positioned-himself with-him there, 
-and-called-out in-name He_Who_Is.
+and-called_out in-name He_Who_Is.
 
 And-passed-through He_Who_Is over- his-faces, 
 and-called_out, "He_Who_Is, He_Who_Is, God, compassionate, 

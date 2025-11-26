@@ -216,8 +216,8 @@ export const genesis_4_17: Verse = {
     {
       hebrew: 'וַיִּקְרָא',
       transliteration: 'vayYiqra',
-      englishLiteral: 'and-he-called',
-      englishNatural: 'and he called',
+      englishLiteral: 'and-he-called_out',
+      englishNatural: 'and he called-out',
       root: 'qara',
       prefixes: ['va'],
       order: {
@@ -331,10 +331,10 @@ export const genesis_4_17: Verse = {
     transliteration:
       'vayYeda Qayin et-ishto vatTahar vatTeled et-Chanokh vayHi boneh ir vayYiqra shem haIr keShem beno Chanokh',
     englishLiteral:
-      'And-he-knew Acquired (Cain) ↳ his-woman, and-she-conceived and-she-bore ↳ Dedicated (Enoch); and-he-was building city, and-he-called name the-city as-name son-his, Dedicated (Enoch).',
+      'And-he-knew Acquired (Cain) ↳ his-woman, and-she-conceived and-she-bore ↳ Dedicated (Enoch); and-he-was building city, and-he-called_out name the-city as-name son-his, Dedicated (Enoch).',
     englishNatural:
-      'And Acquired (Cain) knew his woman, and she conceived and bore Dedicated (Enoch); and he was building a city, and he called the name of the city after the name of his son, Dedicated (Enoch).',
+      'And Acquired (Cain) knew his woman, and she conceived and bore Dedicated (Enoch); and he was building a city, and he called-out the name of the city after the name of his son, Dedicated (Enoch).',
     kjv: 'And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-06' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+  },
 };

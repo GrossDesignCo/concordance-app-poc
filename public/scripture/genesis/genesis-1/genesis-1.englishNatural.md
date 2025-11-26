@@ -11,7 +11,7 @@ And God saw the light, that it was good.
 And God separated between the light, and between the darkness.
 
 And God called-out to the light "Day,"
-and called darkness "Night."
+and called-out to darkness "Night."
 
 And evening was, 
 And morning was, 

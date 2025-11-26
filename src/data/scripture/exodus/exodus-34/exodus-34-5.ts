@@ -125,8 +125,8 @@ export const exodus_34_5: Verse = {
     {
       hebrew: 'וַיִּקְרָא',
       transliteration: 'vaYiqra',
-      englishLiteral: 'and-called-out',
-      englishNatural: 'and called out',
+      englishLiteral: 'and-called_out',
+      englishNatural: 'and called-out',
       root: 'qara',
       prefixes: ['va'],
       order: {
@@ -187,10 +187,10 @@ export const exodus_34_5: Verse = {
     transliteration:
       'vaYered YHWH beAnan vaYityatzev imo sham vaYiqra beshem YHWH',
     englishLiteral:
-      'And-went_down He_Who_Is in-cloud, and-positioned-himself with-him there, and-called-out in-name He_Who_Is.',
+      'And-went_down He_Who_Is in-cloud, and-positioned-himself with-him there, and-called_out in-name He_Who_Is.',
     englishNatural:
-      'And He-Who-Is went-down in the cloud, and positioned himself with him there, and called out the name of He-Who-Is.',
+      'And He-Who-Is went-down in the cloud, and positioned himself with him there, and called-out the name of He-Who-Is.',
     kjv: 'And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

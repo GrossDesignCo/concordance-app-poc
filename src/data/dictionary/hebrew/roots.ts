@@ -902,6 +902,7 @@ const ROOTS = {
     englishNatural: 'to call-out',
     description: 'to call, to call out to, to name, to call by name',
     type: 'verb',
+    related: ['qarav'],
   },
   yom: {
     hebrew: 'יום',
@@ -4355,7 +4356,7 @@ const ROOTS = {
     englishNatural: 'to approach',
     type: 'verb',
     description: 'to come near, approach, draw near',
-    related: ['keruv'],
+    related: ['keruv', 'qara'],
   },
   rav_noun: {
     hebrew: 'רב',

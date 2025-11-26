@@ -95,6 +95,8 @@ export const isaiah_6_4: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
+        tense: 'participle',
+        stem: 'qal',
         type: 'verb',
       },
       grammarSuffix: {
@@ -155,11 +157,15 @@ export const isaiah_6_4: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיָּנֻ֙עוּ֙ אַמּ֣וֹת הַסִּפִּ֔ים מִקּ֖וֹל הַקּוֹרֵ֑א וְהַבַּ֖יִת יִמָּלֵ֥א עָשָֽׁן',
-    transliteration: 'vaiYanu amot haSippim miQol haQore veHaBayit yimale ashan',
-    englishLiteral: 'And-shook pillars the-thresholds from-voice the-caller, and-the-house was-filled smoke.',
-    englishNatural: 'And pillars of the thresholds shook from the voice of the caller, and the house was filled with smoke.',
+    hebrew:
+      'וַיָּנֻ֙עוּ֙ אַמּ֣וֹת הַסִּפִּ֔ים מִקּ֖וֹל הַקּוֹרֵ֑א וְהַבַּ֖יִת יִמָּלֵ֥א עָשָֽׁן',
+    transliteration:
+      'vaiYanu amot haSippim miQol haQore veHaBayit yimale ashan',
+    englishLiteral:
+      'And-shook pillars the-thresholds from-voice the-caller, and-the-house was-filled smoke.',
+    englishNatural:
+      'And pillars of the thresholds shook from the voice of the caller, and the house was filled with smoke.',
     kjv: 'And the posts of the door moved at the voice of him that cried, and the house was filled with smoke.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-07' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
-}; 
+};

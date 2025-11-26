@@ -1,7 +1,7 @@
 
 And He-Who-Is went-down in the cloud, 
 and positioned himself with him there, 
-and called out the name of He-Who-Is.
+and called-out the name of He-Who-Is.
 
 And He-Who-Is passed through over his faces (eyes), 
 and called-out, "He-Who-Is, He-Who-Is, God, compassionate, 

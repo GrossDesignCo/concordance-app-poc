@@ -11,7 +11,7 @@ And-saw Gods ↳ the-light, that- good.
 And-separated Gods between the-light, and-between the-darkness.
 
 And-called_out Gods to_the-light, "Day,"
-and-to-darkness, called, "Night."
+and-to-darkness, called_out, "Night."
 
 And-was, evening, 
 And-was, morning, 

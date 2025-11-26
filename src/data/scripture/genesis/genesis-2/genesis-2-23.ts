@@ -193,8 +193,8 @@ export const genesis_2_23: Verse = {
     {
       hebrew: 'יִקָּרֵא',
       transliteration: 'yiqarei',
-      englishLiteral: 'will-be-called',
-      englishNatural: 'will be called',
+      englishLiteral: 'will-be-called_out',
+      englishNatural: 'will be called-out',
       root: 'qara',
       order: {
         hebrew: 10,
@@ -224,9 +224,13 @@ export const genesis_2_23: Verse = {
         number: 'singular',
         type: 'noun',
       },
+      grammarPrefix: {
+        englishLiteral: '"',
+        englishNatural: '"',
+      },
       grammarSuffix: {
-        englishLiteral: ',',
-        englishNatural: ',',
+        englishLiteral: ',"',
+        englishNatural: ',"',
       },
     },
     {
@@ -268,7 +272,7 @@ export const genesis_2_23: Verse = {
       root: 'lakach',
       order: {
         hebrew: 14,
-        english: 14,
+        english: 15,
       },
       morphology: {
         gender: 'feminine',
@@ -277,6 +281,13 @@ export const genesis_2_23: Verse = {
         tense: 'perfect',
         stem: 'pual',
         type: 'verb',
+      },
+
+      grammarSuffix: {
+        englishNatural: '."',
+      },
+      lineBreaksAfter: {
+        english: 1,
       },
     },
     {
@@ -287,16 +298,17 @@ export const genesis_2_23: Verse = {
       root: 'zeh',
       order: {
         hebrew: 15,
-        english: 15,
+        english: 14,
       },
       morphology: {
         type: 'pronoun',
       },
       grammarSuffix: {
         englishLiteral: '."',
-        englishNatural: '."',
       },
-      lineBreaksAfter: 1,
+      lineBreaksAfter: {
+        hebrew: 1,
+      },
     },
   ],
   expectedTranslations: {
@@ -305,10 +317,10 @@ export const genesis_2_23: Verse = {
     transliteration:
       'vaYomer haAdam zot haPaam etsem meAtzamai uVasar miVesari leZot yiqarei ishah ki meIsh luqqachah zot',
     englishLiteral:
-      'And-said the-human, "This the-time! Bone from-my-bones, and-flesh from-my-flesh; to-this will-be-called Woman, that from-Man was-taken this."',
+      'And-said the-human, "This the-time! Bone from-my-bones, and-flesh from-my-flesh; to-this will-be-called_out "Woman," that from-Man was-taken this."',
     englishNatural:
-      'And the human said, "This is the time! Bone from my bones, and flesh from my flesh; to this will be called Woman, that from Man was taken this."',
+      'And the human said, "This is the time! Bone from my bones, and flesh from my flesh; to this will be called-out "Woman," that from Man this was taken."',
     kjv: 'And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

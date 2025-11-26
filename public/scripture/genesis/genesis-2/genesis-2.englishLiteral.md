@@ -51,7 +51,7 @@ And-built He_Who_Is Gods ↳ the-side which he-took from- the-human, to-woman, a
 And-said the-human, 
 "This the-time! 
 Bone from-my-bones, and-flesh from-my-flesh; 
-to-this will-be-called Woman, that from-Man was-taken this."
+to-this will-be-called_out "Woman," that from-Man was-taken this."
 
 over- so, he-will-leave man ↳ his-father, and-↳ his-mother, and-cling in-his-woman, and-will-be to-flesh one.
 

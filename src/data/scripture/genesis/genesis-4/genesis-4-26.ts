@@ -101,8 +101,8 @@ export const genesis_4_26: Verse = {
     {
       hebrew: 'וַיִּקְרָא',
       transliteration: 'vaYiqra',
-      englishLiteral: 'and-called',
-      englishNatural: 'and he called',
+      englishLiteral: 'and-called_out',
+      englishNatural: 'and he called-out',
       root: 'qara',
       prefixes: ['va'],
       order: {
@@ -209,8 +209,8 @@ export const genesis_4_26: Verse = {
     {
       hebrew: 'לִקְרֹא',
       transliteration: 'liqro',
-      englishLiteral: 'to-call-out',
-      englishNatural: 'to call out',
+      englishLiteral: 'to-call_out',
+      englishNatural: 'to call-out',
       root: 'qara',
       prefixes: ['li'],
       order: {
@@ -272,10 +272,10 @@ export const genesis_4_26: Verse = {
     transliteration:
       'uleShet gam-hu yulad-ben vaYiqra et-shemo Enosh az huchal liqro beShem YHWH',
     englishLiteral:
-      'and-to-Appointed (Seth) also he was-born son; and-called ↳ name-his Mortal (Enosh); then was-begun, to-call-out in-name-of He-Who-Is.',
+      'and-to-Appointed (Seth) also he was-born son; and-called_out ↳ name-his "Mortal (Enosh); then was-begun, to-call_out in-name-of He-Who-Is."',
     englishNatural:
-      'And to Appointed (Seth) also he was born a son; and he called his name Mortal (Enosh); then it began, to call out in the name of He-Who-Is.',
+      'And to Appointed (Seth) also he was born a son; and he called-out his name "Mortal (Enosh);" then it began, to call-out in the name of He-Who-Is."',
     kjv: 'And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

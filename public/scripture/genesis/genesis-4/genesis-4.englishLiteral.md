@@ -63,7 +63,7 @@ east- Delight.
 And-he-knew Acquired (Cain) ↳ his-woman,
 and-she-conceived and-she-bore ↳ Dedicated (Enoch);
 and-he-was building city,
-and-he-called name the-city as-name son-his, Dedicated (Enoch).
+and-he-called_out name the-city as-name son-his, Dedicated (Enoch).
 
 And-was-born to-Dedicated (Enoch) ↳ Fugitive (Irad);
 and-Fugitive (Irad) bore ↳ Smitten-of-God (Mehujael);
@@ -93,6 +93,6 @@ and-newborn to-stripe-my.
 that sevenfold shall-be-avenged Acquired (Cain),
 and-Powerful (Lamech) seventy and-seven."
 
-and-knew Human (Adam) again ↳ woman-his; and-bore son, and-called ↳ name-his Appointed (Seth); that appointed to-me Gods seed another instead-of Vapor (Abel); that killed-him Acquired (Cain).
+and-knew Human (Adam) again ↳ woman-his; and-bore son, and-called_out ↳ name-his "Appointed (Seth); that appointed to-me Gods seed another instead-of Vapor (Abel); that killed-him Acquired (Cain)."
 
-and-to-Appointed (Seth) also he was-born son; and-called ↳ name-his Mortal (Enosh); then was-begun, to-call-out in-name-of He-Who-Is.
+and-to-Appointed (Seth) also he was-born son; and-called_out ↳ name-his Mortal (Enosh); then was-begun, to-call_out in-name-of He-Who-Is.

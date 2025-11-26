@@ -51,7 +51,7 @@ And He-Who-Is God built the side which he took from the human, into a woman, and
 And the human said, 
 "This is the time! 
 Bone from my bones, and flesh from my flesh; 
-to this will be called Woman, that from Man was taken this."
+to this will be called-out "Woman," that from Man this was taken."
 
 So moreover, Man will leave his father, and his mother, and cling in his woman, and will become one flesh.
 

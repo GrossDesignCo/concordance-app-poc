@@ -62,7 +62,7 @@ east of Delight.
 And Acquired (Cain) knew his woman,
 and she conceived and bore Dedicated (Enoch);
 and he was building a city,
-and he called the name of the city after the name of his son, Dedicated (Enoch).
+and he called-out the name of the city after the name of his son, Dedicated (Enoch).
 
 And to Dedicated (Enoch) was born Fugitive (Irad);
 and Fugitive (Irad) bore Smitten-of-God (Mehujael);
@@ -89,6 +89,6 @@ and newborn to my stripe.
 that Acquired (Cain) shall be avenged sevenfold,
 and Powerful (Lamech) seventy and seven."
 
-And Human (Adam) knew his woman again; and she bore a son, and called his name Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him.
+And Human (Adam) knew his woman again; and she bore a son, and called-out his name "Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him."
 
-And to Appointed (Seth) also he was born a son; and he called his name Mortal (Enosh); then it began, to call out in the name of He-Who-Is.
+And to Appointed (Seth) also he was born a son; and he called-out his name Mortal (Enosh); then it began, to call-out in the name of He-Who-Is.

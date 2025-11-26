@@ -6,6 +6,9 @@
   "englishNatural": "to call-out",
   "description": "to call, to call out to, to name, to call by name",
   "type": "verb",
+  "related": [
+    "qarav"
+  ],
   "wordIndexes": {
     "exodus": {
       "34": {

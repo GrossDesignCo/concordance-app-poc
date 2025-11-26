@@ -143,8 +143,8 @@ export const genesis_4_25: Verse = {
     {
       hebrew: 'וַתִּקְרָא',
       transliteration: 'vaTiqra',
-      englishLiteral: 'and-called',
-      englishNatural: 'and called',
+      englishLiteral: 'and-called_out',
+      englishNatural: 'and called-out',
       root: 'qara',
       prefixes: ['va'],
       order: {
@@ -205,6 +205,10 @@ export const genesis_4_25: Verse = {
         type: 'noun',
         gender: 'masculine',
         number: 'singular',
+      },
+      grammarPrefix: {
+        englishLiteral: '"',
+        englishNatural: '"',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -375,7 +379,7 @@ export const genesis_4_25: Verse = {
         tense: 'perfect',
       },
       grammarSuffix: {
-        englishNatural: '.',
+        englishNatural: '."',
       },
       lineBreaksAfter: {
         english: 1,
@@ -397,7 +401,7 @@ export const genesis_4_25: Verse = {
         number: 'singular',
       },
       grammarSuffix: {
-        englishLiteral: '.',
+        englishLiteral: '."',
       },
       lineBreaksAfter: {
         hebrew: 1,
@@ -410,10 +414,10 @@ export const genesis_4_25: Verse = {
     transliteration:
       'vaYeda Adam od et-ishto vaTeled ben vaTiqra et-shemo Shet ki shat-li Elohim zera acher tachat Hevel ki harago Qayin',
     englishLiteral:
-      'and-knew Human (Adam) again ↳ woman-his; and-bore son, and-called ↳ name-his Appointed (Seth); that appointed to-me Gods seed another instead-of Vapor (Abel); that killed-him Acquired (Cain).',
+      'and-knew Human (Adam) again ↳ woman-his; and-bore son, and-called_out ↳ name-his "Appointed (Seth); that appointed to-me Gods seed another instead-of Vapor (Abel); that killed-him Acquired (Cain)."',
     englishNatural:
-      'And Human (Adam) knew his woman again; and she bore a son, and called his name Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him.',
+      'And Human (Adam) knew his woman again; and she bore a son, and called-out his name "Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him."',
     kjv: 'And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel; for Cain slew him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };
