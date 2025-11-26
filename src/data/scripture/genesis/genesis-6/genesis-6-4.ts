@@ -10,8 +10,8 @@ export const genesis_6_4: Verse = {
     {
       hebrew: 'הַנְּפִלִים',
       transliteration: 'haNephalim',
-      englishLiteral: 'The-fallen_ones',
-      englishNatural: 'The fallen-ones',
+      englishLiteral: 'The-Fallen (Nephilim)',
+      englishNatural: 'The Fallen (Nephilim)',
       root: 'nefilim',
       prefixes: ['ha'],
       order: {
@@ -429,10 +429,10 @@ export const genesis_6_4: Verse = {
     transliteration:
       'haNephalim hayu baAretz baYamim hahem vegam acharei-ken asher yavou beney haElohim el-benot haAdam veyaledu lahem hemah haGibborim asher meOlam anshei haShem',
     englishLiteral:
-      'The-fallen_ones were in-the-land in-the-days the-those; and-also after- so, which they-came sons-of the-Gods to daughters-of the-Human (Adam), and-they-birthed to-them they the-mighty_ones, which from-the_age, men-of the-name.',
+      'The-Fallen (Nephilim) were in-the-land in-the-days the-those; and-also after- so, which they-came sons-of the-Gods to daughters-of the-Human (Adam), and-they-birthed to-them they the-mighty_ones, which from-the_age, men-of the-name.',
     englishNatural:
-      'The fallen-ones were in the land in those days; and also after so, which the sons of God came to the daughters of Human (Adam), and to them they birthed the mighty-ones, which from the-age, men of the name.',
+      'The Fallen (Nephilim) were in the land in those days; and also after so, which the sons of God came to the daughters of Human (Adam), and to them they birthed the mighty-ones, which from the-age, men of the name.',
     kjv: 'There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare them children, the same became mighty men which were of old, men of renown.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
   },
 };

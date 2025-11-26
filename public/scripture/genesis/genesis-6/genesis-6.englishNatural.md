@@ -10,7 +10,7 @@ And He-Who-Is said, "My Wind will judge not in the human to the-age,
 in moreover he is flesh;
 and his days will be a hundred and twenty years."
 
-The fallen-ones were in the land in those
+The Fallen (Nephilim) were in the land in those
 days; and also after so,
 which the sons of God came to the daughters of Human (Adam),
 and to them they birthed the mighty-ones,

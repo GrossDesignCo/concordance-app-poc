@@ -4133,9 +4133,9 @@ const ROOTS = {
   // Genesis 6:4 additions
   nefilim: {
     hebrew: 'נפלים',
-    transliteration: 'nefilim',
-    englishLiteral: 'fallen_ones',
-    englishNatural: 'fallen-ones',
+    transliteration: 'Nephilim',
+    englishLiteral: 'Fallen (Nephilim)',
+    englishNatural: 'Fallen (Nephilim)',
     type: 'noun',
     description: 'fallen ones, giants, those who have fallen',
     related: ['naphal'],

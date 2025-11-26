@@ -10,7 +10,7 @@ And-he-said He_Who_Is, "not- will-judge my-wind in-the-human to-the_age,
 in-moreover he flesh;
 and-they-will-be his-days hundred and-twenty year."
 
-The-fallen_ones were in-the-land in-the-days the-those;
+The-Fallen (Nephilim) were in-the-land in-the-days the-those;
 and-also after- so,
 which they-came sons-of the-Gods to daughters-of the-Human (Adam),
 and-they-birthed to-them they the-mighty_ones,
