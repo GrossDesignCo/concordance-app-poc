@@ -105,6 +105,7 @@ export const Main = () => {
               if (!open) setSecondaryPanel(null);
             }}
             title={secondaryPanelTitle}
+            expanded
           >
             {secondaryPanelContent}
           </Sheet>
