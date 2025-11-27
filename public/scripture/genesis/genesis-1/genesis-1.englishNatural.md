@@ -1,7 +1,7 @@
 In heading, God created the skies and the land.
 
 And the land was waste and void; 
-And darkness over the face of the abyss.
+And darkness, over the face of the abyss.
 And the Wind of God was stirring over the face of the waters.
 
 And God said, "Let light be."
