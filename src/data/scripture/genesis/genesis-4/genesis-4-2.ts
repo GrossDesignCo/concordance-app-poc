@@ -243,8 +243,8 @@ export const genesis_4_2: Verse = {
     {
       hebrew: 'אֲדָמָה',
       transliteration: 'adamah',
-      englishLiteral: 'soil',
-      englishNatural: 'of soil',
+      englishLiteral: 'earth',
+      englishNatural: 'of earth',
       root: 'adamah',
       order: {
         hebrew: 14,
@@ -268,10 +268,10 @@ export const genesis_4_2: Verse = {
     transliteration:
       'vatTosef laLedet et-achiv et-Havel vayHi-Hevel roeh tzon veQayin hayah oved adamah',
     englishLiteral:
-      'and-she-added to-her-birthing, ↳ his-brother ↳ Vapor (Abel). And-he-was Vapor (Abel) shepherd flock, and-Acquired (Cain) was servant soil.',
+      'and-she-added to-her-birthing, ↳ his-brother ↳ Vapor (Abel). And-he-was Vapor (Abel) shepherd flock, and-Acquired (Cain) was servant earth.',
     englishNatural:
-      'And she added to her birthing, his brother Vapor (Abel). And Vapor (Abel) was a shepherd of flock, and Acquired (Cain) was a servant of soil.',
+      'And she added to her birthing, his brother Vapor (Abel). And Vapor (Abel) was a shepherd of flock, and Acquired (Cain) was a servant of earth.',
     kjv: 'And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

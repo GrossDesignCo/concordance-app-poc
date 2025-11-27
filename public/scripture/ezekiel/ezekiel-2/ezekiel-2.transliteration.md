@@ -1,6 +1,6 @@
 
 vayYomer elai
-ben-adam amod al-ragleikha
+ben-Adam amod al-ragleikha
 vaAdabber otakh
 
 vatTavo vi ruach

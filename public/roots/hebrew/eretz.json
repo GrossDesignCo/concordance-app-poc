@@ -4,6 +4,11 @@
   "transliteration": "eretz",
   "englishLiteral": "land",
   "englishNatural": "land",
+  "related": [
+    "adamah",
+    "yabashah"
+  ],
+  "description": "land as a category of place, the whole earth, all the land",
   "type": "noun",
   "wordIndexes": {
     "ezekiel": {

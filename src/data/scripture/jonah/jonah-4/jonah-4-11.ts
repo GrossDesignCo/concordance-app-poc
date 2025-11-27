@@ -241,9 +241,9 @@ export const jonah_4_11: Verse = {
     },
     {
       hebrew: 'אָדָם',
-      transliteration: 'adam',
-      englishLiteral: 'Human (Adam)',
-      englishNatural: 'Human (Adam)',
+      transliteration: 'Adam',
+      englishLiteral: 'Earth (Adam)',
+      englishNatural: 'Earth (Adam)',
       root: 'adam',
       order: {
         hebrew: 15,
@@ -414,12 +414,12 @@ export const jonah_4_11: Verse = {
     hebrew:
       'וַאֲנִי לֹא אָחוּס עַל־נִינְוֵה הָעִיר הַגְּדוֹלָה אֲשֶׁר יֶשׁ־בָּהּ הַרְבֵּה מִשְׁתֵּים־עֶשְׂרֵה רִבּוֹ אָדָם אֲשֶׁר לֹא־יָדַע בֵּין־יְמִינוֹ לִשְׂמֹאלוֹ וּבְהֵמָה רַבָּה',
     transliteration:
-      'vaAni lo achus al-Nineveh haIr haGedolah asher yesh-bah harbeh mishteym-esreh ribbo adam asher lo-yada beyn-yemino lismolo uvehemah rabah',
+      'vaAni lo achus al-Nineveh haIr haGedolah asher yesh-bah harbeh mishteym-esreh ribbo Adam asher lo-yada beyn-yemino lismolo uvehemah rabah',
     englishLiteral:
-      'And-I, not I-will-pity over- Dwelling_of_Fish (Nineveh), the-city, the-great, which there_is- in-her much from-two- ten ten_thousand Human (Adam), which not- knows between- right_hand-his to-left_hand-his; and-beast many?"',
+      'And-I, not I-will-pity over- Dwelling_of_Fish (Nineveh), the-city, the-great, which there_is- in-her much from-two- ten ten_thousand Earth (Adam), which not- knows between- right_hand-his to-left_hand-his; and-beast many?"',
     englishNatural:
-      'And I, will I pity not over Dwelling-of-Fish (Nineveh), the city, the great, which there-is in her much more than two ten ten-thousand Human (Adam), which knows not between his right-hand to his left-hand; and many beast?"',
+      'And I, will I pity not over Dwelling-of-Fish (Nineveh), the city, the great, which there-is in her much more than two ten ten-thousand Earth (Adam), which knows not between his right-hand to his left-hand; and many beast?"',
     kjv: 'And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

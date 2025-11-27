@@ -25,7 +25,7 @@ export const genesis_3_23: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'piel',
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: {
         hebrew: 1,
@@ -42,7 +42,7 @@ export const genesis_3_23: Verse = {
         english: 1,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: {
         english: 1,
@@ -62,7 +62,7 @@ export const genesis_3_23: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -77,7 +77,7 @@ export const genesis_3_23: Verse = {
         english: 4,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -91,7 +91,7 @@ export const genesis_3_23: Verse = {
         english: 5,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -110,7 +110,7 @@ export const genesis_3_23: Verse = {
         english: 6,
       },
       morphology: {
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: 1,
     },
@@ -125,14 +125,14 @@ export const genesis_3_23: Verse = {
         english: 7,
       },
       morphology: {
-        type: 'particle'
+        type: 'particle',
       },
     },
     {
       hebrew: 'הָאֲדָמָה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-soil',
-      englishNatural: 'the soil',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: {
@@ -142,7 +142,7 @@ export const genesis_3_23: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -156,7 +156,7 @@ export const genesis_3_23: Verse = {
         english: 10,
       },
       morphology: {
-        type: 'relative'
+        type: 'relative',
       },
     },
     {
@@ -175,7 +175,7 @@ export const genesis_3_23: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'pual',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishNatural: '.',
@@ -196,7 +196,7 @@ export const genesis_3_23: Verse = {
         english: 9,
       },
       morphology: {
-        type: 'adverb'
+        type: 'adverb',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -207,11 +207,15 @@ export const genesis_3_23: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיְשַׁלְּחֵהוּ יְהוָה אֱלֹהִים מִגַּן־עֵדֶן לַעֲבֹד אֶת־הָאֲדָמָה אֲשֶׁר לֻקַּח מִשָּׁם׃',
-    transliteration: 'vayShallachehu YHWH Elohim miGan-Eden laAvod et-haAdamah asher luQach miSham',
-    englishLiteral: 'And-he-sent-him He_Who_Is Gods from-Garden Delight (Eden); to-serve ↳ the-soil which was-taken from-there.',
-    englishNatural: 'And He-Who-Is God sent him from Garden of Delight (Eden); to serve the soil from there which he was taken.',
+    hebrew:
+      'וַיְשַׁלְּחֵהוּ יְהוָה אֱלֹהִים מִגַּן־עֵדֶן לַעֲבֹד אֶת־הָאֲדָמָה אֲשֶׁר לֻקַּח מִשָּׁם׃',
+    transliteration:
+      'vayShallachehu YHWH Elohim miGan-Eden laAvod et-haAdamah asher luQach miSham',
+    englishLiteral:
+      'And-he-sent-him He_Who_Is Gods from-Garden Delight (Eden); to-serve ↳ the-earth which was-taken from-there.',
+    englishNatural:
+      'And He-Who-Is God sent him from Garden of Delight (Eden); to serve the earth from there which he was taken.',
     kjv: 'Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

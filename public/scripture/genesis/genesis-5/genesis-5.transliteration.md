@@ -1,7 +1,7 @@
 
 zeh sefer toledot Adam
 
-beYom bero Elohim adam
+beYom bero Elohim Adam
 biDemut Elohim asah oto
 zakhar uNeqevah beroam 
 vaYevarekh otam 

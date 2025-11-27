@@ -1,16 +1,18 @@
 {
   "key": "adam",
   "hebrew": "אדם",
-  "transliteration": "adam",
-  "englishLiteral": "Human (Adam)",
-  "englishNatural": "Human (Adam)",
-  "description": "Humans in general, Name of Adam, distinct term from from man (ish), male (zakhar)",
+  "transliteration": "Adam",
+  "englishLiteral": "Earth (Adam)",
+  "englishNatural": "Earth (Adam)",
+  "description": "Humans in general, Name of Adam, distinct term from from man (ish), male (zakhar), always refers to humanity when in masculine form, to the ground from which humans were formed when in feminine form",
   "related": [
     "adamah",
     "ish",
     "ishah",
     "zakhar",
-    "neqevah"
+    "neqevah",
+    "eretz",
+    "yabashah"
   ],
   "type": "noun",
   "wordIndexes": {

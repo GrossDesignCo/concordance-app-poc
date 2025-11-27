@@ -3,7 +3,7 @@ And it was bad to Dove (Jonah), a great bad;
 and it fumed angrily to him.
 
 And he prayed to He-Who-Is and said, 
-"Please He-Who-Is, was not this my word until I was over my soil? 
+"Please He-Who-Is, was not this my word until I was over my earth? 
 So moreover I preceded to flee to Gold-Stone (Tarshish), 
 that I knew that you are God gracious and compassionate, 
 long of nostrils and great of steadfast-love 
@@ -44,5 +44,5 @@ which you labored in it not, and you grew it not,
 yet son of a night it was and son of a night it perished.
 
 And I, will I pity not over Dwelling-of-Fish (Nineveh), the city, the great, 
-which there-is in her much more than two ten ten-thousand Human (Adam), 
+which there-is in her much more than two ten ten-thousand Earth (Adam), 
 which knows not between his right-hand to his left-hand; and many beast?"

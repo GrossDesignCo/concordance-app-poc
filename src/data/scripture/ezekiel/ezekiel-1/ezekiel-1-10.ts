@@ -67,9 +67,9 @@ export const ezekiel_1_10: Verse = {
     },
     {
       hebrew: 'אָדָם',
-      transliteration: 'adam',
-      englishLiteral: 'human',
-      englishNatural: 'a human',
+      transliteration: 'Adam',
+      englishLiteral: 'Earth (Adam)',
+      englishNatural: 'Earth (Adam)',
       root: 'adam',
       order: {
         hebrew: 4,
@@ -310,12 +310,12 @@ export const ezekiel_1_10: Verse = {
     hebrew:
       'וּדְמוּת פְּנֵיהֶם פְּנֵי אָדָם וּפְנֵי אַרְיֵה אֶל־הַיָּמִין לְאַרְבַּעְתָּם וּפְנֵי־שׁוֹר מֵהַשְּׂמֹאול לְאַרְבַּעְתָּן וּפְנֵי־נֶשֶׁר לְאַרְבַּעְתָּן',
     transliteration:
-      'uDemut peneihem peney adam uFeney aryeh el-haYamin leArbatam uFeney-shor meHaSmol leArbatan uFeney-nesher leArbatan',
+      'uDemut peneihem peney Adam uFeney aryeh el-haYamin leArbatam uFeney-shor meHaSmol leArbatan uFeney-nesher leArbatan',
     englishLiteral:
-      'And-likeness-of faces-their: face-of human, and-face-of lion to- the-right to-four-of-them, and-face-of- ox from-the-left to-four-of-them, and-face-of- eagle to-four-of-them.',
+      'And-likeness-of faces-their: face-of Earth (Adam), and-face-of lion to- the-right to-four-of-them, and-face-of- ox from-the-left to-four-of-them, and-face-of- eagle to-four-of-them.',
     englishNatural:
-      'And the likeness of their faces: the face of a human, and the face of a lion to the right to four of them, and the face of an ox from the left to four of them, and the face of an eagle to four of them.',
+      'And the likeness of their faces: the face of Earth (Adam), and the face of a lion to the right to four of them, and the face of an ox from the left to four of them, and the face of an eagle to four of them.',
     kjv: 'As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

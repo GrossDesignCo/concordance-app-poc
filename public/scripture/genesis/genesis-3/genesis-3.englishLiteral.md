@@ -15,9 +15,9 @@ And-saw the-woman that good the-tree for-food, and-that desirable- it to-the-eye
 And-opened-were eyes-of two-of-them, and-knew that naked they; and-sewed leaf-of fig, and-made to-them girdings.
 
 And-heard ↳ voice He_Who_Is Gods, walking in-Garden to-wind the-day; 
-and-hid the-human and-his-wife, from-face-of He_Who_Is Gods, in-midst-of tree the-garden.
+and-hid the-Earth (Adam) and-his-wife, from-face-of He_Who_Is Gods, in-midst-of tree the-garden.
 
-And-called_out He_Who_Is Gods to- the-human,
+And-called_out He_Who_Is Gods to- the-Earth (Adam),
 and-said to-him, "Where?"
 
 And-he-said, 
@@ -28,7 +28,7 @@ And-he-said,
 "Who declared to-you that naked you? 
 Is_it_from- the-tree, which I-command-you to-not eat- from-it, you-eat?"
 
-And-he-said the-human, "The-woman which you-gave with-me; she she-gave- to-me from- the-tree, and-I-ate."
+And-he-said the-Earth (Adam), "The-woman which you-gave with-me; she she-gave- to-me from- the-tree, and-I-ate."
 
 And-he-said He_Who_Is Gods to-the-woman, "What- this you-have-made?" 
 And-she-said, the-woman "The-snake, he-deceived-me, and-I-ate."
@@ -53,11 +53,11 @@ in-pain you-will_birth sons;
 and-to man-your fixation-your, 
 and-he he-will_rule in-you."
 
-And-to-Human (Adam) he-said, 
+And-to-Earth (Adam) he-said, 
 "That you-listened to-voice wife-your, 
 and-you-ate from the-tree, 
 which I-commanded-you to-say, 'Not you-will-eat from-it'; 
-cursed the-soil in-passing_through-your; 
+cursed the-earth in-passing_through-your; 
 in-pain you-will-eat, 
 all days-of lives-your;"
 
@@ -65,26 +65,26 @@ And-thorn and-thistle it-will-grow to-you;
 and-you-will-eat ↳ herb the-field;
 
 In-sweat_of your-face, you-will-eat bread, 
-until your-return to the-soil; 
+until your-return to the-earth; 
 that from-her you-were-taken, 
 that dust you, 
 and-to dust you-will-return."
 
-And-he-called_out the-human name wife-his Life_Giver (Eve); that she was Mother all Living.
+And-he-called_out the-Earth (Adam) name wife-his Life_Giver (Eve); that she was Mother all Living.
 
-And-he-made He_Who_Is Gods to-Human (Adam) and-to-woman-his; tunics skin and-he-clothed-them.
+And-he-made He_Who_Is Gods to-Earth (Adam) and-to-woman-his; tunics skin and-he-clothed-them.
 
 And-he-said He_Who_Is Gods, 
-"Behold, the-human has-become as-one 
+"Behold, the-Earth (Adam) has-become as-one 
 from-us to-know good and-bad; 
 and-now —or-else he-will-send hand-his 
 and-take also from-tree the-lives 
 and-eat and-live to-the_age—
 
 And-he-sent-him He_Who_Is Gods from-Garden Delight (Eden); 
-to-serve ↳ the-soil which was-taken from-there.
+to-serve ↳ the-earth which was-taken from-there.
 
-And-he-banished ↳ the-human; 
+And-he-banished ↳ the-Earth (Adam); 
 and-he-caused-to-dwell from-east to-Garden Delight (Eden) ↳ the-Approaching_Ones; 
 and-↳ flame the-sword, the-overturning, 
 to-keep ↳ way tree the-lives.

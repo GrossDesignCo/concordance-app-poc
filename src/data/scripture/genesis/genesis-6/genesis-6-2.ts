@@ -101,8 +101,8 @@ export const genesis_6_2: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'Human (Adam)',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -297,10 +297,10 @@ export const genesis_6_2: Verse = {
     transliteration:
       'vayYiru beney-haElohim et-benot haAdam ki tovot henah vayYiqchu lahem nashim mikol asher bacharu',
     englishLiteral:
-      'And-they-saw sons- the-Gods ↳ daughters-of the-human, that good they; and-they-took to-them women, from-all which they-chose.',
+      'And-they-saw sons- the-Gods ↳ daughters-of the-Earth (Adam), that good they; and-they-took to-them women, from-all which they-chose.',
     englishNatural:
-      'And the sons of God saw the daughters of Human (Adam), that they were good; and they took to themselves women, from all which they chose.',
+      'And the sons of God saw the daughters of Earth (Adam), that they were good; and they took to themselves women, from all which they chose.',
     kjv: 'That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

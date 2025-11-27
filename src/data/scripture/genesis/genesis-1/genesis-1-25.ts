@@ -224,8 +224,8 @@ export const genesis_1_25: Verse = {
     {
       hebrew: 'הָֽאֲדָמָ֖ה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-ground',
-      englishNatural: 'the ground',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: {
@@ -351,10 +351,10 @@ export const genesis_1_25: Verse = {
     transliteration:
       'vaYaas Elohim et-chayat haAretz leMinah veEt-haBehemah leMinah veEt kol-remes haAdamah leMinehu vaYar Elohim ki-tov',
     englishLiteral:
-      'And-made Gods, ↳ living_being-of the-land, to-its-kind, And-↳ the-beast, to-its-kind, And-↳ all crawler the-ground, to-its-kind, And-saw Gods, that- good.',
+      'And-made Gods, ↳ living_being-of the-land, to-its-kind, And-↳ the-beast, to-its-kind, And-↳ all crawler the-earth, to-its-kind, And-saw Gods, that- good.',
     englishNatural:
-      'And God made, living-being of the land, to its kind, And the beast, to its kind, And all crawler the ground, to its kind, And God saw, that it was good.',
+      'And God made, living-being of the land, to its kind, And the beast, to its kind, And all crawler the earth, to its kind, And God saw, that it was good.',
     kjv: 'And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

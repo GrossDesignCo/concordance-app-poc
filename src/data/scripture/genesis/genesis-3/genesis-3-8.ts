@@ -9,7 +9,7 @@ export const genesis_3_8: Verse = {
   words: [
     {
       hebrew: 'וַיִּשְׁמְעוּ',
-      transliteration: 'vaYishme\'u',
+      transliteration: "vaYishme'u",
       englishLiteral: 'And-heard',
       englishNatural: 'And they heard',
       root: 'shama',
@@ -25,7 +25,7 @@ export const genesis_3_8: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: 1,
     },
@@ -53,7 +53,7 @@ export const genesis_3_8: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -81,7 +81,7 @@ export const genesis_3_8: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -105,7 +105,7 @@ export const genesis_3_8: Verse = {
         person: '3rd',
         tense: 'participle',
         stem: 'hithpael',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -122,7 +122,7 @@ export const genesis_3_8: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -139,7 +139,7 @@ export const genesis_3_8: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -156,7 +156,7 @@ export const genesis_3_8: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -180,7 +180,7 @@ export const genesis_3_8: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'hithpael',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishNatural: ',',
@@ -192,8 +192,8 @@ export const genesis_3_8: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'and the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'and the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -203,7 +203,7 @@ export const genesis_3_8: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: {
         english: 1,
@@ -211,7 +211,7 @@ export const genesis_3_8: Verse = {
     },
     {
       hebrew: 'וְאִשְׁתּוֹ',
-      transliteration: 've\'ishto',
+      transliteration: "ve'ishto",
       englishLiteral: 'and-his-wife',
       englishNatural: 'and his wife',
       root: 'ishah',
@@ -224,7 +224,7 @@ export const genesis_3_8: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -242,7 +242,7 @@ export const genesis_3_8: Verse = {
         english: 13,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -261,7 +261,7 @@ export const genesis_3_8: Verse = {
       transliteration: 'Elohim',
       englishLiteral: 'Gods',
       englishNatural: 'God',
-      root: 'eloah',  
+      root: 'eloah',
       suffixes: ['im'],
       order: {
         hebrew: 15,
@@ -270,7 +270,7 @@ export const genesis_3_8: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -289,7 +289,7 @@ export const genesis_3_8: Verse = {
         english: 16,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -306,7 +306,7 @@ export const genesis_3_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -323,7 +323,7 @@ export const genesis_3_8: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -333,11 +333,15 @@ export const genesis_3_8: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיִּשְׁמְעוּ אֶת־קוֹל יְהוָה אֱלֹהִים מִתְהַלֵּךְ בַּגָּן לְרוּחַ הַיּוֹם וַיִּתְחַבֵּא הָאָדָם וְאִשְׁתּוֹ מִפְּנֵי יְהוָה אֱלֹהִים בְּתוֹךְ עֵץ הַגָּן׃',
-    transliteration: 'vaYishme\'u et-qol YHWH Elohim mithallekh baGan leRuach haYom vaYitchabe haAdam ve\'ishto mipney YHWH Elohim betokh etz haGan',
-    englishLiteral: 'And-heard ↳ voice He_Who_Is Gods, walking in-Garden to-wind the-day; and-hid the-human and-his-wife, from-face-of He_Who_Is Gods, in-midst-of tree the-garden.',
-    englishNatural: 'And they heard the voice of He-Who-Is God, walking in Garden to the wind of the day; and the human and his wife hid, from the face of He-Who-Is God, in the midst of the tree of Garden.',
+    hebrew:
+      'וַיִּשְׁמְעוּ אֶת־קוֹל יְהוָה אֱלֹהִים מִתְהַלֵּךְ בַּגָּן לְרוּחַ הַיּוֹם וַיִּתְחַבֵּא הָאָדָם וְאִשְׁתּוֹ מִפְּנֵי יְהוָה אֱלֹהִים בְּתוֹךְ עֵץ הַגָּן׃',
+    transliteration:
+      "vaYishme'u et-qol YHWH Elohim mithallekh baGan leRuach haYom vaYitchabe haAdam ve'ishto mipney YHWH Elohim betokh etz haGan",
+    englishLiteral:
+      'And-heard ↳ voice He_Who_Is Gods, walking in-Garden to-wind the-day; and-hid the-Earth (Adam) and-his-wife, from-face-of He_Who_Is Gods, in-midst-of tree the-garden.',
+    englishNatural:
+      'And they heard the voice of He-Who-Is God, walking in Garden to the wind of the day; and the Earth (Adam) and his wife hid, from the face of He-Who-Is God, in the midst of the tree of Garden.',
     kjv: 'And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

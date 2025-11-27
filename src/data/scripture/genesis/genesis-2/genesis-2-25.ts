@@ -73,8 +73,8 @@ export const genesis_2_25: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -161,10 +161,10 @@ export const genesis_2_25: Verse = {
       'וַיִּהְיוּ שְׁנֵיהֶם עֲרוּמִּים הָאָדָם וְאִשְׁתּוֹ וְלֹא יִתְבּוֹשָׁשׁוּ׃',
     transliteration: 'vaYihyu shenehem arummim haAdam veIshto veLo yitboshashu',
     englishLiteral:
-      'And-they-were two-of-them naked, the-human and-his-woman, and-not were-ashamed.',
+      'And-they-were two-of-them naked, the-Earth (Adam) and-his-woman, and-not were-ashamed.',
     englishNatural:
-      'And the two of them were naked, the human and his woman, and were ashamed not.',
+      'And the two of them were naked, the Earth (Adam) and his woman, and were ashamed not.',
     kjv: 'And they were both naked, the man and his wife, and were not ashamed.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

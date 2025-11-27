@@ -1,13 +1,13 @@
-And-the-human knew ↳ Living (Eve) his-woman,
+And-the-Earth (Adam) knew ↳ Living (Eve) his-woman,
 and-she-conceived and-she-bore ↳ Acquired (Cain),
 and-she-said, "I-have-acquired a-man ↳- He_Who_Is."
 
 and-she-added to-her-birthing, ↳ his-brother ↳ Vapor (Abel).
 And-he-was Vapor (Abel) shepherd flock,
-and-Acquired (Cain) was servant soil.
+and-Acquired (Cain) was servant earth.
 
 And-it-was from-end-of days;
-And-he-brought Acquired (Cain) from-fruit-of the-soil,
+And-he-brought Acquired (Cain) from-fruit-of the-earth,
 offering to-He_Who_Is.
 
 And-Vapor (Abel), brought also he, 
@@ -34,18 +34,18 @@ And-he-said He_Who_Is to Acquired (Cain),
 
 And-he-said, "Not I-knew, keeper-of my-brother I?"
 
-And-he-said, "What you-did? Voice-of blood-of your-brother crying_out to-me from- the-soil.
+And-he-said, "What you-did? Voice-of blood-of your-brother crying_out to-me from- the-earth.
 
-And-now cursed you, from- the-ground;
+And-now cursed you, from- the-earth;
 which she-opened ↳ her-mouth to-take ↳ blood-of your-brother from-your-hand.
 
-When you-serve ↳ the-ground,
+When you-serve ↳ the-earth,
 not- it-will-add give- her-strength to-you;
 wandering and-fugitive you-will-be in-the-land."
 
 And-he-said Acquired (Cain) to He_Who_Is,
 "Great my-twisting, from-lifting_up.
-Behold, you-banished ↳-me the-day, from-over face-of the-ground;
+Behold, you-banished ↳-me the-day, from-over face-of the-earth;
 and-from-your-face I-will-hide;
 and-I-will-be wandering and-fugitive in-the-land;
 and-it-will-be all- finding-me will-kill-me.
@@ -93,6 +93,6 @@ and-newborn to-stripe-my.
 that sevenfold shall-be-avenged Acquired (Cain),
 and-Powerful (Lamech) seventy and-seven."
 
-and-knew Human (Adam) again ↳ woman-his; and-bore son, and-called_out ↳ name-his "Appointed (Seth); that appointed to-me Gods seed another instead-of Vapor (Abel); that killed-him Acquired (Cain)."
+and-knew Earth (Adam) again ↳ woman-his; and-bore son, and-called_out ↳ name-his "Appointed (Seth); that appointed to-me Gods seed another instead-of Vapor (Abel); that killed-him Acquired (Cain)."
 
 and-to-Appointed (Seth) also he was-born son; and-called_out ↳ name-his Mortal (Enosh); then was-begun, to-call_out in-name-of He-Who-Is.

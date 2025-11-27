@@ -78,8 +78,8 @@ export const genesis_2_7: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -128,8 +128,8 @@ export const genesis_2_7: Verse = {
     {
       hebrew: 'הָאֲדָמָה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-soil',
-      englishNatural: 'the soil',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: {
@@ -245,8 +245,8 @@ export const genesis_2_7: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'and the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'and the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -312,10 +312,10 @@ export const genesis_2_7: Verse = {
     transliteration:
       'vaYiytzer YHWH Elohim et-haAdam afar min-haAdamah vaYipach beAppav nishmat chayyim vaYehi haAdam leNefesh chayyah',
     englishLiteral:
-      'And-formed He_Who_Is Gods ↳ the-human dust from- the-soil; and-blew in-his-nostrils breath-of lives, and-was the-human to-throat living.',
+      'And-formed He_Who_Is Gods ↳ the-Earth (Adam) dust from- the-earth; and-blew in-his-nostrils breath-of lives, and-was the-Earth (Adam) to-throat living.',
     englishNatural:
-      'And He-Who-Is God formed the human, dust from the soil; and blew into his nostrils the breath of life, and the human was a living throat.',
+      'And He-Who-Is God formed the Earth (Adam), dust from the earth; and blew into his nostrils the breath of life, and the Earth (Adam) was a living throat.',
     kjv: 'And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

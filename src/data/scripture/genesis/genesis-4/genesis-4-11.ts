@@ -81,8 +81,8 @@ export const genesis_4_11: Verse = {
     {
       hebrew: 'הָאֲדָמָה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-ground',
-      englishNatural: 'the ground',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: {
@@ -266,10 +266,10 @@ export const genesis_4_11: Verse = {
     transliteration:
       'veAttah arur attah min-haAdamah asher patzah et-piha laqachat et-demey achikha miYadekha',
     englishLiteral:
-      'And-now cursed you, from- the-ground; which she-opened ↳ her-mouth to-take ↳ blood-of your-brother from-your-hand.',
+      'And-now cursed you, from- the-earth; which she-opened ↳ her-mouth to-take ↳ blood-of your-brother from-your-hand.',
     englishNatural:
-      'And now cursed are you, from the ground; which has opened her mouth to take the blood of your brother, from your hand.',
+      'And now cursed are you, from the earth; which has opened her mouth to take the blood of your brother, from your hand.',
     kjv: "And now art thou cursed from the earth, which hath opened her mouth to receive thy brother's blood from thy hand.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

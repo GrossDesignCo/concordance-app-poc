@@ -7,9 +7,9 @@ and-caused-to-go_up goings_up on-the-altar.
 And-winded He_Who_Is ↳ wind-of the-restful;
 and-said He_Who_Is to- his-heart,
 
-"not- I-will-add, to-curse again ↳ the-soil,
-in-passing_through-of the-human,
-for forming heart-of the-human, bad from-his-youth;
+"not- I-will-add, to-curse again ↳ the-earth,
+in-passing_through-of the-Earth (Adam),
+for forming heart-of the-Earth (Adam), bad from-his-youth;
 and-not- I-will-add again to-strike ↳ all- living,
 as-which I-have-done.
 

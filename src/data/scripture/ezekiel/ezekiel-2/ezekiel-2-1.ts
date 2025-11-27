@@ -71,9 +71,9 @@ export const ezekiel_2_1: Verse = {
     },
     {
       hebrew: 'אָדָם',
-      transliteration: 'adam',
-      englishLiteral: 'Human (Adam)',
-      englishNatural: 'Human (Adam)',
+      transliteration: 'Adam',
+      englishLiteral: 'Earth (Adam)',
+      englishNatural: 'Earth (Adam)',
       root: 'adam',
       order: {
         hebrew: 4,
@@ -189,10 +189,10 @@ export const ezekiel_2_1: Verse = {
     hebrew: 'וַיֹּאמֶר אֵלָי בֶּן־אָדָם עֲמֹד עַל־רַגְלֶיךָ וַאֲדַבֵּר אֹתָךְ',
     transliteration: 'vayYomer elai ben-adam amod al-ragleikha vaAdabber otakh',
     englishLiteral:
-      'And-he-said to-me, "son-of- Human (Adam), stand over- feet-your, and-I-will-speak you."',
+      'And-he-said to-me, "son-of- Earth (Adam), stand over- feet-your, and-I-will-speak you."',
     englishNatural:
-      'And He said to me, "Son of Human (Adam), stand over your feet, and I will speak to you."',
+      'And He said to me, "Son of Earth (Adam), stand over your feet, and I will speak to you."',
     kjv: 'And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

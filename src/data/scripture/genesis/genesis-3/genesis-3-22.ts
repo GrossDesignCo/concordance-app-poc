@@ -24,7 +24,7 @@ export const genesis_3_22: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishNatural: ',',
@@ -44,7 +44,7 @@ export const genesis_3_22: Verse = {
         english: 1,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: {
         english: 1,
@@ -64,7 +64,7 @@ export const genesis_3_22: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -81,7 +81,7 @@ export const genesis_3_22: Verse = {
         english: 4,
       },
       morphology: {
-        type: 'particle'
+        type: 'particle',
       },
       grammarPrefix: {
         englishLiteral: '"',
@@ -96,8 +96,8 @@ export const genesis_3_22: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -107,7 +107,7 @@ export const genesis_3_22: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -126,7 +126,7 @@ export const genesis_3_22: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -141,7 +141,7 @@ export const genesis_3_22: Verse = {
         english: 7,
       },
       morphology: {
-        type: 'numeral'
+        type: 'numeral',
       },
     },
     {
@@ -157,7 +157,7 @@ export const genesis_3_22: Verse = {
         english: 8,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
       lineBreaksBefore: 1,
     },
@@ -173,7 +173,7 @@ export const genesis_3_22: Verse = {
         english: 9,
       },
       morphology: {
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -187,7 +187,7 @@ export const genesis_3_22: Verse = {
         english: 10,
       },
       morphology: {
-        type: 'adjective'
+        type: 'adjective',
       },
     },
     {
@@ -202,7 +202,7 @@ export const genesis_3_22: Verse = {
         english: 11,
       },
       morphology: {
-        type: 'adjective'
+        type: 'adjective',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -221,7 +221,7 @@ export const genesis_3_22: Verse = {
         english: 12,
       },
       morphology: {
-        type: 'adverb'
+        type: 'adverb',
       },
       lineBreaksBefore: 1,
     },
@@ -236,7 +236,7 @@ export const genesis_3_22: Verse = {
         english: 13,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
       grammarPrefix: {
         englishLiteral: '—',
@@ -260,7 +260,7 @@ export const genesis_3_22: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -277,7 +277,7 @@ export const genesis_3_22: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -297,7 +297,7 @@ export const genesis_3_22: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: 1,
     },
@@ -312,7 +312,7 @@ export const genesis_3_22: Verse = {
         english: 17,
       },
       morphology: {
-        type: 'adverb'
+        type: 'adverb',
       },
     },
     {
@@ -329,7 +329,7 @@ export const genesis_3_22: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -346,7 +346,7 @@ export const genesis_3_22: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -366,7 +366,7 @@ export const genesis_3_22: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: 1,
     },
@@ -387,7 +387,7 @@ export const genesis_3_22: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -402,7 +402,7 @@ export const genesis_3_22: Verse = {
         english: 22,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '—',
@@ -412,11 +412,15 @@ export const genesis_3_22: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיֹּאמֶר יְהוָה אֱלֹהִים הֵן הָאָדָם הָיָה כְּאַחַד מִמֶּנּוּ לָדַעַת טוֹב וָרָע וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם׃',
-    transliteration: 'vayYomer YHWH Elohim hen haAdam hayah keAchad miMennu laDaat tov vaRa veAtah pen-yishLach yado veLaqach gam meEtz haChayyim veAkhal vaChai leOlam',
-    englishLiteral: 'And-he-said He_Who_Is Gods, "Behold, the-human has-become as-one from-us to-know good and-bad; and-now —or-else he-will-send hand-his and-take also from-tree the-lives and-eat and-live to-the_age—',
-    englishNatural: 'And He-Who-Is God said, "Behold, the human has become as one from us to know good and bad; and now —or else he will send his hand and take also from the Tree of Life and eat and live to the-age—',
+    hebrew:
+      'וַיֹּאמֶר יְהוָה אֱלֹהִים הֵן הָאָדָם הָיָה כְּאַחַד מִמֶּנּוּ לָדַעַת טוֹב וָרָע וְעַתָּה פֶּן־יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם׃',
+    transliteration:
+      'vayYomer YHWH Elohim hen haAdam hayah keAchad miMennu laDaat tov vaRa veAtah pen-yishLach yado veLaqach gam meEtz haChayyim veAkhal vaChai leOlam',
+    englishLiteral:
+      'And-he-said He_Who_Is Gods, "Behold, the-Earth (Adam) has-become as-one from-us to-know good and-bad; and-now —or-else he-will-send hand-his and-take also from-tree the-lives and-eat and-live to-the_age—',
+    englishNatural:
+      'And He-Who-Is God said, "Behold, the Earth (Adam) has become as one from us to know good and bad; and now —or else he will send his hand and take also from the Tree of Life and eat and live to the-age—',
     kjv: 'And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

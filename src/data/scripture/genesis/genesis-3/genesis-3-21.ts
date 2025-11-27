@@ -24,7 +24,7 @@ export const genesis_3_21: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: {
         hebrew: 1,
@@ -41,7 +41,7 @@ export const genesis_3_21: Verse = {
         english: 1,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: {
         english: 1,
@@ -61,14 +61,14 @@ export const genesis_3_21: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
       hebrew: 'לְאָדָם',
       transliteration: 'leAdam',
-      englishLiteral: 'to-Human (Adam)',
-      englishNatural: 'to Human (Adam)',
+      englishLiteral: 'to-Earth (Adam)',
+      englishNatural: 'to Earth (Adam)',
       root: 'adam',
       prefixes: ['le'],
       order: {
@@ -78,7 +78,7 @@ export const genesis_3_21: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -96,7 +96,7 @@ export const genesis_3_21: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -116,7 +116,7 @@ export const genesis_3_21: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -132,7 +132,7 @@ export const genesis_3_21: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -153,7 +153,7 @@ export const genesis_3_21: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'hiphil',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -163,11 +163,15 @@ export const genesis_3_21: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיַּעַשׂ יְהוָה אֱלֹהִים לְאָדָם וּלְאִשְׁתּוֹ כָּתְנוֹת עוֹר וַיַּלְבִּשֵׁם׃',
-    transliteration: 'vayYaas YHWH Elohim leAdam uleIshto kotnot or vayYaLbishem',
-    englishLiteral: 'And-he-made He_Who_Is Gods to-Human (Adam) and-to-woman-his; tunics skin and-he-clothed-them.',
-    englishNatural: 'And He-Who-Is God made to Human (Adam) and to his woman; tunics of skin and clothed them.',
+    hebrew:
+      'וַיַּעַשׂ יְהוָה אֱלֹהִים לְאָדָם וּלְאִשְׁתּוֹ כָּתְנוֹת עוֹר וַיַּלְבִּשֵׁם׃',
+    transliteration:
+      'vayYaas YHWH Elohim leAdam uleIshto kotnot or vayYaLbishem',
+    englishLiteral:
+      'And-he-made He_Who_Is Gods to-Earth (Adam) and-to-woman-his; tunics skin and-he-clothed-them.',
+    englishNatural:
+      'And He-Who-Is God made to Earth (Adam) and to his woman; tunics of skin and clothed them.',
     kjv: 'Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

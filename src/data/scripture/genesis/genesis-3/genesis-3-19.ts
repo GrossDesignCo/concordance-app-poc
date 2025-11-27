@@ -21,7 +21,7 @@ export const genesis_3_19: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: 1,
     },
@@ -39,7 +39,7 @@ export const genesis_3_19: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -62,7 +62,7 @@ export const genesis_3_19: Verse = {
         number: 'singular',
         person: '2nd',
         tense: 'imperfect',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -78,7 +78,7 @@ export const genesis_3_19: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -96,7 +96,7 @@ export const genesis_3_19: Verse = {
         english: 5,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
       lineBreaksBefore: 1,
     },
@@ -114,7 +114,7 @@ export const genesis_3_19: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -128,14 +128,14 @@ export const genesis_3_19: Verse = {
         english: 7,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
       hebrew: 'הָאֲדָמָה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-soil',
-      englishNatural: 'the soil',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: {
@@ -145,7 +145,7 @@ export const genesis_3_19: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -163,7 +163,7 @@ export const genesis_3_19: Verse = {
         english: 9,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
       lineBreaksBefore: 1,
     },
@@ -179,7 +179,7 @@ export const genesis_3_19: Verse = {
         english: 10,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -199,7 +199,7 @@ export const genesis_3_19: Verse = {
         person: '2nd',
         tense: 'perfect',
         stem: 'pual',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -217,7 +217,7 @@ export const genesis_3_19: Verse = {
         english: 12,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
       lineBreaksBefore: 1,
     },
@@ -234,7 +234,7 @@ export const genesis_3_19: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -251,7 +251,7 @@ export const genesis_3_19: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '2nd',
-        type: 'pronoun'
+        type: 'pronoun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -270,7 +270,7 @@ export const genesis_3_19: Verse = {
         english: 15,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
       lineBreaksBefore: 1,
     },
@@ -287,7 +287,7 @@ export const genesis_3_19: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -306,7 +306,7 @@ export const genesis_3_19: Verse = {
         number: 'singular',
         person: '2nd',
         tense: 'imperfect',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: '."',
@@ -316,11 +316,15 @@ export const genesis_3_19: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'בְּזֵעַת אַפֶּיךָ תֹּאכַל לֶחֶם עַד שׁוּבְךָ אֶל־הָאֲדָמָה כִּי מִמֶּנָּה לֻקָּחְתָּ כִּי־עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב׃',
-    transliteration: 'beZeat apeikha toKhal lechem ad shuvkha el-haAdamah ki mimenah luqachta ki-afar atah veEl-afar taShuv',
-    englishLiteral: 'In-sweat_of your-face, you-will-eat bread, until your-return to the-soil; that from-her you-were-taken, that dust you, and-to dust you-will-return."',
-    englishNatural: 'In sweat of your face, you will eat bread, until your return to the soil; that from it you were taken, that dust are you, and to dust you will return."',
+    hebrew:
+      'בְּזֵעַת אַפֶּיךָ תֹּאכַל לֶחֶם עַד שׁוּבְךָ אֶל־הָאֲדָמָה כִּי מִמֶּנָּה לֻקָּחְתָּ כִּי־עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב׃',
+    transliteration:
+      'beZeat apeikha toKhal lechem ad shuvkha el-haAdamah ki mimenah luqachta ki-afar atah veEl-afar taShuv',
+    englishLiteral:
+      'In-sweat_of your-face, you-will-eat bread, until your-return to the-earth; that from-her you-were-taken, that dust you, and-to dust you-will-return."',
+    englishNatural:
+      'In sweat of your face, you will eat bread, until your return to the earth; that from it you were taken, that dust are you, and to dust you will return."',
     kjv: 'In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-11' }, 
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

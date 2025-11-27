@@ -47,8 +47,8 @@ export const genesis_3_24: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -336,10 +336,10 @@ export const genesis_3_24: Verse = {
     transliteration:
       'vayGaresh et-haAdam vayYashken miQedem leGan-Eden et-haKeruvim veEt laHat haCherev haMithapekhet lishMor et-derekh etz haChayyim',
     englishLiteral:
-      'And-he-banished ↳ the-human; and-he-caused-to-dwell from-east to-Garden Delight (Eden) ↳ the-Approaching_Ones; and-↳ flame the-sword, the-overturning, to-keep ↳ way tree the-lives.',
+      'And-he-banished ↳ the-Earth (Adam); and-he-caused-to-dwell from-east to-Garden Delight (Eden) ↳ the-Approaching_Ones; and-↳ flame the-sword, the-overturning, to-keep ↳ way tree the-lives.',
     englishNatural:
-      'And he banished the human; and he caused to dwell east of Garden of Delight (Eden) the Approaching-Ones; and the Flame of the Sword, the Overturning, to keep the way to the Tree of Life.',
+      'And he banished the Earth (Adam); and he caused to dwell east of Garden of Delight (Eden) the Approaching-Ones; and the Flame of the Sword, the Overturning, to keep the way to the Tree of Life.',
     kjv: 'So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

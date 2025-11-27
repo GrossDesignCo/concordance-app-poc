@@ -121,8 +121,8 @@ export const genesis_4_3: Verse = {
     {
       hebrew: 'הָאֲדָמָה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-soil',
-      englishNatural: 'the soil',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: {
@@ -178,11 +178,15 @@ export const genesis_4_3: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיְהִי מִקֵּץ יָמִים וַיָּבֵא קַיִן מִפְּרִי הָאֲדָמָה מִנְחָה לַיהוָה',
-    transliteration: 'vayHi miQetz yamim vayYave Qayin miPeri haAdamah minchah laYHWH',
-    englishLiteral: 'And-it-was from-end-of days; And-he-brought Acquired (Cain) from-fruit-of the-soil, offering to-He_Who_Is.',
-    englishNatural: 'And it was from the end of days; And Acquired (Cain) brought from the fruit of the soil, an offering to He-Who-Is.',
+    hebrew:
+      'וַיְהִי מִקֵּץ יָמִים וַיָּבֵא קַיִן מִפְּרִי הָאֲדָמָה מִנְחָה לַיהוָה',
+    transliteration:
+      'vayHi miQetz yamim vayYave Qayin miPeri haAdamah minchah laYHWH',
+    englishLiteral:
+      'And-it-was from-end-of days; And-he-brought Acquired (Cain) from-fruit-of the-earth, offering to-He_Who_Is.',
+    englishNatural:
+      'And it was from the end of days; And Acquired (Cain) brought from the fruit of the earth, an offering to He-Who-Is.',
     kjv: 'And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

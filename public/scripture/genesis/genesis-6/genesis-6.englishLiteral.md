@@ -1,30 +1,30 @@
 
-And-it-was, that- began the-human to-multiply over- face-of the-soil;
+And-it-was, that- began the-Earth (Adam) to-multiply over- face-of the-earth;
 and-daughters were-birthed to-them.
 
-And-they-saw sons- the-Gods ↳ daughters-of the-human,
+And-they-saw sons- the-Gods ↳ daughters-of the-Earth (Adam),
 that good they;
 and-they-took to-them women, from-all which they-chose.
 
-And-he-said He_Who_Is, "not- will-judge my-wind in-the-human to-the_age,
+And-he-said He_Who_Is, "not- will-judge my-wind in-the-Earth (Adam) to-the_age,
 in-moreover he flesh;
 and-they-will-be his-days hundred and-twenty year."
 
 The-Fallen (Nephilim) were in-the-land in-the-days the-those;
 and-also after- so,
-which they-came sons-of the-Gods to daughters-of the-Human (Adam),
+which they-came sons-of the-Gods to daughters-of the-Earth (Adam),
 and-they-birthed to-them they the-mighty_ones,
 which from-the_age, men-of the-name.
 
-And-he-saw He_Who_Is that multiplying-was bad-of the-human in-the-land,
+And-he-saw He_Who_Is that multiplying-was bad-of the-Earth (Adam) in-the-land,
 and-all- forming-of thoughts-of heart-his, only bad, all- the-day.
 
-And-he-relented He_Who_Is, that- he-made ↳ the-human in-the-land,
+And-he-relented He_Who_Is, that- he-made ↳ the-Earth (Adam) in-the-land,
 and-it-grieved-him to- heart-his.
 
-And-he-said He_Who_Is, "I-will-wipe_out ↳ the-human which- I-created
-from-over face-of the-soil,
-from-human unto- beast, unto- creeping_thing, and-unto- bird-of the-skies;
+And-he-said He_Who_Is, "I-will-wipe_out ↳ the-Earth (Adam) which- I-created
+from-over face-of the-earth,
+from-Earth (Adam) unto- beast, unto- creeping_thing, and-unto- bird-of the-skies;
 that I-have-relented that I-have-made-them."
 
 And-Rest (Noah) found grace in-eyes-of He_Who_Is.
@@ -77,7 +77,7 @@ to-keep_alive with-you;
 male and-female they-will-be.
 
 From-the-bird to-kind-his and-from- the-beast to-kind-her,
-from-all creeping_thing-of the-soil to-kind-his,
+from-all creeping_thing-of the-earth to-kind-his,
 two from-all they-will-come to-you,
 to-keep_alive.
 

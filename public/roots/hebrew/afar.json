@@ -5,7 +5,10 @@
   "englishLiteral": "dust",
   "englishNatural": "dust",
   "type": "noun",
-  "description": "dust, earth, ground",
+  "related": [
+    "adamah"
+  ],
+  "description": "dust of the earth, dry barrenness",
   "wordIndexes": {
     "genesis": {
       "2": {

@@ -1,21 +1,21 @@
 
-This book, birthings Human (Adam).
+This book, birthings Earth (Adam).
 
-In-day create Gods Human (Adam),
+In-day create Gods Earth (Adam),
 in-likeness-of Gods he-made him.
 male and-female he-created; 
 and-blessed them, 
-and-called_out ↳ name-their, "Human (Adam)," 
+and-called_out ↳ name-their, "Earth (Adam)," 
 in-day them-being-created.
 
-and-lived Human (Adam) thirty and-hundred year, 
+and-lived Earth (Adam) thirty and-hundred year, 
 and-birthed in-likeness-his, as-image-his; 
 and-called_out ↳ name-his, "Appointed (Seth)."
 
-and-were days-of Human (Adam) after birthing-him ↳ Appointed (Seth), eight hundreds year; 
+and-were days-of Earth (Adam) after birthing-him ↳ Appointed (Seth), eight hundreds year; 
 and-birthed sons and-daughters.
 
-and-were all- days-of Human (Adam), which he-lived,
+and-were all- days-of Earth (Adam), which he-lived,
 nine hundreds year and-thirty year, 
 and-he-died.
 
@@ -84,7 +84,7 @@ and-birthed son.
 And-called_out ↳ his-name "Rest (Noah)," to-say, 
 "This will-comfort-us from-our-making 
 and-from-pain our-hands, 
-from the-soil 
+from the-earth 
 which he-cursed He-Who-Is."
 And-lived Powerful (Lamech) after he-birthed-him ↳ Rest (Noah), five and-ninety year and-eight hundreds year,
 and-birthed sons and-daughters.

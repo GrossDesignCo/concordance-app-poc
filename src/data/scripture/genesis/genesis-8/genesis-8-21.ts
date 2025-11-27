@@ -269,8 +269,8 @@ export const genesis_8_21: Verse = {
     {
       hebrew: 'הָאֲדָמָה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-soil',
-      englishNatural: 'the soil',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: {
@@ -306,8 +306,8 @@ export const genesis_8_21: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -375,8 +375,8 @@ export const genesis_8_21: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -593,10 +593,10 @@ export const genesis_8_21: Verse = {
     transliteration:
       'vayYarach YHWH et-reach haNichoach vayYomer YHWH el-libo lo-osif leQalel od et-haAdamah baAvur haAdam ki yetzer lev haAdam ra miNeurav veLo-osif od leHakot et-kol-chai kaAsher asiti',
     englishLiteral:
-      'And-winded He_Who_Is ↳ wind-of the-restful; and-said He_Who_Is to- his-heart, "not- I-will-add, to-curse again ↳ the-soil, in-passing_through-of the-human, for forming heart-of the-human, bad from-his-youth; and-not- I-will-add again to-strike ↳ all- living, as-which I-have-done.',
+      'And-winded He_Who_Is ↳ wind-of the-restful; and-said He_Who_Is to- his-heart, "not- I-will-add, to-curse again ↳ the-earth, in-passing_through-of the-Earth (Adam), for forming heart-of the-Earth (Adam), bad from-his-youth; and-not- I-will-add again to-strike ↳ all- living, as-which I-have-done.',
     englishNatural:
-      'And He-Who-Is winded the wind of the restful; and He-Who-Is said to his heart, "I will add not, to curse again the soil, in the passing-through of the human, for the forming of the heart of the human, bad from his youth; and I will add not again to strike all living, as which I have done.',
+      'And He-Who-Is winded the wind of the restful; and He-Who-Is said to his heart, "I will add not, to curse again the earth, in the passing-through of the Earth (Adam), for the forming of the heart of the Earth (Adam), bad from his youth; and I will add not again to strike all living, as which I have done.',
     kjv: "And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
-},
+  },
 };

@@ -1,13 +1,13 @@
-And the human knew Living (Eve) his woman,
+And the Earth (Adam) knew Living (Eve) his woman,
 and she conceived and bore Acquired (Cain),
 and said, "I have acquired a man with He-Who-Is."
 
 And she added to her birthing, his brother Vapor (Abel).
 And Vapor (Abel) was a shepherd of flock,
-and Acquired (Cain) was a servant of soil.
+and Acquired (Cain) was a servant of earth.
 
 And it was from the end of days;
-And Acquired (Cain) brought from the fruit of the soil,
+And Acquired (Cain) brought from the fruit of the earth,
 an offering to He-Who-Is.
 
 And Vapor (Abel), he brought also, 
@@ -35,16 +35,16 @@ And He-Who-Is said to Acquired (Cain),
 And he said, "I knew not, Am I keeper of my brother?"
 
 And he said, "What have you done?
-The voice of the blood of your brother is crying-out to me from the soil.
-And now cursed are you, from the ground;
+The voice of the blood of your brother is crying-out to me from the earth.
+And now cursed are you, from the earth;
 which has opened her mouth to take the blood of your brother, from your hand.
-When you serve the ground,
+When you serve the earth,
 it will add not, to give her strength to you;
 wandering and fugitive you will be in the land."
 
 And Acquired (Cain) said to He-Who-Is,
 "Great is my twisting, from lifting-up.
-Behold, you have banished me this day, from over the face of the ground;
+Behold, you have banished me this day, from over the face of the earth;
 and from your face I will be hidden;
 and I will be wandering and fugitive in the land;
 and it will be all finding me will kill me."
@@ -89,6 +89,6 @@ and newborn to my stripe.
 that Acquired (Cain) shall be avenged sevenfold,
 and Powerful (Lamech) seventy and seven."
 
-And Human (Adam) knew his woman again; and she bore a son, and called-out his name "Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him."
+And Earth (Adam) knew his woman again; and she bore a son, and called-out his name "Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him."
 
 And to Appointed (Seth) also he was born a son; and he called-out his name Mortal (Enosh); then it began, to call-out in the name of He-Who-Is.

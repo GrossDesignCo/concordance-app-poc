@@ -1,19 +1,19 @@
 
-This book, Birthings of Human (Adam).
+This book, Birthings of Earth (Adam).
 
-In the day God created Human (Adam),
+In the day God created Earth (Adam),
 in likeness of God he made him.
 Male and female he created; 
 and blessed them, 
-and called-out their name, "Human (Adam)," 
+and called-out their name, "Earth (Adam)," 
 in the day of them being created.
 
-And Human (Adam) lived thirty and a hundred years, 
+And Earth (Adam) lived thirty and a hundred years, 
 and birthed in his likeness, as his image; 
 and called-out his name, "Appointed (Seth)."
-And the days of Human (Adam) after he had birthed Appointed (Seth), were eight hundred years; 
+And the days of Earth (Adam) after he had birthed Appointed (Seth), were eight hundred years; 
 and he birthed sons and daughters.
-And all the days of Human (Adam), which he lived,
+And all the days of Earth (Adam), which he lived,
 were nine hundred years and thirty years, 
 and he died.
 
@@ -80,7 +80,7 @@ and birthed a son.
 And he called-out his name "Rest (Noah)," to say, 
 "This will comfort us from our making 
 and from the pain of our hands, 
-from the soil 
+from the earth 
 which He-Who-Is cursed."
 And Powerful (Lamech) lived after he birthed Rest (Noah), five and ninety years and eight hundred years,
 and birthed sons and daughters.

@@ -121,8 +121,8 @@ export const genesis_2_18: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'for the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'for the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -231,14 +231,14 @@ export const genesis_2_18: Verse = {
   ],
   expectedTranslations: {
     hebrew:
-      "וַיֹּאמֶר יְהוָה אֱלֹהִים לֹא־טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ אֶעֱשֶׂה־לוֹ עֵזֶר כְּנֶגְדּוֹ׃",
+      'וַיֹּאמֶר יְהוָה אֱלֹהִים לֹא־טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ אֶעֱשֶׂה־לוֹ עֵזֶר כְּנֶגְדּוֹ׃',
     transliteration:
       'vaYomer YHWH Elohim lo-tov heyot haAdam leVaddo eese-lo ezer keNegdo',
     englishLiteral:
-      'And-said He_Who_Is Gods, "No- good to-be the-human to-alone-him; I-will-make- to-him help, as-his_opposite."',
+      'And-said He_Who_Is Gods, "No- good to-be the-Earth (Adam) to-alone-him; I-will-make- to-him help, as-his_opposite."',
     englishNatural:
-      'And He-Who-Is God said, "No good for the human to be to himself alone; I will make to him a help, as his opposite."',
+      'And He-Who-Is God said, "No good for the Earth (Adam) to be to himself alone; I will make to him a help, as his opposite."',
     kjv: 'And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

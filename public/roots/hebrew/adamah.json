@@ -2,10 +2,13 @@
   "key": "adamah",
   "hebrew": "אדמה",
   "transliteration": "adamah",
-  "englishLiteral": "soil",
-  "englishNatural": "soil",
+  "englishLiteral": "earth",
+  "englishNatural": "earth",
+  "description": "earth, ground, soil, sometimes referring to the whole world, always refers to the ground from which humans were formed when in feminine form",
   "related": [
-    "adam"
+    "adam",
+    "eretz",
+    "yabashah"
   ],
   "type": "noun",
   "wordIndexes": {

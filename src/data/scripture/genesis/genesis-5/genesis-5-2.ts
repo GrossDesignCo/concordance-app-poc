@@ -164,8 +164,8 @@ export const genesis_5_2: Verse = {
     {
       hebrew: 'אָדָם',
       transliteration: 'Adam',
-      englishLiteral: 'Human (Adam)',
-      englishNatural: 'Human (Adam)',
+      englishLiteral: 'Earth (Adam)',
+      englishNatural: 'Earth (Adam)',
       root: 'adam',
       order: {
         hebrew: 9,
@@ -234,10 +234,10 @@ export const genesis_5_2: Verse = {
     transliteration:
       'zakhar uNeqevah beroam vaYevarekh otam vaYiqra et-shemam Adam beYom hiBaram',
     englishLiteral:
-      'male and-female he-created; and-blessed them, and-called_out ↳ name-their, "Human (Adam)," in-day them-being-created.',
+      'male and-female he-created; and-blessed them, and-called_out ↳ name-their, "Earth (Adam)," in-day them-being-created.',
     englishNatural:
-      'Male and female he created; and blessed them, and called-out their name, "Human (Adam)," in the day of them being created.',
+      'Male and female he created; and blessed them, and called-out their name, "Earth (Adam)," in the day of them being created.',
     kjv: 'Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

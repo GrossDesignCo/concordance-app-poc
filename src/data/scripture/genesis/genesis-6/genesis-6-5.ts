@@ -100,8 +100,8 @@ export const genesis_6_5: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'Human (Adam)',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -288,10 +288,10 @@ export const genesis_6_5: Verse = {
     transliteration:
       'vayYar YHWH ki rabbah raat haAdam baAretz vekhol-yetzer machshevot libbo raq ra kol-haYom',
     englishLiteral:
-      'And-he-saw He_Who_Is that multiplying-was bad-of the-human in-the-land, and-all- forming-of thoughts-of heart-his, only bad, all- the-day.',
+      'And-he-saw He_Who_Is that multiplying-was bad-of the-Earth (Adam) in-the-land, and-all- forming-of thoughts-of heart-his, only bad, all- the-day.',
     englishNatural:
-      'And He-Who-Is saw that the bad of Human (Adam) was multiplying in the land, and all the forming of thoughts of his heart, only bad, all the day.',
+      'And He-Who-Is saw that the bad of Earth (Adam) was multiplying in the land, and all the forming of thoughts of his heart, only bad, all the day.',
     kjv: 'And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

@@ -68,8 +68,8 @@ export const genesis_6_1: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -134,8 +134,8 @@ export const genesis_6_1: Verse = {
     {
       hebrew: 'הָאֲדָמָה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-soil',
-      englishNatural: 'the soil',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: {
@@ -219,10 +219,10 @@ export const genesis_6_1: Verse = {
     transliteration:
       'vayHi ki-hechel haAdam laRov al-peney haAdamah uVanot yuledu lahem',
     englishLiteral:
-      'And-it-was, that- began the-human to-multiply over- face-of the-soil; and-daughters were-birthed to-them.',
+      'And-it-was, that- began the-Earth (Adam) to-multiply over- face-of the-earth; and-daughters were-birthed to-them.',
     englishNatural:
-      'And it was, that the human began to multiply over the face of the soil; and daughters were birthed to them.',
+      'And it was, that the Earth (Adam) began to multiply over the face of the earth; and daughters were birthed to them.',
     kjv: 'And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

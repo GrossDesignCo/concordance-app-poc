@@ -21,7 +21,7 @@ uMitokah keEin haChashmal mitokh haEsh
 
 uMitokah demut arba chayot
 veZeh mareihen
-demut adam lahenah
+demut Adam lahenah
 
 veArbaah fanim leEchat
 veArba kenafayim leAchat lahem
@@ -30,7 +30,7 @@ veRagleihem regel yesharah
 veKhaf ragleihem keKhaf regel egel
 veNotzetzim keEin nechoshet qalal
 
-viDei adam miTachat kanfeihem
+viDei Adam miTachat kanfeihem
 al arbaat riveihem
 uFeneihem veKhanfeihem leArbatam
 
@@ -39,7 +39,7 @@ lo-yisabbu beLekhtan
 ish el-ever panav yelekhu
 
 uDemut peneihem
-peney adam
+peney Adam
 uFeney aryeh el-haYamin leArbatam
 uFeney-shor meHaSmol leArbatan
 uFeney-nesher leArbatan
@@ -112,7 +112,7 @@ beAmdam terapenah kanfeihen
 uMiMaal laRaqia asher al-rosham
 keMareeh even-sappir demut kisse
 veAl demut haKisse demut
-keMareeh adam alav milMaalah
+keMareeh Adam alav milMaalah
 
 vaEre keEin chashmal
 keMareeh-esh beit-lah saviv

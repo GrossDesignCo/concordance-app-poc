@@ -4,6 +4,11 @@
   "transliteration": "yabashah",
   "englishLiteral": "dry_ground",
   "englishNatural": "dry-ground",
+  "description": "dry ground, usually in contrast to the sea",
+  "related": [
+    "adamah",
+    "eretz"
+  ],
   "type": "noun",
   "wordIndexes": {
     "genesis": {

@@ -10,7 +10,7 @@ from the face of the waters of the flood.
 From the beast the clean 
 and from the beast which is not clean, 
 and from the bird 
-and all which creeps over the soil,
+and all which creeps over the earth,
 
 two, two, they came to Rest (Noah) to the ark,
 male and female,

@@ -24,7 +24,7 @@ export const genesis_3_12: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishNatural: ',',
@@ -36,8 +36,8 @@ export const genesis_3_12: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'And the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'And the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -47,7 +47,7 @@ export const genesis_3_12: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -70,7 +70,7 @@ export const genesis_3_12: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarPrefix: {
         englishLiteral: '"',
@@ -88,7 +88,7 @@ export const genesis_3_12: Verse = {
         english: 4,
       },
       morphology: {
-        type: 'relative'
+        type: 'relative',
       },
     },
     {
@@ -108,7 +108,7 @@ export const genesis_3_12: Verse = {
         person: '2nd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -123,7 +123,7 @@ export const genesis_3_12: Verse = {
         english: 6,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -141,7 +141,7 @@ export const genesis_3_12: Verse = {
         english: 7,
       },
       morphology: {
-        type: 'pronoun'
+        type: 'pronoun',
       },
     },
     {
@@ -161,7 +161,7 @@ export const genesis_3_12: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -176,7 +176,7 @@ export const genesis_3_12: Verse = {
         english: 9,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -190,7 +190,7 @@ export const genesis_3_12: Verse = {
         english: 10,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -207,7 +207,7 @@ export const genesis_3_12: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -231,7 +231,7 @@ export const genesis_3_12: Verse = {
         person: '1st',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: '."',
@@ -241,11 +241,15 @@ export const genesis_3_12: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיֹּאמֶר הָאָדָם הָאִשָּׁה אֲשֶׁר נָתַתָּה עִמָּדִי הִיא נָתְנָה־לִּי מִן־הָעֵץ וָאֹכֵל',
-    transliteration: 'vaYomer haAdam haIshah asher natata imadi hi natnah-li min-haEtz vaOkhel',
-    englishLiteral: 'And-he-said the-human, "The-woman which you-gave with-me; she she-gave- to-me from- the-tree, and-I-ate."',
-    englishNatural: 'And the human said, "The woman which you gave with me; she gave to me from the tree, and I ate."',
+    hebrew:
+      'וַיֹּאמֶר הָאָדָם הָאִשָּׁה אֲשֶׁר נָתַתָּה עִמָּדִי הִיא נָתְנָה־לִּי מִן־הָעֵץ וָאֹכֵל',
+    transliteration:
+      'vaYomer haAdam haIshah asher natata imadi hi natnah-li min-haEtz vaOkhel',
+    englishLiteral:
+      'And-he-said the-Earth (Adam), "The-woman which you-gave with-me; she she-gave- to-me from- the-tree, and-I-ate."',
+    englishNatural:
+      'And the Earth (Adam) said, "The woman which you gave with me; she gave to me from the tree, and I ate."',
     kjv: 'And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

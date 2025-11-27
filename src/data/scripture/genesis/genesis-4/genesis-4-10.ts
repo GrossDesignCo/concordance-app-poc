@@ -183,8 +183,8 @@ export const genesis_4_10: Verse = {
     {
       hebrew: 'הָאֲדָמָה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-soil',
-      englishNatural: 'the soil',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: {
@@ -209,10 +209,10 @@ export const genesis_4_10: Verse = {
     transliteration:
       'vayYomer meh asita qol demey achikha tsoaqim elay min-haAdamah',
     englishLiteral:
-      'And-he-said, "What you-did? Voice-of blood-of your-brother crying_out to-me from- the-soil.',
+      'And-he-said, "What you-did? Voice-of blood-of your-brother crying_out to-me from- the-earth.',
     englishNatural:
-      'And he said, "What have you done? The voice of the blood of your brother is crying-out to me from the soil.',
+      'And he said, "What have you done? The voice of the blood of your brother is crying-out to me from the earth.',
     kjv: "And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+  },
 };

@@ -133,8 +133,8 @@ export const genesis_6_20: Verse = {
     {
       hebrew: 'הָאֲדָמָה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-soil',
-      englishNatural: 'the soil',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: {
@@ -269,10 +269,10 @@ export const genesis_6_20: Verse = {
     transliteration:
       'meHaOph leMinehu uMin-haBehemah leMina mikol remes haAdamah leMinehu shnayim mikol yavou eleikha leHachayot',
     englishLiteral:
-      'From-the-bird to-kind-his and-from- the-beast to-kind-her, from-all creeping_thing-of the-soil to-kind-his, two from-all they-will-come to-you, to-keep_alive.',
+      'From-the-bird to-kind-his and-from- the-beast to-kind-her, from-all creeping_thing-of the-earth to-kind-his, two from-all they-will-come to-you, to-keep_alive.',
     englishNatural:
-      'From the bird to its kind and from the beast to its kind, from all creeping-thing of the soil to its kind, two from all they will come to you, to keep-alive.',
+      'From the bird to its kind and from the beast to its kind, from all creeping-thing of the earth to its kind, two from all they will come to you, to keep-alive.',
     kjv: 'Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

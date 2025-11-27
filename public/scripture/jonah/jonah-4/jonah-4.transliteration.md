@@ -43,6 +43,6 @@ asher lo-amalta bo veLo giddalto
 shebin-laylah hayah uvin-laylah avad
 
 vaAni lo achus al-Nineveh haIr haGedolah 
-asher yesh-bah harbeh mishteym-esreh ribbo adam 
+asher yesh-bah harbeh mishteym-esreh ribbo Adam 
 asher lo-yada beyn-yemino lismolo 
 uvehemah rabah

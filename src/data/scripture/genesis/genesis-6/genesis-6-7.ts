@@ -93,8 +93,8 @@ export const genesis_6_7: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -177,8 +177,8 @@ export const genesis_6_7: Verse = {
     {
       hebrew: 'הָאֲדָמָה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-soil',
-      englishNatural: 'the soil',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: {
@@ -199,8 +199,8 @@ export const genesis_6_7: Verse = {
     {
       hebrew: 'מֵאָדָם',
       transliteration: 'meAdam',
-      englishLiteral: 'from-human',
-      englishNatural: 'from human',
+      englishLiteral: 'from-Earth (Adam)',
+      englishNatural: 'from Earth (Adam)',
       root: 'adam',
       prefixes: ['me'],
       order: {
@@ -415,10 +415,10 @@ export const genesis_6_7: Verse = {
     transliteration:
       'vayYomer YHWH emcheh et-haAdam asher-barati meAl peney haAdamah meAdam ad-behemah ad-remes vead-oph haShamayim ki nichamti ki asitim',
     englishLiteral:
-      'And-he-said He_Who_Is, "I-will-wipe_out ↳ the-human which- I-created from-over face-of the-soil, from-human unto- beast, unto- creeping_thing, and-unto- bird-of the-skies; that I-have-relented that I-have-made-them."',
+      'And-he-said He_Who_Is, "I-will-wipe_out ↳ the-Earth (Adam) which- I-created from-over face-of the-earth, from-Earth (Adam) unto- beast, unto- creeping_thing, and-unto- bird-of the-skies; that I-have-relented that I-have-made-them."',
     englishNatural:
-      'And He-Who-Is said, "I will wipe-out the human which I created from over the face of the soil, from human unto beast, unto creeping-thing, and unto bird of the skies; for I have relented that I have made them."',
+      'And He-Who-Is said, "I will wipe-out the Earth (Adam) which I created from over the face of the earth, from Earth (Adam) unto beast, unto creeping-thing, and unto bird of the skies; for I have relented that I have made them."',
     kjv: 'And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

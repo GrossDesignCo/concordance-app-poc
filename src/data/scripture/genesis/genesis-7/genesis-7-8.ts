@@ -239,8 +239,8 @@ export const genesis_7_8: Verse = {
     {
       hebrew: 'הָאֲדָמָה',
       transliteration: 'haAdamah',
-      englishLiteral: 'the-soil',
-      englishNatural: 'the soil',
+      englishLiteral: 'the-earth',
+      englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
       order: {
@@ -265,10 +265,10 @@ export const genesis_7_8: Verse = {
     transliteration:
       'min-haBehemah haTehorah uMin-haBehemah asher einennah tehorah uMin-haOph veKhol asher-romes al-haAdamah',
     englishLiteral:
-      'From- the-beast the-clean and-from- the-beast which not-her clean, and-from- the-bird and-all which- creeping over- the-soil,',
+      'From- the-beast the-clean and-from- the-beast which not-her clean, and-from- the-bird and-all which- creeping over- the-earth,',
     englishNatural:
-      'From the beast the clean and from the beast which is not clean, and from the bird and all which creeps over the soil,',
+      'From the beast the clean and from the beast which is not clean, and from the bird and all which creeps over the earth,',
     kjv: 'Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the earth,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

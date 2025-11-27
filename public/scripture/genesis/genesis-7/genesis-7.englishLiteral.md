@@ -11,7 +11,7 @@ From- the-beast the-clean
 and-from- the-beast which not-her clean,
 
 and-from- the-bird 
-and-all which- creeping over- the-soil,
+and-all which- creeping over- the-earth,
 
 two, two, they-came to- Rest (Noah) to- the-ark,
 male and-female,

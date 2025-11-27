@@ -10,8 +10,8 @@ export const genesis_4_1: Verse = {
     {
       hebrew: 'וְהָאָדָם',
       transliteration: 'veHaAdam',
-      englishLiteral: 'And-the-human',
-      englishNatural: 'And the human',
+      englishLiteral: 'And-the-Earth (Adam)',
+      englishNatural: 'And the Earth (Adam)',
       root: 'adam',
       prefixes: ['ve', 'ha'],
       order: {
@@ -269,11 +269,15 @@ export const genesis_4_1: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וְהָאָדָם יָדַע אֶת־חַוָּה אִשְׁתּוֹ וַתַּהַר וַתֵּלֶד אֶת־קַיִן וַתֹּאמֶר קָנִיתִי אִישׁ אֶת־יְהוָה',
-    transliteration: 'veHaAdam yada et-Chavah ishto vatTahar vatTeled et-Qayin vatTomer qaniti ish et-YHWH',
-    englishLiteral: 'And-the-human knew ↳ Living (Eve) his-woman, and-she-conceived and-she-bore ↳ Acquired (Cain), and-she-said, "I-have-acquired a-man ↳- He_Who_Is."',
-    englishNatural: 'And the human knew Living (Eve) his woman, and she conceived and bore Acquired (Cain), and said, "I have acquired a man with He-Who-Is."',
+    hebrew:
+      'וְהָאָדָם יָדַע אֶת־חַוָּה אִשְׁתּוֹ וַתַּהַר וַתֵּלֶד אֶת־קַיִן וַתֹּאמֶר קָנִיתִי אִישׁ אֶת־יְהוָה',
+    transliteration:
+      'veHaAdam yada et-Chavah ishto vatTahar vatTeled et-Qayin vatTomer qaniti ish et-YHWH',
+    englishLiteral:
+      'And-the-Earth (Adam) knew ↳ Living (Eve) his-woman, and-she-conceived and-she-bore ↳ Acquired (Cain), and-she-said, "I-have-acquired a-man ↳- He_Who_Is."',
+    englishNatural:
+      'And the Earth (Adam) knew Living (Eve) his woman, and she conceived and bore Acquired (Cain), and said, "I have acquired a man with He-Who-Is."',
     kjv: 'And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

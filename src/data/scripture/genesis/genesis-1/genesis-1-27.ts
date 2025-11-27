@@ -67,8 +67,8 @@ export const genesis_1_27: Verse = {
     {
       hebrew: 'הָֽאָדָם֙',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -264,11 +264,15 @@ export const genesis_1_27: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיִּבְרָ֨א אֱלֹהִ֤ים אֶת־הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם׃',
-    transliteration: 'vaYiVra Elohim et-haAdam beTsalmo beTselem Elohim bara oto zakhar uNekevah bara otam',
-    englishLiteral: 'And-created Gods, ↳ the-human, in-his-image, in-image-of Gods, created him, male and-female, created them.',
-    englishNatural: 'And God created the human, in his image, in image of God, created him, male and female, created them.',
+    hebrew:
+      'וַיִּבְרָ֨א אֱלֹהִ֤ים אֶת־הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם׃',
+    transliteration:
+      'vaYiVra Elohim et-haAdam beTsalmo beTselem Elohim bara oto zakhar uNekevah bara otam',
+    englishLiteral:
+      'And-created Gods, ↳ the-Earth (Adam), in-his-image, in-image-of Gods, created him, male and-female, created them.',
+    englishNatural:
+      'And God created the Earth (Adam), in his image, in image of God, created him, male and female, created them.',
     kjv: 'So God created man in his own image, in the image of God created he him; male and female created he them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

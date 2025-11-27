@@ -24,7 +24,7 @@ export const genesis_3_9: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: {
         hebrew: 1,
@@ -41,7 +41,7 @@ export const genesis_3_9: Verse = {
         english: 1,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: {
         english: 1,
@@ -61,7 +61,7 @@ export const genesis_3_9: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -75,14 +75,14 @@ export const genesis_3_9: Verse = {
         english: 4,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -92,7 +92,7 @@ export const genesis_3_9: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -117,7 +117,7 @@ export const genesis_3_9: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -132,7 +132,7 @@ export const genesis_3_9: Verse = {
         english: 7,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -150,7 +150,7 @@ export const genesis_3_9: Verse = {
         english: 8,
       },
       morphology: {
-        type: 'adverb'
+        type: 'adverb',
       },
       grammarPrefix: {
         englishLiteral: '"',
@@ -166,9 +166,11 @@ export const genesis_3_9: Verse = {
   expectedTranslations: {
     hebrew: 'וַיִּקְרָא יְהוָה אֱלֹהִים אֶל־הָאָדָם וַיֹּאמֶר לוֹ אַיֶּכָּה',
     transliteration: 'vaYiqra YHWH Elohim el-haAdam vaYomer lo ayekah',
-    englishLiteral: 'And-called_out He_Who_Is Gods to- the-human, and-said to-him, "Where?"',
-    englishNatural: 'And He-Who-Is God called-out to the human, and said to him, "Where are you?"',
+    englishLiteral:
+      'And-called_out He_Who_Is Gods to- the-Earth (Adam), and-said to-him, "Where?"',
+    englishNatural:
+      'And He-Who-Is God called-out to the Earth (Adam), and said to him, "Where are you?"',
     kjv: 'And the LORD God called unto Adam, and said unto him, Where art thou?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

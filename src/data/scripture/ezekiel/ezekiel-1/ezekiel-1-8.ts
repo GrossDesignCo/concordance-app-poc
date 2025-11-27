@@ -28,9 +28,9 @@ export const ezekiel_1_8: Verse = {
     },
     {
       hebrew: 'אָדָם',
-      transliteration: 'adam',
-      englishLiteral: 'human',
-      englishNatural: 'a human',
+      transliteration: 'Adam',
+      englishLiteral: 'Earth (Adam)',
+      englishNatural: 'Earth (Adam)',
       root: 'adam',
       order: {
         hebrew: 2,
@@ -188,12 +188,12 @@ export const ezekiel_1_8: Verse = {
     hebrew:
       'וִידֵי אָדָם מִתַּחַת כַּנְפֵיהֶם עַל אַרְבַּעַת רִבְעֵיהֶם וּפְנֵיהֶם וְכַנְפֵיהֶם לְאַרְבַּעְתָּם',
     transliteration:
-      'viDei adam miTachat kanfeihem al arbaat riveihem uFeneihem veKhanfeihem leArbatam',
+      'viDei Adam miTachat kanfeihem al arbaat riveihem uFeneihem veKhanfeihem leArbatam',
     englishLiteral:
-      'And-hands-of human from-under wings-their over four-of sides-their; and-faces-their and-wings-their to-four-them.',
+      'And-hands-of Earth (Adam) from-under wings-their over four-of sides-their; and-faces-their and-wings-their to-four-them.',
     englishNatural:
-      'And hands of a human from under their wings over four of their sides; and their faces and their wings to four of them.',
+      'And hands of Earth (Adam) from under their wings over four of their sides; and their faces and their wings to four of them.',
     kjv: 'And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

@@ -163,8 +163,8 @@ export const genesis_2_8: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -222,10 +222,10 @@ export const genesis_2_8: Verse = {
     transliteration:
       'vaYitta YHWH Elohim gan beEden miQedem vaYasem sham et-haAdam asher yatsar',
     englishLiteral:
-      'And-planted He_Who_Is Gods garden in-Delight (Eden) from-east, and-set there ↳ the-human which formed.',
+      'And-planted He_Who_Is Gods garden in-Delight (Eden) from-east, and-set there ↳ the-Earth (Adam) which formed.',
     englishNatural:
-      'And He-Who-Is God planted a garden in Delight (Eden) from the east, and set there the human which he formed.',
+      'And He-Who-Is God planted a garden in Delight (Eden) from the east, and set there the Earth (Adam) which he formed.',
     kjv: 'And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

@@ -51,8 +51,8 @@ export const genesis_5_4: Verse = {
     {
       hebrew: 'אָדָם',
       transliteration: 'Adam',
-      englishLiteral: 'Human (Adam)',
-      englishNatural: 'Human (Adam)',
+      englishLiteral: 'Earth (Adam)',
+      englishNatural: 'Earth (Adam)',
       root: 'adam',
       order: {
         hebrew: 3,
@@ -249,10 +249,10 @@ export const genesis_5_4: Verse = {
     transliteration:
       'vaYihyu yemey-Adam acharey holido et-Shet shmoneh meot shanah vaYoled banim uBanot',
     englishLiteral:
-      'and-were days-of Human (Adam) after birthing-him ↳ Appointed (Seth), eight hundreds year; and-birthed sons and-daughters.',
+      'and-were days-of Earth (Adam) after birthing-him ↳ Appointed (Seth), eight hundreds year; and-birthed sons and-daughters.',
     englishNatural:
-      'And the days of Human (Adam) after he had birthed Appointed (Seth), were eight hundred years; and he birthed sons and daughters.',
+      'And the days of Earth (Adam) after he had birthed Appointed (Seth), were eight hundred years; and he birthed sons and daughters.',
     kjv: 'And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

@@ -103,8 +103,8 @@ export const genesis_6_6: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'Human (Adam)',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -203,10 +203,10 @@ export const genesis_6_6: Verse = {
     transliteration:
       'vayYinachem YHWH ki-asah et-haAdam baAretz vayYitatzev el-libbo',
     englishLiteral:
-      'And-he-relented He_Who_Is, that- he-made ↳ the-human in-the-land, and-it-grieved-him to- heart-his.',
+      'And-he-relented He_Who_Is, that- he-made ↳ the-Earth (Adam) in-the-land, and-it-grieved-him to- heart-his.',
     englishNatural:
-      'And He-Who-Is relented, that he made Human (Adam) in the land, and it grieved him to his heart.',
+      'And He-Who-Is relented, that he made Earth (Adam) in the land, and it grieved him to his heart.',
     kjv: 'And it repented the LORD that he had made man on the earth, and it grieved him at his heart.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

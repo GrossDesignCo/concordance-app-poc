@@ -3,7 +3,7 @@ And-was-bad to- Dove (Jonah), bad great;
 and-fumed_angrily to-him.
 
 And-prayed to- He_Who_Is and-said, 
-"please He_Who_Is, is-not- this word-my until- being-my over- soil-my? 
+"please He_Who_Is, is-not- this word-my until- being-my over- earth-my? 
 over- so I-preceded to-flee Gold-Stone (Tarshish), 
 that I-knew that- you God- gracious and-compassionate, 
 long nostrils and-great- steadfast_love 
@@ -43,6 +43,6 @@ which not- you-labored in-it and-not you-grew-it,
 yet-son-of- night was and-son-of- night perished.
 
 And-I, not I-will-pity over- Dwelling_of_Fish (Nineveh), the-city, the-great, 
-which there_is- in-her much from-two- ten ten_thousand Human (Adam), 
+which there_is- in-her much from-two- ten ten_thousand Earth (Adam), 
 which not- knows between- right_hand-his to-left_hand-his; 
 and-beast many?"

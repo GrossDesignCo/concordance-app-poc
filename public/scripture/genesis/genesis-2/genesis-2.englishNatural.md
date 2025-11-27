@@ -10,18 +10,18 @@ that in it he sabbathed from all his work, which God created, made.
 These are the birthings of the skies and the land, in their being created; 
 in the day He-Who-Is God made land and skies.
 
-And all shrub of the field was not yet in the land, and all herb of the field had not yet grown; for He-Who-Is God had not caused it to rain over the land, and Human (Adam) was not there, to serve the soil.
+And all shrub of the field was not yet in the land, and all herb of the field had not yet grown; for He-Who-Is God had not caused it to rain over the land, and Earth (Adam) was not there, to serve the earth.
 
-And a mist went up from the land, and gave drink to all the face of the soil.
+And a mist went up from the land, and gave drink to all the face of the earth.
 
-And He-Who-Is God formed the human, dust from the soil; 
+And He-Who-Is God formed the Earth (Adam), dust from the earth; 
 and blew into his nostrils the breath of life, 
-and the human was a living throat.
+and the Earth (Adam) was a living throat.
 
 And He-Who-Is God planted a garden in Delight (Eden) from the east, 
-and set there the human which he formed.
+and set there the Earth (Adam) which he formed.
 
-And He-Who-Is God grew from the soil every tree coveted to the sight and good for food, 
+And He-Who-Is God grew from the earth every tree coveted to the sight and good for food, 
 and the Tree of Life in the midst of the garden, 
 and the Tree of Knowledge of Good and Bad.
 
@@ -32,23 +32,23 @@ And the name of the second river, Gusher (Gichon); it goes-around all the land o
 The name of the third river, Rapid (Chidekel); it walks east of Steppe (Ashur). 
 And the fourth river, it is Fruitful (Perat).
 
-And He-Who-Is God took the human, and rested him in Garden of Delight (Eden), to serve her and to keep her.
+And He-Who-Is God took the Earth (Adam), and rested him in Garden of Delight (Eden), to serve her and to keep her.
 
-And He-Who-Is God commanded over the human, saying, "From all tree of the garden, eating, let you eat, and from the Tree of Knowledge of Good and Bad, you will eat from it not; that in the day of your eating from it, death, you will die."
+And He-Who-Is God commanded over the Earth (Adam), saying, "From all tree of the garden, eating, let you eat, and from the Tree of Knowledge of Good and Bad, you will eat from it not; that in the day of your eating from it, death, you will die."
 
-And He-Who-Is God said, "No good for the human to be to himself alone; I will make to him a help, as his opposite."
+And He-Who-Is God said, "No good for the Earth (Adam) to be to himself alone; I will make to him a help, as his opposite."
 
-And He-Who-Is God formed from the soil every living-being of the field, and every flyer of the skies; 
-And brought to the human to see what he would call-out to it; 
-And everything which the human would call-out to it, each living throat, that was its name.
+And He-Who-Is God formed from the earth every living-being of the field, and every flyer of the skies; 
+And brought to the Earth (Adam) to see what he would call-out to it; 
+And everything which the Earth (Adam) would call-out to it, each living throat, that was its name.
 
-And the human called-out names to every beast, and to flyer of the skies, and to every living-being of the field, and to Human (Adam), no help was found as his opposite.
+And the Earth (Adam) called-out names to every beast, and to flyer of the skies, and to every living-being of the field, and to Earth (Adam), no help was found as his opposite.
 
-And He-Who-Is God caused a deep-trance to fall over the human, and he slept; and he took one from his sides, and closed up flesh under it.
+And He-Who-Is God caused a deep-trance to fall over the Earth (Adam), and he slept; and he took one from his sides, and closed up flesh under it.
 
-And He-Who-Is God built the side which he took from the human, into a woman, and brought her to the human.
+And He-Who-Is God built the side which he took from the Earth (Adam), into a woman, and brought her to the Earth (Adam).
 
-And the human said, 
+And the Earth (Adam) said, 
 "This is the time! 
 Bone from my bones,
 and flesh from my flesh; 
@@ -57,4 +57,4 @@ that from Man this was taken."
 
 So moreover, Man will leave his father, and his mother, and cling in his woman, and will become one flesh.
 
-And the two of them were naked, the human and his woman, and were ashamed not.
+And the two of them were naked, the Earth (Adam) and his woman, and were ashamed not.

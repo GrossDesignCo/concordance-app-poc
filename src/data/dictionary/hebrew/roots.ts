@@ -59,6 +59,8 @@ const ROOTS = {
     transliteration: 'eretz',
     englishLiteral: 'land',
     englishNatural: 'land',
+    related: ['adamah', 'yabashah'],
+    description: 'land as a category of place, the whole earth, all the land',
     type: 'noun',
   },
   erev: {
@@ -959,6 +961,8 @@ const ROOTS = {
     transliteration: 'yabashah',
     englishLiteral: 'dry_ground',
     englishNatural: 'dry-ground',
+    description: 'dry ground, usually in contrast to the sea',
+    related: ['adamah', 'eretz'],
     type: 'noun',
   },
   yam: {
@@ -1164,9 +1168,11 @@ const ROOTS = {
   adamah: {
     hebrew: 'אדמה',
     transliteration: 'adamah',
-    englishLiteral: 'soil',
-    englishNatural: 'soil',
-    related: ['adam'],
+    englishLiteral: 'earth',
+    englishNatural: 'earth',
+    description:
+      'earth, ground, soil, sometimes referring to the whole world, always refers to the ground from which humans were formed when in feminine form',
+    related: ['adam', 'eretz', 'yabashah'],
     type: 'noun',
   },
   behemah: {
@@ -1183,16 +1189,25 @@ const ROOTS = {
     englishLiteral: 'dust',
     englishNatural: 'dust',
     type: 'noun',
-    description: 'dust, earth, ground',
+    related: ['adamah'],
+    description: 'dust of the earth, dry barrenness',
   },
   adam: {
     hebrew: 'אדם',
-    transliteration: 'adam',
-    englishLiteral: 'Human (Adam)',
-    englishNatural: 'Human (Adam)',
+    transliteration: 'Adam',
+    englishLiteral: 'Earth (Adam)',
+    englishNatural: 'Earth (Adam)',
     description:
-      'Humans in general, Name of Adam, distinct term from from man (ish), male (zakhar)',
-    related: ['adamah', 'ish', 'ishah', 'zakhar', 'neqevah'],
+      'Humans in general, Name of Adam, distinct term from from man (ish), male (zakhar), always refers to humanity when in masculine form, to the ground from which humans were formed when in feminine form',
+    related: [
+      'adamah',
+      'ish',
+      'ishah',
+      'zakhar',
+      'neqevah',
+      'eretz',
+      'yabashah',
+    ],
     type: 'noun',
   },
   tselem: {

@@ -52,8 +52,8 @@ export const jonah_3_8: Verse = {
     {
       hebrew: 'הָאָדָם',
       transliteration: 'haAdam',
-      englishLiteral: 'the-human',
-      englishNatural: 'the human',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
       order: {
@@ -309,10 +309,10 @@ export const jonah_3_8: Verse = {
     transliteration:
       'veYitkassu saq haAdam veHaBehemah veYiqreu el-Elohim beChazqah veYashuvu ish midarko haRaah umin-heChamas asher beKappeihem',
     englishLiteral:
-      'And-they-will-be-covered sackcloth, the-human and-the-beast, and-they-will-call_out to- Gods in-strength; and-return man from-way-his the-bad and-from- the-violence which in-palms-their.',
+      'And-they-will-be-covered sackcloth, the-Earth (Adam) and-the-beast, and-they-will-call_out to- Gods in-strength; and-return man from-way-his the-bad and-from- the-violence which in-palms-their.',
     englishNatural:
-      'And they will be covered sackcloth, the human and the beast, and they will call-out to God in strength; and return man from the bad of his way and from the violence which is in their hands.',
+      'And they will be covered sackcloth, the Earth (Adam) and the beast, and they will call-out to God in strength; and return man from the bad of his way and from the violence which is in their hands.',
     kjv: 'But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-19' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

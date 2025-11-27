@@ -136,9 +136,9 @@ export const ezekiel_1_5: Verse = {
     },
     {
       hebrew: 'אָדָם',
-      transliteration: 'adam',
-      englishLiteral: 'human',
-      englishNatural: 'human',
+      transliteration: 'Adam',
+      englishLiteral: 'Earth (Adam)',
+      englishNatural: 'Earth (Adam)',
       root: 'adam',
       order: {
         hebrew: 8,
@@ -178,12 +178,12 @@ export const ezekiel_1_5: Verse = {
     hebrew:
       'וּמִתּוֹכָהּ דְּמוּת אַרְבַּע חַיּוֹת וְזֶה מַרְאֵיהֶן דְּמוּת אָדָם לָהֵנָּה',
     transliteration:
-      'uMitokah demut arba chayot veZeh mareihen demut adam lahenah',
+      'uMitokah demut arba chayot veZeh mareihen demut Adam lahenah',
     englishLiteral:
-      'And-from-midst-its likeness-of four living_beings; and-this appearance-their, likeness-of human to-them.',
+      'And-from-midst-its likeness-of four living_beings; and-this appearance-their, likeness-of Earth (Adam) to-them.',
     englishNatural:
-      'And from its midst a likeness of four living-beings; and this their appearance, a likeness of human to them.',
+      'And from its midst a likeness of four living-beings; and this their appearance, a likeness of Earth (Adam) to them.',
     kjv: 'Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };
