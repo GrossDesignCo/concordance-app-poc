@@ -26,6 +26,18 @@
   margin: 0 auto;
 }
 
+/* Extend the header element to the bottom of the screen when in standalone/app mode */
+.headerContent::before {
+  content: '';
+  display: block;
+  position: absolute;
+  inset-inline: -1px;
+  top: 100%;
+  height: env(safe-area-inset-bottom, 0);
+  border-inline: 1px solid var(--ds-bg-container);
+  background-color: var(--ds-bg-page);
+}
+
 .appTitleContainer {
   display: flex;
   align-items: center;
