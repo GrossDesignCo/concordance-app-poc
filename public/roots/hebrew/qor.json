@@ -1,0 +1,20 @@
+{
+  "key": "qor",
+  "hebrew": "קר",
+  "transliteration": "qor",
+  "englishLiteral": "cold",
+  "englishNatural": "cold",
+  "type": "noun",
+  "description": "cold, coldness",
+  "wordIndexes": {
+    "genesis": {
+      "8": {
+        "22": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

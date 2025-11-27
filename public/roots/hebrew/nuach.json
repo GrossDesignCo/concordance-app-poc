@@ -6,6 +6,9 @@
   "englishNatural": "to rest",
   "description": "to cause to rest, to gingerly place, like carefully resting a child in a crib",
   "type": "verb",
+  "related": [
+    "noach"
+  ],
   "wordIndexes": {
     "genesis": {
       "2": {
@@ -23,6 +26,11 @@
         "32": [
           0,
           6
+        ]
+      },
+      "8": {
+        "21": [
+          4
         ]
       }
     },

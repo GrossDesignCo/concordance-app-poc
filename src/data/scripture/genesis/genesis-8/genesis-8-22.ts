@@ -1,0 +1,289 @@
+import { Verse } from '@/types';
+
+export const genesis_8_22: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 8,
+    verse: 22,
+  },
+  words: [
+    {
+      hebrew: 'עֹד',
+      transliteration: 'od',
+      englishLiteral: 'Still',
+      englishNatural: 'Still',
+      root: 'od',
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'כָּל־',
+      transliteration: 'kol-',
+      englishLiteral: 'all-',
+      englishNatural: 'all',
+      root: 'kol',
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'יְמֵי',
+      transliteration: 'yemei',
+      englishLiteral: 'days-of',
+      englishNatural: 'the days of',
+      root: 'yom',
+      suffixes: ['ey'],
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָאָרֶץ',
+      transliteration: 'haAretz',
+      englishLiteral: 'the-land',
+      englishNatural: 'the land',
+      root: 'eretz',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'זֶרַע',
+      transliteration: 'zera',
+      englishLiteral: 'seed',
+      englishNatural: 'seed',
+      root: 'zera',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וְקָצִיר',
+      transliteration: 'veQatzir',
+      englishLiteral: 'and-harvest',
+      englishNatural: 'and harvest',
+      root: 'qatzir',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְקֹר',
+      transliteration: 'veQor',
+      englishLiteral: 'and-cold',
+      englishNatural: 'and cold',
+      root: 'qor',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וָחֹם',
+      transliteration: 'vaChom',
+      englishLiteral: 'and-heat',
+      englishNatural: 'and heat',
+      root: 'chom',
+      prefixes: ['va'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְקַיִץ',
+      transliteration: 'veQayitz',
+      englishLiteral: 'and-summer',
+      englishNatural: 'and summer',
+      root: 'qayitz',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וָחֹרֶף',
+      transliteration: 'vaChoref',
+      englishLiteral: 'and-winter',
+      englishNatural: 'and winter',
+      root: 'choref',
+      prefixes: ['va'],
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְיוֹם',
+      transliteration: 'veYom',
+      englishLiteral: 'and-day',
+      englishNatural: 'and day',
+      root: 'yom',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וָלַיְלָה',
+      transliteration: 'vaLaylah',
+      englishLiteral: 'and-night',
+      englishNatural: 'and night',
+      root: 'laylah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'לֹא',
+      transliteration: 'lo',
+      englishLiteral: 'not',
+      englishNatural: 'not',
+      root: 'lo',
+      order: {
+        hebrew: 13,
+        english: 14,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+      grammarSuffix: {
+        englishNatural: '."',
+      },
+      lineBreaksAfter: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'יִשְׁבֹּתוּ',
+      transliteration: 'yishbotu',
+      englishLiteral: 'they-will-cease',
+      englishNatural: 'they will cease',
+      root: 'shavat',
+      suffixes: ['u'],
+      order: {
+        hebrew: 14,
+        english: 13,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: '."',
+      },
+      lineBreaksAfter: {
+        hebrew: 1,
+      },
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'עֹד כָּל־יְמֵי הָאָרֶץ זֶרַע וְקָצִיר וְקֹר וָחֹם וְקַיִץ וָחֹרֶף וְיוֹם וָלַיְלָה לֹא יִשְׁבֹּתוּ',
+    transliteration:
+      'od kol-yemei haAretz zera veQatzir veQor vaChom veQayitz vaChoref veYom vaLaylah lo yishbotu',
+    englishLiteral:
+      'Still all- days-of the-land, seed and-harvest, and-cold and-heat, and-summer and-winter, and-day and-night not they-will-cease."',
+    englishNatural:
+      'Still all the days of the land, seed and harvest, and cold and heat, and summer and winter, and day and night they will cease not."',
+    kjv: 'While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+},
+};

@@ -1,0 +1,20 @@
+{
+  "key": "choref",
+  "hebrew": "חרף",
+  "transliteration": "choref",
+  "englishLiteral": "winter",
+  "englishNatural": "winter",
+  "type": "noun",
+  "description": "winter, winter season, harvest time",
+  "wordIndexes": {
+    "genesis": {
+      "8": {
+        "22": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

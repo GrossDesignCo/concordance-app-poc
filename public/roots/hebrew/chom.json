@@ -1,0 +1,20 @@
+{
+  "key": "chom",
+  "hebrew": "חם",
+  "transliteration": "chom",
+  "englishLiteral": "heat",
+  "englishNatural": "heat",
+  "type": "noun",
+  "description": "heat, warmth",
+  "wordIndexes": {
+    "genesis": {
+      "8": {
+        "22": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

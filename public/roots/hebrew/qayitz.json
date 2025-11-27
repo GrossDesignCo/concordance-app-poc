@@ -1,0 +1,20 @@
+{
+  "key": "qayitz",
+  "hebrew": "קיץ",
+  "transliteration": "qayitz",
+  "englishLiteral": "summer",
+  "englishNatural": "summer",
+  "type": "noun",
+  "description": "summer, summer season",
+  "wordIndexes": {
+    "genesis": {
+      "8": {
+        "22": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

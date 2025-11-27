@@ -1542,6 +1542,7 @@
     "proverbs"
   ],
   "naar": [
+    "genesis",
     "proverbs"
   ],
   "mezimmah": [
@@ -2280,6 +2281,7 @@
     "jonah"
   ],
   "zavach": [
+    "genesis",
     "jonah"
   ],
   "neder": [
@@ -2429,7 +2431,8 @@
     "ezekiel"
   ],
   "qalal": [
-    "ezekiel"
+    "ezekiel",
+    "genesis"
   ],
   "reva": [
     "ezekiel"
@@ -2619,6 +2622,21 @@
   ],
   "kohen": [
     "ezekiel"
+  ],
+  "qatzir": [
+    "genesis"
+  ],
+  "qor": [
+    "genesis"
+  ],
+  "chom": [
+    "genesis"
+  ],
+  "qayitz": [
+    "genesis"
+  ],
+  "choref": [
+    "genesis"
   ],
   "en": [
     "john",

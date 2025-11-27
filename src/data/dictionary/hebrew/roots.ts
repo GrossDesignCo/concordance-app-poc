@@ -1553,6 +1553,7 @@ const ROOTS = {
     description:
       'to cause to rest, to gingerly place, like carefully resting a child in a crib',
     type: 'verb',
+    related: ['noach'],
   },
   shamar: {
     hebrew: 'שמר',
@@ -6228,6 +6229,47 @@ const ROOTS = {
     type: 'noun',
     description:
       'priest, one who officiates at the altar and in religious ceremonies; specifically the Levitical priesthood',
+  },
+  // Genesis 8:22 additions
+  qatzir: {
+    hebrew: 'קציר',
+    transliteration: 'qatzir',
+    englishLiteral: 'harvest',
+    englishNatural: 'harvest',
+    type: 'noun',
+    description: 'harvest, harvest time, reaping',
+  },
+  qor: {
+    hebrew: 'קר',
+    transliteration: 'qor',
+    englishLiteral: 'cold',
+    englishNatural: 'cold',
+    type: 'noun',
+    description: 'cold, coldness',
+  },
+  chom: {
+    hebrew: 'חם',
+    transliteration: 'chom',
+    englishLiteral: 'heat',
+    englishNatural: 'heat',
+    type: 'noun',
+    description: 'heat, warmth',
+  },
+  qayitz: {
+    hebrew: 'קיץ',
+    transliteration: 'qayitz',
+    englishLiteral: 'summer',
+    englishNatural: 'summer',
+    type: 'noun',
+    description: 'summer, summer season',
+  },
+  choref: {
+    hebrew: 'חרף',
+    transliteration: 'choref',
+    englishLiteral: 'winter',
+    englishNatural: 'winter',
+    type: 'noun',
+    description: 'winter, winter season, harvest time',
   },
 } as const;
 
