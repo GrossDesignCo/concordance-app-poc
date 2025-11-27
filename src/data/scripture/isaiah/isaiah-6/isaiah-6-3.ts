@@ -165,8 +165,8 @@ export const isaiah_6_3: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 9,
@@ -274,10 +274,10 @@ export const isaiah_6_3: Verse = {
     transliteration:
       'veKara zeh el zeh veAmar kadosh kadosh kadosh YHWH tsvaot melo kol haAretz kavodo',
     englishLiteral:
-      'And-called_out this to this, and-said, "Holy, holy, holy, He_Who_Is of-Hosts, fullness-of all the-land: his-glory."',
+      'And-called_out this to this, and-said, "Holy, holy, holy, He_Who_Is (YHWH) of-Hosts, fullness-of all the-land: his-glory."',
     englishNatural:
-      'And this called-out to this, and said, "Holy, holy, holy, He-Who-Is of Hosts, fullness of all the land is his glory."',
+      'And this called-out to this, and said, "Holy, holy, holy, He-Who-Is (YHWH) of Hosts, fullness of all the land is his glory."',
     kjv: 'And one cried unto another, and said, Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-07' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

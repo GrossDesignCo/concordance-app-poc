@@ -1,18 +1,18 @@
 
-And the word of He-Who-Is was to Dove (Jonah) son of My-Truth, saying;
+And the word of He-Who-Is (YHWH) was to Dove (Jonah) son of My-Truth, saying;
 
 "Stand-up, go to Dwelling-of-Fish (Nineveh), the city, the great; 
 and call-out over her, that their bad has come up before me."
 
 And Dove (Jonah) stood-up, to flee to Gold-Stone (Tarshish), 
-from the face of He-Who-Is, 
+from the face of He-Who-Is (YHWH), 
 and went-down to Beautiful (Joppa); 
 and he found a ship going to Gold-Stone (Tarshish); 
 and he paid the fare of it, 
 and went-down into it, to go with them to Gold-Stone (Tarshish), 
-from the face of He-Who-Is.
+from the face of He-Who-Is (YHWH).
 
-And He-Who-Is hurled a great wind to the sea, 
+And He-Who-Is (YHWH) hurled a great wind to the sea, 
 and there was a great tempest in the sea, 
 and the ship planned to be broken.
 
@@ -39,12 +39,12 @@ What is your work? and from where come you?
 What is your land? and where 'from this people' are you?"
 
 And he said to them, "A Hebrew am I; 
-and He-Who-Is God of the skies I fear, 
+and He-Who-Is (YHWH) God of the skies I fear, 
 which made the sea and the dry-ground."
 
 And the men feared a great fear, 
 and said to him, "What is this you have done?" 
-that the men knew, that from the face of He-Who-Is he was fleeing, that he had said to them.
+that the men knew, that from the face of He-Who-Is (YHWH) he was fleeing, that he had said to them.
 
 And they said to him, "What shall be done to you 
 and will quiet the sea from over us? 
@@ -58,18 +58,18 @@ And the men rowed to return to the dry-ground;
 and they were-able not; 
 that the sea was walking and storming over them.
 
-And they called-out to He-Who-Is and said, 
-"Please He-Who-Is, please let us perish not in the throat of the man the this; 
+And they called-out to He-Who-Is (YHWH) and said, 
+"Please He-Who-Is (YHWH), please let us perish not in the throat of the man the this; 
 and give over us not innocent blood; 
-that you He-Who-Is, as which you have delighted you have made.
+that you He-Who-Is (YHWH), as which you have delighted you have made.
 
 And they lifted-up Dove (Jonah) and hurled him to the sea; 
 and the sea stood from its rage.
 
-And the men feared a great fear of He-Who-Is; 
-and sacrificed a sacrifice to He-Who-Is 
+And the men feared a great fear of He-Who-Is (YHWH); 
+and sacrificed a sacrifice to He-Who-Is (YHWH) 
 and vowed vows.
 
-And He-Who-Is appointed a great fish to swallow Dove (Jonah); 
+And He-Who-Is (YHWH) appointed a great fish to swallow Dove (Jonah); 
 And Dove (Jonah) was in the bowels of the fish 
 three days and three nights.

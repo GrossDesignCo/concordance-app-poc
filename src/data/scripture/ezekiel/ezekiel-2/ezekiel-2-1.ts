@@ -187,7 +187,7 @@ export const ezekiel_2_1: Verse = {
   ],
   expectedTranslations: {
     hebrew: 'וַיֹּאמֶר אֵלָי בֶּן־אָדָם עֲמֹד עַל־רַגְלֶיךָ וַאֲדַבֵּר אֹתָךְ',
-    transliteration: 'vayYomer elai ben-adam amod al-ragleikha vaAdabber otakh',
+    transliteration: 'vayYomer elai ben-Adam amod al-ragleikha vaAdabber otakh',
     englishLiteral:
       'And-he-said to-me, "son-of- Earth (Adam), stand over- feet-your, and-I-will-speak you."',
     englishNatural:

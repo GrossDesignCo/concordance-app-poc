@@ -33,8 +33,8 @@ export const genesis_6_5: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -288,9 +288,9 @@ export const genesis_6_5: Verse = {
     transliteration:
       'vayYar YHWH ki rabbah raat haAdam baAretz vekhol-yetzer machshevot libbo raq ra kol-haYom',
     englishLiteral:
-      'And-he-saw He_Who_Is that multiplying-was bad-of the-Earth (Adam) in-the-land, and-all- forming-of thoughts-of heart-his, only bad, all- the-day.',
+      'And-he-saw He_Who_Is (YHWH) that multiplying-was bad-of the-Earth (Adam) in-the-land, and-all- forming-of thoughts-of heart-his, only bad, all- the-day.',
     englishNatural:
-      'And He-Who-Is saw that the bad of Earth (Adam) was multiplying in the land, and all the forming of thoughts of his heart, only bad, all the day.',
+      'And He-Who-Is (YHWH) saw that the bad of Earth (Adam) was multiplying in the land, and all the forming of thoughts of his heart, only bad, all the day.',
     kjv: 'And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },

@@ -1,12 +1,12 @@
 
-And the word of He-Who-Is was to Dove (Jonah) the second time, to say;
+And the word of He-Who-Is (YHWH) was to Dove (Jonah) the second time, to say;
 
 "Stand-up, go to Dwelling-of-Fish (Nineveh), The City, The Great, 
 and call-out to her the calling-out 
 which I am speaking to you.
 
 And Dove (Jonah) stood-up, and went to Dwelling-of-Fish (Nineveh), 
-according to the word of He-Who-Is.
+according to the word of He-Who-Is (YHWH).
 
 And Dwelling-of-Fish (Nineveh) was a city great to God, 
 a journey of three days.

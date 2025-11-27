@@ -10,8 +10,8 @@ export const proverbs_8_22: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 1,
@@ -140,10 +140,10 @@ export const proverbs_8_22: Verse = {
     hebrew: 'יְהוָה קָנָנִי רֵאשִׁית דַּרְכּוֹ קֶדֶם מִפְעָלָיו מֵאָז',
     transliteration: 'YHWH qanani reshit darko qedem miphalav meAz',
     englishLiteral:
-      'He_Who_Is acquired-me, heading-of way-his, before from-works-his from-that_time.',
+      'He_Who_Is (YHWH) acquired-me, heading-of way-his, before from-works-his from-that_time.',
     englishNatural:
-      'He-Who-Is acquired me, the heading of his way, before his works from that-time.',
+      'He-Who-Is (YHWH) acquired me, the heading of his way, before his works from that-time.',
     kjv: 'The LORD possessed me in the beginning of his way, before his works of old',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

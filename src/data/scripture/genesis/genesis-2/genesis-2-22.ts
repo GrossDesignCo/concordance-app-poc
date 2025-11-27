@@ -33,8 +33,8 @@ export const genesis_2_22: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -245,9 +245,9 @@ export const genesis_2_22: Verse = {
     transliteration:
       'vaYiven YHWH Elohim et-haTzela asher lakach min-haAdam leIshah vaYeviEha el-haAdam',
     englishLiteral:
-      'And-built He_Who_Is Gods ↳ the-side which he-took from- the-Earth (Adam), to-woman, and-brought-her to- the-Earth (Adam).',
+      'And-built He_Who_Is (YHWH) Gods ↳ the-side which he-took from- the-Earth (Adam), to-woman, and-brought-her to- the-Earth (Adam).',
     englishNatural:
-      'And He-Who-Is God built the side which he took from the Earth (Adam), into a woman, and brought her to the Earth (Adam).',
+      'And He-Who-Is (YHWH) God built the side which he took from the Earth (Adam), into a woman, and brought her to the Earth (Adam).',
     kjv: 'And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },

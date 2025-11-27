@@ -33,8 +33,8 @@ export const genesis_3_14: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -429,10 +429,10 @@ export const genesis_3_14: Verse = {
     transliteration:
       'vaYomer YHWH Elohim el-haNachash ki asita zot arur atah mikol behemah umikol chayat haSadeh al-gechonkha telekh veAfar tokhal kol-yemey chayyekha',
     englishLiteral:
-      'And-he-said He_Who_Is Gods to- the-snake, "that you-made this, cursed you from-all beast and-from-all living_being the-field; on- belly-your you-will_walk, and-dust you-will_eat, all- days lives-your.',
+      'And-he-said He_Who_Is (YHWH) Gods to- the-snake, "that you-made this, cursed you from-all beast and-from-all living_being the-field; on- belly-your you-will_walk, and-dust you-will_eat, all- days lives-your.',
     englishNatural:
-      'And He-Who-Is God said to the snake, "Because you have made this, cursed are you from all beast and from all living-being of the field; on your belly you will walk, and dust you will eat, all the days of your life.',
+      'And He-Who-Is (YHWH) God said to the snake, "Because you have made this, cursed are you from all beast and from all living-being of the field; on your belly you will walk, and dust you will eat, all the days of your life.',
     kjv: 'And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

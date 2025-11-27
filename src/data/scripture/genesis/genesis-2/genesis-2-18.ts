@@ -36,8 +36,8 @@ export const genesis_2_18: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -235,9 +235,9 @@ export const genesis_2_18: Verse = {
     transliteration:
       'vaYomer YHWH Elohim lo-tov heyot haAdam leVaddo eese-lo ezer keNegdo',
     englishLiteral:
-      'And-said He_Who_Is Gods, "No- good to-be the-Earth (Adam) to-alone-him; I-will-make- to-him help, as-his_opposite."',
+      'And-said He_Who_Is (YHWH) Gods, "No- good to-be the-Earth (Adam) to-alone-him; I-will-make- to-him help, as-his_opposite."',
     englishNatural:
-      'And He-Who-Is God said, "No good for the Earth (Adam) to be to himself alone; I will make to him a help, as his opposite."',
+      'And He-Who-Is (YHWH) God said, "No good for the Earth (Adam) to be to himself alone; I will make to him a help, as his opposite."',
     kjv: 'And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },

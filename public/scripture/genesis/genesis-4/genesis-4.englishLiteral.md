@@ -1,6 +1,6 @@
 And-the-Earth (Adam) knew ↳ Life (Eve) his-woman,
 and-she-conceived and-she-bore ↳ Acquired (Cain),
-and-she-said, "I-have-acquired a-man ↳- He_Who_Is."
+and-she-said, "I-have-acquired a-man ↳- He_Who_Is (YHWH)."
 
 and-she-added to-her-birthing, ↳ his-brother ↳ Vapor (Abel).
 And-he-was Vapor (Abel) shepherd flock,
@@ -8,16 +8,16 @@ and-Acquired (Cain) was servant earth.
 
 And-it-was from-end-of days;
 And-he-brought Acquired (Cain) from-fruit-of the-earth,
-offering to-He_Who_Is.
+offering to-He_Who_Is (YHWH).
 
 And-Vapor (Abel), brought also he, 
 from-firstborn-of his-flock, and-from-fat-of-them;
-And-He-esteemed He_Who_Is to Vapor (Abel), and-to his-offering.
+And-He-esteemed He_Who_Is (YHWH) to Vapor (Abel), and-to his-offering.
 
 And-to Acquired (Cain) and-to his-offering, no esteeming;
 And-it-was_fuming_anger to-Acquired (Cain) very_much, and-they-fell his-faces.
 
-And-He-said He_Who_Is to- Acquired (Cain),
+And-He-said He_Who_Is (YHWH) to- Acquired (Cain),
 "Why it-fumed_angrily to-you, and-why they-fell your-faces?
 
 And-is_there_not, if- you-do_well, lifting_up?
@@ -29,7 +29,7 @@ And-it-was in-their-being in-the-field,
 and-he-stood_up Acquired (Cain) to- Vapor (Abel) his-brother,
 and-he-killed-him.
 
-And-he-said He_Who_Is to Acquired (Cain),
+And-he-said He_Who_Is (YHWH) to Acquired (Cain),
 "Where? Vapor (Abel), your-brother?"
 
 And-he-said, "Not I-knew, keeper-of my-brother I?"
@@ -43,20 +43,20 @@ When you-serve ↳ the-earth,
 not- it-will-add give- her-strength to-you;
 wandering and-fugitive you-will-be in-the-land."
 
-And-he-said Acquired (Cain) to He_Who_Is,
+And-he-said Acquired (Cain) to He_Who_Is (YHWH),
 "Great my-twisting, from-lifting_up.
 Behold, you-banished ↳-me the-day, from-over face-of the-earth;
 and-from-your-face I-will-hide;
 and-I-will-be wandering and-fugitive in-the-land;
 and-it-will-be all- finding-me will-kill-me.
 
-And-he-said to-him He_Who_Is, 
+And-he-said to-him He_Who_Is (YHWH), 
 "Not-so, all- killing Acquired (Cain),
 sevenfold it-will-be-avenged."
-And-he-set He_Who_Is for-Acquired (Cain) sign,
+And-he-set He_Who_Is (YHWH) for-Acquired (Cain) sign,
 for-not striking_down- ↳-him all- finding-him.
 
-And-he-went-out Acquired (Cain), from-face-of He_Who_Is;
+And-he-went-out Acquired (Cain), from-face-of He_Who_Is (YHWH);
 and-he-dwelt in-land- Wandering,
 east- Delight.
 
@@ -95,4 +95,4 @@ and-Powerful (Lamech) seventy and-seven."
 
 and-knew Earth (Adam) again ↳ woman-his; and-bore son, and-called_out ↳ name-his "Appointed (Seth); that appointed to-me Gods seed another instead-of Vapor (Abel); that killed-him Acquired (Cain)."
 
-and-to-Appointed (Seth) also he was-born son; and-called_out ↳ name-his Mortal (Enosh); then was-begun, to-call_out in-name-of He-Who-Is.
+and-to-Appointed (Seth) also he was-born son; and-called_out ↳ name-his Mortal (Enosh); then was-begun, to-call_out in-name-of He-Who-Is (YHWH).

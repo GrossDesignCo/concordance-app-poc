@@ -171,8 +171,8 @@ export const psalms_23_6: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 10,
@@ -225,11 +225,15 @@ export const psalms_23_6: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'אַךְ טוֹב וָחֶסֶד יִרְדְּפוּנִי כָּל־יְמֵי חַיַּי וְשַׁבְתִּי בְּבֵית יְהוָה לְאֹרֶךְ יָמִים',
-    transliteration: 'akh tov vaChesed yirdefuni kol-yemei chayai veShavti beBeit YHWH leOrekh yamim',
-    englishLiteral: 'Only good and-steadfast_love they-will-pursue-me, all- days-of my-life; and-I-will-sit in-house-of He_Who_Is, to-length-of days.',
-    englishNatural: 'Only good and steadfast-love will pursue me, all the days of my life; and I will sit in the house of He-Who-Is, to the length of days.',
+    hebrew:
+      'אַךְ טוֹב וָחֶסֶד יִרְדְּפוּנִי כָּל־יְמֵי חַיַּי וְשַׁבְתִּי בְּבֵית יְהוָה לְאֹרֶךְ יָמִים',
+    transliteration:
+      'akh tov vaChesed yirdefuni kol-yemei chayai veShavti beBeit YHWH leOrekh yamim',
+    englishLiteral:
+      'Only good and-steadfast_love they-will-pursue-me, all- days-of my-life; and-I-will-sit in-house-of He_Who_Is (YHWH), to-length-of days.',
+    englishNatural:
+      'Only good and steadfast-love will pursue me, all the days of my life; and I will sit in the house of He-Who-Is (YHWH), to the length of days.',
     kjv: 'Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-16' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

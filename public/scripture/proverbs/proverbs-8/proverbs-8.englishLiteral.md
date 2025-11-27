@@ -3,7 +3,7 @@ and-Understanding will-give voice-her? In-head-of heights overlooking way,
 between paths she-has-stationed_herself; To-hand-of gates, to-mouth-of city, 
 incoming-of openings she-cries_out;
 
-He_Who_Is acquired-me, heading-of way-his, 
+He_Who_Is (YHWH) acquired-me, heading-of way-his, 
 before from-works-his from-that_time. 
 From-the_age was-poured_out-I, 
 from-heading, from-east-of land. 

@@ -188,8 +188,8 @@ export const exodus_3_15: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 11,
@@ -526,10 +526,10 @@ export const exodus_3_15: Verse = {
     transliteration:
       'vaYomer od Elohim el-Moshe koh-tomar el-beney Yisrael YHWH Elohey avoteikem Elohey Avraham Elohey Yitzchaq veElohey Yaaqov shlachani aleikhem zeh-shmi leOlam veZeh zikri leDor dor',
     englishLiteral:
-      'And-said again Gods to- Draws_Out (Moses), "Thus- you-will-say to- sons-of Struggles_with_God (Israel), \'He_Who_Is, Gods-of your-fathers, Gods-of Father_of_Multitudes (Abraham), Gods-of He_Laughs (Isaac), and-Gods-of Heel_Grasper (Jacob), sent-me to-you;\' this- my-name to-the_age, and-this my-rememberance to-generation generation."',
+      'And-said again Gods to- Draws_Out (Moses), "Thus- you-will-say to- sons-of Struggles_with_God (Israel), \'He_Who_Is (YHWH), Gods-of your-fathers, Gods-of Father_of_Multitudes (Abraham), Gods-of He_Laughs (Isaac), and-Gods-of Heel_Grasper (Jacob), sent-me to-you;\' this- my-name to-the_age, and-this my-rememberance to-generation generation."',
     englishNatural:
-      'And again God said to Draws-Out (Moses), "Thus you will say to the sons of Struggles-with-God (Israel), \'He-Who-Is, God of your fathers, the God of Father-of-Multitudes (Abraham), the God of He-Laughs (Isaac), and the God of Heel-Grasper (Jacob), has sent me to you;\' this is my name to the-age, and this is my rememberance to generation of generation."',
+      'And again God said to Draws-Out (Moses), "Thus you will say to the sons of Struggles-with-God (Israel), \'He-Who-Is (YHWH), God of your fathers, the God of Father-of-Multitudes (Abraham), the God of He-Laughs (Isaac), and the God of Heel-Grasper (Jacob), has sent me to you;\' this is my name to the-age, and this is my rememberance to generation of generation."',
     kjv: 'And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

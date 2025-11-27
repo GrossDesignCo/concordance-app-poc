@@ -27,8 +27,8 @@ export const proverbs_1_7: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -156,9 +156,11 @@ export const proverbs_1_7: Verse = {
   expectedTranslations: {
     hebrew: 'יִרְאַת יְהוָה רֵאשִׁית דָּעַת חָכְמָה וּמוּסָר אֱוִילִים בָּזוּ',
     transliteration: 'yirat YHWH reshit daat chokmah uMusar ewilim bazu',
-    englishLiteral: 'Fear-of He_Who_Is, heading-of knowledge; Wisdom and-discipline fools despise.',
-    englishNatural: 'Fear of He-Who-Is, heading of knowledge; Wisdom and discipline fools despise.',
+    englishLiteral:
+      'Fear-of He_Who_Is (YHWH), heading-of knowledge; Wisdom and-discipline fools despise.',
+    englishNatural:
+      'Fear of He-Who-Is (YHWH), heading of knowledge; Wisdom and discipline fools despise.',
     kjv: 'The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

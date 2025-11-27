@@ -43,8 +43,8 @@ export const psalms_1_6: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He-Who-Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He-Who-Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 3,
@@ -155,10 +155,10 @@ export const psalms_1_6: Verse = {
     hebrew: 'כִּי יוֹדֵעַ יְהוָה דֶּרֶךְ צַדִּיקִים וְדֶרֶךְ רְשָׁעִים תֹּאבֵד',
     transliteration: 'ki yodea YHWH derekh tzadiqim veDerekh reshaim toved',
     englishLiteral:
-      'That knowing He-Who-Is way-of righteous-ones, and-way-of wicked-ones it-will-perish.',
+      'That knowing He-Who-Is (YHWH) way-of righteous-ones, and-way-of wicked-ones it-will-perish.',
     englishNatural:
-      'That He-Who-Is knows the way of the righteous, and the way of the wicked will perish.',
+      'That He-Who-Is (YHWH) knows the way of the righteous, and the way of the wicked will perish.',
     kjv: 'For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-15' },
-},
-}; 
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+  },
+};

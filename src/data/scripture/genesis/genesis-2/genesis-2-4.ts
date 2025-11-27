@@ -133,8 +133,8 @@ export const genesis_2_4: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 8,
@@ -206,10 +206,10 @@ export const genesis_2_4: Verse = {
     transliteration:
       'eleh toledot haShamayim veHaAretz beHibaram beYom asot YHWH Elohim eretz veShamayim',
     englishLiteral:
-      'These birthings the-skies and-the-land, in-being-created-them; in-day making He_Who_Is Gods land and-skies.',
+      'These birthings the-skies and-the-land, in-being-created-them; in-day making He_Who_Is (YHWH) Gods land and-skies.',
     englishNatural:
-      'These are the birthings of the skies and the land, in their being created; in the day He-Who-Is God made land and skies.',
+      'These are the birthings of the skies and the land, in their being created; in the day He-Who-Is (YHWH) God made land and skies.',
     kjv: 'These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

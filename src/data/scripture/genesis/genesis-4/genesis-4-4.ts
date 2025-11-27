@@ -171,8 +171,8 @@ export const genesis_4_4: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 9,
@@ -254,11 +254,15 @@ export const genesis_4_4: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וְהֶבֶל הֵבִיא גַם־הוּא מִבְּכֹרוֹת צֹאנוֹ וּמֵחֶלְבֵהֶן וַיִּשַׁע יְהוָה אֶל־הֶבֶל וְאֶל־מִנְחָתוֹ',
-    transliteration: 'veHevel hevi gam-hu miBekhorot tzono umeChelveHen vayYisha YHWH el-Hevel veEl-minchato',
-    englishLiteral: 'And-Vapor (Abel), brought also he, from-firstborn-of his-flock, and-from-fat-of-them; And-He-esteemed He_Who_Is to Vapor (Abel), and-to his-offering.',
-    englishNatural: 'And Vapor (Abel), he brought also, from the firstborn of his flock, and from their fat; And He-Who-Is esteemed to Vapor (Abel), and to his offering.',
+    hebrew:
+      'וְהֶבֶל הֵבִיא גַם־הוּא מִבְּכֹרוֹת צֹאנוֹ וּמֵחֶלְבֵהֶן וַיִּשַׁע יְהוָה אֶל־הֶבֶל וְאֶל־מִנְחָתוֹ',
+    transliteration:
+      'veHevel hevi gam-hu miBekhorot tzono umeChelveHen vayYisha YHWH el-Hevel veEl-minchato',
+    englishLiteral:
+      'And-Vapor (Abel), brought also he, from-firstborn-of his-flock, and-from-fat-of-them; And-He-esteemed He_Who_Is (YHWH) to Vapor (Abel), and-to his-offering.',
+    englishNatural:
+      'And Vapor (Abel), he brought also, from the firstborn of his flock, and from their fat; And He-Who-Is (YHWH) esteemed to Vapor (Abel), and to his offering.',
     kjv: 'And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

@@ -33,8 +33,8 @@ export const exodus_34_5: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -164,8 +164,8 @@ export const exodus_34_5: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 9,
@@ -187,10 +187,10 @@ export const exodus_34_5: Verse = {
     transliteration:
       'vaYered YHWH beAnan vaYityatzev imo sham vaYiqra beshem YHWH',
     englishLiteral:
-      'And-went_down He_Who_Is in-cloud, and-positioned-himself with-him there, and-called_out in-name He_Who_Is.',
+      'And-went_down He_Who_Is (YHWH) in-cloud, and-positioned-himself with-him there, and-called_out in-name He_Who_Is (YHWH).',
     englishNatural:
-      'And He-Who-Is went-down in the cloud, and positioned himself with him there, and called-out the name of He-Who-Is.',
+      'And He-Who-Is (YHWH) went-down in the cloud, and positioned himself with him there, and called-out the name of He-Who-Is (YHWH).',
     kjv: 'And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

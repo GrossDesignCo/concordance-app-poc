@@ -12,5 +12,5 @@ Will-hear wise-man, and-will-add teaching;
 and-understanding-man, wise_counsels will-acquire. To-understand rule and-interpretation; 
 words-of wise-men and-sharp_sayings-their.
 
-Fear-of He_Who_Is, heading-of knowledge; 
+Fear-of He_Who_Is (YHWH), heading-of knowledge; 
 Wisdom and-discipline fools despise. 

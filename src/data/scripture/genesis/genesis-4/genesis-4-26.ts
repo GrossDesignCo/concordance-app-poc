@@ -244,8 +244,8 @@ export const genesis_4_26: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He-Who-Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He-Who-Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 14,
@@ -272,10 +272,10 @@ export const genesis_4_26: Verse = {
     transliteration:
       'uleShet gam-hu yulad-ben vaYiqra et-shemo Enosh az huchal liqro beShem YHWH',
     englishLiteral:
-      'and-to-Appointed (Seth) also he was-born son; and-called_out ↳ name-his Mortal (Enosh); then was-begun, to-call_out in-name-of He-Who-Is.',
+      'and-to-Appointed (Seth) also he was-born son; and-called_out ↳ name-his Mortal (Enosh); then was-begun, to-call_out in-name-of He-Who-Is (YHWH).',
     englishNatural:
-      'And to Appointed (Seth) also he was born a son; and he called-out his name Mortal (Enosh); then it began, to call-out in the name of He-Who-Is.',
+      'And to Appointed (Seth) also he was born a son; and he called-out his name Mortal (Enosh); then it began, to call-out in the name of He-Who-Is (YHWH).',
     kjv: 'And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

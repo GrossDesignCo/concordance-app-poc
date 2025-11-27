@@ -33,8 +33,8 @@ export const jonah_2_10: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -160,10 +160,10 @@ export const jonah_2_10: Verse = {
     hebrew: 'וַיֹּאמֶר יְהוָה לַדָּג וַיָּקֵא אֶת־יוֹנָה אֶל־הַיַּבָּשָׁה',
     transliteration: 'vaYomer YHWH laDag vaYaqe et-Yonah el-haYabashah',
     englishLiteral:
-      'And-said He_Who_Is to-the-fish, and-vomited ↳ Dove (Jonah) to- the-dry_ground.',
+      'And-said He_Who_Is (YHWH) to-the-fish, and-vomited ↳ Dove (Jonah) to- the-dry_ground.',
     englishNatural:
-      'And He-Who-Is spoke to the fish, and he vomited Dove (Jonah) to the dry-ground.',
+      'And He-Who-Is (YHWH) spoke to the fish, and he vomited Dove (Jonah) to the dry-ground.',
     kjv: 'And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

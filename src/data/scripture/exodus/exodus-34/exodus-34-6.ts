@@ -33,8 +33,8 @@ export const exodus_34_6: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -110,8 +110,8 @@ export const exodus_34_6: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 6,
@@ -132,8 +132,8 @@ export const exodus_34_6: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 7,
@@ -302,10 +302,10 @@ export const exodus_34_6: Verse = {
     transliteration:
       'vaYaavor YHWH al-panav vaYiqra YHWH YHWH El rachum veChannun erekh apayim veRav-chesed veEmet',
     englishLiteral:
-      'And-passed-through He_Who_Is over- his-faces, and-called_out, "He_Who_Is, He_Who_Is, God, compassionate, and-gracious, long nostrils, and-many- steadfast_love and-truth.',
+      'And-passed-through He_Who_Is (YHWH) over- his-faces, and-called_out, "He_Who_Is (YHWH), He_Who_Is (YHWH), God, compassionate, and-gracious, long nostrils, and-many- steadfast_love and-truth.',
     englishNatural:
-      'And He-Who-Is passed through over his faces (eyes), and called-out, "He-Who-Is, He-Who-Is, God, compassionate, and gracious, long of nostrils, and abundant in steadfast-love and truth.',
+      'And He-Who-Is (YHWH) passed through over his faces (eyes), and called-out, "He-Who-Is (YHWH), He-Who-Is (YHWH), God, compassionate, and gracious, long of nostrils, and abundant in steadfast-love and truth.',
     kjv: 'And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

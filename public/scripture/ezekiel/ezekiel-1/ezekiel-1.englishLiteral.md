@@ -9,10 +9,10 @@ In-the-five to-the-month,
 it the-year the-fifth
 to-exile-of the-king He_Establishes (Jehoiachin).
 
-Being was word-of- He_Who_Is to- God_Strengthens (Ezekiel) 
+Being was word-of- He_Who_Is (YHWH) to- God_Strengthens (Ezekiel) 
 son-of- Contempt (Buzi), the-priest,
 in-land-of Chaldeans upon- river-of- Ancient (Kebar),
-and-it-was upon-him there hand-of- He_Who_Is.
+and-it-was upon-him there hand-of- He_Who_Is (YHWH).
 
 And-I-saw and-behold wind storm coming from- the-north,
 cloud great, and-fire flashing,
@@ -123,6 +123,6 @@ and-brightness to-him all_around.
 
 like-appearance-of the-bow which it-is in-the-cloud in-day-of the-rain,
 so appearance-of the-brightness all_around;
-he appearance-of likeness-of glory-of- He_Who_Is.
+he appearance-of likeness-of glory-of- He_Who_Is (YHWH).
 And-I-saw and-I-fell over- face-my,
 and-I-heard voice speaking.

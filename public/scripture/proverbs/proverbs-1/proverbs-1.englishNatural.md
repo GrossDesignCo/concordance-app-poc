@@ -12,5 +12,5 @@ A wise man will hear, and will add teaching;
 and an understanding man, will acquire wise-counsels. To understand a rule and the interpretation; 
 words of wise men and their sharp-sayings.
 
-Fear of He-Who-Is, heading of knowledge; 
+Fear of He-Who-Is (YHWH), heading of knowledge; 
 Wisdom and discipline fools despise. 

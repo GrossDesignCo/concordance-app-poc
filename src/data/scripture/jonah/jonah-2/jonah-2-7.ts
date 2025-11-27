@@ -79,8 +79,8 @@ export const jonah_2_7: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'hayah',
       order: {
         hebrew: 5,
@@ -232,10 +232,10 @@ export const jonah_2_7: Verse = {
     transliteration:
       'behitatef alay nafshi et-YHWH zakharti vatavo elekha tefilati el-hekhal qodshekha',
     englishLiteral:
-      'In-fainting over-me throat-my, ↳ He_Who_Is I-remembered; and-came to-you prayer-my, to- temple-of holiness-your.',
+      'In-fainting over-me throat-my, ↳ He_Who_Is (YHWH) I-remembered; and-came to-you prayer-my, to- temple-of holiness-your.',
     englishNatural:
-      'In fainting over me my throat, He-Who-Is I remembered; and came to you my prayer, to the temple of your holiness.',
+      'In fainting over me my throat, He-Who-Is (YHWH) I remembered; and came to you my prayer, to the temple of your holiness.',
     kjv: 'When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thy holy temple.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

@@ -33,8 +33,8 @@ export const genesis_4_6: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -205,11 +205,15 @@ export const genesis_4_6: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיֹּאמֶר יְהוָה אֶל־קַיִן לָמָּה חָרָה לָךְ וְלָמָּה נָפְלוּ פָנֶיךָ',
-    transliteration: 'vayYomer YHWH el-Qayin lamah charah lakh velamah nafelu panekha',
-    englishLiteral: 'And-He-said He_Who_Is to- Acquired (Cain), "Why it-fumed_angrily to-you, and-why they-fell your-faces?',
-    englishNatural: 'And He-Who-Is said to Acquired (Cain), "Why is it fuming-anger to you, and why have your faces (eyes) fallen?',
+    hebrew:
+      'וַיֹּאמֶר יְהוָה אֶל־קַיִן לָמָּה חָרָה לָךְ וְלָמָּה נָפְלוּ פָנֶיךָ',
+    transliteration:
+      'vayYomer YHWH el-Qayin lamah charah lakh velamah nafelu panekha',
+    englishLiteral:
+      'And-He-said He_Who_Is (YHWH) to- Acquired (Cain), "Why it-fumed_angrily to-you, and-why they-fell your-faces?',
+    englishNatural:
+      'And He-Who-Is (YHWH) said to Acquired (Cain), "Why is it fuming-anger to you, and why have your faces (eyes) fallen?',
     kjv: 'And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

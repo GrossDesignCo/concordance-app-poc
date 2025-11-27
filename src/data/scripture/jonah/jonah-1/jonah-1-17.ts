@@ -33,8 +33,8 @@ export const jonah_1_17: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -288,10 +288,10 @@ export const jonah_1_17: Verse = {
     transliteration:
       'vaYeman YHWH dag gadol livloa et-Yonah vaYehi Yonah bimei haDag shloshah yamim uShloshah leilot',
     englishLiteral:
-      'And-appointed He_Who_Is fish great to-swallow ↳ Dove (Jonah); And-was Dove (Jonah) in-bowels-of the-fish three days and-three nights.',
+      'And-appointed He_Who_Is (YHWH) fish great to-swallow ↳ Dove (Jonah); And-was Dove (Jonah) in-bowels-of the-fish three days and-three nights.',
     englishNatural:
-      'And He-Who-Is appointed a great fish to swallow Dove (Jonah); And Dove (Jonah) was in the bowels of the fish three days and three nights.',
+      'And He-Who-Is (YHWH) appointed a great fish to swallow Dove (Jonah); And Dove (Jonah) was in the bowels of the fish three days and three nights.',
     kjv: 'Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

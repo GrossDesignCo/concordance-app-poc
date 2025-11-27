@@ -33,8 +33,8 @@ export const genesis_3_21: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -168,9 +168,9 @@ export const genesis_3_21: Verse = {
     transliteration:
       'vayYaas YHWH Elohim leAdam uleIshto kotnot or vayYaLbishem',
     englishLiteral:
-      'And-he-made He_Who_Is Gods to-Earth (Adam) and-to-woman-his; tunics skin and-he-clothed-them.',
+      'And-he-made He_Who_Is (YHWH) Gods to-Earth (Adam) and-to-woman-his; tunics skin and-he-clothed-them.',
     englishNatural:
-      'And He-Who-Is God made to Earth (Adam) and to his woman; tunics of skin and clothed them.',
+      'And He-Who-Is (YHWH) God made to Earth (Adam) and to his woman; tunics of skin and clothed them.',
     kjv: 'Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },

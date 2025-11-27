@@ -10,8 +10,8 @@ export const psalms_23_1: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 1,
@@ -66,7 +66,7 @@ export const psalms_23_1: Verse = {
       },
       lineBreaksAfter: {
         english: 1,
-      }
+      },
     },
     {
       hebrew: 'אֶחְסָר',
@@ -92,15 +92,15 @@ export const psalms_23_1: Verse = {
       },
       lineBreaksAfter: {
         hebrew: 1,
-      }
+      },
     },
   ],
   expectedTranslations: {
     hebrew: 'יְהוָה רֹעִי לֹא אֶחְסָר',
     transliteration: 'YHWH roi lo echsar',
-    englishLiteral: 'He_Who_Is, my-shepherd; not I-will-lack.',
-    englishNatural: 'He-Who-Is, my shepherd; I will lack not.',
+    englishLiteral: 'He_Who_Is (YHWH), my-shepherd; not I-will-lack.',
+    englishNatural: 'He-Who-Is (YHWH), my shepherd; I will lack not.',
     kjv: 'The LORD is my shepherd; I shall not want.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-16' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

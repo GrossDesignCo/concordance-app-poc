@@ -1,11 +1,11 @@
 
-And Rest (Noah) built an altar to He-Who-Is;
+And Rest (Noah) built an altar to He-Who-Is (YHWH);
 and took from all the beast the clean
 and from all the flyer the clean,
 and caused to go-up goings-up on the altar.
 
-And He-Who-Is winded the wind of the restful;
-and He-Who-Is said to his heart,
+And He-Who-Is (YHWH) winded the wind of the restful;
+and He-Who-Is (YHWH) said to his heart,
 
 "I will add not, to curse again the earth,
 in the passing-through of the Earth (Adam),

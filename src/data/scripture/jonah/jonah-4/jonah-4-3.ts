@@ -26,8 +26,8 @@ export const jonah_4_3: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -204,10 +204,10 @@ export const jonah_4_3: Verse = {
     transliteration:
       'veAttah YHWH qach-na et-nafshi mimeni ki tov moti mechayyai',
     englishLiteral:
-      'And-now He_Who_Is, take- please ↳ throat-my from-me, that good death-my, from-lives-my."',
+      'And-now He_Who_Is (YHWH), take- please ↳ throat-my from-me, that good death-my, from-lives-my."',
     englishNatural:
-      'And now He-Who-Is, take please my throat from me, that good-is my death, from my life."',
+      'And now He-Who-Is (YHWH), take please my throat from me, that good-is my death, from my life."',
     kjv: 'Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-19' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

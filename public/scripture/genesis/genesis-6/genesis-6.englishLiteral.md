@@ -6,7 +6,7 @@ And-they-saw sons- the-Gods ↳ daughters-of the-Earth (Adam),
 that good they;
 and-they-took to-them women, from-all which they-chose.
 
-And-he-said He_Who_Is, "not- will-judge my-wind in-the-Earth (Adam) to-the_age,
+And-he-said He_Who_Is (YHWH), "not- will-judge my-wind in-the-Earth (Adam) to-the_age,
 in-moreover he flesh;
 and-they-will-be his-days hundred and-twenty year."
 
@@ -16,18 +16,18 @@ which they-came sons-of the-Gods to daughters-of the-Earth (Adam),
 and-they-birthed to-them they the-mighty_ones,
 which from-the_age, men-of the-name.
 
-And-he-saw He_Who_Is that multiplying-was bad-of the-Earth (Adam) in-the-land,
+And-he-saw He_Who_Is (YHWH) that multiplying-was bad-of the-Earth (Adam) in-the-land,
 and-all- forming-of thoughts-of heart-his, only bad, all- the-day.
 
-And-he-relented He_Who_Is, that- he-made ↳ the-Earth (Adam) in-the-land,
+And-he-relented He_Who_Is (YHWH), that- he-made ↳ the-Earth (Adam) in-the-land,
 and-it-grieved-him to- heart-his.
 
-And-he-said He_Who_Is, "I-will-wipe_out ↳ the-Earth (Adam) which- I-created
+And-he-said He_Who_Is (YHWH), "I-will-wipe_out ↳ the-Earth (Adam) which- I-created
 from-over face-of the-earth,
 from-Earth (Adam) unto- beast, unto- creeping_thing, and-unto- bird-of the-skies;
 that I-have-relented that I-have-made-them."
 
-And-Rest (Noah) found grace in-eyes-of He_Who_Is.
+And-Rest (Noah) found grace in-eyes-of He_Who_Is (YHWH).
 
 These birthings-of Rest (Noah);
 

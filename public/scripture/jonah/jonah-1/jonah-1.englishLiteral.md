@@ -1,17 +1,17 @@
-And-was word-of He_Who_Is to- Dove (Jonah) son-of My_Truth, to-say;
+And-was word-of He_Who_Is (YHWH) to- Dove (Jonah) son-of My_Truth, to-say;
 
 "Stand_up, go to- Dwelling_of_Fish (Nineveh), the-city, the-great; 
 and-call_out over-her, that- went_up bad-their before-me."
 
 And-stood_up Dove (Jonah), to-flee Gold-Stone (Tarshish), 
-from-the-face-of He_Who_Is, 
+from-the-face-of He_Who_Is (YHWH), 
 and-went_down Beautiful (Joppa); 
 and-found ship going Gold-Stone (Tarshish); 
 and-gave fare-her, 
 and-went_down in-her, to-go with-them Gold-Stone (Tarshish), 
-from-the-face-of He_Who_Is.
+from-the-face-of He_Who_Is (YHWH).
 
-And-He_Who_Is hurled wind- great to- the-sea, 
+And-He_Who_Is (YHWH) hurled wind- great to- the-sea, 
 and-was tempest- great in-the-sea, 
 and-the-ship planned to-be-broken.
 
@@ -38,12 +38,12 @@ What- work-your? and-from-where you-come?
 What land-your? and-where- from-this people you?"
 
 And-said to-them, "Hebrew I; 
-and-↳ He_Who_Is Gods-of the-skies I fear, 
+and-↳ He_Who_Is (YHWH) Gods-of the-skies I fear, 
 which- made ↳ the-sea and-↳ the-dry_ground."
 
 And-feared the-men fear great, 
 and-said to-him, "What- this you-did?" 
-that- knew the-men, that- from-the-face-of He_Who_Is he fleeing, that he-said to-them.
+that- knew the-men, that- from-the-face-of He_Who_Is (YHWH) he fleeing, that he-said to-them.
 
 And-said to-him, "what- shall-be-done to-you 
 and-will-quiet the-sea from-over-us? 
@@ -57,18 +57,18 @@ And-rowed the-men to-return to- the-dry_ground;
 and-not they-were-able; 
 that the-sea walking and-storming over-them.
 
-And-called_out to- He_Who_Is and-said, 
-"please He_Who_Is, not- please let-us-perish in-throat-of the-man the-this; 
+And-called_out to- He_Who_Is (YHWH) and-said, 
+"please He_Who_Is (YHWH), not- please let-us-perish in-throat-of the-man the-this; 
 and-not- give over-us blood innocent; 
-that- you He_Who_Is, as-which you-delighted you-made.
+that- you He_Who_Is (YHWH), as-which you-delighted you-made.
 
 And-lifted_up ↳ Dove (Jonah) and-hurled-him to- the-sea; 
 and-stood the-sea from-rage-its.
 
-And-feared the-men fear great ↳ He_Who_Is; 
-and-sacrificed- sacrifice to-He_Who_Is 
+And-feared the-men fear great ↳ He_Who_Is (YHWH); 
+and-sacrificed- sacrifice to-He_Who_Is (YHWH) 
 and-vowed vows.
 
-And-appointed He_Who_Is fish great to-swallow ↳ Dove (Jonah); 
+And-appointed He_Who_Is (YHWH) fish great to-swallow ↳ Dove (Jonah); 
 And-was Dove (Jonah) in-bowels-of the-fish 
 three days and-three nights.

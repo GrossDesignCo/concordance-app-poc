@@ -45,8 +45,8 @@ export const psalms_117_1: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 3,
@@ -165,9 +165,11 @@ export const psalms_117_1: Verse = {
   expectedTranslations: {
     hebrew: 'הַלְלוּ אֶת יְהוָה כָּל גּוֹיִם שַׁבְּחוּהוּ כָּל הָאֻמִּים',
     transliteration: 'halelu et YHWH kol goyim shabechuhu kol haUmim',
-    englishLiteral: 'Praise ↳ He_Who_Is, all nations; send-to-him, all the-peoples.',
-    englishNatural: 'Praise He-Who-Is, all nations: send to him, all the peoples.',
+    englishLiteral:
+      'Praise ↳ He_Who_Is (YHWH), all nations; send-to-him, all the-peoples.',
+    englishNatural:
+      'Praise He-Who-Is (YHWH), all nations: send to him, all the peoples.',
     kjv: 'O praise the LORD, all ye nations: praise him, all ye people.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-15' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

@@ -79,8 +79,8 @@ export const genesis_6_8: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 5,
@@ -99,9 +99,10 @@ export const genesis_6_8: Verse = {
   expectedTranslations: {
     hebrew: 'וְנֹחַ מָצָא חֵן בְּעֵינֵי יְהוָה',
     transliteration: 'veNoach matsa chen beEiney YHWH',
-    englishLiteral: 'And-Rest (Noah) found grace in-eyes-of He_Who_Is.',
-    englishNatural: 'And Rest (Noah) found grace in the eyes of He-Who-Is.',
+    englishLiteral: 'And-Rest (Noah) found grace in-eyes-of He_Who_Is (YHWH).',
+    englishNatural:
+      'And Rest (Noah) found grace in the eyes of He-Who-Is (YHWH).',
     kjv: 'But Noah found grace in the eyes of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

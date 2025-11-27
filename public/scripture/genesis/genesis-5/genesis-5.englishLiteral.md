@@ -85,7 +85,7 @@ And-called_out ↳ his-name "Rest (Noah)," to-say,
 "This will-comfort-us from-our-making 
 and-from-pain our-hands, 
 from the-earth 
-which he-cursed He-Who-Is."
+which he-cursed He-Who-Is (YHWH)."
 And-lived Powerful (Lamech) after he-birthed-him ↳ Rest (Noah), five and-ninety year and-eight hundreds year,
 and-birthed sons and-daughters.
 

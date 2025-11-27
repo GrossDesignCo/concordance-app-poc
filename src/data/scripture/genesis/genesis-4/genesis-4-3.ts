@@ -159,8 +159,8 @@ export const genesis_4_3: Verse = {
     {
       hebrew: 'לַיהוָה',
       transliteration: 'laYHWH',
-      englishLiteral: 'to-He_Who_Is',
-      englishNatural: 'to He-Who-Is',
+      englishLiteral: 'to-He_Who_Is (YHWH)',
+      englishNatural: 'to He-Who-Is (YHWH)',
       root: 'yhwh',
       prefixes: ['la'],
       order: {
@@ -183,9 +183,9 @@ export const genesis_4_3: Verse = {
     transliteration:
       'vayHi miQetz yamim vayYave Qayin miPeri haAdamah minchah laYHWH',
     englishLiteral:
-      'And-it-was from-end-of days; And-he-brought Acquired (Cain) from-fruit-of the-earth, offering to-He_Who_Is.',
+      'And-it-was from-end-of days; And-he-brought Acquired (Cain) from-fruit-of the-earth, offering to-He_Who_Is (YHWH).',
     englishNatural:
-      'And it was from the end of days; And Acquired (Cain) brought from the fruit of the earth, an offering to He-Who-Is.',
+      'And it was from the end of days; And Acquired (Cain) brought from the fruit of the earth, an offering to He-Who-Is (YHWH).',
     kjv: 'And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },

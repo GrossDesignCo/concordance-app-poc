@@ -67,8 +67,8 @@ export const genesis_8_20: Verse = {
     {
       hebrew: 'לַיהוָה',
       transliteration: 'laYHWH',
-      englishLiteral: 'to-He_Who_Is',
-      englishNatural: 'to He-Who-Is',
+      englishLiteral: 'to-He_Who_Is (YHWH)',
+      englishNatural: 'to He-Who-Is (YHWH)',
       root: 'yhwh',
       prefixes: ['la'],
       order: {
@@ -273,10 +273,10 @@ export const genesis_8_20: Verse = {
     transliteration:
       'vayYiven Noach mizbeach laYHWH vayYiqach miKol haBehemah haTehorah uMikol haOf haTahor vayYaal olot baMizbeach',
     englishLiteral:
-      'And-built Rest (Noah) altar to-He_Who_Is; and-took from-all the-beast the-clean and-from-all the-flyer the-clean, and-caused-to-go_up goings_up on-the-altar.',
+      'And-built Rest (Noah) altar to-He_Who_Is (YHWH); and-took from-all the-beast the-clean and-from-all the-flyer the-clean, and-caused-to-go_up goings_up on-the-altar.',
     englishNatural:
-      'And Rest (Noah) built an altar to He-Who-Is; and took from all the beast the clean and from all the flyer the clean, and caused to go-up goings-up on the altar.',
+      'And Rest (Noah) built an altar to He-Who-Is (YHWH); and took from all the beast the clean and from all the flyer the clean, and caused to go-up goings-up on the altar.',
     kjv: 'And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
-},
+  },
 };

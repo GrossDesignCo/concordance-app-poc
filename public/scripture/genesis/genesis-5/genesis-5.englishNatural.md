@@ -81,7 +81,7 @@ And he called-out his name "Rest (Noah)," to say,
 "This will comfort us from our making 
 and from the pain of our hands, 
 from the earth 
-which He-Who-Is cursed."
+which He-Who-Is (YHWH) cursed."
 And Powerful (Lamech) lived after he birthed Rest (Noah), five and ninety years and eight hundred years,
 and birthed sons and daughters.
 

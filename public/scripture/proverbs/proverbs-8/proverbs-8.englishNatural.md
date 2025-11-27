@@ -3,7 +3,7 @@ and Understanding give her voice? In head of heights overlooking a way,
 between paths she has stationed-herself; To the hand of gates, to the mouth of a city, 
 incoming of openings she cries-out;
 
-He-Who-Is acquired me, the heading of his way, 
+He-Who-Is (YHWH) acquired me, the heading of his way, 
 before his works from that-time. 
 From the-age I was poured-out, 
 from the heading, from the-east of land. 

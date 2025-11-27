@@ -56,8 +56,8 @@ export const psalms_1_2: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 4,
@@ -172,10 +172,10 @@ export const psalms_1_2: Verse = {
     transliteration:
       'ki im beTorah YHWH cheftzo uvTorato yehgeh yomam vaLaylah',
     englishLiteral:
-      'That if in-law-of He_Who_Is his-choice_thing, and-in-his-law he-meditates by-day and-night.',
+      'That if in-law-of He_Who_Is (YHWH) his-choice_thing, and-in-his-law he-meditates by-day and-night.',
     englishNatural:
-      'That if in the law of He-Who-Is his choice-thing, and in his law he meditates by day and night.',
+      'That if in the law of He-Who-Is (YHWH) his choice-thing, and in his law he meditates by day and night.',
     kjv: 'But his delight is in the law of the LORD; and in his law doth he meditate day and night.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-15' },
-},
-}; 
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+  },
+};

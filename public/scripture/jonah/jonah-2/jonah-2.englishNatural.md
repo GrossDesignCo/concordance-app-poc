@@ -1,8 +1,8 @@
 
-And Dove (Jonah) prayed to He-Who-Is his God from the bowels of the fish;
+And Dove (Jonah) prayed to He-Who-Is (YHWH) his God from the bowels of the fish;
 
 And he said, 
-"I called-out from distress to me to He-Who-Is, 
+"I called-out from distress to me to He-Who-Is (YHWH), 
 and he answered me; 
 from the belly of Hades I cried-out, 
 you heard my voice.
@@ -21,9 +21,9 @@ reed binds, to my head.
 
 I went down to the cutoffs of the mountains; 
 the earth, her bars around me to the-age; 
-and you brought-up from corruption my life, He-Who-Is my God.
+and you brought-up from corruption my life, He-Who-Is (YHWH) my God.
 
-In fainting over me my throat, He-Who-Is I remembered; 
+In fainting over me my throat, He-Who-Is (YHWH) I remembered; 
 and came to you my prayer, 
 to the temple of your holiness.
 
@@ -32,7 +32,7 @@ their steadfast-love they forsake.
 
 And I with a voice of thanksgiving, I will sacrifice to you; 
 what I have vowed I will pay; 
-salvation belongs to He-Who-Is.
+salvation belongs to He-Who-Is (YHWH).
 
-And He-Who-Is spoke to the fish, 
+And He-Who-Is (YHWH) spoke to the fish, 
 and he vomited Dove (Jonah) to the dry-ground.

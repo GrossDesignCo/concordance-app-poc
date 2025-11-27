@@ -33,8 +33,8 @@ export const genesis_4_9: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -286,10 +286,10 @@ export const genesis_4_9: Verse = {
     transliteration:
       'vayYomer YHWH el-Qayin ay Hevel achikha vayYomer lo yadati haShomer achi anokhi',
     englishLiteral:
-      'And-he-said He_Who_Is to Acquired (Cain), "Where? Vapor (Abel), your-brother?" And-he-said, "Not I-knew, keeper-of my-brother I?"',
+      'And-he-said He_Who_Is (YHWH) to Acquired (Cain), "Where? Vapor (Abel), your-brother?" And-he-said, "Not I-knew, keeper-of my-brother I?"',
     englishNatural:
-      'And He-Who-Is said to Acquired (Cain), "Where? Vapor (Abel), your brother?" And he said, "I knew not, Am I keeper of my brother?"',
+      'And He-Who-Is (YHWH) said to Acquired (Cain), "Where? Vapor (Abel), your brother?" And he said, "I knew not, Am I keeper of my brother?"',
     kjv: "And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother's keeper?",
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+  },
 };

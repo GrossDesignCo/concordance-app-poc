@@ -1,5 +1,5 @@
 
-And-the-snake was shrewd, from-all living_being-of the-field, which made, He_Who_Is Gods. 
+And-the-snake was shrewd, from-all living_being-of the-field, which made, He_Who_Is (YHWH) Gods. 
 And-said, to the-woman, "Is_it_so, that said Gods, 'Not you-shall-eat from-all tree the-garden'?"
 
 And-said, the-woman, to, the-snake, "from-fruit-of tree the-garden, we-eat."
@@ -14,10 +14,10 @@ And-saw the-woman that good the-tree for-food, and-that desirable- it to-the-eye
 
 And-opened-were eyes-of two-of-them, and-knew that naked they; and-sewed leaf-of fig, and-made to-them girdings.
 
-And-heard ↳ voice He_Who_Is Gods, walking in-Garden to-wind the-day; 
-and-hid the-Earth (Adam) and-his-woman, from-face-of He_Who_Is Gods, in-midst-of tree the-garden.
+And-heard ↳ voice He_Who_Is (YHWH) Gods, walking in-Garden to-wind the-day; 
+and-hid the-Earth (Adam) and-his-woman, from-face-of He_Who_Is (YHWH) Gods, in-midst-of tree the-garden.
 
-And-called_out He_Who_Is Gods to- the-Earth (Adam),
+And-called_out He_Who_Is (YHWH) Gods to- the-Earth (Adam),
 and-said to-him, "Where?"
 
 And-he-said, 
@@ -30,10 +30,10 @@ Is_it_from- the-tree, which I-command-you to-not eat- from-it, you-eat?"
 
 And-he-said the-Earth (Adam), "The-woman which you-gave with-me; she she-gave- to-me from- the-tree, and-I-ate."
 
-And-he-said He_Who_Is Gods to-the-woman, "What- this you-have-made?" 
+And-he-said He_Who_Is (YHWH) Gods to-the-woman, "What- this you-have-made?" 
 And-she-said, the-woman "The-snake, he-deceived-me, and-I-ate."
 
-And-he-said He_Who_Is Gods to- the-snake, 
+And-he-said He_Who_Is (YHWH) Gods to- the-snake, 
 "that you-made this,
 cursed you from-all beast 
 and-from-all living_being the-field; 
@@ -72,16 +72,16 @@ and-to dust you-will-return."
 
 And-he-called_out the-Earth (Adam) name woman-his Life (Eve); that she was Mother all Living.
 
-And-he-made He_Who_Is Gods to-Earth (Adam) and-to-woman-his; tunics skin and-he-clothed-them.
+And-he-made He_Who_Is (YHWH) Gods to-Earth (Adam) and-to-woman-his; tunics skin and-he-clothed-them.
 
-And-he-said He_Who_Is Gods, 
+And-he-said He_Who_Is (YHWH) Gods, 
 "Behold, the-Earth (Adam) has-become as-one 
 from-us to-know good and-bad; 
 and-now —or-else he-will-send hand-his 
 and-take also from-tree the-lives 
 and-eat and-live to-the_age—
 
-And-he-sent-him He_Who_Is Gods from-Garden Delight (Eden); 
+And-he-sent-him He_Who_Is (YHWH) Gods from-Garden Delight (Eden); 
 to-serve ↳ the-earth which was-taken from-there.
 
 And-he-banished ↳ the-Earth (Adam); 

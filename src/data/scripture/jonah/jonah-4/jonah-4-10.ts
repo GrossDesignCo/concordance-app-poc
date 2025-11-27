@@ -36,8 +36,8 @@ export const jonah_4_10: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -349,10 +349,10 @@ export const jonah_4_10: Verse = {
     transliteration:
       'vaYomer YHWH atah chasta al-haQiqayon asher lo-amalta bo veLo giddalto shebin-laylah hayah uvin-laylah avad',
     englishLiteral:
-      'And-said He_Who_Is, "you pitied over- the-luscious_plant, which not- you-labored in-it and-not you-grew-it, yet-son-of- night was and-son-of- night perished.',
+      'And-said He_Who_Is (YHWH), "you pitied over- the-luscious_plant, which not- you-labored in-it and-not you-grew-it, yet-son-of- night was and-son-of- night perished.',
     englishNatural:
-      'And He-Who-Is said, "You pitied over the luscious-plant, which you labored in it not, and you grew it not, yet son of a night it was and son of a night it perished.',
+      'And He-Who-Is (YHWH) said, "You pitied over the luscious-plant, which you labored in it not, and you grew it not, yet son of a night it was and son of a night it perished.',
     kjv: 'Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

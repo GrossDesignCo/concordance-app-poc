@@ -105,8 +105,8 @@ export const jonah_2_2: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 6,
@@ -255,10 +255,10 @@ export const jonah_2_2: Verse = {
     transliteration:
       'vaYomer qarati mitzarah li el-YHWH vaYaaneni mibeten sheol shivati shamata qoli',
     englishLiteral:
-      'And-said, "I-called_out from-distress to-me to- He_Who_Is, and-answered-me; from-belly-of Hades I-cried_out, you-heard voice-my.',
+      'And-said, "I-called_out from-distress to-me to- He_Who_Is (YHWH), and-answered-me; from-belly-of Hades I-cried_out, you-heard voice-my.',
     englishNatural:
-      'And he said, "I called-out from distress to me to He-Who-Is, and he answered me; from the belly of Hades I cried-out, you heard my voice.',
+      'And he said, "I called-out from distress to me to He-Who-Is (YHWH), and he answered me; from the belly of Hades I cried-out, you heard my voice.',
     kjv: 'And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

@@ -106,8 +106,8 @@ export const psalms_117_2: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 6,
@@ -181,9 +181,11 @@ export const psalms_117_2: Verse = {
   expectedTranslations: {
     hebrew: 'כִּי גָבַר עָלֵינוּ חַסְדּוֹ וֶאֱמֶת־יְהוָה לְעוֹלָם הַלְלוּ יָהּ',
     transliteration: 'ki gavar aleinu chasdo veEmet-YHWH leOlam halelu yah',
-    englishLiteral: 'That is-great toward-us, his-steadfast_love; and-truth-of He_Who_Is to-the_age, Praise He—.',
-    englishNatural: 'That great toward us, his steadfast-love; and truth of He-Who-Is to the-age, Praise He—.',
+    englishLiteral:
+      'That is-great toward-us, his-steadfast_love; and-truth-of He_Who_Is (YHWH) to-the_age, Praise He—.',
+    englishNatural:
+      'That great toward us, his steadfast-love; and truth of He-Who-Is (YHWH) to the-age, Praise He—.',
     kjv: 'For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-15' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

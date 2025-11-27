@@ -62,8 +62,8 @@ export const psalms_131_3: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 4,
@@ -132,9 +132,11 @@ export const psalms_131_3: Verse = {
   expectedTranslations: {
     hebrew: 'יַחֵל יִשְׂרָאֵל אֶל־יְהוָה מֵעַתָּה וְעַד־עוֹלָם',
     transliteration: 'yachel Yisrael el-YHWH meAtah veAd-olam',
-    englishLiteral: 'Hope, Struggles_with_God (Israel) to- He_Who_Is, from-now and-on_behalf_of- the_age.',
-    englishNatural: 'Hope, Struggles-with-God (Israel) to He-Who-Is, from now and on-behalf-of the-age.',
+    englishLiteral:
+      'Hope, Struggles_with_God (Israel) to- He_Who_Is (YHWH), from-now and-on_behalf_of- the_age.',
+    englishNatural:
+      'Hope, Struggles-with-God (Israel) to He-Who-Is (YHWH), from now and on-behalf-of the-age.',
     kjv: 'Let Israel hope in the LORD from henceforth and for ever.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-16' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

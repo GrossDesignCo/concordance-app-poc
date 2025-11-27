@@ -1,6 +1,6 @@
 And the Earth (Adam) knew Life (Eve) his woman,
 and she conceived and bore Acquired (Cain),
-and said, "I have acquired a man with He-Who-Is."
+and said, "I have acquired a man with He-Who-Is (YHWH)."
 
 And she added to her birthing, his brother Vapor (Abel).
 And Vapor (Abel) was a shepherd of flock,
@@ -8,16 +8,16 @@ and Acquired (Cain) was a servant of earth.
 
 And it was from the end of days;
 And Acquired (Cain) brought from the fruit of the earth,
-an offering to He-Who-Is.
+an offering to He-Who-Is (YHWH).
 
 And Vapor (Abel), he brought also, 
 from the firstborn of his flock, and from their fat;
-And He-Who-Is esteemed to Vapor (Abel), and to his offering.
+And He-Who-Is (YHWH) esteemed to Vapor (Abel), and to his offering.
 
 And to Acquired (Cain) and to his offering, no esteeming;
 And it was fuming-anger to Acquired (Cain) very-much, and his faces (eyes) fell.
 
-And He-Who-Is said to Acquired (Cain),
+And He-Who-Is (YHWH) said to Acquired (Cain),
 "Why is it fuming-anger to you, and why have your faces (eyes) fallen?
 
 And is there not, if you do-well, lifting-up?
@@ -29,7 +29,7 @@ and it was in their being in the field,
 and Acquired (Cain) stood-up to Vapor (Abel) his brother,
 and killed him.
 
-And He-Who-Is said to Acquired (Cain),
+And He-Who-Is (YHWH) said to Acquired (Cain),
 "Where? Vapor (Abel), your brother?"
 
 And he said, "I knew not, Am I keeper of my brother?"
@@ -42,20 +42,20 @@ When you serve the earth,
 it will add not, to give her strength to you;
 wandering and fugitive you will be in the land."
 
-And Acquired (Cain) said to He-Who-Is,
+And Acquired (Cain) said to He-Who-Is (YHWH),
 "Great is my twisting, from lifting-up.
 Behold, you have banished me this day, from over the face of the earth;
 and from your face I will be hidden;
 and I will be wandering and fugitive in the land;
 and it will be all finding me will kill me."
 
-And He-Who-Is said to him, 
+And He-Who-Is (YHWH) said to him, 
 "Not so, all killing Acquired (Cain),
 sevenfold it will be avenged."
-And He-Who-Is set for Acquired (Cain) a sign,
+And He-Who-Is (YHWH) set for Acquired (Cain) a sign,
 so that not all striking-down him on finding him.
 
-And Acquired (Cain) went out, from the presence of He-Who-Is;
+And Acquired (Cain) went out, from the presence of He-Who-Is (YHWH);
 and dwelt in the land of Wandering,
 east of Delight.
 
@@ -91,4 +91,4 @@ and Powerful (Lamech) seventy and seven."
 
 And Earth (Adam) knew his woman again; and she bore a son, and called-out his name "Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him."
 
-And to Appointed (Seth) also he was born a son; and he called-out his name Mortal (Enosh); then it began, to call-out in the name of He-Who-Is.
+And to Appointed (Seth) also he was born a son; and he called-out his name Mortal (Enosh); then it began, to call-out in the name of He-Who-Is (YHWH).

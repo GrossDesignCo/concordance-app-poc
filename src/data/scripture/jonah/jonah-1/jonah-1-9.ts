@@ -106,8 +106,8 @@ export const jonah_1_9: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 6,
@@ -300,10 +300,10 @@ export const jonah_1_9: Verse = {
     transliteration:
       'vaYomer aleihem ivri anokhi veEt-YHWH Elohei haShamayim ani yarei asher-asah et-haYam veEt-haYabashah',
     englishLiteral:
-      'And-said to-them, "Hebrew I; and-↳ He_Who_Is Gods-of the-skies I fear, which- made ↳ the-sea and-↳ the-dry_ground."',
+      'And-said to-them, "Hebrew I; and-↳ He_Who_Is (YHWH) Gods-of the-skies I fear, which- made ↳ the-sea and-↳ the-dry_ground."',
     englishNatural:
-      'And he said to them, "A Hebrew am I; and He-Who-Is God of the skies I fear, which made the sea and the dry-ground."',
+      'And he said to them, "A Hebrew am I; and He-Who-Is (YHWH) God of the skies I fear, which made the sea and the dry-ground."',
     kjv: 'And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which made the sea and the dry land.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

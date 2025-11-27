@@ -131,8 +131,8 @@ export const jonah_3_3: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 7,
@@ -302,10 +302,10 @@ export const jonah_3_3: Verse = {
     transliteration:
       'vaYaqam Yonah vaYelekh el-Nineveh kidvar YHWH veNineveh haytah ir-gedolah lElohim mahalakh shloshet yamim',
     englishLiteral:
-      'And-stood_up Dove (Jonah), and-went to- Dwelling_of_Fish (Nineveh), according-to-word-of He_Who_Is. And-Dwelling_of_Fish (Nineveh) was city- great to-Gods, journey-of three days.',
+      'And-stood_up Dove (Jonah), and-went to- Dwelling_of_Fish (Nineveh), according-to-word-of He_Who_Is (YHWH). And-Dwelling_of_Fish (Nineveh) was city- great to-Gods, journey-of three days.',
     englishNatural:
-      'And Dove (Jonah) stood-up, and went to Dwelling-of-Fish (Nineveh), according to the word of He-Who-Is. And Dwelling-of-Fish (Nineveh) was a city great to God, a journey of three days.',
+      'And Dove (Jonah) stood-up, and went to Dwelling-of-Fish (Nineveh), according to the word of He-Who-Is (YHWH). And Dwelling-of-Fish (Nineveh) was a city great to God, a journey of three days.',
     kjv: "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days' journey.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

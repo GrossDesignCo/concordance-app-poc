@@ -33,8 +33,8 @@ export const genesis_2_21: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -259,9 +259,9 @@ export const genesis_2_21: Verse = {
     transliteration:
       'vaYapel YHWH Elohim tardemah al haAdam vaYishan vaYikach achat miTzalotav vaYisgor basar tachtennah',
     englishLiteral:
-      'And-caused-to-fall He_Who_Is Gods deep_trance over the-Earth (Adam), and-he-slept; and-he-took one from-his-sides, and-closed-up flesh under-it.',
+      'And-caused-to-fall He_Who_Is (YHWH) Gods deep_trance over the-Earth (Adam), and-he-slept; and-he-took one from-his-sides, and-closed-up flesh under-it.',
     englishNatural:
-      'And He-Who-Is God caused a deep-trance to fall over the Earth (Adam), and he slept; and he took one from his sides, and closed up flesh under it.',
+      'And He-Who-Is (YHWH) God caused a deep-trance to fall over the Earth (Adam), and he slept; and he took one from his sides, and closed up flesh under it.',
     kjv: 'And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },

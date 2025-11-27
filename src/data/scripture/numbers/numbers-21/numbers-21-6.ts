@@ -24,7 +24,7 @@ export const numbers_21_6: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'piel',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -36,8 +36,8 @@ export const numbers_21_6: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -46,7 +46,7 @@ export const numbers_21_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -69,7 +69,7 @@ export const numbers_21_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'preposition'
+        type: 'preposition',
       },
       grammarSuffix: {
         englishNatural: ',',
@@ -86,7 +86,7 @@ export const numbers_21_6: Verse = {
         english: 0, // Direct object marker not translated
       },
       morphology: {
-        type: 'particle'
+        type: 'particle',
       },
     },
     {
@@ -104,7 +104,7 @@ export const numbers_21_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -126,7 +126,7 @@ export const numbers_21_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -151,7 +151,7 @@ export const numbers_21_6: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'piel',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -165,7 +165,7 @@ export const numbers_21_6: Verse = {
         english: 0, // Direct object marker not translated
       },
       morphology: {
-        type: 'particle'
+        type: 'particle',
       },
     },
     {
@@ -182,7 +182,7 @@ export const numbers_21_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -206,7 +206,7 @@ export const numbers_21_6: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -230,7 +230,7 @@ export const numbers_21_6: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -249,7 +249,7 @@ export const numbers_21_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'adjective'
+        type: 'adjective',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -269,7 +269,7 @@ export const numbers_21_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'preposition'
+        type: 'preposition',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -285,10 +285,10 @@ export const numbers_21_6: Verse = {
     transliteration:
       'vaYeshalach YHWH baAm et haNechashim haSeraphim vaYeNashkhu et haAm vaYamat am rav miYisrael',
     englishLiteral:
-      'And-sent, He_Who_Is, among-the-people ↳ the-snakes, the-burning_ones, and-they-struck ↳ the-people, and-died, people, many, from-Struggles_with_God (Israel).',
+      'And-sent, He_Who_Is (YHWH), among-the-people ↳ the-snakes, the-burning_ones, and-they-struck ↳ the-people, and-died, people, many, from-Struggles_with_God (Israel).',
     englishNatural:
-      'And He-Who-Is sent the snakes, the burning-ones, among the people, and they struck the people; and many people of Struggles-with-God (Israel) died.',
+      'And He-Who-Is (YHWH) sent the snakes, the burning-ones, among the people, and they struck the people; and many people of Struggles-with-God (Israel) died.',
     kjv: 'And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

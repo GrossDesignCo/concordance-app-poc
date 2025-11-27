@@ -179,8 +179,8 @@ export const jonah_2_9: Verse = {
     {
       hebrew: 'לַיהוָה',
       transliteration: 'laYHWH',
-      englishLiteral: 'to-He_Who_Is',
-      englishNatural: 'belongs to He-Who-Is',
+      englishLiteral: 'to-He_Who_Is (YHWH)',
+      englishNatural: 'belongs to He-Who-Is (YHWH)',
       root: 'hayah',
       prefixes: ['la'],
       order: {
@@ -203,10 +203,10 @@ export const jonah_2_9: Verse = {
     transliteration:
       'vaAni beqol todah ezbechah-lakh asher nadarti ashalemah yeshuatah laYHWH',
     englishLiteral:
-      'And-I with-voice-of thanksgiving, I-will-sacrifice- to-you; which I-vowed I-will-complete; salvation to-He_Who_Is.',
+      'And-I with-voice-of thanksgiving, I-will-sacrifice- to-you; which I-vowed I-will-complete; salvation to-He_Who_Is (YHWH).',
     englishNatural:
-      'And I with a voice of thanksgiving, I will sacrifice to you; what I have vowed I will pay; salvation belongs to He-Who-Is.',
+      'And I with a voice of thanksgiving, I will sacrifice to you; what I have vowed I will pay; salvation belongs to He-Who-Is (YHWH).',
     kjv: 'But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

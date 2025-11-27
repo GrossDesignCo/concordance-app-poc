@@ -74,8 +74,8 @@ export const genesis_4_16: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 4,
@@ -190,10 +190,10 @@ export const genesis_4_16: Verse = {
     transliteration:
       'vayYetze Qayin miliPhney YHWH vayYeshev beEretz-Nod qidmat-Eden',
     englishLiteral:
-      'And-he-went-out Acquired (Cain), from-face-of He_Who_Is; and-he-dwelt in-land- Wandering, east- Delight.',
+      'And-he-went-out Acquired (Cain), from-face-of He_Who_Is (YHWH); and-he-dwelt in-land- Wandering, east- Delight.',
     englishNatural:
-      'Acquired (Cain) went out, from the presence of He-Who-Is; and dwelt in the land of Wandering, east of Delight.',
+      'Acquired (Cain) went out, from the presence of He-Who-Is (YHWH); and dwelt in the land of Wandering, east of Delight.',
     kjv: 'And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+  },
 };

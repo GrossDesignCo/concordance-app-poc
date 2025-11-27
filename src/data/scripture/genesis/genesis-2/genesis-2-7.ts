@@ -33,8 +33,8 @@ export const genesis_2_7: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -312,9 +312,9 @@ export const genesis_2_7: Verse = {
     transliteration:
       'vaYiytzer YHWH Elohim et-haAdam afar min-haAdamah vaYipach beAppav nishmat chayyim vaYehi haAdam leNefesh chayyah',
     englishLiteral:
-      'And-formed He_Who_Is Gods ↳ the-Earth (Adam) dust from- the-earth; and-blew in-his-nostrils breath-of lives, and-was the-Earth (Adam) to-throat living.',
+      'And-formed He_Who_Is (YHWH) Gods ↳ the-Earth (Adam) dust from- the-earth; and-blew in-his-nostrils breath-of lives, and-was the-Earth (Adam) to-throat living.',
     englishNatural:
-      'And He-Who-Is God formed the Earth (Adam), dust from the earth; and blew into his nostrils the breath of life, and the Earth (Adam) was a living throat.',
+      'And He-Who-Is (YHWH) God formed the Earth (Adam), dust from the earth; and blew into his nostrils the breath of life, and the Earth (Adam) was a living throat.',
     kjv: 'And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },

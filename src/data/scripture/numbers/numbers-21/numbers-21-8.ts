@@ -24,14 +24,14 @@ export const numbers_21_8: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -40,7 +40,7 @@ export const numbers_21_8: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -54,7 +54,7 @@ export const numbers_21_8: Verse = {
         english: 3,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -70,7 +70,7 @@ export const numbers_21_8: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -91,7 +91,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarPrefix: {
         englishLiteral: '"',
@@ -114,7 +114,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '2nd',
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -131,7 +131,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -153,7 +153,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -171,7 +171,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '3rd',
-        type: 'pronoun'
+        type: 'pronoun',
       },
     },
     {
@@ -199,7 +199,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -223,7 +223,7 @@ export const numbers_21_8: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -244,7 +244,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
-        type: 'adjective'
+        type: 'adjective',
       },
     },
     {
@@ -262,7 +262,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -286,7 +286,7 @@ export const numbers_21_8: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -304,7 +304,7 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         person: '3rd',
-        type: 'pronoun'
+        type: 'pronoun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -328,7 +328,7 @@ export const numbers_21_8: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: '."',
@@ -346,10 +346,10 @@ export const numbers_21_8: Verse = {
     transliteration:
       'vaYomer YHWH el Moshe aseh lekha saraph veSim oto al nes veHayah kol haNashukh veRaah oto vaChai',
     englishLiteral:
-      'And-said He_Who_Is to Draws_Out (Moses), "Make for-yourself burning_one, and-place it over standard, and-it-will-be, all the-struck, and-sees it, and-lives."',
+      'And-said He_Who_Is (YHWH) to Draws_Out (Moses), "Make for-yourself burning_one, and-place it over standard, and-it-will-be, all the-struck, and-sees it, and-lives."',
     englishNatural:
-      'And He-Who-Is said to Draws-Out (Moses), "Make for yourself a burning-one, and place it over a standard; and it shall come about, everyone who is struck, and sees it, will live."',
+      'And He-Who-Is (YHWH) said to Draws-Out (Moses), "Make for yourself a burning-one, and place it over a standard; and it shall come about, everyone who is struck, and sees it, will live."',
     kjv: 'And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

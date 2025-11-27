@@ -9,10 +9,10 @@ In the five to the month,
 it-was the year the fifth
 to the exile of the king He-Establishes (Jehoiachin).
 
-The word of He-Who-Is was being to God-Strengthens (Ezekiel) 
+The word of He-Who-Is (YHWH) was being to God-Strengthens (Ezekiel) 
 son of Contempt (Buzi), the priest,
 in the land of Chaldeans upon river of Ancient (Kebar),
-and it was upon him there hand of He-Who-Is.
+and it was upon him there hand of He-Who-Is (YHWH).
 
 And I saw and behold a wind storm coming from the north,
 a great cloud, and fire flashing,
@@ -123,6 +123,6 @@ and brightness to him all-around.
 
 Like the appearance of the bow which is in the cloud in the day of rain,
 so the appearance of the brightness all-around;
-that the appearance of the likeness of the glory of He-Who-Is.
+that the appearance of the likeness of the glory of He-Who-Is (YHWH).
 And I saw and I fell over my face,
 and I heard a voice speaking.

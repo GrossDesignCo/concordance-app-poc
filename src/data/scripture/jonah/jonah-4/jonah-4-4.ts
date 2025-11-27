@@ -36,8 +36,8 @@ export const jonah_4_4: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -126,10 +126,10 @@ export const jonah_4_4: Verse = {
     hebrew: 'וַיֹּאמֶר יְהוָה הַהֵיטֵב חָרָה לָךְ',
     transliteration: 'vaYomer YHWH haHeitiv charah lakh',
     englishLiteral:
-      'And-said He_Who_Is, "the-doing_well, fuming_angrily, to-you?"',
+      'And-said He_Who_Is (YHWH), "the-doing_well, fuming_angrily, to-you?"',
     englishNatural:
-      'And He-Who-Is said, "Is fuming-angrily the doing-well, to you?"',
+      'And He-Who-Is (YHWH) said, "Is fuming-angrily the doing-well, to you?"',
     kjv: 'Then said the LORD, Doest thou well to be angry?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-19' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

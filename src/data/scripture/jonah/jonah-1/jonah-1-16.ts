@@ -102,8 +102,8 @@ export const jonah_1_16: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 6,
@@ -158,8 +158,8 @@ export const jonah_1_16: Verse = {
     {
       hebrew: 'לַיהוָה',
       transliteration: 'laYHWH',
-      englishLiteral: 'to-He_Who_Is',
-      englishNatural: 'to He-Who-Is',
+      englishLiteral: 'to-He_Who_Is (YHWH)',
+      englishNatural: 'to He-Who-Is (YHWH)',
       root: 'yhwh',
       prefixes: ['la'],
       order: {
@@ -221,10 +221,10 @@ export const jonah_1_16: Verse = {
     transliteration:
       'vaYireu haAnashim yirah gedolah et-YHWH vaYizbechu-zevach laYHWH vaYideru nedarim',
     englishLiteral:
-      'And-feared the-men fear great ↳ He_Who_Is; and-sacrificed- sacrifice to-He_Who_Is and-vowed vows.',
+      'And-feared the-men fear great ↳ He_Who_Is (YHWH); and-sacrificed- sacrifice to-He_Who_Is (YHWH) and-vowed vows.',
     englishNatural:
-      'And the men feared a great fear of He-Who-Is; and sacrificed a sacrifice to He-Who-Is and vowed vows.',
+      'And the men feared a great fear of He-Who-Is (YHWH); and sacrificed a sacrifice to He-Who-Is (YHWH) and vowed vows.',
     kjv: 'Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

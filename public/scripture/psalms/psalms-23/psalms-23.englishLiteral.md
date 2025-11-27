@@ -1,4 +1,4 @@
-He_Who_Is, my-shepherd;
+He_Who_Is (YHWH), my-shepherd;
 not I-will-lack.
 
 in-pastures-of tender_shoot, he-causes-me-to-lie-down; 
@@ -17,4 +17,4 @@ you-anoint with-oil my-head,
 my-cup, overflowing.
 
 Only good and-steadfast_love they-will-pursue-me, all- days-of my-life;
-and-I-will-sit in-house-of He_Who_Is, to-length-of days. 
+and-I-will-sit in-house-of He_Who_Is (YHWH), to-length-of days. 

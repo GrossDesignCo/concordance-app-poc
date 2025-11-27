@@ -70,8 +70,8 @@ export const ezekiel_1_3: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 4,
@@ -321,8 +321,8 @@ export const ezekiel_1_3: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 19,
@@ -344,10 +344,10 @@ export const ezekiel_1_3: Verse = {
     transliteration:
       'hayo hayah devar-YHWH el-Yechezqel ben-Buzi haKohen beEretz Kasdim al-nehar-Kebar vatehi alav sham yad-YHWH',
     englishLiteral:
-      'Being was word-of- He_Who_Is to- God_Strengthens (Ezekiel) son-of- Contempt (Buzi), the-priest, in-land-of Chaldeans upon- river-of- Ancient (Kebar), and-it-was upon-him there hand-of- He_Who_Is.',
+      'Being was word-of- He_Who_Is (YHWH) to- God_Strengthens (Ezekiel) son-of- Contempt (Buzi), the-priest, in-land-of Chaldeans upon- river-of- Ancient (Kebar), and-it-was upon-him there hand-of- He_Who_Is (YHWH).',
     englishNatural:
-      'The word of He-Who-Is was being to God-Strengthens (Ezekiel) son of Contempt (Buzi), the priest, in the land of Chaldeans upon river of Ancient (Kebar), and it was upon him there hand of He-Who-Is.',
+      'The word of He-Who-Is (YHWH) was being to God-Strengthens (Ezekiel) son of Contempt (Buzi), the priest, in the land of Chaldeans upon river of Ancient (Kebar), and it was upon him there hand of He-Who-Is (YHWH).',
     kjv: 'The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

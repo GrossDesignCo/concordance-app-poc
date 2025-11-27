@@ -33,8 +33,8 @@ export const genesis_2_9: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -319,9 +319,9 @@ export const genesis_2_9: Verse = {
     transliteration:
       'vaYatzmach YHWH Elohim min-haAdamah kol-etz nechmad leMareh veTov leMaakhal veEtz haChayyim beTokh haGan veEtz haDaat tov vaRa',
     englishLiteral:
-      'And-grew He_Who_Is Gods from-the-earth all- tree coveted to-sight and-good to-food, and-tree the-lives in-midst the-garden, and-tree the-knowledge good and-bad.',
+      'And-grew He_Who_Is (YHWH) Gods from-the-earth all- tree coveted to-sight and-good to-food, and-tree the-lives in-midst the-garden, and-tree the-knowledge good and-bad.',
     englishNatural:
-      'And He-Who-Is God grew from the earth every tree coveted to the sight and good for food, and the Tree of Life in the midst of the garden, and the Tree of Knowledge of Good and Bad.',
+      'And He-Who-Is (YHWH) God grew from the earth every tree coveted to the sight and good for food, and the Tree of Life in the midst of the garden, and the Tree of Knowledge of Good and Bad.',
     kjv: 'And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },

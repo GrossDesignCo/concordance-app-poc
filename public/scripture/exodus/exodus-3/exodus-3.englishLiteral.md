@@ -6,7 +6,7 @@ And-said, "Thus you-will-say to-sons-of Struggles_with_God (Israel),
 
 And-said again Gods to- Draws_Out (Moses), 
 "Thus- you-will-say to- sons-of Struggles_with_God (Israel), 
-'He_Who_Is, Gods-of your-fathers, 
+'He_Who_Is (YHWH), Gods-of your-fathers, 
 Gods-of Father_of_Multitudes (Abraham), 
 Gods-of He_Laughs (Isaac), 
 and-Gods-of Heel_Grasper (Jacob), 

@@ -46,8 +46,8 @@ export const jonah_1_14: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 3,
@@ -104,8 +104,8 @@ export const jonah_1_14: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 6,
@@ -351,8 +351,8 @@ export const jonah_1_14: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 20,
@@ -433,10 +433,10 @@ export const jonah_1_14: Verse = {
     transliteration:
       'vaYiqreu el-YHWH vaYomeru anna YHWH al-na novdah beNefesh haIsh haZeh veAl-titten alenu dam naqi ki-atah YHWH kaAsher chafatzta asita',
     englishLiteral:
-      'And-called_out to- He_Who_Is and-said, "please He_Who_Is, not- please let-us-perish in-throat-of the-man the-this; and-not- give over-us blood innocent; that- you He_Who_Is, as-which you-delighted you-made.',
+      'And-called_out to- He_Who_Is (YHWH) and-said, "please He_Who_Is (YHWH), not- please let-us-perish in-throat-of the-man the-this; and-not- give over-us blood innocent; that- you He_Who_Is (YHWH), as-which you-delighted you-made.',
     englishNatural:
-      'And they called-out to He-Who-Is and said, "Please He-Who-Is, please let us perish not in the throat of the man the this; and give over us not innocent blood; that you He-Who-Is, as which you have delighted you have made.',
+      'And they called-out to He-Who-Is (YHWH) and said, "Please He-Who-Is (YHWH), please let us perish not in the throat of the man the this; and give over us not innocent blood; that you He-Who-Is (YHWH), as which you have delighted you have made.',
     kjv: "Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

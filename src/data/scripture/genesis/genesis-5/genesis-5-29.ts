@@ -277,8 +277,8 @@ export const genesis_5_29: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He-Who-Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He-Who-Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 15,
@@ -302,9 +302,9 @@ export const genesis_5_29: Verse = {
     transliteration:
       'vaYiqra et-shmo Noach leEmor zeh yeNachamenu miMaasenu uMeItzvon yadenu min-haAdamah asher errah YHWH',
     englishLiteral:
-      'And-called_out ↳ his-name "Rest (Noah)," to-say, "This will-comfort-us from-our-making and-from-pain our-hands, from the-earth which he-cursed He-Who-Is."',
+      'And-called_out ↳ his-name "Rest (Noah)," to-say, "This will-comfort-us from-our-making and-from-pain our-hands, from the-earth which he-cursed He-Who-Is (YHWH)."',
     englishNatural:
-      'And he called-out his name "Rest (Noah)," to say, "This will comfort us from our making and from the pain of our hands, from the earth which He-Who-Is cursed."',
+      'And he called-out his name "Rest (Noah)," to say, "This will comfort us from our making and from the pain of our hands, from the earth which He-Who-Is (YHWH) cursed."',
     kjv: 'And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },

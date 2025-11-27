@@ -64,8 +64,8 @@ export const genesis_4_13: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 4,
@@ -149,10 +149,10 @@ export const genesis_4_13: Verse = {
     hebrew: 'וַיֹּאמֶר קַיִן אֶל־יְהוָה גָּדוֹל עֲוֹנִי מִנְּשֹׂא',
     transliteration: 'vayYomer Qayin el-YHWH gadol avoni minso',
     englishLiteral:
-      'And-he-said Acquired (Cain) to He_Who_Is, "Great my-twisting, from-lifting_up.',
+      'And-he-said Acquired (Cain) to He_Who_Is (YHWH), "Great my-twisting, from-lifting_up.',
     englishNatural:
-      'Acquired (Cain) said to He-Who-Is, "Great is my twisting, from lifting-up.',
+      'Acquired (Cain) said to He-Who-Is (YHWH), "Great is my twisting, from lifting-up.',
     kjv: 'And Cain said unto the LORD, My punishment is greater than I can bear.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+  },
 };

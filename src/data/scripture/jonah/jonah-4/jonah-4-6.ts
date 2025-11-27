@@ -33,8 +33,8 @@ export const jonah_4_6: Verse = {
     {
       hebrew: 'יְהוָה־',
       transliteration: 'YHWH-',
-      englishLiteral: 'He_Who_Is-',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)-',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -386,10 +386,10 @@ export const jonah_4_6: Verse = {
     transliteration:
       'vaYeman YHWH-Elohim qiqayon vaYaal meAl leYonah lihyot tzel al-rosho lehatzil lo meRaato vaYismach Yonah al-haQiqayon simchah gedolah',
     englishLiteral:
-      'And-appointed He_Who_Is- Gods luscious_plant, and-went_up from-over to-Dove (Jonah), to-be shadow over- head-his, to-deliver to-him from-bad-his; and-rejoiced Dove (Jonah) over- the-luscious_plant joy great.',
+      'And-appointed He_Who_Is (YHWH)- Gods luscious_plant, and-went_up from-over to-Dove (Jonah), to-be shadow over- head-his, to-deliver to-him from-bad-his; and-rejoiced Dove (Jonah) over- the-luscious_plant joy great.',
     englishNatural:
-      'And He-Who-Is God appointed a luscious-plant, and made it go-up from over to Dove (Jonah), to be a shadow over his head, to deliver to him from his bad; and Dove (Jonah) rejoiced over the luscious-plant a great joy.',
+      'And He-Who-Is (YHWH) God appointed a luscious-plant, and made it go-up from over to Dove (Jonah), to be a shadow over his head, to deliver to him from his bad; and Dove (Jonah) rejoiced over the luscious-plant a great joy.',
     kjv: 'And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };

@@ -1,12 +1,12 @@
 
-And-was word-of He_Who_Is to- Dove (Jonah) second_time, to-say;
+And-was word-of He_Who_Is (YHWH) to- Dove (Jonah) second_time, to-say;
 
 "Stand_up, go to- Dwelling_of_Fish (Nineveh), the-city, the-great, 
 and-call_out to-her ↳ the-calling_out 
 which I speaking to-you.
 
 And-stood_up Dove (Jonah), and-went to- Dwelling_of_Fish (Nineveh), 
-according-to-word-of He_Who_Is.
+according-to-word-of He_Who_Is (YHWH).
 
 And-Dwelling_of_Fish (Nineveh) was city- great to-Gods, 
 journey-of three days.

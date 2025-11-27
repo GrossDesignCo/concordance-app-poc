@@ -1,10 +1,10 @@
 
-And-went_down He_Who_Is in-cloud, 
+And-went_down He_Who_Is (YHWH) in-cloud, 
 and-positioned-himself with-him there, 
-and-called_out in-name He_Who_Is.
+and-called_out in-name He_Who_Is (YHWH).
 
-And-passed-through He_Who_Is over- his-faces, 
-and-called_out, "He_Who_Is, He_Who_Is, God, compassionate, 
+And-passed-through He_Who_Is (YHWH) over- his-faces, 
+and-called_out, "He_Who_Is (YHWH), He_Who_Is (YHWH), God, compassionate, 
 and-gracious, long nostrils, 
 and-many- steadfast_love 
 and-truth.

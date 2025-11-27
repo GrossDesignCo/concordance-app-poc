@@ -1,4 +1,4 @@
-He-Who-Is, my shepherd;
+He-Who-Is (YHWH), my shepherd;
 I will lack not.
 
 in pastures of tender-shoot, he lies-me-down; 
@@ -17,4 +17,4 @@ you anoint with oil my head,
 my cup, overflowing.
 
 Only good and steadfast-love will pursue me, all the days of my life;
-and I will sit in the house of He-Who-Is, to the length of days. 
+and I will sit in the house of He-Who-Is (YHWH), to the length of days. 

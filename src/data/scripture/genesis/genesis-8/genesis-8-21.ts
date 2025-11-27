@@ -33,8 +33,8 @@ export const genesis_8_21: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
@@ -123,8 +123,8 @@ export const genesis_8_21: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'and He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'and He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 7,
@@ -593,9 +593,9 @@ export const genesis_8_21: Verse = {
     transliteration:
       'vayYarach YHWH et-reach haNichoach vayYomer YHWH el-libo lo-osif leQalel od et-haAdamah baAvur haAdam ki yetzer lev haAdam ra miNeurav veLo-osif od leHakot et-kol-chai kaAsher asiti',
     englishLiteral:
-      'And-winded He_Who_Is ↳ wind-of the-restful; and-said He_Who_Is to- his-heart, "not- I-will-add, to-curse again ↳ the-earth, in-passing_through-of the-Earth (Adam), for forming heart-of the-Earth (Adam), bad from-his-youth; and-not- I-will-add again to-strike ↳ all- living, as-which I-have-done.',
+      'And-winded He_Who_Is (YHWH) ↳ wind-of the-restful; and-said He_Who_Is (YHWH) to- his-heart, "not- I-will-add, to-curse again ↳ the-earth, in-passing_through-of the-Earth (Adam), for forming heart-of the-Earth (Adam), bad from-his-youth; and-not- I-will-add again to-strike ↳ all- living, as-which I-have-done.',
     englishNatural:
-      'And He-Who-Is winded the wind of the restful; and He-Who-Is said to his heart, "I will add not, to curse again the earth, in the passing-through of the Earth (Adam), for the forming of the heart of the Earth (Adam), bad from his youth; and I will add not again to strike all living, as which I have done.',
+      'And He-Who-Is (YHWH) winded the wind of the restful; and He-Who-Is (YHWH) said to his heart, "I will add not, to curse again the earth, in the passing-through of the Earth (Adam), for the forming of the heart of the Earth (Adam), bad from his youth; and I will add not again to strike all living, as which I have done.',
     kjv: "And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },

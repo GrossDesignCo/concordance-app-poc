@@ -1,5 +1,5 @@
 
-And the snake was shrewd, out of every living-being of the field, which He-Who-Is God had made. 
+And the snake was shrewd, out of every living-being of the field, which He-Who-Is (YHWH) God had made. 
 And he said to the woman, "Is-it-so, that God said 'You shall eat not from any tree of the garden'?"
 
 And the woman said to the snake, "From the fruit of the tree of the garden we may eat."
@@ -14,10 +14,10 @@ And the woman saw that the tree was good for food, and that it was desirable to 
 
 And the eyes of both of them were opened, and they knew that they were naked; and they sewed leaf of fig, and made for themselves girdings.
 
-And they heard the voice of He-Who-Is God, walking in Garden to the wind of the day; 
-and the Earth (Adam) and his woman hid, from the face of He-Who-Is God, in the midst of the tree of Garden.
+And they heard the voice of He-Who-Is (YHWH) God, walking in Garden to the wind of the day; 
+and the Earth (Adam) and his woman hid, from the face of He-Who-Is (YHWH) God, in the midst of the tree of Garden.
 
-And He-Who-Is God called-out to the Earth (Adam),
+And He-Who-Is (YHWH) God called-out to the Earth (Adam),
 and said to him, "Where are you?"
 
 And he said, 
@@ -30,10 +30,10 @@ Is it from the tree, which I command you not to eat from it, you eat?"
 
 And the Earth (Adam) said, "The woman which you gave with me; she gave to me from the tree, and I ate."
 
-And He-Who-Is God said to the woman, "What is this you have made?" 
+And He-Who-Is (YHWH) God said to the woman, "What is this you have made?" 
 And the woman said, "The snake, he deceived me, and I ate."
 
-And He-Who-Is God said to the snake, 
+And He-Who-Is (YHWH) God said to the snake, 
 "Because you have made this,
 cursed are you from all beast 
 and from all living-being of the field; 
@@ -72,16 +72,16 @@ and to dust you will return."
 
 And the Earth (Adam) called-out his woman's name Life (Eve); that she was Mother of all Living.
 
-And He-Who-Is God made to Earth (Adam) and to his woman; tunics of skin and clothed them.
+And He-Who-Is (YHWH) God made to Earth (Adam) and to his woman; tunics of skin and clothed them.
 
-And He-Who-Is God said, 
+And He-Who-Is (YHWH) God said, 
 "Behold, the Earth (Adam) has become as one 
 from us to know good and bad; 
 and now —or else he will send his hand 
 and take also from the Tree of Life 
 and eat and live to the-age—
 
-And He-Who-Is God sent him from Garden of Delight (Eden); 
+And He-Who-Is (YHWH) God sent him from Garden of Delight (Eden); 
 to serve the earth from there which he was taken.
 And he banished the Earth (Adam); 
 and he caused to dwell east of Garden of Delight (Eden) the Approaching-Ones; 

@@ -69,8 +69,8 @@ export const psalms_131_1: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 4,
@@ -159,7 +159,7 @@ export const psalms_131_1: Verse = {
       grammarSuffix: {
         englishNatural: ',',
       },
-      lineBreaksBefore:  {
+      lineBreaksBefore: {
         hebrew: 1,
       },
       lineBreaksAfter: {
@@ -205,7 +205,7 @@ export const psalms_131_1: Verse = {
       grammarSuffix: {
         englishLiteral: ',',
       },
-      lineBreaksBefore:  {
+      lineBreaksBefore: {
         english: 1,
       },
       lineBreaksAfter: {
@@ -321,11 +321,15 @@ export const psalms_131_1: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'שִׁיר הַמַּעֲלוֹת לְדָוִד יְהוָה לֹא־גָבַהּ לִבִּי וְלֹא־רָמוּ עֵינַי וְלֹא־הִלַּכְתִּי בִּגְדֹלוֹת וּבְנִפְלָאוֹת מִמֶּנִּי',
-    transliteration: 'shir haMaalot leDavid YHWH lo-gavah libi velo-ramu einai velo-hilakhti biGdolot uvNiFlaot mimeni',
-    englishLiteral: 'song the-overs. to-David. He_Who_Is, not- is-tall my-heart, and-not- are-high my-eyes, and-not- I-have-walked, in-greats and-in-wonders from-me.',
-    englishNatural: 'A Song of The Overs. To David. He-Who-Is, my heart is tall not, and my eyes are high not, and I have walked not, in greats and in wonders from me.',
+    hebrew:
+      'שִׁיר הַמַּעֲלוֹת לְדָוִד יְהוָה לֹא־גָבַהּ לִבִּי וְלֹא־רָמוּ עֵינַי וְלֹא־הִלַּכְתִּי בִּגְדֹלוֹת וּבְנִפְלָאוֹת מִמֶּנִּי',
+    transliteration:
+      'shir haMaalot leDavid YHWH lo-gavah libi velo-ramu einai velo-hilakhti biGdolot uvNiFlaot mimeni',
+    englishLiteral:
+      'song the-overs. to-David. He_Who_Is (YHWH), not- is-tall my-heart, and-not- are-high my-eyes, and-not- I-have-walked, in-greats and-in-wonders from-me.',
+    englishNatural:
+      'A Song of The Overs. To David. He-Who-Is (YHWH), my heart is tall not, and my eyes are high not, and I have walked not, in greats and in wonders from me.',
     kjv: 'A Song of degrees of David. LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-16' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

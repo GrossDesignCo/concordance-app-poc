@@ -24,7 +24,7 @@ export const genesis_3_13: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: {
         hebrew: 1,
@@ -33,15 +33,15 @@ export const genesis_3_13: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'And He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 2,
         english: 1,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: {
         english: 1,
@@ -61,7 +61,7 @@ export const genesis_3_13: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -79,7 +79,7 @@ export const genesis_3_13: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -97,7 +97,7 @@ export const genesis_3_13: Verse = {
         english: 5,
       },
       morphology: {
-        type: 'pronoun'
+        type: 'pronoun',
       },
       grammarPrefix: {
         englishLiteral: '"',
@@ -115,7 +115,7 @@ export const genesis_3_13: Verse = {
         english: 6,
       },
       morphology: {
-        type: 'pronoun'
+        type: 'pronoun',
       },
     },
     {
@@ -135,7 +135,7 @@ export const genesis_3_13: Verse = {
         person: '2nd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: '?"',
@@ -159,7 +159,7 @@ export const genesis_3_13: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -183,7 +183,7 @@ export const genesis_3_13: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: {
         english: 1,
@@ -203,7 +203,7 @@ export const genesis_3_13: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarPrefix: {
         englishLiteral: '"',
@@ -232,7 +232,7 @@ export const genesis_3_13: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'hiphil',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -256,7 +256,7 @@ export const genesis_3_13: Verse = {
         person: '1st',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: '."',
@@ -266,11 +266,15 @@ export const genesis_3_13: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיֹּאמֶר יְהוָה אֱלֹהִים לָאִשָּׁה מַה־זֹּאת עָשִׂית וַתֹּאמֶר הָאִשָּׁה הַנָּחָשׁ הִשִּׁיאַנִי וָאֹכֵל',
-    transliteration: 'vaYomer YHWH Elohim laIshah mah-zot asit vatomer haIshah hanachash hishiani vaOkhel',
-    englishLiteral: 'And-he-said He_Who_Is Gods to-the-woman, "What- this you-have-made?" And-she-said, the-woman "The-snake, he-deceived-me, and-I-ate."',
-    englishNatural: 'And He-Who-Is God said to the woman, "What is this you have made?" And the woman said, "The snake, he deceived me, and I ate."',
+    hebrew:
+      'וַיֹּאמֶר יְהוָה אֱלֹהִים לָאִשָּׁה מַה־זֹּאת עָשִׂית וַתֹּאמֶר הָאִשָּׁה הַנָּחָשׁ הִשִּׁיאַנִי וָאֹכֵל',
+    transliteration:
+      'vaYomer YHWH Elohim laIshah mah-zot asit vatomer haIshah hanachash hishiani vaOkhel',
+    englishLiteral:
+      'And-he-said He_Who_Is (YHWH) Gods to-the-woman, "What- this you-have-made?" And-she-said, the-woman "The-snake, he-deceived-me, and-I-ate."',
+    englishNatural:
+      'And He-Who-Is (YHWH) God said to the woman, "What is this you have made?" And the woman said, "The snake, he deceived me, and I ate."',
     kjv: 'And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
-}; 
+};

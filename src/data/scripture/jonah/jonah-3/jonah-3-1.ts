@@ -53,8 +53,8 @@ export const jonah_3_1: Verse = {
     {
       hebrew: 'יְהוָה',
       transliteration: 'YHWH',
-      englishLiteral: 'He_Who_Is',
-      englishNatural: 'He-Who-Is',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
       order: {
         hebrew: 3,
@@ -141,10 +141,10 @@ export const jonah_3_1: Verse = {
     hebrew: 'וַיְהִי דְבַר־יְהוָה אֶל־יוֹנָה שֵׁנִית לֵאמֹר',
     transliteration: 'vaYehi devar-YHWH el-Yonah shenit lemor',
     englishLiteral:
-      'And-was word-of He_Who_Is to- Dove (Jonah) second_time, to-say;',
+      'And-was word-of He_Who_Is (YHWH) to- Dove (Jonah) second_time, to-say;',
     englishNatural:
-      'And the word of He-Who-Is was to Dove (Jonah) the second time, to say;',
+      'And the word of He-Who-Is (YHWH) was to Dove (Jonah) the second time, to say;',
     kjv: 'And the word of the LORD came unto Jonah the second time, saying,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
 };
