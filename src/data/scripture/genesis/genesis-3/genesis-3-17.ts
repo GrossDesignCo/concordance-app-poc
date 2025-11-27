@@ -107,8 +107,8 @@ export const genesis_3_17: Verse = {
     {
       hebrew: 'אִשְׁתֶּךָ',
       transliteration: 'ishtekha',
-      englishLiteral: 'wife-your',
-      englishNatural: 'of your wife',
+      englishLiteral: 'woman-your',
+      englishNatural: 'of your woman',
       root: 'ishah',
       suffixes: ['ekha'],
       order: {
@@ -456,9 +456,9 @@ export const genesis_3_17: Verse = {
     transliteration:
       'uleAdam amar ki-shmamta leQol ishtekha vaToAkhal min-haEtz asher tzivitikha lemor lo tokhal mimenu arurah haAdamah baavurekha beItzavon tokhlena kol yemey chayyekha',
     englishLiteral:
-      'And-to-Earth (Adam) he-said, "That you-listened to-voice wife-your, and-you-ate from the-tree, which I-commanded-you to-say, \'Not you-will-eat from-it\'; cursed the-earth in-passing_through-your; in-pain you-will-eat, all days-of lives-your;"',
+      'And-to-Earth (Adam) he-said, "That you-listened to-voice woman-your, and-you-ate from the-tree, which I-commanded-you to-say, \'Not you-will-eat from-it\'; cursed the-earth in-passing_through-your; in-pain you-will-eat, all days-of lives-your;"',
     englishNatural:
-      'And to Earth (Adam) he said, "That you listened to the voice of your wife, and you ate from the tree, which I commanded you saying, \'You will eat from it not\'; cursed is the earth in your passing-through; in pain you will eat, all the days of your life;"',
+      'And to Earth (Adam) he said, "That you listened to the voice of your woman, and you ate from the tree, which I commanded you saying, \'You will eat from it not\'; cursed is the earth in your passing-through; in pain you will eat, all the days of your life;"',
     kjv: 'And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life:',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },

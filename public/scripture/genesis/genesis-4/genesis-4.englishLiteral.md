@@ -1,4 +1,4 @@
-And-the-Earth (Adam) knew ↳ Living (Eve) his-woman,
+And-the-Earth (Adam) knew ↳ Life (Eve) his-woman,
 and-she-conceived and-she-bore ↳ Acquired (Cain),
 and-she-said, "I-have-acquired a-man ↳- He_Who_Is."
 

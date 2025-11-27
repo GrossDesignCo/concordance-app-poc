@@ -15,7 +15,7 @@ And the woman saw that the tree was good for food, and that it was desirable to 
 And the eyes of both of them were opened, and they knew that they were naked; and they sewed leaf of fig, and made for themselves girdings.
 
 And they heard the voice of He-Who-Is God, walking in Garden to the wind of the day; 
-and the Earth (Adam) and his wife hid, from the face of He-Who-Is God, in the midst of the tree of Garden.
+and the Earth (Adam) and his woman hid, from the face of He-Who-Is God, in the midst of the tree of Garden.
 
 And He-Who-Is God called-out to the Earth (Adam),
 and said to him, "Where are you?"
@@ -54,7 +54,7 @@ and to your man your fixation,
 and he will rule in you."
 
 And to Earth (Adam) he said, 
-"That you listened to the voice of your wife, 
+"That you listened to the voice of your woman, 
 and you ate from the tree, 
 which I commanded you saying, 'You will eat from it not'; 
 cursed is the earth in your passing-through; 
@@ -70,7 +70,7 @@ that from it you were taken,
 that dust are you, 
 and to dust you will return."
 
-And the Earth (Adam) called-out his wife's name Life-Giver (Eve); that she was Mother of all Living.
+And the Earth (Adam) called-out his woman's name Life (Eve); that she was Mother of all Living.
 
 And He-Who-Is God made to Earth (Adam) and to his woman; tunics of skin and clothed them.
 

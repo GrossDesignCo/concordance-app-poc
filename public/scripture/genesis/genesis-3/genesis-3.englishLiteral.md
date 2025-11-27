@@ -15,7 +15,7 @@ And-saw the-woman that good the-tree for-food, and-that desirable- it to-the-eye
 And-opened-were eyes-of two-of-them, and-knew that naked they; and-sewed leaf-of fig, and-made to-them girdings.
 
 And-heard ↳ voice He_Who_Is Gods, walking in-Garden to-wind the-day; 
-and-hid the-Earth (Adam) and-his-wife, from-face-of He_Who_Is Gods, in-midst-of tree the-garden.
+and-hid the-Earth (Adam) and-his-woman, from-face-of He_Who_Is Gods, in-midst-of tree the-garden.
 
 And-called_out He_Who_Is Gods to- the-Earth (Adam),
 and-said to-him, "Where?"
@@ -54,7 +54,7 @@ and-to man-your fixation-your,
 and-he he-will_rule in-you."
 
 And-to-Earth (Adam) he-said, 
-"That you-listened to-voice wife-your, 
+"That you-listened to-voice woman-your, 
 and-you-ate from the-tree, 
 which I-commanded-you to-say, 'Not you-will-eat from-it'; 
 cursed the-earth in-passing_through-your; 
@@ -70,7 +70,7 @@ that from-her you-were-taken,
 that dust you, 
 and-to dust you-will-return."
 
-And-he-called_out the-Earth (Adam) name wife-his Life_Giver (Eve); that she was Mother all Living.
+And-he-called_out the-Earth (Adam) name woman-his Life (Eve); that she was Mother all Living.
 
 And-he-made He_Who_Is Gods to-Earth (Adam) and-to-woman-his; tunics skin and-he-clothed-them.
 

@@ -1,4 +1,4 @@
-And the Earth (Adam) knew Living (Eve) his woman,
+And the Earth (Adam) knew Life (Eve) his woman,
 and she conceived and bore Acquired (Cain),
 and said, "I have acquired a man with He-Who-Is."
 

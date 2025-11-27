@@ -60,8 +60,8 @@ export const genesis_4_1: Verse = {
     {
       hebrew: 'חַוָּה',
       transliteration: 'Chavah',
-      englishLiteral: 'Living (Eve)',
-      englishNatural: 'Living (Eve)',
+      englishLiteral: 'Life (Eve)',
+      englishNatural: 'Life (Eve)',
       root: 'chavah',
       order: {
         hebrew: 4,
@@ -274,9 +274,9 @@ export const genesis_4_1: Verse = {
     transliteration:
       'veHaAdam yada et-Chavah ishto vatTahar vatTeled et-Qayin vatTomer qaniti ish et-YHWH',
     englishLiteral:
-      'And-the-Earth (Adam) knew ↳ Living (Eve) his-woman, and-she-conceived and-she-bore ↳ Acquired (Cain), and-she-said, "I-have-acquired a-man ↳- He_Who_Is."',
+      'And-the-Earth (Adam) knew ↳ Life (Eve) his-woman, and-she-conceived and-she-bore ↳ Acquired (Cain), and-she-said, "I-have-acquired a-man ↳- He_Who_Is."',
     englishNatural:
-      'And the Earth (Adam) knew Living (Eve) his woman, and she conceived and bore Acquired (Cain), and said, "I have acquired a man with He-Who-Is."',
+      'And the Earth (Adam) knew Life (Eve) his woman, and she conceived and bore Acquired (Cain), and said, "I have acquired a man with He-Who-Is."',
     kjv: 'And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.',
     lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
   },
