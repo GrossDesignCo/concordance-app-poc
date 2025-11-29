@@ -4,6 +4,12 @@ import {
   suffixes,
 } from '@/data/dictionary/hebrew';
 import { roots as greekRoots } from '@/data/dictionary/greek';
+import {
+  HEBREW_WORD_STATES,
+  HEBREW_WORD_STEMS,
+  HEBREW_WORD_TENSES,
+  HEBREW_WORD_TYPES,
+} from './data/constants';
 
 // Hebrew Dictionary
 export type HebrewRoot = keyof typeof hebrewRoots;
@@ -74,21 +80,7 @@ export type HebrewWordMorphology = {
    * The part of speech of the word
    * Hebrew has distinct grammatical categories with unique properties
    */
-  type?:
-    | 'noun'
-    | 'verb'
-    | 'adjective'
-    | 'adverb'
-    | 'pronoun'
-    | 'particle'
-    | 'preposition'
-    | 'conjunction'
-    | 'interjection'
-    | 'numeral'
-    | 'definite article'
-    | 'interrogative'
-    | 'demonstrative'
-    | 'relative';
+  type?: (typeof HEBREW_WORD_TYPES)[number]['type'];
 
   /**
    * Verbal tense/aspect
@@ -104,17 +96,7 @@ export type HebrewWordMorphology = {
    * - jussive: Indirect commands or wishes (3rd person)
    * - cohortative: Expression of will/intention (1st person)
    */
-  tense?:
-    | 'perfect'
-    | 'imperfect'
-    | 'sequential_perfect'
-    | 'sequential_imperfect'
-    | 'participle'
-    | 'infinitive_construct'
-    | 'infinitive_absolute'
-    | 'imperative'
-    | 'jussive'
-    | 'cohortative';
+  tense?: (typeof HEBREW_WORD_TENSES)[number]['tense'];
 
   /**
    * Verbal stem indicating type of action
@@ -137,25 +119,7 @@ export type HebrewWordMorphology = {
    * - tiphil: Rare causative stem
    * - hishtaphel: Rare reflexive stem
    */
-  stem?:
-    | 'qal'
-    | 'niphal'
-    | 'piel'
-    | 'pual'
-    | 'hiphil'
-    | 'hophal'
-    | 'hithpael'
-    | 'polel'
-    | 'polal'
-    | 'hithpolel'
-    | 'poel'
-    | 'poal'
-    | 'hithpoel'
-    | 'pilpel'
-    | 'polpal'
-    | 'hithpalpal'
-    | 'tiphil'
-    | 'hishtaphel';
+  stem?: (typeof HEBREW_WORD_STEMS)[number]['stem'];
 
   /**
    * Direction/volition indicators (primarily with verbs)
@@ -174,8 +138,8 @@ export type HebrewWordMorphology = {
    * - emphatic: Special emphasized form in some contexts
    * Note: This primarily applies to nouns and adjectives
    */
-  state?: 'construct' | 'absolute' | 'neither' | 'determined' | 'emphatic';
-}
+  state?: (typeof HEBREW_WORD_STATES)[number]['state'];
+};
 
 // Types for Greek morphology
 export type GreekWordMorphology = {
@@ -380,7 +344,7 @@ export type GreekWordMorphology = {
     | 'relative'
     | 'substantive'
     | 'indirect discourse';
-}
+};
 
 export type TranslationWord = {
   hebrew?: string;
@@ -410,13 +374,13 @@ export type TranslationWord = {
   // Grammatical elements like commas/periods
   grammarSuffix?: Grammar;
   grammarPrefix?: Grammar;
-}
+};
 
 export type VerseMeta = {
   book: string;
   chapter: number;
   verse: number;
-}
+};
 
 export type Verse = {
   meta: VerseMeta;
@@ -434,7 +398,7 @@ export type Verse = {
     greek?: string; // Following Greek syntax, should follow greek word order
     kjv?: string; // King James Version translation
   };
-}
+};
 
 // Either a consistent number or broken down by language
 export type LineBreak =
@@ -451,27 +415,27 @@ export type Grammar = {
   transliteration?: string;
   englishLiteral?: string;
   englishNatural?: string;
-}
+};
 
 export type ChapterMeta = {
   book: string;
   chapter: number;
-}
+};
 
 export type Chapter = {
   meta: ChapterMeta;
   verses: Verse[];
-}
+};
 
 export type BookMeta = {
   name: string;
   translationChain: string;
-}
+};
 
 export type Book = {
   meta: BookMeta;
   chapters: Chapter[];
-}
+};
 
 export type WordOrWordArray =
   | {
@@ -504,4 +468,4 @@ export type RootIndex = {
   books: {
     [root: string]: string[]; // book names
   };
-}
+};

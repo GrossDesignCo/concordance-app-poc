@@ -3627,7 +3627,6 @@ const ROOTS = {
     description: 'proper name, Jubal, meaning "music" or "stream"',
     related: ['Yaval'],
   },
-
   tafas: {
     hebrew: 'תָּפַשׂ',
     transliteration: 'tafas',
@@ -3639,10 +3638,10 @@ const ROOTS = {
   kinnor: {
     hebrew: 'כִּנּוֹר',
     transliteration: 'kinnor',
-    englishLiteral: 'lyre',
-    englishNatural: 'lyre',
+    englishLiteral: 'string',
+    englishNatural: 'string',
     type: 'noun',
-    description: 'lyre, harp (a stringed instrument)',
+    description: 'strings, harp (a stringed instrument)',
   },
   ugav: {
     hebrew: 'עוּגָב',
