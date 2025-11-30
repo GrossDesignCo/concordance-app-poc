@@ -2,10 +2,10 @@
   "key": "kinnor",
   "hebrew": "כִּנּוֹר",
   "transliteration": "kinnor",
-  "englishLiteral": "lyre",
-  "englishNatural": "lyre",
+  "englishLiteral": "string",
+  "englishNatural": "string",
   "type": "noun",
-  "description": "lyre, harp (a stringed instrument)",
+  "description": "strings, harp (a stringed instrument)",
   "wordIndexes": {
     "genesis": {
       "4": {

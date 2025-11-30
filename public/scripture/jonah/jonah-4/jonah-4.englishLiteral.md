@@ -4,7 +4,7 @@ and-fumed_angrily to-him.
 
 And-prayed to- He_Who_Is (YHWH) and-said, 
 "please He_Who_Is (YHWH), is-not- this word-my until- being-my over- earth-my? 
-over- so I-preceded to-flee Gold-Stone (Tarshish), 
+over- so I-preceded to-flee golden_stone (Tarshish), 
 that I-knew that- you God- gracious and-compassionate, 
 long nostrils and-great- steadfast_love 
 and-comforting over- the-bad.

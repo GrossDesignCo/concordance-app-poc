@@ -63,7 +63,7 @@ export const genesis_6_8: Verse = {
       transliteration: 'beEiney',
       englishLiteral: 'in-eyes-of',
       englishNatural: 'in the eyes of',
-      root: 'ayin',
+      root: 'ayin_eye',
       prefixes: ['be'],
       order: {
         hebrew: 4,
@@ -103,6 +103,6 @@ export const genesis_6_8: Verse = {
     englishNatural:
       'And Rest (Noah) found grace in the eyes of He-Who-Is (YHWH).',
     kjv: 'But Noah found grace in the eyes of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

@@ -108,7 +108,7 @@ export const ezekiel_1_22: Verse = {
       transliteration: 'keEin',
       englishLiteral: 'like-eye-of',
       englishNatural: 'like an eye of',
-      root: 'ayin',
+      root: 'ayin_eye',
       prefixes: ['ke'],
       order: {
         hebrew: 6,
@@ -243,6 +243,6 @@ export const ezekiel_1_22: Verse = {
     englishNatural:
       'And the likeness of a hammering-out, over the heads of the living-being, like an eye of The Crystal, The Fearsome, stretched-out over their heads from above.',
     kjv: 'And the likeness of the firmament upon the heads of the living creature was as the colour of the terrible crystal, stretched forth over their heads above.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

@@ -4,12 +4,12 @@ And the word of He-Who-Is (YHWH) was to Dove (Jonah) son of My-Truth, saying;
 "Stand-up, go to Dwelling-of-Fish (Nineveh), the city, the great; 
 and call-out over her, that their bad has come up before me."
 
-And Dove (Jonah) stood-up, to flee to Gold-Stone (Tarshish), 
+And Dove (Jonah) stood-up, to flee to golden-stone (Tarshish), 
 from the face of He-Who-Is (YHWH), 
 and went-down to Beautiful (Joppa); 
-and he found a ship going to Gold-Stone (Tarshish); 
+and he found a ship going to golden-stone (Tarshish); 
 and he paid the fare of it, 
-and went-down into it, to go with them to Gold-Stone (Tarshish), 
+and went-down into it, to go with them to golden-stone (Tarshish), 
 from the face of He-Who-Is (YHWH).
 
 And He-Who-Is (YHWH) hurled a great wind to the sea, 

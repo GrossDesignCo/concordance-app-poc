@@ -24,7 +24,7 @@ export const genesis_3_6: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: {
         hebrew: 1,
@@ -44,7 +44,7 @@ export const genesis_3_6: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: {
         english: 1,
@@ -61,7 +61,7 @@ export const genesis_3_6: Verse = {
         english: 3,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
     },
     {
@@ -77,7 +77,7 @@ export const genesis_3_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'adjective'
+        type: 'adjective',
       },
     },
     {
@@ -94,7 +94,7 @@ export const genesis_3_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -109,7 +109,7 @@ export const genesis_3_6: Verse = {
         english: 7,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -128,7 +128,7 @@ export const genesis_3_6: Verse = {
         english: 8,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
     },
     {
@@ -142,7 +142,7 @@ export const genesis_3_6: Verse = {
         english: 10,
       },
       morphology: {
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -156,7 +156,7 @@ export const genesis_3_6: Verse = {
         english: 9,
       },
       morphology: {
-        type: 'pronoun'
+        type: 'pronoun',
       },
     },
     {
@@ -164,7 +164,7 @@ export const genesis_3_6: Verse = {
       transliteration: 'laEynayim',
       englishLiteral: 'to-the-eyes',
       englishNatural: 'to the eyes',
-      root: 'ayin',
+      root: 'ayin_eye',
       prefixes: ['la'],
       order: {
         hebrew: 10,
@@ -173,7 +173,7 @@ export const genesis_3_6: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'dual',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -197,7 +197,7 @@ export const genesis_3_6: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'niphal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -214,7 +214,7 @@ export const genesis_3_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -231,7 +231,7 @@ export const genesis_3_6: Verse = {
       morphology: {
         type: 'verb',
         stem: 'hiphil',
-        tense: 'infinitive_construct'
+        tense: 'infinitive_construct',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -255,7 +255,7 @@ export const genesis_3_6: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -273,7 +273,7 @@ export const genesis_3_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -293,7 +293,7 @@ export const genesis_3_6: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -317,7 +317,7 @@ export const genesis_3_6: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -331,7 +331,7 @@ export const genesis_3_6: Verse = {
         english: 19,
       },
       morphology: {
-        type: 'adverb'
+        type: 'adverb',
       },
     },
     {
@@ -349,7 +349,7 @@ export const genesis_3_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -364,7 +364,7 @@ export const genesis_3_6: Verse = {
         english: 21,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -388,7 +388,7 @@ export const genesis_3_6: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -398,11 +398,15 @@ export const genesis_3_6: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַתֵּרֶא הָאִשָּׁה כִּי טוֹב הָעֵץ לְמַאֲכָל וְכִי תַאֲוָה־הוּא לָעֵינַיִם וְנֶחְמָד הָעֵץ לְהַשְׂכִּיל וַתִּקַּח מִפִּרְיוֹ וַתֹּאכַל וַתִּתֵּן גַּם־לְאִישָׁהּ עִמָּהּ וַיֹּאכַל׃',
-    transliteration: 'vatere haIshah ki tov haEtz leMaakhal veKi taavah-hu laEynayim veNechmad haEtz leHashkil vatiqach miPiryo vatokhal vatiten gam-leIshah imah vayokhal',
-    englishLiteral: 'And-saw the-woman that good the-tree for-food, and-that desirable- it to-the-eyes, and-coveted the-tree to-make-wise, and-took from-fruit-its and-ate, and-gave also- to-her-man with-her; and-ate.',
-    englishNatural: 'And the woman saw that the tree was good for food, and that it was desirable to the eyes, and coveted was the tree to make wise, and she took from its fruit and ate, and gave also to her man with her; and he ate.',
+    hebrew:
+      'וַתֵּרֶא הָאִשָּׁה כִּי טוֹב הָעֵץ לְמַאֲכָל וְכִי תַאֲוָה־הוּא לָעֵינַיִם וְנֶחְמָד הָעֵץ לְהַשְׂכִּיל וַתִּקַּח מִפִּרְיוֹ וַתֹּאכַל וַתִּתֵּן גַּם־לְאִישָׁהּ עִמָּהּ וַיֹּאכַל׃',
+    transliteration:
+      'vatere haIshah ki tov haEtz leMaakhal veKi taavah-hu laEynayim veNechmad haEtz leHashkil vatiqach miPiryo vatokhal vatiten gam-leIshah imah vayokhal',
+    englishLiteral:
+      'And-saw the-woman that good the-tree for-food, and-that desirable- it to-the-eyes, and-coveted the-tree to-make-wise, and-took from-fruit-its and-ate, and-gave also- to-her-man with-her; and-ate.',
+    englishNatural:
+      'And the woman saw that the tree was good for food, and that it was desirable to the eyes, and coveted was the tree to make wise, and she took from its fruit and ate, and gave also to her man with her; and he ate.',
     kjv: 'And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
-}; 
+};

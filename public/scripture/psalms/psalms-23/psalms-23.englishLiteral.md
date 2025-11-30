@@ -4,7 +4,7 @@ not I-will-lack.
 in-pastures-of tender_shoot, he-causes-me-to-lie-down; 
 over- water-of rest_place, he-leads-me.
 
-my-throat, he-restores; 
+my-throat, he-returns; 
 in-paths-of- righteousness, he-guides-me, 
 for-sake-of his-name.
 

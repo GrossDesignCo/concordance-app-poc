@@ -42,6 +42,10 @@ export const ezekiel_1_4: Verse = {
       morphology: {
         type: 'interjection',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'רוּחַ',
@@ -286,7 +290,7 @@ export const ezekiel_1_4: Verse = {
       transliteration: 'keEin',
       englishLiteral: 'like-eye-of',
       englishNatural: 'like an eye of',
-      root: 'ayin',
+      root: 'ayin_eye',
       prefixes: ['ke'],
       order: {
         hebrew: 16,
@@ -363,10 +367,10 @@ export const ezekiel_1_4: Verse = {
     transliteration:
       'vaEre veHineh ruach saarah baah min-haTzafon anan gadol veEsh mitlaqqachat veNogah lo saviv uMitokah keEin haChashmal mitokh haEsh',
     englishLiteral:
-      'And-I-saw and-behold wind storm coming from- the-north, cloud great, and-fire flashing, and-brightness to-it all_around, and-from-midst-its like-eye-of the-glowing_metal from-midst-of the-fire.',
+      'And-I-saw and-behold, wind storm coming from- the-north, cloud great, and-fire flashing, and-brightness to-it all_around, and-from-midst-its like-eye-of the-glowing_metal from-midst-of the-fire.',
     englishNatural:
-      'And I saw and behold a wind storm coming from the north, a great cloud, and fire flashing, and brightness to it all-around, and from its midst like an eye of the glowing-metal from the midst of the fire.',
+      'And I saw and behold, a wind storm coming from the north, a great cloud, and fire flashing, and brightness to it all-around, and from its midst like an eye of the glowing-metal from the midst of the fire.',
     kjv: 'And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

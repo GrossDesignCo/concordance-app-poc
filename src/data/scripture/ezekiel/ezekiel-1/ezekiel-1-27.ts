@@ -33,7 +33,7 @@ export const ezekiel_1_27: Verse = {
       transliteration: 'keEin',
       englishLiteral: 'like-eye-of',
       englishNatural: 'like an eye of',
-      root: 'ayin',
+      root: 'ayin_eye',
       prefixes: ['ke'],
       order: {
         hebrew: 2,
@@ -375,6 +375,6 @@ export const ezekiel_1_27: Verse = {
     englishNatural:
       'And I saw like an eye of glowing-metal, like an appearance of fire a house to all-around from the appearance of his loins and upward, and from the appearance of his loins and downward I saw like an appearance of fire, and brightness to him all-around.',
     kjv: 'And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

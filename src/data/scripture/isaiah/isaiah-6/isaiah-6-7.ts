@@ -201,6 +201,7 @@ export const isaiah_6_7: Verse = {
         stem: 'qal',
         type: 'verb',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'עֲוֹנֶךָ',
@@ -242,6 +243,7 @@ export const isaiah_6_7: Verse = {
         person: '2nd',
         type: 'noun',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'תְּכֻפָּר',
@@ -278,6 +280,6 @@ export const isaiah_6_7: Verse = {
     englishNatural:
       'And he touched it to my mouth, and he said, "Behold, this has touched over your lips; and turned-aside your twisting, and your sin will be covered."',
     kjv: 'And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

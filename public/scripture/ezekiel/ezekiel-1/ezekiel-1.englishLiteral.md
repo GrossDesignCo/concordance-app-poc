@@ -1,7 +1,7 @@
 
 And-it-was in-thirty year,
 in-the-fourth, in-the-five to-the-month,
-and-I in-midst-of- the-exile upon- river-of- Ancient (Kebar),
+and-I in-midst-of- the-exile upon- River-of- Ancient (Kebar),
 they-were-opened the-heavens,
 and-I-saw visions-of Gods.
 
@@ -11,10 +11,10 @@ to-exile-of the-king He_Establishes (Jehoiachin).
 
 Being was word-of- He_Who_Is (YHWH) to- God_Strengthens (Ezekiel) 
 son-of- Contempt (Buzi), the-priest,
-in-land-of Chaldeans upon- river-of- Ancient (Kebar),
-and-it-was upon-him there hand-of- He_Who_Is (YHWH).
+in-land-of Chaldeans over- River-of- Ancient (Kebar),
+and-it-was over-him there hand-of- He_Who_Is (YHWH).
 
-And-I-saw and-behold wind storm coming from- the-north,
+And-I-saw and-behold, wind storm coming from- the-north,
 cloud great, and-fire flashing,
 and-brightness to-it all_around,
 and-from-midst-its like-eye-of the-glowing_metal from-midst-of the-fire.
@@ -52,11 +52,11 @@ And-man to- side-of face-his they-went;
 to which it-was- there the-wind to-go they-went;
 not they-went-around in-going-their.
 
-And-likeness-of the-living_beings, appearance-their
-like-coals-of- fire burning,
+And-likeness-of the-living_beings, 
+appearance-their like-coals-of- fire burning,
 like-appearance-of the-torches she going between the-living_beings;
 and-brightness to-the-fire,
-and-from- the-fire positioning lightning.
+and-from- the-fire brought_out lightning.
 
 And-the-living-beings sprinting and-returning like-appearance-of the-flashing.
 
@@ -65,7 +65,7 @@ and-behold wheel one in-the-land,
 beside the-living-beings, to-four-of faces-his.
 
 appearance-of the-wheels and-work-their,
-like-eye-of gold-stone,
+like-eye-of golden_stone,
 and-likeness one to-four-of-them,
 and-appearance-their and-work-their
 like-which it-was the-wheel in-midst-of the-wheel.
@@ -80,10 +80,10 @@ and-rims-their full-of eyes all_around to-four-of-them.
 And-in-going-of the-living-beings, they-went the-wheels beside-them,
 and-in-being-lifted-of the-living-beings from-over the-land, they-were-lifted the-wheels.
 
-over which it-was- there, the-wind to-go, they-went,
+over which it-was- there, the-wind to-go they-went
 there, the-wind to-go,
 and-the-wheels they-were-lifted to-alongside-them,
-that wind-of the-living-being in-the-wheels.
+that wind-of the-living-being, in-the-wheels.
 
 In-going-their they-went,
 and-in-standing-their they-stood,
@@ -111,8 +111,8 @@ in-standing-their they-sank wings-their.
 
 And-from-over to-the-hammering_out which over- head-his
 like-appearance-of stone-of- sapphire likeness-of throne;
-and-over likeness-of the-throne likeness
-like-appearance-of Earth (Adam) over-him from-to-upward.
+and-over likeness-of the-throne 
+likeness like-appearance-of Earth (Adam), over-him from-to-upward.
 
 And-I-saw like-eye-of glowing_metal,
 like-appearance-of- fire house- to all_around

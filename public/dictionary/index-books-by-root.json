@@ -454,6 +454,7 @@
     "isaiah"
   ],
   "yatsa": [
+    "ezekiel",
     "genesis",
     "isaiah",
     "jonah"
@@ -773,10 +774,8 @@
     "genesis"
   ],
   "ayin": [
-    "ezekiel",
     "genesis",
-    "jonah",
-    "psalms"
+    "jonah"
   ],
   "ed": [
     "genesis"
@@ -1047,8 +1046,11 @@
     "isaiah"
   ],
   "ayin_eye": [
+    "ezekiel",
+    "genesis",
     "isaiah",
-    "jonah"
+    "jonah",
+    "psalms"
   ],
   "pi": [
     "isaiah"
@@ -2042,8 +2044,7 @@
     "ezekiel"
   ],
   "yatzav": [
-    "exodus",
-    "ezekiel"
+    "exodus"
   ],
   "rachum": [
     "exodus",

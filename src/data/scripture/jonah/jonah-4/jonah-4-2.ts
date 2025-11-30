@@ -304,8 +304,8 @@ export const jonah_4_2: Verse = {
     {
       hebrew: 'תַּרְשִׁישָׁה',
       transliteration: 'tarshishah',
-      englishLiteral: 'Gold-Stone (Tarshish)',
-      englishNatural: 'Gold-Stone (Tarshish)',
+      englishLiteral: 'golden_stone (Tarshish)',
+      englishNatural: 'golden-stone (Tarshish)',
       root: 'tarshish',
       suffixes: ['ah'],
       order: {
@@ -557,10 +557,10 @@ export const jonah_4_2: Verse = {
     transliteration:
       'vaYitpallel el-YHWH vaYomer anna YHWH halo-zeh devari ad-heyoti al-admati al-ken qidamti livroch tarshishah ki yadati ki-atah el-chanun veRachum erekh apayim veRav-chesed veNicham al-haRaah',
     englishLiteral:
-      'And-prayed to- He_Who_Is (YHWH) and-said, "please He_Who_Is (YHWH), is-not- this word-my until- being-my over- earth-my? over- so I-preceded to-flee Gold-Stone (Tarshish), that I-knew that- you God- gracious and-compassionate, long nostrils and-great- steadfast_love and-comforting over- the-bad.',
+      'And-prayed to- He_Who_Is (YHWH) and-said, "please He_Who_Is (YHWH), is-not- this word-my until- being-my over- earth-my? over- so I-preceded to-flee golden_stone (Tarshish), that I-knew that- you God- gracious and-compassionate, long nostrils and-great- steadfast_love and-comforting over- the-bad.',
     englishNatural:
-      'And he prayed to He-Who-Is (YHWH) and said, "Please He-Who-Is (YHWH), was not this my word until I was over my earth? So moreover I preceded to flee to Gold-Stone (Tarshish), that I knew that you are God gracious and compassionate, long of nostrils and great of steadfast-love and comforting over the bad.',
+      'And he prayed to He-Who-Is (YHWH) and said, "Please He-Who-Is (YHWH), was not this my word until I was over my earth? So moreover I preceded to flee to golden-stone (Tarshish), that I knew that you are God gracious and compassionate, long of nostrils and great of steadfast-love and comforting over the bad.',
     kjv: 'And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

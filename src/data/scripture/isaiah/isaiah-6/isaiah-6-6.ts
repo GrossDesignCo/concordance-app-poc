@@ -24,7 +24,7 @@ export const isaiah_6_6: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       lineBreaksBefore: 2,
     },
@@ -40,7 +40,7 @@ export const isaiah_6_6: Verse = {
         english: 2,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -56,7 +56,7 @@ export const isaiah_6_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'numeral'
+        type: 'numeral',
       },
     },
     {
@@ -70,7 +70,7 @@ export const isaiah_6_6: Verse = {
         english: 4,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -88,7 +88,7 @@ export const isaiah_6_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -107,8 +107,9 @@ export const isaiah_6_6: Verse = {
         gender: 'feminine',
         number: 'singular',
         person: '3rd',
-        type: 'noun'
+        type: 'noun',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'רִצְפָּה',
@@ -123,7 +124,7 @@ export const isaiah_6_6: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -140,7 +141,7 @@ export const isaiah_6_6: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'dual',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -159,7 +160,7 @@ export const isaiah_6_6: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -174,7 +175,7 @@ export const isaiah_6_6: Verse = {
         english: 10,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -191,20 +192,25 @@ export const isaiah_6_6: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '.',
         englishNatural: '.',
       },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיָּעָף אֵלַי אֶחָד מִן הַשְּׂרָפִים וּבְיָדוֹ רִצְפָּה בְּמֶלְקַחַיִם לָקַח מֵעַל הַמִּזְבֵּחַ',
-    transliteration: 'vaYaof elai echad min haSeraphim uVeYado ritzpah beMelkachayim lakach meAl haMizbeach',
-    englishLiteral: 'And-flew to-me one from the-burning_ones and-in-his-hand live_coal with-tongs he-took from-upon the-altar.',
-    englishNatural: 'And flew to me one from the burning-ones and in his hand a live-coal he had taken with tongs from upon the altar.',
+    hebrew:
+      'וַיָּעָף אֵלַי אֶחָד מִן הַשְּׂרָפִים וּבְיָדוֹ רִצְפָּה בְּמֶלְקַחַיִם לָקַח מֵעַל הַמִּזְבֵּחַ',
+    transliteration:
+      'vaYaof elai echad min haSeraphim uVeYado ritzpah beMelkachayim lakach meAl haMizbeach',
+    englishLiteral:
+      'And-flew to-me one from the-burning_ones and-in-his-hand live_coal with-tongs he-took from-upon the-altar.',
+    englishNatural:
+      'And flew to me one from the burning-ones and in his hand a live-coal he had taken with tongs from upon the altar.',
     kjv: 'Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-07' },
-},
-}; 
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+  },
+};

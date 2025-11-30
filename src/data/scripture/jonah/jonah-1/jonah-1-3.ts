@@ -75,8 +75,8 @@ export const jonah_1_3: Verse = {
     {
       hebrew: 'תַּרְשִׁישָׁה',
       transliteration: 'Tarshishah',
-      englishLiteral: 'Gold-Stone (Tarshish)',
-      englishNatural: 'Gold-Stone (Tarshish)',
+      englishLiteral: 'golden_stone (Tarshish)',
+      englishNatural: 'golden-stone (Tarshish)',
       root: 'tarshish',
       suffixes: ['ah'],
       order: {
@@ -226,8 +226,8 @@ export const jonah_1_3: Verse = {
     {
       hebrew: 'תַרְשִׁישׁ',
       transliteration: 'Tarshish',
-      englishLiteral: 'Gold-Stone (Tarshish)',
-      englishNatural: 'Gold-Stone (Tarshish)',
+      englishLiteral: 'golden_stone (Tarshish)',
+      englishNatural: 'golden-stone (Tarshish)',
       root: 'tarshish',
       order: {
         hebrew: 12,
@@ -359,8 +359,8 @@ export const jonah_1_3: Verse = {
     {
       hebrew: 'תַּרְשִׁישָׁה',
       transliteration: 'Tarshishah',
-      englishLiteral: 'Gold-Stone (Tarshish)',
-      englishNatural: 'Gold-Stone (Tarshish)',
+      englishLiteral: 'golden_stone (Tarshish)',
+      englishNatural: 'golden-stone (Tarshish)',
       root: 'tarshish',
       suffixes: ['ah'],
       order: {
@@ -419,10 +419,10 @@ export const jonah_1_3: Verse = {
     transliteration:
       'vaYaqam Yonah livroach Tarshishah millifney YHWH vaYered Yafo vaYimtza aniyah baah Tarshish vaYitten sekhorah vaYered bah lavo immahhem Tarshishah millifney YHWH',
     englishLiteral:
-      'And-stood_up Dove (Jonah), to-flee Gold-Stone (Tarshish), from-the-face-of He_Who_Is (YHWH), and-went_down Beautiful (Joppa); and-found ship going Gold-Stone (Tarshish); and-gave fare-her, and-went_down in-her, to-go with-them Gold-Stone (Tarshish), from-the-face-of He_Who_Is (YHWH).',
+      'And-stood_up Dove (Jonah), to-flee golden_stone (Tarshish), from-the-face-of He_Who_Is (YHWH), and-went_down Beautiful (Joppa); and-found ship going golden_stone (Tarshish); and-gave fare-her, and-went_down in-her, to-go with-them golden_stone (Tarshish), from-the-face-of He_Who_Is (YHWH).',
     englishNatural:
-      'And Dove (Jonah) stood-up, to flee to Gold-Stone (Tarshish), from the face of He-Who-Is (YHWH), and went-down to Beautiful (Joppa); and he found a ship going to Gold-Stone (Tarshish); and he paid the fare of it, and went-down into it, to go with them to Gold-Stone (Tarshish), from the face of He-Who-Is (YHWH).',
+      'And Dove (Jonah) stood-up, to flee to golden-stone (Tarshish), from the face of He-Who-Is (YHWH), and went-down to Beautiful (Joppa); and he found a ship going to golden-stone (Tarshish); and he paid the fare of it, and went-down into it, to go with them to golden-stone (Tarshish), from the face of He-Who-Is (YHWH).',
     kjv: 'But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

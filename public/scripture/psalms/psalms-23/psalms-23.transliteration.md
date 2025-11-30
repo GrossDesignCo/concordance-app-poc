@@ -4,9 +4,9 @@ lo echsar
 biNot deshe yaRbitzeini 
 al-mei menuchot yeNahaleni
 
-nafshi yeshobev 
+nafshi yeShobev 
 beMaglei-tzedeq yancheni 
-lemaan shemo
+leMaan shemo
 
 gam ki-elekh beGei tzalmavet lo-ira ra
 ki-atah imadi

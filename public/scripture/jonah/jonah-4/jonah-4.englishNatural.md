@@ -4,7 +4,7 @@ and it fumed angrily to him.
 
 And he prayed to He-Who-Is (YHWH) and said, 
 "Please He-Who-Is (YHWH), was not this my word until I was over my earth? 
-So moreover I preceded to flee to Gold-Stone (Tarshish), 
+So moreover I preceded to flee to golden-stone (Tarshish), 
 that I knew that you are God gracious and compassionate, 
 long of nostrils and great of steadfast-love 
 and comforting over the bad.

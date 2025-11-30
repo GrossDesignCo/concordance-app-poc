@@ -67,8 +67,8 @@ export const isaiah_6_5: Verse = {
     {
       hebrew: 'כִּי־',
       transliteration: 'ki-',
-      englishLiteral: 'for-',
-      englishNatural: 'for',
+      englishLiteral: 'that-',
+      englishNatural: 'that',
       root: 'ki',
       morphology: {
         type: 'conjunction',
@@ -105,8 +105,8 @@ export const isaiah_6_5: Verse = {
     {
       hebrew: 'כִּי',
       transliteration: 'ki',
-      englishLiteral: 'for',
-      englishNatural: 'for',
+      englishLiteral: 'that',
+      englishNatural: 'that',
       root: 'ki',
       morphology: {
         type: 'conjunction',
@@ -115,6 +115,7 @@ export const isaiah_6_5: Verse = {
         hebrew: 6,
         english: 6,
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אִישׁ',
@@ -210,6 +211,7 @@ export const isaiah_6_5: Verse = {
         hebrew: 11,
         english: 11,
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'עַם־',
@@ -306,8 +308,8 @@ export const isaiah_6_5: Verse = {
     {
       hebrew: 'כִּי',
       transliteration: 'ki',
-      englishLiteral: 'for',
-      englishNatural: 'for',
+      englishLiteral: 'that',
+      englishNatural: 'that',
       root: 'ki',
       morphology: {
         type: 'conjunction',
@@ -316,6 +318,7 @@ export const isaiah_6_5: Verse = {
         hebrew: 17,
         english: 17,
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אֶת־',
@@ -443,10 +446,10 @@ export const isaiah_6_5: Verse = {
     transliteration:
       'vaOmar oy-li ki-nidmeiti ki ish teme-sfatayim anokhi uVeTokh am-teme sfatayim anokhi yoshev ki et-haMelekh YHWH tsvaot rau einai',
     englishLiteral:
-      'And-I-said, "Woe- to-me for- I-am-silenced; for man unclean- lips, I, and-in-midst-of people- unclean lips I sit; for ↳ the-king, He_Who_Is (YHWH) of-Hosts have-seen my-eyes."',
+      'And-I-said, "Woe- to-me that- I-am-silenced; that man unclean- lips, I, and-in-midst-of people- unclean lips I sit; that ↳ the-king, He_Who_Is (YHWH) of-Hosts have-seen my-eyes."',
     englishNatural:
-      'And I said, "Woe to me for I am silenced; for I, a man of unclean lips, and in the midst of a people of unclean lips I sit; for my eyes have seen the King, He-Who-Is (YHWH) of Hosts."',
+      'And I said, "Woe to me that I am silenced; that I, a man of unclean lips, and in the midst of a people of unclean lips I sit; that my eyes have seen the King, He-Who-Is (YHWH) of Hosts."',
     kjv: 'Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the Lord of hosts.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

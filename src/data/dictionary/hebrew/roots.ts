@@ -3361,10 +3361,10 @@ const ROOTS = {
   netzav: {
     hebrew: 'נָצַב',
     transliteration: 'netzav',
-    englishLiteral: 'to stand',
-    englishNatural: 'to stand',
+    englishLiteral: 'to station',
+    englishNatural: 'to station',
     type: 'verb',
-    description: 'to stand, take a stand, be stationed',
+    description: 'to station, take a stand, to stand in an intentional place',
   },
   shaar: {
     hebrew: 'שַׁעַר',
@@ -4214,8 +4214,8 @@ const ROOTS = {
   tarshish: {
     hebrew: 'תרשיש',
     transliteration: 'tarshish',
-    englishLiteral: 'gold-stone',
-    englishNatural: 'gold-stone',
+    englishLiteral: 'golden_stone',
+    englishNatural: 'golden-stone',
     type: 'noun',
     description:
       'beryl, chrysolite, a precious golden-yellow or sea-green gemstone; also the name Tarshish, a distant port city (possibly in Spain) from which such stones may have come',

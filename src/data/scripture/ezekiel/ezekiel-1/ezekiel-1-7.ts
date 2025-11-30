@@ -179,7 +179,7 @@ export const ezekiel_1_7: Verse = {
       transliteration: 'keEin',
       englishLiteral: 'like-eye-of',
       englishNatural: 'like an eye of',
-      root: 'ayin',
+      root: 'ayin_eye',
       prefixes: ['ke'],
       order: {
         hebrew: 10,
@@ -247,6 +247,6 @@ export const ezekiel_1_7: Verse = {
     englishNatural:
       'And their legs were a leg straight, and the palm of their legs like the palm of the leg of a calf, and sparkling like an eye of polished bronze.',
     kjv: "And their feet were straight feet; and the sole of their feet was like the sole of a calf's foot: and they sparkled like the colour of burnished brass.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

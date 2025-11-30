@@ -1243,6 +1243,9 @@
     ]
   },
   "yatsa": {
+    "ezekiel": [
+      1
+    ],
     "genesis": [
       1,
       2,
@@ -2022,21 +2025,13 @@
     ]
   },
   "ayin": {
-    "ezekiel": [
-      1
-    ],
     "genesis": [
       2,
-      3,
       5,
-      6,
       7
     ],
     "jonah": [
       1
-    ],
-    "psalms": [
-      131
     ]
   },
   "ed": {
@@ -2591,11 +2586,21 @@
     ]
   },
   "ayin_eye": {
+    "ezekiel": [
+      1
+    ],
+    "genesis": [
+      3,
+      6
+    ],
     "isaiah": [
       6
     ],
     "jonah": [
       2
+    ],
+    "psalms": [
+      131
     ]
   },
   "pi": {
@@ -4475,9 +4480,6 @@
   "yatzav": {
     "exodus": [
       34
-    ],
-    "ezekiel": [
-      1
     ]
   },
   "rachum": {

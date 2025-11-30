@@ -25,7 +25,7 @@ export const genesis_3_7: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'niphal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishNatural: ',',
@@ -39,7 +39,7 @@ export const genesis_3_7: Verse = {
       transliteration: 'eyney',
       englishLiteral: 'eyes-of',
       englishNatural: 'And the eyes of',
-      root: 'ayin',
+      root: 'ayin_eye',
       order: {
         hebrew: 2,
         english: 1,
@@ -48,7 +48,7 @@ export const genesis_3_7: Verse = {
         gender: 'feminine',
         number: 'dual',
         state: 'construct',
-        type: 'noun'
+        type: 'noun',
       },
       lineBreaksBefore: {
         english: 1,
@@ -68,7 +68,7 @@ export const genesis_3_7: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'dual',
-        type: 'numeral'
+        type: 'numeral',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -92,7 +92,7 @@ export const genesis_3_7: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -106,7 +106,7 @@ export const genesis_3_7: Verse = {
         english: 5,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
     },
     {
@@ -123,7 +123,7 @@ export const genesis_3_7: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'adjective'
+        type: 'adjective',
       },
       grammarSuffix: {
         englishNatural: ';',
@@ -143,7 +143,7 @@ export const genesis_3_7: Verse = {
         gender: 'masculine',
         number: 'plural',
         person: '3rd',
-        type: 'pronoun'
+        type: 'pronoun',
       },
       grammarSuffix: {
         englishLiteral: ';',
@@ -167,7 +167,7 @@ export const genesis_3_7: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -184,7 +184,7 @@ export const genesis_3_7: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -200,7 +200,7 @@ export const genesis_3_7: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -225,7 +225,7 @@ export const genesis_3_7: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -240,7 +240,7 @@ export const genesis_3_7: Verse = {
         english: 12,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -256,7 +256,7 @@ export const genesis_3_7: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -266,11 +266,15 @@ export const genesis_3_7: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַתִּפָּקַחְנָה עֵינֵי שְׁנֵיהֶם וַיֵּדְעוּ כִּי עֵירֻמִּם הֵם וַיִּתְפְּרוּ עֲלֵה תְאֵנָה וַיַּעֲשׂוּ לָהֶם חֲגֹרֹת׃',
-    transliteration: 'vaTipakachnah eyney shneyhem vaYedu ki eyrumim hem vayItperu aleh teenah vaYaasu lahem chagorot',
-    englishLiteral: 'And-opened-were eyes-of two-of-them, and-knew that naked they; and-sewed leaf-of fig, and-made to-them girdings.',
-    englishNatural: 'And the eyes of both of them were opened, and they knew that they were naked; and they sewed leaf of fig, and made for themselves girdings.',
+    hebrew:
+      'וַתִּפָּקַחְנָה עֵינֵי שְׁנֵיהֶם וַיֵּדְעוּ כִּי עֵירֻמִּם הֵם וַיִּתְפְּרוּ עֲלֵה תְאֵנָה וַיַּעֲשׂוּ לָהֶם חֲגֹרֹת׃',
+    transliteration:
+      'vaTipakachnah eyney shneyhem vaYedu ki eyrumim hem vayItperu aleh teenah vaYaasu lahem chagorot',
+    englishLiteral:
+      'And-opened-were eyes-of two-of-them, and-knew that naked they; and-sewed leaf-of fig, and-made to-them girdings.',
+    englishNatural:
+      'And the eyes of both of them were opened, and they knew that they were naked; and they sewed leaf of fig, and made for themselves girdings.',
     kjv: 'And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
-}; 
+};

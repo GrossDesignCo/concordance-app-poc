@@ -32,9 +32,9 @@ export const psalms_23_3: Verse = {
     },
     {
       hebrew: 'יְשׁוֹבֵב',
-      transliteration: 'yeshobev',
-      englishLiteral: 'he-restores',
-      englishNatural: 'he restores',
+      transliteration: 'yeShobev',
+      englishLiteral: 'he-returns',
+      englishNatural: 'he returns',
       root: 'shuv',
       prefixes: ['ye'],
       order: {
@@ -121,7 +121,7 @@ export const psalms_23_3: Verse = {
     },
     {
       hebrew: 'לְמַעַן',
-      transliteration: 'lemaan',
+      transliteration: 'leMaan',
       englishLiteral: 'for-sake-of',
       englishNatural: 'for the sake of',
       root: 'maan',
@@ -161,10 +161,12 @@ export const psalms_23_3: Verse = {
   ],
   expectedTranslations: {
     hebrew: 'נַפְשִׁי יְשׁוֹבֵב בְּמַעְגְּלֵי־צֶדֶק יַנְחֵנִי לְמַעַן שְׁמוֹ',
-    transliteration: 'nafshi yeshobev beMaglei-tzedeq yancheni lemaan shemo',
-    englishLiteral: 'my-throat, he-restores; in-paths-of- righteousness, he-guides-me, for-sake-of his-name.',
-    englishNatural: 'my throat, he restores; in paths of righteousness, he guides me, for the sake of his name.',
-    kjv: 'He restoreth my soul: he leadeth me in the paths of righteousness for his name\'s sake.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-16' },
+    transliteration: 'nafshi yeShobev beMaglei-tzedeq yancheni leMaan shemo',
+    englishLiteral:
+      'my-throat, he-returns; in-paths-of- righteousness, he-guides-me, for-sake-of his-name.',
+    englishNatural:
+      'my throat, he returns; in paths of righteousness, he guides me, for the sake of his name.',
+    kjv: "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.",
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
-}; 
+};

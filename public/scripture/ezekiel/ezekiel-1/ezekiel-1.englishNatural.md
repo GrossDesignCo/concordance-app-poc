@@ -1,9 +1,9 @@
 
 And it was in year thirty,
 in the fourth, in the five to the month,
-and I in the midst of the exile upon river of Ancient (Kebar),
-the heavens
-were opened, and I saw visions of God.
+and I in the midst of the exile upon River of Ancient (Kebar),
+the heavens were opened,
+and I saw visions of God.
 
 In the five to the month,
 it-was the year the fifth
@@ -11,10 +11,10 @@ to the exile of the king He-Establishes (Jehoiachin).
 
 The word of He-Who-Is (YHWH) was being to God-Strengthens (Ezekiel) 
 son of Contempt (Buzi), the priest,
-in the land of Chaldeans upon river of Ancient (Kebar),
-and it was upon him there hand of He-Who-Is (YHWH).
+in the land of Chaldeans over River of Ancient (Kebar),
+and the hand of He-Who-Is (YHWH) was over him there.
 
-And I saw and behold a wind storm coming from the north,
+And I saw and behold, a wind storm coming from the north,
 a great cloud, and fire flashing,
 and brightness to it all-around,
 and from its midst like an eye of the glowing-metal from the midst of the fire.
@@ -49,14 +49,14 @@ two joining man to man,
 and two covering their bodies.
 
 And man to the side of his face they went;
-to which it was there the wind to go they went;
+to which the wind to go was there they went;
 they went-around not in their going.
 
-And the likeness of the living-beings, their appearance
-like coals of burning fire,
+And the likeness of the living-beings, 
+their appearance like coals of burning fire,
 like the appearance of The Torches she was going between the living-beings;
 and brightness to the fire,
-and from the fire positioned lightning.
+and from the fire brought-out lightning.
 
 And the living-beings sprinting and returning like the appearance of The Flashing.
 
@@ -65,10 +65,10 @@ and behold one wheel in the land,
 beside the living-beings, to four of his faces.
 
 The appearance of the wheels and their work,
-like an eye of gold-stone,
+like an eye of golden-stone,
 and one likeness to four of them,
 and their appearance and their work
-like which it was the wheel in the midst of the wheel.
+like which the wheel was in the midst of the wheel.
 
 Over four of their sides they went in their going;
 they went-around not in their going.
@@ -80,10 +80,10 @@ and their rims full of eyes all-around to four of them.
 And in the going of the living-beings, the wheels went beside them,
 and in the being-lifted of the living-beings from over the land, the wheels were lifted.
 
-Over which it was there, the wind to go, they went,
+Over which the wind to go was there, they went
 there, the wind to go,
 and the wheels were lifted alongside them,
-that the wind of the living-being in the wheels.
+that the wind of the living-being, in the wheels.
 
 In their going they went,
 and in their standing they stood,
@@ -111,8 +111,8 @@ in their standing they sank their wings.
 
 And from over the hammering-out which over his head
 like the appearance of a stone of sapphire the likeness of a throne;
-and over the likeness of the throne a likeness
-like the appearance of Earth (Adam) from upward over him.
+and over the likeness of the throne 
+a likeness like the appearance of Earth (Adam), from upward over him.
 
 And I saw like an eye of glowing-metal,
 like an appearance of fire a house to all-around

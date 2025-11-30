@@ -141,7 +141,7 @@ export const ezekiel_1_18: Verse = {
       transliteration: 'einayim',
       englishLiteral: 'eyes',
       englishNatural: 'eyes',
-      root: 'ayin',
+      root: 'ayin_eye',
       order: {
         hebrew: 8,
         english: 8,
@@ -200,6 +200,6 @@ export const ezekiel_1_18: Verse = {
     englishNatural:
       'And their rims and height to them, and fear to them, and their rims full of eyes all-around to four of them.',
     kjv: 'As for their rings, they were so high that they were dreadful; and their rings were full of eyes round about them four.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

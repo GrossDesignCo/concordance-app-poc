@@ -70,7 +70,7 @@ export const ezekiel_1_16: Verse = {
       transliteration: 'keEin',
       englishLiteral: 'like-eye-of',
       englishNatural: 'like an eye of',
-      root: 'ayin',
+      root: 'ayin_eye',
       prefixes: ['ke'],
       order: {
         hebrew: 4,
@@ -86,8 +86,8 @@ export const ezekiel_1_16: Verse = {
     {
       hebrew: 'תַּרְשִׁישׁ',
       transliteration: 'tarshish',
-      englishLiteral: 'gold-stone',
-      englishNatural: 'gold-stone',
+      englishLiteral: 'golden_stone',
+      englishNatural: 'golden-stone',
       root: 'tarshish',
       order: {
         hebrew: 5,
@@ -214,11 +214,11 @@ export const ezekiel_1_16: Verse = {
       hebrew: 'יִהְיֶה',
       transliteration: 'yihyeh',
       englishLiteral: 'it-was',
-      englishNatural: 'it was',
+      englishNatural: 'was',
       root: 'hayah',
       order: {
         hebrew: 12,
-        english: 12,
+        english: 13,
       },
       morphology: {
         gender: 'masculine',
@@ -238,7 +238,7 @@ export const ezekiel_1_16: Verse = {
       prefixes: ['ha'],
       order: {
         hebrew: 13,
-        english: 13,
+        english: 12,
       },
       morphology: {
         gender: 'masculine',
@@ -293,10 +293,10 @@ export const ezekiel_1_16: Verse = {
     transliteration:
       'marah haOphanim uMaaseihem keEin tarshish uDemut echad leArbatan uMareihem uMaaseihem kaAsher yihyeh haOphan betokh haOphan',
     englishLiteral:
-      'appearance-of the-wheels and-work-their, like-eye-of gold-stone, and-likeness one to-four-of-them, and-appearance-their and-work-their like-which it-was the-wheel in-midst-of the-wheel.',
+      'appearance-of the-wheels and-work-their, like-eye-of golden_stone, and-likeness one to-four-of-them, and-appearance-their and-work-their like-which it-was the-wheel in-midst-of the-wheel.',
     englishNatural:
-      'The appearance of the wheels and their work, like an eye of gold-stone, and one likeness to four of them, and their appearance and their work like which it was the wheel in the midst of the wheel.',
+      'The appearance of the wheels and their work, like an eye of golden-stone, and one likeness to four of them, and their appearance and their work like which the wheel was in the midst of the wheel.',
     kjv: 'The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-23' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

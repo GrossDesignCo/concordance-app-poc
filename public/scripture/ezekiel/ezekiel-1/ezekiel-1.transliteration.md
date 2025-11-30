@@ -52,8 +52,8 @@ veIsh el-ever panav yelekhu
 el asher yihyeh-shamah haRuach laLekhet yelekhu
 lo yisabbu beLekhtan
 
-uDemut haChayot mareihem
-keGachaley-esh boarot
+uDemut haChayot 
+mareihem keGachaley-esh boarot
 keMarah haLappidim hi mithalekhet beyn haChayot
 veNogah laEsh
 uMin-haEsh yotze baraq
@@ -111,8 +111,8 @@ beAmdam terapenah kanfeihen
 
 uMiMaal laRaqia asher al-rosham
 keMareeh even-sappir demut kisse
-veAl demut haKisse demut
-keMareeh Adam alav milMaalah
+veAl demut haKisse 
+demut keMareeh Adam alav milMaalah
 
 vaEre keEin chashmal
 keMareeh-esh beit-lah saviv

@@ -4,7 +4,7 @@ I will lack not.
 in pastures of tender-shoot, he lies-me-down; 
 over water of rest-place, he leads me.
 
-my throat, he restores; 
+my throat, he returns; 
 in paths of righteousness, he guides me, 
 for the sake of his name.
 

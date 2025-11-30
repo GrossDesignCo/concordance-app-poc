@@ -40,11 +40,11 @@ export const ezekiel_1_20: Verse = {
       hebrew: 'יִהְיֶה־',
       transliteration: 'yihyeh-',
       englishLiteral: 'it-was-',
-      englishNatural: 'it was',
+      englishNatural: 'was',
       root: 'hayah',
       order: {
         hebrew: 3,
-        english: 3,
+        english: 5,
       },
       morphology: {
         gender: 'masculine',
@@ -63,7 +63,7 @@ export const ezekiel_1_20: Verse = {
       root: 'sham',
       order: {
         hebrew: 4,
-        english: 4,
+        english: 6,
       },
       morphology: {
         type: 'adverb',
@@ -82,7 +82,7 @@ export const ezekiel_1_20: Verse = {
       prefixes: ['ha'],
       order: {
         hebrew: 5,
-        english: 5,
+        english: 3,
       },
       morphology: {
         gender: 'feminine',
@@ -99,15 +99,11 @@ export const ezekiel_1_20: Verse = {
       prefixes: ['la'],
       order: {
         hebrew: 6,
-        english: 6,
+        english: 4,
       },
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
-      },
-      grammarSuffix: {
-        englishLiteral: ',',
-        englishNatural: ',',
       },
     },
     {
@@ -127,10 +123,6 @@ export const ezekiel_1_20: Verse = {
         tense: 'imperfect',
         stem: 'qal',
         type: 'verb',
-      },
-      grammarSuffix: {
-        englishLiteral: ',',
-        englishNatural: ',',
       },
       lineBreaksAfter: 1,
     },
@@ -294,6 +286,10 @@ export const ezekiel_1_20: Verse = {
         number: 'singular',
         type: 'noun',
       },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
     },
     {
       hebrew: 'בָּאוֹפַנִּים',
@@ -324,10 +320,10 @@ export const ezekiel_1_20: Verse = {
     transliteration:
       'al asher yihyeh-sham haRuach laLekhet yelekhu shamah haRuach laLekhet veHaOphanim yinasu leUmatam ki ruach haChayah baOphanim',
     englishLiteral:
-      'over which it-was- there, the-wind to-go, they-went, there, the-wind to-go, and-the-wheels they-were-lifted to-alongside-them, that wind-of the-living-being in-the-wheels.',
+      'over which it-was- there, the-wind to-go they-went there, the-wind to-go, and-the-wheels they-were-lifted to-alongside-them, that wind-of the-living-being, in-the-wheels.',
     englishNatural:
-      'Over which it was there, the wind to go, they went, there, the wind to go, and the wheels were lifted alongside them, that the wind of the living-being in the wheels.',
+      'Over which the wind to go was there, they went there, the wind to go, and the wheels were lifted alongside them, that the wind of the living-being, in the wheels.',
     kjv: 'Whithersoever the spirit was to go, they went, thither was their spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

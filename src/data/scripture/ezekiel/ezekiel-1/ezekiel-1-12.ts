@@ -129,11 +129,11 @@ export const ezekiel_1_12: Verse = {
       hebrew: 'יִהְיֶה־',
       transliteration: 'yihyeh-',
       englishLiteral: 'it-was-',
-      englishNatural: 'it was',
+      englishNatural: 'was',
       root: 'hayah',
       order: {
         hebrew: 8,
-        english: 8,
+        english: 10,
       },
       morphology: {
         gender: 'masculine',
@@ -152,7 +152,7 @@ export const ezekiel_1_12: Verse = {
       root: 'shamah',
       order: {
         hebrew: 9,
-        english: 9,
+        english: 11,
       },
       morphology: {
         type: 'adverb',
@@ -167,7 +167,7 @@ export const ezekiel_1_12: Verse = {
       prefixes: ['ha'],
       order: {
         hebrew: 10,
-        english: 10,
+        english: 8,
       },
       morphology: {
         gender: 'feminine',
@@ -184,7 +184,7 @@ export const ezekiel_1_12: Verse = {
       prefixes: ['la'],
       order: {
         hebrew: 11,
-        english: 11,
+        english: 9,
       },
       morphology: {
         tense: 'infinitive_construct',
@@ -279,8 +279,8 @@ export const ezekiel_1_12: Verse = {
     englishLiteral:
       'And-man to- side-of face-his they-went; to which it-was- there the-wind to-go they-went; not they-went-around in-going-their.',
     englishNatural:
-      'And man to the side of his face they went; to which it was there the wind to go they went; they went-around not in their going.',
+      'And man to the side of his face they went; to which the wind to go was there they went; they went-around not in their going.',
     kjv: 'And they went every one straight forward: whither the spirit was to go, they went; and they turned not when they went.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

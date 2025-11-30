@@ -190,7 +190,7 @@ export const psalms_131_1: Verse = {
       transliteration: 'einai',
       englishLiteral: 'my-eyes',
       englishNatural: 'and my eyes',
-      root: 'ayin',
+      root: 'ayin_eye',
       suffixes: ['ai'],
       order: {
         hebrew: 10,
@@ -330,6 +330,6 @@ export const psalms_131_1: Verse = {
     englishNatural:
       'A Song of The Overs. To David. He-Who-Is (YHWH), my heart is tall not, and my eyes are high not, and I have walked not, in greats and in wonders from me.',
     kjv: 'A Song of degrees of David. LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

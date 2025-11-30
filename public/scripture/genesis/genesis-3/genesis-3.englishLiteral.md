@@ -79,7 +79,7 @@ And-he-said He_Who_Is (YHWH) Gods,
 from-us to-know good and-bad; 
 and-now —or-else he-will-send hand-his 
 and-take also from-tree the-lives 
-and-eat and-live to-the_age—
+and-eat and-live to-the_age—"
 
 And-he-sent-him He_Who_Is (YHWH) Gods from-Garden Delight (Eden); 
 to-serve ↳ the-earth which was-taken from-there.

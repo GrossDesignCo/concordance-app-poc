@@ -202,8 +202,8 @@ export const ezekiel_1_3: Verse = {
     {
       hebrew: 'עַל־',
       transliteration: 'al-',
-      englishLiteral: 'upon-',
-      englishNatural: 'upon',
+      englishLiteral: 'over-',
+      englishNatural: 'over',
       root: 'al',
       order: {
         hebrew: 12,
@@ -216,8 +216,8 @@ export const ezekiel_1_3: Verse = {
     {
       hebrew: 'נְהַר־',
       transliteration: 'nehar-',
-      englishLiteral: 'river-of-',
-      englishNatural: 'river of',
+      englishLiteral: 'River-of-',
+      englishNatural: 'River of',
       root: 'nahar',
       order: {
         hebrew: 13,
@@ -253,12 +253,12 @@ export const ezekiel_1_3: Verse = {
       hebrew: 'וַתְּהִי',
       transliteration: 'vatehi',
       englishLiteral: 'and-it-was',
-      englishNatural: 'and it was',
+      englishNatural: 'was',
       root: 'hayah',
       prefixes: ['va'],
       order: {
         hebrew: 15,
-        english: 15,
+        english: 17,
       },
       morphology: {
         gender: 'feminine',
@@ -272,13 +272,13 @@ export const ezekiel_1_3: Verse = {
     {
       hebrew: 'עָלָיו',
       transliteration: 'alav',
-      englishLiteral: 'upon-him',
-      englishNatural: 'upon him',
+      englishLiteral: 'over-him',
+      englishNatural: 'over him',
       root: 'al',
       suffixes: ['av'],
       order: {
         hebrew: 16,
-        english: 16,
+        english: 18,
       },
       morphology: {
         gender: 'masculine',
@@ -295,21 +295,27 @@ export const ezekiel_1_3: Verse = {
       root: 'sham',
       order: {
         hebrew: 17,
-        english: 17,
+        english: 19,
       },
       morphology: {
         type: 'adverb',
+      },
+      grammarSuffix: {
+        englishNatural: '.',
+      },
+      lineBreaksAfter: {
+        english: 1,
       },
     },
     {
       hebrew: 'יַד־',
       transliteration: 'yad-',
       englishLiteral: 'hand-of-',
-      englishNatural: 'hand of',
+      englishNatural: 'and the hand of',
       root: 'yad',
       order: {
         hebrew: 18,
-        english: 18,
+        english: 15,
       },
       morphology: {
         gender: 'feminine',
@@ -326,16 +332,17 @@ export const ezekiel_1_3: Verse = {
       root: 'yhwh',
       order: {
         hebrew: 19,
-        english: 19,
+        english: 16,
       },
       morphology: {
         type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: '.',
-        englishNatural: '.',
       },
-      lineBreaksAfter: 1,
+      lineBreaksAfter: {
+        hebrew: 1,
+      },
     },
   ],
   expectedTranslations: {
@@ -344,10 +351,10 @@ export const ezekiel_1_3: Verse = {
     transliteration:
       'hayo hayah devar-YHWH el-Yechezqel ben-Buzi haKohen beEretz Kasdim al-nehar-Kebar vatehi alav sham yad-YHWH',
     englishLiteral:
-      'Being was word-of- He_Who_Is (YHWH) to- God_Strengthens (Ezekiel) son-of- Contempt (Buzi), the-priest, in-land-of Chaldeans upon- river-of- Ancient (Kebar), and-it-was upon-him there hand-of- He_Who_Is (YHWH).',
+      'Being was word-of- He_Who_Is (YHWH) to- God_Strengthens (Ezekiel) son-of- Contempt (Buzi), the-priest, in-land-of Chaldeans over- River-of- Ancient (Kebar), and-it-was over-him there hand-of- He_Who_Is (YHWH).',
     englishNatural:
-      'The word of He-Who-Is (YHWH) was being to God-Strengthens (Ezekiel) son of Contempt (Buzi), the priest, in the land of Chaldeans upon river of Ancient (Kebar), and it was upon him there hand of He-Who-Is (YHWH).',
+      'The word of He-Who-Is (YHWH) was being to God-Strengthens (Ezekiel) son of Contempt (Buzi), the priest, in the land of Chaldeans over River of Ancient (Kebar), and the hand of He-Who-Is (YHWH) was over him there.',
     kjv: 'The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };

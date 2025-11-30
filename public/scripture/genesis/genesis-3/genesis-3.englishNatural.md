@@ -79,7 +79,7 @@ And He-Who-Is (YHWH) God said,
 from us to know good and bad; 
 and now —or else he will send his hand 
 and take also from the Tree of Life 
-and eat and live to the-age—
+and eat and live to the-age—"
 
 And He-Who-Is (YHWH) God sent him from Garden of Delight (Eden); 
 to serve the earth from there which he was taken.

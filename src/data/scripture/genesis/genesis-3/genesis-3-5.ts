@@ -18,7 +18,7 @@ export const genesis_3_5: Verse = {
         english: 1,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
       lineBreaksBefore: {
         hebrew: 1,
@@ -40,7 +40,7 @@ export const genesis_3_5: Verse = {
         person: '3rd',
         tense: 'participle',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishNatural: ',',
@@ -60,7 +60,7 @@ export const genesis_3_5: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -77,7 +77,7 @@ export const genesis_3_5: Verse = {
         english: 4,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
     },
     {
@@ -94,7 +94,7 @@ export const genesis_3_5: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -111,7 +111,7 @@ export const genesis_3_5: Verse = {
       morphology: {
         type: 'verb',
         stem: 'qal',
-        tense: 'infinitive_construct'
+        tense: 'infinitive_construct',
       },
     },
     {
@@ -127,7 +127,7 @@ export const genesis_3_5: Verse = {
         english: 7,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -152,7 +152,7 @@ export const genesis_3_5: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'niphal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishNatural: ';',
@@ -163,7 +163,7 @@ export const genesis_3_5: Verse = {
       transliteration: 'eyneychen',
       englishLiteral: 'your-eyes',
       englishNatural: 'and your eyes',
-      root: 'ayin',
+      root: 'ayin_eye',
       suffixes: ['chem'],
       order: {
         hebrew: 9,
@@ -172,11 +172,11 @@ export const genesis_3_5: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'dual',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ';',
-      },    
+      },
       lineBreaksBefore: {
         english: 1,
       },
@@ -199,7 +199,7 @@ export const genesis_3_5: Verse = {
         person: '2nd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -217,7 +217,7 @@ export const genesis_3_5: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'plural',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -242,7 +242,7 @@ export const genesis_3_5: Verse = {
         tense: 'participle',
         stem: 'qal',
         state: 'construct',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -258,7 +258,7 @@ export const genesis_3_5: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'adjective'
+        type: 'adjective',
       },
     },
     {
@@ -275,7 +275,7 @@ export const genesis_3_5: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'adjective'
+        type: 'adjective',
       },
       grammarSuffix: {
         englishLiteral: '."',
@@ -285,11 +285,15 @@ export const genesis_3_5: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'כִּי יֹדֵעַ אֱלֹהִים כִּי בְיוֹם אֲכָלְכֶם מִמֶּנּוּ וְנִפְקְחוּ עֵינֵיכֶם וִהְיִיתֶם כֵּאלֹהִים יֹדְעֵי טוֹב וָרָע׃',
-    transliteration: 'ki yodea Elohim ki beYom akhalchem mimenu veNifqechu eyneychen viHyiytem keElohim yodey tov vaRa',
-    englishLiteral: 'That knowing Gods, that in-day eating-you from-it, and-will-be-opened your-eyes; and-you_all-will-be as-Gods, knowing good and-bad."',
-    englishNatural: 'That God is knowing, that in the day of you eating from it, and your eyes will be opened; and you-all will be as God, knowing good and bad."',
+    hebrew:
+      'כִּי יֹדֵעַ אֱלֹהִים כִּי בְיוֹם אֲכָלְכֶם מִמֶּנּוּ וְנִפְקְחוּ עֵינֵיכֶם וִהְיִיתֶם כֵּאלֹהִים יֹדְעֵי טוֹב וָרָע׃',
+    transliteration:
+      'ki yodea Elohim ki beYom akhalchem mimenu veNifqechu eyneychen viHyiytem keElohim yodey tov vaRa',
+    englishLiteral:
+      'That knowing Gods, that in-day eating-you from-it, and-will-be-opened your-eyes; and-you_all-will-be as-Gods, knowing good and-bad."',
+    englishNatural:
+      'That God is knowing, that in the day of you eating from it, and your eyes will be opened; and you-all will be as God, knowing good and bad."',
     kjv: 'For God doth know that when ye eat thereof your eyes shall be opened, and ye shall be as gods, knowing good and evil.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
   },
 };
