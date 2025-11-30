@@ -16,7 +16,7 @@ export const ConcordanceModeControl = () => {
     <>
       {/* <span className="text-sm">{words}</span> */}
 
-      <Tooltip label="Concordance View">
+      <Tooltip label="Toggle Concordance View">
         <Button
           onClick={() => {
             setFilterVerses(!filterVerses);

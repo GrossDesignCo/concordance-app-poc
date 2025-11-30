@@ -18,6 +18,21 @@
   min-width: 2rem;
   outline: 2px solid transparent;
   outline-offset: 2px;
+  transform: scale(0);
+  animation: scale-in 0.33s ease forwards;
+}
+
+@keyframes scale-in {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+li > .ds-button {
+  animation-delay: calc(var(--index) * 0.05s);
 }
 
 .ds-button:hover {

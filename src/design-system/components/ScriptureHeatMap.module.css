@@ -30,11 +30,6 @@
   gap: 3px;
 }
 
-/* TODO: Safari issue, chapters don't properly use their intrinsic width when in a flex container */
-/* .chapter {
-  flex-basis: max-content;
-} */
-
 .chapterNumber {
   font-size: 0.65rem;
 }
@@ -46,6 +41,54 @@
   place-content: start;
   max-height: 40px;
   gap: 1px;
+}
+
+/* Explicity set the width of the verses container for each new column,
+to address Safari's issue with flex items not properly using their intrinsic width */
+.verses:has(.verse:nth-child(11)) {
+  min-width: calc(6px + 1px);
+}
+.verses:has(.verse:nth-child(21)) {
+  min-width: calc(9px + 2px);
+}
+.verses:has(.verse:nth-child(31)) {
+  min-width: calc(12px + 3px);
+}
+.verses:has(.verse:nth-child(41)) {
+  min-width: calc(15px + 4px);
+}
+.verses:has(.verse:nth-child(51)) {
+  min-width: calc(18px + 6px);
+}
+.verses:has(.verse:nth-child(61)) {
+  min-width: calc(21px + 7px);
+}
+.verses:has(.verse:nth-child(71)) {
+  min-width: calc(24px + 8px);
+}
+.verses:has(.verse:nth-child(81)) {
+  min-width: calc(27px + 9px);
+}
+.verses:has(.verse:nth-child(91)) {
+  min-width: calc(30px + 10px);
+}
+.verses:has(.verse:nth-child(101)) {
+  min-width: calc(33px + 11px);
+}
+.verses:has(.verse:nth-child(111)) {
+  min-width: calc(36px + 12px);
+}
+.verses:has(.verse:nth-child(121)) {
+  min-width: calc(39px + 13px);
+}
+.verses:has(.verse:nth-child(131)) {
+  min-width: calc(42px + 14px);
+}
+.verses:has(.verse:nth-child(141)) {
+  min-width: calc(45px + 15px);
+}
+.verses:has(.verse:nth-child(151)) {
+  min-width: calc(48px + 16px);
 }
 
 .verse {
