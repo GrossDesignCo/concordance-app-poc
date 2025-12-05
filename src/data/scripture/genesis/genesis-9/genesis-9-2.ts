@@ -1,0 +1,374 @@
+import { Verse } from '@/types';
+
+export const genesis_9_2: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 9,
+    verse: 2,
+  },
+  words: [
+    {
+      hebrew: 'וּמוֹרַאֲכֶם',
+      transliteration: 'uMorakhem',
+      englishLiteral: 'And-fear-your',
+      englishNatural: 'And your fear',
+      root: 'mora',
+      prefixes: ['u'],
+      suffixes: ['khem'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'וְחִתְּכֶם',
+      transliteration: 'veChitkhem',
+      englishLiteral: 'and-dread-your',
+      englishNatural: 'and your dread',
+      root: 'chittah',
+      prefixes: ['ve'],
+      suffixes: ['khem'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'יִהְיֶה',
+      transliteration: 'yihyeh',
+      englishLiteral: 'will-be',
+      englishNatural: 'will be',
+      root: 'hayah',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'עַל',
+      transliteration: 'al',
+      englishLiteral: 'over',
+      englishNatural: 'over',
+      root: 'al',
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'כָּל־',
+      transliteration: 'kol-',
+      englishLiteral: 'all-',
+      englishNatural: 'all',
+      root: 'kol',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'חַיַּת',
+      transliteration: 'chayat',
+      englishLiteral: 'living-of',
+      englishNatural: 'the living of',
+      root: 'chayah',
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָאָרֶץ',
+      transliteration: 'haAretz',
+      englishLiteral: 'the-land',
+      englishNatural: 'the land',
+      root: 'eretz',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְעַל',
+      transliteration: 'veAl',
+      englishLiteral: 'and-over',
+      englishNatural: 'and over',
+      root: 'al',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'כָּל־',
+      transliteration: 'kol-',
+      englishLiteral: 'all-',
+      englishNatural: 'all',
+      root: 'kol',
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'עוֹף',
+      transliteration: 'of',
+      englishLiteral: 'flyer-of',
+      englishNatural: 'the flyer of',
+      root: 'oph',
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַשָּׁמָיִם',
+      transliteration: 'haShamayim',
+      englishLiteral: 'the-skies',
+      englishNatural: 'the skies',
+      root: 'shamayim',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'dual',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'בְּכֹל',
+      transliteration: 'beKhol',
+      englishLiteral: 'in-all',
+      englishNatural: 'in all',
+      root: 'kol',
+      prefixes: ['be'],
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֲשֶׁר',
+      transliteration: 'asher',
+      englishLiteral: 'which',
+      englishNatural: 'which',
+      root: 'asher',
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        type: 'relative',
+      },
+    },
+    {
+      hebrew: 'תִּרְמֹשׂ',
+      transliteration: 'tirmos',
+      englishLiteral: 'it-creeps',
+      englishNatural: 'creeps',
+      root: 'ramas',
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'הָאֲדָמָה',
+      transliteration: 'haAdamah',
+      englishLiteral: 'the-soil',
+      englishNatural: 'the soil',
+      root: 'adamah',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וּבְכָל־',
+      transliteration: 'uVekhol-',
+      englishLiteral: 'and-in-all-',
+      englishNatural: 'and in all',
+      root: 'kol',
+      prefixes: ['u', 'be'],
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'דְּגֵי',
+      transliteration: 'degei',
+      englishLiteral: 'fish-of',
+      englishNatural: 'fish of',
+      root: 'dag',
+      suffixes: ['ey'],
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַיָּם',
+      transliteration: 'haYam',
+      englishLiteral: 'the-sea',
+      englishNatural: 'the sea',
+      root: 'yam',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 18,
+        english: 18,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'בְּיֶדְכֶם',
+      transliteration: 'beYedkhem',
+      englishLiteral: 'in-hand-your',
+      englishNatural: 'in your hand',
+      root: 'yad',
+      prefixes: ['be'],
+      suffixes: ['khem'],
+      order: {
+        hebrew: 19,
+        english: 19,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'נִתָּנוּ',
+      transliteration: 'nitanu',
+      englishLiteral: 'they-are-given',
+      englishNatural: 'they are given',
+      root: 'natan',
+      suffixes: ['u'],
+      order: {
+        hebrew: 20,
+        english: 20,
+      },
+      morphology: {
+        gender: 'common',
+        number: 'plural',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'niphal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וּמוֹרַאֲכֶם וְחִתְּכֶם יִהְיֶה עַל כָּל־חַיַּת הָאָרֶץ וְעַל כָּל־עוֹף הַשָּׁמָיִם בְּכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה וּבְכָל־דְּגֵי הַיָּם בְּיֶדְכֶם נִתָּנוּ',
+    transliteration:
+      'uMorakhem veChitkhem yihyeh al kol-chayat haAretz veAl kol-of haShamayim beKhol asher tirmos haAdamah uVekhol-degei haYam beYedkhem nitanu',
+    englishLiteral:
+      'And-fear-your and-dread-your will-be over all- living-of the-land and-over all- flyer-of the-skies, in-all which it-creeps the-soil and-in-all- fish-of the-sea; in-hand-your they-are-given.',
+    englishNatural:
+      'And your fear and your dread will be over all the living of the land and over all the flyer of the skies, in all which creeps the soil and in all fish of the sea; in your hand they are given.',
+    kjv: 'And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+},
+};

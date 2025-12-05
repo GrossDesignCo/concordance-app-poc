@@ -1,0 +1,349 @@
+import { Verse } from '@/types';
+
+export const genesis_9_10: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 9,
+    verse: 10,
+  },
+  words: [
+    {
+      hebrew: 'וְאֵת',
+      transliteration: 'veEt',
+      englishLiteral: 'and-↳',
+      englishNatural: 'and',
+      root: 'et',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'כָּל־',
+      transliteration: 'kol-',
+      englishLiteral: 'all-',
+      englishNatural: 'all',
+      root: 'kol',
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'נֶפֶשׁ',
+      transliteration: 'nefesh',
+      englishLiteral: 'wind-of',
+      englishNatural: 'the wind of',
+      root: 'nephesh',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַחַיָּה',
+      transliteration: 'haChayah',
+      englishLiteral: 'the-living_being',
+      englishNatural: 'the living-being',
+      root: 'chayah',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'adjective',
+      },
+    },
+    {
+      hebrew: 'אֲשֶׁר',
+      transliteration: 'asher',
+      englishLiteral: 'which',
+      englishNatural: 'which',
+      root: 'asher',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        type: 'relative',
+      },
+    },
+    {
+      hebrew: 'אִתְּכֶם',
+      transliteration: 'itkhem',
+      englishLiteral: 'with-you',
+      englishNatural: 'is with you',
+      root: 'et',
+      suffixes: ['khem'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '2nd',
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'בָּעוֹף',
+      transliteration: 'baOph',
+      englishLiteral: 'in-the-flyer',
+      englishNatural: 'in the flyer',
+      root: 'oph',
+      prefixes: ['ba'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'בַּבְּהֵמָה',
+      transliteration: 'baBehemah',
+      englishLiteral: 'in-the-beast',
+      englishNatural: 'in the beast',
+      root: 'behemah',
+      prefixes: ['ba'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וּבְכָל־',
+      transliteration: 'uvKhol-',
+      englishLiteral: 'and-in-all-',
+      englishNatural: 'and in all',
+      root: 'kol',
+      prefixes: ['u', 'be'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'חַיַּת',
+      transliteration: 'chayat',
+      englishLiteral: 'living_being-of',
+      englishNatural: 'the living-being of',
+      root: 'chayah',
+      suffixes: ['construct_t'],
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָאָרֶץ',
+      transliteration: 'haAretz',
+      englishLiteral: 'the-land',
+      englishNatural: 'the land',
+      root: 'eretz',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אִתְּכֶם',
+      transliteration: 'itkhem',
+      englishLiteral: 'with-you',
+      englishNatural: 'with you',
+      root: 'et',
+      suffixes: ['khem'],
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '2nd',
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'מִכֹּל',
+      transliteration: 'miKol',
+      englishLiteral: 'from-all',
+      englishNatural: 'from all',
+      root: 'kol',
+      prefixes: ['mi'],
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'יֹצְאֵי',
+      transliteration: 'yotzei',
+      englishLiteral: 'going-out-of',
+      englishNatural: 'the going-out of',
+      root: 'yatsa',
+      suffixes: ['ei'],
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'הַתֵּבָה',
+      transliteration: 'haTevah',
+      englishLiteral: 'the-ark',
+      englishNatural: 'the ark',
+      root: 'tevah',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'לְכֹל',
+      transliteration: 'leKhol',
+      englishLiteral: 'to-all',
+      englishNatural: 'to all',
+      root: 'kol',
+      prefixes: ['le'],
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'חַיַּת',
+      transliteration: 'chayat',
+      englishLiteral: 'living_being-of',
+      englishNatural: 'the living-being of',
+      root: 'chayah',
+      suffixes: ['construct_t'],
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָאָרֶץ',
+      transliteration: 'haAretz',
+      englishLiteral: 'the-land',
+      englishNatural: 'the land',
+      root: 'eretz',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 18,
+        english: 18,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וְאֵת כָּל־נֶפֶשׁ הַחַיָּה אֲשֶׁר אִתְּכֶם בָּעוֹף בַּבְּהֵמָה וּבְכָל־חַיַּת הָאָרֶץ אִתְּכֶם מִכֹּל יֹצְאֵי הַתֵּבָה לְכֹל חַיַּת הָאָרֶץ',
+    transliteration:
+      'veEt kol-nefesh haChayah asher itkhem baOph baBehemah uvKhol-chayat haAretz itkhem miKol yotzei haTevah leKhol chayat haAretz',
+    englishLiteral:
+      'and-↳ all- wind-of the-living_being which with-you; in-the-flyer, in-the-beast, and-in-all- living_being-of the-land with-you, from-all going-out-of the-ark, to-all living_being-of the-land;',
+    englishNatural:
+      'and all the wind of the living-being which is with you; in the flyer, in the beast, and in all the living-being of the land with you, from all the going-out of the ark, to all the living-being of the land;',
+    kjv: 'And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+},
+};

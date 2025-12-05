@@ -117,3 +117,9 @@ In these cases, a simple transliteration of the original Hebrew seems the most a
    - Like the English-Literal, the root word should be consistently translated, even in strange situations.
    - This is most important for verbs, nouns, and adjectives.
    - Smaller/connective/marker words are allowed more flexibility due to their variety of use and function, especially in the Hebrew.
+
+1. Include genderization in cases where it stands out to Hebrew readers.
+
+   - "the Garden, to serve her and to keep her" - Garden is grammatically masculine in Hebrew so this would raise eyebrows and is significant.
+   - "My bow has been given in the clouds" - Bow is grammatically feminine, so this would be standard verb-noun agreement, including genderization in all these cases would likely mean even more clunky English
+   - Ideally this should yield intuitive significance (or not) in the same/right places for native Hebrew and English readers

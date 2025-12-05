@@ -1,0 +1,197 @@
+import { Verse } from '@/types';
+
+export const genesis_9_9: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 9,
+    verse: 9,
+  },
+  words: [
+    {
+      hebrew: 'וַאֲנִי',
+      transliteration: 'vaAni',
+      englishLiteral: 'And-I',
+      englishNatural: 'And I',
+      root: 'ani',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'common',
+        number: 'singular',
+        person: '1st',
+        type: 'pronoun',
+      },
+      grammarPrefix: {
+        englishLiteral: '"',
+        englishNatural: '"',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'הִנְנִי',
+      transliteration: 'hineni',
+      englishLiteral: 'behold-me',
+      englishNatural: 'behold me',
+      root: 'hineh',
+      suffixes: ['ni'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        type: 'interjection',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'מֵקִים',
+      transliteration: 'meqim',
+      englishLiteral: 'causing-to-stand',
+      englishNatural: 'causing to stand',
+      root: 'qum',
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'participle',
+        stem: 'hiphil',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'בְּרִיתִי',
+      transliteration: 'beriti',
+      englishLiteral: 'my-covenant',
+      englishNatural: 'my covenant',
+      root: 'berit',
+      suffixes: ['i_possessive'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אִתְּכֶם',
+      transliteration: 'itkhem',
+      englishLiteral: 'with-you',
+      englishNatural: 'with you',
+      root: 'et',
+      suffixes: ['khem'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '2nd',
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְאֶת־',
+      transliteration: 'veEt-',
+      englishLiteral: 'and-↳',
+      englishNatural: 'and',
+      root: 'et',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        type: 'particle',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'זַרְעֲכֶם',
+      transliteration: 'zarkhem',
+      englishLiteral: 'your-seed',
+      englishNatural: 'your seed',
+      root: 'zera',
+      suffixes: ['khem'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אַחֲרֵיכֶם',
+      transliteration: 'acharekhem',
+      englishLiteral: 'after-you',
+      englishNatural: 'after you',
+      root: 'achar',
+      suffixes: ['khem'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַאֲנִי הִנְנִי מֵקִים אֶת־בְּרִיתִי אִתְּכֶם וְאֶת־זַרְעֲכֶם אַחֲרֵיכֶם',
+    transliteration:
+      'vaAni hineni meqim et-beriti itkhem veEt-zarkhem acharekhem',
+    englishLiteral:
+      '"And-I, behold-me, causing-to-stand, ↳ my-covenant with-you, and-↳ your-seed after-you;',
+    englishNatural:
+      '"And I, behold me, causing to stand, my covenant with you, and your seed after you;',
+    kjv: 'And I, behold, I establish my covenant with you, and with your seed after you;',
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+},
+};

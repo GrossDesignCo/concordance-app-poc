@@ -1,0 +1,21 @@
+{
+  "key": "shafakh",
+  "hebrew": "שָׁפַךְ",
+  "transliteration": "shafakh",
+  "englishLiteral": "pour",
+  "englishNatural": "pour",
+  "type": "verb",
+  "description": "to pour out, shed, spill; often used of blood",
+  "wordIndexes": {
+    "genesis": {
+      "9": {
+        "6": [
+          0,
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

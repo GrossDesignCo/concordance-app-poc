@@ -1,0 +1,20 @@
+{
+  "key": "chittah",
+  "hebrew": "חתה",
+  "transliteration": "chittah",
+  "englishLiteral": "dread",
+  "englishNatural": "dread",
+  "type": "noun",
+  "description": "dread, terror, fear, dismay",
+  "wordIndexes": {
+    "genesis": {
+      "9": {
+        "2": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

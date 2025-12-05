@@ -92,9 +92,9 @@ export const genesis_1_22: Verse = {
     },
     {
       hebrew: 'פְּר֣וּ',
-      transliteration: 'peRu',
-      englishLiteral: 'Be-fruitful',
-      englishNatural: 'Be fruitful',
+      transliteration: 'peru',
+      englishLiteral: 'Be_fruitful',
+      englishNatural: 'Be-fruitful',
       root: 'parah',
       order: {
         hebrew: 5,
@@ -265,11 +265,15 @@ export const genesis_1_22: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיְבָ֧רֶךְ אֹתָ֖ם אֱלֹהִ֑ים לֵאמֹ֕ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת־הַמַּ֙יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף יִ֥רֶב בָּאָֽרֶץ׃',
-    transliteration: 'vaYeVarekh otam Elohim leMor peRu uReVu uMilU et-haMayim baYamim veHaOf yiRev baAretz',
-    englishLiteral: 'And-blessed them Gods, saying, "Be-fruitful and-multiply and-fill ↳ the-waters in-the-seas, And-the-flyer let-multiply in-the-land."',
-    englishNatural: 'And God blessed them, saying, "Be fruitful and multiply and fill the waters in the seas, And let the flyer multiply in the land."',
+    hebrew:
+      'וַיְבָ֧רֶךְ אֹתָ֖ם אֱלֹהִ֑ים לֵאמֹ֕ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת־הַמַּ֙יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף יִ֥רֶב בָּאָֽרֶץ׃',
+    transliteration:
+      'vaYeVarekh otam Elohim leMor peru uReVu uMilU et-haMayim baYamim veHaOf yiRev baAretz',
+    englishLiteral:
+      'And-blessed them Gods, saying, "Be_fruitful and-multiply and-fill ↳ the-waters in-the-seas, And-the-flyer let-multiply in-the-land."',
+    englishNatural:
+      'And God blessed them, saying, "Be-fruitful and multiply and fill the waters in the seas, And let the flyer multiply in the land."',
     kjv: 'And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
   },
-}; 
+};

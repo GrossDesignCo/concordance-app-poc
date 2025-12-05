@@ -1,0 +1,23 @@
+{
+  "key": "mora",
+  "hebrew": "מורא",
+  "transliteration": "mora",
+  "englishLiteral": "fear",
+  "englishNatural": "fear",
+  "type": "noun",
+  "description": "fear, terror, awe, reverence",
+  "related": [
+    "yare"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "9": {
+        "2": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "karat",
+  "hebrew": "כָּרַת",
+  "transliteration": "karat",
+  "englishLiteral": "cut",
+  "englishNatural": "cut",
+  "type": "verb",
+  "description": "to cut, cut off, cut down; often used idiomatically for destruction",
+  "wordIndexes": {
+    "genesis": {
+      "9": {
+        "11": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

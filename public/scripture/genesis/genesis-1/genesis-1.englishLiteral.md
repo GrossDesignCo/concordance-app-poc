@@ -76,7 +76,7 @@ And-↳ all throat the-living the-crawling which swarmed the-waters, to-their-ki
 And-↳ all flyer wing to-its-kind, 
 And-saw Gods, that- good.
 
-And-blessed them Gods, saying, "Be-fruitful and-multiply and-fill ↳ the-waters in-the-seas, 
+And-blessed them Gods, saying, "Be_fruitful and-multiply and-fill ↳ the-waters in-the-seas, 
 And-the-flyer let-multiply in-the-land."
 
 And-was evening, 
@@ -98,7 +98,7 @@ in-image-of Gods, created him,
 male and-female, created them.
 
 And-blessed them Gods, 
-And-said to-them Gods, "Be-fruitful and-multiply and-fill ↳ the-land, 
+And-said to-them Gods, "Be_fruitful and-multiply and-fill ↳ the-land, 
 And-conquer and-subjugate in-fish-of the-sea, and-in-flyer-of the-skies, and-in-all living-being the-crawling over the-land."
 
 And-said Gods, "Behold, I-give to-you ↳ all herb seeding seed, which over face-of all the-land, 

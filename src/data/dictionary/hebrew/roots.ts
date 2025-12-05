@@ -377,6 +377,15 @@ const ROOTS = {
     description: 'that, that it is, that is, for, because',
     type: 'relative',
   },
+  karat: {
+    hebrew: 'כָּרַת',
+    transliteration: 'karat',
+    englishLiteral: 'cut',
+    englishNatural: 'cut',
+    type: 'verb',
+    description:
+      'to cut, cut off, cut down; often used idiomatically for destruction',
+  },
   lo: {
     hebrew: 'לֹא',
     transliteration: 'lo',
@@ -484,6 +493,14 @@ const ROOTS = {
     englishNatural: 'to send',
     type: 'verb',
   },
+  shafakh: {
+    hebrew: 'שָׁפַךְ',
+    transliteration: 'shafakh',
+    englishLiteral: 'pour',
+    englishNatural: 'pour',
+    type: 'verb',
+    description: 'to pour out, shed, spill; often used of blood',
+  },
   rav: {
     hebrew: 'רב',
     transliteration: 'rav',
@@ -559,6 +576,15 @@ const ROOTS = {
     englishLiteral: 'you',
     englishNatural: 'you',
     type: 'pronoun',
+    description: '2nd person masculine singular pronoun',
+  },
+  atem: {
+    hebrew: 'אַתֶּם',
+    transliteration: 'atem',
+    englishLiteral: 'you',
+    englishNatural: 'you',
+    type: 'pronoun',
+    description: '2nd person masculine plural pronoun',
   },
   nes: {
     hebrew: 'נס',
@@ -3289,6 +3315,14 @@ const ROOTS = {
     englishNatural: 'word',
     type: 'noun',
     description: 'word, matter, thing, speech',
+  },
+  darash: {
+    hebrew: 'דָּרַשׁ',
+    transliteration: 'darash',
+    englishLiteral: 'require',
+    englishNatural: 'require',
+    type: 'verb',
+    description: 'to seek, inquire, require, demand, investigate',
   },
   chidah: {
     hebrew: 'חִידָה',
@@ -6284,6 +6318,24 @@ const ROOTS = {
     englishNatural: 'winter',
     type: 'noun',
     description: 'winter, winter season, harvest time',
+  },
+  // Genesis 9:2 additions
+  mora: {
+    hebrew: 'מורא',
+    transliteration: 'mora',
+    englishLiteral: 'fear',
+    englishNatural: 'fear',
+    type: 'noun',
+    description: 'fear, terror, awe, reverence',
+    related: ['yare'],
+  },
+  chittah: {
+    hebrew: 'חתה',
+    transliteration: 'chittah',
+    englishLiteral: 'dread',
+    englishNatural: 'dread',
+    type: 'noun',
+    description: 'dread, terror, fear, dismay',
   },
 } as const;
 

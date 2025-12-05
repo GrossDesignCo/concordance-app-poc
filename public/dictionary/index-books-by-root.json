@@ -224,6 +224,9 @@
     "numbers",
     "psalms"
   ],
+  "karat": [
+    "genesis"
+  ],
   "lo": [
     "exodus",
     "ezekiel",
@@ -290,6 +293,9 @@
     "numbers",
     "psalms"
   ],
+  "shafakh": [
+    "genesis"
+  ],
   "rav": [
     "exodus",
     "ezekiel",
@@ -344,6 +350,9 @@
     "jonah",
     "numbers",
     "psalms"
+  ],
+  "atem": [
+    "genesis"
   ],
   "nes": [
     "numbers"
@@ -1403,6 +1412,7 @@
     "psalms"
   ],
   "akh": [
+    "genesis",
     "jonah",
     "psalms"
   ],
@@ -1569,6 +1579,9 @@
     "ezekiel",
     "jonah",
     "proverbs"
+  ],
+  "darash": [
+    "genesis"
   ],
   "chidah": [
     "proverbs"
@@ -2041,7 +2054,8 @@
   ],
   "anan": [
     "exodus",
-    "ezekiel"
+    "ezekiel",
+    "genesis"
   ],
   "yatzav": [
     "exodus"
@@ -2084,6 +2098,7 @@
     "jonah"
   ],
   "dag": [
+    "genesis",
     "jonah"
   ],
   "bala": [
@@ -2527,7 +2542,8 @@
     "ezekiel"
   ],
   "qeshet": [
-    "ezekiel"
+    "ezekiel",
+    "genesis"
   ],
   "geshem": [
     "ezekiel",
@@ -2637,6 +2653,12 @@
     "genesis"
   ],
   "choref": [
+    "genesis"
+  ],
+  "mora": [
+    "genesis"
+  ],
+  "chittah": [
     "genesis"
   ],
   "en": [

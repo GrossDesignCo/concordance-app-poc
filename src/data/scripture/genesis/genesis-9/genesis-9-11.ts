@@ -1,0 +1,324 @@
+import { Verse } from '@/types';
+
+export const genesis_9_11: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 9,
+    verse: 11,
+  },
+  words: [
+    {
+      hebrew: 'וַהֲקִמֹתִי',
+      transliteration: 'vaHaqimoti',
+      englishLiteral: 'and-I-will-cause-to-stand',
+      englishNatural: 'and I will cause to stand',
+      root: 'qum',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'common',
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'hiphil',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        type: 'particle',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'בְּרִיתִי',
+      transliteration: 'beriti',
+      englishLiteral: 'my-covenant',
+      englishNatural: 'my covenant',
+      root: 'berit',
+      suffixes: ['i_possessive'],
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אִתְּכֶם',
+      transliteration: 'itkhem',
+      englishLiteral: 'with-you',
+      englishNatural: 'with you',
+      root: 'et',
+      suffixes: ['khem'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '2nd',
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְלֹא־',
+      transliteration: 'veLo-',
+      englishLiteral: 'and-not-',
+      englishNatural: 'and not',
+      root: 'lo',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'יִכָּרֵת',
+      transliteration: 'yikaret',
+      englishLiteral: 'it-will-be-cut',
+      englishNatural: 'will be cut',
+      root: 'karat',
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'niphal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'כָּל־',
+      transliteration: 'kol-',
+      englishLiteral: 'all-',
+      englishNatural: 'all',
+      root: 'kol',
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'בָּשָׂר',
+      transliteration: 'basar',
+      englishLiteral: 'flesh',
+      englishNatural: 'flesh',
+      root: 'basar',
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'עוֹד',
+      transliteration: 'od',
+      englishLiteral: 'again',
+      englishNatural: 'again',
+      root: 'od',
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'מִמֵּי',
+      transliteration: 'mimei',
+      englishLiteral: 'from-waters-of',
+      englishNatural: 'from the waters of',
+      root: 'mayim',
+      prefixes: ['mi'],
+      suffixes: ['ei'],
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַמַּבּוּל',
+      transliteration: 'haMabbul',
+      englishLiteral: 'the-flood',
+      englishNatural: 'the flood',
+      root: 'mabbul',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְלֹא־',
+      transliteration: 'veLo-',
+      englishLiteral: 'and-not-',
+      englishNatural: 'and not',
+      root: 'lo',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'יִהְיֶה',
+      transliteration: 'yihyeh',
+      englishLiteral: 'it-will-be',
+      englishNatural: 'will be',
+      root: 'hayah',
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'עוֹד',
+      transliteration: 'od',
+      englishLiteral: 'again',
+      englishNatural: 'again',
+      root: 'od',
+      order: {
+        hebrew: 14,
+        english: 14,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'מַבּוּל',
+      transliteration: 'mabbul',
+      englishLiteral: 'flood',
+      englishNatural: 'a flood',
+      root: 'mabbul',
+      order: {
+        hebrew: 15,
+        english: 15,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לְשַׁחֵת',
+      transliteration: 'leshachet',
+      englishLiteral: 'to-corrupt',
+      englishNatural: 'to corrupt',
+      root: 'shachat',
+      prefixes: ['le'],
+      order: {
+        hebrew: 16,
+        english: 16,
+      },
+      morphology: {
+        tense: 'infinitive_construct',
+        stem: 'piel',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'הָאָרֶץ',
+      transliteration: 'haAretz',
+      englishLiteral: 'the-land',
+      englishNatural: 'the land',
+      root: 'eretz',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 17,
+        english: 17,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַהֲקִמֹתִי אֶת־בְּרִיתִי אִתְּכֶם וְלֹא־יִכָּרֵת כָּל־בָּשָׂר עוֹד מִמֵּי הַמַּבּוּל וְלֹא־יִהְיֶה עוֹד מַבּוּל לְשַׁחֵת הָאָרֶץ',
+    transliteration:
+      'vaHaqimoti et-beriti itkhem veLo-yikaret kol-basar od mimei haMabbul veLo-yihyeh od mabbul leshachet haAretz',
+    englishLiteral:
+      'and-I-will-cause-to-stand ↳, my-covenant with-you, and-not- it-will-be-cut all- flesh again from-waters-of the-flood, and-not- it-will-be again flood to-corrupt the-land.',
+    englishNatural:
+      'and I will cause to stand my covenant with you, and not will be cut all flesh again from the waters of the flood, and not will be again a flood to corrupt the land.',
+    kjv: 'And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of the flood; neither shall there any more be a flood to destroy the earth.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+},
+};

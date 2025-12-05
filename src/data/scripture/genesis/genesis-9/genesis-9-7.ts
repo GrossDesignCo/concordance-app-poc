@@ -1,0 +1,175 @@
+import { Verse } from '@/types';
+
+export const genesis_9_7: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 9,
+    verse: 7,
+  },
+  words: [
+    {
+      hebrew: 'וְאַתֶּם',
+      transliteration: 'veAtem',
+      englishLiteral: 'And-you',
+      englishNatural: 'And you',
+      root: 'atem',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '2nd',
+        type: 'pronoun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'פְּרוּ',
+      transliteration: 'peru',
+      englishLiteral: 'be_fruitful',
+      englishNatural: 'be-fruitful',
+      root: 'parah',
+      suffixes: ['u'],
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '2nd',
+        tense: 'imperative',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'וּרְבוּ',
+      transliteration: 'urevu',
+      englishLiteral: 'and-multiply',
+      englishNatural: 'and multiply',
+      root: 'rabah',
+      prefixes: ['u'],
+      suffixes: ['u'],
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '2nd',
+        tense: 'imperative',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'שִׁרְצוּ',
+      transliteration: 'shirtzu',
+      englishLiteral: 'swarm',
+      englishNatural: 'swarm',
+      root: 'sharats',
+      suffixes: ['u'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '2nd',
+        tense: 'imperative',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'בָאָרֶץ',
+      transliteration: 'baAretz',
+      englishLiteral: 'in-the-earth',
+      englishNatural: 'in the earth',
+      root: 'eretz',
+      prefixes: ['ba'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וּרְבוּ־',
+      transliteration: 'urevu-',
+      englishLiteral: 'and-multiply-',
+      englishNatural: 'and multiply',
+      root: 'rabah',
+      prefixes: ['u'],
+      suffixes: ['u'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '2nd',
+        tense: 'imperative',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'בָהּ',
+      transliteration: 'vah',
+      englishLiteral: 'in-it',
+      englishNatural: 'in it',
+      root: 'be',
+      suffixes: ['ah'],
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '3rd',
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: '."',
+        englishNatural: '."',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew: 'וְאַתֶּם פְּרוּ וּרְבוּ שִׁרְצוּ בָאָרֶץ וּרְבוּ־בָהּ',
+    transliteration: 'veAtem peru urevu shirtzu baAretz urevu-vah',
+    englishLiteral:
+      'And-you, be_fruitful and-multiply, swarm in-the-earth, and-multiply- in-it."',
+    englishNatural:
+      'And you, be-fruitful and multiply, swarm in the earth, and multiply in it."',
+    kjv: 'And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+  },
+};

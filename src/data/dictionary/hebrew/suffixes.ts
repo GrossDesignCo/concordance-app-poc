@@ -129,6 +129,13 @@ const SUFFIXES = {
     englishNatural: 'them',
     function: '3rd person masculine singular/plural object',
   },
+  ennu: {
+    hebrew: 'ֶנּוּ',
+    transliteration: 'ennu',
+    englishLiteral: 'it',
+    englishNatural: 'it',
+    function: '3rd person masculine singular object',
+  },
   ayim: {
     hebrew: 'ים',
     transliteration: 'ayim',

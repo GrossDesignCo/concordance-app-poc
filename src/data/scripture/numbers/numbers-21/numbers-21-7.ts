@@ -26,6 +26,9 @@ export const numbers_21_7: Verse = {
         stem: 'qal',
         type: 'verb',
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'הָעָם',
@@ -42,6 +45,9 @@ export const numbers_21_7: Verse = {
         gender: 'masculine',
         number: 'singular',
         type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -98,6 +104,7 @@ export const numbers_21_7: Verse = {
         englishLiteral: ',',
         englishNatural: ',',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'חָטָאנוּ',
@@ -195,6 +202,7 @@ export const numbers_21_7: Verse = {
         englishLiteral: ',',
         englishNatural: ';',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'הִתְפַּלֵּל',
@@ -262,6 +270,7 @@ export const numbers_21_7: Verse = {
         stem: 'hiphil',
         type: 'verb',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'מֵעָלֵינוּ',
@@ -403,6 +412,6 @@ export const numbers_21_7: Verse = {
     englishNatural:
       'And the people came to Draws-Out (Moses) and said, "We have sinned, that we have spoken against He-Who-Is (YHWH) and against you; pray to He-Who-Is (YHWH), and may he turn-aside the snake from over us." And Draws-Out (Moses) prayed on behalf of the people.',
     kjv: 'Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
   },
 };

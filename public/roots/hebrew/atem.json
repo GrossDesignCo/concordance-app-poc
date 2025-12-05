@@ -1,0 +1,20 @@
+{
+  "key": "atem",
+  "hebrew": "אַתֶּם",
+  "transliteration": "atem",
+  "englishLiteral": "you",
+  "englishNatural": "you",
+  "type": "pronoun",
+  "description": "2nd person masculine plural pronoun",
+  "wordIndexes": {
+    "genesis": {
+      "9": {
+        "7": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -24,10 +24,13 @@ export const numbers_21_9: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
       },
     },
     {
@@ -43,10 +46,13 @@ export const numbers_21_9: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -63,7 +69,7 @@ export const numbers_21_9: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'construct',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -84,7 +90,7 @@ export const numbers_21_9: Verse = {
         gender: 'feminine',
         number: 'singular',
         state: 'absolute',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -108,8 +114,9 @@ export const numbers_21_9: Verse = {
         person: '3rd',
         tense: 'imperfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'עַל',
@@ -122,7 +129,7 @@ export const numbers_21_9: Verse = {
         english: 6,
       },
       morphology: {
-        type: 'preposition'
+        type: 'preposition',
       },
     },
     {
@@ -139,7 +146,7 @@ export const numbers_21_9: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -163,12 +170,13 @@ export const numbers_21_9: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: ',',
         englishNatural: ',',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אִם',
@@ -181,7 +189,7 @@ export const numbers_21_9: Verse = {
         english: 9,
       },
       morphology: {
-        type: 'conjunction'
+        type: 'conjunction',
       },
     },
     {
@@ -200,7 +208,7 @@ export const numbers_21_9: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
     },
     {
@@ -217,7 +225,7 @@ export const numbers_21_9: Verse = {
       morphology: {
         gender: 'masculine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
     },
     {
@@ -231,7 +239,7 @@ export const numbers_21_9: Verse = {
         english: 0, // Not translated
       },
       morphology: {
-        type: 'particle'
+        type: 'particle',
       },
     },
     {
@@ -248,7 +256,7 @@ export const numbers_21_9: Verse = {
         gender: 'masculine',
         number: 'singular',
         state: 'absolute',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -272,8 +280,9 @@ export const numbers_21_9: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'hiphil',
-        type: 'verb'
+        type: 'verb',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אֶל',
@@ -320,7 +329,7 @@ export const numbers_21_9: Verse = {
       morphology: {
         gender: 'feminine',
         number: 'singular',
-        type: 'noun'
+        type: 'noun',
       },
       grammarSuffix: {
         englishLiteral: ',',
@@ -343,7 +352,7 @@ export const numbers_21_9: Verse = {
         person: '3rd',
         tense: 'perfect',
         stem: 'qal',
-        type: 'verb'
+        type: 'verb',
       },
       grammarSuffix: {
         englishLiteral: '.',
@@ -365,6 +374,6 @@ export const numbers_21_9: Verse = {
     englishNatural:
       'And Draws-Out (Moses) made a bronze snake, and he placed it on the standard; and it came about, if the snake struck a man, and he looked to the bronze snake, he lived.',
     kjv: 'And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+  },
 };

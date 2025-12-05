@@ -76,7 +76,7 @@ veEt kol-nephesh haChayah haRomeshet asher sharTsu haMayim leMinehem
 veEt kol-of kaNaf leMinehu 
 vaYar Elohim ki-tov
 
-vaYeVarekh otam Elohim leMor peRu uReVu uMilU et-haMayim baYamim 
+vaYeVarekh otam Elohim leMor peru uReVu uMilU et-haMayim baYamim 
 veHaOf yiRev baAretz
 
 vaVayhi-erev 

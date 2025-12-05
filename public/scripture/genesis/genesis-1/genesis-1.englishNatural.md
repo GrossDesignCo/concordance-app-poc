@@ -73,7 +73,7 @@ And all throat the living the crawling which swarmed the waters, to their kind,
 And all winged flyer to its kind, 
 And God saw, that it was good.
 
-And God blessed them, saying, "Be fruitful and multiply and fill the waters in the seas, 
+And God blessed them, saying, "Be-fruitful and multiply and fill the waters in the seas, 
 And let the flyer multiply in the land."
 
 And evening was, 
@@ -95,7 +95,7 @@ in image of God, created him,
 male and female, created them.
 
 And God blessed them, 
-And God said to them, "Be fruitful and multiply and fill the land, 
+And God said to them, "Be-fruitful and multiply and fill the land, 
 And conquer and subjugate among fish of the sea, and among flyer of the skies, and among all the crawling living thing over the land."
 
 And God said, "Behold, I give to you all herb seeding seed, which over the face of all the land, 

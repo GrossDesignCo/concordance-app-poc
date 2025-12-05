@@ -1,0 +1,247 @@
+import { Verse } from '@/types';
+
+export const genesis_9_6: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 9,
+    verse: 6,
+  },
+  words: [
+    {
+      hebrew: 'שֹׁפֵךְ',
+      transliteration: 'shofekh',
+      englishLiteral: 'One-pouring',
+      englishNatural: 'One-pouring',
+      root: 'shafakh',
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'participle',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'דַּם',
+      transliteration: 'dam',
+      englishLiteral: 'blood-of',
+      englishNatural: 'the blood of',
+      root: 'dam',
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הָאָדָם',
+      transliteration: 'haAdam',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
+      root: 'adam',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 3,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'בָּאָדָם',
+      transliteration: 'baAdam',
+      englishLiteral: 'in-the-Earth (Adam)',
+      englishNatural: 'in the Earth (Adam)',
+      root: 'adam',
+      prefixes: ['ba'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'דָּמוֹ',
+      transliteration: 'damo',
+      englishLiteral: 'his-blood',
+      englishNatural: 'his blood',
+      root: 'dam',
+      suffixes: ['o'],
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'יִשָּׁפֵךְ',
+      transliteration: 'yishafekh',
+      englishLiteral: 'it-will-be-poured',
+      englishNatural: 'will be poured',
+      root: 'shafakh',
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'niphal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ';',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'כִּי',
+      transliteration: 'ki',
+      englishLiteral: 'for',
+      englishNatural: 'for',
+      root: 'ki',
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        type: 'conjunction',
+      },
+    },
+    {
+      hebrew: 'בְּצֶלֶם',
+      transliteration: 'beTselem',
+      englishLiteral: 'in-image-of',
+      englishNatural: 'in the image of',
+      root: 'tselem',
+      prefixes: ['be'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֱלֹהִים',
+      transliteration: 'Elohim',
+      englishLiteral: 'Gods',
+      englishNatural: 'God',
+      root: 'eloah',
+      suffixes: ['im'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'עָשָׂה',
+      transliteration: 'asah',
+      englishLiteral: 'he-made',
+      englishNatural: 'he made',
+      root: 'asah',
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'הָאָדָם',
+      transliteration: 'haAdam',
+      englishLiteral: 'the-Earth (Adam)',
+      englishNatural: 'the Earth (Adam)',
+      root: 'adam',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ כִּי בְּצֶלֶם אֱלֹהִים עָשָׂה אֶת־הָאָדָם',
+    transliteration:
+      'shofekh dam haAdam baAdam damo yishafekh ki beTselem Elohim asah et-haAdam',
+    englishLiteral:
+      'One-pouring blood-of the-Earth (Adam), in-the-Earth (Adam) his-blood it-will-be-poured; for in-image-of Gods, he-made ↳ the-Earth (Adam).',
+    englishNatural:
+      'One-pouring the blood of the Earth (Adam), in the Earth (Adam) his blood will be poured; for in the image of God, he made the Earth (Adam).',
+    kjv: "Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man.",
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+  },
+};

@@ -153,6 +153,7 @@ export const numbers_21_6: Verse = {
         stem: 'piel',
         type: 'verb',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אֶת',
@@ -212,6 +213,9 @@ export const numbers_21_6: Verse = {
         englishLiteral: ',',
         englishNatural: '.',
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
       lineBreaksAfter: {
         english: 1,
       },
@@ -254,6 +258,9 @@ export const numbers_21_6: Verse = {
       grammarSuffix: {
         englishLiteral: ',',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'מִיִּשְׂרָאֵל',
@@ -289,6 +296,6 @@ export const numbers_21_6: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) sent the snakes, the burning-ones, among the people, and they struck the people; and many people of Struggles-with-God (Israel) died.',
     kjv: 'And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
   },
 };

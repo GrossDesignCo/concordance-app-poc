@@ -160,7 +160,7 @@ export const genesis_9_1: Verse = {
     {
       hebrew: 'פְּרוּ',
       transliteration: 'peru',
-      englishLiteral: 'Be-fruitful',
+      englishLiteral: 'Be_fruitful',
       englishNatural: 'Be-fruitful',
       root: 'parah',
       suffixes: ['u'],
@@ -180,6 +180,7 @@ export const genesis_9_1: Verse = {
         englishLiteral: '"',
         englishNatural: '"',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'וּרְבוּ',
@@ -266,10 +267,10 @@ export const genesis_9_1: Verse = {
     transliteration:
       'vayVarekh Elohim et-Noach veEt-banav vayYomer lahem peru uRevu uMileu et-haAretz',
     englishLiteral:
-      'And-blessed Gods ↳ Rest (Noah) and-↳ his-sons; and-said to-them, "Be-fruitful and-multiply and-fill ↳ the-land.',
+      'And-blessed Gods ↳ Rest (Noah) and-↳ his-sons; and-said to-them, "Be_fruitful and-multiply and-fill ↳ the-land.',
     englishNatural:
       'And God blessed Rest (Noah) and his sons; and said to them, "Be-fruitful and multiply and fill the land.',
     kjv: 'And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+  },
 };

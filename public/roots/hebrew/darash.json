@@ -1,0 +1,22 @@
+{
+  "key": "darash",
+  "hebrew": "דָּרַשׁ",
+  "transliteration": "darash",
+  "englishLiteral": "require",
+  "englishNatural": "require",
+  "type": "verb",
+  "description": "to seek, inquire, require, demand, investigate",
+  "wordIndexes": {
+    "genesis": {
+      "9": {
+        "5": [
+          4,
+          8,
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

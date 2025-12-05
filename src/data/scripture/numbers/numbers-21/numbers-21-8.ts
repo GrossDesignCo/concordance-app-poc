@@ -26,6 +26,9 @@ export const numbers_21_8: Verse = {
         stem: 'qal',
         type: 'verb',
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'יְהוָה',
@@ -41,6 +44,9 @@ export const numbers_21_8: Verse = {
         gender: 'masculine',
         number: 'singular',
         type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
       },
     },
     {
@@ -97,6 +103,7 @@ export const numbers_21_8: Verse = {
         englishLiteral: '"',
         englishNatural: '"',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'לְךָ',
@@ -155,6 +162,7 @@ export const numbers_21_8: Verse = {
         stem: 'qal',
         type: 'verb',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אֹתוֹ',
@@ -229,6 +237,7 @@ export const numbers_21_8: Verse = {
         englishLiteral: ',',
         englishNatural: ',',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'כָּל',
@@ -288,6 +297,7 @@ export const numbers_21_8: Verse = {
         stem: 'qal',
         type: 'verb',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'אֹתוֹ',
@@ -334,10 +344,7 @@ export const numbers_21_8: Verse = {
         englishLiteral: '."',
         englishNatural: '."',
       },
-      lineBreaksAfter: {
-        hebrew: 2,
-        english: 2,
-      },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
@@ -350,6 +357,6 @@ export const numbers_21_8: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) said to Draws-Out (Moses), "Make for yourself a burning-one, and place it over a standard; and it shall come about, everyone who is struck, and sees it, will live."',
     kjv: 'And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
   },
 };
