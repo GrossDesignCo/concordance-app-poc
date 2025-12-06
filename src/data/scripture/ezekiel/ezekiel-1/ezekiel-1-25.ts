@@ -14,10 +14,7 @@ export const ezekiel_1_25: Verse = {
       englishNatural: 'And it was',
       root: 'hayah',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -34,10 +31,7 @@ export const ezekiel_1_25: Verse = {
       englishLiteral: 'voice',
       englishNatural: 'a voice',
       root: 'qol',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -51,10 +45,7 @@ export const ezekiel_1_25: Verse = {
       englishNatural: 'from over',
       root: 'al',
       prefixes: ['me'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -66,10 +57,7 @@ export const ezekiel_1_25: Verse = {
       englishNatural: 'the hammering-out',
       root: 'raqia',
       prefixes: ['la'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -82,10 +70,7 @@ export const ezekiel_1_25: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'particle',
       },
@@ -96,10 +81,7 @@ export const ezekiel_1_25: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -111,10 +93,7 @@ export const ezekiel_1_25: Verse = {
       englishNatural: 'his head',
       root: 'rosh',
       suffixes: ['am'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -134,10 +113,7 @@ export const ezekiel_1_25: Verse = {
       root: 'amad',
       prefixes: ['be'],
       suffixes: ['am'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
@@ -149,10 +125,7 @@ export const ezekiel_1_25: Verse = {
       englishLiteral: 'they-sank',
       englishNatural: 'they sank',
       root: 'raphah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -169,10 +142,7 @@ export const ezekiel_1_25: Verse = {
       englishNatural: 'their wings',
       root: 'kenaf',
       suffixes: ['hen'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -195,6 +165,6 @@ export const ezekiel_1_25: Verse = {
     englishNatural:
       'And it was a voice from over the hammering-out which over his head; in their standing they sank their wings.',
     kjv: 'And there was a voice from the firmament that was over their heads, when they stood, and had let down their wings.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

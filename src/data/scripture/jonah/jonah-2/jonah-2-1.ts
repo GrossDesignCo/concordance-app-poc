@@ -55,10 +55,7 @@ export const jonah_2_1: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -69,10 +66,7 @@ export const jonah_2_1: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -84,10 +78,7 @@ export const jonah_2_1: Verse = {
       englishNatural: 'his God',
       root: 'eloah',
       suffixes: ['av'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -102,10 +93,7 @@ export const jonah_2_1: Verse = {
       root: 'meah_bowels',
       prefixes: ['mi'],
       suffixes: ['ei'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -120,10 +108,7 @@ export const jonah_2_1: Verse = {
       englishNatural: 'the fish',
       root: 'dagah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -144,6 +129,6 @@ export const jonah_2_1: Verse = {
     englishNatural:
       'And Dove (Jonah) prayed to He-Who-Is (YHWH) his God from the bowels of the fish;',
     kjv: "And Jonah prayed unto the LORD his God out of the fish's belly:",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -14,10 +14,7 @@ export const genesis_9_11: Verse = {
       englishNatural: 'and I will cause to stand',
       root: 'qum',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -33,10 +30,7 @@ export const genesis_9_11: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'particle',
       },
@@ -53,10 +47,7 @@ export const genesis_9_11: Verse = {
       englishNatural: 'my covenant',
       root: 'berit',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -70,10 +61,7 @@ export const genesis_9_11: Verse = {
       englishNatural: 'with you',
       root: 'et',
       suffixes: ['khem'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -93,10 +81,7 @@ export const genesis_9_11: Verse = {
       englishNatural: 'and not',
       root: 'lo',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'adverb',
       },
@@ -107,10 +92,7 @@ export const genesis_9_11: Verse = {
       englishLiteral: 'it-will-be-cut',
       englishNatural: 'will be cut',
       root: 'karat',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -126,10 +108,7 @@ export const genesis_9_11: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
       },
@@ -140,10 +119,7 @@ export const genesis_9_11: Verse = {
       englishLiteral: 'flesh',
       englishNatural: 'flesh',
       root: 'basar',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -156,10 +132,7 @@ export const genesis_9_11: Verse = {
       englishLiteral: 'again',
       englishNatural: 'again',
       root: 'od',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'adverb',
       },
@@ -172,10 +145,7 @@ export const genesis_9_11: Verse = {
       root: 'mayim',
       prefixes: ['mi'],
       suffixes: ['ei'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -190,10 +160,7 @@ export const genesis_9_11: Verse = {
       englishNatural: 'the flood',
       root: 'mabbul',
       prefixes: ['ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -212,10 +179,7 @@ export const genesis_9_11: Verse = {
       englishNatural: 'and not',
       root: 'lo',
       prefixes: ['ve'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'adverb',
       },
@@ -226,10 +190,7 @@ export const genesis_9_11: Verse = {
       englishLiteral: 'it-will-be',
       englishNatural: 'will be',
       root: 'hayah',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -245,10 +206,7 @@ export const genesis_9_11: Verse = {
       englishLiteral: 'again',
       englishNatural: 'again',
       root: 'od',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'adverb',
       },
@@ -259,10 +217,7 @@ export const genesis_9_11: Verse = {
       englishLiteral: 'flood',
       englishNatural: 'a flood',
       root: 'mabbul',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -276,10 +231,7 @@ export const genesis_9_11: Verse = {
       englishNatural: 'to corrupt',
       root: 'shachat',
       prefixes: ['le'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'piel',
@@ -293,10 +245,7 @@ export const genesis_9_11: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -319,6 +268,6 @@ export const genesis_9_11: Verse = {
     englishNatural:
       'and I will cause to stand my covenant with you, and not will be cut all flesh again from the waters of the flood, and not will be again a flood to corrupt the land.',
     kjv: 'And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of the flood; neither shall there any more be a flood to destroy the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

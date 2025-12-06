@@ -14,10 +14,7 @@ export const proverbs_8_25: Verse = {
       englishNatural: 'In before',
       root: 'terem',
       prefixes: ['be'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
@@ -30,10 +27,7 @@ export const proverbs_8_25: Verse = {
       englishNatural: 'mountains',
       root: 'har',
       suffixes: ['im'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -46,10 +40,7 @@ export const proverbs_8_25: Verse = {
       englishLiteral: 'were-sunk',
       englishNatural: 'were sunk',
       root: 'taba',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -70,10 +61,7 @@ export const proverbs_8_25: Verse = {
       englishNatural: 'to the-face-of',
       root: 'peh',
       prefixes: ['li'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -86,10 +74,7 @@ export const proverbs_8_25: Verse = {
       englishNatural: 'hills',
       root: 'givah',
       suffixes: ['ot'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -103,10 +88,7 @@ export const proverbs_8_25: Verse = {
       englishNatural: 'I was born',
       root: 'yalad',
       suffixes: ['ti'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -129,6 +111,6 @@ export const proverbs_8_25: Verse = {
     englishNatural:
       'In before mountains were sunk, to the-face-of hills I was born.',
     kjv: 'Before the mountains were settled, before the hills was I brought forth',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

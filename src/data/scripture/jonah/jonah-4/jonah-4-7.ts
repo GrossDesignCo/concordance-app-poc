@@ -57,10 +57,7 @@ export const jonah_4_7: Verse = {
       englishLiteral: 'worm',
       englishNatural: 'a worm',
       root: 'tolaat',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -74,10 +71,7 @@ export const jonah_4_7: Verse = {
       englishNatural: 'at the rising of',
       root: 'alah',
       prefixes: ['ba'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'qal',
@@ -92,10 +86,7 @@ export const jonah_4_7: Verse = {
       englishNatural: 'the dawn',
       root: 'shachar',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -109,10 +100,7 @@ export const jonah_4_7: Verse = {
       englishNatural: 'to the next-day',
       root: 'macharath',
       prefixes: ['la'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -130,10 +118,7 @@ export const jonah_4_7: Verse = {
       englishNatural: 'and it struck-down',
       root: 'nakah',
       prefixes: ['va'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -150,10 +135,7 @@ export const jonah_4_7: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'particle',
       },
@@ -165,10 +147,7 @@ export const jonah_4_7: Verse = {
       englishNatural: 'the luscious-plant',
       root: 'qiqayon',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -186,10 +165,7 @@ export const jonah_4_7: Verse = {
       englishNatural: 'and it withered',
       root: 'yavesh',
       prefixes: ['va'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -216,6 +192,6 @@ export const jonah_4_7: Verse = {
     englishNatural:
       'And the God appointed a worm at the rising of the dawn to the next-day, and it struck-down the luscious-plant, and it withered.',
     kjv: 'But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

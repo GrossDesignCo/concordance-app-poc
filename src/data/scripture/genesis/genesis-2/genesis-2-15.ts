@@ -70,10 +70,7 @@ export const genesis_2_15: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
     },
     {
       hebrew: 'הָאָדָם',
@@ -82,10 +79,7 @@ export const genesis_2_15: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -104,10 +98,7 @@ export const genesis_2_15: Verse = {
       root: 'nuach',
       prefixes: ['va'],
       suffixes: ['ehu'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -124,10 +115,7 @@ export const genesis_2_15: Verse = {
       englishNatural: 'in Garden of',
       root: 'gan',
       prefixes: ['be'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -140,10 +128,7 @@ export const genesis_2_15: Verse = {
       englishLiteral: 'Delight (Eden)',
       englishNatural: 'Delight (Eden)',
       root: 'eden',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -160,10 +145,7 @@ export const genesis_2_15: Verse = {
       root: 'avad',
       prefixes: ['le'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -178,10 +160,7 @@ export const genesis_2_15: Verse = {
       root: 'shamar',
       prefixes: ['u', 'le'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -204,6 +183,6 @@ export const genesis_2_15: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God took the Earth (Adam), and rested him in Garden of Delight (Eden), to serve her and to keep her.',
     kjv: 'And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -13,10 +13,7 @@ export const genesis_8_22: Verse = {
       englishLiteral: 'Still',
       englishNatural: 'Still',
       root: 'od',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
@@ -28,10 +25,7 @@ export const genesis_8_22: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
       },
@@ -43,10 +37,7 @@ export const genesis_8_22: Verse = {
       englishNatural: 'the days of',
       root: 'yom',
       suffixes: ['ey'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -61,10 +52,7 @@ export const genesis_8_22: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -82,10 +70,7 @@ export const genesis_8_22: Verse = {
       englishLiteral: 'seed',
       englishNatural: 'seed',
       root: 'zera',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -99,10 +84,7 @@ export const genesis_8_22: Verse = {
       englishNatural: 'and harvest',
       root: 'qatzir',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -121,10 +103,7 @@ export const genesis_8_22: Verse = {
       englishNatural: 'and cold',
       root: 'qor',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -138,10 +117,7 @@ export const genesis_8_22: Verse = {
       englishNatural: 'and heat',
       root: 'chom',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -160,10 +136,7 @@ export const genesis_8_22: Verse = {
       englishNatural: 'and summer',
       root: 'qayitz',
       prefixes: ['ve'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -177,10 +150,7 @@ export const genesis_8_22: Verse = {
       englishNatural: 'and winter',
       root: 'choref',
       prefixes: ['va'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -199,10 +169,7 @@ export const genesis_8_22: Verse = {
       englishNatural: 'and day',
       root: 'yom',
       prefixes: ['ve'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -216,10 +183,7 @@ export const genesis_8_22: Verse = {
       englishNatural: 'and night',
       root: 'laylah',
       prefixes: ['va'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -284,6 +248,6 @@ export const genesis_8_22: Verse = {
     englishNatural:
       'Still all the days of the land, seed and harvest, and cold and heat, and summer and winter, and day and night they will cease not."',
     kjv: 'While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

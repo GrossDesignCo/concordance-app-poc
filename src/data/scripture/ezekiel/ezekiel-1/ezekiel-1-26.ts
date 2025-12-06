@@ -14,10 +14,7 @@ export const ezekiel_1_26: Verse = {
       englishNatural: 'And from over',
       root: 'al',
       prefixes: ['u', 'mi', 'me'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'preposition',
       },
@@ -30,10 +27,7 @@ export const ezekiel_1_26: Verse = {
       englishNatural: 'the hammering-out',
       root: 'raqia',
       prefixes: ['la'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -46,10 +40,7 @@ export const ezekiel_1_26: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -60,10 +51,7 @@ export const ezekiel_1_26: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -75,10 +63,7 @@ export const ezekiel_1_26: Verse = {
       englishNatural: 'his head',
       root: 'rosh',
       suffixes: ['am'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -93,10 +78,7 @@ export const ezekiel_1_26: Verse = {
       englishNatural: 'like the appearance of',
       root: 'mareh',
       prefixes: ['ke'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -110,10 +92,7 @@ export const ezekiel_1_26: Verse = {
       englishLiteral: 'stone-of-',
       englishNatural: 'a stone of',
       root: 'even',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -127,10 +106,7 @@ export const ezekiel_1_26: Verse = {
       englishLiteral: 'sapphire',
       englishNatural: 'sapphire',
       root: 'sappir',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -143,10 +119,7 @@ export const ezekiel_1_26: Verse = {
       englishLiteral: 'likeness-of',
       englishNatural: 'the likeness of',
       root: 'demut',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -160,10 +133,7 @@ export const ezekiel_1_26: Verse = {
       englishLiteral: 'throne',
       englishNatural: 'a throne',
       root: 'kisse',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -182,10 +152,7 @@ export const ezekiel_1_26: Verse = {
       englishNatural: 'and over',
       root: 'al',
       prefixes: ['ve'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -196,10 +163,7 @@ export const ezekiel_1_26: Verse = {
       englishLiteral: 'likeness-of',
       englishNatural: 'the likeness of',
       root: 'demut',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -214,10 +178,7 @@ export const ezekiel_1_26: Verse = {
       englishNatural: 'the throne',
       root: 'kisse',
       prefixes: ['ha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -230,10 +191,7 @@ export const ezekiel_1_26: Verse = {
       englishLiteral: 'likeness',
       englishNatural: 'a likeness',
       root: 'demut',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -248,10 +206,7 @@ export const ezekiel_1_26: Verse = {
       englishNatural: 'like the appearance of',
       root: 'mareh',
       prefixes: ['ke'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -265,10 +220,7 @@ export const ezekiel_1_26: Verse = {
       englishLiteral: 'Earth (Adam)',
       englishNatural: 'Earth (Adam)',
       root: 'adam',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -332,6 +284,6 @@ export const ezekiel_1_26: Verse = {
     englishNatural:
       'And from over the hammering-out which over his head like the appearance of a stone of sapphire the likeness of a throne; and over the likeness of the throne a likeness like the appearance of Earth (Adam), from upward over him.',
     kjv: 'And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was the likeness as the appearance of a man above upon it.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

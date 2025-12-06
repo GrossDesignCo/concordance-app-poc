@@ -239,10 +239,7 @@ export const jonah_3_8: Verse = {
       englishNatural: 'and from',
       root: 'min_from',
       prefixes: ['u'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -255,10 +252,7 @@ export const jonah_3_8: Verse = {
       englishNatural: 'the violence',
       root: 'chamas',
       prefixes: ['ha'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -271,10 +265,7 @@ export const jonah_3_8: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which is',
       root: 'asher',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'relative',
       },
@@ -287,10 +278,7 @@ export const jonah_3_8: Verse = {
       root: 'kaph',
       prefixes: ['be'],
       suffixes: ['ey', 'hem'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -313,6 +301,6 @@ export const jonah_3_8: Verse = {
     englishNatural:
       'And they will be covered sackcloth, the Earth (Adam) and the beast, and they will call-out to God in strength; and return man from the bad of his way and from the violence which is in their hands.',
     kjv: 'But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -15,10 +15,7 @@ export const genesis_3_8: Verse = {
       root: 'shama',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -35,10 +32,7 @@ export const genesis_3_8: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
     },
     {
       hebrew: 'קוֹל',
@@ -46,10 +40,7 @@ export const genesis_3_8: Verse = {
       englishLiteral: 'voice',
       englishNatural: 'the voice',
       root: 'qol',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -62,10 +53,7 @@ export const genesis_3_8: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'of He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
     },
     {
       hebrew: 'אֱלֹהִים',
@@ -74,10 +62,7 @@ export const genesis_3_8: Verse = {
       englishNatural: 'God',
       root: 'eloah',
       suffixes: ['im'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -95,10 +80,7 @@ export const genesis_3_8: Verse = {
       englishNatural: 'walking',
       root: 'halakh',
       prefixes: ['mi'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -115,10 +97,7 @@ export const genesis_3_8: Verse = {
       englishNatural: 'in Garden',
       root: 'gan',
       prefixes: ['ba'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -132,10 +111,7 @@ export const genesis_3_8: Verse = {
       englishNatural: 'to the wind',
       root: 'ruach',
       prefixes: ['le'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -149,10 +125,7 @@ export const genesis_3_8: Verse = {
       englishNatural: 'of the day',
       root: 'yom',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -237,10 +210,7 @@ export const genesis_3_8: Verse = {
       englishNatural: 'from the face of',
       root: 'panah',
       prefixes: ['mi'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
       },
@@ -251,10 +221,7 @@ export const genesis_3_8: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
     },
     {
       hebrew: 'אֱלֹהִים',
@@ -263,10 +230,7 @@ export const genesis_3_8: Verse = {
       englishNatural: 'God',
       root: 'eloah',
       suffixes: ['im'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -284,10 +248,7 @@ export const genesis_3_8: Verse = {
       englishNatural: 'in the midst of',
       root: 'tokh',
       prefixes: ['be'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'noun',
       },
@@ -298,10 +259,7 @@ export const genesis_3_8: Verse = {
       englishLiteral: 'tree',
       englishNatural: 'the tree',
       root: 'etz',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -316,10 +274,7 @@ export const genesis_3_8: Verse = {
       englishNatural: 'of Garden',
       root: 'gan',
       prefixes: ['ha'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -342,6 +297,6 @@ export const genesis_3_8: Verse = {
     englishNatural:
       'And they heard the voice of He-Who-Is (YHWH) God, walking in Garden to the wind of the day; and the Earth (Adam) and his woman hid, from the face of He-Who-Is (YHWH) God, in the midst of the tree of Garden.',
     kjv: 'And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

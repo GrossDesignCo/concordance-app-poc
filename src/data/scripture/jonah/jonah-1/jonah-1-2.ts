@@ -13,10 +13,7 @@ export const jonah_1_2: Verse = {
       englishLiteral: 'Stand_up',
       englishNatural: 'Stand-up',
       root: 'qum',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -41,10 +38,7 @@ export const jonah_1_2: Verse = {
       englishLiteral: 'go',
       englishNatural: 'go',
       root: 'halakh',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -60,10 +54,7 @@ export const jonah_1_2: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -74,10 +65,7 @@ export const jonah_1_2: Verse = {
       englishLiteral: 'Dwelling_of_Fish (Nineveh)',
       englishNatural: 'Dwelling-of-Fish (Nineveh)',
       root: 'nineveh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -95,10 +83,7 @@ export const jonah_1_2: Verse = {
       englishNatural: 'the city',
       root: 'ir',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -117,10 +102,7 @@ export const jonah_1_2: Verse = {
       root: 'gadol',
       prefixes: ['ha'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -138,10 +120,7 @@ export const jonah_1_2: Verse = {
       englishNatural: 'and call-out',
       root: 'qara',
       prefixes: ['u'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -158,10 +137,7 @@ export const jonah_1_2: Verse = {
       englishLiteral: 'over-her',
       englishNatural: 'over her',
       root: 'al',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -176,10 +152,7 @@ export const jonah_1_2: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'conjunction',
       },
@@ -227,10 +200,7 @@ export const jonah_1_2: Verse = {
       englishLiteral: 'before-me',
       englishNatural: 'before me',
       root: 'panah',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -251,6 +221,6 @@ export const jonah_1_2: Verse = {
     englishNatural:
       '"Stand-up, go to Dwelling-of-Fish (Nineveh), the city, the great; and call-out over her, that their bad has come up before me."',
     kjv: 'Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

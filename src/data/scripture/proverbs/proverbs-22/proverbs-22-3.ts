@@ -13,10 +13,7 @@ export const proverbs_22_3: Verse = {
       englishLiteral: 'Shrewd',
       englishNatural: 'Shrewd',
       root: 'arum',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -31,10 +28,7 @@ export const proverbs_22_3: Verse = {
       englishLiteral: 'sees',
       englishNatural: 'sees',
       root: 'raah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const proverbs_22_3: Verse = {
       englishLiteral: 'bad',
       englishNatural: 'bad',
       root: 'ra',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -68,10 +59,7 @@ export const proverbs_22_3: Verse = {
       englishNatural: 'and hides himself',
       root: 'satar',
       prefixes: ['ve', 'ni'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -93,10 +81,7 @@ export const proverbs_22_3: Verse = {
       root: 'peti',
       prefixes: ['u'],
       suffixes: ['im'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -111,10 +96,7 @@ export const proverbs_22_3: Verse = {
       englishLiteral: 'pass-on',
       englishNatural: 'go on',
       root: 'avar',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'neuter',
         number: 'plural',
@@ -132,10 +114,7 @@ export const proverbs_22_3: Verse = {
       root: 'anash',
       prefixes: ['ve', 'ne'],
       suffixes: ['u'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'neuter',
         number: 'plural',
@@ -159,6 +138,6 @@ export const proverbs_22_3: Verse = {
     englishNatural:
       'Shrewd sees bad and hides himself; but the simple go on and are punished.',
     kjv: 'A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

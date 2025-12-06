@@ -14,10 +14,7 @@ export const genesis_3_1: Verse = {
       englishNatural: 'And the snake',
       root: 'nachash',
       prefixes: ['ve', 'ha'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -31,10 +28,7 @@ export const genesis_3_1: Verse = {
       englishLiteral: 'was',
       englishNatural: 'was',
       root: 'hayah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const genesis_3_1: Verse = {
       englishLiteral: 'shrewd',
       englishNatural: 'shrewd',
       root: 'arum',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -72,10 +63,7 @@ export const genesis_3_1: Verse = {
       englishNatural: 'out of every',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
     },
     {
       hebrew: 'חַיַּת',
@@ -84,10 +72,7 @@ export const genesis_3_1: Verse = {
       englishNatural: 'living-being of',
       root: 'chayah',
       suffixes: ['construct_t'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -102,10 +87,7 @@ export const genesis_3_1: Verse = {
       englishNatural: 'the field',
       root: 'sadeh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -122,10 +104,7 @@ export const genesis_3_1: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
     },
     {
       hebrew: 'עָשָׂה',
@@ -183,10 +162,7 @@ export const genesis_3_1: Verse = {
       englishNatural: 'And he said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -206,10 +182,7 @@ export const genesis_3_1: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
     },
     {
       hebrew: 'הָאִשָּׁה',
@@ -218,10 +191,7 @@ export const genesis_3_1: Verse = {
       englishNatural: 'the woman',
       root: 'ishah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -238,10 +208,7 @@ export const genesis_3_1: Verse = {
       englishLiteral: 'Is_it_so',
       englishNatural: 'Is-it-so',
       root: 'af',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       grammarPrefix: {
         englishLiteral: '"',
         englishNatural: '"',
@@ -257,10 +224,7 @@ export const genesis_3_1: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
     },
     {
       hebrew: 'אָמַר',
@@ -345,10 +309,7 @@ export const genesis_3_1: Verse = {
       englishNatural: 'from any',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
     },
     {
       hebrew: 'עֵץ',
@@ -356,10 +317,7 @@ export const genesis_3_1: Verse = {
       englishLiteral: 'tree',
       englishNatural: 'tree',
       root: 'etz',
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -374,10 +332,7 @@ export const genesis_3_1: Verse = {
       englishNatural: 'of the garden',
       root: 'gan',
       prefixes: ['ha'],
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -400,6 +355,6 @@ export const genesis_3_1: Verse = {
     englishNatural:
       'And the snake was shrewd, out of every living-being of the field, which He-Who-Is (YHWH) God had made. And he said to the woman, "Is-it-so, that God said \'You shall eat not from any tree of the garden\'?"',
     kjv: 'Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

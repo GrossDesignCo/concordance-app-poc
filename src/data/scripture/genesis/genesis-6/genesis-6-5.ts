@@ -53,10 +53,7 @@ export const genesis_6_5: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'conjunction',
       },
@@ -121,10 +118,7 @@ export const genesis_6_5: Verse = {
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['ba'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -143,10 +137,7 @@ export const genesis_6_5: Verse = {
       englishNatural: 'and all',
       root: 'kol',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -159,10 +150,7 @@ export const genesis_6_5: Verse = {
       englishLiteral: 'forming-of',
       englishNatural: 'the forming of',
       root: 'yetzer',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -176,10 +164,7 @@ export const genesis_6_5: Verse = {
       englishLiteral: 'thoughts-of',
       englishNatural: 'thoughts of',
       root: 'machashavah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -195,10 +180,7 @@ export const genesis_6_5: Verse = {
       root: 'lev',
       prefixes: ['le'],
       suffixes: ['o'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -215,10 +197,7 @@ export const genesis_6_5: Verse = {
       englishLiteral: 'only',
       englishNatural: 'only',
       root: 'raq',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'adverb',
       },
@@ -229,10 +208,7 @@ export const genesis_6_5: Verse = {
       englishLiteral: 'bad',
       englishNatural: 'bad',
       root: 'ra',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -249,10 +225,7 @@ export const genesis_6_5: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -266,10 +239,7 @@ export const genesis_6_5: Verse = {
       englishNatural: 'the day',
       root: 'yom',
       prefixes: ['ha'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -292,6 +262,6 @@ export const genesis_6_5: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) saw that the bad of Earth (Adam) was multiplying in the land, and all the forming of thoughts of his heart, only bad, all the day.',
     kjv: 'And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

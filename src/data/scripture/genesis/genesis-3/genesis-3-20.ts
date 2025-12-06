@@ -89,10 +89,7 @@ export const genesis_3_20: Verse = {
       englishLiteral: 'Life (Eve)',
       englishNatural: 'Life (Eve)',
       root: 'chavah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -109,10 +106,7 @@ export const genesis_3_20: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'conjunction',
       },
@@ -123,10 +117,7 @@ export const genesis_3_20: Verse = {
       englishLiteral: 'she',
       englishNatural: 'she',
       root: 'hi',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -141,10 +132,7 @@ export const genesis_3_20: Verse = {
       englishNatural: 'was',
       root: 'hayah',
       suffixes: ['ah'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -160,10 +148,7 @@ export const genesis_3_20: Verse = {
       englishLiteral: 'Mother',
       englishNatural: 'Mother',
       root: 'em',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -176,10 +161,7 @@ export const genesis_3_20: Verse = {
       englishLiteral: 'all',
       englishNatural: 'of all',
       root: 'kol',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'adjective',
       },
@@ -190,10 +172,7 @@ export const genesis_3_20: Verse = {
       englishLiteral: 'Living',
       englishNatural: 'Living',
       root: 'chai',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -216,6 +195,6 @@ export const genesis_3_20: Verse = {
     englishNatural:
       "And the Earth (Adam) called-out his woman's name Life (Eve); that she was Mother of all Living.",
     kjv: "And Adam called his wife's name Eve; because she was the mother of all living.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

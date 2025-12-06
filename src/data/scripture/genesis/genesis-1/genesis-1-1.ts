@@ -15,10 +15,7 @@ export const genesis_1_1: Verse = {
       root: 'rosh',
       prefixes: ['be'],
       suffixes: ['it'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -71,10 +68,7 @@ export const genesis_1_1: Verse = {
       transliteration: 'et',
       englishLiteral: '↳',
       root: 'et',
-      order: {
-        hebrew: 4,
-        english: 4, // Direct object marker typically aligns with its object
-      },
+      order: 4,
     },
     {
       hebrew: 'הַשָּׁמַ֖יִם',
@@ -83,10 +77,7 @@ export const genesis_1_1: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -100,10 +91,7 @@ export const genesis_1_1: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6, // Conjunction and direct object marker stay with their object
-      },
+      order: 6,
     },
     {
       hebrew: 'הָאָֽרֶץ',
@@ -112,10 +100,7 @@ export const genesis_1_1: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -133,6 +118,6 @@ export const genesis_1_1: Verse = {
     englishLiteral: 'In-heading, created Gods ↳ the-skies and-↳ the-land',
     englishNatural: 'In heading, God created the skies and the land.',
     kjv: 'In the beginning God created the heaven and the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

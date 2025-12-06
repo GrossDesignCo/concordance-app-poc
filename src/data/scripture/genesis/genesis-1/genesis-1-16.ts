@@ -56,10 +56,7 @@ export const genesis_1_16: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
     },
     {
       hebrew: 'שְׁנֵ֥י',
@@ -67,10 +64,7 @@ export const genesis_1_16: Verse = {
       englishLiteral: 'two',
       englishNatural: 'two',
       root: 'shnayim',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'adjective',
       },
@@ -87,10 +81,7 @@ export const genesis_1_16: Verse = {
       root: 'or',
       prefixes: ['ha', 'me'],
       suffixes: ['ot'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -109,10 +100,7 @@ export const genesis_1_16: Verse = {
       root: 'gadol',
       prefixes: ['ha'],
       suffixes: ['im'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -129,10 +117,7 @@ export const genesis_1_16: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       lineBreaksBefore: {
         hebrew: 1,
       },
@@ -144,10 +129,7 @@ export const genesis_1_16: Verse = {
       englishNatural: 'the light-source',
       root: 'or',
       prefixes: ['ha', 'ma'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -164,10 +146,7 @@ export const genesis_1_16: Verse = {
       englishNatural: 'the great',
       root: 'gadol',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -185,10 +164,7 @@ export const genesis_1_16: Verse = {
       englishNatural: 'for the ruling of',
       root: 'mashal',
       prefixes: ['le'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
       },
@@ -200,10 +176,7 @@ export const genesis_1_16: Verse = {
       englishNatural: 'the day',
       root: 'yom',
       prefixes: ['ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -221,10 +194,7 @@ export const genesis_1_16: Verse = {
       englishNatural: 'And',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       lineBreaksBefore: 1,
     },
     {
@@ -234,10 +204,7 @@ export const genesis_1_16: Verse = {
       englishNatural: 'the light-source',
       root: 'or',
       prefixes: ['ha', 'ma'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -251,10 +218,7 @@ export const genesis_1_16: Verse = {
       englishNatural: 'the small',
       root: 'qatan',
       prefixes: ['ha'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -272,10 +236,7 @@ export const genesis_1_16: Verse = {
       englishNatural: 'for the ruling of',
       root: 'mashal',
       prefixes: ['le'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'noun',
       },
@@ -287,10 +248,7 @@ export const genesis_1_16: Verse = {
       englishNatural: 'the night',
       root: 'layil',
       prefixes: ['ha'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -308,10 +266,7 @@ export const genesis_1_16: Verse = {
       englishNatural: 'And',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       lineBreaksBefore: 1,
     },
     {
@@ -322,10 +277,7 @@ export const genesis_1_16: Verse = {
       root: 'kokhav',
       prefixes: ['ha'],
       suffixes: ['im'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -344,6 +296,6 @@ export const genesis_1_16: Verse = {
     englishLiteral: 'And-made Gods ↳ two, the-light_sources, the-greats, ↳ the-light_source the-great, for-the-ruling-of the-day, And-↳ the-light_source the-small, for-the-ruling-of the-night, And-↳ the-stars.',
     englishNatural: 'And God made two, the light-sources, the greats, the light-source the great, for the ruling of the day, And the light-source the small, for the ruling of the night, And the stars.',
     kjv: 'And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

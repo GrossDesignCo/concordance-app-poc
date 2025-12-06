@@ -108,10 +108,7 @@ export const jonah_4_4: Verse = {
       englishLiteral: 'to-you',
       englishNatural: 'to you',
       root: 'lakhem',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -130,6 +127,6 @@ export const jonah_4_4: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) said, "Is fuming-angrily the doing-well, to you?"',
     kjv: 'Then said the LORD, Doest thou well to be angry?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

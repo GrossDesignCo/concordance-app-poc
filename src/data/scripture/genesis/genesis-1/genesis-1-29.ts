@@ -62,10 +62,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'Behold',
       englishNatural: 'Behold',
       root: 'hinneh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -84,10 +81,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'I-give',
       englishNatural: 'I give',
       root: 'natan',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -103,10 +97,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'to-you',
       englishNatural: 'to you',
       root: 'lakhem',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -117,10 +108,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
     },
     {
       hebrew: 'כָּל־',
@@ -128,10 +116,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adjective',
       },
@@ -142,10 +127,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'herb',
       englishNatural: 'herb',
       root: 'esev',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -158,10 +140,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'seeding',
       englishNatural: 'seeding',
       root: 'zara',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -174,10 +153,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'seed',
       englishNatural: 'seed',
       root: 'zera',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -194,10 +170,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'relative',
       },
@@ -208,10 +181,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -222,10 +192,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'face-of',
       englishNatural: 'the face of',
       root: 'panah',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -238,10 +205,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'adjective',
       },
@@ -253,10 +217,7 @@ export const genesis_1_29: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -274,10 +235,7 @@ export const genesis_1_29: Verse = {
       englishNatural: 'And',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       lineBreaksBefore: 1,
     },
     {
@@ -286,10 +244,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'adjective',
       },
@@ -301,10 +256,7 @@ export const genesis_1_29: Verse = {
       englishNatural: 'the tree',
       root: 'etz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -317,10 +269,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'relative',
       },
@@ -332,10 +281,7 @@ export const genesis_1_29: Verse = {
       englishNatural: 'in it is',
       root: 'be',
       suffixes: ['o'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'preposition',
       },
@@ -346,10 +292,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'fruit-of',
       englishNatural: 'fruit of',
       root: 'peri',
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -362,10 +305,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'tree',
       englishNatural: 'tree',
       root: 'etz',
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -378,10 +318,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'seeding',
       englishNatural: 'seeding',
       root: 'zara',
-      order: {
-        hebrew: 23,
-        english: 23,
-      },
+      order: 23,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -394,10 +331,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'seed',
       englishNatural: 'seed',
       root: 'zera',
-      order: {
-        hebrew: 24,
-        english: 24,
-      },
+      order: 24,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -414,10 +348,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'to-you',
       englishNatural: 'to you',
       root: 'lakhem',
-      order: {
-        hebrew: 25,
-        english: 25,
-      },
+      order: 25,
       morphology: {
         type: 'preposition',
       },
@@ -428,10 +359,7 @@ export const genesis_1_29: Verse = {
       englishLiteral: 'it-shall-be',
       englishNatural: 'it shall be',
       root: 'hayah',
-      order: {
-        hebrew: 26,
-        english: 26,
-      },
+      order: 26,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -449,10 +377,7 @@ export const genesis_1_29: Verse = {
       root: 'okhel',
       prefixes: ['le'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 27,
-        english: 27,
-      },
+      order: 27,
       morphology: {
         type: 'noun',
       },
@@ -469,6 +394,6 @@ export const genesis_1_29: Verse = {
     englishLiteral: 'And-said Gods, "Behold, I-give to-you ↳ all herb seeding seed, which over face-of all the-land, And-↳ all the-tree which in-it fruit-of tree seeding seed, to-you it-shall-be for-food.',
     englishNatural: 'And God said, "Behold, I give to you all herb seeding seed, which over the face of all the land, And all the tree which in it is fruit of tree seeding seed, to you it shall be for food.',
     kjv: 'And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-07' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

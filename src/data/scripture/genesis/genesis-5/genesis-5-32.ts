@@ -14,10 +14,7 @@ export const genesis_5_32: Verse = {
       englishNatural: 'And Rest (Noah)',
       root: 'nuach',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
         state: 'absolute',
@@ -34,10 +31,7 @@ export const genesis_5_32: Verse = {
       englishLiteral: 'son-of',
       englishNatural: 'a son of',
       root: 'ben',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -51,10 +45,7 @@ export const genesis_5_32: Verse = {
       englishLiteral: 'five',
       englishNatural: 'five',
       root: 'chamesh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'numeral',
       },
@@ -65,10 +56,7 @@ export const genesis_5_32: Verse = {
       englishLiteral: 'hundreds',
       englishNatural: 'hundred',
       root: 'meah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'numeral',
         number: 'plural',
@@ -80,10 +68,7 @@ export const genesis_5_32: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -141,10 +126,7 @@ export const genesis_5_32: Verse = {
       transliteration: 'et-',
       englishLiteral: '↳',
       root: 'et',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
     },
     {
       hebrew: 'שֵׁם',
@@ -152,10 +134,7 @@ export const genesis_5_32: Verse = {
       englishLiteral: 'Name (Shem)',
       englishNatural: 'Name (Shem)',
       root: 'shem',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         state: 'absolute',
@@ -169,10 +148,7 @@ export const genesis_5_32: Verse = {
       transliteration: 'et-',
       englishLiteral: '↳',
       root: 'et',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
     },
     {
       hebrew: 'חָם',
@@ -180,10 +156,7 @@ export const genesis_5_32: Verse = {
       englishLiteral: 'Hot (Ham)',
       englishNatural: 'Hot (Ham)',
       root: 'cham',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
         state: 'absolute',
@@ -199,10 +172,7 @@ export const genesis_5_32: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
     },
     {
       hebrew: 'יָפֶת',
@@ -210,10 +180,7 @@ export const genesis_5_32: Verse = {
       englishLiteral: 'Spacious (Japheth)',
       englishNatural: 'Spacious (Japheth)',
       root: 'yafet',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
         state: 'absolute',
@@ -237,6 +204,6 @@ export const genesis_5_32: Verse = {
     englishNatural:
       'And Rest (Noah), a son of five hundred years, and Rest (Noah) birthed Name (Shem), Hot (Ham), and Spacious (Japheth).',
     kjv: 'And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

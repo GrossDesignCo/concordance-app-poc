@@ -53,10 +53,7 @@ export const genesis_4_13: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -67,10 +64,7 @@ export const genesis_4_13: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -86,10 +80,7 @@ export const genesis_4_13: Verse = {
       englishLiteral: 'Great',
       englishNatural: 'Great',
       root: 'gadol',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -107,10 +98,7 @@ export const genesis_4_13: Verse = {
       englishNatural: 'is my twisting',
       root: 'avon',
       suffixes: ['i'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -129,10 +117,7 @@ export const genesis_4_13: Verse = {
       englishNatural: 'from lifting-up',
       root: 'nasa',
       prefixes: ['mi'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'qal',
@@ -153,6 +138,6 @@ export const genesis_4_13: Verse = {
     englishNatural:
       'Acquired (Cain) said to He-Who-Is (YHWH), "Great is my twisting, from lifting-up.',
     kjv: 'And Cain said unto the LORD, My punishment is greater than I can bear.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

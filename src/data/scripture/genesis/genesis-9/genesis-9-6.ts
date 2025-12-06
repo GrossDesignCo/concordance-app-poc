@@ -13,10 +13,7 @@ export const genesis_9_6: Verse = {
       englishLiteral: 'One-pouring',
       englishNatural: 'One-pouring',
       root: 'shafakh',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -32,10 +29,7 @@ export const genesis_9_6: Verse = {
       englishLiteral: 'blood-of',
       englishNatural: 'the blood of',
       root: 'dam',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const genesis_9_6: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -72,10 +63,7 @@ export const genesis_9_6: Verse = {
       englishNatural: 'in the Earth (Adam)',
       root: 'adam',
       prefixes: ['ba'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -89,10 +77,7 @@ export const genesis_9_6: Verse = {
       englishNatural: 'his blood',
       root: 'dam',
       suffixes: ['o'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -105,10 +90,7 @@ export const genesis_9_6: Verse = {
       englishLiteral: 'it-will-be-poured',
       englishNatural: 'will be poured',
       root: 'shafakh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -129,10 +111,7 @@ export const genesis_9_6: Verse = {
       englishLiteral: 'for',
       englishNatural: 'for',
       root: 'ki',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'conjunction',
       },
@@ -144,10 +123,7 @@ export const genesis_9_6: Verse = {
       englishNatural: 'in the image of',
       root: 'tselem',
       prefixes: ['be'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -162,10 +138,7 @@ export const genesis_9_6: Verse = {
       englishNatural: 'God',
       root: 'eloah',
       suffixes: ['im'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -182,10 +155,7 @@ export const genesis_9_6: Verse = {
       englishLiteral: 'he-made',
       englishNatural: 'he made',
       root: 'asah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -201,10 +171,7 @@ export const genesis_9_6: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'particle',
       },
@@ -216,10 +183,7 @@ export const genesis_9_6: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -242,6 +206,6 @@ export const genesis_9_6: Verse = {
     englishNatural:
       'One-pouring the blood of the Earth (Adam), in the Earth (Adam) his blood will be poured; for in the image of God, he made the Earth (Adam).',
     kjv: "Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

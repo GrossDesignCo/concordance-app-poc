@@ -70,10 +70,7 @@ export const genesis_2_7: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
     },
     {
       hebrew: 'הָאָדָם',
@@ -82,10 +79,7 @@ export const genesis_2_7: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -101,10 +95,7 @@ export const genesis_2_7: Verse = {
       englishLiteral: 'dust',
       englishNatural: 'dust',
       root: 'afar',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -117,10 +108,7 @@ export const genesis_2_7: Verse = {
       englishLiteral: 'from-',
       englishNatural: 'from',
       root: 'min',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -132,10 +120,7 @@ export const genesis_2_7: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -153,10 +138,7 @@ export const genesis_2_7: Verse = {
       englishNatural: 'and blew',
       root: 'naphach',
       prefixes: ['va'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -175,10 +157,7 @@ export const genesis_2_7: Verse = {
       root: 'af',
       prefixes: ['be'],
       suffixes: ['av'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -191,10 +170,7 @@ export const genesis_2_7: Verse = {
       englishLiteral: 'breath-of',
       englishNatural: 'the breath of',
       root: 'neshamah',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
       },
@@ -205,10 +181,7 @@ export const genesis_2_7: Verse = {
       englishLiteral: 'lives',
       englishNatural: 'life',
       root: 'chayah',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -316,6 +289,6 @@ export const genesis_2_7: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God formed the Earth (Adam), dust from the earth; and blew into his nostrils the breath of life, and the Earth (Adam) was a living throat.',
     kjv: 'And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

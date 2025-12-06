@@ -13,10 +13,7 @@ export const genesis_9_13: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'particle',
       },
@@ -29,10 +26,7 @@ export const genesis_9_13: Verse = {
       englishNatural: 'My bow',
       root: 'qeshet',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -45,10 +39,7 @@ export const genesis_9_13: Verse = {
       englishLiteral: 'I-have-given',
       englishNatural: 'I have given',
       root: 'natan',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -65,10 +56,7 @@ export const genesis_9_13: Verse = {
       englishNatural: 'in the cloud',
       root: 'anan',
       prefixes: ['ba'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -87,10 +75,7 @@ export const genesis_9_13: Verse = {
       englishNatural: 'and it will be',
       root: 'hayah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -107,10 +92,7 @@ export const genesis_9_13: Verse = {
       englishNatural: 'for the sign of',
       root: 'ot',
       prefixes: ['le'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -124,10 +106,7 @@ export const genesis_9_13: Verse = {
       englishLiteral: 'covenant',
       englishNatural: 'covenant',
       root: 'berit',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -146,10 +125,7 @@ export const genesis_9_13: Verse = {
       englishNatural: 'between me',
       root: 'beyn',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -161,10 +137,7 @@ export const genesis_9_13: Verse = {
       englishNatural: 'and between',
       root: 'beyn',
       prefixes: ['u'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -176,10 +149,7 @@ export const genesis_9_13: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -202,6 +172,6 @@ export const genesis_9_13: Verse = {
     englishNatural:
       'My bow I have given in the cloud, and it will be for the sign of covenant, between me and between the land.',
     kjv: 'I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

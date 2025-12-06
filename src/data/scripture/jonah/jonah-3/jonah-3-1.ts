@@ -70,10 +70,7 @@ export const jonah_3_1: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -84,10 +81,7 @@ export const jonah_3_1: Verse = {
       englishLiteral: 'Dove (Jonah)',
       englishNatural: 'Dove (Jonah)',
       root: 'yonah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -100,10 +94,7 @@ export const jonah_3_1: Verse = {
       englishLiteral: 'second_time',
       englishNatural: 'the second time',
       root: 'sheni',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -121,10 +112,7 @@ export const jonah_3_1: Verse = {
       englishNatural: 'to say',
       root: 'amar',
       prefixes: ['le'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'verb',
         tense: 'infinitive_construct',
@@ -145,6 +133,6 @@ export const jonah_3_1: Verse = {
     englishNatural:
       'And the word of He-Who-Is (YHWH) was to Dove (Jonah) the second time, to say;',
     kjv: 'And the word of the LORD came unto Jonah the second time, saying,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

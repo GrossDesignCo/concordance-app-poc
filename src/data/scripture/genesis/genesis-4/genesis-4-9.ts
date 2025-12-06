@@ -53,10 +53,7 @@ export const genesis_4_9: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -67,10 +64,7 @@ export const genesis_4_9: Verse = {
       englishLiteral: 'Acquired (Cain)',
       englishNatural: 'Acquired (Cain)',
       root: 'qanah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -86,10 +80,7 @@ export const genesis_4_9: Verse = {
       englishLiteral: 'Where',
       englishNatural: 'Where',
       root: 'ay',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'adverb',
       },
@@ -108,10 +99,7 @@ export const genesis_4_9: Verse = {
       englishLiteral: 'Vapor (Abel)',
       englishNatural: 'Vapor (Abel)',
       root: 'hevel',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -127,10 +115,7 @@ export const genesis_4_9: Verse = {
       englishNatural: 'your brother',
       root: 'ach',
       suffixes: ['kha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -150,10 +135,7 @@ export const genesis_4_9: Verse = {
       englishNatural: 'And he said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -290,6 +272,6 @@ export const genesis_4_9: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) said to Acquired (Cain), "Where? Vapor (Abel), your brother?" And he said, "I knew not, Am I keeper of my brother?"',
     kjv: "And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother's keeper?",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

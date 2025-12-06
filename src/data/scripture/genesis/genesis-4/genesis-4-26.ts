@@ -14,10 +14,7 @@ export const genesis_4_26: Verse = {
       englishNatural: 'And to Appointed (Seth)',
       root: 'Shet',
       prefixes: ['u', 'le'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -34,10 +31,7 @@ export const genesis_4_26: Verse = {
       englishLiteral: 'also',
       englishNatural: 'also',
       root: 'gam',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'adverb',
       },
@@ -48,10 +42,7 @@ export const genesis_4_26: Verse = {
       englishLiteral: 'he',
       englishNatural: 'he',
       root: 'hu',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'pronoun',
         gender: 'masculine',
@@ -65,10 +56,7 @@ export const genesis_4_26: Verse = {
       englishLiteral: 'was-born',
       englishNatural: 'was born',
       root: 'yalad',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -84,10 +72,7 @@ export const genesis_4_26: Verse = {
       englishLiteral: 'son',
       englishNatural: 'a son',
       root: 'ben',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -105,10 +90,7 @@ export const genesis_4_26: Verse = {
       englishNatural: 'and he called-out',
       root: 'qara',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -124,10 +106,7 @@ export const genesis_4_26: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'particle',
       },
@@ -139,10 +118,7 @@ export const genesis_4_26: Verse = {
       englishNatural: 'his name',
       root: 'shem',
       suffixes: ['o'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -155,10 +131,7 @@ export const genesis_4_26: Verse = {
       englishLiteral: 'Mortal (Enosh)',
       englishNatural: 'Mortal (Enosh)',
       root: 'Enosh',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -175,10 +148,7 @@ export const genesis_4_26: Verse = {
       englishLiteral: 'then',
       englishNatural: 'then',
       root: 'az',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'adverb',
       },
@@ -189,10 +159,7 @@ export const genesis_4_26: Verse = {
       englishLiteral: 'was-begun',
       englishNatural: 'it began',
       root: 'chalal',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -213,10 +180,7 @@ export const genesis_4_26: Verse = {
       englishNatural: 'to call-out',
       root: 'qara',
       prefixes: ['li'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -230,10 +194,7 @@ export const genesis_4_26: Verse = {
       englishNatural: 'in the name of',
       root: 'shem',
       prefixes: ['be'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -247,10 +208,7 @@ export const genesis_4_26: Verse = {
       englishLiteral: 'He-Who-Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -276,6 +234,6 @@ export const genesis_4_26: Verse = {
     englishNatural:
       'And to Appointed (Seth) also he was born a son; and he called-out his name Mortal (Enosh); then it began, to call-out in the name of He-Who-Is (YHWH).',
     kjv: 'And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

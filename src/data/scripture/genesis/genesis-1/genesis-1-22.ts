@@ -78,10 +78,7 @@ export const genesis_1_22: Verse = {
       englishNatural: 'saying',
       root: 'amar',
       prefixes: ['le'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'verb',
       },
@@ -96,10 +93,7 @@ export const genesis_1_22: Verse = {
       englishLiteral: 'Be_fruitful',
       englishNatural: 'Be-fruitful',
       root: 'parah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -120,10 +114,7 @@ export const genesis_1_22: Verse = {
       englishNatural: 'and multiply',
       root: 'rabah',
       prefixes: ['u'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -140,10 +131,7 @@ export const genesis_1_22: Verse = {
       englishNatural: 'and fill',
       root: 'male',
       prefixes: ['u'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -159,10 +147,7 @@ export const genesis_1_22: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
     },
     {
       hebrew: 'הַמַּ֙יִם֙',
@@ -171,10 +156,7 @@ export const genesis_1_22: Verse = {
       englishNatural: 'the waters',
       root: 'mayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -189,10 +171,7 @@ export const genesis_1_22: Verse = {
       root: 'yam',
       prefixes: ['be', 'ha'],
       suffixes: ['im'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -210,10 +189,7 @@ export const genesis_1_22: Verse = {
       englishNatural: 'And let the flyer',
       root: 'uf',
       prefixes: ['ve', 'ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -228,10 +204,7 @@ export const genesis_1_22: Verse = {
       englishNatural: 'multiply',
       root: 'rabah',
       prefixes: ['yi'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -248,10 +221,7 @@ export const genesis_1_22: Verse = {
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['be', 'ha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -274,6 +244,6 @@ export const genesis_1_22: Verse = {
     englishNatural:
       'And God blessed them, saying, "Be-fruitful and multiply and fill the waters in the seas, And let the flyer multiply in the land."',
     kjv: 'And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

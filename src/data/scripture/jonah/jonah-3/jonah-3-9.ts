@@ -13,10 +13,7 @@ export const jonah_3_9: Verse = {
       englishLiteral: 'who-',
       englishNatural: 'Who',
       root: 'mi',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'pronoun',
       },
@@ -28,10 +25,7 @@ export const jonah_3_9: Verse = {
       englishLiteral: 'knows',
       englishNatural: 'knows',
       root: 'yada',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -115,10 +109,7 @@ export const jonah_3_9: Verse = {
       englishNatural: 'and turn',
       root: 'shuv',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -136,10 +127,7 @@ export const jonah_3_9: Verse = {
       englishNatural: 'from the burning of',
       root: 'charon',
       prefixes: ['me'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -154,10 +142,7 @@ export const jonah_3_9: Verse = {
       englishNatural: 'his nose',
       root: 'aph',
       suffixes: ['o'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -229,6 +214,6 @@ export const jonah_3_9: Verse = {
     englishNatural:
       'Who knows? The God will return and will comfort, and turn from the burning of his nose, and we will perish not?"',
     kjv: 'Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-19' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

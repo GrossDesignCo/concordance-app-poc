@@ -14,10 +14,7 @@ export const proverbs_8_1: Verse = {
       englishNatural: 'Does not',
       root: 'lo',
       prefixes: ['ha'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
@@ -28,10 +25,7 @@ export const proverbs_8_1: Verse = {
       englishLiteral: 'Wisdom',
       englishNatural: 'Wisdom',
       root: 'chokmah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -44,10 +38,7 @@ export const proverbs_8_1: Verse = {
       englishLiteral: 'will-call_out',
       englishNatural: 'call-out',
       root: 'qara',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -68,10 +59,7 @@ export const proverbs_8_1: Verse = {
       englishNatural: 'and Understanding',
       root: 'tevunah',
       prefixes: ['u'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -85,10 +73,7 @@ export const proverbs_8_1: Verse = {
       englishLiteral: 'will-give',
       englishNatural: 'give',
       root: 'natan',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -105,10 +90,7 @@ export const proverbs_8_1: Verse = {
       englishNatural: 'her voice',
       root: 'qol',
       suffixes: ['ah'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -126,6 +108,6 @@ export const proverbs_8_1: Verse = {
     englishLiteral: 'Does-not Wisdom will-call_out? and-Understanding will-give voice-her?',
     englishNatural: 'Does not Wisdom call-out? and Understanding give her voice?',
     kjv: 'Doth not wisdom cry? and understanding put forth her voice?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

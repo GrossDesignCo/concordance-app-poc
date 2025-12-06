@@ -14,10 +14,7 @@ export const genesis_6_4: Verse = {
       englishNatural: 'The Fallen (Nephilim)',
       root: 'nefilim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -31,10 +28,7 @@ export const genesis_6_4: Verse = {
       englishLiteral: 'were',
       englishNatural: 'were',
       root: 'hayah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -51,10 +45,7 @@ export const genesis_6_4: Verse = {
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['ba'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -110,10 +101,7 @@ export const genesis_6_4: Verse = {
       englishNatural: 'and also',
       root: 'gam',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'adverb',
       },
@@ -124,10 +112,7 @@ export const genesis_6_4: Verse = {
       englishLiteral: 'after-',
       englishNatural: 'after',
       root: 'achar',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -138,10 +123,7 @@ export const genesis_6_4: Verse = {
       englishLiteral: 'so',
       englishNatural: 'so',
       root: 'ken',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adverb',
       },
@@ -157,10 +139,7 @@ export const genesis_6_4: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'relative',
       },
@@ -224,10 +203,7 @@ export const genesis_6_4: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -238,10 +214,7 @@ export const genesis_6_4: Verse = {
       englishLiteral: 'daughters-of',
       englishNatural: 'the daughters of',
       root: 'bat',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -256,10 +229,7 @@ export const genesis_6_4: Verse = {
       englishNatural: 'Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -333,10 +303,7 @@ export const genesis_6_4: Verse = {
       englishNatural: 'the mighty-ones',
       root: 'gibbor',
       prefixes: ['ha'],
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -354,10 +321,7 @@ export const genesis_6_4: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'relative',
       },
@@ -369,10 +333,7 @@ export const genesis_6_4: Verse = {
       englishNatural: 'from the-age',
       root: 'olam',
       prefixes: ['me'],
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -389,10 +350,7 @@ export const genesis_6_4: Verse = {
       englishLiteral: 'men-of',
       englishNatural: 'men of',
       root: 'ish',
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -407,10 +365,7 @@ export const genesis_6_4: Verse = {
       englishNatural: 'the name',
       root: 'shem',
       prefixes: ['ha'],
-      order: {
-        hebrew: 23,
-        english: 23,
-      },
+      order: 23,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -433,6 +388,6 @@ export const genesis_6_4: Verse = {
     englishNatural:
       'The Fallen (Nephilim) were in the land in those days; and also after so, which the sons of God came to the daughters of Earth (Adam), and to them they birthed the mighty-ones, which from the-age, men of the name.',
     kjv: 'There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare them children, the same became mighty men which were of old, men of renown.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

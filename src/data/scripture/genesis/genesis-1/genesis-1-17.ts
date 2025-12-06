@@ -72,10 +72,7 @@ export const genesis_1_17: Verse = {
       englishNatural: 'in the hammering-out',
       root: 'raqia',
       prefixes: ['be'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -93,10 +90,7 @@ export const genesis_1_17: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -114,10 +108,7 @@ export const genesis_1_17: Verse = {
       englishNatural: 'to shine-light',
       root: 'or',
       prefixes: ['le'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
       },
@@ -128,10 +119,7 @@ export const genesis_1_17: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -143,10 +131,7 @@ export const genesis_1_17: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -165,6 +150,6 @@ export const genesis_1_17: Verse = {
     englishLiteral: 'And-put them Gods in-hammering_out, the-skies, to-shine_light over the-land.',
     englishNatural: 'And God put them in the hammering-out, the skies, to shine-light over the land.',
     kjv: 'And God set them in the firmament of the heaven to give light upon the earth,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

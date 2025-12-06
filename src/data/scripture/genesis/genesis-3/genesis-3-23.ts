@@ -72,10 +72,7 @@ export const genesis_3_23: Verse = {
       englishNatural: 'from Garden',
       root: 'gan',
       prefixes: ['mi'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -86,10 +83,7 @@ export const genesis_3_23: Verse = {
       englishLiteral: 'Delight (Eden)',
       englishNatural: 'of Delight (Eden)',
       root: 'eden',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -105,10 +99,7 @@ export const genesis_3_23: Verse = {
       englishNatural: 'to serve',
       root: 'avad',
       prefixes: ['la'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
       },
@@ -120,10 +111,7 @@ export const genesis_3_23: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'particle',
       },
@@ -135,10 +123,7 @@ export const genesis_3_23: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -216,6 +201,6 @@ export const genesis_3_23: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God sent him from Garden of Delight (Eden); to serve the earth from there which he was taken.',
     kjv: 'Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

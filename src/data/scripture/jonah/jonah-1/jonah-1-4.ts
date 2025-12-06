@@ -14,10 +14,7 @@ export const jonah_1_4: Verse = {
       englishNatural: 'And He-Who-Is (YHWH)',
       root: 'yhwh',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -29,10 +26,7 @@ export const jonah_1_4: Verse = {
       englishLiteral: 'hurled',
       englishNatural: 'hurled',
       root: 'tul',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -82,10 +76,7 @@ export const jonah_1_4: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -97,10 +88,7 @@ export const jonah_1_4: Verse = {
       englishNatural: 'the sea',
       root: 'yam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -118,10 +106,7 @@ export const jonah_1_4: Verse = {
       englishNatural: 'and there was',
       root: 'hayah',
       prefixes: ['va'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -172,10 +157,7 @@ export const jonah_1_4: Verse = {
       englishNatural: 'in the sea',
       root: 'yam',
       prefixes: ['ba', 'ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -193,10 +175,7 @@ export const jonah_1_4: Verse = {
       englishNatural: 'and the ship',
       root: 'aniyah',
       prefixes: ['ve', 'ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -211,10 +190,7 @@ export const jonah_1_4: Verse = {
       englishNatural: 'planned',
       root: 'chashav',
       suffixes: ['ah'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -230,10 +206,7 @@ export const jonah_1_4: Verse = {
       englishLiteral: 'to-be-broken',
       englishNatural: 'to be broken',
       root: 'lehishabeir',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'verb',
         tense: 'infinitive_construct',
@@ -256,6 +229,6 @@ export const jonah_1_4: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) hurled a great wind to the sea, and there was a great tempest in the sea, and the ship planned to be broken.',
     kjv: 'But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

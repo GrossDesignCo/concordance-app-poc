@@ -56,10 +56,7 @@ export const genesis_3_6: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'conjunction',
       },
@@ -87,10 +84,7 @@ export const genesis_3_6: Verse = {
       englishNatural: 'the tree',
       root: 'etz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -151,10 +145,7 @@ export const genesis_3_6: Verse = {
       englishLiteral: 'it',
       englishNatural: 'it was',
       root: 'hu',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'pronoun',
       },
@@ -407,6 +398,6 @@ export const genesis_3_6: Verse = {
     englishNatural:
       'And the woman saw that the tree was good for food, and that it was desirable to the eyes, and coveted was the tree to make wise, and she took from its fruit and ate, and gave also to her man with her; and he ate.',
     kjv: 'And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

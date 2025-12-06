@@ -105,10 +105,7 @@ export const genesis_1_11: Verse = {
       englishLiteral: 'tender_shoot',
       englishNatural: 'tender-shoot',
       root: 'dasha',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -125,10 +122,7 @@ export const genesis_1_11: Verse = {
       englishLiteral: 'herb',
       englishNatural: 'herb',
       root: 'esev',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -142,10 +136,7 @@ export const genesis_1_11: Verse = {
       englishNatural: 'seeding',
       root: 'zara',
       prefixes: ['ma'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'verb',
       },
@@ -156,10 +147,7 @@ export const genesis_1_11: Verse = {
       englishLiteral: 'seed',
       englishNatural: 'seed',
       root: 'zara',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -209,10 +197,7 @@ export const genesis_1_11: Verse = {
       englishLiteral: 'making',
       englishNatural: 'making',
       root: 'asah',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'verb',
       },
@@ -223,10 +208,7 @@ export const genesis_1_11: Verse = {
       englishLiteral: 'fruit',
       englishNatural: 'fruit',
       root: 'pri',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -241,10 +223,7 @@ export const genesis_1_11: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['o'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
       },
@@ -259,10 +238,7 @@ export const genesis_1_11: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'relative',
       },
@@ -277,10 +253,7 @@ export const genesis_1_11: Verse = {
       englishNatural: 'has its seed',
       root: 'zara',
       suffixes: ['o'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'noun',
       },
@@ -292,10 +265,7 @@ export const genesis_1_11: Verse = {
       englishNatural: 'in it',
       root: 'be',
       suffixes: ['o'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'preposition',
       },
@@ -310,10 +280,7 @@ export const genesis_1_11: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'preposition',
       },
@@ -325,10 +292,7 @@ export const genesis_1_11: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'noun',
       },
@@ -344,10 +308,7 @@ export const genesis_1_11: Verse = {
       englishNatural: 'And it was',
       root: 'hayah',
       prefixes: ['va'],
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -364,10 +325,7 @@ export const genesis_1_11: Verse = {
       englishLiteral: 'so',
       englishNatural: 'so',
       root: 'ken',
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'adverb',
       },
@@ -388,6 +346,6 @@ export const genesis_1_11: Verse = {
     englishNatural:
       'And God said, "Let the land tenderly-shoot-up tender-shoot, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." And it was so.',
     kjv: 'And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -13,10 +13,7 @@ export const proverbs_1_7: Verse = {
       englishLiteral: 'Fear-of',
       englishNatural: 'Fear of',
       root: 'yirah',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -30,10 +27,7 @@ export const proverbs_1_7: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
       },
@@ -48,10 +42,7 @@ export const proverbs_1_7: Verse = {
       englishLiteral: 'heading-of',
       englishNatural: 'heading of',
       root: 'rosh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -64,10 +55,7 @@ export const proverbs_1_7: Verse = {
       englishLiteral: 'knowledge',
       englishNatural: 'knowledge',
       root: 'daat',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -84,10 +72,7 @@ export const proverbs_1_7: Verse = {
       englishLiteral: 'Wisdom',
       englishNatural: 'Wisdom',
       root: 'chokmah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -102,10 +87,7 @@ export const proverbs_1_7: Verse = {
       englishNatural: 'and discipline',
       root: 'musar',
       prefixes: ['u'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -119,10 +101,7 @@ export const proverbs_1_7: Verse = {
       englishNatural: 'fools',
       root: 'ewil',
       suffixes: ['im'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -135,10 +114,7 @@ export const proverbs_1_7: Verse = {
       englishLiteral: 'despise',
       englishNatural: 'despise',
       root: 'bazah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -161,6 +137,6 @@ export const proverbs_1_7: Verse = {
     englishNatural:
       'Fear of He-Who-Is (YHWH), heading of knowledge; Wisdom and discipline fools despise.',
     kjv: 'The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

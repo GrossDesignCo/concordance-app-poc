@@ -55,10 +55,7 @@ export const genesis_5_24: Verse = {
       englishLiteral: '↳',
       englishNatural: 'with',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
     },
     {
       hebrew: 'הָאֱלֹהִים',
@@ -68,10 +65,7 @@ export const genesis_5_24: Verse = {
       root: 'eloah',
       prefixes: ['ha'],
       suffixes: ['im'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -90,10 +84,7 @@ export const genesis_5_24: Verse = {
       root: 'ayin',
       prefixes: ['ve'],
       suffixes: ['enu'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'adverb',
       },
@@ -109,10 +100,7 @@ export const genesis_5_24: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'conjunction',
       },
@@ -194,6 +182,6 @@ export const genesis_5_24: Verse = {
     englishNatural:
       'And Dedicated (Enoch) walked with the God, and he was not, that God took him.',
     kjv: 'And Enoch walked with God: and he was not; for God took him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

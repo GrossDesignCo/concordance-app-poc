@@ -70,10 +70,7 @@ export const genesis_2_19: Verse = {
       englishLiteral: 'from-',
       englishNatural: 'from',
       root: 'min',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -85,10 +82,7 @@ export const genesis_2_19: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -101,10 +95,7 @@ export const genesis_2_19: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'every',
       root: 'kol',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'adjective',
       },
@@ -115,10 +106,7 @@ export const genesis_2_19: Verse = {
       englishLiteral: 'living_being-of',
       englishNatural: 'living-being of',
       root: 'chayah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -132,10 +120,7 @@ export const genesis_2_19: Verse = {
       englishNatural: 'the field',
       root: 'sadeh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -153,10 +138,7 @@ export const genesis_2_19: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
     },
     {
       hebrew: 'כָּל־',
@@ -164,10 +146,7 @@ export const genesis_2_19: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'every',
       root: 'kol',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'adjective',
       },
@@ -178,10 +157,7 @@ export const genesis_2_19: Verse = {
       englishLiteral: 'flyer',
       englishNatural: 'flyer of',
       root: 'oph',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -195,10 +171,7 @@ export const genesis_2_19: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -216,10 +189,7 @@ export const genesis_2_19: Verse = {
       englishNatural: 'And brought',
       root: 'bo',
       prefixes: ['va'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -236,10 +206,7 @@ export const genesis_2_19: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'preposition',
       },
@@ -251,10 +218,7 @@ export const genesis_2_19: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -268,10 +232,7 @@ export const genesis_2_19: Verse = {
       englishNatural: 'to see',
       root: 'raah',
       prefixes: ['li'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -283,10 +244,7 @@ export const genesis_2_19: Verse = {
       transliteration: 'mah-',
       englishLiteral: 'what-',
       englishNatural: 'what',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'interrogative',
       },
@@ -297,10 +255,7 @@ export const genesis_2_19: Verse = {
       englishLiteral: 'he-calls_out-',
       englishNatural: 'he would call-out',
       root: 'qara',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -317,10 +272,7 @@ export const genesis_2_19: Verse = {
       englishNatural: 'to it',
       root: 'lo',
       suffixes: ['o'],
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'preposition',
       },
@@ -336,10 +288,7 @@ export const genesis_2_19: Verse = {
       englishNatural: 'And everything',
       root: 'kol',
       prefixes: ['ve'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'adjective',
       },
@@ -351,10 +300,7 @@ export const genesis_2_19: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         type: 'relative',
       },
@@ -460,10 +406,7 @@ export const genesis_2_19: Verse = {
       englishLiteral: 'it',
       englishNatural: 'that was',
       root: 'hu',
-      order: {
-        hebrew: 27,
-        english: 27,
-      },
+      order: 27,
       morphology: {
         type: 'pronoun',
       },
@@ -475,10 +418,7 @@ export const genesis_2_19: Verse = {
       englishNatural: 'its name',
       root: 'shem',
       suffixes: ['o'],
-      order: {
-        hebrew: 28,
-        english: 28,
-      },
+      order: 28,
       morphology: {
         type: 'noun',
       },
@@ -499,6 +439,6 @@ export const genesis_2_19: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God formed from the earth every living-being of the field, and every flyer of the skies; And brought to the Earth (Adam) to see what he would call-out to it; And everything which the Earth (Adam) would call-out to it, each living throat, that was its name.',
     kjv: 'And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

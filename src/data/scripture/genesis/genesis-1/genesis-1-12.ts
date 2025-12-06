@@ -56,10 +56,7 @@ export const genesis_1_12: Verse = {
       englishLiteral: 'tender_shoot',
       englishNatural: 'tender-shoot',
       root: 'dasha',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -76,10 +73,7 @@ export const genesis_1_12: Verse = {
       englishLiteral: 'herb',
       englishNatural: 'herb',
       root: 'esev',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -93,10 +87,7 @@ export const genesis_1_12: Verse = {
       englishNatural: 'seeding',
       root: 'zara',
       prefixes: ['ma'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'verb',
       },
@@ -107,10 +98,7 @@ export const genesis_1_12: Verse = {
       englishLiteral: 'seed',
       englishNatural: 'seed',
       root: 'zara',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -125,10 +113,7 @@ export const genesis_1_12: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['hu'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
       },
@@ -144,10 +129,7 @@ export const genesis_1_12: Verse = {
       englishNatural: 'and tree',
       root: 'etz',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -160,10 +142,7 @@ export const genesis_1_12: Verse = {
       englishLiteral: 'making',
       englishNatural: 'making',
       root: 'asah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'verb',
       },
@@ -175,10 +154,7 @@ export const genesis_1_12: Verse = {
       englishNatural: 'fruit',
       root: 'pri',
       suffixes: ['i'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -191,10 +167,7 @@ export const genesis_1_12: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'relative',
       },
@@ -206,10 +179,7 @@ export const genesis_1_12: Verse = {
       englishNatural: 'has its seed in it',
       root: 'zara',
       suffixes: ['o'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
       },
@@ -222,10 +192,7 @@ export const genesis_1_12: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['hu'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
       },
@@ -289,10 +256,7 @@ export const genesis_1_12: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that it was',
       root: 'ki',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'conjunction',
       },
@@ -303,10 +267,7 @@ export const genesis_1_12: Verse = {
       englishLiteral: 'good',
       englishNatural: 'good',
       root: 'tov',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'adjective',
       },
@@ -323,6 +284,6 @@ export const genesis_1_12: Verse = {
     englishLiteral: 'And-brought-out the-land tender_shoot, herb seeding seed to-its-kind, and-tree making fruit which its-seed-in-it to-its-kind. And-saw Gods, that- good.',
     englishNatural: 'And the land brought-out tender-shoot, herb seeding seed after its kind, and tree making fruit which has its seed in it after its kind. And God saw, that it was good.',
     kjv: 'And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

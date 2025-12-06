@@ -71,10 +71,7 @@ export const genesis_3_21: Verse = {
       englishNatural: 'to Earth (Adam)',
       root: 'adam',
       prefixes: ['le'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -89,10 +86,7 @@ export const genesis_3_21: Verse = {
       root: 'ishah',
       prefixes: ['u', 'le'],
       suffixes: ['o'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -109,10 +103,7 @@ export const genesis_3_21: Verse = {
       englishLiteral: 'tunics',
       englishNatural: 'tunics',
       root: 'kuttonet',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -125,10 +116,7 @@ export const genesis_3_21: Verse = {
       englishLiteral: 'skin',
       englishNatural: 'of skin',
       root: 'or_skin',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -143,10 +131,7 @@ export const genesis_3_21: Verse = {
       root: 'labash',
       prefixes: ['va', 'yi'],
       suffixes: ['am'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -172,6 +157,6 @@ export const genesis_3_21: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God made to Earth (Adam) and to his woman; tunics of skin and clothed them.',
     kjv: 'Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -56,10 +56,7 @@ export const genesis_7_12: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -71,10 +68,7 @@ export const genesis_7_12: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -92,10 +86,7 @@ export const genesis_7_12: Verse = {
       englishLiteral: 'forty',
       englishNatural: 'forty',
       root: 'arbaim',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'numeral',
       },
@@ -106,10 +97,7 @@ export const genesis_7_12: Verse = {
       englishLiteral: 'day',
       englishNatural: 'days',
       root: 'yom',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -123,10 +111,7 @@ export const genesis_7_12: Verse = {
       englishNatural: 'and forty',
       root: 'arbaim',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'numeral',
       },
@@ -137,10 +122,7 @@ export const genesis_7_12: Verse = {
       englishLiteral: 'night',
       englishNatural: 'nights',
       root: 'laylah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -162,6 +144,6 @@ export const genesis_7_12: Verse = {
     englishNatural:
       'And the rain was over the land, forty days and forty nights.',
     kjv: 'And the rain was upon the earth forty days and forty nights.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

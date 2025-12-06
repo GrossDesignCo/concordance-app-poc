@@ -14,10 +14,7 @@ export const genesis_2_17: Verse = {
       englishNatural: 'and from the Tree',
       root: 'etz',
       prefixes: ['u', 'me'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -29,10 +26,7 @@ export const genesis_2_17: Verse = {
       englishNatural: 'of Knowledge of',
       root: 'daat',
       prefixes: ['ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
       },
@@ -43,10 +37,7 @@ export const genesis_2_17: Verse = {
       englishLiteral: 'good',
       englishNatural: 'Good',
       root: 'tov',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'adjective',
       },
@@ -58,10 +49,7 @@ export const genesis_2_17: Verse = {
       englishNatural: 'and Bad',
       root: 'ra',
       prefixes: ['va'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'adjective',
       },
@@ -132,10 +120,7 @@ export const genesis_2_17: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'conjunction',
       },
@@ -147,10 +132,7 @@ export const genesis_2_17: Verse = {
       englishNatural: 'in the day of',
       root: 'yom',
       prefixes: ['be'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -162,10 +144,7 @@ export const genesis_2_17: Verse = {
       englishNatural: 'your eating',
       root: 'akhal',
       suffixes: ['kha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -180,10 +159,7 @@ export const genesis_2_17: Verse = {
       root: 'min',
       prefixes: ['mi'],
       suffixes: ['nu'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -198,10 +174,7 @@ export const genesis_2_17: Verse = {
       englishLiteral: 'death',
       englishNatural: 'death',
       root: 'mavet',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
       },
@@ -217,10 +190,7 @@ export const genesis_2_17: Verse = {
       englishNatural: 'you will die',
       root: 'mut',
       prefixes: ['ta'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'verb',
         gender: 'masculine',
@@ -246,6 +216,6 @@ export const genesis_2_17: Verse = {
     englishNatural:
       'and from the Tree of Knowledge of Good and Bad, you will eat from it not; that in the day of your eating from it, death, you will die."',
     kjv: 'But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

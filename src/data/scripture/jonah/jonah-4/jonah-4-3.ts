@@ -14,10 +14,7 @@ export const jonah_4_3: Verse = {
       englishNatural: 'And now',
       root: 'attah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
@@ -29,10 +26,7 @@ export const jonah_4_3: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
       },
@@ -47,10 +41,7 @@ export const jonah_4_3: Verse = {
       englishLiteral: 'take-',
       englishNatural: 'take',
       root: 'laqach',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -66,10 +57,7 @@ export const jonah_4_3: Verse = {
       englishLiteral: 'please',
       englishNatural: 'please',
       root: 'na',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'particle',
       },
@@ -80,10 +68,7 @@ export const jonah_4_3: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'particle',
       },
@@ -95,10 +80,7 @@ export const jonah_4_3: Verse = {
       englishNatural: 'my throat',
       root: 'nephesh',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -112,10 +94,7 @@ export const jonah_4_3: Verse = {
       englishNatural: 'from me',
       root: 'min_from',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -130,10 +109,7 @@ export const jonah_4_3: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'relative',
       },
@@ -145,10 +121,7 @@ export const jonah_4_3: Verse = {
       englishLiteral: 'good',
       englishNatural: 'good-is',
       root: 'tov',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'adjective',
       },
@@ -160,10 +133,7 @@ export const jonah_4_3: Verse = {
       englishNatural: 'my death',
       root: 'mot',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -182,10 +152,7 @@ export const jonah_4_3: Verse = {
       root: 'chayyim',
       prefixes: ['me'],
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -208,6 +175,6 @@ export const jonah_4_3: Verse = {
     englishNatural:
       'And now He-Who-Is (YHWH), take please my throat from me, that good-is my death, from my life."',
     kjv: 'Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

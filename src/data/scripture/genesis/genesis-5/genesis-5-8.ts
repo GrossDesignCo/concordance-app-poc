@@ -81,10 +81,7 @@ export const genesis_5_8: Verse = {
       englishLiteral: 'two',
       englishNatural: 'two',
       root: 'shnayim',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -97,10 +94,7 @@ export const genesis_5_8: Verse = {
       englishLiteral: 'ten',
       englishNatural: 'ten',
       root: 'esreh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -113,10 +107,7 @@ export const genesis_5_8: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -130,10 +121,7 @@ export const genesis_5_8: Verse = {
       englishNatural: 'and nine',
       root: 'tesha',
       prefixes: ['u'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -146,10 +134,7 @@ export const genesis_5_8: Verse = {
       englishLiteral: 'hundreds',
       englishNatural: 'hundred',
       root: 'meah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -163,10 +148,7 @@ export const genesis_5_8: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -184,10 +166,7 @@ export const genesis_5_8: Verse = {
       englishNatural: 'and he died',
       root: 'mut',
       prefixes: ['va'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -214,6 +193,6 @@ export const genesis_5_8: Verse = {
     englishNatural:
       'And all the days of Appointed (Seth) were two ten years and nine hundred years, and he died.',
     kjv: 'And all the days of Seth were nine hundred and twelve years: and he died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

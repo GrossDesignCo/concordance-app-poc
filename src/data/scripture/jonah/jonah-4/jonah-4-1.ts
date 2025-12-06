@@ -14,10 +14,7 @@ export const jonah_4_1: Verse = {
       englishNatural: 'And it was bad',
       root: 'yara',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -34,10 +31,7 @@ export const jonah_4_1: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'preposition',
       },
@@ -48,10 +42,7 @@ export const jonah_4_1: Verse = {
       englishLiteral: 'Dove (Jonah)',
       englishNatural: 'Dove (Jonah)',
       root: 'yonah',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
       },
@@ -105,10 +96,7 @@ export const jonah_4_1: Verse = {
       englishNatural: 'and it fumed angrily',
       root: 'charah',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -125,10 +113,7 @@ export const jonah_4_1: Verse = {
       englishLiteral: 'to-him',
       englishNatural: 'to him',
       root: 'lo',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -147,6 +132,6 @@ export const jonah_4_1: Verse = {
     englishNatural:
       'And it was bad to Dove (Jonah), a great bad; and it fumed angrily to him.',
     kjv: 'But it displeased Jonah exceedingly, and he was very angry.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-19' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

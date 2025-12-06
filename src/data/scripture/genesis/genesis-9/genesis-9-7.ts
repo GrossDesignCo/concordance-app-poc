@@ -14,10 +14,7 @@ export const genesis_9_7: Verse = {
       englishNatural: 'And you',
       root: 'atem',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -37,10 +34,7 @@ export const genesis_9_7: Verse = {
       englishNatural: 'be-fruitful',
       root: 'parah',
       suffixes: ['u'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -58,10 +52,7 @@ export const genesis_9_7: Verse = {
       root: 'rabah',
       prefixes: ['u'],
       suffixes: ['u'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -83,10 +74,7 @@ export const genesis_9_7: Verse = {
       englishNatural: 'swarm',
       root: 'sharats',
       suffixes: ['u'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -103,10 +91,7 @@ export const genesis_9_7: Verse = {
       englishNatural: 'in the earth',
       root: 'eretz',
       prefixes: ['ba'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -125,10 +110,7 @@ export const genesis_9_7: Verse = {
       root: 'rabah',
       prefixes: ['u'],
       suffixes: ['u'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -145,10 +127,7 @@ export const genesis_9_7: Verse = {
       englishNatural: 'in it',
       root: 'be',
       suffixes: ['ah'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -170,6 +149,6 @@ export const genesis_9_7: Verse = {
     englishNatural:
       'And you, be-fruitful and multiply, swarm in the earth, and multiply in it."',
     kjv: 'And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -13,10 +13,7 @@ export const genesis_2_11: Verse = {
       englishLiteral: 'Name',
       englishNatural: 'The name',
       root: 'shem',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -29,10 +26,7 @@ export const genesis_2_11: Verse = {
       englishNatural: 'of one',
       root: 'echad',
       prefixes: ['ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'numeral',
       },
@@ -47,10 +41,7 @@ export const genesis_2_11: Verse = {
       englishLiteral: 'Spreading (Pishon)',
       englishNatural: 'Spreading (Pishon)',
       root: 'Pishon',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
       },
@@ -65,10 +56,7 @@ export const genesis_2_11: Verse = {
       englishLiteral: 'he',
       englishNatural: 'it',
       root: 'hu',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'pronoun',
       },
@@ -80,10 +68,7 @@ export const genesis_2_11: Verse = {
       englishNatural: 'goes-around',
       root: 'savav',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -96,10 +81,7 @@ export const genesis_2_11: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
     },
     {
       hebrew: 'כָּל־',
@@ -107,10 +89,7 @@ export const genesis_2_11: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adjective',
       },
@@ -121,10 +100,7 @@ export const genesis_2_11: Verse = {
       englishLiteral: 'land',
       englishNatural: 'the land',
       root: 'eretz',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -136,10 +112,7 @@ export const genesis_2_11: Verse = {
       englishNatural: 'of Strength (Havilah)',
       root: 'Chavilah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -154,10 +127,7 @@ export const genesis_2_11: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'relative',
       },
@@ -168,10 +138,7 @@ export const genesis_2_11: Verse = {
       englishLiteral: 'there',
       englishNatural: 'there is',
       root: 'sham',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'adverb',
       },
@@ -183,10 +150,7 @@ export const genesis_2_11: Verse = {
       englishNatural: 'the gold',
       root: 'zahav',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
       },
@@ -206,6 +170,6 @@ export const genesis_2_11: Verse = {
     englishNatural:
       'The name of one, Spreading (Pishon); it goes-around all the land of Strength (Havilah), which there is the gold.',
     kjv: 'The name of the first is Pishon: that is it which compasseth the whole land of Havilah, where there is gold;',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

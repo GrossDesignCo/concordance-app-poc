@@ -74,10 +74,7 @@ export const genesis_10_10: Verse = {
       englishLiteral: 'Confusion (Babylon)',
       englishNatural: 'Confusion (Babylon)',
       root: 'babel',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -96,10 +93,7 @@ export const genesis_10_10: Verse = {
       englishNatural: 'and Length (Erech)',
       root: 'erekh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -117,10 +111,7 @@ export const genesis_10_10: Verse = {
       englishNatural: 'and Fortress (Akkadia)',
       root: 'akkad',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -138,10 +129,7 @@ export const genesis_10_10: Verse = {
       englishNatural: 'and Fortress (Calneh)',
       root: 'kalneh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -160,10 +148,7 @@ export const genesis_10_10: Verse = {
       englishNatural: 'in the land of',
       root: 'eretz',
       prefixes: ['be'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -177,10 +162,7 @@ export const genesis_10_10: Verse = {
       englishLiteral: 'Tooth_of_Two (Shinar)',
       englishNatural: 'Tooth-of-Two (Shinar)',
       root: 'shinar',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',

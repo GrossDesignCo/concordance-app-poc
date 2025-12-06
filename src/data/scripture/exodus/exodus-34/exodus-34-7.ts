@@ -13,10 +13,7 @@ export const exodus_34_7: Verse = {
       englishLiteral: 'preserving',
       englishNatural: 'preserving',
       root: 'natsar',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -34,10 +31,7 @@ export const exodus_34_7: Verse = {
       englishLiteral: 'steadfast_love',
       englishNatural: 'steadfast-love',
       root: 'chesed',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -52,10 +46,7 @@ export const exodus_34_7: Verse = {
       root: 'elef',
       prefixes: ['la'],
       suffixes: ['im'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -72,10 +63,7 @@ export const exodus_34_7: Verse = {
       englishLiteral: 'lifting_up',
       englishNatural: 'lifting-up',
       root: 'nasa',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -91,10 +79,7 @@ export const exodus_34_7: Verse = {
       englishLiteral: 'twisting',
       englishNatural: 'twisting',
       root: 'avon',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -108,10 +93,7 @@ export const exodus_34_7: Verse = {
       englishNatural: 'and transgression',
       root: 'pesha',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -125,10 +107,7 @@ export const exodus_34_7: Verse = {
       englishNatural: 'and sin',
       root: 'chattaah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -146,10 +125,7 @@ export const exodus_34_7: Verse = {
       englishNatural: 'and clearing',
       root: 'nakeh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -165,10 +141,7 @@ export const exodus_34_7: Verse = {
       englishLiteral: 'not',
       englishNatural: 'not',
       root: 'lo',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'adverb',
       },
@@ -179,10 +152,7 @@ export const exodus_34_7: Verse = {
       englishLiteral: 'he-will-clear',
       englishNatural: 'he will clear',
       root: 'nakeh',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -202,10 +172,7 @@ export const exodus_34_7: Verse = {
       englishLiteral: 'visiting',
       englishNatural: 'visiting',
       root: 'paqad',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -221,10 +188,7 @@ export const exodus_34_7: Verse = {
       englishLiteral: 'twisting',
       englishNatural: 'twisting',
       root: 'avon',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -238,10 +202,7 @@ export const exodus_34_7: Verse = {
       englishLiteral: 'fathers',
       englishNatural: 'fathers',
       root: 'avot',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -254,10 +215,7 @@ export const exodus_34_7: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'on',
       root: 'al',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'preposition',
       },
@@ -269,10 +227,7 @@ export const exodus_34_7: Verse = {
       englishNatural: 'sons',
       root: 'ben',
       suffixes: ['im'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -286,10 +241,7 @@ export const exodus_34_7: Verse = {
       englishNatural: 'and on',
       root: 'al',
       prefixes: ['ve'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'preposition',
       },
@@ -303,10 +255,7 @@ export const exodus_34_7: Verse = {
       root: 'ben',
       prefixes: ['be'],
       suffixes: ['ey'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -321,10 +270,7 @@ export const exodus_34_7: Verse = {
       englishNatural: 'sons',
       root: 'ben',
       suffixes: ['im'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -341,10 +287,7 @@ export const exodus_34_7: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'on',
       root: 'al',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'preposition',
       },
@@ -357,10 +300,7 @@ export const exodus_34_7: Verse = {
       englishNatural: 'third-ones',
       root: 'shlishi',
       suffixes: ['im'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -374,10 +314,7 @@ export const exodus_34_7: Verse = {
       englishNatural: 'and on',
       root: 'al',
       prefixes: ['ve'],
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         type: 'preposition',
       },
@@ -389,10 +326,7 @@ export const exodus_34_7: Verse = {
       englishNatural: 'fourth-ones',
       root: 'revii',
       suffixes: ['im'],
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -415,6 +349,6 @@ export const exodus_34_7: Verse = {
     englishNatural:
       'preserving steadfast-love for thousands, lifting-up twisting and transgression and sin, and clearing not he will clear, visiting twisting fathers on sons and on sons of sons, on third-ones and on fourth-ones."',
     kjv: "Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the children's children, unto the third and to the fourth generation.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

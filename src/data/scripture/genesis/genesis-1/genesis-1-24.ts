@@ -144,10 +144,7 @@ export const genesis_1_24: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
       },
@@ -162,10 +159,7 @@ export const genesis_1_24: Verse = {
       englishLiteral: 'beast',
       englishNatural: 'beast',
       root: 'behemah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -183,10 +177,7 @@ export const genesis_1_24: Verse = {
       englishNatural: 'and crawler',
       root: 'ramas',
       prefixes: ['va'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -205,10 +196,7 @@ export const genesis_1_24: Verse = {
       root: 'chayah',
       prefixes: ['ve'],
       suffixes: ['o'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -221,10 +209,7 @@ export const genesis_1_24: Verse = {
       englishLiteral: 'land',
       englishNatural: 'land',
       root: 'eretz',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -247,6 +232,6 @@ export const genesis_1_24: Verse = {
     englishNatural:
       'And God said, "Let the land bring-out living throat, to its kind, beast, and crawler, and living-being of land."',
     kjv: 'And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -14,10 +14,7 @@ export const genesis_10_1: Verse = {
       englishNatural: 'And these',
       root: 'eleh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'pronoun',
       },
@@ -30,10 +27,7 @@ export const genesis_10_1: Verse = {
       englishNatural: 'are the birthings of',
       root: 'toledot',
       suffixes: ['ot'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -47,10 +41,7 @@ export const genesis_10_1: Verse = {
       englishNatural: 'the sons of',
       root: 'ben',
       suffixes: ['ei'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -64,10 +55,7 @@ export const genesis_10_1: Verse = {
       englishLiteral: 'Rest (Noah)',
       englishNatural: 'Rest (Noah)',
       root: 'noach',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -85,10 +73,7 @@ export const genesis_10_1: Verse = {
       englishLiteral: 'Name (Shem)',
       englishNatural: 'Name (Shem)',
       root: 'shem',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -105,10 +90,7 @@ export const genesis_10_1: Verse = {
       englishLiteral: 'Hot (Ham)',
       englishNatural: 'Hot (Ham)',
       root: 'cham',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -126,10 +108,7 @@ export const genesis_10_1: Verse = {
       englishNatural: 'and Spacious (Japheth)',
       root: 'yafet',
       prefixes: ['va'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -187,10 +166,7 @@ export const genesis_10_1: Verse = {
       englishNatural: 'sons',
       root: 'ben',
       suffixes: ['im'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -207,10 +183,7 @@ export const genesis_10_1: Verse = {
       englishLiteral: 'after',
       englishNatural: 'after',
       root: 'achar',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -222,10 +195,7 @@ export const genesis_10_1: Verse = {
       englishNatural: 'the flood',
       root: 'mabbul',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',

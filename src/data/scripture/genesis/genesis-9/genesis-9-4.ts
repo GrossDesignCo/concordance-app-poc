@@ -13,10 +13,7 @@ export const genesis_9_4: Verse = {
       englishLiteral: 'Only-',
       englishNatural: 'Only',
       root: 'akh',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
@@ -28,10 +25,7 @@ export const genesis_9_4: Verse = {
       englishLiteral: 'flesh',
       englishNatural: 'flesh',
       root: 'basar',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const genesis_9_4: Verse = {
       root: 'nephesh',
       prefixes: ['be'],
       suffixes: ['o'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -71,10 +62,7 @@ export const genesis_9_4: Verse = {
       englishNatural: 'its blood',
       root: 'dam',
       suffixes: ['o'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -138,6 +126,6 @@ export const genesis_9_4: Verse = {
     englishLiteral: 'Only- flesh, in-its-wind, its-blood, not you-will-eat.',
     englishNatural: 'Only flesh, in its wind, its blood, you will eat not.',
     kjv: 'But flesh with the life thereof, which is the blood thereof, shall ye not eat.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

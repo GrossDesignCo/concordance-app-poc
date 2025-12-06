@@ -14,10 +14,7 @@ export const isaiah_6_1: Verse = {
       englishNatural: 'In the year of',
       root: 'shanah',
       prefixes: ['be'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'preposition',
       },
@@ -28,10 +25,7 @@ export const isaiah_6_1: Verse = {
       englishLiteral: 'death-of',
       englishNatural: 'the death of',
       root: 'mavet',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
       },
@@ -43,10 +37,7 @@ export const isaiah_6_1: Verse = {
       englishNatural: 'the king',
       root: 'melekh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -63,10 +54,7 @@ export const isaiah_6_1: Verse = {
       englishLiteral: 'He_my_Strength (Uzziah)',
       englishNatural: 'He-my-Strength (Uzziah)',
       root: 'uz',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -83,10 +71,7 @@ export const isaiah_6_1: Verse = {
       englishNatural: 'And I saw',
       root: 'raah',
       prefixes: ['va'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -102,10 +87,7 @@ export const isaiah_6_1: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'particle',
       },
@@ -117,10 +99,7 @@ export const isaiah_6_1: Verse = {
       englishNatural: 'my Lord',
       root: 'adon',
       suffixes: ['ai'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -134,10 +113,7 @@ export const isaiah_6_1: Verse = {
       englishLiteral: 'sitting',
       englishNatural: 'sitting',
       root: 'yashav',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -152,10 +128,7 @@ export const isaiah_6_1: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -166,10 +139,7 @@ export const isaiah_6_1: Verse = {
       englishLiteral: 'throne',
       englishNatural: 'a throne',
       root: 'kisse',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -186,10 +156,7 @@ export const isaiah_6_1: Verse = {
       englishLiteral: 'high',
       englishNatural: 'high',
       root: 'rum',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -203,10 +170,7 @@ export const isaiah_6_1: Verse = {
       englishNatural: 'and lifted-up',
       root: 'nasa',
       prefixes: ['ve'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -227,10 +191,7 @@ export const isaiah_6_1: Verse = {
       root: 'shul',
       prefixes: ['ve'],
       suffixes: ['av'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -251,10 +212,7 @@ export const isaiah_6_1: Verse = {
       root: 'male',
       prefixes: ['me'],
       suffixes: ['im'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -269,10 +227,7 @@ export const isaiah_6_1: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'particle',
       },
@@ -284,10 +239,7 @@ export const isaiah_6_1: Verse = {
       englishNatural: 'the temple',
       root: 'hekhal',
       prefixes: ['ha'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -310,6 +262,6 @@ export const isaiah_6_1: Verse = {
     englishNatural:
       'In the year of the death of the king, He-my-Strength (Uzziah). And I saw my Lord sitting over a throne, high and lifted-up, and his garments, filling the temple.',
     kjv: 'In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

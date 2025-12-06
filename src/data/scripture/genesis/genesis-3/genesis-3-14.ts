@@ -70,10 +70,7 @@ export const genesis_3_14: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -85,10 +82,7 @@ export const genesis_3_14: Verse = {
       englishNatural: 'the snake',
       root: 'nachash',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -105,10 +99,7 @@ export const genesis_3_14: Verse = {
       englishLiteral: 'that',
       englishNatural: 'Because',
       root: 'ki',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'relative',
       },
@@ -125,10 +116,7 @@ export const genesis_3_14: Verse = {
       englishNatural: 'you have made',
       root: 'asah',
       suffixes: ['ta'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -144,10 +132,7 @@ export const genesis_3_14: Verse = {
       englishLiteral: 'this',
       englishNatural: 'this',
       root: 'zot',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'pronoun',
       },
@@ -163,10 +148,7 @@ export const genesis_3_14: Verse = {
       englishLiteral: 'cursed',
       englishNatural: 'cursed',
       root: 'arar',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -179,10 +161,7 @@ export const genesis_3_14: Verse = {
       englishLiteral: 'you',
       englishNatural: 'are you',
       root: 'atah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'pronoun',
       },
@@ -194,10 +173,7 @@ export const genesis_3_14: Verse = {
       englishNatural: 'from all',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'adjective',
       },
@@ -208,10 +184,7 @@ export const genesis_3_14: Verse = {
       englishLiteral: 'beast',
       englishNatural: 'beast',
       root: 'behemah',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -225,10 +198,7 @@ export const genesis_3_14: Verse = {
       englishNatural: 'and from all',
       root: 'kol',
       prefixes: ['u', 'mi'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'adjective',
       },
@@ -241,10 +211,7 @@ export const genesis_3_14: Verse = {
       englishNatural: 'living-being',
       root: 'chayah',
       suffixes: ['construct_t'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -258,10 +225,7 @@ export const genesis_3_14: Verse = {
       englishNatural: 'of the field',
       root: 'sadeh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -278,10 +242,7 @@ export const genesis_3_14: Verse = {
       englishLiteral: 'on-',
       englishNatural: 'on',
       root: 'al',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'preposition',
       },
@@ -294,10 +255,7 @@ export const genesis_3_14: Verse = {
       englishNatural: 'your belly',
       root: 'gachon',
       suffixes: ['kha'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -310,10 +268,7 @@ export const genesis_3_14: Verse = {
       englishLiteral: 'you-will_walk',
       englishNatural: 'you will walk',
       root: 'halakh',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -334,10 +289,7 @@ export const genesis_3_14: Verse = {
       englishNatural: 'and dust',
       root: 'afar',
       prefixes: ['ve'],
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -351,10 +303,7 @@ export const genesis_3_14: Verse = {
       englishLiteral: 'you-will_eat',
       englishNatural: 'you will eat',
       root: 'akhal',
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -374,10 +323,7 @@ export const genesis_3_14: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         type: 'adjective',
       },
@@ -390,10 +336,7 @@ export const genesis_3_14: Verse = {
       englishNatural: 'the days',
       root: 'yom',
       suffixes: ['construct_y'],
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -407,10 +350,7 @@ export const genesis_3_14: Verse = {
       englishNatural: 'of your life',
       root: 'chayyim',
       suffixes: ['ekha'],
-      order: {
-        hebrew: 23,
-        english: 23,
-      },
+      order: 23,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -433,6 +373,6 @@ export const genesis_3_14: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God said to the snake, "Because you have made this, cursed are you from all beast and from all living-being of the field; on your belly you will walk, and dust you will eat, all the days of your life.',
     kjv: 'And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

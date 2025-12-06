@@ -15,10 +15,7 @@ export const ezekiel_1_5: Verse = {
       root: 'tokh',
       prefixes: ['u', 'mi'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -32,10 +29,7 @@ export const ezekiel_1_5: Verse = {
       englishLiteral: 'likeness-of',
       englishNatural: 'a likeness of',
       root: 'demut',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -49,10 +43,7 @@ export const ezekiel_1_5: Verse = {
       englishLiteral: 'four',
       englishNatural: 'four',
       root: 'arba',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'numeral',
       },
@@ -63,10 +54,7 @@ export const ezekiel_1_5: Verse = {
       englishLiteral: 'living_beings',
       englishNatural: 'living-beings',
       root: 'chayah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -85,10 +73,7 @@ export const ezekiel_1_5: Verse = {
       englishNatural: 'and this',
       root: 'zeh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -102,10 +87,7 @@ export const ezekiel_1_5: Verse = {
       englishNatural: 'their appearance',
       root: 'mareh',
       suffixes: ['hen'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -123,10 +105,7 @@ export const ezekiel_1_5: Verse = {
       englishLiteral: 'likeness-of',
       englishNatural: 'a likeness of',
       root: 'demut',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -140,10 +119,7 @@ export const ezekiel_1_5: Verse = {
       englishLiteral: 'Earth (Adam)',
       englishNatural: 'Earth (Adam)',
       root: 'adam',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -157,10 +133,7 @@ export const ezekiel_1_5: Verse = {
       englishNatural: 'to them',
       root: 'lamed',
       suffixes: ['enah'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -184,6 +157,6 @@ export const ezekiel_1_5: Verse = {
     englishNatural:
       'And from its midst a likeness of four living-beings; and this their appearance, a likeness of Earth (Adam) to them.',
     kjv: 'Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

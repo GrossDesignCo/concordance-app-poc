@@ -56,10 +56,7 @@ export const exodus_3_14: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -70,10 +67,7 @@ export const exodus_3_14: Verse = {
       englishLiteral: 'Draws_Out (Moses)',
       englishNatural: 'Draws-Out (Moses)',
       root: 'moshe',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -88,10 +82,7 @@ export const exodus_3_14: Verse = {
       englishLiteral: 'I am',
       englishNatural: 'I am',
       root: 'ehyeh',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         number: 'singular',
         person: '1st',
@@ -111,10 +102,7 @@ export const exodus_3_14: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'relative',
       },
@@ -125,10 +113,7 @@ export const exodus_3_14: Verse = {
       englishLiteral: 'I am',
       englishNatural: 'I am',
       root: 'ehyeh',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         number: 'singular',
         person: '1st',
@@ -148,10 +133,7 @@ export const exodus_3_14: Verse = {
       englishNatural: 'And he said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -172,10 +154,7 @@ export const exodus_3_14: Verse = {
       englishLiteral: 'Thus',
       englishNatural: 'Thus',
       root: 'koh',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'adverb',
       },
@@ -190,10 +169,7 @@ export const exodus_3_14: Verse = {
       englishLiteral: 'you-will-say',
       englishNatural: 'you will say',
       root: 'amar',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -211,10 +187,7 @@ export const exodus_3_14: Verse = {
       root: 'ben',
       prefixes: ['li'],
       suffixes: ['ey'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -228,10 +201,7 @@ export const exodus_3_14: Verse = {
       englishLiteral: 'Struggles_with_God (Israel)',
       englishNatural: 'Struggles-with-God (Israel)',
       root: 'yisrael',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
       },
@@ -246,10 +216,7 @@ export const exodus_3_14: Verse = {
       englishLiteral: 'I_Am',
       englishNatural: 'I-Am',
       root: 'ehyeh',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         number: 'singular',
         person: '1st',
@@ -269,10 +236,7 @@ export const exodus_3_14: Verse = {
       englishLiteral: 'sent-me',
       englishNatural: 'has sent me',
       root: 'shlachani',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -288,10 +252,7 @@ export const exodus_3_14: Verse = {
       englishLiteral: 'to-you',
       englishNatural: 'to you',
       root: 'lakhem',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'preposition',
       },
@@ -312,6 +273,6 @@ export const exodus_3_14: Verse = {
     englishNatural:
       'And God said to Draws-Out (Moses), "I am which I am." And he said, "Thus you will say to the sons of Struggles-with-God (Israel), \'I-Am has sent me to you.\'"',
     kjv: 'And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

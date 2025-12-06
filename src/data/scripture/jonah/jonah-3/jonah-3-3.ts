@@ -62,10 +62,7 @@ export const jonah_3_3: Verse = {
       englishNatural: 'and went',
       root: 'halakh',
       prefixes: ['va'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -81,10 +78,7 @@ export const jonah_3_3: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -95,10 +89,7 @@ export const jonah_3_3: Verse = {
       englishLiteral: 'Dwelling_of_Fish (Nineveh)',
       englishNatural: 'Dwelling-of-Fish (Nineveh)',
       root: 'nineveh',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -116,10 +107,7 @@ export const jonah_3_3: Verse = {
       englishNatural: 'according to the word of',
       root: 'davar',
       prefixes: ['ki'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -134,10 +122,7 @@ export const jonah_3_3: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
       },
@@ -154,10 +139,7 @@ export const jonah_3_3: Verse = {
       englishNatural: 'And Dwelling-of-Fish (Nineveh)',
       root: 'nineveh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -171,10 +153,7 @@ export const jonah_3_3: Verse = {
       englishLiteral: 'was',
       englishNatural: 'was',
       root: 'hayah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -190,10 +169,7 @@ export const jonah_3_3: Verse = {
       englishLiteral: 'city-',
       englishNatural: 'a city',
       root: 'ir',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -207,10 +183,7 @@ export const jonah_3_3: Verse = {
       englishLiteral: 'great',
       englishNatural: 'great',
       root: 'gadol',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -225,10 +198,7 @@ export const jonah_3_3: Verse = {
       root: 'eloah',
       prefixes: ['le'],
       suffixes: ['im'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -245,10 +215,7 @@ export const jonah_3_3: Verse = {
       englishLiteral: 'journey-of',
       englishNatural: 'a journey of',
       root: 'mahalakh',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -263,10 +230,7 @@ export const jonah_3_3: Verse = {
       englishLiteral: 'three',
       englishNatural: 'three',
       root: 'shalosh',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         number: 'plural',
         state: 'construct',
@@ -280,10 +244,7 @@ export const jonah_3_3: Verse = {
       englishNatural: 'days',
       root: 'yom',
       suffixes: ['im'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -306,6 +267,6 @@ export const jonah_3_3: Verse = {
     englishNatural:
       'And Dove (Jonah) stood-up, and went to Dwelling-of-Fish (Nineveh), according to the word of He-Who-Is (YHWH). And Dwelling-of-Fish (Nineveh) was a city great to God, a journey of three days.',
     kjv: "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days' journey.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

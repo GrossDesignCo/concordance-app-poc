@@ -14,10 +14,7 @@ export const genesis_4_3: Verse = {
       englishNatural: 'And it was',
       root: 'hayah',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -35,10 +32,7 @@ export const genesis_4_3: Verse = {
       englishNatural: 'from the end of',
       root: 'qetz',
       prefixes: ['mi'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -52,10 +46,7 @@ export const genesis_4_3: Verse = {
       englishNatural: 'days',
       root: 'yom',
       suffixes: ['im'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -108,10 +99,7 @@ export const genesis_4_3: Verse = {
       englishNatural: 'from the fruit of',
       root: 'peri',
       prefixes: ['mi'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -125,10 +113,7 @@ export const genesis_4_3: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -146,10 +131,7 @@ export const genesis_4_3: Verse = {
       englishLiteral: 'offering',
       englishNatural: 'an offering',
       root: 'minchah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -163,10 +145,7 @@ export const genesis_4_3: Verse = {
       englishNatural: 'to He-Who-Is (YHWH)',
       root: 'yhwh',
       prefixes: ['la'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -187,6 +166,6 @@ export const genesis_4_3: Verse = {
     englishNatural:
       'And it was from the end of days; And Acquired (Cain) brought from the fruit of the earth, an offering to He-Who-Is (YHWH).',
     kjv: 'And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

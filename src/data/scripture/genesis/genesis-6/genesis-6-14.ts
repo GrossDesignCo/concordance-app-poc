@@ -13,10 +13,7 @@ export const genesis_6_14: Verse = {
       englishLiteral: 'Make',
       englishNatural: 'Make',
       root: 'asah',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -34,10 +31,7 @@ export const genesis_6_14: Verse = {
       englishNatural: 'for yourself',
       root: 'la',
       suffixes: ['kha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'preposition',
       },
@@ -48,10 +42,7 @@ export const genesis_6_14: Verse = {
       englishLiteral: 'ark-of',
       englishNatural: 'an ark of',
       root: 'tevah',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -65,10 +56,7 @@ export const genesis_6_14: Verse = {
       englishLiteral: 'trees-of-',
       englishNatural: 'trees of',
       root: 'etz',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -82,10 +70,7 @@ export const genesis_6_14: Verse = {
       englishLiteral: 'gopher',
       englishNatural: 'gopher',
       root: 'gopher',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -103,10 +88,7 @@ export const genesis_6_14: Verse = {
       englishLiteral: 'nests',
       englishNatural: 'nests',
       root: 'qen',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -119,10 +101,7 @@ export const genesis_6_14: Verse = {
       englishLiteral: 'you-shall-make',
       englishNatural: 'you shall make',
       root: 'asah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -138,10 +117,7 @@ export const genesis_6_14: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'particle',
       },
@@ -153,10 +129,7 @@ export const genesis_6_14: Verse = {
       englishNatural: 'the ark',
       root: 'tevah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -176,10 +149,7 @@ export const genesis_6_14: Verse = {
       root: 'kafar',
       prefixes: ['ve'],
       suffixes: ['ta'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -196,10 +166,7 @@ export const genesis_6_14: Verse = {
       englishNatural: 'it',
       root: 'et',
       suffixes: ['ah'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'particle',
       },
@@ -211,10 +178,7 @@ export const genesis_6_14: Verse = {
       englishNatural: 'from inside',
       root: 'bayit',
       prefixes: ['mi'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -228,10 +192,7 @@ export const genesis_6_14: Verse = {
       englishNatural: 'and from outside',
       root: 'chutz',
       prefixes: ['u', 'mi'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'adverb',
       },
@@ -243,10 +204,7 @@ export const genesis_6_14: Verse = {
       englishNatural: 'with the covering',
       root: 'kofer',
       prefixes: ['be'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -269,6 +227,6 @@ export const genesis_6_14: Verse = {
     englishNatural:
       'Make for yourself an ark of trees of gopher; nests you shall make the ark, and you shall cover it from inside and from outside with the covering.',
     kjv: 'Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

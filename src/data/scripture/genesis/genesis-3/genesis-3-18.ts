@@ -14,10 +14,7 @@ export const genesis_3_18: Verse = {
       englishNatural: 'And thorn',
       root: 'qots',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -32,10 +29,7 @@ export const genesis_3_18: Verse = {
       englishNatural: 'and thistle',
       root: 'dardar',
       prefixes: ['ve'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -49,10 +43,7 @@ export const genesis_3_18: Verse = {
       englishNatural: 'it will grow',
       root: 'tzamach',
       prefixes: ['ta'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -69,10 +60,7 @@ export const genesis_3_18: Verse = {
       englishNatural: 'to you',
       root: 'la',
       suffixes: ['ekh'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition'
       },
@@ -89,10 +77,7 @@ export const genesis_3_18: Verse = {
       root: 'akhal',
       prefixes: ['ve'],
       suffixes: ['ta'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -109,10 +94,7 @@ export const genesis_3_18: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'particle'
       },
@@ -123,10 +105,7 @@ export const genesis_3_18: Verse = {
       englishLiteral: 'herb',
       englishNatural: 'the herb',
       root: 'esev',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -140,10 +119,7 @@ export const genesis_3_18: Verse = {
       englishNatural: 'of the field',
       root: 'sadeh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -162,6 +138,6 @@ export const genesis_3_18: Verse = {
     englishLiteral: 'And-thorn and-thistle it-will-grow to-you; and-you-will-eat ↳ herb the-field;',
     englishNatural: 'And thorn and thistle it will grow to you; and you will eat the herb of the field;',
     kjv: 'Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

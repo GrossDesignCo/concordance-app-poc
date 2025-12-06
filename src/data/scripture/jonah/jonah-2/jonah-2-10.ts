@@ -54,10 +54,7 @@ export const jonah_2_10: Verse = {
       englishNatural: 'to the fish',
       root: 'dag',
       prefixes: ['la'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -75,10 +72,7 @@ export const jonah_2_10: Verse = {
       englishNatural: 'and he vomited',
       root: 'qey',
       prefixes: ['va'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -95,10 +89,7 @@ export const jonah_2_10: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'particle',
       },
@@ -109,10 +100,7 @@ export const jonah_2_10: Verse = {
       englishLiteral: 'Dove (Jonah)',
       englishNatural: 'Dove (Jonah)',
       root: 'yonah',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -125,10 +113,7 @@ export const jonah_2_10: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -140,10 +125,7 @@ export const jonah_2_10: Verse = {
       englishNatural: 'the dry-ground',
       root: 'yabashah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -164,6 +146,6 @@ export const jonah_2_10: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) spoke to the fish, and he vomited Dove (Jonah) to the dry-ground.',
     kjv: 'And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

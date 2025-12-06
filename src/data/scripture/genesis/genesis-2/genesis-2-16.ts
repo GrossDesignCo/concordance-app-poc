@@ -70,10 +70,7 @@ export const genesis_2_16: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -85,10 +82,7 @@ export const genesis_2_16: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -106,10 +100,7 @@ export const genesis_2_16: Verse = {
       englishNatural: 'saying',
       root: 'amar',
       prefixes: ['le'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -127,10 +118,7 @@ export const genesis_2_16: Verse = {
       englishNatural: 'From all',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adjective',
       },
@@ -145,10 +133,7 @@ export const genesis_2_16: Verse = {
       englishLiteral: 'tree-',
       englishNatural: 'tree',
       root: 'etz',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -160,10 +145,7 @@ export const genesis_2_16: Verse = {
       englishNatural: 'of the garden',
       root: 'gan',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -180,10 +162,7 @@ export const genesis_2_16: Verse = {
       englishLiteral: 'eating',
       englishNatural: 'eating',
       root: 'akhal',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -200,10 +179,7 @@ export const genesis_2_16: Verse = {
       englishLiteral: 'let-you-will-eat',
       englishNatural: 'let you eat',
       root: 'akhal',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       prefixes: ['ta'],
       morphology: {
         type: 'verb',
@@ -229,6 +205,6 @@ export const genesis_2_16: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God commanded over the Earth (Adam), saying, "From all tree of the garden, eating, let you eat,',
     kjv: 'And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

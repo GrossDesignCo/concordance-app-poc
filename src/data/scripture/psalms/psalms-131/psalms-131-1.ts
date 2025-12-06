@@ -13,10 +13,7 @@ export const psalms_131_1: Verse = {
       englishLiteral: 'song',
       englishNatural: 'A Song',
       root: 'shir',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -31,10 +28,7 @@ export const psalms_131_1: Verse = {
       root: 'alah',
       prefixes: ['ha'],
       suffixes: ['ot'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -53,10 +47,7 @@ export const psalms_131_1: Verse = {
       englishNatural: 'To David',
       root: 'david',
       prefixes: ['le'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
       },
@@ -72,10 +63,7 @@ export const psalms_131_1: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -108,10 +96,7 @@ export const psalms_131_1: Verse = {
       englishLiteral: 'is-tall',
       englishNatural: 'is tall',
       root: 'gavah',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -172,10 +157,7 @@ export const psalms_131_1: Verse = {
       englishLiteral: 'are-high',
       englishNatural: 'are high',
       root: 'rum',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'common',
         number: 'plural',
@@ -268,10 +250,7 @@ export const psalms_131_1: Verse = {
       root: 'gadol',
       prefixes: ['bi'],
       suffixes: ['ot'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -286,10 +265,7 @@ export const psalms_131_1: Verse = {
       root: 'pala',
       prefixes: ['u', 'be'],
       suffixes: ['ot'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -305,10 +281,7 @@ export const psalms_131_1: Verse = {
       englishNatural: 'from me',
       root: 'min',
       suffixes: ['ni'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         person: '1st',
         type: 'preposition',
@@ -330,6 +303,6 @@ export const psalms_131_1: Verse = {
     englishNatural:
       'A Song of The Overs. To David. He-Who-Is (YHWH), my heart is tall not, and my eyes are high not, and I have walked not, in greats and in wonders from me.',
     kjv: 'A Song of degrees of David. LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

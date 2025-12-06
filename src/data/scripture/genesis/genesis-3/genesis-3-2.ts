@@ -12,7 +12,7 @@ export const genesis_3_2: Verse = {
     englishLiteral: 'And-said, the-woman, to, the-snake, "from-fruit-of tree the-garden, we-eat."',
     englishNatural: 'And the woman said to the snake, "From the fruit of the tree of the garden we may eat."',
     kjv: 'And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
   words: [
     {
@@ -72,10 +72,7 @@ export const genesis_3_2: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       grammarSuffix: {
         englishLiteral: ',',
         englishNatural: '',
@@ -88,10 +85,7 @@ export const genesis_3_2: Verse = {
       englishNatural: 'the snake',
       root: 'nachash',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -110,10 +104,7 @@ export const genesis_3_2: Verse = {
       root: 'pri',
       prefixes: ['mi'],
       suffixes: ['construct_y'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -131,10 +122,7 @@ export const genesis_3_2: Verse = {
       englishLiteral: 'tree',
       englishNatural: 'the tree of',
       root: 'etz',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -148,10 +136,7 @@ export const genesis_3_2: Verse = {
       englishNatural: 'the garden',
       root: 'gan',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -168,10 +153,7 @@ export const genesis_3_2: Verse = {
       englishLiteral: 'we-eat',
       englishNatural: 'we may eat',
       root: 'akhal',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'common',
         number: 'plural',

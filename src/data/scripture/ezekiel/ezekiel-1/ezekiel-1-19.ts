@@ -14,10 +14,7 @@ export const ezekiel_1_19: Verse = {
       englishNatural: 'And in the going of',
       root: 'halakh',
       prefixes: ['ve', 'be'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
@@ -31,10 +28,7 @@ export const ezekiel_1_19: Verse = {
       englishNatural: 'the living-beings',
       root: 'chayah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -88,10 +82,7 @@ export const ezekiel_1_19: Verse = {
       englishNatural: 'beside them',
       root: 'etzal',
       suffixes: ['am'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -108,10 +99,7 @@ export const ezekiel_1_19: Verse = {
       englishNatural: 'and in the being-lifted of',
       root: 'nasa',
       prefixes: ['ve', 'be'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'niphal',
@@ -125,10 +113,7 @@ export const ezekiel_1_19: Verse = {
       englishNatural: 'the living-beings',
       root: 'chayah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -142,10 +127,7 @@ export const ezekiel_1_19: Verse = {
       englishNatural: 'from over',
       root: 'al',
       prefixes: ['me'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -157,10 +139,7 @@ export const ezekiel_1_19: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -230,6 +209,6 @@ export const ezekiel_1_19: Verse = {
     englishNatural:
       'And in the going of the living-beings, the wheels went beside them, and in the being-lifted of the living-beings from over the land, the wheels were lifted.',
     kjv: 'And when the living creatures went, the wheels went by them: and when the living creatures were lifted up from the earth, the wheels were lifted up.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

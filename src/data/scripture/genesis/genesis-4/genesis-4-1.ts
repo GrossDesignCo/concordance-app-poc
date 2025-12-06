@@ -14,10 +14,7 @@ export const genesis_4_1: Verse = {
       englishNatural: 'And the Earth (Adam)',
       root: 'adam',
       prefixes: ['ve', 'ha'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -30,10 +27,7 @@ export const genesis_4_1: Verse = {
       englishLiteral: 'knew',
       englishNatural: 'knew',
       root: 'yada',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -49,10 +43,7 @@ export const genesis_4_1: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -63,10 +54,7 @@ export const genesis_4_1: Verse = {
       englishLiteral: 'Life (Eve)',
       englishNatural: 'Life (Eve)',
       root: 'chavah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -78,10 +66,7 @@ export const genesis_4_1: Verse = {
       englishNatural: 'his woman',
       root: 'ishah',
       suffixes: ['o'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -102,10 +87,7 @@ export const genesis_4_1: Verse = {
       root: 'harah',
       prefixes: ['va'],
       suffixes: ['ta'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -123,10 +105,7 @@ export const genesis_4_1: Verse = {
       root: 'yalad',
       prefixes: ['va'],
       suffixes: ['ta'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -142,10 +121,7 @@ export const genesis_4_1: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'particle',
       },
@@ -156,10 +132,7 @@ export const genesis_4_1: Verse = {
       englishLiteral: 'Acquired (Cain)',
       englishNatural: 'Acquired (Cain)',
       root: 'qanah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -177,10 +150,7 @@ export const genesis_4_1: Verse = {
       root: 'amar',
       prefixes: ['va'],
       suffixes: ['ta'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -201,10 +171,7 @@ export const genesis_4_1: Verse = {
       englishNatural: 'I have acquired',
       root: 'qanah',
       suffixes: ['ti'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -224,10 +191,7 @@ export const genesis_4_1: Verse = {
       englishLiteral: 'a-man',
       englishNatural: 'a man',
       root: 'ish',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -240,10 +204,7 @@ export const genesis_4_1: Verse = {
       englishLiteral: '↳-',
       englishNatural: 'with',
       root: 'et',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -254,10 +215,7 @@ export const genesis_4_1: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'noun',
       },
@@ -278,6 +236,6 @@ export const genesis_4_1: Verse = {
     englishNatural:
       'And the Earth (Adam) knew Life (Eve) his woman, and she conceived and bore Acquired (Cain), and said, "I have acquired a man with He-Who-Is (YHWH)."',
     kjv: 'And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

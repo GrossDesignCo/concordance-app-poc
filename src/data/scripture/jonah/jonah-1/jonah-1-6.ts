@@ -95,10 +95,7 @@ export const jonah_1_6: Verse = {
       englishNatural: 'and said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -116,10 +113,7 @@ export const jonah_1_6: Verse = {
       englishNatural: 'to him',
       root: 'el',
       suffixes: ['o'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -134,10 +128,7 @@ export const jonah_1_6: Verse = {
       englishLiteral: 'What-',
       englishNatural: 'What',
       root: 'mah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'pronoun',
       },
@@ -154,10 +145,7 @@ export const jonah_1_6: Verse = {
       root: 'el',
       prefixes: ['le'],
       suffixes: ['kha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -168,10 +156,7 @@ export const jonah_1_6: Verse = {
       englishLiteral: 'sleeper',
       englishNatural: 'O sleeper',
       root: 'nirdam',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -188,10 +173,7 @@ export const jonah_1_6: Verse = {
       englishLiteral: 'Stand_up',
       englishNatural: 'Stand-up',
       root: 'qum',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -211,10 +193,7 @@ export const jonah_1_6: Verse = {
       englishLiteral: 'call_out',
       englishNatural: 'call-out',
       root: 'qara',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -230,10 +209,7 @@ export const jonah_1_6: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -245,10 +221,7 @@ export const jonah_1_6: Verse = {
       englishNatural: 'your God',
       root: 'eloah',
       suffixes: ['ekha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -266,10 +239,7 @@ export const jonah_1_6: Verse = {
       englishLiteral: 'Perhaps',
       englishNatural: 'If so be',
       root: 'ulay',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'adverb',
       },
@@ -318,10 +288,7 @@ export const jonah_1_6: Verse = {
       englishLiteral: 'to-us',
       englishNatural: 'us',
       root: 'lanu',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'preposition',
       },
@@ -337,10 +304,7 @@ export const jonah_1_6: Verse = {
       englishNatural: 'that we may not',
       root: 'lo',
       prefixes: ['ve'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'adverb',
       },
@@ -351,10 +315,7 @@ export const jonah_1_6: Verse = {
       englishLiteral: 'perish',
       englishNatural: 'perish',
       root: 'abad',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -380,6 +341,6 @@ export const jonah_1_6: Verse = {
     englishNatural:
       'And the chief sailor came to him, and said to him, "What is with you O sleeper? Stand-up, call-out to your God. If so be that God will think upon us, that we may not perish."',
     kjv: 'So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

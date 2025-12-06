@@ -73,10 +73,7 @@ export const genesis_6_2: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'particle',
       },
@@ -87,10 +84,7 @@ export const genesis_6_2: Verse = {
       englishLiteral: 'daughters-of',
       englishNatural: 'the daughters of',
       root: 'bat',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -105,10 +99,7 @@ export const genesis_6_2: Verse = {
       englishNatural: 'Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -126,10 +117,7 @@ export const genesis_6_2: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'conjunction',
       },
@@ -186,10 +174,7 @@ export const genesis_6_2: Verse = {
       englishNatural: 'and they took',
       root: 'laqach',
       prefixes: ['va'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -206,10 +191,7 @@ export const genesis_6_2: Verse = {
       englishNatural: 'to themselves',
       root: 'lamed',
       suffixes: ['hem'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -223,10 +205,7 @@ export const genesis_6_2: Verse = {
       englishLiteral: 'women',
       englishNatural: 'women',
       root: 'ishah',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -244,10 +223,7 @@ export const genesis_6_2: Verse = {
       englishNatural: 'from all',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
       },
@@ -258,10 +234,7 @@ export const genesis_6_2: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'relative',
       },
@@ -272,10 +245,7 @@ export const genesis_6_2: Verse = {
       englishLiteral: 'they-chose',
       englishNatural: 'they chose',
       root: 'bachar',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -301,6 +271,6 @@ export const genesis_6_2: Verse = {
     englishNatural:
       'And the sons of God saw the daughters of Earth (Adam), that they were good; and they took to themselves women, from all which they chose.',
     kjv: 'That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

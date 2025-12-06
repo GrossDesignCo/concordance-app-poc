@@ -57,10 +57,7 @@ export const genesis_6_13: Verse = {
       englishNatural: 'to Rest (Noah)',
       root: 'noach',
       prefixes: ['le'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
       },
@@ -76,10 +73,7 @@ export const genesis_6_13: Verse = {
       englishLiteral: 'end-of',
       englishNatural: 'The end of',
       root: 'qetz',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -97,10 +91,7 @@ export const genesis_6_13: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -114,10 +105,7 @@ export const genesis_6_13: Verse = {
       englishLiteral: 'flesh',
       englishNatural: 'flesh',
       root: 'basar',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -130,10 +118,7 @@ export const genesis_6_13: Verse = {
       englishLiteral: 'coming',
       englishNatural: 'has come',
       root: 'bo',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -151,10 +136,7 @@ export const genesis_6_13: Verse = {
       root: 'panim',
       prefixes: ['le'],
       suffixes: ['ai'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -172,10 +154,7 @@ export const genesis_6_13: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'particle',
       },
@@ -222,10 +201,7 @@ export const genesis_6_13: Verse = {
       englishLiteral: 'violence',
       englishNatural: 'violence',
       root: 'chamas',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -240,10 +216,7 @@ export const genesis_6_13: Verse = {
       root: 'panim',
       prefixes: ['mi'],
       suffixes: ['hem'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -263,10 +236,7 @@ export const genesis_6_13: Verse = {
       root: 'hinneh',
       prefixes: ['ve'],
       suffixes: ['ni'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'particle',
       },
@@ -278,10 +248,7 @@ export const genesis_6_13: Verse = {
       englishNatural: 'destroying',
       root: 'shachat',
       suffixes: ['am'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -296,10 +263,7 @@ export const genesis_6_13: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'particle',
       },
@@ -311,10 +275,7 @@ export const genesis_6_13: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -337,6 +298,6 @@ export const genesis_6_13: Verse = {
     englishNatural:
       'And God said to Rest (Noah), "The end of all flesh has come to my face; that the land is full of violence from their faces; and behold me destroying the land."',
     kjv: 'And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

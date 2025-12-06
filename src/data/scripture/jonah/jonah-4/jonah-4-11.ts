@@ -14,10 +14,7 @@ export const jonah_4_11: Verse = {
       englishNatural: 'And I',
       root: 'ani',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'pronoun',
       },
@@ -66,10 +63,7 @@ export const jonah_4_11: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -80,10 +74,7 @@ export const jonah_4_11: Verse = {
       englishLiteral: 'Dwelling_of_Fish (Nineveh)',
       englishNatural: 'Dwelling-of-Fish (Nineveh)',
       root: 'nineveh',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -101,10 +92,7 @@ export const jonah_4_11: Verse = {
       englishNatural: 'the city',
       root: 'ir',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -123,10 +111,7 @@ export const jonah_4_11: Verse = {
       root: 'gadol',
       prefixes: ['ha'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -143,10 +128,7 @@ export const jonah_4_11: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'relative',
       },
@@ -158,10 +140,7 @@ export const jonah_4_11: Verse = {
       englishLiteral: 'there_is-',
       englishNatural: 'there-is',
       root: 'yesh',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'particle',
       },
@@ -173,10 +152,7 @@ export const jonah_4_11: Verse = {
       englishNatural: 'in her',
       root: 'be',
       suffixes: ['ah'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -188,10 +164,7 @@ export const jonah_4_11: Verse = {
       englishNatural: 'much',
       root: 'harbeh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'adverb',
       },
@@ -203,10 +176,7 @@ export const jonah_4_11: Verse = {
       englishNatural: 'more than two',
       root: 'shnayim',
       prefixes: ['mi'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'numeral',
       },
@@ -217,10 +187,7 @@ export const jonah_4_11: Verse = {
       englishLiteral: 'ten',
       englishNatural: 'ten',
       root: 'esreh',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'numeral',
       },
@@ -231,10 +198,7 @@ export const jonah_4_11: Verse = {
       englishLiteral: 'ten_thousand',
       englishNatural: 'ten-thousand',
       root: 'ribbo',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'numeral',
       },
@@ -245,10 +209,7 @@ export const jonah_4_11: Verse = {
       englishLiteral: 'Earth (Adam)',
       englishNatural: 'Earth (Adam)',
       root: 'adam',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -265,10 +226,7 @@ export const jonah_4_11: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'relative',
       },
@@ -313,10 +271,7 @@ export const jonah_4_11: Verse = {
       englishLiteral: 'between-',
       englishNatural: 'between',
       root: 'beyn',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'preposition',
       },
@@ -328,10 +283,7 @@ export const jonah_4_11: Verse = {
       englishNatural: 'his right-hand',
       root: 'yamin',
       suffixes: ['o'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -346,10 +298,7 @@ export const jonah_4_11: Verse = {
       root: 'smol',
       prefixes: ['li'],
       suffixes: ['o'],
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -420,6 +369,6 @@ export const jonah_4_11: Verse = {
     englishNatural:
       'And I, will I pity not over Dwelling-of-Fish (Nineveh), the city, the great, which there-is in her much more than two ten ten-thousand Earth (Adam), which knows not between his right-hand to his left-hand; and many beast?"',
     kjv: 'And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

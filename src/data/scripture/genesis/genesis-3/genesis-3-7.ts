@@ -82,10 +82,7 @@ export const genesis_3_7: Verse = {
       root: 'yada',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -101,10 +98,7 @@ export const genesis_3_7: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'conjunction',
       },
@@ -157,10 +151,7 @@ export const genesis_3_7: Verse = {
       root: 'taphar',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -176,10 +167,7 @@ export const genesis_3_7: Verse = {
       englishLiteral: 'leaf-of',
       englishNatural: 'leaf of',
       root: 'aleh',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -193,10 +181,7 @@ export const genesis_3_7: Verse = {
       englishLiteral: 'fig',
       englishNatural: 'fig',
       root: 'teenah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -215,10 +200,7 @@ export const genesis_3_7: Verse = {
       root: 'asah',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -235,10 +217,7 @@ export const genesis_3_7: Verse = {
       englishNatural: 'for themselves',
       root: 'la',
       suffixes: ['hem'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -249,10 +228,7 @@ export const genesis_3_7: Verse = {
       englishLiteral: 'girdings',
       englishNatural: 'girdings',
       root: 'chagar',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -275,6 +251,6 @@ export const genesis_3_7: Verse = {
     englishNatural:
       'And the eyes of both of them were opened, and they knew that they were naked; and they sewed leaf of fig, and made for themselves girdings.',
     kjv: 'And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

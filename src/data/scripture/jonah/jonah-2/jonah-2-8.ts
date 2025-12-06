@@ -15,10 +15,7 @@ export const jonah_2_8: Verse = {
       root: 'shamar',
       prefixes: ['me'],
       suffixes: ['im'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -36,10 +33,7 @@ export const jonah_2_8: Verse = {
       root: 'hevel',
       prefixes: ['ha'],
       suffixes: ['ei'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -53,10 +47,7 @@ export const jonah_2_8: Verse = {
       englishLiteral: 'emptiness',
       englishNatural: 'emptiness',
       root: 'shav',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -74,10 +65,7 @@ export const jonah_2_8: Verse = {
       englishNatural: 'their steadfast-love',
       root: 'chesed',
       suffixes: ['am'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -93,10 +81,7 @@ export const jonah_2_8: Verse = {
       root: 'azav',
       prefixes: ['ya'],
       suffixes: ['u'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -120,6 +105,6 @@ export const jonah_2_8: Verse = {
     englishNatural:
       'Keepers of vapors of emptiness, their steadfast-love they forsake.',
     kjv: 'They that observe lying vanities forsake their own mercy.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

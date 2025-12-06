@@ -56,10 +56,7 @@ export const genesis_9_1: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -70,10 +67,7 @@ export const genesis_9_1: Verse = {
       englishLiteral: 'Rest (Noah)',
       englishNatural: 'Rest (Noah)',
       root: 'noach',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -85,10 +79,7 @@ export const genesis_9_1: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'particle',
       },
@@ -100,10 +91,7 @@ export const genesis_9_1: Verse = {
       englishNatural: 'his sons',
       root: 'ben',
       suffixes: ['av'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -122,10 +110,7 @@ export const genesis_9_1: Verse = {
       englishNatural: 'and said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -142,10 +127,7 @@ export const genesis_9_1: Verse = {
       englishNatural: 'to them',
       root: 'lamed',
       suffixes: ['hem'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -164,10 +146,7 @@ export const genesis_9_1: Verse = {
       englishNatural: 'Be-fruitful',
       root: 'parah',
       suffixes: ['u'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -190,10 +169,7 @@ export const genesis_9_1: Verse = {
       root: 'rabah',
       prefixes: ['u'],
       suffixes: ['u'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -211,10 +187,7 @@ export const genesis_9_1: Verse = {
       root: 'male',
       prefixes: ['u'],
       suffixes: ['u'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -230,10 +203,7 @@ export const genesis_9_1: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'particle',
       },
@@ -245,10 +215,7 @@ export const genesis_9_1: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -271,6 +238,6 @@ export const genesis_9_1: Verse = {
     englishNatural:
       'And God blessed Rest (Noah) and his sons; and said to them, "Be-fruitful and multiply and fill the land.',
     kjv: 'And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

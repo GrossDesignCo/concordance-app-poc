@@ -14,10 +14,7 @@ export const ezekiel_1_12: Verse = {
       englishNatural: 'And man',
       root: 'ish',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -31,10 +28,7 @@ export const ezekiel_1_12: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'preposition',
       },
@@ -45,10 +39,7 @@ export const ezekiel_1_12: Verse = {
       englishLiteral: 'side-of',
       englishNatural: 'the side of',
       root: 'ever',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -63,10 +54,7 @@ export const ezekiel_1_12: Verse = {
       englishNatural: 'his face',
       root: 'panah',
       suffixes: ['av'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -79,10 +67,7 @@ export const ezekiel_1_12: Verse = {
       englishLiteral: 'they-went',
       englishNatural: 'they went',
       root: 'halakh',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -103,10 +88,7 @@ export const ezekiel_1_12: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -117,10 +99,7 @@ export const ezekiel_1_12: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'particle',
       },
@@ -197,10 +176,7 @@ export const ezekiel_1_12: Verse = {
       englishLiteral: 'they-went',
       englishNatural: 'they went',
       root: 'halakh',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -256,10 +232,7 @@ export const ezekiel_1_12: Verse = {
       root: 'halakh',
       prefixes: ['be'],
       suffixes: ['tan'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
@@ -281,6 +254,6 @@ export const ezekiel_1_12: Verse = {
     englishNatural:
       'And man to the side of his face they went; to which the wind to go was there they went; they went-around not in their going.',
     kjv: 'And they went every one straight forward: whither the spirit was to go, they went; and they turned not when they went.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

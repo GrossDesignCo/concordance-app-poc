@@ -14,10 +14,7 @@ export const ezekiel_1_15: Verse = {
       englishNatural: 'And I saw',
       root: 'raah',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -35,10 +32,7 @@ export const ezekiel_1_15: Verse = {
       englishNatural: 'the living-beings',
       root: 'chayah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -57,10 +51,7 @@ export const ezekiel_1_15: Verse = {
       englishNatural: 'and behold',
       root: 'hineh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'interjection',
       },
@@ -104,10 +95,7 @@ export const ezekiel_1_15: Verse = {
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['be', 'ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -125,10 +113,7 @@ export const ezekiel_1_15: Verse = {
       englishLiteral: 'beside',
       englishNatural: 'beside',
       root: 'etzal',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -140,10 +125,7 @@ export const ezekiel_1_15: Verse = {
       englishNatural: 'the living-beings',
       root: 'chayah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -161,10 +143,7 @@ export const ezekiel_1_15: Verse = {
       englishNatural: 'to four of',
       root: 'arba',
       prefixes: ['le'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -179,10 +158,7 @@ export const ezekiel_1_15: Verse = {
       englishNatural: 'his faces',
       root: 'panah',
       suffixes: ['av'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -205,6 +181,6 @@ export const ezekiel_1_15: Verse = {
     englishNatural:
       'And I saw the living-beings, and behold one wheel in the land, beside the living-beings, to four of his faces.',
     kjv: 'Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

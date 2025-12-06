@@ -14,10 +14,7 @@ export const isaiah_6_7: Verse = {
       englishNatural: 'And he touched',
       root: 'naga',
       prefixes: ['va', 'ye'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -34,10 +31,7 @@ export const isaiah_6_7: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'it to',
       root: 'el',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'preposition',
       },
@@ -49,10 +43,7 @@ export const isaiah_6_7: Verse = {
       englishNatural: 'my mouth',
       root: 'pi',
       suffixes: ['i'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -72,10 +63,7 @@ export const isaiah_6_7: Verse = {
       englishNatural: 'and he said',
       root: 'amar',
       prefixes: ['va', 'yo'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -95,10 +83,7 @@ export const isaiah_6_7: Verse = {
       englishLiteral: 'Behold',
       englishNatural: 'Behold',
       root: 'hinneh',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'particle',
       },
@@ -152,10 +137,7 @@ export const isaiah_6_7: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -167,10 +149,7 @@ export const isaiah_6_7: Verse = {
       englishNatural: 'your lips',
       root: 'safah',
       suffixes: ['ekha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -189,10 +168,7 @@ export const isaiah_6_7: Verse = {
       englishNatural: 'and turned-aside',
       root: 'sur',
       prefixes: ['ve'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -210,10 +186,7 @@ export const isaiah_6_7: Verse = {
       englishNatural: 'your twisting',
       root: 'avon',
       suffixes: ['ekha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -233,10 +206,7 @@ export const isaiah_6_7: Verse = {
       root: 'chata',
       prefixes: ['ve'],
       suffixes: ['at', 'kha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -252,10 +222,7 @@ export const isaiah_6_7: Verse = {
       englishNatural: 'will be covered',
       root: 'kafar',
       prefixes: ['te'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -280,6 +247,6 @@ export const isaiah_6_7: Verse = {
     englishNatural:
       'And he touched it to my mouth, and he said, "Behold, this has touched over your lips; and turned-aside your twisting, and your sin will be covered."',
     kjv: 'And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -14,10 +14,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'And he prayed',
       root: 'palal',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -34,10 +31,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'preposition',
       },
@@ -48,10 +42,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
       },
@@ -63,10 +54,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'and said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -86,10 +74,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'please',
       englishNatural: 'Please',
       root: 'anna',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'particle',
       },
@@ -105,10 +90,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -124,10 +106,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'was not',
       root: 'lo',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adverb',
       },
@@ -138,10 +117,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'this',
       englishNatural: 'this',
       root: 'zeh',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'pronoun',
       },
@@ -153,10 +129,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'my word',
       root: 'davar',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -169,10 +142,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'until-',
       englishNatural: 'until',
       root: 'ad',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -184,10 +154,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'I was',
       root: 'hayah',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         number: 'singular',
         person: '1st',
@@ -202,10 +169,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -217,10 +181,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'my earth',
       root: 'adamah',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -272,10 +233,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'I preceded',
       root: 'qidam',
       suffixes: ['ti'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         number: 'singular',
         person: '1st',
@@ -291,10 +249,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'to flee to',
       root: 'barach',
       prefixes: ['li'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'verb',
         tense: 'infinitive_construct',
@@ -308,10 +263,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'golden-stone (Tarshish)',
       root: 'tarshish',
       suffixes: ['ah'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -328,10 +280,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'relative',
       },
@@ -344,10 +293,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'I knew',
       root: 'yada',
       suffixes: ['ti'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         number: 'singular',
         person: '1st',
@@ -362,10 +308,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         type: 'relative',
       },
@@ -376,10 +319,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'you',
       englishNatural: 'you are',
       root: 'atah',
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         type: 'pronoun',
       },
@@ -390,10 +330,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'God-',
       englishNatural: 'God',
       root: 'el',
-      order: {
-        hebrew: 23,
-        english: 23,
-      },
+      order: 23,
       morphology: {
         type: 'noun',
       },
@@ -404,10 +341,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'gracious',
       englishNatural: 'gracious',
       root: 'chanun',
-      order: {
-        hebrew: 24,
-        english: 24,
-      },
+      order: 24,
       morphology: {
         type: 'adjective',
       },
@@ -419,10 +353,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'and compassionate',
       root: 'rachum',
       prefixes: ['ve'],
-      order: {
-        hebrew: 25,
-        english: 25,
-      },
+      order: 25,
       morphology: {
         type: 'adjective',
       },
@@ -437,10 +368,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'long',
       englishNatural: 'long',
       root: 'erekh',
-      order: {
-        hebrew: 26,
-        english: 26,
-      },
+      order: 26,
       morphology: {
         type: 'adjective',
       },
@@ -452,10 +380,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'nostrils',
       englishNatural: 'of nostrils',
       root: 'aph',
-      order: {
-        hebrew: 27,
-        english: 27,
-      },
+      order: 27,
       morphology: {
         gender: 'masculine',
         number: 'dual',
@@ -469,10 +394,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'and great',
       root: 'rav',
       prefixes: ['ve'],
-      order: {
-        hebrew: 28,
-        english: 28,
-      },
+      order: 28,
       morphology: {
         type: 'adjective',
       },
@@ -483,10 +405,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'steadfast_love',
       englishNatural: 'of steadfast-love',
       root: 'chesed',
-      order: {
-        hebrew: 29,
-        english: 29,
-      },
+      order: 29,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -500,10 +419,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'and comforting',
       root: 'nacham',
       prefixes: ['ve'],
-      order: {
-        hebrew: 30,
-        english: 30,
-      },
+      order: 30,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -520,10 +436,7 @@ export const jonah_4_2: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 31,
-        english: 31,
-      },
+      order: 31,
       morphology: {
         type: 'preposition',
       },
@@ -535,10 +448,7 @@ export const jonah_4_2: Verse = {
       englishNatural: 'the bad',
       root: 'ra',
       prefixes: ['ha'],
-      order: {
-        hebrew: 32,
-        english: 32,
-      },
+      order: 32,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -561,6 +471,6 @@ export const jonah_4_2: Verse = {
     englishNatural:
       'And he prayed to He-Who-Is (YHWH) and said, "Please He-Who-Is (YHWH), was not this my word until I was over my earth? So moreover I preceded to flee to golden-stone (Tarshish), that I knew that you are God gracious and compassionate, long of nostrils and great of steadfast-love and comforting over the bad.',
     kjv: 'And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

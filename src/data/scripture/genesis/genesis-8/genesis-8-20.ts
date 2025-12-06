@@ -54,10 +54,7 @@ export const genesis_8_20: Verse = {
       englishNatural: 'an altar',
       root: 'zavach',
       prefixes: ['mi'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -71,10 +68,7 @@ export const genesis_8_20: Verse = {
       englishNatural: 'to He-Who-Is (YHWH)',
       root: 'yhwh',
       prefixes: ['la'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -91,10 +85,7 @@ export const genesis_8_20: Verse = {
       englishNatural: 'and took',
       root: 'laqach',
       prefixes: ['va'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -111,10 +102,7 @@ export const genesis_8_20: Verse = {
       englishNatural: 'from all',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -126,10 +114,7 @@ export const genesis_8_20: Verse = {
       englishNatural: 'the beast',
       root: 'behemah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -143,10 +128,7 @@ export const genesis_8_20: Verse = {
       englishNatural: 'the clean',
       root: 'tahor',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -161,10 +143,7 @@ export const genesis_8_20: Verse = {
       englishNatural: 'and from all',
       root: 'kol',
       prefixes: ['u', 'mi'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -176,10 +155,7 @@ export const genesis_8_20: Verse = {
       englishNatural: 'the flyer',
       root: 'oph',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -193,10 +169,7 @@ export const genesis_8_20: Verse = {
       englishNatural: 'the clean',
       root: 'tahor',
       prefixes: ['ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -215,10 +188,7 @@ export const genesis_8_20: Verse = {
       englishNatural: 'and caused to go-up',
       root: 'alah',
       prefixes: ['va'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -234,10 +204,7 @@ export const genesis_8_20: Verse = {
       englishLiteral: 'goings_up',
       englishNatural: 'goings-up',
       root: 'alah',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -251,10 +218,7 @@ export const genesis_8_20: Verse = {
       englishNatural: 'on the altar',
       root: 'zavach',
       prefixes: ['ba', 'mi'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -277,6 +241,6 @@ export const genesis_8_20: Verse = {
     englishNatural:
       'And Rest (Noah) built an altar to He-Who-Is (YHWH); and took from all the beast the clean and from all the flyer the clean, and caused to go-up goings-up on the altar.',
     kjv: 'And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

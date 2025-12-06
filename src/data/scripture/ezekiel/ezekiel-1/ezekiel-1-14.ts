@@ -14,10 +14,7 @@ export const ezekiel_1_14: Verse = {
       englishNatural: 'And the living-beings',
       root: 'chayah',
       prefixes: ['ve', 'ha'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -31,10 +28,7 @@ export const ezekiel_1_14: Verse = {
       englishLiteral: 'sprinting',
       englishNatural: 'sprinting',
       root: 'ratzo',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         tense: 'infinitive_absolute',
         stem: 'qal',
@@ -48,10 +42,7 @@ export const ezekiel_1_14: Verse = {
       englishNatural: 'and returning',
       root: 'shuv',
       prefixes: ['ve'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         tense: 'infinitive_absolute',
         stem: 'qal',
@@ -65,10 +56,7 @@ export const ezekiel_1_14: Verse = {
       englishNatural: 'like the appearance of',
       root: 'mareh',
       prefixes: ['ke'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -83,10 +71,7 @@ export const ezekiel_1_14: Verse = {
       englishNatural: 'The Flashing',
       root: 'bazaq',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -107,6 +92,6 @@ export const ezekiel_1_14: Verse = {
     englishNatural:
       'And the living-beings sprinting and returning like the appearance of The Flashing.',
     kjv: 'And the living creatures ran and returned as the appearance of a flash of lightning.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

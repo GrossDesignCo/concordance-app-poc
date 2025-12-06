@@ -63,10 +63,7 @@ export const psalms_1_5: Verse = {
       root: 'qum',
       prefixes: ['ya'],
       suffixes: ['u'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -100,10 +97,7 @@ export const psalms_1_5: Verse = {
       englishNatural: 'in judgment',
       root: 'mishpat',
       prefixes: ['ba'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -122,10 +116,7 @@ export const psalms_1_5: Verse = {
       root: 'chata',
       prefixes: ['ve'],
       suffixes: ['im'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -144,10 +135,7 @@ export const psalms_1_5: Verse = {
       englishNatural: 'in the assembly of',
       root: 'edah',
       prefixes: ['ba'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -161,10 +149,7 @@ export const psalms_1_5: Verse = {
       englishNatural: 'the righteous',
       root: 'tzadiq',
       suffixes: ['im'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -187,6 +172,6 @@ export const psalms_1_5: Verse = {
     englishNatural:
       'So moreover the wicked will stand-up not in judgment; and sinners, in the assembly of the righteous.',
     kjv: 'Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

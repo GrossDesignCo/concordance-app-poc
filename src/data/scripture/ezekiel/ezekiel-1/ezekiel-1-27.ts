@@ -14,10 +14,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'And I saw',
       root: 'raah',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -35,10 +32,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'like an eye of',
       root: 'ayin_eye',
       prefixes: ['ke'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -52,10 +46,7 @@ export const ezekiel_1_27: Verse = {
       englishLiteral: 'glowing_metal',
       englishNatural: 'glowing-metal',
       root: 'chashmal',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -74,10 +65,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'like an appearance of',
       root: 'mareh',
       prefixes: ['ke'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -91,10 +79,7 @@ export const ezekiel_1_27: Verse = {
       englishLiteral: 'fire',
       englishNatural: 'fire',
       root: 'esh',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -107,10 +92,7 @@ export const ezekiel_1_27: Verse = {
       englishLiteral: 'house-',
       englishNatural: 'a house',
       root: 'bayit',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -125,10 +107,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'to',
       root: 'la',
       suffixes: ['ah'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -139,10 +118,7 @@ export const ezekiel_1_27: Verse = {
       englishLiteral: 'all_around',
       englishNatural: 'all-around',
       root: 'saviv',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adverb',
       },
@@ -155,10 +131,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'from the appearance of',
       root: 'mareh',
       prefixes: ['mi'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -173,10 +146,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'his loins',
       root: 'matnayim',
       suffixes: ['av'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'dual',
@@ -190,10 +160,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'and upward',
       root: 'maala',
       prefixes: ['u', 'le'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'adverb',
       },
@@ -210,10 +177,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'and from the appearance of',
       root: 'mareh',
       prefixes: ['u', 'mi'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -228,10 +192,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'his loins',
       root: 'matnayim',
       suffixes: ['av'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'dual',
@@ -245,10 +206,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'and downward',
       root: 'mattah',
       prefixes: ['u', 'le'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'adverb',
       },
@@ -261,10 +219,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'I saw',
       root: 'raah',
       suffixes: ['ti'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -281,10 +236,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'like an appearance of',
       root: 'mareh',
       prefixes: ['ke'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -298,10 +250,7 @@ export const ezekiel_1_27: Verse = {
       englishLiteral: 'fire',
       englishNatural: 'fire',
       root: 'esh',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -320,10 +269,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'and brightness',
       root: 'nogah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -337,10 +283,7 @@ export const ezekiel_1_27: Verse = {
       englishNatural: 'to him',
       root: 'la',
       suffixes: ['o'],
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'preposition',
       },
@@ -351,10 +294,7 @@ export const ezekiel_1_27: Verse = {
       englishLiteral: 'all_around',
       englishNatural: 'all-around',
       root: 'saviv',
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'adverb',
       },
@@ -375,6 +315,6 @@ export const ezekiel_1_27: Verse = {
     englishNatural:
       'And I saw like an eye of glowing-metal, like an appearance of fire a house to all-around from the appearance of his loins and upward, and from the appearance of his loins and downward I saw like an appearance of fire, and brightness to him all-around.',
     kjv: 'And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -54,10 +54,7 @@ export const genesis_4_20: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -68,10 +65,7 @@ export const genesis_4_20: Verse = {
       englishLiteral: 'Stream (Jabal)',
       englishNatural: 'Stream (Jabal)',
       root: 'Yaval',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -88,10 +82,7 @@ export const genesis_4_20: Verse = {
       englishLiteral: 'he',
       englishNatural: 'he',
       root: 'hu',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'pronoun',
         person: '3rd',
@@ -106,10 +97,7 @@ export const genesis_4_20: Verse = {
       englishLiteral: 'was',
       englishNatural: 'was',
       root: 'hayah',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -124,10 +112,7 @@ export const genesis_4_20: Verse = {
       englishLiteral: 'father-of',
       englishNatural: 'father of',
       root: 'av',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -182,10 +167,7 @@ export const genesis_4_20: Verse = {
       englishNatural: 'and cattle',
       root: 'miqneh',
       prefixes: ['u'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -206,6 +188,6 @@ export const genesis_4_20: Verse = {
     englishNatural:
       'And Ornament (Adah) bore Stream (Jabal); he was father of tent dwelling, and cattle.',
     kjv: 'And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

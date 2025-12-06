@@ -107,10 +107,7 @@ export const genesis_4_25: Verse = {
       englishNatural: 'and she bore',
       root: 'yalad',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -126,10 +123,7 @@ export const genesis_4_25: Verse = {
       englishLiteral: 'son',
       englishNatural: 'a son',
       root: 'ben',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -147,10 +141,7 @@ export const genesis_4_25: Verse = {
       englishNatural: 'and called-out',
       root: 'qara',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -166,10 +157,7 @@ export const genesis_4_25: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'particle',
       },
@@ -181,10 +169,7 @@ export const genesis_4_25: Verse = {
       englishNatural: 'his name',
       root: 'shem',
       suffixes: ['o'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -197,10 +182,7 @@ export const genesis_4_25: Verse = {
       englishLiteral: 'Appointed (Seth)',
       englishNatural: 'Appointed (Seth)',
       root: 'Shet',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -221,10 +203,7 @@ export const genesis_4_25: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'particle',
       },
@@ -317,10 +296,7 @@ export const genesis_4_25: Verse = {
       englishLiteral: 'instead-of',
       englishNatural: 'instead of',
       root: 'tachat',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'preposition',
       },
@@ -331,10 +307,7 @@ export const genesis_4_25: Verse = {
       englishLiteral: 'Vapor (Abel)',
       englishNatural: 'Vapor (Abel)',
       root: 'hevel',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -351,10 +324,7 @@ export const genesis_4_25: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'particle',
       },
@@ -418,6 +388,6 @@ export const genesis_4_25: Verse = {
     englishNatural:
       'And Earth (Adam) knew his woman again; and she bore a son, and called-out his name "Appointed (Seth); that God has appointed me another seed instead of Vapor (Abel); that Acquired (Cain) killed him."',
     kjv: 'And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel; for Cain slew him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -14,10 +14,7 @@ export const ezekiel_2_1: Verse = {
       englishNatural: 'And He said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -35,10 +32,7 @@ export const ezekiel_2_1: Verse = {
       englishNatural: 'to me',
       root: 'el',
       suffixes: ['ai'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'preposition',
       },
@@ -54,10 +48,7 @@ export const ezekiel_2_1: Verse = {
       englishLiteral: 'son-of-',
       englishNatural: 'Son of',
       root: 'ben',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -75,10 +66,7 @@ export const ezekiel_2_1: Verse = {
       englishLiteral: 'Earth (Adam)',
       englishNatural: 'Earth (Adam)',
       root: 'adam',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -95,10 +83,7 @@ export const ezekiel_2_1: Verse = {
       englishLiteral: 'stand',
       englishNatural: 'stand',
       root: 'amad',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -114,10 +99,7 @@ export const ezekiel_2_1: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -129,10 +111,7 @@ export const ezekiel_2_1: Verse = {
       englishNatural: 'your feet',
       root: 'regel',
       suffixes: ['ekha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -151,10 +130,7 @@ export const ezekiel_2_1: Verse = {
       englishNatural: 'and I will speak',
       root: 'dabar',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -171,10 +147,7 @@ export const ezekiel_2_1: Verse = {
       englishNatural: 'to you',
       root: 'et',
       suffixes: ['kha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'particle',
       },
@@ -193,6 +166,6 @@ export const ezekiel_2_1: Verse = {
     englishNatural:
       'And He said to me, "Son of Earth (Adam), stand over your feet, and I will speak to you."',
     kjv: 'And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

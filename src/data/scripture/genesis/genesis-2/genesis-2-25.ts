@@ -56,10 +56,7 @@ export const genesis_2_25: Verse = {
       englishLiteral: 'naked',
       englishNatural: 'naked',
       root: 'arom',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -77,10 +74,7 @@ export const genesis_2_25: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -95,10 +89,7 @@ export const genesis_2_25: Verse = {
       root: 'ishah',
       prefixes: ['ve'],
       suffixes: ['o'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -165,6 +156,6 @@ export const genesis_2_25: Verse = {
     englishNatural:
       'And the two of them were naked, the Earth (Adam) and his woman, and were ashamed not.',
     kjv: 'And they were both naked, the man and his wife, and were not ashamed.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

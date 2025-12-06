@@ -66,10 +66,7 @@ export const jonah_1_5: Verse = {
       root: 'tsaaq',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -89,10 +86,7 @@ export const jonah_1_5: Verse = {
       englishLiteral: 'man',
       englishNatural: 'man',
       root: 'ish',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -105,10 +99,7 @@ export const jonah_1_5: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -120,10 +111,7 @@ export const jonah_1_5: Verse = {
       englishNatural: 'his god',
       root: 'eloah',
       suffixes: ['av'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -142,10 +130,7 @@ export const jonah_1_5: Verse = {
       root: 'tul',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -162,10 +147,7 @@ export const jonah_1_5: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
     },
     {
       hebrew: 'הַכֵּלִים',
@@ -175,10 +157,7 @@ export const jonah_1_5: Verse = {
       root: 'keli',
       prefixes: ['ha'],
       suffixes: ['im'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -191,10 +170,7 @@ export const jonah_1_5: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which were',
       root: 'asher',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'relative',
       },
@@ -206,10 +182,7 @@ export const jonah_1_5: Verse = {
       englishNatural: 'in the ship',
       root: 'aniyah',
       prefixes: ['ba', 'ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -222,10 +195,7 @@ export const jonah_1_5: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -237,10 +207,7 @@ export const jonah_1_5: Verse = {
       englishNatural: 'the sea',
       root: 'yam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -258,10 +225,7 @@ export const jonah_1_5: Verse = {
       englishNatural: 'to lighten it',
       root: 'haqel',
       prefixes: ['le'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'verb',
         tense: 'infinitive_construct',
@@ -277,10 +241,7 @@ export const jonah_1_5: Verse = {
       root: 'al',
       prefixes: ['me'],
       suffixes: ['eihem'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'preposition',
       },
@@ -297,10 +258,7 @@ export const jonah_1_5: Verse = {
       englishNatural: 'And Dove (Jonah)',
       root: 'yonah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -314,10 +272,7 @@ export const jonah_1_5: Verse = {
       englishLiteral: 'went_down',
       englishNatural: 'had gone down',
       root: 'yarad',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -333,10 +288,7 @@ export const jonah_1_5: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'into',
       root: 'el',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'preposition',
       },
@@ -347,10 +299,7 @@ export const jonah_1_5: Verse = {
       englishLiteral: 'far_reaches-of',
       englishNatural: 'the far-reaches of',
       root: 'yarketei',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -365,10 +314,7 @@ export const jonah_1_5: Verse = {
       englishNatural: 'the ship',
       root: 'sefinah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -386,10 +332,7 @@ export const jonah_1_5: Verse = {
       englishNatural: 'and he lay down',
       root: 'shakav',
       prefixes: ['va'],
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -407,10 +350,7 @@ export const jonah_1_5: Verse = {
       englishNatural: 'and deeply-tranced',
       root: 'radam',
       prefixes: ['va'],
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -436,6 +376,6 @@ export const jonah_1_5: Verse = {
     englishNatural:
       'And the sailors feared, and cried-out, man to his god, and hurled the vessels which were in the ship to the sea, to lighten it from over them. And Dove (Jonah) had gone down into the far-reaches of the ship; and he lay down and deeply-tranced.',
     kjv: 'Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

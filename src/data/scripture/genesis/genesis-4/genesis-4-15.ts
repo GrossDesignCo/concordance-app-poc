@@ -78,10 +78,7 @@ export const genesis_4_15: Verse = {
       englishNatural: 'Not so',
       root: 'ken',
       prefixes: ['la'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'adverb',
       },
@@ -101,10 +98,7 @@ export const genesis_4_15: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -115,10 +109,7 @@ export const genesis_4_15: Verse = {
       englishLiteral: 'killing',
       englishNatural: 'killing',
       root: 'harag',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -133,10 +124,7 @@ export const genesis_4_15: Verse = {
       englishLiteral: 'Acquired (Cain)',
       englishNatural: 'Acquired (Cain)',
       root: 'qanah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
       },
@@ -153,10 +141,7 @@ export const genesis_4_15: Verse = {
       englishNatural: 'sevenfold',
       root: 'sheva',
       suffixes: ['ayim'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adverb',
       },
@@ -167,10 +152,7 @@ export const genesis_4_15: Verse = {
       englishLiteral: 'it-will-be-avenged',
       englishNatural: 'it will be avenged',
       root: 'naqam',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -226,10 +208,7 @@ export const genesis_4_15: Verse = {
       englishNatural: 'for Acquired (Cain)',
       root: 'qanah',
       prefixes: ['le'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
       },
@@ -240,10 +219,7 @@ export const genesis_4_15: Verse = {
       englishLiteral: 'sign',
       englishNatural: 'a sign',
       root: 'ot',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -355,6 +331,6 @@ export const genesis_4_15: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) said to him, "Not so, all killing Acquired (Cain), sevenfold it will be avenged." And He-Who-Is (YHWH) set for Acquired (Cain) a sign, so that not all striking-down him on finding him.',
     kjv: 'And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

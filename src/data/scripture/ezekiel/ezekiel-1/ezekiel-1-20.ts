@@ -13,10 +13,7 @@ export const ezekiel_1_20: Verse = {
       englishLiteral: 'over',
       englishNatural: 'Over',
       root: 'al',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'preposition',
       },
@@ -28,10 +25,7 @@ export const ezekiel_1_20: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'particle',
       },
@@ -112,10 +106,7 @@ export const ezekiel_1_20: Verse = {
       englishLiteral: 'they-went',
       englishNatural: 'they went',
       root: 'halakh',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -132,10 +123,7 @@ export const ezekiel_1_20: Verse = {
       englishLiteral: 'there',
       englishNatural: 'there',
       root: 'shamah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adverb',
       },
@@ -151,10 +139,7 @@ export const ezekiel_1_20: Verse = {
       englishNatural: 'the wind',
       root: 'ruach',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -168,10 +153,7 @@ export const ezekiel_1_20: Verse = {
       englishNatural: 'to go',
       root: 'halakh',
       prefixes: ['la'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
@@ -189,10 +171,7 @@ export const ezekiel_1_20: Verse = {
       englishNatural: 'and the wheels',
       root: 'ophan',
       prefixes: ['ve', 'ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -205,10 +184,7 @@ export const ezekiel_1_20: Verse = {
       englishLiteral: 'they-were-lifted',
       englishNatural: 'were lifted',
       root: 'nasa',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -226,10 +202,7 @@ export const ezekiel_1_20: Verse = {
       root: 'umat',
       prefixes: ['le'],
       suffixes: ['am'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -245,10 +218,7 @@ export const ezekiel_1_20: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'conjunction',
       },
@@ -259,10 +229,7 @@ export const ezekiel_1_20: Verse = {
       englishLiteral: 'wind-of',
       englishNatural: 'the wind of',
       root: 'ruach',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -277,10 +244,7 @@ export const ezekiel_1_20: Verse = {
       englishNatural: 'the living-being',
       root: 'chayah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -298,10 +262,7 @@ export const ezekiel_1_20: Verse = {
       englishNatural: 'in the wheels',
       root: 'ophan',
       prefixes: ['be', 'ha'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -324,6 +285,6 @@ export const ezekiel_1_20: Verse = {
     englishNatural:
       'Over which the wind to go was there, they went there, the wind to go, and the wheels were lifted alongside them, that the wind of the living-being, in the wheels.',
     kjv: 'Whithersoever the spirit was to go, they went, thither was their spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -14,10 +14,7 @@ export const genesis_1_15: Verse = {
       englishNatural: 'And they will be',
       root: 'hayah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -38,10 +35,7 @@ export const genesis_1_15: Verse = {
       root: 'or',
       prefixes: ['li'],
       suffixes: ['ot'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -55,10 +49,7 @@ export const genesis_1_15: Verse = {
       englishNatural: 'in the hammering-out',
       root: 'raqia',
       prefixes: ['be'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
       },
@@ -73,10 +64,7 @@ export const genesis_1_15: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -94,10 +82,7 @@ export const genesis_1_15: Verse = {
       englishNatural: 'to shine-light',
       root: 'or',
       prefixes: ['le'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'verb',
       },
@@ -108,10 +93,7 @@ export const genesis_1_15: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -123,10 +105,7 @@ export const genesis_1_15: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -145,6 +124,6 @@ export const genesis_1_15: Verse = {
     englishLiteral: 'And-they-will-be for-light_sources in-hammering_out the-skies, to-shine_light over the-land.',
     englishNatural: 'And they will be for light-sources in the hammering-out, the skies, to shine-light over the land.',
     kjv: 'And let them be for lights in the firmament of the heaven to give light upon the earth:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

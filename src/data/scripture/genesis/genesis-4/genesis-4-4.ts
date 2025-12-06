@@ -14,10 +14,7 @@ export const genesis_4_4: Verse = {
       englishNatural: 'And Vapor (Abel)',
       root: 'hevel',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -91,10 +88,7 @@ export const genesis_4_4: Verse = {
       root: 'bekhor',
       prefixes: ['mi'],
       suffixes: ['ot'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -109,10 +103,7 @@ export const genesis_4_4: Verse = {
       englishNatural: 'his flock',
       root: 'tzon',
       suffixes: ['o'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -132,10 +123,7 @@ export const genesis_4_4: Verse = {
       root: 'chelev',
       prefixes: ['u', 'me'],
       suffixes: ['hen'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -188,10 +176,7 @@ export const genesis_4_4: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -202,10 +187,7 @@ export const genesis_4_4: Verse = {
       englishLiteral: 'Vapor (Abel)',
       englishNatural: 'Vapor (Abel)',
       root: 'hevel',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
       },
@@ -221,10 +203,7 @@ export const genesis_4_4: Verse = {
       englishNatural: 'and to',
       root: 'el',
       prefixes: ['ve'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -236,10 +215,7 @@ export const genesis_4_4: Verse = {
       englishNatural: 'his offering',
       root: 'minchah',
       suffixes: ['o'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -263,6 +239,6 @@ export const genesis_4_4: Verse = {
     englishNatural:
       'And Vapor (Abel), he brought also, from the firstborn of his flock, and from their fat; And He-Who-Is (YHWH) esteemed to Vapor (Abel), and to his offering.',
     kjv: 'And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

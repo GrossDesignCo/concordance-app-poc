@@ -76,10 +76,7 @@ export const genesis_2_18: Verse = {
       englishLiteral: 'No-',
       englishNatural: 'No',
       root: 'lo',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'adverb',
       },
@@ -94,10 +91,7 @@ export const genesis_2_18: Verse = {
       englishLiteral: 'good',
       englishNatural: 'good',
       root: 'tov',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'adjective',
       },
@@ -143,10 +137,7 @@ export const genesis_2_18: Verse = {
       root: 'badad',
       prefixes: ['le'],
       suffixes: ['o'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adverb',
       },
@@ -161,10 +152,7 @@ export const genesis_2_18: Verse = {
       englishLiteral: 'I-will-make-',
       englishNatural: 'I will make',
       root: 'asah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -181,10 +169,7 @@ export const genesis_2_18: Verse = {
       englishNatural: 'to him',
       root: 'lo',
       suffixes: ['o'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -195,10 +180,7 @@ export const genesis_2_18: Verse = {
       englishLiteral: 'help',
       englishNatural: 'a help',
       root: 'ezer',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
       },
@@ -215,10 +197,7 @@ export const genesis_2_18: Verse = {
       root: 'neged',
       prefixes: ['ke'],
       suffixes: ['o'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -239,6 +218,6 @@ export const genesis_2_18: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God said, "No good for the Earth (Adam) to be to himself alone; I will make to him a help, as his opposite."',
     kjv: 'And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

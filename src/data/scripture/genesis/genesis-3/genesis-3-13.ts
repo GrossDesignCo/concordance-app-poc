@@ -72,10 +72,7 @@ export const genesis_3_13: Verse = {
       root: 'ishah',
       prefixes: ['la'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -92,10 +89,7 @@ export const genesis_3_13: Verse = {
       englishLiteral: 'What-',
       englishNatural: 'What',
       root: 'mah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'pronoun',
       },
@@ -110,10 +104,7 @@ export const genesis_3_13: Verse = {
       englishLiteral: 'this',
       englishNatural: 'is this',
       root: 'zot',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'pronoun',
       },
@@ -125,10 +116,7 @@ export const genesis_3_13: Verse = {
       englishNatural: 'you have made',
       root: 'asah',
       suffixes: ['it_verb'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -196,10 +184,7 @@ export const genesis_3_13: Verse = {
       englishNatural: 'The snake',
       root: 'nachash',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -222,10 +207,7 @@ export const genesis_3_13: Verse = {
       root: 'nasha',
       prefixes: ['hi'],
       suffixes: ['ani'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -246,10 +228,7 @@ export const genesis_3_13: Verse = {
       englishNatural: 'and I ate',
       root: 'akhal',
       prefixes: ['va'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -275,6 +254,6 @@ export const genesis_3_13: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God said to the woman, "What is this you have made?" And the woman said, "The snake, he deceived me, and I ate."',
     kjv: 'And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

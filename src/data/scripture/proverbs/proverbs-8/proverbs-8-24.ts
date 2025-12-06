@@ -14,10 +14,7 @@ export const proverbs_8_24: Verse = {
       englishNatural: 'In nothing',
       root: 'ein',
       prefixes: ['be'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
@@ -34,10 +31,7 @@ export const proverbs_8_24: Verse = {
       englishNatural: 'abyss',
       root: 'tehom',
       suffixes: ['ot'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -55,10 +49,7 @@ export const proverbs_8_24: Verse = {
       englishNatural: 'I was born',
       root: 'yalad',
       suffixes: ['ti'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -79,10 +70,7 @@ export const proverbs_8_24: Verse = {
       englishNatural: 'in nothing',
       root: 'ein',
       prefixes: ['be'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'adverb',
       },
@@ -99,10 +87,7 @@ export const proverbs_8_24: Verse = {
       englishNatural: 'springs',
       root: 'mayan',
       suffixes: ['ot'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -119,10 +104,7 @@ export const proverbs_8_24: Verse = {
       englishLiteral: 'heavy_with',
       englishNatural: 'heavy-with',
       root: 'kavad',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -136,10 +118,7 @@ export const proverbs_8_24: Verse = {
       englishLiteral: 'waters',
       englishNatural: 'waters',
       root: 'mayim',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -160,6 +139,6 @@ export const proverbs_8_24: Verse = {
     englishNatural:
       'In nothing, abyss, I was born; in nothing, springs, heavy-with waters.',
     kjv: 'When there were no depths, I was brought forth; when there were no fountains abounding with water',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

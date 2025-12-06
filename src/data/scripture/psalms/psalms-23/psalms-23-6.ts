@@ -13,10 +13,7 @@ export const psalms_23_6: Verse = {
       englishLiteral: 'Only',
       englishNatural: 'Only',
       root: 'akh',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
@@ -28,10 +25,7 @@ export const psalms_23_6: Verse = {
       englishLiteral: 'good',
       englishNatural: 'good',
       root: 'tov',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -45,10 +39,7 @@ export const psalms_23_6: Verse = {
       englishNatural: 'and steadfast-love',
       root: 'chesed',
       prefixes: ['va'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -63,10 +54,7 @@ export const psalms_23_6: Verse = {
       root: 'radaf',
       prefixes: ['yi'],
       suffixes: ['ni'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         person: '3rd',
         number: 'plural',
@@ -85,10 +73,7 @@ export const psalms_23_6: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -99,10 +84,7 @@ export const psalms_23_6: Verse = {
       englishLiteral: 'days-of',
       englishNatural: 'the days of',
       root: 'yom',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -116,10 +98,7 @@ export const psalms_23_6: Verse = {
       englishNatural: 'my life',
       root: 'chayah',
       suffixes: ['ai'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -139,10 +118,7 @@ export const psalms_23_6: Verse = {
       englishNatural: 'and I will sit',
       root: 'yashav',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         person: '1st',
         number: 'singular',
@@ -158,10 +134,7 @@ export const psalms_23_6: Verse = {
       englishNatural: 'in the house of',
       root: 'bayit',
       prefixes: ['be'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -174,10 +147,7 @@ export const psalms_23_6: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
       },
@@ -193,10 +163,7 @@ export const psalms_23_6: Verse = {
       englishNatural: 'to the length of',
       root: 'orekh',
       prefixes: ['le'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -209,10 +176,7 @@ export const psalms_23_6: Verse = {
       englishLiteral: 'days',
       englishNatural: 'days',
       root: 'yom',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -234,6 +198,6 @@ export const psalms_23_6: Verse = {
     englishNatural:
       'Only good and steadfast-love will pursue me, all the days of my life; and I will sit in the house of He-Who-Is (YHWH), to the length of days.',
     kjv: 'Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

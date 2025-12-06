@@ -14,10 +14,7 @@ export const genesis_6_21: Verse = {
       englishNatural: 'And you',
       root: 'atah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -32,10 +29,7 @@ export const genesis_6_21: Verse = {
       englishLiteral: 'take-',
       englishNatural: 'take',
       root: 'laqach',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -52,10 +46,7 @@ export const genesis_6_21: Verse = {
       englishNatural: 'to yourself',
       root: 'la',
       suffixes: ['kha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -71,10 +62,7 @@ export const genesis_6_21: Verse = {
       englishNatural: 'from all',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -85,10 +73,7 @@ export const genesis_6_21: Verse = {
       englishLiteral: 'food',
       englishNatural: 'food',
       root: 'okhel',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -101,10 +86,7 @@ export const genesis_6_21: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'particle',
       },
@@ -115,10 +97,7 @@ export const genesis_6_21: Verse = {
       englishLiteral: 'it-is-eaten',
       englishNatural: 'is eaten',
       root: 'akhal',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -141,10 +120,7 @@ export const genesis_6_21: Verse = {
       root: 'asaph',
       prefixes: ['ve'],
       suffixes: ['ta'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -161,10 +137,7 @@ export const genesis_6_21: Verse = {
       englishNatural: 'to you',
       root: 'el',
       suffixes: ['kha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -181,10 +154,7 @@ export const genesis_6_21: Verse = {
       englishNatural: 'and it will be',
       root: 'hayah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -201,10 +171,7 @@ export const genesis_6_21: Verse = {
       englishNatural: 'for you',
       root: 'la',
       suffixes: ['kha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -217,10 +184,7 @@ export const genesis_6_21: Verse = {
       root: 'la',
       prefixes: ['ve'],
       suffixes: ['hem'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -232,10 +196,7 @@ export const genesis_6_21: Verse = {
       englishNatural: 'for food',
       root: 'okhel',
       prefixes: ['le'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -258,6 +219,6 @@ export const genesis_6_21: Verse = {
     englishNatural:
       'And you take to yourself, from all food which is eaten, and you shall gather to you; and it will be for you and for them for food.',
     kjv: 'And take thou unto thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food for thee, and for them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

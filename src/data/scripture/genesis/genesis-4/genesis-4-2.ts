@@ -15,10 +15,7 @@ export const genesis_4_2: Verse = {
       root: 'yasaf',
       prefixes: ['va'],
       suffixes: ['ta'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -36,10 +33,7 @@ export const genesis_4_2: Verse = {
       englishNatural: 'to her birthing',
       root: 'yalad',
       prefixes: ['la'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'qal',
@@ -56,10 +50,7 @@ export const genesis_4_2: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -71,10 +62,7 @@ export const genesis_4_2: Verse = {
       englishNatural: 'his brother',
       root: 'ach',
       suffixes: ['av'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -88,10 +76,7 @@ export const genesis_4_2: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'particle',
       },
@@ -102,10 +87,7 @@ export const genesis_4_2: Verse = {
       englishLiteral: 'Vapor (Abel)',
       englishNatural: 'Vapor (Abel)',
       root: 'hevel',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -155,10 +137,7 @@ export const genesis_4_2: Verse = {
       englishLiteral: 'shepherd',
       englishNatural: 'a shepherd',
       root: 'raah_shepherd',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -173,10 +152,7 @@ export const genesis_4_2: Verse = {
       englishLiteral: 'flock',
       englishNatural: 'of flock',
       root: 'tzon',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -195,10 +171,7 @@ export const genesis_4_2: Verse = {
       englishNatural: 'and Acquired (Cain)',
       root: 'qanah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
       },
@@ -209,10 +182,7 @@ export const genesis_4_2: Verse = {
       englishLiteral: 'was',
       englishNatural: 'was',
       root: 'hayah',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -228,10 +198,7 @@ export const genesis_4_2: Verse = {
       englishLiteral: 'servant',
       englishNatural: 'a servant',
       root: 'avad',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -246,10 +213,7 @@ export const genesis_4_2: Verse = {
       englishLiteral: 'earth',
       englishNatural: 'of earth',
       root: 'adamah',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -272,6 +236,6 @@ export const genesis_4_2: Verse = {
     englishNatural:
       'And she added to her birthing, his brother Vapor (Abel). And Vapor (Abel) was a shepherd of flock, and Acquired (Cain) was a servant of earth.',
     kjv: 'And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -99,10 +99,7 @@ export const jonah_1_10: Verse = {
       root: 'amar',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -120,10 +117,7 @@ export const jonah_1_10: Verse = {
       englishNatural: 'to him',
       root: 'el',
       suffixes: ['av'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -138,10 +132,7 @@ export const jonah_1_10: Verse = {
       englishLiteral: 'What-',
       englishNatural: 'What',
       root: 'mah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'pronoun',
       },
@@ -156,10 +147,7 @@ export const jonah_1_10: Verse = {
       englishLiteral: 'this',
       englishNatural: 'is this',
       root: 'zot',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -173,10 +161,7 @@ export const jonah_1_10: Verse = {
       englishNatural: 'you have done',
       root: 'asah',
       suffixes: ['ta'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -196,10 +181,7 @@ export const jonah_1_10: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'conjunction',
       },
@@ -255,10 +237,7 @@ export const jonah_1_10: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'conjunction',
       },
@@ -271,10 +250,7 @@ export const jonah_1_10: Verse = {
       root: 'panah',
       prefixes: ['mi', 'li'],
       suffixes: ['ey'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'preposition',
       },
@@ -285,10 +261,7 @@ export const jonah_1_10: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'noun',
       },
@@ -299,10 +272,7 @@ export const jonah_1_10: Verse = {
       englishLiteral: 'he',
       englishNatural: 'he',
       root: 'hu',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -316,10 +286,7 @@ export const jonah_1_10: Verse = {
       englishLiteral: 'fleeing',
       englishNatural: 'was fleeing',
       root: 'barach',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -338,10 +305,7 @@ export const jonah_1_10: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'conjunction',
       },
@@ -352,10 +316,7 @@ export const jonah_1_10: Verse = {
       englishLiteral: 'he-said',
       englishNatural: 'he had said',
       root: 'nagad',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -372,10 +333,7 @@ export const jonah_1_10: Verse = {
       englishNatural: 'to them',
       root: 'la',
       suffixes: ['hem'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'preposition',
       },
@@ -396,6 +354,6 @@ export const jonah_1_10: Verse = {
     englishNatural:
       'And the men feared a great fear, and said to him, "What is this you have done?" that the men knew, that from the face of He-Who-Is (YHWH) he was fleeing, that he had said to them.',
     kjv: 'Then were the men exceedingly afraid, and said unto him, What is this that thou hast done? For the men knew that he fled from the presence of the LORD, because he had told them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

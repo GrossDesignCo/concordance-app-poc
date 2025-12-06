@@ -56,10 +56,7 @@ export const jonah_3_4: Verse = {
       englishNatural: 'to enter',
       root: 'bo',
       prefixes: ['la'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'verb',
         tense: 'infinitive_construct',
@@ -73,10 +70,7 @@ export const jonah_3_4: Verse = {
       englishNatural: 'into the city',
       root: 'ir',
       prefixes: ['ba'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -89,10 +83,7 @@ export const jonah_3_4: Verse = {
       englishLiteral: 'journey-of',
       englishNatural: 'a journey of',
       root: 'mahalakh',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -145,10 +136,7 @@ export const jonah_3_4: Verse = {
       englishNatural: 'and he called-out',
       root: 'qara',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -166,10 +154,7 @@ export const jonah_3_4: Verse = {
       englishNatural: 'and said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -189,10 +174,7 @@ export const jonah_3_4: Verse = {
       englishLiteral: 'yet',
       englishNatural: 'Yet',
       root: 'od',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'adverb',
       },
@@ -208,10 +190,7 @@ export const jonah_3_4: Verse = {
       englishLiteral: 'forty',
       englishNatural: 'forty',
       root: 'arbaim',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'numeral',
       },
@@ -222,10 +201,7 @@ export const jonah_3_4: Verse = {
       englishLiteral: 'day',
       englishNatural: 'days',
       root: 'yom',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -243,10 +219,7 @@ export const jonah_3_4: Verse = {
       englishNatural: 'and Dwelling-of-Fish (Nineveh)',
       root: 'nineveh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -260,10 +233,7 @@ export const jonah_3_4: Verse = {
       englishLiteral: 'overturned',
       englishNatural: 'overturned',
       root: 'haphakh',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -289,6 +259,6 @@ export const jonah_3_4: Verse = {
     englishNatural:
       'And Dove (Jonah) began to enter into the city a journey of one day, and he called-out and said, "Yet forty days, and Dwelling-of-Fish (Nineveh) overturned."',
     kjv: "And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

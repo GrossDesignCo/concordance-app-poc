@@ -15,10 +15,7 @@ export const ezekiel_1_11: Verse = {
       root: 'panah',
       prefixes: ['ve'],
       suffixes: ['hem'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -34,10 +31,7 @@ export const ezekiel_1_11: Verse = {
       root: 'kenaf',
       prefixes: ['ve'],
       suffixes: ['hem'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -50,10 +44,7 @@ export const ezekiel_1_11: Verse = {
       englishLiteral: 'separated',
       englishNatural: 'separated',
       root: 'parad',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -69,10 +60,7 @@ export const ezekiel_1_11: Verse = {
       englishNatural: 'upward',
       root: 'maala',
       prefixes: ['me', 'le'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'adverb',
       },
@@ -168,10 +156,7 @@ export const ezekiel_1_11: Verse = {
       englishNatural: 'and two',
       root: 'shnayim',
       prefixes: ['ve'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -184,10 +169,7 @@ export const ezekiel_1_11: Verse = {
       englishLiteral: 'covering',
       englishNatural: 'covering',
       root: 'kasah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -202,10 +184,7 @@ export const ezekiel_1_11: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'particle',
       },
@@ -217,10 +196,7 @@ export const ezekiel_1_11: Verse = {
       englishNatural: 'their bodies',
       root: 'geviyah',
       suffixes: ['henah'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -243,6 +219,6 @@ export const ezekiel_1_11: Verse = {
     englishNatural:
       'And their faces and their wings separated upward; two joining man to man, and two covering their bodies.',
     kjv: 'Thus were their faces: and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

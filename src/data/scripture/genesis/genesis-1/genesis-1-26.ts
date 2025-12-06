@@ -63,10 +63,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'Let us make',
       root: 'asah',
       prefixes: ['na'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -86,10 +83,7 @@ export const genesis_1_26: Verse = {
       englishLiteral: 'Earth (Adam)',
       englishNatural: 'Earth (Adam)',
       root: 'adam',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -108,10 +102,7 @@ export const genesis_1_26: Verse = {
       root: 'tselem',
       prefixes: ['be'],
       suffixes: ['nu'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -130,10 +121,7 @@ export const genesis_1_26: Verse = {
       root: 'demut',
       prefixes: ['ki'],
       suffixes: ['einu'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -151,10 +139,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'And let them subjugate',
       root: 'radah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -176,10 +161,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'among fish of',
       root: 'dagah',
       prefixes: ['bi'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -193,10 +175,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'the sea',
       root: 'yam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -214,10 +193,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'and among flyer of',
       root: 'oph',
       prefixes: ['u', 'be'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -231,10 +207,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -252,10 +225,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'and among the beast',
       root: 'behemah',
       prefixes: ['u', 'va'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -273,10 +243,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'and among all',
       root: 'kol',
       prefixes: ['u', 'be'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'adjective',
       },
@@ -288,10 +255,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -309,10 +273,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'and among all',
       root: 'kol',
       prefixes: ['u', 'be'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'adjective',
       },
@@ -324,10 +285,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'the crawler',
       root: 'ramas',
       prefixes: ['ha'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -345,10 +303,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'the crawling',
       root: 'ramas',
       prefixes: ['ha'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -365,10 +320,7 @@ export const genesis_1_26: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'preposition',
       },
@@ -380,10 +332,7 @@ export const genesis_1_26: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -406,6 +355,6 @@ export const genesis_1_26: Verse = {
     englishNatural:
       'And God said, "Let us make Earth (Adam), in our image, as our likeness, And let them subjugate, among fish of the sea, and among flyer of the skies, and among the beast, and among all the land, and among all the crawler, the crawling, over the land."',
     kjv: 'And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

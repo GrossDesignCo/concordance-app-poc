@@ -70,10 +70,7 @@ export const genesis_3_9: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -85,10 +82,7 @@ export const genesis_3_9: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -107,10 +101,7 @@ export const genesis_3_9: Verse = {
       englishNatural: 'and said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -127,10 +118,7 @@ export const genesis_3_9: Verse = {
       englishNatural: 'to him',
       root: 'la',
       suffixes: ['o'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -145,10 +133,7 @@ export const genesis_3_9: Verse = {
       englishLiteral: 'Where',
       englishNatural: 'Where are you',
       root: 'ayekah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adverb',
       },
@@ -171,6 +156,6 @@ export const genesis_3_9: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God called-out to the Earth (Adam), and said to him, "Where are you?"',
     kjv: 'And the LORD God called unto Adam, and said unto him, Where art thou?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

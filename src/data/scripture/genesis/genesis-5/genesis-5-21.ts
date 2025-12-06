@@ -55,10 +55,7 @@ export const genesis_5_21: Verse = {
       englishLiteral: 'five',
       englishNatural: 'five',
       root: 'chamishah',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'numeral',
         gender: 'masculine',
@@ -72,10 +69,7 @@ export const genesis_5_21: Verse = {
       englishNatural: 'and sixty',
       root: 'shishim',
       prefixes: ['ve'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'numeral',
         gender: 'masculine',
@@ -88,10 +82,7 @@ export const genesis_5_21: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -109,10 +100,7 @@ export const genesis_5_21: Verse = {
       englishNatural: 'and birthed',
       root: 'yalad',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -129,10 +117,7 @@ export const genesis_5_21: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
     },
     {
       hebrew: 'מְתוּשָׁלַח',
@@ -140,10 +125,7 @@ export const genesis_5_21: Verse = {
       englishLiteral: 'Man-of-the-Dart (Methuselah)',
       englishNatural: 'Man-of-the-Dart (Methuselah)',
       root: 'Metushalach',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -170,6 +152,6 @@ export const genesis_5_21: Verse = {
     englishNatural:
       'And Dedicated (Enoch) lived five and sixty years, and birthed "Man-of-the-Dart (Methuselah)."',
     kjv: 'And Enoch lived sixty and five years, and begat Methuselah.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

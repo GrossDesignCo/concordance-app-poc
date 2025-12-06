@@ -66,10 +66,7 @@ export const genesis_6_22: Verse = {
       englishNatural: 'like all',
       root: 'kol',
       prefixes: ['ke'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
       },
@@ -80,10 +77,7 @@ export const genesis_6_22: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'particle',
       },
@@ -157,10 +151,7 @@ export const genesis_6_22: Verse = {
       englishLiteral: 'so',
       englishNatural: 'so',
       root: 'ken',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adverb',
       },
@@ -171,10 +162,7 @@ export const genesis_6_22: Verse = {
       englishLiteral: 'he-made',
       englishNatural: 'he made',
       root: 'asah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -198,6 +186,6 @@ export const genesis_6_22: Verse = {
     englishNatural:
       'And Rest (Noah) made; like all which God commanded him, so he made.',
     kjv: 'Thus did Noah; according to all that God commanded him, so did he.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

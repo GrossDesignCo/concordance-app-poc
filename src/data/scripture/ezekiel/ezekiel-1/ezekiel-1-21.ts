@@ -15,10 +15,7 @@ export const ezekiel_1_21: Verse = {
       root: 'halakh',
       prefixes: ['be'],
       suffixes: ['tan'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
@@ -31,10 +28,7 @@ export const ezekiel_1_21: Verse = {
       englishLiteral: 'they-went',
       englishNatural: 'they went',
       root: 'halakh',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -57,10 +51,7 @@ export const ezekiel_1_21: Verse = {
       root: 'amad',
       prefixes: ['ve', 'be'],
       suffixes: ['am'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
@@ -72,10 +63,7 @@ export const ezekiel_1_21: Verse = {
       englishLiteral: 'they-stood',
       englishNatural: 'they stood',
       root: 'amad',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -98,10 +86,7 @@ export const ezekiel_1_21: Verse = {
       root: 'nasa',
       prefixes: ['ve', 'be'],
       suffixes: ['am'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'niphal',
@@ -115,10 +100,7 @@ export const ezekiel_1_21: Verse = {
       englishNatural: 'from over',
       root: 'al',
       prefixes: ['me'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -130,10 +112,7 @@ export const ezekiel_1_21: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -185,10 +164,7 @@ export const ezekiel_1_21: Verse = {
       root: 'umat',
       prefixes: ['le'],
       suffixes: ['am'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -204,10 +180,7 @@ export const ezekiel_1_21: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'conjunction',
       },
@@ -218,10 +191,7 @@ export const ezekiel_1_21: Verse = {
       englishLiteral: 'wind-of',
       englishNatural: 'the wind of',
       root: 'ruach',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -236,10 +206,7 @@ export const ezekiel_1_21: Verse = {
       englishNatural: 'the living-being',
       root: 'chayah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -257,10 +224,7 @@ export const ezekiel_1_21: Verse = {
       englishNatural: 'in the wheels',
       root: 'ophan',
       prefixes: ['be', 'ha'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -283,6 +247,6 @@ export const ezekiel_1_21: Verse = {
     englishNatural:
       'In their going they went, and in their standing they stood, and in their being-lifted from over the land the wheels were lifted to alongside them, that the wind of the living-being, in the wheels.',
     kjv: 'When those went, these went; and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

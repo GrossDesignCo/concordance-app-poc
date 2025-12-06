@@ -13,10 +13,7 @@ export const psalms_23_1: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -32,10 +29,7 @@ export const psalms_23_1: Verse = {
       englishNatural: 'my shepherd',
       root: 'raah_shepherd',
       suffixes: ['i'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -101,6 +95,6 @@ export const psalms_23_1: Verse = {
     englishLiteral: 'He_Who_Is (YHWH), my-shepherd; not I-will-lack.',
     englishNatural: 'He-Who-Is (YHWH), my shepherd; I will lack not.',
     kjv: 'The LORD is my shepherd; I shall not want.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

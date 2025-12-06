@@ -89,10 +89,7 @@ export const genesis_5_23: Verse = {
       englishLiteral: 'five',
       englishNatural: 'five',
       root: 'chamesh',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -106,10 +103,7 @@ export const genesis_5_23: Verse = {
       englishNatural: 'and sixty',
       root: 'shishim',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'numeral',
         gender: 'masculine',
@@ -122,10 +116,7 @@ export const genesis_5_23: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -139,10 +130,7 @@ export const genesis_5_23: Verse = {
       englishNatural: 'and three',
       root: 'shalosh',
       prefixes: ['u'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -156,10 +144,7 @@ export const genesis_5_23: Verse = {
       englishNatural: 'hundred',
       root: 'meah',
       prefixes: ['me'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -173,10 +158,7 @@ export const genesis_5_23: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -199,6 +181,6 @@ export const genesis_5_23: Verse = {
     englishNatural:
       'And all the days of Dedicated (Enoch), were five and sixty years and three hundred years.',
     kjv: 'And all the days of Enoch were three hundred sixty and five years:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

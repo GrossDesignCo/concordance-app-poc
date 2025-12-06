@@ -73,10 +73,7 @@ export const isaiah_6_4: Verse = {
       englishNatural: 'from the voice of',
       root: 'qol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -88,10 +85,7 @@ export const isaiah_6_4: Verse = {
       englishNatural: 'the caller',
       root: 'qara',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -111,10 +105,7 @@ export const isaiah_6_4: Verse = {
       englishNatural: 'and the house',
       root: 'bayit',
       prefixes: ['ve', 'ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -125,10 +116,7 @@ export const isaiah_6_4: Verse = {
       englishLiteral: 'was-filled',
       englishNatural: 'was filled with',
       root: 'male',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -142,10 +130,7 @@ export const isaiah_6_4: Verse = {
       englishLiteral: 'smoke',
       englishNatural: 'smoke',
       root: 'ashan',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -166,6 +151,6 @@ export const isaiah_6_4: Verse = {
     englishNatural:
       'And pillars of the thresholds shook from the voice of the caller, and the house was filled with smoke.',
     kjv: 'And the posts of the door moved at the voice of him that cried, and the house was filled with smoke.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

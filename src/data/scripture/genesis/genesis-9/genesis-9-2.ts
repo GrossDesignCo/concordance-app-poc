@@ -15,10 +15,7 @@ export const genesis_9_2: Verse = {
       root: 'mora',
       prefixes: ['u'],
       suffixes: ['khem'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -34,10 +31,7 @@ export const genesis_9_2: Verse = {
       root: 'chittah',
       prefixes: ['ve'],
       suffixes: ['khem'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const genesis_9_2: Verse = {
       englishLiteral: 'will-be',
       englishNatural: 'will be',
       root: 'hayah',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -69,10 +60,7 @@ export const genesis_9_2: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -83,10 +71,7 @@ export const genesis_9_2: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -97,10 +82,7 @@ export const genesis_9_2: Verse = {
       englishLiteral: 'living-of',
       englishNatural: 'the living of',
       root: 'chayah',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -115,10 +97,7 @@ export const genesis_9_2: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -133,10 +112,7 @@ export const genesis_9_2: Verse = {
       englishNatural: 'and over',
       root: 'al',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -147,10 +123,7 @@ export const genesis_9_2: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -161,10 +134,7 @@ export const genesis_9_2: Verse = {
       englishLiteral: 'flyer-of',
       englishNatural: 'the flyer of',
       root: 'oph',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -179,10 +149,7 @@ export const genesis_9_2: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'dual',
@@ -201,10 +168,7 @@ export const genesis_9_2: Verse = {
       englishNatural: 'in all',
       root: 'kol',
       prefixes: ['be'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
       },
@@ -215,10 +179,7 @@ export const genesis_9_2: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'relative',
       },
@@ -229,10 +190,7 @@ export const genesis_9_2: Verse = {
       englishLiteral: 'it-creeps',
       englishNatural: 'creeps',
       root: 'ramas',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -249,10 +207,7 @@ export const genesis_9_2: Verse = {
       englishNatural: 'the soil',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -267,10 +222,7 @@ export const genesis_9_2: Verse = {
       englishNatural: 'and in all',
       root: 'kol',
       prefixes: ['u', 'be'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'noun',
       },
@@ -282,10 +234,7 @@ export const genesis_9_2: Verse = {
       englishNatural: 'fish of',
       root: 'dag',
       suffixes: ['ey'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -300,10 +249,7 @@ export const genesis_9_2: Verse = {
       englishNatural: 'the sea',
       root: 'yam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -323,10 +269,7 @@ export const genesis_9_2: Verse = {
       root: 'yad',
       prefixes: ['be'],
       suffixes: ['khem'],
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -340,10 +283,7 @@ export const genesis_9_2: Verse = {
       englishNatural: 'they are given',
       root: 'natan',
       suffixes: ['u'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'common',
         number: 'plural',
@@ -369,6 +309,6 @@ export const genesis_9_2: Verse = {
     englishNatural:
       'And your fear and your dread will be over all the living of the land and over all the flyer of the skies, in all which creeps the soil and in all fish of the sea; in your hand they are given.',
     kjv: 'And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

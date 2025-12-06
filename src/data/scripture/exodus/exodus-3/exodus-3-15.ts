@@ -70,10 +70,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -84,10 +81,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'Draws_Out (Moses)',
       englishNatural: 'Draws-Out (Moses)',
       root: 'moshe',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -102,10 +96,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'Thus-',
       englishNatural: 'Thus',
       root: 'koh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'adverb',
       },
@@ -121,10 +112,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'you-will-say',
       englishNatural: 'you will say',
       root: 'amar',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -140,10 +128,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -156,10 +141,7 @@ export const exodus_3_15: Verse = {
       root: 'ben',
       prefixes: ['be'],
       suffixes: ['ey'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -173,10 +155,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'Struggles_with_God (Israel)',
       englishNatural: 'Struggles-with-God (Israel)',
       root: 'yisrael',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
       },
@@ -191,10 +170,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
       },
@@ -215,10 +191,7 @@ export const exodus_3_15: Verse = {
       englishNatural: 'God of',
       root: 'eloah',
       suffixes: ['ey'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -232,10 +205,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'your-fathers',
       englishNatural: 'your fathers',
       root: 'avot',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -253,10 +223,7 @@ export const exodus_3_15: Verse = {
       englishNatural: 'the God of',
       root: 'eloah',
       suffixes: ['ey'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -271,10 +238,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'Father_of_Multitudes (Abraham)',
       englishNatural: 'Father-of-Multitudes (Abraham)',
       root: 'avraham',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'noun',
       },
@@ -290,10 +254,7 @@ export const exodus_3_15: Verse = {
       englishNatural: 'the God of',
       root: 'eloah',
       suffixes: ['ey'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -308,10 +269,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'He_Laughs (Isaac)',
       englishNatural: 'He-Laughs (Isaac)',
       root: 'yitzchaq',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'noun',
       },
@@ -328,10 +286,7 @@ export const exodus_3_15: Verse = {
       root: 'eloah',
       prefixes: ['ve'],
       suffixes: ['ey'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -346,10 +301,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'Heel_Grasper (Jacob)',
       englishNatural: 'Heel-Grasper (Jacob)',
       root: 'yaaqov',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'noun',
       },
@@ -364,10 +316,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'sent-me',
       englishNatural: 'has sent me',
       root: 'shlachani',
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -384,10 +333,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'to-you',
       englishNatural: 'to you',
       root: 'lakhem',
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         type: 'preposition',
       },
@@ -402,10 +348,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'this-',
       englishNatural: 'this is',
       root: 'zeh',
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         type: 'pronoun',
       },
@@ -418,10 +361,7 @@ export const exodus_3_15: Verse = {
       englishNatural: 'my name',
       root: 'shem',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 23,
-        english: 23,
-      },
+      order: 23,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -435,10 +375,7 @@ export const exodus_3_15: Verse = {
       englishNatural: 'to the-age',
       root: 'olam',
       prefixes: ['le'],
-      order: {
-        hebrew: 24,
-        english: 24,
-      },
+      order: 24,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -456,10 +393,7 @@ export const exodus_3_15: Verse = {
       englishNatural: 'and this is',
       root: 'zeh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 25,
-        english: 25,
-      },
+      order: 25,
       morphology: {
         type: 'pronoun',
       },
@@ -471,10 +405,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'my-rememberance',
       englishNatural: 'my rememberance',
       root: 'zakhar_remember',
-      order: {
-        hebrew: 26,
-        english: 26,
-      },
+      order: 26,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -488,10 +419,7 @@ export const exodus_3_15: Verse = {
       englishNatural: 'to generation of',
       root: 'dor',
       prefixes: ['le'],
-      order: {
-        hebrew: 27,
-        english: 27,
-      },
+      order: 27,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -504,10 +432,7 @@ export const exodus_3_15: Verse = {
       englishLiteral: 'generation',
       englishNatural: 'generation',
       root: 'dor',
-      order: {
-        hebrew: 28,
-        english: 28,
-      },
+      order: 28,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -530,6 +455,6 @@ export const exodus_3_15: Verse = {
     englishNatural:
       'And again God said to Draws-Out (Moses), "Thus you will say to the sons of Struggles-with-God (Israel), \'He-Who-Is (YHWH), God of your fathers, the God of Father-of-Multitudes (Abraham), the God of He-Laughs (Isaac), and the God of Heel-Grasper (Jacob), has sent me to you;\' this is my name to the-age, and this is my rememberance to generation of generation."',
     kjv: 'And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

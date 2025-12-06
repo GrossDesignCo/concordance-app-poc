@@ -14,10 +14,7 @@ export const genesis_3_10: Verse = {
       englishNatural: 'And he said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -38,10 +35,7 @@ export const genesis_3_10: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       grammarPrefix: {
         englishLiteral: '"',
       },
@@ -56,10 +50,7 @@ export const genesis_3_10: Verse = {
       englishNatural: 'Your voice',
       root: 'qol',
       suffixes: ['kha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -83,10 +74,7 @@ export const genesis_3_10: Verse = {
       englishNatural: 'I heard',
       root: 'shama',
       suffixes: ['ti'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -107,10 +95,7 @@ export const genesis_3_10: Verse = {
       englishNatural: 'in Garden',
       root: 'gan',
       prefixes: ['ba'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -128,10 +113,7 @@ export const genesis_3_10: Verse = {
       englishNatural: 'and I feared',
       root: 'yare',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -151,10 +133,7 @@ export const genesis_3_10: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'conjunction'
       },
@@ -166,10 +145,7 @@ export const genesis_3_10: Verse = {
       englishLiteral: 'naked',
       englishNatural: 'naked',
       root: 'arom',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -186,10 +162,7 @@ export const genesis_3_10: Verse = {
       englishLiteral: 'I',
       englishNatural: 'I am',
       root: 'anokhi',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'pronoun'
       },
@@ -205,10 +178,7 @@ export const genesis_3_10: Verse = {
       englishNatural: 'and I hid',
       root: 'chaba',
       prefixes: ['va'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -230,6 +200,6 @@ export const genesis_3_10: Verse = {
     englishLiteral: 'And-he-said, "↳ Your-voice, I-heard, in-Garden, and-I-feared; that- naked, I, and-I-hid."',
     englishNatural: 'And he said, "Your voice, I heard, in Garden, and I feared; that naked, I am, and I hid."',
     kjv: 'And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

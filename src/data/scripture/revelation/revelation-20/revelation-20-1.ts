@@ -13,10 +13,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'and',
       englishNatural: 'and',
       root: 'kai',
-      order: {
-        greek: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'conjunction',
       },
@@ -27,10 +24,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'I-saw',
       englishNatural: 'I saw',
       root: 'eido',
-      order: {
-        greek: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         number: 'singular',
         person: '1st',
@@ -46,10 +40,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'messenger',
       englishNatural: 'a messenger',
       root: 'angelos',
-      order: {
-        greek: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -64,10 +55,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'descending',
       englishNatural: 'descending',
       root: 'katabaino',
-      order: {
-        greek: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -84,10 +72,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'out-of',
       englishNatural: 'from',
       root: 'ek',
-      order: {
-        greek: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -98,10 +83,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'the',
       englishNatural: 'the',
       root: 'ho',
-      order: {
-        greek: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'article',
         gender: 'masculine',
@@ -116,10 +98,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'heaven',
       englishNatural: 'heaven',
       root: 'ouranos',
-      order: {
-        greek: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -140,10 +119,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'having',
       englishNatural: 'having',
       root: 'echo',
-      order: {
-        greek: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -160,10 +136,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'the',
       englishNatural: 'the',
       root: 'ho',
-      order: {
-        greek: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'article',
         gender: 'feminine',
@@ -178,10 +151,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'key',
       englishNatural: 'key',
       root: 'kleis',
-      order: {
-        greek: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -196,10 +166,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'the',
       englishNatural: 'the',
       root: 'ho',
-      order: {
-        greek: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'article',
         gender: 'feminine',
@@ -214,10 +181,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'abyss',
       englishNatural: 'abyss',
       root: 'abussos',
-      order: {
-        greek: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -238,10 +202,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'and',
       englishNatural: 'and',
       root: 'kai',
-      order: {
-        greek: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'conjunction',
       },
@@ -252,10 +213,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'chain',
       englishNatural: 'a chain',
       root: 'halusis',
-      order: {
-        greek: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -270,10 +228,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'great',
       englishNatural: 'great',
       root: 'megas',
-      order: {
-        greek: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -288,10 +243,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'upon',
       englishNatural: 'in',
       root: 'epi',
-      order: {
-        greek: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'preposition',
       },
@@ -302,10 +254,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'the',
       englishNatural: 'the',
       root: 'ho',
-      order: {
-        greek: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'article',
         gender: 'feminine',
@@ -320,10 +269,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'hand',
       englishNatural: 'hand',
       root: 'cheir',
-      order: {
-        greek: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -338,10 +284,7 @@ export const revelation_20_1: Verse = {
       englishLiteral: 'his',
       englishNatural: 'of his',
       root: 'autos',
-      order: {
-        greek: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -366,6 +309,6 @@ export const revelation_20_1: Verse = {
     englishNatural:
       'and I saw a messenger descending from the heaven, having the key the abyss, and a chain great in the hand of his.',
     kjv: 'And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

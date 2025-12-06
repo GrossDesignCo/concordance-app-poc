@@ -88,10 +88,7 @@ export const genesis_9_29: Verse = {
       englishLiteral: 'nine',
       englishNatural: 'nine',
       root: 'tesha',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -105,10 +102,7 @@ export const genesis_9_29: Verse = {
       englishNatural: 'hundred',
       root: 'meah',
       suffixes: ['ot'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -121,10 +115,7 @@ export const genesis_9_29: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -138,10 +129,7 @@ export const genesis_9_29: Verse = {
       englishNatural: 'and fifty',
       root: 'chamishim',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'common',
         number: 'plural',
@@ -154,10 +142,7 @@ export const genesis_9_29: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -176,10 +161,7 @@ export const genesis_9_29: Verse = {
       englishNatural: 'and he died',
       root: 'mut',
       prefixes: ['va'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',

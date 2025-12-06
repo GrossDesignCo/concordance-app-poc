@@ -114,10 +114,7 @@ export const genesis_1_9: Verse = {
       englishNatural: 'from under',
       root: 'tachat',
       prefixes: ['mi'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -129,10 +126,7 @@ export const genesis_1_9: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -148,10 +142,7 @@ export const genesis_1_9: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -205,10 +196,7 @@ export const genesis_1_9: Verse = {
       englishNatural: 'be seen',
       root: 'raah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -294,6 +282,6 @@ export const genesis_1_9: Verse = {
     englishLiteral: 'And-said, Gods, "Let-gather, the-waters, from-under the-skies, to- place, one. And-be-seen, the-dry_ground." And-was- so.',
     englishNatural: 'And God said, "Let the waters gather from under the skies to one place. And let the dry-ground be seen." And it was so.',
     kjv: 'And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

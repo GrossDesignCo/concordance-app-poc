@@ -62,10 +62,7 @@ export const genesis_2_23: Verse = {
       englishLiteral: 'This',
       englishNatural: 'This is',
       root: 'zeh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'pronoun',
       },
@@ -82,10 +79,7 @@ export const genesis_2_23: Verse = {
       englishNatural: 'the time',
       root: 'paam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -102,10 +96,7 @@ export const genesis_2_23: Verse = {
       englishLiteral: 'Bone',
       englishNatural: 'Bone',
       root: 'etsem',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -121,10 +112,7 @@ export const genesis_2_23: Verse = {
       root: 'etsem',
       prefixes: ['me'],
       suffixes: ['ai'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -143,10 +131,7 @@ export const genesis_2_23: Verse = {
       englishNatural: 'and flesh',
       root: 'basar',
       prefixes: ['u'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -161,10 +146,7 @@ export const genesis_2_23: Verse = {
       root: 'basar',
       prefixes: ['mi'],
       suffixes: ['i'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -182,10 +164,7 @@ export const genesis_2_23: Verse = {
       englishNatural: 'to this',
       root: 'zeh',
       prefixes: ['le'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'pronoun',
       },
@@ -197,10 +176,7 @@ export const genesis_2_23: Verse = {
       englishLiteral: 'will-be-called_out',
       englishNatural: 'will be called-out',
       root: 'qara',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -216,10 +192,7 @@ export const genesis_2_23: Verse = {
       englishLiteral: 'Woman',
       englishNatural: 'Woman',
       root: 'ishah',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -241,10 +214,7 @@ export const genesis_2_23: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'conjunction',
       },
@@ -256,10 +226,7 @@ export const genesis_2_23: Verse = {
       englishNatural: 'from Man',
       root: 'ish',
       prefixes: ['me'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -323,6 +290,6 @@ export const genesis_2_23: Verse = {
     englishNatural:
       'And the Earth (Adam) said, "This is the time! Bone from my bones, and flesh from my flesh; to this will be called-out \'Woman,\' that from Man this was taken."',
     kjv: 'And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

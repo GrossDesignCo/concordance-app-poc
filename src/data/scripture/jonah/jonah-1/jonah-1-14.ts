@@ -15,10 +15,7 @@ export const jonah_1_14: Verse = {
       root: 'qara',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -35,10 +32,7 @@ export const jonah_1_14: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'preposition',
       },
@@ -49,10 +43,7 @@ export const jonah_1_14: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
       },
@@ -65,10 +56,7 @@ export const jonah_1_14: Verse = {
       root: 'amar',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -88,10 +76,7 @@ export const jonah_1_14: Verse = {
       englishLiteral: 'please',
       englishNatural: 'Please',
       root: 'anna',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'particle',
       },
@@ -107,10 +92,7 @@ export const jonah_1_14: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -174,10 +156,7 @@ export const jonah_1_14: Verse = {
       englishNatural: 'in the throat of',
       root: 'nephesh',
       prefixes: ['be'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -192,10 +171,7 @@ export const jonah_1_14: Verse = {
       englishNatural: 'the man',
       root: 'ish',
       prefixes: ['ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -209,10 +185,7 @@ export const jonah_1_14: Verse = {
       englishNatural: 'the this',
       root: 'zeh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -322,10 +295,7 @@ export const jonah_1_14: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'conjunction',
       },
@@ -337,10 +307,7 @@ export const jonah_1_14: Verse = {
       englishLiteral: 'you',
       englishNatural: 'you',
       root: 'atah',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -354,10 +321,7 @@ export const jonah_1_14: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'noun',
       },
@@ -373,10 +337,7 @@ export const jonah_1_14: Verse = {
       englishNatural: 'as which',
       root: 'asher',
       prefixes: ['ka'],
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         type: 'conjunction',
       },
@@ -388,10 +349,7 @@ export const jonah_1_14: Verse = {
       englishNatural: 'you have delighted',
       root: 'chafatz',
       suffixes: ['ta'],
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -408,10 +366,7 @@ export const jonah_1_14: Verse = {
       englishNatural: 'you have made',
       root: 'asah',
       suffixes: ['ta'],
-      order: {
-        hebrew: 23,
-        english: 23,
-      },
+      order: 23,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -437,6 +392,6 @@ export const jonah_1_14: Verse = {
     englishNatural:
       'And they called-out to He-Who-Is (YHWH) and said, "Please He-Who-Is (YHWH), please let us perish not in the throat of the man the this; and give over us not innocent blood; that you He-Who-Is (YHWH), as which you have delighted you have made.',
     kjv: "Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

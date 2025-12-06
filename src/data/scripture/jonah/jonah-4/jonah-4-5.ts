@@ -51,10 +51,7 @@ export const jonah_4_5: Verse = {
       englishLiteral: 'from-',
       englishNatural: 'from',
       root: 'min_from',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -66,10 +63,7 @@ export const jonah_4_5: Verse = {
       englishNatural: 'the city',
       root: 'ir',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -83,10 +77,7 @@ export const jonah_4_5: Verse = {
       englishNatural: 'and sat',
       root: 'yashav',
       prefixes: ['va'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -103,10 +94,7 @@ export const jonah_4_5: Verse = {
       englishNatural: 'from east',
       root: 'qedem',
       prefixes: ['mi'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -118,10 +106,7 @@ export const jonah_4_5: Verse = {
       englishNatural: 'to the city',
       root: 'ir',
       prefixes: ['la'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -135,10 +120,7 @@ export const jonah_4_5: Verse = {
       englishNatural: 'and made',
       root: 'asah',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -156,10 +138,7 @@ export const jonah_4_5: Verse = {
       englishNatural: 'for him',
       root: 'li',
       suffixes: ['o'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -170,10 +149,7 @@ export const jonah_4_5: Verse = {
       englishLiteral: 'there',
       englishNatural: 'there',
       root: 'sham',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'adverb',
       },
@@ -184,10 +160,7 @@ export const jonah_4_5: Verse = {
       englishLiteral: 'booth',
       englishNatural: 'a booth',
       root: 'sukkah',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -201,10 +174,7 @@ export const jonah_4_5: Verse = {
       englishNatural: 'and sat',
       root: 'yashav',
       prefixes: ['va'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -221,10 +191,7 @@ export const jonah_4_5: Verse = {
       englishNatural: 'under it',
       root: 'tachat',
       suffixes: ['eha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -236,10 +203,7 @@ export const jonah_4_5: Verse = {
       englishNatural: 'in the shadow',
       root: 'tzel',
       prefixes: ['ba'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -256,10 +220,7 @@ export const jonah_4_5: Verse = {
       englishLiteral: 'until',
       englishNatural: 'until',
       root: 'ad',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'preposition',
       },
@@ -271,10 +232,7 @@ export const jonah_4_5: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'relative',
       },
@@ -285,10 +243,7 @@ export const jonah_4_5: Verse = {
       englishLiteral: 'he-will-see',
       englishNatural: 'he will see',
       root: 'raah',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -304,10 +259,7 @@ export const jonah_4_5: Verse = {
       englishLiteral: 'what-',
       englishNatural: 'what',
       root: 'mah',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'pronoun',
       },
@@ -318,10 +270,7 @@ export const jonah_4_5: Verse = {
       englishLiteral: 'will-be',
       englishNatural: 'will be',
       root: 'hayah',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -338,10 +287,7 @@ export const jonah_4_5: Verse = {
       englishNatural: 'in the city',
       root: 'ir',
       prefixes: ['ba'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -364,6 +310,6 @@ export const jonah_4_5: Verse = {
     englishNatural:
       'And Dove (Jonah) went-out from the city and sat from east to the city and made for him there a booth and sat under it in the shadow, until which he will see what will be in the city.',
     kjv: 'So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-19' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

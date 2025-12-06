@@ -13,10 +13,7 @@ export const psalms_1_4: Verse = {
       englishLiteral: 'Not',
       englishNatural: 'Not',
       root: 'lo',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
@@ -28,10 +25,7 @@ export const psalms_1_4: Verse = {
       englishLiteral: 'so',
       englishNatural: 'so',
       root: 'ken',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'adverb',
       },
@@ -44,10 +38,7 @@ export const psalms_1_4: Verse = {
       root: 'rasha',
       prefixes: ['ha'],
       suffixes: ['im'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -64,10 +55,7 @@ export const psalms_1_4: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'conjunction',
       },
@@ -79,10 +67,7 @@ export const psalms_1_4: Verse = {
       englishLiteral: 'if',
       englishNatural: 'if',
       root: 'im',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'conjunction',
       },
@@ -94,10 +79,7 @@ export const psalms_1_4: Verse = {
       englishNatural: 'as chaff',
       root: 'motz',
       prefixes: ['ka'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -110,10 +92,7 @@ export const psalms_1_4: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'relative',
       },
@@ -176,6 +155,6 @@ export const psalms_1_4: Verse = {
     englishNatural:
       'Not so the wicked, that if as chaff which the wind drives-away.',
     kjv: 'The ungodly are not so: but are like the chaff which the wind driveth away.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-15' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 }; 

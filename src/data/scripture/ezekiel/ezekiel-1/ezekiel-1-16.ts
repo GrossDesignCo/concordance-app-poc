@@ -13,10 +13,7 @@ export const ezekiel_1_16: Verse = {
       englishLiteral: 'appearance-of',
       englishNatural: 'The appearance of',
       root: 'mareh',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -32,10 +29,7 @@ export const ezekiel_1_16: Verse = {
       englishNatural: 'the wheels',
       root: 'ophan',
       prefixes: ['ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -50,10 +44,7 @@ export const ezekiel_1_16: Verse = {
       root: 'maaseh',
       prefixes: ['ve'],
       suffixes: ['hem'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -72,10 +63,7 @@ export const ezekiel_1_16: Verse = {
       englishNatural: 'like an eye of',
       root: 'ayin_eye',
       prefixes: ['ke'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -89,10 +77,7 @@ export const ezekiel_1_16: Verse = {
       englishLiteral: 'golden_stone',
       englishNatural: 'golden-stone',
       root: 'tarshish',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -143,10 +128,7 @@ export const ezekiel_1_16: Verse = {
       root: 'arba',
       prefixes: ['le'],
       suffixes: ['tan'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -166,10 +148,7 @@ export const ezekiel_1_16: Verse = {
       root: 'mareh',
       prefixes: ['ve'],
       suffixes: ['hem'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -184,10 +163,7 @@ export const ezekiel_1_16: Verse = {
       root: 'maaseh',
       prefixes: ['ve'],
       suffixes: ['hem'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -202,10 +178,7 @@ export const ezekiel_1_16: Verse = {
       englishNatural: 'like which',
       root: 'asher',
       prefixes: ['ke'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'particle',
       },
@@ -253,10 +226,7 @@ export const ezekiel_1_16: Verse = {
       englishNatural: 'in the midst of',
       root: 'tokh',
       prefixes: ['be'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -271,10 +241,7 @@ export const ezekiel_1_16: Verse = {
       englishNatural: 'the wheel',
       root: 'ophan',
       prefixes: ['ha'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -297,6 +264,6 @@ export const ezekiel_1_16: Verse = {
     englishNatural:
       'The appearance of the wheels and their work, like an eye of golden-stone, and one likeness to four of them, and their appearance and their work like which the wheel was in the midst of the wheel.',
     kjv: 'The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

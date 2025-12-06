@@ -13,10 +13,7 @@ export const genesis_2_4: Verse = {
       englishLiteral: 'These',
       englishNatural: 'These',
       root: 'zeh',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'pronoun',
       },
@@ -28,10 +25,7 @@ export const genesis_2_4: Verse = {
       englishLiteral: 'birthings',
       englishNatural: 'are the birthings',
       root: 'yalad',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
       },
@@ -43,10 +37,7 @@ export const genesis_2_4: Verse = {
       englishNatural: 'of the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -60,10 +51,7 @@ export const genesis_2_4: Verse = {
       englishNatural: 'and the land',
       root: 'eretz',
       prefixes: ['ve', 'ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -82,10 +70,7 @@ export const genesis_2_4: Verse = {
       root: 'bara',
       prefixes: ['be'],
       suffixes: ['am'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'verb',
         stem: 'niphal',
@@ -103,10 +88,7 @@ export const genesis_2_4: Verse = {
       englishNatural: 'in the day',
       root: 'yom',
       prefixes: ['be'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -167,10 +149,7 @@ export const genesis_2_4: Verse = {
       englishLiteral: 'land',
       englishNatural: 'land',
       root: 'eretz',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -184,10 +163,7 @@ export const genesis_2_4: Verse = {
       englishNatural: 'and skies',
       root: 'shamayim',
       prefixes: ['ve'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -210,6 +186,6 @@ export const genesis_2_4: Verse = {
     englishNatural:
       'These are the birthings of the skies and the land, in their being created; in the day He-Who-Is (YHWH) God made land and skies.',
     kjv: 'These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

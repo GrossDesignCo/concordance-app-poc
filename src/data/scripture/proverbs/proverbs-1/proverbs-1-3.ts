@@ -14,10 +14,7 @@ export const proverbs_1_3: Verse = {
       englishNatural: 'To receive',
       root: 'laqach',
       prefixes: ['la'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
@@ -29,10 +26,7 @@ export const proverbs_1_3: Verse = {
       englishLiteral: 'discipline',
       englishNatural: 'discipline',
       root: 'musar',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const proverbs_1_3: Verse = {
       englishNatural: 'wise-conduct',
       root: 'haskel',
       prefixes: ['ha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -70,10 +61,7 @@ export const proverbs_1_3: Verse = {
       englishLiteral: 'righteousness',  
       englishNatural: 'righteousness',
       root: 'tzedeq',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -92,10 +80,7 @@ export const proverbs_1_3: Verse = {
       englishNatural: 'and judgement',
       root: 'mishpat',
       prefixes: ['u'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -113,10 +98,7 @@ export const proverbs_1_3: Verse = {
       englishNatural: 'and uprightness',
       root: 'mesharim',
       prefixes: ['u'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -135,6 +117,6 @@ export const proverbs_1_3: Verse = {
     englishLiteral: 'To-receive discipline, wise_conduct; righteousness, and-judgement, and-uprightness.',
     englishNatural: 'To receive discipline, wise-conduct; righteousness, and judgement, and uprightness.',
     kjv: 'To receive the instruction of wisdom, in justice, and judgment, and equity',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

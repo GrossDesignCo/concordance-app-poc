@@ -74,10 +74,7 @@ export const jonah_3_5: Verse = {
       root: 'eloah',
       prefixes: ['be'],
       suffixes: ['im'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -95,10 +92,7 @@ export const jonah_3_5: Verse = {
       englishNatural: 'and called-out',
       root: 'qara',
       prefixes: ['va'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -115,10 +109,7 @@ export const jonah_3_5: Verse = {
       englishLiteral: 'fast',
       englishNatural: 'a fast',
       root: 'tzom',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -136,10 +127,7 @@ export const jonah_3_5: Verse = {
       englishNatural: 'and clothed',
       root: 'labash',
       prefixes: ['va'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -157,10 +145,7 @@ export const jonah_3_5: Verse = {
       englishNatural: 'sackcloth',
       root: 'saq',
       suffixes: ['im'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -179,10 +164,7 @@ export const jonah_3_5: Verse = {
       root: 'gadol',
       prefixes: ['mi'],
       suffixes: ['am'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -197,10 +179,7 @@ export const jonah_3_5: Verse = {
       englishNatural: 'and unto',
       root: 'ad',
       prefixes: ['ve'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -212,10 +191,7 @@ export const jonah_3_5: Verse = {
       englishNatural: 'their small',
       root: 'qatan',
       suffixes: ['am'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -238,6 +214,6 @@ export const jonah_3_5: Verse = {
     englishNatural:
       'And the men of Dwelling-of-Fish (Nineveh) believed in God, and called-out a fast, and clothed sackcloth, from their great and unto their small.',
     kjv: 'So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

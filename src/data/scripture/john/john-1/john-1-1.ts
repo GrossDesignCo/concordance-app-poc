@@ -13,10 +13,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'In',
       englishNatural: 'In',
       root: 'en',
-      order: {
-        greek: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'preposition',
         case: 'dative',
@@ -28,10 +25,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'first',
       englishNatural: 'the first',
       root: 'arche',
-      order: {
-        greek: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -46,10 +40,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'was',
       englishNatural: 'was',
       root: 'eimi',
-      order: {
-        greek: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         number: 'singular',
         person: '3rd',
@@ -65,10 +56,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'The',
       englishNatural: 'The',
       root: 'ho',
-      order: {
-        greek: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'article',
         gender: 'masculine',
@@ -83,10 +71,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'Word',
       englishNatural: 'Word',
       root: 'logos',
-      order: {
-        greek: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -107,10 +92,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'and',
       englishNatural: 'and',
       root: 'kai',
-      order: {
-        greek: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'conjunction',
       },
@@ -121,10 +103,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'The',
       englishNatural: 'The',
       root: 'ho',
-      order: {
-        greek: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'article',
         gender: 'masculine',
@@ -139,10 +118,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'Word',
       englishNatural: 'Word',
       root: 'logos',
-      order: {
-        greek: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -157,10 +133,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'was',
       englishNatural: 'was',
       root: 'eimi',
-      order: {
-        greek: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         number: 'singular',
         person: '3rd',
@@ -176,10 +149,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'with',
       englishNatural: 'with',
       root: 'pros',
-      order: {
-        greek: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
         case: 'accusative',
@@ -191,10 +161,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'The',
       englishNatural: 'The',
       root: 'ho',
-      order: {
-        greek: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'article',
         gender: 'masculine',
@@ -209,10 +176,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'God',
       englishNatural: 'God',
       root: 'theos',
-      order: {
-        greek: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -233,10 +197,7 @@ export const john_1_1: Verse = {
       englishLiteral: 'and',
       englishNatural: 'and',
       root: 'kai',
-      order: {
-        greek: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'conjunction',
       },
@@ -334,6 +295,6 @@ export const john_1_1: Verse = {
     englishNatural:
       'In the first was The Word, and The Word was with The God, and The Word was God.',
     kjv: 'In the beginning was the Word, and the Word was with God, and the Word was God.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

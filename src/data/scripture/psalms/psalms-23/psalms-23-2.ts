@@ -15,10 +15,7 @@ export const psalms_23_2: Verse = {
       root: 'naveh',
       prefixes: ['bi'],
       suffixes: ['ot'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -32,10 +29,7 @@ export const psalms_23_2: Verse = {
       englishLiteral: 'tender_shoot',
       englishNatural: 'tender-shoot',
       root: 'dasha',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -54,10 +48,7 @@ export const psalms_23_2: Verse = {
       root: 'ravatz',
       prefixes: ['ya'],
       suffixes: ['ni'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -77,10 +68,7 @@ export const psalms_23_2: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -92,10 +80,7 @@ export const psalms_23_2: Verse = {
       englishLiteral: 'water-of',
       englishNatural: 'water of',
       root: 'mayim',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -111,10 +96,7 @@ export const psalms_23_2: Verse = {
       root: 'nuach',
       prefixes: ['me'],
       suffixes: ['ot'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -133,10 +115,7 @@ export const psalms_23_2: Verse = {
       root: 'nahal',
       prefixes: ['ye'],
       suffixes: ['ni'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -158,6 +137,6 @@ export const psalms_23_2: Verse = {
     englishLiteral: 'in-pastures-of tender_shoot, he-causes-me-to-lie-down; over- water-of rest_place, he-leads-me.',
     englishNatural: 'in pastures of tender-shoot, he lies-me-down; over water of rest-place, he leads me.',
     kjv: 'He maketh me to lie down in green pastures: he leadeth me beside the still waters.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-16' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

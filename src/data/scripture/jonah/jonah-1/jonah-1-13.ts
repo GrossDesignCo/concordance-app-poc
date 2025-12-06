@@ -59,10 +59,7 @@ export const jonah_1_13: Verse = {
       englishNatural: 'to return',
       root: 'shuv',
       prefixes: ['le'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'hiphil',
@@ -75,10 +72,7 @@ export const jonah_1_13: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -90,10 +84,7 @@ export const jonah_1_13: Verse = {
       englishNatural: 'the dry-ground',
       root: 'yabashah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -157,10 +148,7 @@ export const jonah_1_13: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'conjunction',
       },
@@ -173,10 +161,7 @@ export const jonah_1_13: Verse = {
       englishNatural: 'the sea',
       root: 'yam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -189,10 +174,7 @@ export const jonah_1_13: Verse = {
       englishLiteral: 'walking',
       englishNatural: 'was walking',
       root: 'halakh',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -208,10 +190,7 @@ export const jonah_1_13: Verse = {
       englishNatural: 'and storming',
       root: 'soer',
       prefixes: ['ve'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -227,10 +206,7 @@ export const jonah_1_13: Verse = {
       englishNatural: 'over them',
       root: 'al',
       suffixes: ['hem'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -251,6 +227,6 @@ export const jonah_1_13: Verse = {
     englishNatural:
       'And the men rowed to return to the dry-ground; and they were-able not; that the sea was walking and storming over them.',
     kjv: 'Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

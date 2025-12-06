@@ -14,10 +14,7 @@ export const genesis_10_8: Verse = {
       englishNatural: 'And Black (Kush)',
       root: 'kush',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -31,10 +28,7 @@ export const genesis_10_8: Verse = {
       englishLiteral: 'he-birthed',
       englishNatural: 'birthed',
       root: 'yalad',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const genesis_10_8: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -64,10 +55,7 @@ export const genesis_10_8: Verse = {
       englishLiteral: 'Rebel (Nimrod)',
       englishNatural: 'Rebel (Nimrod)',
       root: 'nimrod',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -85,10 +73,7 @@ export const genesis_10_8: Verse = {
       englishLiteral: 'he',
       englishNatural: 'he',
       root: 'hu',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -102,10 +87,7 @@ export const genesis_10_8: Verse = {
       englishLiteral: 'caused-to-begin',
       englishNatural: 'caused to begin',
       root: 'chalal',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -122,10 +104,7 @@ export const genesis_10_8: Verse = {
       englishNatural: 'to be',
       root: 'hayah',
       prefixes: ['le'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'qal',
@@ -138,10 +117,7 @@ export const genesis_10_8: Verse = {
       englishLiteral: 'mighty_one',
       englishNatural: 'a mighty-one',
       root: 'gibbor',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -155,10 +131,7 @@ export const genesis_10_8: Verse = {
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['ba'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',

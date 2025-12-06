@@ -59,10 +59,7 @@ export const genesis_6_6: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'conjunction',
       },
@@ -73,10 +70,7 @@ export const genesis_6_6: Verse = {
       englishLiteral: 'he-made',
       englishNatural: 'he made',
       root: 'asah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -92,10 +86,7 @@ export const genesis_6_6: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'particle',
       },
@@ -107,10 +98,7 @@ export const genesis_6_6: Verse = {
       englishNatural: 'Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -124,10 +112,7 @@ export const genesis_6_6: Verse = {
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['ba'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -146,10 +131,7 @@ export const genesis_6_6: Verse = {
       englishNatural: 'and it grieved him',
       root: 'atzav',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -165,10 +147,7 @@ export const genesis_6_6: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -181,10 +160,7 @@ export const genesis_6_6: Verse = {
       root: 'lev',
       prefixes: ['le'],
       suffixes: ['o'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -207,6 +183,6 @@ export const genesis_6_6: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) relented, that he made Earth (Adam) in the land, and it grieved him to his heart.',
     kjv: 'And it repented the LORD that he had made man on the earth, and it grieved him at his heart.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

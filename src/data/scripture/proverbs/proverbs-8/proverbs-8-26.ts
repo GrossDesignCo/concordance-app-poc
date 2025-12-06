@@ -13,10 +13,7 @@ export const proverbs_8_26: Verse = {
       englishLiteral: 'Until',
       englishNatural: 'Until',
       root: 'ad',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
@@ -28,10 +25,7 @@ export const proverbs_8_26: Verse = {
       englishLiteral: 'not',
       englishNatural: 'not',
       root: 'lo',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'adverb',
       },
@@ -42,10 +36,7 @@ export const proverbs_8_26: Verse = {
       englishLiteral: 'had-made',
       englishNatural: 'had made',
       root: 'asah',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -61,10 +52,7 @@ export const proverbs_8_26: Verse = {
       englishLiteral: 'land',
       englishNatural: 'land',
       root: 'eretz',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -79,10 +67,7 @@ export const proverbs_8_26: Verse = {
       root: 'chutz',
       prefixes: ['ve'],
       suffixes: ['ot'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -100,10 +85,7 @@ export const proverbs_8_26: Verse = {
       englishNatural: 'and the head of',
       root: 'rosh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -118,10 +100,7 @@ export const proverbs_8_26: Verse = {
       englishNatural: 'dusts of',
       root: 'afar',
       suffixes: ['ot'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -134,10 +113,7 @@ export const proverbs_8_26: Verse = {
       englishLiteral: 'world',
       englishNatural: 'world',
       root: 'tevel',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -157,6 +133,6 @@ export const proverbs_8_26: Verse = {
     englishNatural:
       'Until not had made land and outsides, and the head of dusts of world.',
     kjv: 'While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

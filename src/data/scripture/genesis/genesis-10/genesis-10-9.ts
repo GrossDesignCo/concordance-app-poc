@@ -13,10 +13,7 @@ export const genesis_10_9: Verse = {
       englishLiteral: 'He-',
       englishNatural: 'He',
       root: 'hu',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -31,10 +28,7 @@ export const genesis_10_9: Verse = {
       englishLiteral: 'was',
       englishNatural: 'was',
       root: 'hayah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const genesis_10_9: Verse = {
       englishLiteral: 'mighty_one-of-',
       englishNatural: 'a mighty-one of',
       root: 'gibbor',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -67,10 +58,7 @@ export const genesis_10_9: Verse = {
       englishLiteral: 'hunter',
       englishNatural: 'the hunter',
       root: 'tsayid',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -85,10 +73,7 @@ export const genesis_10_9: Verse = {
       root: 'panim',
       prefixes: ['le'],
       suffixes: ['ei'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -102,10 +87,7 @@ export const genesis_10_9: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -149,10 +131,7 @@ export const genesis_10_9: Verse = {
       englishLiteral: 'it-will-be-said',
       englishNatural: 'it will be said',
       root: 'amar',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -174,10 +153,7 @@ export const genesis_10_9: Verse = {
       englishNatural: 'Like Rebel (Nimrod)',
       root: 'nimrod',
       prefixes: ['ke'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -198,10 +174,7 @@ export const genesis_10_9: Verse = {
       englishLiteral: 'mighty_one',
       englishNatural: 'a mighty-one',
       root: 'gibbor',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -218,10 +191,7 @@ export const genesis_10_9: Verse = {
       englishLiteral: 'hunter',
       englishNatural: 'a hunter',
       root: 'tsayid',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -236,10 +206,7 @@ export const genesis_10_9: Verse = {
       root: 'panim',
       prefixes: ['le'],
       suffixes: ['ei'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -253,10 +220,7 @@ export const genesis_10_9: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'noun',
       },

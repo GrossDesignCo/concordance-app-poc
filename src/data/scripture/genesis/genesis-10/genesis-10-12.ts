@@ -14,10 +14,7 @@ export const genesis_10_12: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'particle',
       },
@@ -28,10 +25,7 @@ export const genesis_10_12: Verse = {
       englishLiteral: 'Bridle (Resen)',
       englishNatural: 'Bridle (Resen)',
       root: 'resen',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -48,10 +42,7 @@ export const genesis_10_12: Verse = {
       englishLiteral: 'between',
       englishNatural: 'between',
       root: 'beyn',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -63,10 +54,7 @@ export const genesis_10_12: Verse = {
       englishLiteral: 'Dwelling_of_Fish (Nineveh)',
       englishNatural: 'Dwelling-of-Fish (Nineveh)',
       root: 'nineveh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -80,10 +68,7 @@ export const genesis_10_12: Verse = {
       englishNatural: 'and between',
       root: 'beyn',
       prefixes: ['u'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -94,10 +79,7 @@ export const genesis_10_12: Verse = {
       englishLiteral: 'Vigor (Calah)',
       englishNatural: 'Vigor (Calah)',
       root: 'kalach',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -114,10 +96,7 @@ export const genesis_10_12: Verse = {
       englishLiteral: 'she',
       englishNatural: 'this',
       root: 'hu',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -136,10 +115,7 @@ export const genesis_10_12: Verse = {
       englishNatural: 'The City',
       root: 'ir',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -156,10 +132,7 @@ export const genesis_10_12: Verse = {
       englishNatural: 'The Great',
       root: 'gadol',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',

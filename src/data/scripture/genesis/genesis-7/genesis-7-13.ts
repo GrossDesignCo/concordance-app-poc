@@ -14,10 +14,7 @@ export const genesis_7_13: Verse = {
       englishNatural: 'In the bone of',
       root: 'etzem',
       prefixes: ['be'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -33,10 +30,7 @@ export const genesis_7_13: Verse = {
       englishNatural: 'the day',
       root: 'yom',
       prefixes: ['ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const genesis_7_13: Verse = {
       englishNatural: 'the this',
       root: 'zeh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'demonstrative',
       },
@@ -108,10 +99,7 @@ export const genesis_7_13: Verse = {
       englishNatural: 'and Name (Shem)',
       root: 'shem',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -123,10 +111,7 @@ export const genesis_7_13: Verse = {
       englishNatural: 'and Hot (Ham)',
       root: 'cham',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
       },
@@ -138,10 +123,7 @@ export const genesis_7_13: Verse = {
       englishNatural: 'and Spacious (Japheth)',
       root: 'yafet',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -153,10 +135,7 @@ export const genesis_7_13: Verse = {
       englishNatural: 'the sons of',
       root: 'ben',
       prefixes: ['be'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -170,10 +149,7 @@ export const genesis_7_13: Verse = {
       englishLiteral: 'Rest (Noah)',
       englishNatural: 'Rest (Noah)',
       root: 'noach',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
       },
@@ -190,10 +166,7 @@ export const genesis_7_13: Verse = {
       englishNatural: 'and the woman of',
       root: 'ishah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -207,10 +180,7 @@ export const genesis_7_13: Verse = {
       englishLiteral: 'Rest (Noah)',
       englishNatural: 'Rest (Noah)',
       root: 'noach',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
       },
@@ -222,10 +192,7 @@ export const genesis_7_13: Verse = {
       englishNatural: 'and the three',
       root: 'shalosh',
       prefixes: ['u'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -239,10 +206,7 @@ export const genesis_7_13: Verse = {
       englishLiteral: 'women-of-',
       englishNatural: 'women of',
       root: 'ishah',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -257,10 +221,7 @@ export const genesis_7_13: Verse = {
       englishNatural: 'his sons',
       root: 'ben',
       suffixes: ['av'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -274,10 +235,7 @@ export const genesis_7_13: Verse = {
       englishNatural: 'with them',
       root: 'et_with',
       suffixes: ['am'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'preposition',
       },
@@ -293,10 +251,7 @@ export const genesis_7_13: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'preposition',
       },
@@ -308,10 +263,7 @@ export const genesis_7_13: Verse = {
       englishNatural: 'the ark',
       root: 'tevah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -334,6 +286,6 @@ export const genesis_7_13: Verse = {
     englishNatural:
       'In the bone of the day the this, Rest (Noah) came, and Name (Shem) and Hot (Ham) and Spacious (Japheth) the sons of Rest (Noah), and the woman of Rest (Noah) and the three women of his sons with them, to the ark;',
     kjv: "In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark;",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

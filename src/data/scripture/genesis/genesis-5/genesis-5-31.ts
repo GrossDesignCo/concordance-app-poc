@@ -90,10 +90,7 @@ export const genesis_5_31: Verse = {
       englishLiteral: 'seven',
       englishNatural: 'seven',
       root: 'sheva',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'numeral',
       },
@@ -105,10 +102,7 @@ export const genesis_5_31: Verse = {
       englishNatural: 'and seventy',
       root: 'shivim',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'numeral',
       },
@@ -119,10 +113,7 @@ export const genesis_5_31: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -137,10 +128,7 @@ export const genesis_5_31: Verse = {
       englishNatural: 'and seven',
       root: 'sheva',
       prefixes: ['u'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'numeral',
       },
@@ -151,10 +139,7 @@ export const genesis_5_31: Verse = {
       englishLiteral: 'hundreds',
       englishNatural: 'hundred',
       root: 'meah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'numeral',
         number: 'plural',
@@ -166,10 +151,7 @@ export const genesis_5_31: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -188,10 +170,7 @@ export const genesis_5_31: Verse = {
       englishNatural: 'and he died',
       root: 'mut',
       prefixes: ['va'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -218,6 +197,6 @@ export const genesis_5_31: Verse = {
     englishNatural:
       'And all the days of Powerful (Lamech), were seven and seventy years and seven hundred years, and he died.',
     kjv: 'And all the days of Lamech were seven hundred seventy and seven years: and he died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

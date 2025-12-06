@@ -62,10 +62,7 @@ export const genesis_1_25: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
     },
     {
       hebrew: 'חַיַּ֤ת',
@@ -73,10 +70,7 @@ export const genesis_1_25: Verse = {
       englishLiteral: 'living_being-of',
       englishNatural: 'living-being of',
       root: 'chayah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -90,10 +84,7 @@ export const genesis_1_25: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -112,10 +103,7 @@ export const genesis_1_25: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -131,10 +119,7 @@ export const genesis_1_25: Verse = {
       englishNatural: 'And',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       lineBreaksBefore: 1,
     },
     {
@@ -144,10 +129,7 @@ export const genesis_1_25: Verse = {
       englishNatural: 'the beast',
       root: 'behemah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -166,10 +148,7 @@ export const genesis_1_25: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -185,10 +164,7 @@ export const genesis_1_25: Verse = {
       englishNatural: 'And',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       lineBreaksBefore: 1,
     },
     {
@@ -197,10 +173,7 @@ export const genesis_1_25: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'adjective',
       },
@@ -211,10 +184,7 @@ export const genesis_1_25: Verse = {
       englishLiteral: 'crawler',
       englishNatural: 'crawler',
       root: 'ramas',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -228,10 +198,7 @@ export const genesis_1_25: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -250,10 +217,7 @@ export const genesis_1_25: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['hu'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'noun',
       },
@@ -317,10 +281,7 @@ export const genesis_1_25: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that it was',
       root: 'ki',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'conjunction',
       },
@@ -331,10 +292,7 @@ export const genesis_1_25: Verse = {
       englishLiteral: 'good',
       englishNatural: 'good',
       root: 'tov',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'adjective',
       },
@@ -355,6 +313,6 @@ export const genesis_1_25: Verse = {
     englishNatural:
       'And God made, living-being of the land, to its kind, And the beast, to its kind, And all crawler the earth, to its kind, And God saw, that it was good.',
     kjv: 'And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

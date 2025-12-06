@@ -14,10 +14,7 @@ export const genesis_3_17: Verse = {
       englishNatural: 'And to Earth (Adam)',
       root: 'adam',
       prefixes: ['u', 'le'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -31,10 +28,7 @@ export const genesis_3_17: Verse = {
       englishLiteral: 'he-said',
       englishNatural: 'he said',
       root: 'amar',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -54,10 +48,7 @@ export const genesis_3_17: Verse = {
       englishLiteral: 'That',
       englishNatural: 'That',
       root: 'ki',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'relative',
       },
@@ -74,10 +65,7 @@ export const genesis_3_17: Verse = {
       englishNatural: 'you listened',
       root: 'shama',
       suffixes: ['ta'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -94,10 +82,7 @@ export const genesis_3_17: Verse = {
       englishNatural: 'to the voice',
       root: 'qol',
       prefixes: ['le'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -111,10 +96,7 @@ export const genesis_3_17: Verse = {
       englishNatural: 'of your woman',
       root: 'ishah',
       suffixes: ['ekha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -133,10 +115,7 @@ export const genesis_3_17: Verse = {
       root: 'akhal',
       prefixes: ['va'],
       suffixes: ['ta'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -153,10 +132,7 @@ export const genesis_3_17: Verse = {
       englishLiteral: 'from',
       englishNatural: 'from',
       root: 'min',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -168,10 +144,7 @@ export const genesis_3_17: Verse = {
       englishNatural: 'the tree',
       root: 'etz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -188,10 +161,7 @@ export const genesis_3_17: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'relative',
       },
@@ -204,10 +174,7 @@ export const genesis_3_17: Verse = {
       englishNatural: 'I commanded you',
       root: 'tzavah',
       suffixes: ['ti', 'ekha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -224,10 +191,7 @@ export const genesis_3_17: Verse = {
       englishNatural: 'saying',
       root: 'amar',
       prefixes: ['le'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'verb',
       },
@@ -304,10 +268,7 @@ export const genesis_3_17: Verse = {
       englishNatural: 'cursed is',
       root: 'arar',
       suffixes: ['ah'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -322,10 +283,7 @@ export const genesis_3_17: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -340,10 +298,7 @@ export const genesis_3_17: Verse = {
       root: 'avar',
       prefixes: ['ba'],
       suffixes: ['ekha'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'preposition',
       },
@@ -359,10 +314,7 @@ export const genesis_3_17: Verse = {
       englishNatural: 'in pain',
       root: 'etzev',
       prefixes: ['be'],
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -378,10 +330,7 @@ export const genesis_3_17: Verse = {
       root: 'akhal',
       prefixes: ['ta'],
       suffixes: ['nah'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -401,10 +350,7 @@ export const genesis_3_17: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         type: 'adjective',
       },
@@ -417,10 +363,7 @@ export const genesis_3_17: Verse = {
       englishNatural: 'the days of',
       root: 'yom',
       suffixes: ['construct_y'],
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -434,10 +377,7 @@ export const genesis_3_17: Verse = {
       englishNatural: 'your life',
       root: 'chayyim',
       suffixes: ['ekha'],
-      order: {
-        hebrew: 23,
-        english: 23,
-      },
+      order: 23,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -460,6 +400,6 @@ export const genesis_3_17: Verse = {
     englishNatural:
       'And to Earth (Adam) he said, "That you listened to the voice of your woman, and you ate from the tree, which I commanded you saying, \'You will eat from it not\'; cursed is the earth in your passing-through; in pain you will eat, all the days of your life;"',
     kjv: 'And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

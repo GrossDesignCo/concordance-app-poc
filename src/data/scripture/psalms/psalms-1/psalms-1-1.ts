@@ -13,10 +13,7 @@ export const psalms_1_1: Verse = {
       englishLiteral: 'Blessed-is',
       englishNatural: 'Blessed is',
       root: 'ashar',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'interjection',
       },
@@ -28,10 +25,7 @@ export const psalms_1_1: Verse = {
       englishNatural: 'the man',
       root: 'ish',
       prefixes: ['ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -48,10 +42,7 @@ export const psalms_1_1: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'relative',
       },
@@ -97,10 +88,7 @@ export const psalms_1_1: Verse = {
       englishNatural: 'in the counsel of',
       root: 'etzah',
       prefixes: ['ba'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -114,10 +102,7 @@ export const psalms_1_1: Verse = {
       englishNatural: 'wicked-ones',
       root: 'rasha',
       suffixes: ['im'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -135,10 +120,7 @@ export const psalms_1_1: Verse = {
       englishNatural: 'and in the way of',
       root: 'derekh',
       prefixes: ['u', 'be'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -153,10 +135,7 @@ export const psalms_1_1: Verse = {
       englishNatural: 'sinners',
       root: 'chata',
       suffixes: ['im'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -209,10 +188,7 @@ export const psalms_1_1: Verse = {
       englishNatural: 'and in the seat of',
       root: 'moshav',
       prefixes: ['u', 'be'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -227,10 +203,7 @@ export const psalms_1_1: Verse = {
       englishNatural: 'scoffers',
       root: 'letz',
       suffixes: ['im'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -293,6 +266,6 @@ export const psalms_1_1: Verse = {
     englishNatural:
       'Blessed is the man, which has walked not in the counsel of wicked-ones, and in the way of sinners has stood not, and in the seat of scoffers has sat not.',
     kjv: 'Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-15' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 }; 

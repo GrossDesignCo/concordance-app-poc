@@ -57,10 +57,7 @@ export const genesis_6_11: Verse = {
       englishNatural: 'to the face of',
       root: 'panah',
       prefixes: ['le'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -75,10 +72,7 @@ export const genesis_6_11: Verse = {
       englishNatural: 'God',
       root: 'eloah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -133,10 +127,7 @@ export const genesis_6_11: Verse = {
       englishLiteral: 'violence',
       englishNatural: 'violence',
       root: 'chamas',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -158,6 +149,6 @@ export const genesis_6_11: Verse = {
     englishNatural:
       'And the land corrupted to the face of God, and the land filled-with violence.',
     kjv: 'The earth also was corrupt before God, and the earth was filled with violence.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

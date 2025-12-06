@@ -14,10 +14,7 @@ export const ezekiel_1_8: Verse = {
       englishNatural: 'And hands of',
       root: 'yad',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -32,10 +29,7 @@ export const ezekiel_1_8: Verse = {
       englishLiteral: 'Earth (Adam)',
       englishNatural: 'Earth (Adam)',
       root: 'adam',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -49,10 +43,7 @@ export const ezekiel_1_8: Verse = {
       englishNatural: 'from under',
       root: 'tachat',
       prefixes: ['mi'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -64,10 +55,7 @@ export const ezekiel_1_8: Verse = {
       englishNatural: 'their wings',
       root: 'kenaf',
       suffixes: ['hem'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -81,10 +69,7 @@ export const ezekiel_1_8: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -95,10 +80,7 @@ export const ezekiel_1_8: Verse = {
       englishLiteral: 'four-of',
       englishNatural: 'four of',
       root: 'arba',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         state: 'construct',
         type: 'numeral',
@@ -111,10 +93,7 @@ export const ezekiel_1_8: Verse = {
       englishNatural: 'their sides',
       root: 'reva',
       suffixes: ['hem'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -134,10 +113,7 @@ export const ezekiel_1_8: Verse = {
       root: 'panah',
       prefixes: ['u'],
       suffixes: ['hem'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -152,10 +128,7 @@ export const ezekiel_1_8: Verse = {
       root: 'kenaf',
       prefixes: ['ve'],
       suffixes: ['hem'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -170,10 +143,7 @@ export const ezekiel_1_8: Verse = {
       root: 'arba',
       prefixes: ['le'],
       suffixes: ['tam'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'numeral',
       },
@@ -194,6 +164,6 @@ export const ezekiel_1_8: Verse = {
     englishNatural:
       'And hands of Earth (Adam) from under their wings over four of their sides; and their faces and their wings to four of them.',
     kjv: 'And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

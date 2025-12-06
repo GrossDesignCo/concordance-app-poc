@@ -13,10 +13,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'He-says',
       englishNatural: 'He says',
       root: 'lego',
-      order: {
-        greek: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'verb',
         tense: 'present',
@@ -32,10 +29,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'to-him',
       englishNatural: 'to him',
       root: 'autos',
-      order: {
-        greek: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'pronoun',
         gender: 'masculine',
@@ -49,10 +43,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'the',
       englishNatural: 'the',
       root: 'ho',
-      order: {
-        greek: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'article',
         gender: 'neuter',
@@ -67,10 +58,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'third',
       englishNatural: 'third time',
       root: 'tritos',
-      order: {
-        greek: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'adjective',
         gender: 'neuter',
@@ -89,10 +77,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'Hearer (Simon)',
       englishNatural: 'Hearer (Simon)',
       root: 'simon',
-      order: {
-        greek: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -111,10 +96,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'He—is-Gracious (John)',
       englishNatural: 'He—is-Gracious (John)',
       root: 'ioannes',
-      order: {
-        greek: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -133,10 +115,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'do-you-brother_love',
       englishNatural: 'do you brother-love',
       root: 'phileo',
-      order: {
-        greek: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'verb',
         tense: 'present',
@@ -152,10 +131,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'me',
       englishNatural: 'me',
       root: 'me',
-      order: {
-        greek: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'pronoun',
         person: '1st',
@@ -228,10 +204,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'that',
       englishNatural: 'because',
       root: 'oti',
-      order: {
-        greek: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'conjunction',
       },
@@ -242,10 +215,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'he-said',
       englishNatural: 'he said',
       root: 'epo',
-      order: {
-        greek: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'verb',
         tense: 'aorist',
@@ -261,10 +231,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'to-him',
       englishNatural: 'to him',
       root: 'autos',
-      order: {
-        greek: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'pronoun',
         gender: 'masculine',
@@ -278,10 +245,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'the',
       englishNatural: 'the',
       root: 'ho',
-      order: {
-        greek: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'article',
         gender: 'neuter',
@@ -296,10 +260,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'third',
       englishNatural: 'third time',
       root: 'tritos',
-      order: {
-        greek: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'adjective',
         gender: 'neuter',
@@ -318,10 +279,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'Do-you-brother_love',
       englishNatural: 'Do you brother-love',
       root: 'phileo',
-      order: {
-        greek: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'verb',
         tense: 'present',
@@ -341,10 +299,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'me',
       englishNatural: 'me',
       root: 'me',
-      order: {
-        greek: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'pronoun',
         person: '1st',
@@ -362,10 +317,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'And',
       englishNatural: 'And',
       root: 'kai',
-      order: {
-        greek: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'conjunction',
       },
@@ -376,10 +328,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'he-says',
       englishNatural: 'he says',
       root: 'lego',
-      order: {
-        greek: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'verb',
         tense: 'present',
@@ -395,10 +344,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'to-him',
       englishNatural: 'to him',
       root: 'autos',
-      order: {
-        greek: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         type: 'pronoun',
         gender: 'masculine',
@@ -416,10 +362,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'lord',
       englishNatural: 'Lord',
       root: 'kurios',
-      order: {
-        greek: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -502,10 +445,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'you',
       englishNatural: 'you',
       root: 'su',
-      order: {
-        greek: 26,
-        english: 26,
-      },
+      order: 26,
       morphology: {
         type: 'pronoun',
         person: '2nd',
@@ -519,10 +459,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'know',
       englishNatural: 'know',
       root: 'ginosko',
-      order: {
-        greek: 27,
-        english: 27,
-      },
+      order: 27,
       morphology: {
         type: 'verb',
         tense: 'present',
@@ -538,10 +475,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'oti',
-      order: {
-        greek: 28,
-        english: 28,
-      },
+      order: 28,
       morphology: {
         type: 'conjunction',
       },
@@ -552,10 +486,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'I-brother_love',
       englishNatural: 'I brother-love',
       root: 'phileo',
-      order: {
-        greek: 29,
-        english: 29,
-      },
+      order: 29,
       morphology: {
         type: 'verb',
         tense: 'present',
@@ -571,10 +502,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'you',
       englishNatural: 'you',
       root: 'se',
-      order: {
-        greek: 30,
-        english: 30,
-      },
+      order: 30,
       morphology: {
         type: 'pronoun',
         person: '2nd',
@@ -592,10 +520,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'He-says',
       englishNatural: 'He says',
       root: 'lego',
-      order: {
-        greek: 31,
-        english: 31,
-      },
+      order: 31,
       morphology: {
         type: 'verb',
         tense: 'present',
@@ -611,10 +536,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'to-him',
       englishNatural: 'to him',
       root: 'autos',
-      order: {
-        greek: 32,
-        english: 32,
-      },
+      order: 32,
       morphology: {
         type: 'pronoun',
         gender: 'masculine',
@@ -632,10 +554,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'Feed',
       englishNatural: 'Feed',
       root: 'bosko',
-      order: {
-        greek: 33,
-        english: 33,
-      },
+      order: 33,
       morphology: {
         type: 'verb',
         tense: 'present',
@@ -655,10 +574,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'these',
       englishNatural: 'these',
       root: 'ho',
-      order: {
-        greek: 34,
-        english: 34,
-      },
+      order: 34,
       morphology: {
         type: 'article',
         gender: 'neuter',
@@ -673,10 +589,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'sheep',
       englishNatural: 'sheep',
       root: 'probaton',
-      order: {
-        greek: 35,
-        english: 35,
-      },
+      order: 35,
       morphology: {
         type: 'noun',
         gender: 'neuter',
@@ -691,10 +604,7 @@ export const john_21_17: Verse = {
       englishLiteral: 'of-mine',
       englishNatural: 'of mine',
       root: 'ego',
-      order: {
-        greek: 36,
-        english: 36,
-      },
+      order: 36,
       morphology: {
         type: 'pronoun',
         person: '1st',
@@ -718,6 +628,6 @@ export const john_21_17: Verse = {
     englishNatural:
       'He says to him the third time, "Hearer (Simon) He—is-Gracious (John), do you brother-love me?" The Stone (Peter) was grieved because he said to him the third time, "Do you brother-love me?" And he says to him, "Lord, you know all; you know that I brother-love you." He says to him, "Feed these sheep of mine."',
     kjv: 'He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-15' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

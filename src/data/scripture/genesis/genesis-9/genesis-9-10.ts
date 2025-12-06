@@ -14,10 +14,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'particle',
       },
@@ -28,10 +25,7 @@ export const genesis_9_10: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
       },
@@ -42,10 +36,7 @@ export const genesis_9_10: Verse = {
       englishLiteral: 'wind-of',
       englishNatural: 'the wind of',
       root: 'nephesh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -60,10 +51,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'the living-being',
       root: 'chayah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -76,10 +64,7 @@ export const genesis_9_10: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'relative',
       },
@@ -91,10 +76,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'is with you',
       root: 'et',
       suffixes: ['khem'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -114,10 +96,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'in the flyer',
       root: 'oph',
       prefixes: ['ba'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -135,10 +114,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'in the beast',
       root: 'behemah',
       prefixes: ['ba'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -156,10 +132,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'and in all',
       root: 'kol',
       prefixes: ['u', 'be'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -171,10 +144,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'the living-being of',
       root: 'chayah',
       suffixes: ['construct_t'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -189,10 +159,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -206,10 +173,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'with you',
       root: 'et',
       suffixes: ['khem'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -229,10 +193,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'from all',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
       },
@@ -244,10 +205,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'the going-out of',
       root: 'yatsa',
       suffixes: ['ei'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -264,10 +222,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'the ark',
       root: 'tevah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -285,10 +240,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'to all',
       root: 'kol',
       prefixes: ['le'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'noun',
       },
@@ -300,10 +252,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'the living-being of',
       root: 'chayah',
       suffixes: ['construct_t'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -318,10 +267,7 @@ export const genesis_9_10: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -344,6 +290,6 @@ export const genesis_9_10: Verse = {
     englishNatural:
       'and all the wind of the living-being which is with you; in the flyer, in the beast, and in all the living-being of the land with you, from all the going-out of the ark, to all the living-being of the land;',
     kjv: 'And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

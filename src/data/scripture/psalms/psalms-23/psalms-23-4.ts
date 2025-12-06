@@ -13,10 +13,7 @@ export const psalms_23_4: Verse = {
       englishLiteral: 'Also',
       englishNatural: 'Also',
       root: 'gam',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
@@ -28,10 +25,7 @@ export const psalms_23_4: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'conjunction',
       },
@@ -42,10 +36,7 @@ export const psalms_23_4: Verse = {
       englishLiteral: 'I-walk',
       englishNatural: 'I walk',
       root: 'halakh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         person: '1st',
         number: 'singular',
@@ -61,10 +52,7 @@ export const psalms_23_4: Verse = {
       englishNatural: 'in a valley of',
       root: 'gei',
       prefixes: ['be'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -77,10 +65,7 @@ export const psalms_23_4: Verse = {
       englishLiteral: 'shadow_death',
       englishNatural: 'shadow-death',
       root: 'tzalmavet',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -129,10 +114,7 @@ export const psalms_23_4: Verse = {
       englishLiteral: 'bad',
       englishNatural: 'bad',
       root: 'ra',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -150,10 +132,7 @@ export const psalms_23_4: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'conjunction',
       },
@@ -164,10 +143,7 @@ export const psalms_23_4: Verse = {
       englishLiteral: 'you',
       englishNatural: 'you',
       root: 'atah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         person: '2nd',
         gender: 'masculine',
@@ -182,10 +158,7 @@ export const psalms_23_4: Verse = {
       englishNatural: 'are with me',
       root: 'im',
       suffixes: ['i'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -202,10 +175,7 @@ export const psalms_23_4: Verse = {
       englishNatural: 'your rod',
       root: 'shevet',
       suffixes: ['kha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -221,10 +191,7 @@ export const psalms_23_4: Verse = {
       root: 'mishan',
       prefixes: ['u'],
       suffixes: ['kha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -242,10 +209,7 @@ export const psalms_23_4: Verse = {
       englishLiteral: 'they',
       englishNatural: 'they',
       root: 'hem',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         person: '3rd',
         number: 'plural',
@@ -260,10 +224,7 @@ export const psalms_23_4: Verse = {
       root: 'nacham',
       prefixes: ['ye'],
       suffixes: ['ni'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         person: '3rd',
         number: 'plural',
@@ -288,6 +249,6 @@ export const psalms_23_4: Verse = {
     englishNatural:
       'Also that I walk in a valley of shadow-death, I fear not bad; that you are with me; your rod and your staff, they comfort me.',
     kjv: 'Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

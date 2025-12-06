@@ -13,10 +13,7 @@ export const genesis_4_14: Verse = {
       englishLiteral: 'Behold',
       englishNatural: 'Behold',
       root: 'hinneh',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'interjection',
       },
@@ -32,10 +29,7 @@ export const genesis_4_14: Verse = {
       englishNatural: 'you have banished',
       root: 'garash',
       suffixes: ['ta'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -52,10 +46,7 @@ export const genesis_4_14: Verse = {
       englishNatural: 'me',
       root: 'et',
       suffixes: ['i'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         number: 'singular',
         person: '1st',
@@ -69,10 +60,7 @@ export const genesis_4_14: Verse = {
       englishNatural: 'this day',
       root: 'yom',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -90,10 +78,7 @@ export const genesis_4_14: Verse = {
       englishNatural: 'from over',
       root: 'al',
       prefixes: ['me'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -105,10 +90,7 @@ export const genesis_4_14: Verse = {
       englishNatural: 'the face of',
       root: 'panah',
       suffixes: ['ey'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -123,10 +105,7 @@ export const genesis_4_14: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -146,10 +125,7 @@ export const genesis_4_14: Verse = {
       root: 'panah',
       prefixes: ['u', 'mi'],
       suffixes: ['ekha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -164,10 +140,7 @@ export const genesis_4_14: Verse = {
       englishNatural: 'I will be hidden',
       root: 'satar',
       prefixes: ['e'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -190,10 +163,7 @@ export const genesis_4_14: Verse = {
       root: 'hayah',
       prefixes: ['ve'],
       suffixes: ['ti'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -209,10 +179,7 @@ export const genesis_4_14: Verse = {
       englishLiteral: 'wandering',
       englishNatural: 'wandering',
       root: 'na',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'adjective',
       },
@@ -224,10 +191,7 @@ export const genesis_4_14: Verse = {
       englishNatural: 'and fugitive',
       root: 'nadad',
       prefixes: ['va'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'adjective',
       },
@@ -239,10 +203,7 @@ export const genesis_4_14: Verse = {
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['ba'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -261,10 +222,7 @@ export const genesis_4_14: Verse = {
       englishNatural: 'and it will be',
       root: 'hayah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -280,10 +238,7 @@ export const genesis_4_14: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'noun',
       },
@@ -295,10 +250,7 @@ export const genesis_4_14: Verse = {
       englishNatural: 'finding me',
       root: 'matza',
       suffixes: ['i'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -315,10 +267,7 @@ export const genesis_4_14: Verse = {
       englishNatural: 'will kill me',
       root: 'harag',
       suffixes: ['ni'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -344,6 +293,6 @@ export const genesis_4_14: Verse = {
     englishNatural:
       'Behold, you have banished me this day, from over the face of the earth; and from your face I will be hidden; and I will be wandering and fugitive in the land; and it will be all finding me will kill me."',
     kjv: 'Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

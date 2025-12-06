@@ -55,10 +55,7 @@ export const genesis_5_3: Verse = {
       englishLiteral: 'thirty',
       englishNatural: 'thirty',
       root: 'shloshim',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'numeral',
         gender: 'masculine',
@@ -72,10 +69,7 @@ export const genesis_5_3: Verse = {
       englishNatural: 'and a hundred',
       root: 'meah',
       prefixes: ['u'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -89,10 +83,7 @@ export const genesis_5_3: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -110,10 +101,7 @@ export const genesis_5_3: Verse = {
       englishNatural: 'and birthed',
       root: 'yalad',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -132,10 +120,7 @@ export const genesis_5_3: Verse = {
       root: 'demut',
       prefixes: ['bi'],
       suffixes: ['o'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -155,10 +140,7 @@ export const genesis_5_3: Verse = {
       root: 'tselem',
       prefixes: ['ke'],
       suffixes: ['o'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -177,10 +159,7 @@ export const genesis_5_3: Verse = {
       englishNatural: 'and called-out',
       root: 'qara',
       prefixes: ['va'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -197,10 +176,7 @@ export const genesis_5_3: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
     },
     {
       hebrew: 'שְׁמוֹ',
@@ -209,10 +185,7 @@ export const genesis_5_3: Verse = {
       englishNatural: 'his name',
       root: 'shem',
       suffixes: ['o'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -230,10 +203,7 @@ export const genesis_5_3: Verse = {
       englishLiteral: 'Appointed (Seth)',
       englishNatural: 'Appointed (Seth)',
       root: 'Shet',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -260,6 +230,6 @@ export const genesis_5_3: Verse = {
     englishNatural:
       'And Earth (Adam) lived thirty and a hundred years, and birthed in his likeness, as his image; and called-out his name, "Appointed (Seth)."',
     kjv: 'And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

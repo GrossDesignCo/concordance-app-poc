@@ -14,10 +14,7 @@ export const genesis_1_18: Verse = {
       englishNatural: 'And to rule',
       root: 'mashal',
       prefixes: ['ve', 'li'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'verb',
       },
@@ -32,10 +29,7 @@ export const genesis_1_18: Verse = {
       englishNatural: 'in the day',
       root: 'yom',
       prefixes: ['be', 'ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -53,10 +47,7 @@ export const genesis_1_18: Verse = {
       englishNatural: 'and in the night',
       root: 'layil',
       prefixes: ['u', 'be', 'ha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -74,10 +65,7 @@ export const genesis_1_18: Verse = {
       englishNatural: 'and to separate',
       root: 'badal',
       prefixes: ['u', 'le'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'verb',
       },
@@ -89,10 +77,7 @@ export const genesis_1_18: Verse = {
       englishLiteral: 'between',
       englishNatural: 'between',
       root: 'beyn',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -104,10 +89,7 @@ export const genesis_1_18: Verse = {
       englishNatural: 'the light',
       root: 'or',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -125,10 +107,7 @@ export const genesis_1_18: Verse = {
       englishNatural: 'and between',
       root: 'beyn',
       prefixes: ['u'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -140,10 +119,7 @@ export const genesis_1_18: Verse = {
       englishNatural: 'the darkness',
       root: 'choshekh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -209,10 +185,7 @@ export const genesis_1_18: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that it was',
       root: 'ki',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'conjunction',
       },
@@ -223,10 +196,7 @@ export const genesis_1_18: Verse = {
       englishLiteral: 'good',
       englishNatural: 'good',
       root: 'tov',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'adjective',
       },
@@ -243,6 +213,6 @@ export const genesis_1_18: Verse = {
     englishLiteral: 'And-to-rule in-the-day, and-in-the-night, and-to-separate between the-light, and-between the-darkness, And-saw Gods, that- good.',
     englishNatural: 'And to rule in the day, and in the night, and to separate between the light, and between the darkness, And God saw, that it was good.',
     kjv: 'And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

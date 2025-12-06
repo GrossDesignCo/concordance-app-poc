@@ -86,10 +86,7 @@ export const jonah_1_17: Verse = {
       englishNatural: 'to swallow',
       root: 'bala',
       prefixes: ['li'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'verb',
         tense: 'infinitive_construct',
@@ -102,10 +99,7 @@ export const jonah_1_17: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'particle',
       },
@@ -116,10 +110,7 @@ export const jonah_1_17: Verse = {
       englishLiteral: 'Dove (Jonah)',
       englishNatural: 'Dove (Jonah)',
       root: 'yonah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -180,10 +171,7 @@ export const jonah_1_17: Verse = {
       root: 'meah_bowels',
       prefixes: ['bi'],
       suffixes: ['ey'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -198,10 +186,7 @@ export const jonah_1_17: Verse = {
       englishNatural: 'the fish',
       root: 'dag',
       prefixes: ['ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -214,10 +199,7 @@ export const jonah_1_17: Verse = {
       englishLiteral: 'three',
       englishNatural: 'three',
       root: 'shalosh',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -232,10 +214,7 @@ export const jonah_1_17: Verse = {
       englishNatural: 'days',
       root: 'yom',
       suffixes: ['im'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -249,10 +228,7 @@ export const jonah_1_17: Verse = {
       englishNatural: 'and three',
       root: 'shalosh',
       prefixes: ['u'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -266,10 +242,7 @@ export const jonah_1_17: Verse = {
       englishNatural: 'nights',
       root: 'layil',
       suffixes: ['ot'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -292,6 +265,6 @@ export const jonah_1_17: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) appointed a great fish to swallow Dove (Jonah); And Dove (Jonah) was in the bowels of the fish three days and three nights.',
     kjv: 'Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

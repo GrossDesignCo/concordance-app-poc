@@ -53,10 +53,7 @@ export const genesis_4_8: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -67,10 +64,7 @@ export const genesis_4_8: Verse = {
       englishLiteral: 'Vapor (Abel)',
       englishNatural: 'Vapor (Abel)',
       root: 'hevel',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -82,10 +76,7 @@ export const genesis_4_8: Verse = {
       englishNatural: 'his brother',
       root: 'ach',
       suffixes: ['av'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -105,10 +96,7 @@ export const genesis_4_8: Verse = {
       englishNatural: 'and it was',
       root: 'hayah',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -126,10 +114,7 @@ export const genesis_4_8: Verse = {
       root: 'hayah',
       prefixes: ['be'],
       suffixes: ['am'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         number: 'plural',
         person: '3rd',
@@ -145,10 +130,7 @@ export const genesis_4_8: Verse = {
       englishNatural: 'in the field',
       root: 'sadeh',
       prefixes: ['ba'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -200,10 +182,7 @@ export const genesis_4_8: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -214,10 +193,7 @@ export const genesis_4_8: Verse = {
       englishLiteral: 'Vapor (Abel)',
       englishNatural: 'Vapor (Abel)',
       root: 'hevel',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
       },
@@ -229,10 +205,7 @@ export const genesis_4_8: Verse = {
       englishNatural: 'his brother',
       root: 'ach',
       suffixes: ['av'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -253,10 +226,7 @@ export const genesis_4_8: Verse = {
       root: 'harag',
       prefixes: ['va'],
       suffixes: ['hu'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -282,6 +252,6 @@ export const genesis_4_8: Verse = {
     englishNatural:
       'And Acquired (Cain) said to Vapor (Abel) his brother; and it was in their being in the field, and Acquired (Cain) stood-up to Vapor (Abel) his brother, and killed him.',
     kjv: 'And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

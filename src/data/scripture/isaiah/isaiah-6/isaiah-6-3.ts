@@ -53,10 +53,7 @@ export const isaiah_6_3: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -67,10 +64,7 @@ export const isaiah_6_3: Verse = {
       englishLiteral: 'this',
       englishNatural: 'this',
       root: 'zeh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'pronoun',
       },
@@ -86,10 +80,7 @@ export const isaiah_6_3: Verse = {
       englishNatural: 'and said',
       root: 'amar',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -109,10 +100,7 @@ export const isaiah_6_3: Verse = {
       englishLiteral: 'Holy',
       englishNatural: 'Holy',
       root: 'qadash',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'adjective',
       },
@@ -132,10 +120,7 @@ export const isaiah_6_3: Verse = {
       englishLiteral: 'holy',
       englishNatural: 'holy',
       root: 'qadash',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adjective',
       },
@@ -150,10 +135,7 @@ export const isaiah_6_3: Verse = {
       englishLiteral: 'holy',
       englishNatural: 'holy',
       root: 'qadash',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adjective',
       },
@@ -168,10 +150,7 @@ export const isaiah_6_3: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -183,10 +162,7 @@ export const isaiah_6_3: Verse = {
       englishNatural: 'of Hosts',
       root: 'tsava',
       suffixes: ['ot'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -204,10 +180,7 @@ export const isaiah_6_3: Verse = {
       englishLiteral: 'fullness-of',
       englishNatural: 'fullness of',
       root: 'male',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
       },
@@ -218,10 +191,7 @@ export const isaiah_6_3: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'adjective',
       },
@@ -233,10 +203,7 @@ export const isaiah_6_3: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
       },
@@ -251,10 +218,7 @@ export const isaiah_6_3: Verse = {
       englishNatural: 'is his glory',
       root: 'kavod',
       suffixes: ['o'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -278,6 +242,6 @@ export const isaiah_6_3: Verse = {
     englishNatural:
       'And this called-out to this, and said, "Holy, holy, holy, He-Who-Is (YHWH) of Hosts, fullness of all the land is his glory."',
     kjv: 'And one cried unto another, and said, Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

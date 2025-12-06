@@ -55,10 +55,7 @@ export const numbers_21_8: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -69,10 +66,7 @@ export const numbers_21_8: Verse = {
       englishLiteral: 'Draws_Out (Moses)',
       englishNatural: 'Draws-Out (Moses)',
       root: 'moshe',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -89,10 +83,7 @@ export const numbers_21_8: Verse = {
       englishLiteral: 'Make',
       englishNatural: 'Make',
       root: 'asah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -113,10 +104,7 @@ export const numbers_21_8: Verse = {
       root: 'atah',
       prefixes: ['le'],
       suffixes: ['kha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -130,10 +118,7 @@ export const numbers_21_8: Verse = {
       englishLiteral: 'burning_one',
       englishNatural: 'a burning-one',
       root: 'saraph',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -152,10 +137,7 @@ export const numbers_21_8: Verse = {
       englishNatural: 'and place',
       root: 'sim',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -171,10 +153,7 @@ export const numbers_21_8: Verse = {
       englishNatural: 'it',
       root: 'et',
       suffixes: ['o'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -188,10 +167,7 @@ export const numbers_21_8: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
     },
     {
       hebrew: 'נֵס',
@@ -199,10 +175,7 @@ export const numbers_21_8: Verse = {
       englishLiteral: 'standard',
       englishNatural: 'a standard',
       root: 'nes',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -221,10 +194,7 @@ export const numbers_21_8: Verse = {
       englishNatural: 'and it shall come about',
       root: 'hayah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -245,10 +215,7 @@ export const numbers_21_8: Verse = {
       englishLiteral: 'all',
       englishNatural: 'everyone',
       root: 'kol',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -263,10 +230,7 @@ export const numbers_21_8: Verse = {
       englishNatural: 'who is struck',
       root: 'nashakh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -285,10 +249,7 @@ export const numbers_21_8: Verse = {
       englishNatural: 'and sees',
       root: 'raah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -306,10 +267,7 @@ export const numbers_21_8: Verse = {
       englishNatural: 'it',
       root: 'et',
       suffixes: ['o'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -328,10 +286,7 @@ export const numbers_21_8: Verse = {
       englishNatural: 'will live',
       root: 'chayah',
       prefixes: ['va'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -357,6 +312,6 @@ export const numbers_21_8: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) said to Draws-Out (Moses), "Make for yourself a burning-one, and place it over a standard; and it shall come about, everyone who is struck, and sees it, will live."',
     kjv: 'And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

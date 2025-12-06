@@ -22,10 +22,7 @@ export const isaiah_6_5: Verse = {
         gender: 'masculine',
       },
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       grammarSuffix: {
         englishLiteral: ',',
         englishNatural: ',',
@@ -41,10 +38,7 @@ export const isaiah_6_5: Verse = {
       morphology: {
         type: 'interjection',
       },
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       grammarPrefix: {
         englishLiteral: '"',
         englishNatural: '"',
@@ -59,10 +53,7 @@ export const isaiah_6_5: Verse = {
       morphology: {
         type: 'preposition',
       },
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
     },
     {
       hebrew: 'כִּי־',
@@ -73,10 +64,7 @@ export const isaiah_6_5: Verse = {
       morphology: {
         type: 'conjunction',
       },
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
     },
     {
       hebrew: 'נִדְמֵיתִי',
@@ -85,10 +73,7 @@ export const isaiah_6_5: Verse = {
       englishNatural: 'I am silenced',
       root: 'damah',
       suffixes: ['ti'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'verb',
         tense: 'perfect',
@@ -111,10 +96,7 @@ export const isaiah_6_5: Verse = {
       morphology: {
         type: 'conjunction',
       },
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       lineBreaksBefore: 1,
     },
     {
@@ -207,10 +189,7 @@ export const isaiah_6_5: Verse = {
         gender: 'masculine',
       },
       prefixes: ['u', 'be'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       lineBreaksBefore: 1,
     },
     {
@@ -225,10 +204,7 @@ export const isaiah_6_5: Verse = {
         number: 'singular',
         gender: 'masculine',
       },
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
     },
     {
       hebrew: 'טְמֵא',
@@ -242,10 +218,7 @@ export const isaiah_6_5: Verse = {
         number: 'singular',
         gender: 'masculine',
       },
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
     },
     {
       hebrew: 'שְׂפָתַיִם',
@@ -260,10 +233,7 @@ export const isaiah_6_5: Verse = {
         gender: 'feminine',
       },
       suffixes: ['ayim'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
     },
     {
       hebrew: 'אָנֹכִי',
@@ -277,10 +247,7 @@ export const isaiah_6_5: Verse = {
         number: 'singular',
         gender: 'common',
       },
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
     },
     {
       hebrew: 'יוֹשֵׁב',
@@ -296,10 +263,7 @@ export const isaiah_6_5: Verse = {
         number: 'singular',
         gender: 'masculine',
       },
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       grammarSuffix: {
         englishLiteral: ';',
         englishNatural: ';',
@@ -314,10 +278,7 @@ export const isaiah_6_5: Verse = {
       morphology: {
         type: 'conjunction',
       },
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       lineBreaksBefore: 1,
     },
     {
@@ -450,6 +411,6 @@ export const isaiah_6_5: Verse = {
     englishNatural:
       'And I said, "Woe to me that I am silenced; that I, a man of unclean lips, and in the midst of a people of unclean lips I sit; that my eyes have seen the King, He-Who-Is (YHWH) of Hosts."',
     kjv: 'Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the Lord of hosts.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

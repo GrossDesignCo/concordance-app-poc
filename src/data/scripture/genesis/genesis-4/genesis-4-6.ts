@@ -53,10 +53,7 @@ export const genesis_4_6: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -67,10 +64,7 @@ export const genesis_4_6: Verse = {
       englishLiteral: 'Acquired (Cain)',
       englishNatural: 'Acquired (Cain)',
       root: 'qanah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -86,10 +80,7 @@ export const genesis_4_6: Verse = {
       englishLiteral: 'Why',
       englishNatural: 'Why',
       root: 'lamah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'adverb',
       },
@@ -104,10 +95,7 @@ export const genesis_4_6: Verse = {
       englishLiteral: 'it-fumed_angrily',
       englishNatural: 'is it fuming-anger',
       root: 'charah',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -124,10 +112,7 @@ export const genesis_4_6: Verse = {
       englishNatural: 'to you',
       root: 'lamed',
       suffixes: ['kh'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -146,10 +131,7 @@ export const genesis_4_6: Verse = {
       englishNatural: 'and why',
       root: 'lamah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adverb',
       },
@@ -214,6 +196,6 @@ export const genesis_4_6: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) said to Acquired (Cain), "Why is it fuming-anger to you, and why have your faces (eyes) fallen?',
     kjv: 'And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

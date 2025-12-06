@@ -104,10 +104,7 @@ export const numbers_21_9: Verse = {
       root: 'sim',
       prefixes: ['va'],
       suffixes: ['ehu'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -124,10 +121,7 @@ export const numbers_21_9: Verse = {
       englishLiteral: 'on',
       englishNatural: 'on',
       root: 'al',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -139,10 +133,7 @@ export const numbers_21_9: Verse = {
       englishNatural: 'the standard',
       root: 'nes',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -160,10 +151,7 @@ export const numbers_21_9: Verse = {
       englishNatural: 'and it came about',
       root: 'hayah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -184,10 +172,7 @@ export const numbers_21_9: Verse = {
       englishLiteral: 'if',
       englishNatural: 'if',
       root: 'im',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'conjunction',
       },
@@ -301,10 +286,7 @@ export const numbers_21_9: Verse = {
       englishLiteral: 'snake',
       englishNatural: 'snake',
       root: 'nachash',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -374,6 +356,6 @@ export const numbers_21_9: Verse = {
     englishNatural:
       'And Draws-Out (Moses) made a bronze snake, and he placed it on the standard; and it came about, if the snake struck a man, and he looked to the bronze snake, he lived.',
     kjv: 'And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -14,10 +14,7 @@ export const genesis_4_21: Verse = {
       englishNatural: 'And the name',
       root: 'shem',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -33,10 +30,7 @@ export const genesis_4_21: Verse = {
       englishLiteral: 'brother-his',
       englishNatural: 'of his brother',
       root: 'ach',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -54,10 +48,7 @@ export const genesis_4_21: Verse = {
       englishLiteral: 'Music (Jubal)',
       englishNatural: 'Music (Jubal)',
       root: 'Yuval',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -74,10 +65,7 @@ export const genesis_4_21: Verse = {
       englishLiteral: 'he',
       englishNatural: 'he',
       root: 'hu',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'pronoun',
         person: '3rd',
@@ -92,10 +80,7 @@ export const genesis_4_21: Verse = {
       englishLiteral: 'was',
       englishNatural: 'was',
       root: 'hayah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -110,10 +95,7 @@ export const genesis_4_21: Verse = {
       englishLiteral: 'father-of',
       englishNatural: 'father of',
       root: 'av',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -127,10 +109,7 @@ export const genesis_4_21: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
         state: 'construct',
@@ -183,10 +162,7 @@ export const genesis_4_21: Verse = {
       englishNatural: 'and flute',
       root: 'ugav',
       prefixes: ['ve'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -208,6 +184,6 @@ export const genesis_4_21: Verse = {
     englishNatural:
       'And the name of his brother, Music (Jubal); he was father of all lyre handling, and flute.',
     kjv: "And his brother's name was Jubal: he was the father of all such as handle the harp and organ.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

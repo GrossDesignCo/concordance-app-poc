@@ -15,10 +15,7 @@ export const proverbs_8_27: Verse = {
       root: 'kun',
       prefixes: ['ba', 'ha'],
       suffixes: ['o'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -33,10 +30,7 @@ export const proverbs_8_27: Verse = {
       englishLiteral: 'heavens',
       englishNatural: 'heavens',
       root: 'shamayim',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -53,10 +47,7 @@ export const proverbs_8_27: Verse = {
       englishLiteral: 'there',
       englishNatural: 'there',
       root: 'sham',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'adverb',
       },
@@ -67,10 +58,7 @@ export const proverbs_8_27: Verse = {
       englishLiteral: 'I',
       englishNatural: 'I',
       root: 'ani',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         person: '1st',
         number: 'singular',
@@ -89,10 +77,7 @@ export const proverbs_8_27: Verse = {
       root: 'chaq',
       prefixes: ['be'],
       suffixes: ['o'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -106,10 +91,7 @@ export const proverbs_8_27: Verse = {
       englishLiteral: 'circle',
       englishNatural: 'circle',
       root: 'chug',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -122,10 +104,7 @@ export const proverbs_8_27: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -136,10 +115,7 @@ export const proverbs_8_27: Verse = {
       englishLiteral: 'face-of',
       englishNatural: 'the face of',
       root: 'peh',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -152,10 +128,7 @@ export const proverbs_8_27: Verse = {
       englishLiteral: 'abyss',
       englishNatural: 'the abyss',
       root: 'tehom',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -175,6 +148,6 @@ export const proverbs_8_27: Verse = {
     englishNatural:
       'In his establishing heavens, there I; in his inscribing circle over the face of the abyss.',
     kjv: 'When he prepared the heavens, I was there: when he set a compass upon the face of the depth',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

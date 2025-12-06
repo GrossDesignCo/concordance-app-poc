@@ -14,10 +14,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'Burning-ones',
       root: 'saraph',
       suffixes: ['im'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -32,10 +29,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'were standing',
       root: 'amad',
       suffixes: ['im'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -52,10 +46,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'above',
       root: 'maal',
       prefixes: ['mi'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -67,10 +58,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'him',
       root: 'hu',
       prefixes: ['le'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -88,10 +76,7 @@ export const isaiah_6_2: Verse = {
       englishLiteral: 'six',
       englishNatural: 'six',
       root: 'shesh',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'numeral',
       },
@@ -103,10 +88,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'wings',
       root: 'kenaf',
       suffixes: ['ayim'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -120,10 +102,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'to each one',
       root: 'echad',
       prefixes: ['le'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -141,10 +120,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'in two',
       root: 'shnayim',
       prefixes: ['be'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'numeral',
       },
@@ -156,10 +132,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'he covers',
       root: 'khasah',
       prefixes: ['ye'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -176,10 +149,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'his faces (eyes)',
       root: 'panah',
       suffixes: ['av'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -198,10 +168,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'and in two',
       root: 'shnayim',
       prefixes: ['u', 'be'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'numeral',
       },
@@ -213,10 +180,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'he covers',
       root: 'khasah',
       prefixes: ['ye'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -233,10 +197,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'his feet',
       root: 'regel',
       suffixes: ['av'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -255,10 +216,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'and in two',
       root: 'shnayim',
       prefixes: ['u', 'be'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'numeral',
       },
@@ -270,10 +228,7 @@ export const isaiah_6_2: Verse = {
       englishNatural: 'he flies',
       root: 'uf',
       prefixes: ['ye'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -299,6 +254,6 @@ export const isaiah_6_2: Verse = {
     englishNatural:
       'Burning-ones were standing above him; six wings to each one, in two he covers his faces (eyes), and in two he covers his feet, and in two he flies.',
     kjv: 'Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

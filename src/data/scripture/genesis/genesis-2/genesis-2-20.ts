@@ -56,10 +56,7 @@ export const genesis_2_20: Verse = {
       englishLiteral: 'names',
       englishNatural: 'names',
       root: 'shem',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -73,10 +70,7 @@ export const genesis_2_20: Verse = {
       englishNatural: 'to every',
       root: 'kol',
       prefixes: ['le'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'adjective',
       },
@@ -88,10 +82,7 @@ export const genesis_2_20: Verse = {
       englishNatural: 'beast',
       root: 'behemah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -109,10 +100,7 @@ export const genesis_2_20: Verse = {
       englishNatural: 'and to flyer of',
       root: 'oph',
       prefixes: ['u', 'le'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -126,10 +114,7 @@ export const genesis_2_20: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -147,10 +132,7 @@ export const genesis_2_20: Verse = {
       englishNatural: 'and to every',
       root: 'kol',
       prefixes: ['u', 'le'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adjective',
       },
@@ -161,10 +143,7 @@ export const genesis_2_20: Verse = {
       englishLiteral: 'living_being-of',
       englishNatural: 'living-being of',
       root: 'chayah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -178,10 +157,7 @@ export const genesis_2_20: Verse = {
       englishNatural: 'the field',
       root: 'sadeh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -199,10 +175,7 @@ export const genesis_2_20: Verse = {
       englishNatural: 'and to Earth (Adam)',
       root: 'adam',
       prefixes: ['u', 'le'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -218,10 +191,7 @@ export const genesis_2_20: Verse = {
       englishLiteral: 'no',
       englishNatural: 'no',
       root: 'lo',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'adverb',
       },
@@ -267,10 +237,7 @@ export const genesis_2_20: Verse = {
       root: 'neged',
       prefixes: ['ke'],
       suffixes: ['o'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'preposition',
       },
@@ -291,6 +258,6 @@ export const genesis_2_20: Verse = {
     englishNatural:
       'And the Earth (Adam) called-out names to every beast, and to flyer of the skies, and to every living-being of the field, and to Earth (Adam), no help was found as his opposite.',
     kjv: 'And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

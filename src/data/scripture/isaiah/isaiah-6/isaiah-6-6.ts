@@ -14,10 +14,7 @@ export const isaiah_6_6: Verse = {
       englishNatural: 'And flew',
       root: 'uf',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -35,10 +32,7 @@ export const isaiah_6_6: Verse = {
       englishNatural: 'to me',
       root: 'el',
       suffixes: ['ai'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'preposition',
       },
@@ -49,10 +43,7 @@ export const isaiah_6_6: Verse = {
       englishLiteral: 'one',
       englishNatural: 'one',
       root: 'echad',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -65,10 +56,7 @@ export const isaiah_6_6: Verse = {
       englishLiteral: 'from',
       englishNatural: 'from',
       root: 'min',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -81,10 +69,7 @@ export const isaiah_6_6: Verse = {
       root: 'saraph',
       prefixes: ['ha'],
       suffixes: ['im'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -99,10 +84,7 @@ export const isaiah_6_6: Verse = {
       root: 'yad',
       prefixes: ['u', 'be'],
       suffixes: ['o'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -117,10 +99,7 @@ export const isaiah_6_6: Verse = {
       englishLiteral: 'live_coal',
       englishNatural: 'a live-coal',
       root: 'ritzpah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -170,10 +149,7 @@ export const isaiah_6_6: Verse = {
       englishNatural: 'from upon',
       root: 'al',
       prefixes: ['me'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -185,10 +161,7 @@ export const isaiah_6_6: Verse = {
       englishNatural: 'the altar',
       root: 'mizbeach',
       prefixes: ['ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -211,6 +184,6 @@ export const isaiah_6_6: Verse = {
     englishNatural:
       'And flew to me one from the burning-ones and in his hand a live-coal he had taken with tongs from upon the altar.',
     kjv: 'Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

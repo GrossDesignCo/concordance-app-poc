@@ -133,10 +133,7 @@ export const genesis_5_4: Verse = {
       englishLiteral: 'eight',
       englishNatural: 'eight',
       root: 'shmoneh',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -150,10 +147,7 @@ export const genesis_5_4: Verse = {
       englishNatural: 'hundred',
       root: 'meah',
       prefixes: ['me'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -167,10 +161,7 @@ export const genesis_5_4: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -188,10 +179,7 @@ export const genesis_5_4: Verse = {
       englishNatural: 'and he birthed',
       root: 'yalad',
       prefixes: ['va'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -209,10 +197,7 @@ export const genesis_5_4: Verse = {
       englishNatural: 'sons',
       root: 'ben',
       suffixes: ['im'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -227,10 +212,7 @@ export const genesis_5_4: Verse = {
       root: 'bat',
       prefixes: ['u'],
       suffixes: ['ot'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -253,6 +235,6 @@ export const genesis_5_4: Verse = {
     englishNatural:
       'And the days of Earth (Adam) after he had birthed Appointed (Seth), were eight hundred years; and he birthed sons and daughters.',
     kjv: 'And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

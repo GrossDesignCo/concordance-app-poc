@@ -55,10 +55,7 @@ export const proverbs_1_5: Verse = {
       englishNatural: 'and will add',
       root: 'yasaf',
       prefixes: ['ve'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -74,10 +71,7 @@ export const proverbs_1_5: Verse = {
       englishLiteral: 'teaching',
       englishNatural: 'teaching',
       root: 'leqach',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -95,10 +89,7 @@ export const proverbs_1_5: Verse = {
       englishNatural: 'and an understanding man',
       root: 'navon',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -158,6 +149,6 @@ export const proverbs_1_5: Verse = {
     englishLiteral: 'Will-hear wise-man, and-will-add teaching; and-understanding-man, wise_counsels will-acquire.',
     englishNatural: 'A wise man will hear, and will add teaching; and an understanding man, will acquire wise-counsels.',
     kjv: 'A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

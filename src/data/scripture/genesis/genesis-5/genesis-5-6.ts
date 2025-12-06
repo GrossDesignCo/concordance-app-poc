@@ -55,10 +55,7 @@ export const genesis_5_6: Verse = {
       englishLiteral: 'five',
       englishNatural: 'five',
       root: 'chamesh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -72,10 +69,7 @@ export const genesis_5_6: Verse = {
       englishNatural: 'years',
       root: 'shanah',
       suffixes: ['im'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -89,10 +83,7 @@ export const genesis_5_6: Verse = {
       englishNatural: 'and a hundred',
       root: 'meah',
       prefixes: ['u', 'me'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -106,10 +97,7 @@ export const genesis_5_6: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -128,10 +116,7 @@ export const genesis_5_6: Verse = {
       englishNatural: 'and he birthed',
       root: 'yalad',
       prefixes: ['va'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -147,10 +132,7 @@ export const genesis_5_6: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'particle',
       },
@@ -161,10 +143,7 @@ export const genesis_5_6: Verse = {
       englishLiteral: 'Mortal_Man (Enosh)',
       englishNatural: 'Mortal-Man (Enosh)',
       root: 'Enosh',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -186,6 +165,6 @@ export const genesis_5_6: Verse = {
     englishNatural:
       'And Appointed (Seth) lived five years and a hundred years, and he birthed Mortal-Man (Enosh).',
     kjv: 'And Seth lived an hundred and five years, and begat Enos:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

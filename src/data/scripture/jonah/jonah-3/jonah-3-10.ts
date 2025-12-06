@@ -57,10 +57,7 @@ export const jonah_3_10: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -72,10 +69,7 @@ export const jonah_3_10: Verse = {
       englishNatural: 'their works',
       root: 'maaseh',
       suffixes: ['ey', 'hem'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -92,10 +86,7 @@ export const jonah_3_10: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'relative',
       },
@@ -106,10 +97,7 @@ export const jonah_3_10: Verse = {
       englishLiteral: 'they-returned',
       englishNatural: 'they returned',
       root: 'shuv',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -216,10 +204,7 @@ export const jonah_3_10: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -231,10 +216,7 @@ export const jonah_3_10: Verse = {
       englishNatural: 'the bad',
       root: 'ra',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -247,10 +229,7 @@ export const jonah_3_10: Verse = {
       englishLiteral: 'which-',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'relative',
       },
@@ -261,10 +240,7 @@ export const jonah_3_10: Verse = {
       englishLiteral: 'he-spoke',
       englishNatural: 'he spoke',
       root: 'dabar',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -281,10 +257,7 @@ export const jonah_3_10: Verse = {
       englishNatural: 'to make',
       root: 'asah',
       prefixes: ['la'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'verb',
         tense: 'infinitive_construct',
@@ -297,10 +270,7 @@ export const jonah_3_10: Verse = {
       englishLiteral: 'to-them',
       englishNatural: 'to them',
       root: 'lahem',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'preposition',
       },
@@ -366,6 +336,6 @@ export const jonah_3_10: Verse = {
     englishNatural:
       'And the God saw their works, that they returned from the bad of their way; and the God comforted, over the bad which he spoke to make to them; and he made it not.',
     kjv: 'And God saw their works, that they turned from their evil way; and God repented of the evil that he had said that he would do unto them; and he did it not.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-19' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

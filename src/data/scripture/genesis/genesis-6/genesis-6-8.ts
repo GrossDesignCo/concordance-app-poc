@@ -14,10 +14,7 @@ export const genesis_6_8: Verse = {
       englishNatural: 'And Rest (Noah)',
       root: 'noach',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -29,10 +26,7 @@ export const genesis_6_8: Verse = {
       englishLiteral: 'found',
       englishNatural: 'found',
       root: 'matsa',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -48,10 +42,7 @@ export const genesis_6_8: Verse = {
       englishLiteral: 'grace',
       englishNatural: 'grace',
       root: 'chen',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -65,10 +56,7 @@ export const genesis_6_8: Verse = {
       englishNatural: 'in the eyes of',
       root: 'ayin_eye',
       prefixes: ['be'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -82,10 +70,7 @@ export const genesis_6_8: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -103,6 +88,6 @@ export const genesis_6_8: Verse = {
     englishNatural:
       'And Rest (Noah) found grace in the eyes of He-Who-Is (YHWH).',
     kjv: 'But Noah found grace in the eyes of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

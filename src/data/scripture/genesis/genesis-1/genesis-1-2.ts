@@ -14,10 +14,7 @@ export const genesis_1_2: Verse = {
       englishNatural: 'And the land',
       root: 'eretz',
       prefixes: ['ve', 'ha'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -31,10 +28,7 @@ export const genesis_1_2: Verse = {
       englishLiteral: 'was',
       englishNatural: 'was',
       root: 'hayah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const genesis_1_2: Verse = {
       englishLiteral: 'waste',
       englishNatural: 'waste',
       root: 'tohu',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -68,10 +59,7 @@ export const genesis_1_2: Verse = {
       englishNatural: 'and void',
       root: 'vohu',
       prefixes: ['va'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -91,10 +79,7 @@ export const genesis_1_2: Verse = {
       englishNatural: 'And darkness',
       root: 'choshekh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -115,10 +100,7 @@ export const genesis_1_2: Verse = {
       root: 'panah',
       prefixes: ['al'],
       suffixes: ['ey'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -132,10 +114,7 @@ export const genesis_1_2: Verse = {
       englishLiteral: 'abyss',
       englishNatural: 'the abyss',
       root: 'tehom',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -156,10 +135,7 @@ export const genesis_1_2: Verse = {
       englishNatural: 'And the Wind of',
       root: 'ruach',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -177,10 +153,7 @@ export const genesis_1_2: Verse = {
       englishNatural: 'God',
       root: 'eloah',
       suffixes: ['im'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -198,10 +171,7 @@ export const genesis_1_2: Verse = {
       root: 'rachaf',
       prefixes: ['me'],
       suffixes: ['et'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -217,10 +187,7 @@ export const genesis_1_2: Verse = {
       root: 'panah',
       prefixes: ['al'],
       suffixes: ['ey'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -235,10 +202,7 @@ export const genesis_1_2: Verse = {
       englishNatural: 'the waters',
       root: 'mayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -262,6 +226,6 @@ export const genesis_1_2: Verse = {
     englishNatural:
       'And the land was waste and void; And darkness, over the face of the abyss. And the Wind of God was stirring over the face of the waters.',
     kjv: 'And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

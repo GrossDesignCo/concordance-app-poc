@@ -53,10 +53,7 @@ export const exodus_34_6: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -68,10 +65,7 @@ export const exodus_34_6: Verse = {
       englishNatural: 'his faces (eyes)',
       root: 'panim',
       suffixes: ['av'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -89,10 +83,7 @@ export const exodus_34_6: Verse = {
       englishNatural: 'and called-out',
       root: 'qara',
       prefixes: ['va'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -113,10 +104,7 @@ export const exodus_34_6: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -135,10 +123,7 @@ export const exodus_34_6: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
       },
@@ -153,10 +138,7 @@ export const exodus_34_6: Verse = {
       englishLiteral: 'God',
       englishNatural: 'God',
       root: 'el',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -171,10 +153,7 @@ export const exodus_34_6: Verse = {
       englishLiteral: 'compassionate',
       englishNatural: 'compassionate',
       root: 'rachum',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'adjective',
       },
@@ -190,10 +169,7 @@ export const exodus_34_6: Verse = {
       englishNatural: 'and gracious',
       root: 'chanun',
       prefixes: ['ve'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'adjective',
       },
@@ -209,10 +185,7 @@ export const exodus_34_6: Verse = {
       englishLiteral: 'long',
       englishNatural: 'long of',
       root: 'erekh',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'adjective',
         state: 'construct',
@@ -225,10 +198,7 @@ export const exodus_34_6: Verse = {
       englishNatural: 'nostrils',
       root: 'af',
       suffixes: ['ayim'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'dual',
@@ -246,10 +216,7 @@ export const exodus_34_6: Verse = {
       englishNatural: 'and abundant in',
       root: 'rav',
       prefixes: ['ve'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'adjective',
         state: 'construct',
@@ -262,10 +229,7 @@ export const exodus_34_6: Verse = {
       englishLiteral: 'steadfast_love',
       englishNatural: 'steadfast-love',
       root: 'chesed',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -279,10 +243,7 @@ export const exodus_34_6: Verse = {
       englishNatural: 'and truth',
       root: 'emet',
       prefixes: ['ve'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -306,6 +267,6 @@ export const exodus_34_6: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) passed through over his faces (eyes), and called-out, "He-Who-Is (YHWH), He-Who-Is (YHWH), God, compassionate, and gracious, long of nostrils, and abundant in steadfast-love and truth.',
     kjv: 'And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

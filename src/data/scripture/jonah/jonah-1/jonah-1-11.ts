@@ -15,10 +15,7 @@ export const jonah_1_11: Verse = {
       root: 'amar',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -36,10 +33,7 @@ export const jonah_1_11: Verse = {
       englishNatural: 'to him',
       root: 'el',
       suffixes: ['av'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'preposition',
       },
@@ -54,10 +48,7 @@ export const jonah_1_11: Verse = {
       englishLiteral: 'what-',
       englishNatural: 'What',
       root: 'mah',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'pronoun',
       },
@@ -72,10 +63,7 @@ export const jonah_1_11: Verse = {
       englishLiteral: 'shall-be-done',
       englishNatural: 'shall be done',
       root: 'asah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -91,10 +79,7 @@ export const jonah_1_11: Verse = {
       englishLiteral: 'to-you',
       englishNatural: 'to you',
       root: 'lakhem',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -106,10 +91,7 @@ export const jonah_1_11: Verse = {
       englishNatural: 'and will quiet',
       root: 'shatoq',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -127,10 +109,7 @@ export const jonah_1_11: Verse = {
       englishNatural: 'the sea',
       root: 'yam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -145,10 +124,7 @@ export const jonah_1_11: Verse = {
       root: 'al',
       prefixes: ['me'],
       suffixes: ['nu'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -163,10 +139,7 @@ export const jonah_1_11: Verse = {
       englishLiteral: 'that',
       englishNatural: 'That',
       root: 'ki',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'conjunction',
       },
@@ -179,10 +152,7 @@ export const jonah_1_11: Verse = {
       englishNatural: 'the sea is',
       root: 'yam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -195,10 +165,7 @@ export const jonah_1_11: Verse = {
       englishLiteral: 'walking',
       englishNatural: 'walking',
       root: 'halakh',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -214,10 +181,7 @@ export const jonah_1_11: Verse = {
       englishNatural: 'and storming',
       root: 'soer',
       prefixes: ['ve'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -242,6 +206,6 @@ export const jonah_1_11: Verse = {
     englishNatural:
       'And they said to him, "What shall be done to you and will quiet the sea from over us? That the sea is walking and storming."',
     kjv: 'Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -14,10 +14,7 @@ export const jonah_2_2: Verse = {
       englishNatural: 'And he said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -39,10 +36,7 @@ export const jonah_2_2: Verse = {
       englishNatural: 'I called-out',
       root: 'qara',
       suffixes: ['ti'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -64,10 +58,7 @@ export const jonah_2_2: Verse = {
       englishNatural: 'from distress',
       root: 'tzarah',
       prefixes: ['mi'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -80,10 +71,7 @@ export const jonah_2_2: Verse = {
       englishLiteral: 'to-me',
       englishNatural: 'to me',
       root: 'li',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -94,10 +82,7 @@ export const jonah_2_2: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -108,10 +93,7 @@ export const jonah_2_2: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -128,10 +110,7 @@ export const jonah_2_2: Verse = {
       root: 'anah',
       prefixes: ['va'],
       suffixes: ['ni'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -153,10 +132,7 @@ export const jonah_2_2: Verse = {
       englishNatural: 'from the belly of',
       root: 'beten',
       prefixes: ['mi'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -171,10 +147,7 @@ export const jonah_2_2: Verse = {
       englishLiteral: 'Hades',
       englishNatural: 'Hades',
       root: 'sheol',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -188,10 +161,7 @@ export const jonah_2_2: Verse = {
       englishNatural: 'I cried-out',
       root: 'shavah_cry',
       suffixes: ['ti'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -212,10 +182,7 @@ export const jonah_2_2: Verse = {
       englishNatural: 'you heard',
       root: 'shama',
       suffixes: ['ta'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -233,10 +200,7 @@ export const jonah_2_2: Verse = {
       englishNatural: 'my voice',
       root: 'qol',
       suffixes: ['i'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -259,6 +223,6 @@ export const jonah_2_2: Verse = {
     englishNatural:
       'And he said, "I called-out from distress to me to He-Who-Is (YHWH), and he answered me; from the belly of Hades I cried-out, you heard my voice.',
     kjv: 'And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

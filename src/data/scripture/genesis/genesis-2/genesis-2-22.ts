@@ -70,10 +70,7 @@ export const genesis_2_22: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
     },
     {
       hebrew: 'הַצֵּלָע',
@@ -82,10 +79,7 @@ export const genesis_2_22: Verse = {
       englishNatural: 'the side',
       root: 'tzela',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -98,10 +92,7 @@ export const genesis_2_22: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'relative',
       },
@@ -112,10 +103,7 @@ export const genesis_2_22: Verse = {
       englishLiteral: 'he-took',
       englishNatural: 'he took',
       root: 'lakach',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -131,10 +119,7 @@ export const genesis_2_22: Verse = {
       englishLiteral: 'from-',
       englishNatural: 'from',
       root: 'min',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -146,10 +131,7 @@ export const genesis_2_22: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -167,10 +149,7 @@ export const genesis_2_22: Verse = {
       englishNatural: 'into a woman',
       root: 'ishah',
       prefixes: ['le'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -189,10 +168,7 @@ export const genesis_2_22: Verse = {
       root: 'bo',
       prefixes: ['va'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -208,10 +184,7 @@ export const genesis_2_22: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -223,10 +196,7 @@ export const genesis_2_22: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -249,6 +219,6 @@ export const genesis_2_22: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God built the side which he took from the Earth (Adam), into a woman, and brought her to the Earth (Adam).',
     kjv: 'And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

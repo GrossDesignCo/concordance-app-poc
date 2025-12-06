@@ -62,10 +62,7 @@ export const genesis_9_12: Verse = {
       englishLiteral: 'this',
       englishNatural: 'This',
       root: 'zot',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -86,10 +83,7 @@ export const genesis_9_12: Verse = {
       englishLiteral: 'sign-of',
       englishNatural: 'the sign of',
       root: 'ot',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -104,10 +98,7 @@ export const genesis_9_12: Verse = {
       englishNatural: 'the covenant',
       root: 'berit',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -120,10 +111,7 @@ export const genesis_9_12: Verse = {
       englishLiteral: 'which-',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'relative',
       },
@@ -134,10 +122,7 @@ export const genesis_9_12: Verse = {
       englishLiteral: 'I',
       englishNatural: 'I',
       root: 'ani',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -151,10 +136,7 @@ export const genesis_9_12: Verse = {
       englishLiteral: 'giving',
       englishNatural: 'am giving',
       root: 'natan',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -175,10 +157,7 @@ export const genesis_9_12: Verse = {
       englishNatural: 'between me',
       root: 'beyn',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -191,10 +170,7 @@ export const genesis_9_12: Verse = {
       root: 'beyn',
       prefixes: ['u'],
       suffixes: ['khem'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -214,10 +190,7 @@ export const genesis_9_12: Verse = {
       englishNatural: 'and between',
       root: 'beyn',
       prefixes: ['u'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -228,10 +201,7 @@ export const genesis_9_12: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
       },
@@ -242,10 +212,7 @@ export const genesis_9_12: Verse = {
       englishLiteral: 'wind-of',
       englishNatural: 'the wind of',
       root: 'nephesh',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -259,10 +226,7 @@ export const genesis_9_12: Verse = {
       englishLiteral: 'living_being',
       englishNatural: 'the living-being',
       root: 'chayah',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -275,10 +239,7 @@ export const genesis_9_12: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'relative',
       },
@@ -290,10 +251,7 @@ export const genesis_9_12: Verse = {
       englishNatural: 'is with you',
       root: 'et',
       suffixes: ['khem'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -314,10 +272,7 @@ export const genesis_9_12: Verse = {
       root: 'dor',
       prefixes: ['le'],
       suffixes: ['ot'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -331,10 +286,7 @@ export const genesis_9_12: Verse = {
       englishLiteral: 'the_age',
       englishNatural: 'the-age',
       root: 'olam',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -357,6 +309,6 @@ export const genesis_9_12: Verse = {
     englishNatural:
       'And God said, "This, the sign of the covenant which I am giving, between me and between you, and between all the wind of the living-being which is with you, to the generations of the-age;',
     kjv: 'And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

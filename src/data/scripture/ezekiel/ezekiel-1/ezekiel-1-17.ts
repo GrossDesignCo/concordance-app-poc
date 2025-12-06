@@ -13,10 +13,7 @@ export const ezekiel_1_17: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'Over',
       root: 'al',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'preposition',
       },
@@ -28,10 +25,7 @@ export const ezekiel_1_17: Verse = {
       englishLiteral: 'four-of',
       englishNatural: 'four of',
       root: 'arba',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -46,10 +40,7 @@ export const ezekiel_1_17: Verse = {
       englishNatural: 'their sides',
       root: 'reva',
       suffixes: ['hen'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -62,10 +53,7 @@ export const ezekiel_1_17: Verse = {
       englishLiteral: 'they-went',
       englishNatural: 'they went',
       root: 'halakh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -83,10 +71,7 @@ export const ezekiel_1_17: Verse = {
       root: 'halakh',
       prefixes: ['be'],
       suffixes: ['tan'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
@@ -138,10 +123,7 @@ export const ezekiel_1_17: Verse = {
       root: 'halakh',
       prefixes: ['be'],
       suffixes: ['tan'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
@@ -163,6 +145,6 @@ export const ezekiel_1_17: Verse = {
     englishNatural:
       'Over four of their sides they went in their going; they went-around not in their going.',
     kjv: 'When they went, they went upon their four sides: and they turned not when they went.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -13,10 +13,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'Truly',
       englishNatural: 'Truly',
       root: 'amen',
-      order: {
-        greek: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'particle',
       },
@@ -36,10 +33,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'truly',
       englishNatural: 'truly',
       root: 'amen',
-      order: {
-        greek: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'particle',
       },
@@ -54,10 +48,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'I-say',
       englishNatural: 'I say',
       root: 'lego',
-      order: {
-        greek: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'verb',
         tense: 'present',
@@ -73,10 +64,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'to-you',
       englishNatural: 'to you',
       root: 'su',
-      order: {
-        greek: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'pronoun',
         person: '2nd',
@@ -94,10 +82,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'when',
       englishNatural: 'when',
       root: 'ote',
-      order: {
-        greek: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'conjunction',
       },
@@ -108,10 +93,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'you-were',
       englishNatural: 'you were',
       root: 'eimi',
-      order: {
-        greek: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         tense: 'imperfect',
@@ -127,10 +109,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'younger',
       englishNatural: 'younger',
       root: 'neoteros',
-      order: {
-        greek: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adjective',
         gender: 'masculine',
@@ -149,10 +128,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'you-girded',
       englishNatural: 'you girded',
       root: 'zonnuo',
-      order: {
-        greek: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'verb',
         tense: 'imperfect',
@@ -168,10 +144,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'yourself',
       englishNatural: 'yourself',
       root: 'seautou',
-      order: {
-        greek: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'pronoun',
         person: '2nd',
@@ -185,10 +158,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'and',
       englishNatural: 'and',
       root: 'kai',
-      order: {
-        greek: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'conjunction',
       },
@@ -199,10 +169,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'you-walked',
       englishNatural: 'you walked',
       root: 'peripateo',
-      order: {
-        greek: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'verb',
         tense: 'imperfect',
@@ -218,10 +185,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'where',
       englishNatural: 'where',
       root: 'hopou',
-      order: {
-        greek: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'adverb',
       },
@@ -232,10 +196,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'you-wanted',
       englishNatural: 'you wanted',
       root: 'thelo',
-      order: {
-        greek: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'verb',
         tense: 'imperfect',
@@ -283,10 +244,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'you-grow_old',
       englishNatural: 'you grow old',
       root: 'gerao',
-      order: {
-        greek: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'verb',
         tense: 'aorist',
@@ -306,10 +264,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'you-will-stretch_out',
       englishNatural: 'you will stretch out',
       root: 'ekteino',
-      order: {
-        greek: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'verb',
         tense: 'future',
@@ -325,10 +280,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'the',
       englishNatural: 'those',
       root: 'ho',
-      order: {
-        greek: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'article',
         gender: 'feminine',
@@ -343,10 +295,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'hands',
       englishNatural: 'hands',
       root: 'cheir',
-      order: {
-        greek: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -361,10 +310,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'of-you',
       englishNatural: 'of yours',
       root: 'su',
-      order: {
-        greek: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'pronoun',
         person: '2nd',
@@ -382,10 +328,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'and',
       englishNatural: 'and',
       root: 'kai',
-      order: {
-        greek: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         type: 'conjunction',
       },
@@ -396,10 +339,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'another',
       englishNatural: 'another',
       root: 'allos',
-      order: {
-        greek: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         type: 'adjective',
         gender: 'masculine',
@@ -450,10 +390,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'and',
       englishNatural: 'and',
       root: 'kai',
-      order: {
-        greek: 25,
-        english: 25,
-      },
+      order: 25,
       morphology: {
         type: 'conjunction',
       },
@@ -464,10 +401,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'will-carry',
       englishNatural: 'will carry',
       root: 'oiso',
-      order: {
-        greek: 26,
-        english: 26,
-      },
+      order: 26,
       morphology: {
         type: 'verb',
         tense: 'future',
@@ -483,10 +417,7 @@ export const john_21_18: Verse = {
       englishLiteral: 'where',
       englishNatural: 'where',
       root: 'hopou',
-      order: {
-        greek: 27,
-        english: 27,
-      },
+      order: 27,
       morphology: {
         type: 'adverb',
       },
@@ -541,6 +472,6 @@ export const john_21_18: Verse = {
     englishNatural:
       '"Truly, truly, I say to you, when you were younger, you girded yourself and you walked where you wanted; but when you grow old, you will stretch out those hands of yours, and another will gird you and will carry where you want not."',
     kjv: 'Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

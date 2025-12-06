@@ -15,10 +15,7 @@ export const jonah_1_8: Verse = {
       root: 'amar',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -36,10 +33,7 @@ export const jonah_1_8: Verse = {
       englishNatural: 'to him',
       root: 'el',
       suffixes: ['av'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'preposition',
       },
@@ -55,10 +49,7 @@ export const jonah_1_8: Verse = {
       englishNatural: 'Tell',
       root: 'hagidah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -78,10 +69,7 @@ export const jonah_1_8: Verse = {
       englishLiteral: 'us',
       englishNatural: 'us',
       root: 'na',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'particle',
       },
@@ -92,10 +80,7 @@ export const jonah_1_8: Verse = {
       englishLiteral: 'to-us',
       englishNatural: 'to us',
       root: 'lanu',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -110,10 +95,7 @@ export const jonah_1_8: Verse = {
       englishLiteral: 'in-which',
       englishNatural: 'in which',
       root: 'asher',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -128,10 +110,7 @@ export const jonah_1_8: Verse = {
       englishLiteral: 'for-who-',
       englishNatural: 'for who',
       root: 'lemi',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'pronoun',
       },
@@ -144,10 +123,7 @@ export const jonah_1_8: Verse = {
       root: 'ra',
       prefixes: ['ha'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -160,10 +136,7 @@ export const jonah_1_8: Verse = {
       englishLiteral: 'this',
       englishNatural: 'this',
       root: 'hazot',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -176,10 +149,7 @@ export const jonah_1_8: Verse = {
       englishLiteral: 'to-us',
       englishNatural: 'is to us',
       root: 'lanu',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -194,10 +164,7 @@ export const jonah_1_8: Verse = {
       englishLiteral: 'What-',
       englishNatural: 'What',
       root: 'mah',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'pronoun',
       },
@@ -210,10 +177,7 @@ export const jonah_1_8: Verse = {
       englishNatural: 'is your work',
       root: 'melakhah',
       suffixes: ['tekha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -231,10 +195,7 @@ export const jonah_1_8: Verse = {
       englishNatural: 'and from where',
       root: 'ayin',
       prefixes: ['u', 'me'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'adverb',
       },
@@ -245,10 +206,7 @@ export const jonah_1_8: Verse = {
       englishLiteral: 'you-come',
       englishNatural: 'come you',
       root: 'tavo',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -268,10 +226,7 @@ export const jonah_1_8: Verse = {
       englishLiteral: 'What',
       englishNatural: 'What',
       root: 'mah',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'pronoun',
       },
@@ -283,10 +238,7 @@ export const jonah_1_8: Verse = {
       englishLiteral: 'land-your',
       englishNatural: 'is your land',
       root: 'eretz',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -304,10 +256,7 @@ export const jonah_1_8: Verse = {
       englishNatural: 'and where',
       root: 'ay',
       prefixes: ['ve'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'adverb',
       },
@@ -319,10 +268,7 @@ export const jonah_1_8: Verse = {
       englishNatural: 'from this',
       root: 'zeh',
       prefixes: ['mi'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'pronoun',
       },
@@ -336,10 +282,7 @@ export const jonah_1_8: Verse = {
       englishLiteral: 'people',
       englishNatural: 'people',
       root: 'am',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -355,10 +298,7 @@ export const jonah_1_8: Verse = {
       englishLiteral: 'you',
       englishNatural: 'are you',
       root: 'atah',
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -382,6 +322,6 @@ export const jonah_1_8: Verse = {
     englishNatural:
       'And they said to him, "Tell us to us, in which, for who the bad this is to us; What is your work? and from where come you? What is your land? and where \'from this people\' are you?"',
     kjv: 'Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

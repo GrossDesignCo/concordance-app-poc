@@ -56,10 +56,7 @@ export const genesis_1_4: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
     },
     {
       hebrew: 'הָא֖וֹר',
@@ -68,10 +65,7 @@ export const genesis_1_4: Verse = {
       englishNatural: 'the light',
       root: 'or',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -88,10 +82,7 @@ export const genesis_1_4: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that it was',
       root: 'ki',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'conjunction',
       },
@@ -102,10 +93,7 @@ export const genesis_1_4: Verse = {
       englishLiteral: 'good',
       englishNatural: 'good',
       root: 'tov',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -167,10 +155,7 @@ export const genesis_1_4: Verse = {
       englishLiteral: 'between',
       englishNatural: 'between',
       root: 'beyn',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -182,10 +167,7 @@ export const genesis_1_4: Verse = {
       englishNatural: 'the light',
       root: 'or',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -204,10 +186,7 @@ export const genesis_1_4: Verse = {
       englishNatural: 'and between',
       root: 'beyn',
       prefixes: ['u'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -219,10 +198,7 @@ export const genesis_1_4: Verse = {
       englishNatural: 'the darkness',
       root: 'choshekh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -249,6 +225,6 @@ export const genesis_1_4: Verse = {
     englishNatural:
       'And God saw the light, that it was good. And God separated between the light, and between the darkness.',
     kjv: 'And God saw the light, that it was good: and God divided the light from the darkness.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

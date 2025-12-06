@@ -13,10 +13,7 @@ export const genesis_3_5: Verse = {
       englishLiteral: 'That',
       englishNatural: 'That',
       root: 'ki',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'conjunction',
       },
@@ -72,10 +69,7 @@ export const genesis_3_5: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'conjunction',
       },
@@ -87,10 +81,7 @@ export const genesis_3_5: Verse = {
       englishNatural: 'in the day',
       root: 'yom',
       prefixes: ['be'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -104,10 +95,7 @@ export const genesis_3_5: Verse = {
       englishNatural: 'of you eating',
       root: 'akhal',
       suffixes: ['chem'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -122,10 +110,7 @@ export const genesis_3_5: Verse = {
       root: 'min',
       prefixes: ['mi'],
       suffixes: ['nu'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -189,10 +174,7 @@ export const genesis_3_5: Verse = {
       root: 'hayah',
       prefixes: ['ve'],
       suffixes: ['tem'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -210,10 +192,7 @@ export const genesis_3_5: Verse = {
       root: 'eloah',
       prefixes: ['ke'],
       suffixes: ['im'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -231,10 +210,7 @@ export const genesis_3_5: Verse = {
       englishNatural: 'knowing',
       root: 'yada',
       suffixes: ['construct_y'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -251,10 +227,7 @@ export const genesis_3_5: Verse = {
       englishLiteral: 'good',
       englishNatural: 'good',
       root: 'tov',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -268,10 +241,7 @@ export const genesis_3_5: Verse = {
       englishNatural: 'and bad',
       root: 'ra',
       prefixes: ['ve'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -294,6 +264,6 @@ export const genesis_3_5: Verse = {
     englishNatural:
       'That God is knowing, that in the day of you eating from it, and your eyes will be opened; and you-all will be as God, knowing good and bad."',
     kjv: 'For God doth know that when ye eat thereof your eyes shall be opened, and ye shall be as gods, knowing good and evil.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

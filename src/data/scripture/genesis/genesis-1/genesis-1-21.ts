@@ -56,10 +56,7 @@ export const genesis_1_21: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
     },
     {
       hebrew: 'הַתַּנִּינִ֖ם',
@@ -69,10 +66,7 @@ export const genesis_1_21: Verse = {
       root: 'tannin',
       prefixes: ['ha'],
       suffixes: ['im'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -91,10 +85,7 @@ export const genesis_1_21: Verse = {
       root: 'gadol',
       prefixes: ['ha'],
       suffixes: ['im'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -112,10 +103,7 @@ export const genesis_1_21: Verse = {
       englishNatural: 'And',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       lineBreaksBefore: 1
     },
     {
@@ -124,10 +112,7 @@ export const genesis_1_21: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adjective',
       },
@@ -138,10 +123,7 @@ export const genesis_1_21: Verse = {
       englishLiteral: 'throat',
       englishNatural: 'throat',
       root: 'nephesh',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -155,10 +137,7 @@ export const genesis_1_21: Verse = {
       englishNatural: 'the living',
       root: 'chayah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -172,10 +151,7 @@ export const genesis_1_21: Verse = {
       englishNatural: 'the crawling',
       root: 'ramas',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'verb',
       },
@@ -186,10 +162,7 @@ export const genesis_1_21: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'relative',
       },
@@ -200,10 +173,7 @@ export const genesis_1_21: Verse = {
       englishLiteral: 'swarmed',
       englishNatural: 'swarmed',
       root: 'sharats',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'verb',
       },
@@ -215,10 +185,7 @@ export const genesis_1_21: Verse = {
       englishNatural: 'the waters',
       root: 'mayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -237,10 +204,7 @@ export const genesis_1_21: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['hem'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'noun',
       },
@@ -256,10 +220,7 @@ export const genesis_1_21: Verse = {
       englishNatural: 'And',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       lineBreaksBefore: 1,
     },
     {
@@ -268,10 +229,7 @@ export const genesis_1_21: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'adjective',
       },
@@ -317,10 +275,7 @@ export const genesis_1_21: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['hu'],
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'noun',
       },
@@ -384,10 +339,7 @@ export const genesis_1_21: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that it was',
       root: 'ki',
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         type: 'conjunction',
       },
@@ -398,10 +350,7 @@ export const genesis_1_21: Verse = {
       englishLiteral: 'good',
       englishNatural: 'good',
       root: 'tov',
-      order: {
-        hebrew: 23,
-        english: 23,
-      },
+      order: 23,
       morphology: {
         type: 'adjective',
       },
@@ -418,6 +367,6 @@ export const genesis_1_21: Verse = {
     englishLiteral: 'And-created Gods ↳ the-monsters, the-greats, And-↳ all throat the-living the-crawling which swarmed the-waters, to-their-kind, And-↳ all flyer wing to-its-kind, And-saw Gods, that- good.',
     englishNatural: 'And God created the monsters, the greats, And all throat the living the crawling which swarmed the waters, to their kind, And all winged flyer to its kind, And God saw, that it was good.',
     kjv: 'And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

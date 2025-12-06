@@ -14,10 +14,7 @@ export const ezekiel_1_28: Verse = {
       englishNatural: 'Like the appearance of',
       root: 'mareh',
       prefixes: ['ke'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -33,10 +30,7 @@ export const ezekiel_1_28: Verse = {
       englishNatural: 'the bow',
       root: 'qeshet',
       prefixes: ['ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -49,10 +43,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -63,10 +54,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'it-is',
       englishNatural: 'is',
       root: 'hayah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -83,10 +71,7 @@ export const ezekiel_1_28: Verse = {
       englishNatural: 'in the cloud',
       root: 'anan',
       prefixes: ['be'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -100,10 +85,7 @@ export const ezekiel_1_28: Verse = {
       englishNatural: 'in the day of',
       root: 'yom',
       prefixes: ['be'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -118,10 +100,7 @@ export const ezekiel_1_28: Verse = {
       englishNatural: 'rain',
       root: 'geshem',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -139,10 +118,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'so',
       englishNatural: 'so',
       root: 'ken',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adverb',
       },
@@ -153,10 +129,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'appearance-of',
       englishNatural: 'the appearance of',
       root: 'mareh',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -171,10 +144,7 @@ export const ezekiel_1_28: Verse = {
       englishNatural: 'the brightness',
       root: 'nogah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -187,10 +157,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'all_around',
       englishNatural: 'all-around',
       root: 'saviv',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'adverb',
       },
@@ -206,10 +173,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'he',
       englishNatural: 'that',
       root: 'hu',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'pronoun',
       },
@@ -220,10 +184,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'appearance-of',
       englishNatural: 'the appearance of',
       root: 'mareh',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -237,10 +198,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'likeness-of',
       englishNatural: 'the likeness of',
       root: 'demut',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -254,10 +212,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'glory-of-',
       englishNatural: 'the glory of',
       root: 'kavod',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -271,10 +226,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'noun',
       },
@@ -291,10 +243,7 @@ export const ezekiel_1_28: Verse = {
       englishNatural: 'And I saw',
       root: 'raah',
       prefixes: ['va'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -311,10 +260,7 @@ export const ezekiel_1_28: Verse = {
       englishNatural: 'and I fell',
       root: 'naphal',
       prefixes: ['va'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -330,10 +276,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'preposition',
       },
@@ -345,10 +288,7 @@ export const ezekiel_1_28: Verse = {
       englishNatural: 'my face',
       root: 'panah',
       suffixes: ['ai'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -367,10 +307,7 @@ export const ezekiel_1_28: Verse = {
       englishNatural: 'and I heard',
       root: 'shama',
       prefixes: ['va'],
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -386,10 +323,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'voice',
       englishNatural: 'a voice',
       root: 'qol',
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -402,10 +336,7 @@ export const ezekiel_1_28: Verse = {
       englishLiteral: 'speaking',
       englishNatural: 'speaking',
       root: 'dabar',
-      order: {
-        hebrew: 23,
-        english: 23,
-      },
+      order: 23,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -430,6 +361,6 @@ export const ezekiel_1_28: Verse = {
     englishNatural:
       'Like the appearance of the bow which is in the cloud in the day of rain, so the appearance of the brightness all-around; that the appearance of the likeness of the glory of He-Who-Is (YHWH). And I saw and I fell over my face, and I heard a voice speaking.',
     kjv: 'As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spake.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

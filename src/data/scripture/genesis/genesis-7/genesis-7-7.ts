@@ -67,10 +67,7 @@ export const genesis_7_7: Verse = {
       root: 'ben',
       prefixes: ['u'],
       suffixes: ['av'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -85,10 +82,7 @@ export const genesis_7_7: Verse = {
       root: 'ishah',
       prefixes: ['ve'],
       suffixes: ['o'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -102,10 +96,7 @@ export const genesis_7_7: Verse = {
       englishNatural: 'and the women of',
       root: 'ishah',
       prefixes: ['u'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -120,10 +111,7 @@ export const genesis_7_7: Verse = {
       englishNatural: 'his sons',
       root: 'ben',
       suffixes: ['av'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -137,10 +125,7 @@ export const genesis_7_7: Verse = {
       englishNatural: 'with him',
       root: 'et_with',
       suffixes: ['o'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -156,10 +141,7 @@ export const genesis_7_7: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -171,10 +153,7 @@ export const genesis_7_7: Verse = {
       englishNatural: 'the ark',
       root: 'tevah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -193,10 +172,7 @@ export const genesis_7_7: Verse = {
       englishNatural: 'from the face of',
       root: 'panah',
       prefixes: ['mi'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -210,10 +186,7 @@ export const genesis_7_7: Verse = {
       englishLiteral: 'waters-of',
       englishNatural: 'the waters of',
       root: 'mayim',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -228,10 +201,7 @@ export const genesis_7_7: Verse = {
       englishNatural: 'the flood',
       root: 'mabbul',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -254,6 +224,6 @@ export const genesis_7_7: Verse = {
     englishNatural:
       'And Rest (Noah) came, and his sons and his woman and the women of his sons with him, to the ark, from the face of the waters of the flood.',
     kjv: "And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

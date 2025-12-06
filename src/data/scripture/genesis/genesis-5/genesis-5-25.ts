@@ -55,10 +55,7 @@ export const genesis_5_25: Verse = {
       englishLiteral: 'seven',
       englishNatural: 'seven',
       root: 'sheva',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -72,10 +69,7 @@ export const genesis_5_25: Verse = {
       englishNatural: 'and eighty',
       root: 'shmonim',
       prefixes: ['u'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'numeral',
         gender: 'masculine',
@@ -88,10 +82,7 @@ export const genesis_5_25: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -105,10 +96,7 @@ export const genesis_5_25: Verse = {
       englishNatural: 'and a hundred',
       root: 'meah',
       prefixes: ['u'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -122,10 +110,7 @@ export const genesis_5_25: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -143,10 +128,7 @@ export const genesis_5_25: Verse = {
       englishNatural: 'and birthed',
       root: 'yalad',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -163,10 +145,7 @@ export const genesis_5_25: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
     },
     {
       hebrew: 'לָמֶךְ',
@@ -174,10 +153,7 @@ export const genesis_5_25: Verse = {
       englishLiteral: 'Powerful (Lamech)',
       englishNatural: 'Powerful (Lamech)',
       root: 'Lemekh',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -200,6 +176,6 @@ export const genesis_5_25: Verse = {
     englishNatural:
       'And Man-of-the-Dart (Methuselah) lived seven and eighty years and a hundred years, and birthed Powerful (Lamech).',
     kjv: 'And Methuselah lived an hundred eighty and seven years, and begat Lamech.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

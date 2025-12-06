@@ -14,10 +14,7 @@ export const genesis_2_12: Verse = {
       englishNatural: 'And the gold',
       root: 'zahav',
       prefixes: ['u'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -66,10 +63,7 @@ export const genesis_2_12: Verse = {
       englishLiteral: 'good',
       englishNatural: 'good',
       root: 'tov',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'adjective',
       },
@@ -84,10 +78,7 @@ export const genesis_2_12: Verse = {
       englishLiteral: 'there',
       englishNatural: 'there is',
       root: 'sham',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'adverb',
       },
@@ -99,10 +90,7 @@ export const genesis_2_12: Verse = {
       englishNatural: 'the bedolach',
       root: 'bedolach',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -118,10 +106,7 @@ export const genesis_2_12: Verse = {
       englishNatural: 'and the stone',
       root: 'even',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
       },
@@ -133,10 +118,7 @@ export const genesis_2_12: Verse = {
       englishNatural: 'of onyx',
       root: 'shoham',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -154,6 +136,6 @@ export const genesis_2_12: Verse = {
     englishNatural:
       'And the gold of that land, good; there is the bedolach, and the stone of onyx.',
     kjv: 'And the gold of that land is good: there is bdellium and the onyx stone.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -57,10 +57,7 @@ export const genesis_1_10: Verse = {
       englishNatural: 'to the dry-ground',
       root: 'yabashah',
       prefixes: ['la'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -76,10 +73,7 @@ export const genesis_1_10: Verse = {
       englishLiteral: 'Land',
       englishNatural: 'Land',
       root: 'eretz',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -105,10 +99,7 @@ export const genesis_1_10: Verse = {
       englishNatural: 'and to the gathering of',
       root: 'qavah',
       prefixes: ['u', 'le', 'mi'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -123,10 +114,7 @@ export const genesis_1_10: Verse = {
       englishNatural: 'the waters',
       root: 'mayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -142,10 +130,7 @@ export const genesis_1_10: Verse = {
       englishLiteral: 'called_out',
       englishNatural: 'he called-out',
       root: 'qara',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -165,10 +150,7 @@ export const genesis_1_10: Verse = {
       englishNatural: 'Seas',
       root: 'yam',
       suffixes: ['im'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -236,10 +218,7 @@ export const genesis_1_10: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that it was',
       root: 'ki',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'conjunction',
       },
@@ -250,10 +229,7 @@ export const genesis_1_10: Verse = {
       englishLiteral: 'good',
       englishNatural: 'good',
       root: 'tov',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'adjective',
       },
@@ -270,6 +246,6 @@ export const genesis_1_10: Verse = {
     englishLiteral: 'And-called_out Gods to_the-dry_ground, "Land," and-to-gathering, the-waters, called_out, "Seas." And-saw Gods, that- good.',
     englishNatural: 'And God called-out to the dry-ground "Land," and to the gathering of the waters he called-out "Seas." And God saw, that it was good.',
     kjv: 'And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

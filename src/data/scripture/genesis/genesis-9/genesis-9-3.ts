@@ -13,10 +13,7 @@ export const genesis_9_3: Verse = {
       englishLiteral: 'All-',
       englishNatural: 'All',
       root: 'kol',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -28,10 +25,7 @@ export const genesis_9_3: Verse = {
       englishLiteral: 'creeper',
       englishNatural: 'creeper',
       root: 'ramas',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -44,10 +38,7 @@ export const genesis_9_3: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'relative',
       },
@@ -58,10 +49,7 @@ export const genesis_9_3: Verse = {
       englishLiteral: 'it-',
       englishNatural: 'it',
       root: 'hu',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -75,10 +63,7 @@ export const genesis_9_3: Verse = {
       englishLiteral: 'living',
       englishNatural: 'is living',
       root: 'chayah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -96,10 +81,7 @@ export const genesis_9_3: Verse = {
       englishNatural: 'to you',
       root: 'lamed',
       suffixes: ['khem'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -113,10 +95,7 @@ export const genesis_9_3: Verse = {
       englishLiteral: 'will-be',
       englishNatural: 'will be',
       root: 'hayah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -133,10 +112,7 @@ export const genesis_9_3: Verse = {
       englishNatural: 'for food',
       root: 'akhal',
       prefixes: ['le'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -155,10 +131,7 @@ export const genesis_9_3: Verse = {
       englishNatural: 'like the green of',
       root: 'yerek',
       prefixes: ['ke'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -172,10 +145,7 @@ export const genesis_9_3: Verse = {
       englishLiteral: 'herb',
       englishNatural: 'herb',
       root: 'esev',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -193,10 +163,7 @@ export const genesis_9_3: Verse = {
       englishNatural: 'I have given',
       root: 'natan',
       suffixes: ['ti'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -275,6 +242,6 @@ export const genesis_9_3: Verse = {
     englishNatural:
       'All creeper which it is living, to you will be for food; like the green of herb, I have given all to you.',
     kjv: 'Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

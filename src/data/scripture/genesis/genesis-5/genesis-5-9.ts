@@ -55,10 +55,7 @@ export const genesis_5_9: Verse = {
       englishLiteral: 'ninety',
       englishNatural: 'ninety',
       root: 'tishim',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'numeral',
         gender: 'masculine',
@@ -71,10 +68,7 @@ export const genesis_5_9: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -93,10 +87,7 @@ export const genesis_5_9: Verse = {
       englishNatural: 'and birthed',
       root: 'yalad',
       prefixes: ['va'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -112,10 +103,7 @@ export const genesis_5_9: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'particle',
       },
@@ -126,10 +114,7 @@ export const genesis_5_9: Verse = {
       englishLiteral: 'Nest (Cainan)',
       englishNatural: 'Nest (Cainan)',
       root: 'qeynan',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -150,6 +135,6 @@ export const genesis_5_9: Verse = {
     englishNatural:
       'And Mortal-Man (Enosh) lived ninety years, and birthed Nest (Cainan).',
     kjv: 'And Enos lived ninety years, and begat Cainan:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

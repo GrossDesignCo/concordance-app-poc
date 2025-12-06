@@ -97,10 +97,7 @@ export const genesis_2_2: Verse = {
       englishNatural: 'his work',
       root: 'melakhah',
       suffixes: ['o'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -113,10 +110,7 @@ export const genesis_2_2: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'relative',
       },
@@ -127,10 +121,7 @@ export const genesis_2_2: Verse = {
       englishLiteral: 'made',
       englishNatural: 'he made',
       root: 'asah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -152,10 +143,7 @@ export const genesis_2_2: Verse = {
       englishNatural: 'and sabbathed',
       root: 'shavat',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -213,10 +201,7 @@ export const genesis_2_2: Verse = {
       englishNatural: 'from all',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'adjective',
       },
@@ -228,10 +213,7 @@ export const genesis_2_2: Verse = {
       englishNatural: 'his work',
       root: 'melakhah',
       suffixes: ['o'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -244,10 +226,7 @@ export const genesis_2_2: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'relative',
       },
@@ -258,10 +237,7 @@ export const genesis_2_2: Verse = {
       englishLiteral: 'made',
       englishNatural: 'he made',
       root: 'asah',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -287,6 +263,6 @@ export const genesis_2_2: Verse = {
     englishNatural:
       'And God finished in the seventh day, his work which he made; and sabbathed in the seventh day, from all his work which he made.',
     kjv: 'And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

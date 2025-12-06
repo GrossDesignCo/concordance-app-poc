@@ -48,10 +48,7 @@ export const genesis_5_30: Verse = {
       englishLiteral: 'after',
       englishNatural: 'after',
       root: 'achar',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -64,10 +61,7 @@ export const genesis_5_30: Verse = {
       root: 'yalad',
       prefixes: ['ho'],
       suffixes: ['o'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -82,10 +76,7 @@ export const genesis_5_30: Verse = {
       transliteration: 'et-',
       englishLiteral: '↳',
       root: 'et',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
     },
     {
       hebrew: 'נֹחַ',
@@ -93,10 +84,7 @@ export const genesis_5_30: Verse = {
       englishLiteral: 'Rest (Noah)',
       englishNatural: 'Rest (Noah)',
       root: 'nuach',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
         state: 'absolute',
@@ -112,10 +100,7 @@ export const genesis_5_30: Verse = {
       englishLiteral: 'five',
       englishNatural: 'five',
       root: 'chamesh',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'numeral',
       },
@@ -127,10 +112,7 @@ export const genesis_5_30: Verse = {
       englishNatural: 'and ninety',
       root: 'tishim',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'numeral',
       },
@@ -141,10 +123,7 @@ export const genesis_5_30: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -159,10 +138,7 @@ export const genesis_5_30: Verse = {
       englishNatural: 'and eight',
       root: 'shmoneh',
       prefixes: ['u'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'numeral',
       },
@@ -173,10 +149,7 @@ export const genesis_5_30: Verse = {
       englishLiteral: 'hundreds',
       englishNatural: 'hundred',
       root: 'meah',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'numeral',
         number: 'plural',
@@ -188,10 +161,7 @@ export const genesis_5_30: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -211,10 +181,7 @@ export const genesis_5_30: Verse = {
       englishNatural: 'and birthed',
       root: 'yalad',
       prefixes: ['va'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -230,10 +197,7 @@ export const genesis_5_30: Verse = {
       englishLiteral: 'sons',
       englishNatural: 'sons',
       root: 'ben',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -248,10 +212,7 @@ export const genesis_5_30: Verse = {
       englishNatural: 'and daughters',
       root: 'bat',
       prefixes: ['u'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -275,6 +236,6 @@ export const genesis_5_30: Verse = {
     englishNatural:
       'And Powerful (Lamech) lived after he birthed Rest (Noah), five and ninety years and eight hundred years, and birthed sons and daughters.',
     kjv: 'And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

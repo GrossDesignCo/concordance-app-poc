@@ -77,10 +77,7 @@ export const ezekiel_2_2: Verse = {
       englishNatural: 'as which',
       root: 'asher',
       prefixes: ['ke'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'particle',
       },
@@ -91,10 +88,7 @@ export const ezekiel_2_2: Verse = {
       englishLiteral: 'he-spoke',
       englishNatural: 'He spoke',
       root: 'dabar',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -111,10 +105,7 @@ export const ezekiel_2_2: Verse = {
       englishNatural: 'to me',
       root: 'el',
       suffixes: ['ai'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -132,10 +123,7 @@ export const ezekiel_2_2: Verse = {
       root: 'amad',
       prefixes: ['va'],
       suffixes: ['ni'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -151,10 +139,7 @@ export const ezekiel_2_2: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -166,10 +151,7 @@ export const ezekiel_2_2: Verse = {
       englishNatural: 'my feet',
       root: 'regel',
       suffixes: ['ai'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -188,10 +170,7 @@ export const ezekiel_2_2: Verse = {
       englishNatural: 'and I heard',
       root: 'shama',
       prefixes: ['va'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -207,10 +186,7 @@ export const ezekiel_2_2: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'particle',
       },
@@ -222,10 +198,7 @@ export const ezekiel_2_2: Verse = {
       englishNatural: 'him speaking',
       root: 'dabar',
       prefixes: ['mi'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -241,10 +214,7 @@ export const ezekiel_2_2: Verse = {
       englishNatural: 'to me',
       root: 'el',
       suffixes: ['ai'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -265,6 +235,6 @@ export const ezekiel_2_2: Verse = {
     englishNatural:
       'And wind came in me as which He spoke to me, and stood me over my feet, and I heard him speaking to me.',
     kjv: 'And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

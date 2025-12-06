@@ -14,10 +14,7 @@ export const ezekiel_1_13: Verse = {
       englishNatural: 'And the likeness of',
       root: 'demut',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -33,10 +30,7 @@ export const ezekiel_1_13: Verse = {
       englishNatural: 'the living-beings',
       root: 'chayah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -54,10 +48,7 @@ export const ezekiel_1_13: Verse = {
       englishNatural: 'their appearance',
       root: 'mareh',
       suffixes: ['hem'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -72,10 +63,7 @@ export const ezekiel_1_13: Verse = {
       englishNatural: 'like coals of',
       root: 'gachal',
       prefixes: ['ke'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -136,10 +124,7 @@ export const ezekiel_1_13: Verse = {
       englishNatural: 'like the appearance of',
       root: 'mareh',
       prefixes: ['ke'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -154,10 +139,7 @@ export const ezekiel_1_13: Verse = {
       englishNatural: 'The Torches',
       root: 'lappid',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -170,10 +152,7 @@ export const ezekiel_1_13: Verse = {
       englishLiteral: 'she',
       englishNatural: 'she',
       root: 'hi',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -187,10 +166,7 @@ export const ezekiel_1_13: Verse = {
       englishLiteral: 'going',
       englishNatural: 'was going',
       root: 'halakh',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -205,10 +181,7 @@ export const ezekiel_1_13: Verse = {
       englishLiteral: 'between',
       englishNatural: 'between',
       root: 'beyn',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -220,10 +193,7 @@ export const ezekiel_1_13: Verse = {
       englishNatural: 'the living-beings',
       root: 'chayah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -242,10 +212,7 @@ export const ezekiel_1_13: Verse = {
       englishNatural: 'and brightness',
       root: 'nogah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -259,10 +226,7 @@ export const ezekiel_1_13: Verse = {
       englishNatural: 'to the fire',
       root: 'esh',
       prefixes: ['la'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -281,10 +245,7 @@ export const ezekiel_1_13: Verse = {
       englishNatural: 'and from',
       root: 'min',
       prefixes: ['ve'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'preposition',
       },
@@ -296,10 +257,7 @@ export const ezekiel_1_13: Verse = {
       englishNatural: 'the fire',
       root: 'esh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -312,10 +270,7 @@ export const ezekiel_1_13: Verse = {
       englishLiteral: 'brought_out',
       englishNatural: 'brought-out',
       root: 'yatsa',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -330,10 +285,7 @@ export const ezekiel_1_13: Verse = {
       englishLiteral: 'lightning',
       englishNatural: 'lightning',
       root: 'baraq',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -356,6 +308,6 @@ export const ezekiel_1_13: Verse = {
     englishNatural:
       'And the likeness of the living-beings, their appearance like coals of burning fire, like the appearance of The Torches she was going between the living-beings; and brightness to the fire, and from the fire brought-out lightning.',
     kjv: 'As for the likeness of the living creatures, their appearance was like burning coals of fire, and like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

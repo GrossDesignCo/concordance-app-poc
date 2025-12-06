@@ -13,10 +13,7 @@ export const isaiah_14_29: Verse = {
       englishLiteral: 'Do-not',
       englishNatural: 'Do not',
       root: 'al',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'particle',
       },
@@ -29,10 +26,7 @@ export const isaiah_14_29: Verse = {
       root: 'samach',
       prefixes: ['ti'],
       suffixes: ['i'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -48,10 +42,7 @@ export const isaiah_14_29: Verse = {
       englishLiteral: 'Wallowers (Philistia)',
       englishNatural: 'Wallowers (Philistia)',
       root: 'Peleshet',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -65,10 +56,7 @@ export const isaiah_14_29: Verse = {
       englishNatural: 'all of you',
       root: 'kol',
       suffixes: ['ekh'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -82,10 +70,7 @@ export const isaiah_14_29: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'conjunction',
       },
@@ -97,10 +82,7 @@ export const isaiah_14_29: Verse = {
       englishNatural: 'is broken',
       root: 'shavar',
       prefixes: ['ni'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -116,10 +98,7 @@ export const isaiah_14_29: Verse = {
       englishLiteral: 'rod',
       englishNatural: 'the rod',
       root: 'shevet',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -134,10 +113,7 @@ export const isaiah_14_29: Verse = {
       englishNatural: 'of him who strikes-down you',
       root: 'nakah',
       suffixes: ['ekh'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -151,10 +127,7 @@ export const isaiah_14_29: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'conjunction',
       },
@@ -166,10 +139,7 @@ export const isaiah_14_29: Verse = {
       englishNatural: 'from the root',
       root: 'shoresh',
       prefixes: ['mi'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -180,10 +150,7 @@ export const isaiah_14_29: Verse = {
       englishLiteral: 'snake',
       englishNatural: 'of a snake',
       root: 'nachash',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -198,10 +165,7 @@ export const isaiah_14_29: Verse = {
       englishNatural: 'shall come forth',
       root: 'yatsa',
       prefixes: ['ye'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -217,10 +181,7 @@ export const isaiah_14_29: Verse = {
       englishLiteral: 'viper',
       englishNatural: 'a viper',
       root: 'tsefa',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -235,10 +196,7 @@ export const isaiah_14_29: Verse = {
       root: 'peri',
       prefixes: ['u'],
       suffixes: ['o'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -252,10 +210,7 @@ export const isaiah_14_29: Verse = {
       englishLiteral: 'burning_one',
       englishNatural: 'a burning-one',
       root: 'saraph',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -269,10 +224,7 @@ export const isaiah_14_29: Verse = {
       englishNatural: 'flying',
       root: 'uf',
       prefixes: ['me'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -294,6 +246,6 @@ export const isaiah_14_29: Verse = {
     englishNatural:
       'Do not rejoice Wallowers (Philistia) all of you that is broken the rod of him who strikes-down you that from the root of a snake shall come forth a viper and its fruit a burning-one flying',
     kjv: "Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent's root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

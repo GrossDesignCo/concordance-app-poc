@@ -13,10 +13,7 @@ export const psalms_1_6: Verse = {
       englishLiteral: 'That',
       englishNatural: 'That',
       root: 'ki',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'conjunction',
       },
@@ -60,10 +57,7 @@ export const psalms_1_6: Verse = {
       englishLiteral: 'way-of',
       englishNatural: 'the way of',
       root: 'derekh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -77,10 +71,7 @@ export const psalms_1_6: Verse = {
       englishNatural: 'the righteous',
       root: 'tzadiq',
       suffixes: ['im'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -98,10 +89,7 @@ export const psalms_1_6: Verse = {
       englishNatural: 'and the way of',
       root: 'derekh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -116,10 +104,7 @@ export const psalms_1_6: Verse = {
       englishNatural: 'the wicked',
       root: 'rasha',
       suffixes: ['im'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -133,10 +118,7 @@ export const psalms_1_6: Verse = {
       englishNatural: 'will perish',
       root: 'abad',
       prefixes: ['to'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -159,6 +141,6 @@ export const psalms_1_6: Verse = {
     englishNatural:
       'That He-Who-Is (YHWH) knows the way of the righteous, and the way of the wicked will perish.',
     kjv: 'For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -57,10 +57,7 @@ export const genesis_4_23: Verse = {
       root: 'ishah',
       prefixes: ['le'],
       suffixes: ['av'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -78,10 +75,7 @@ export const genesis_4_23: Verse = {
       englishLiteral: 'Ornament (Adah)',
       englishNatural: 'Ornament (Adah)',
       root: 'Adah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -99,10 +93,7 @@ export const genesis_4_23: Verse = {
       englishNatural: 'and Shadow (Zillah)',
       root: 'Tzillah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -119,10 +110,7 @@ export const genesis_4_23: Verse = {
       englishLiteral: 'hear',
       englishNatural: 'hear',
       root: 'shama',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         person: '2nd',
@@ -139,10 +127,7 @@ export const genesis_4_23: Verse = {
       englishNatural: 'my voice',
       root: 'qol',
       suffixes: ['i'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -160,10 +145,7 @@ export const genesis_4_23: Verse = {
       englishLiteral: 'women-of',
       englishNatural: 'women of',
       root: 'ishah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -177,10 +159,7 @@ export const genesis_4_23: Verse = {
       englishLiteral: 'Powerful (Lamech)',
       englishNatural: 'Powerful (Lamech)',
       root: 'Lemekh',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -197,10 +176,7 @@ export const genesis_4_23: Verse = {
       englishLiteral: 'attend',
       englishNatural: 'attend',
       root: 'azan',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'verb',
         person: '2nd',
@@ -217,10 +193,7 @@ export const genesis_4_23: Verse = {
       englishNatural: 'my speech',
       root: 'imrah',
       suffixes: ['i'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -238,10 +211,7 @@ export const genesis_4_23: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'particle',
       },
@@ -288,10 +258,7 @@ export const genesis_4_23: Verse = {
       root: 'petza',
       prefixes: ['le'],
       suffixes: ['i'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -310,10 +277,7 @@ export const genesis_4_23: Verse = {
       englishNatural: 'and newborn',
       root: 'yeled',
       prefixes: ['ve'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -328,10 +292,7 @@ export const genesis_4_23: Verse = {
       root: 'chaburah',
       prefixes: ['le'],
       suffixes: ['i'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -354,6 +315,6 @@ export const genesis_4_23: Verse = {
     englishNatural:
       'And Powerful (Lamech) said to his women, "Ornament (Adah) and Shadow (Zillah), hear my voice; women of Powerful (Lamech), attend my speech; that I have killed man to my wound, and newborn to my stripe.',
     kjv: 'And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken to my speech: for I have slain a man to my wounding, and a young man to my hurt.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-08-16' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

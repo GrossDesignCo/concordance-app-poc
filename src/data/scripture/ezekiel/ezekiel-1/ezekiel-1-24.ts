@@ -14,10 +14,7 @@ export const ezekiel_1_24: Verse = {
       englishNatural: 'And I heard',
       root: 'shama',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -34,10 +31,7 @@ export const ezekiel_1_24: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'particle',
       },
@@ -48,10 +42,7 @@ export const ezekiel_1_24: Verse = {
       englishLiteral: 'voice-of',
       englishNatural: 'the voice of',
       root: 'qol',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -66,10 +57,7 @@ export const ezekiel_1_24: Verse = {
       englishNatural: 'their wings',
       root: 'kenaf',
       suffixes: ['hem'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -88,10 +76,7 @@ export const ezekiel_1_24: Verse = {
       englishNatural: 'like the voice of',
       root: 'qol',
       prefixes: ['ke'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -150,10 +135,7 @@ export const ezekiel_1_24: Verse = {
       englishNatural: 'like the voice of',
       root: 'qol',
       prefixes: ['ke'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -167,10 +149,7 @@ export const ezekiel_1_24: Verse = {
       englishLiteral: 'All_Powerful (Shaddai)',
       englishNatural: 'All-Powerful (Shaddai)',
       root: 'shaddai',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -188,10 +167,7 @@ export const ezekiel_1_24: Verse = {
       root: 'halakh',
       prefixes: ['be'],
       suffixes: ['tan'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
@@ -203,10 +179,7 @@ export const ezekiel_1_24: Verse = {
       englishLiteral: 'voice-of',
       englishNatural: 'the voice of',
       root: 'qol',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -220,10 +193,7 @@ export const ezekiel_1_24: Verse = {
       englishLiteral: 'tumult',
       englishNatural: 'tumult',
       root: 'hamulah',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -241,10 +211,7 @@ export const ezekiel_1_24: Verse = {
       englishNatural: 'like the voice of',
       root: 'qol',
       prefixes: ['ke'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -258,10 +225,7 @@ export const ezekiel_1_24: Verse = {
       englishLiteral: 'camp',
       englishNatural: 'a camp',
       root: 'machaneh',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -281,10 +245,7 @@ export const ezekiel_1_24: Verse = {
       root: 'amad',
       prefixes: ['be'],
       suffixes: ['am'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
@@ -296,10 +257,7 @@ export const ezekiel_1_24: Verse = {
       englishLiteral: 'they-sank',
       englishNatural: 'they sank',
       root: 'raphah',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -316,10 +274,7 @@ export const ezekiel_1_24: Verse = {
       englishNatural: 'their wings',
       root: 'kenaf',
       suffixes: ['hen'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -342,6 +297,6 @@ export const ezekiel_1_24: Verse = {
     englishNatural:
       'And I heard the voice of their wings, like the voice of many waters, like the voice of All-Powerful (Shaddai), in their going the voice of tumult, like the voice of a camp; in their standing they sank their wings.',
     kjv: 'And when they went, I heard the noise of their wings, like the noise of great waters, as the voice of the Almighty, the voice of speech, as the noise of an host: when they stood, they let down their wings.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

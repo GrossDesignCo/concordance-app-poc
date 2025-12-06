@@ -56,10 +56,7 @@ export const genesis_5_18: Verse = {
       englishLiteral: 'two',
       englishNatural: 'two',
       root: 'shnayim',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -73,10 +70,7 @@ export const genesis_5_18: Verse = {
       englishNatural: 'and sixty',
       root: 'shishim',
       prefixes: ['ve'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'numeral',
         gender: 'masculine',
@@ -89,10 +83,7 @@ export const genesis_5_18: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -106,10 +97,7 @@ export const genesis_5_18: Verse = {
       englishNatural: 'and a hundred',
       root: 'meah',
       prefixes: ['u', 'me'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -123,10 +111,7 @@ export const genesis_5_18: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -145,10 +130,7 @@ export const genesis_5_18: Verse = {
       englishNatural: 'and birthed',
       root: 'yalad',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -164,10 +146,7 @@ export const genesis_5_18: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'particle',
       },
@@ -178,10 +157,7 @@ export const genesis_5_18: Verse = {
       englishLiteral: 'Dedicated (Enoch)',
       englishNatural: 'Dedicated (Enoch)',
       root: 'Chanokh',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -204,6 +180,6 @@ export const genesis_5_18: Verse = {
     englishNatural:
       'And Descending (Jared) lived two and sixty years and a hundred years, and birthed Dedicated (Enoch).',
     kjv: 'And Jared lived an hundred sixty and two years, and begat Enoch:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

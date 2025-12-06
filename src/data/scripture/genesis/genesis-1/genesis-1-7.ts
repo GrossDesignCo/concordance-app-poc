@@ -56,10 +56,7 @@ export const genesis_1_7: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
     },
     {
       hebrew: 'הָרָקִ֖יעַ',
@@ -68,10 +65,7 @@ export const genesis_1_7: Verse = {
       englishNatural: 'the hammering-out',
       root: 'raqia',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -89,10 +83,7 @@ export const genesis_1_7: Verse = {
       englishNatural: 'and separated',
       root: 'badal',
       prefixes: ['va'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -113,10 +104,7 @@ export const genesis_1_7: Verse = {
       englishLiteral: 'between',
       englishNatural: 'between',
       root: 'beyn',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -128,10 +116,7 @@ export const genesis_1_7: Verse = {
       englishNatural: 'the waters',
       root: 'mayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -144,10 +129,7 @@ export const genesis_1_7: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'relative',
       },
@@ -159,10 +141,7 @@ export const genesis_1_7: Verse = {
       englishNatural: 'were under',
       root: 'tachat',
       prefixes: ['mi'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -174,10 +153,7 @@ export const genesis_1_7: Verse = {
       englishNatural: 'the hammering-out',
       root: 'raqia',
       prefixes: ['la'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -195,10 +171,7 @@ export const genesis_1_7: Verse = {
       englishNatural: 'and between',
       root: 'beyn',
       prefixes: ['u'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -210,10 +183,7 @@ export const genesis_1_7: Verse = {
       englishNatural: 'the waters',
       root: 'mayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -226,10 +196,7 @@ export const genesis_1_7: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'relative',
       },
@@ -241,10 +208,7 @@ export const genesis_1_7: Verse = {
       englishNatural: 'were over',
       root: 'al',
       prefixes: ['me'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'preposition',
       },
@@ -256,10 +220,7 @@ export const genesis_1_7: Verse = {
       englishNatural: 'the hammering-out',
       root: 'raqia',
       prefixes: ['la'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -277,10 +238,7 @@ export const genesis_1_7: Verse = {
       englishNatural: 'And it was',
       root: 'hayah',
       prefixes: ['va'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -297,10 +255,7 @@ export const genesis_1_7: Verse = {
       englishLiteral: 'so',
       englishNatural: 'so',
       root: 'ken',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'adverb',
       },
@@ -317,6 +272,6 @@ export const genesis_1_7: Verse = {
     englishLiteral: 'And-made Gods ↳ the-hammering_out, and-separated, between the-waters which from-under to_the-hammering_out, and-between the-waters which from-over to_the-hammering_out. And-was- so.',
     englishNatural: 'And God made the hammering-out, and separated between the waters which were under the hammering-out, and between the waters which were over the hammering-out. And it was so.',
     kjv: 'And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-07' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

@@ -15,10 +15,7 @@ export const jonah_2_3: Verse = {
       root: 'shalach',
       prefixes: ['va', 'ta'],
       suffixes: ['ni'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -35,10 +32,7 @@ export const jonah_2_3: Verse = {
       englishLiteral: 'deep',
       englishNatural: 'into the deep',
       root: 'metzulah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -56,10 +50,7 @@ export const jonah_2_3: Verse = {
       englishNatural: 'in the heart of',
       root: 'levav',
       prefixes: ['bi'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -74,10 +65,7 @@ export const jonah_2_3: Verse = {
       englishNatural: 'the seas',
       root: 'yam',
       suffixes: ['im'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -95,10 +83,7 @@ export const jonah_2_3: Verse = {
       englishNatural: 'and the river',
       root: 'nahar',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -113,10 +98,7 @@ export const jonah_2_3: Verse = {
       englishNatural: 'goes-around me',
       root: 'savav',
       suffixes: ['ni'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -136,10 +118,7 @@ export const jonah_2_3: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adjective',
       },
@@ -152,10 +131,7 @@ export const jonah_2_3: Verse = {
       englishNatural: 'your breakers',
       root: 'mishbar',
       suffixes: ['ekha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -170,10 +146,7 @@ export const jonah_2_3: Verse = {
       root: 'gal',
       prefixes: ['ve'],
       suffixes: ['ekha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -191,10 +164,7 @@ export const jonah_2_3: Verse = {
       englishNatural: 'over me',
       root: 'al',
       suffixes: ['ay'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -206,10 +176,7 @@ export const jonah_2_3: Verse = {
       englishNatural: 'have passed',
       root: 'avar',
       suffixes: ['u'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -235,6 +202,6 @@ export const jonah_2_3: Verse = {
     englishNatural:
       'And you sent me into the deep, in the heart of the seas; and the river goes-around me; all your breakers and your waves, over me have passed.',
     kjv: 'For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

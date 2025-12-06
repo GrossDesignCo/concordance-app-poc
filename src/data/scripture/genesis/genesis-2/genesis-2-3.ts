@@ -56,10 +56,7 @@ export const genesis_2_3: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
     },
     {
       hebrew: 'יוֹם',
@@ -107,10 +104,7 @@ export const genesis_2_3: Verse = {
       englishNatural: 'and sanctified',
       root: 'qadash',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -127,10 +121,7 @@ export const genesis_2_3: Verse = {
       englishNatural: 'it',
       root: 'et',
       suffixes: ['o'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'pronoun',
       },
@@ -145,10 +136,7 @@ export const genesis_2_3: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'conjunction',
       },
@@ -161,10 +149,7 @@ export const genesis_2_3: Verse = {
       englishNatural: 'in it',
       root: 'be',
       suffixes: ['o'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -175,10 +160,7 @@ export const genesis_2_3: Verse = {
       englishLiteral: 'sabbathed',
       englishNatural: 'he sabbathed',
       root: 'shavat',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -195,10 +177,7 @@ export const genesis_2_3: Verse = {
       englishNatural: 'from all',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'adjective',
       },
@@ -210,10 +189,7 @@ export const genesis_2_3: Verse = {
       englishNatural: 'his work',
       root: 'melakhah',
       suffixes: ['o'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -230,10 +206,7 @@ export const genesis_2_3: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'relative',
       },
@@ -284,10 +257,7 @@ export const genesis_2_3: Verse = {
       englishNatural: 'made',
       root: 'asah',
       prefixes: ['la'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -310,6 +280,6 @@ export const genesis_2_3: Verse = {
     englishNatural:
       'And God blessed the seventh day, and sanctified it; that in it he sabbathed from all his work, which God created, made.',
     kjv: 'And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -14,10 +14,7 @@ export const genesis_7_6: Verse = {
       englishNatural: 'And Rest (Noah)',
       root: 'noach',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -33,10 +30,7 @@ export const genesis_7_6: Verse = {
       englishLiteral: 'son-of-',
       englishNatural: 'a son of',
       root: 'ben',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const genesis_7_6: Verse = {
       englishLiteral: 'six',
       englishNatural: 'six',
       root: 'shesh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'numeral',
       },
@@ -64,10 +55,7 @@ export const genesis_7_6: Verse = {
       englishLiteral: 'hundreds',
       englishNatural: 'hundred',
       root: 'meah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -80,10 +68,7 @@ export const genesis_7_6: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -102,10 +87,7 @@ export const genesis_7_6: Verse = {
       englishNatural: 'and the flood',
       root: 'mabbul',
       prefixes: ['ve', 'ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -118,10 +100,7 @@ export const genesis_7_6: Verse = {
       englishLiteral: 'it-was',
       englishNatural: 'was',
       root: 'hayah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -137,10 +116,7 @@ export const genesis_7_6: Verse = {
       englishLiteral: 'waters',
       englishNatural: 'waters',
       root: 'mayim',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -153,10 +129,7 @@ export const genesis_7_6: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -168,10 +141,7 @@ export const genesis_7_6: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -194,6 +164,6 @@ export const genesis_7_6: Verse = {
     englishNatural:
       'And Rest (Noah), a son of six hundred years, and the flood was waters over the land.',
     kjv: 'And Noah was six hundred years old when the flood of waters was upon the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -13,10 +13,7 @@ export const john_21_15: Verse = {
       englishLiteral: 'When',
       englishNatural: 'When',
       root: 'ote',
-      order: {
-        greek: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'conjunction',
       },
@@ -27,10 +24,7 @@ export const john_21_15: Verse = {
       englishLiteral: 'therefore',
       englishNatural: 'therefore',
       root: 'oun',
-      order: {
-        greek: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'conjunction',
       },
@@ -41,10 +35,7 @@ export const john_21_15: Verse = {
       englishLiteral: 'they-meal_shared',
       englishNatural: 'they had meal-shared',
       root: 'aristao',
-      order: {
-        greek: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'verb',
         tense: 'aorist',
@@ -594,6 +585,6 @@ export const john_21_15: Verse = {
     englishNatural:
       'When therefore they had meal-shared, The Savior (Jesus) says to the Hearer (Simon) Stone (Peter), "Hearer (Simon) He—is-Gracious (John), do you god-love me more than these?" He says to him, "Yes, Lord, you know that I brother-love you." He says to him, "Feed these lambs of mine."',
     kjv: 'So when they had dined, Jesus says to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-15' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

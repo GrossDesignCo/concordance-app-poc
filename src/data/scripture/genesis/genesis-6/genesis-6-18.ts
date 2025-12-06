@@ -15,10 +15,7 @@ export const genesis_6_18: Verse = {
       root: 'qum',
       prefixes: ['va', 'ha'],
       suffixes: ['ti'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -35,10 +32,7 @@ export const genesis_6_18: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'particle',
       },
@@ -50,10 +44,7 @@ export const genesis_6_18: Verse = {
       englishNatural: 'my covenant',
       root: 'berit',
       suffixes: ['i'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -67,10 +58,7 @@ export const genesis_6_18: Verse = {
       englishNatural: 'with you',
       root: 'et_with',
       suffixes: ['kha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -88,10 +76,7 @@ export const genesis_6_18: Verse = {
       root: 'bo',
       prefixes: ['u'],
       suffixes: ['ta'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -107,10 +92,7 @@ export const genesis_6_18: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -122,10 +104,7 @@ export const genesis_6_18: Verse = {
       englishNatural: 'the ark',
       root: 'tevah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -143,10 +122,7 @@ export const genesis_6_18: Verse = {
       englishLiteral: 'you',
       englishNatural: 'you',
       root: 'atah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -162,10 +138,7 @@ export const genesis_6_18: Verse = {
       root: 'ben',
       prefixes: ['u'],
       suffixes: ['kha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -180,10 +153,7 @@ export const genesis_6_18: Verse = {
       root: 'ishah',
       prefixes: ['ve'],
       suffixes: ['kha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -197,10 +167,7 @@ export const genesis_6_18: Verse = {
       englishNatural: 'and the women of',
       root: 'ishah',
       prefixes: ['u'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -215,10 +182,7 @@ export const genesis_6_18: Verse = {
       englishNatural: 'your sons',
       root: 'ben',
       suffixes: ['kha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -232,10 +196,7 @@ export const genesis_6_18: Verse = {
       englishNatural: 'with you',
       root: 'et_with',
       suffixes: ['kha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -256,6 +217,6 @@ export const genesis_6_18: Verse = {
     englishNatural:
       'And I will stand-up my covenant with you; and you shall come to the ark, you and your sons and your woman and the women of your sons with you.',
     kjv: "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons' wives with thee.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

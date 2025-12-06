@@ -14,10 +14,7 @@ export const genesis_3_19: Verse = {
       englishNatural: 'In sweat of',
       root: 'zea',
       prefixes: ['be'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -32,10 +29,7 @@ export const genesis_3_19: Verse = {
       englishNatural: 'your face',
       root: 'panah',
       suffixes: ['ekha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -53,10 +47,7 @@ export const genesis_3_19: Verse = {
       englishNatural: 'you will eat',
       root: 'akhal',
       prefixes: ['te'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -71,10 +62,7 @@ export const genesis_3_19: Verse = {
       englishLiteral: 'bread',
       englishNatural: 'bread',
       root: 'lechem',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -91,10 +79,7 @@ export const genesis_3_19: Verse = {
       englishLiteral: 'until',
       englishNatural: 'until',
       root: 'ad',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -107,10 +92,7 @@ export const genesis_3_19: Verse = {
       englishNatural: 'your return',
       root: 'shuv',
       suffixes: ['kha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -123,10 +105,7 @@ export const genesis_3_19: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -138,10 +117,7 @@ export const genesis_3_19: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -158,10 +134,7 @@ export const genesis_3_19: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'conjunction',
       },
@@ -174,10 +147,7 @@ export const genesis_3_19: Verse = {
       englishNatural: 'from it',
       root: 'mi',
       suffixes: ['enah'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -189,10 +159,7 @@ export const genesis_3_19: Verse = {
       englishNatural: 'you were taken',
       root: 'laqach',
       suffixes: ['ta'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -212,10 +179,7 @@ export const genesis_3_19: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'conjunction',
       },
@@ -227,10 +191,7 @@ export const genesis_3_19: Verse = {
       englishLiteral: 'dust',
       englishNatural: 'dust are',
       root: 'afar',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -243,10 +204,7 @@ export const genesis_3_19: Verse = {
       englishLiteral: 'you',
       englishNatural: 'you',
       root: 'atah',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -265,10 +223,7 @@ export const genesis_3_19: Verse = {
       englishNatural: 'and to',
       root: 'el',
       prefixes: ['ve'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'preposition',
       },
@@ -280,10 +235,7 @@ export const genesis_3_19: Verse = {
       englishLiteral: 'dust',
       englishNatural: 'dust',
       root: 'afar',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -297,10 +249,7 @@ export const genesis_3_19: Verse = {
       englishNatural: 'you will return',
       root: 'shuv',
       prefixes: ['ta'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -325,6 +274,6 @@ export const genesis_3_19: Verse = {
     englishNatural:
       'In sweat of your face, you will eat bread, until your return to the earth; that from it you were taken, that dust are you, and to dust you will return."',
     kjv: 'In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

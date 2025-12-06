@@ -14,10 +14,7 @@ export const genesis_6_19: Verse = {
       englishNatural: 'And from all',
       root: 'kol',
       prefixes: ['u', 'mi'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -30,10 +27,7 @@ export const genesis_6_19: Verse = {
       englishNatural: 'the living',
       root: 'chai',
       prefixes: ['ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -51,10 +45,7 @@ export const genesis_6_19: Verse = {
       englishNatural: 'from all',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
       },
@@ -65,10 +56,7 @@ export const genesis_6_19: Verse = {
       englishLiteral: 'flesh',
       englishNatural: 'flesh',
       root: 'basar',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -86,10 +74,7 @@ export const genesis_6_19: Verse = {
       englishLiteral: 'two',
       englishNatural: 'two',
       root: 'shnayim',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'dual',
@@ -103,10 +88,7 @@ export const genesis_6_19: Verse = {
       englishNatural: 'from all',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -117,10 +99,7 @@ export const genesis_6_19: Verse = {
       englishLiteral: 'you-shall-bring',
       englishNatural: 'you shall bring',
       root: 'bo',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -136,10 +115,7 @@ export const genesis_6_19: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -151,10 +127,7 @@ export const genesis_6_19: Verse = {
       englishNatural: 'the ark',
       root: 'tevah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -173,10 +146,7 @@ export const genesis_6_19: Verse = {
       englishNatural: 'to keep-alive',
       root: 'chayah',
       prefixes: ['le', 'ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'hiphil',
@@ -190,10 +160,7 @@ export const genesis_6_19: Verse = {
       englishNatural: 'with you',
       root: 'et_with',
       suffixes: ['kha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -209,10 +176,7 @@ export const genesis_6_19: Verse = {
       englishLiteral: 'male',
       englishNatural: 'male',
       root: 'zakhar',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -226,10 +190,7 @@ export const genesis_6_19: Verse = {
       englishNatural: 'and female',
       root: 'neqevah',
       prefixes: ['u'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -242,10 +203,7 @@ export const genesis_6_19: Verse = {
       englishLiteral: 'they-will-be',
       englishNatural: 'they will be',
       root: 'hayah',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -271,6 +229,6 @@ export const genesis_6_19: Verse = {
     englishNatural:
       'And from all the living, from all flesh, two from all you shall bring to the ark, to keep-alive with you; male and female they will be.',
     kjv: 'And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

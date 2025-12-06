@@ -63,10 +63,7 @@ export const genesis_3_3: Verse = {
       englishNatural: 'From the fruit of',
       root: 'pri',
       prefixes: ['mi'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -85,10 +82,7 @@ export const genesis_3_3: Verse = {
       englishNatural: 'the tree',
       root: 'etz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -101,10 +95,7 @@ export const genesis_3_3: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'relative'
       },
@@ -116,10 +107,7 @@ export const genesis_3_3: Verse = {
       englishNatural: 'is in the midst of',
       root: 'tokh',
       prefixes: ['be'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -134,10 +122,7 @@ export const genesis_3_3: Verse = {
       englishNatural: 'the garden',
       root: 'gan',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -314,10 +299,7 @@ export const genesis_3_3: Verse = {
       englishLiteral: 'lest',
       englishNatural: 'lest',
       root: 'pen',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'conjunction'
       },
@@ -329,10 +311,7 @@ export const genesis_3_3: Verse = {
       englishNatural: 'you should die',
       root: 'mut',
       suffixes: ['un'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -354,6 +333,6 @@ export const genesis_3_3: Verse = {
     englishLiteral: 'And-said the-woman, "\'From-fruit-of the-tree which in-midst-of the-garden,\' said Gods, \'Not you-shall-eat from-it, and-not you-shall-touch in-it, lest you-shall-die\'."',
     englishNatural: 'And the woman said, "\'From the fruit of the tree which is in the midst of the garden,\' God said, \'You shall eat from it not, and you shall touch it not, lest you should die\'."',
     kjv: 'But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

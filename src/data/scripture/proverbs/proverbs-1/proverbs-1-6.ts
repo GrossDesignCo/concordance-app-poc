@@ -14,10 +14,7 @@ export const proverbs_1_6: Verse = {
       englishNatural: 'To understand',
       root: 'bin',
       prefixes: ['le'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'hiphil',
@@ -30,10 +27,7 @@ export const proverbs_1_6: Verse = {
       englishLiteral: 'rule',
       englishNatural: 'a rule',
       root: 'mashal',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -47,10 +41,7 @@ export const proverbs_1_6: Verse = {
       englishNatural: 'and the interpretation',
       root: 'melitzah',
       prefixes: ['u'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -68,10 +59,7 @@ export const proverbs_1_6: Verse = {
       englishNatural: 'words of',
       root: 'davar',
       suffixes: ['i'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -85,10 +73,7 @@ export const proverbs_1_6: Verse = {
       englishLiteral: 'wise-men',
       englishNatural: 'wise men',
       root: 'chakam',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -103,10 +88,7 @@ export const proverbs_1_6: Verse = {
       root: 'chidah',
       prefixes: ['ve'],
       suffixes: ['am'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -125,6 +107,6 @@ export const proverbs_1_6: Verse = {
     englishLiteral: 'To-understand rule and-interpretation; words-of wise-men and-sharp_sayings-their.',
     englishNatural: 'To understand a rule and the interpretation; words of wise men and their sharp-sayings.',
     kjv: 'To understand a proverb, and the interpretation; the words of the wise, and their dark sayings',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

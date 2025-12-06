@@ -14,10 +14,7 @@ export const jonah_2_6: Verse = {
       englishNatural: 'I went down',
       root: 'yarad',
       suffixes: ['ti'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -36,10 +33,7 @@ export const jonah_2_6: Verse = {
       root: 'qatzav',
       prefixes: ['le'],
       suffixes: ['ei'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -54,10 +48,7 @@ export const jonah_2_6: Verse = {
       englishNatural: 'the mountains',
       root: 'har',
       suffixes: ['im'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -75,10 +66,7 @@ export const jonah_2_6: Verse = {
       englishNatural: 'the earth',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -98,10 +86,7 @@ export const jonah_2_6: Verse = {
       root: 'bariach',
       prefixes: ['be'],
       suffixes: ['eha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -116,10 +101,7 @@ export const jonah_2_6: Verse = {
       root: 'baad',
       prefixes: ['ba'],
       suffixes: ['i'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -131,10 +113,7 @@ export const jonah_2_6: Verse = {
       englishNatural: 'to the-age',
       root: 'olam',
       prefixes: ['le'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -152,10 +131,7 @@ export const jonah_2_6: Verse = {
       englishNatural: 'and you brought-up',
       root: 'alah',
       prefixes: ['va', 'ta'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -173,10 +149,7 @@ export const jonah_2_6: Verse = {
       englishNatural: 'from corruption',
       root: 'shachat',
       prefixes: ['mi'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -190,10 +163,7 @@ export const jonah_2_6: Verse = {
       englishNatural: 'my life',
       root: 'chayah',
       suffixes: ['ai'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -210,10 +180,7 @@ export const jonah_2_6: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'hayah',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
       },
@@ -225,10 +192,7 @@ export const jonah_2_6: Verse = {
       englishNatural: 'my God',
       root: 'eloah',
       suffixes: ['ai'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -251,6 +215,6 @@ export const jonah_2_6: Verse = {
     englishNatural:
       'I went down to the cutoffs of the mountains; the earth, her bars around me to the-age; and you brought-up from corruption my life, He-Who-Is (YHWH) my God.',
     kjv: 'I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -14,10 +14,7 @@ export const jonah_2_7: Verse = {
       englishNatural: 'In fainting',
       root: 'ataf',
       prefixes: ['be', 'hit'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         stem: 'hithpael',
         tense: 'infinitive_construct',
@@ -32,10 +29,7 @@ export const jonah_2_7: Verse = {
       englishNatural: 'over me',
       root: 'al',
       suffixes: ['ay'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'preposition',
       },
@@ -47,10 +41,7 @@ export const jonah_2_7: Verse = {
       englishNatural: 'my throat',
       root: 'nephesh',
       suffixes: ['i'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -67,10 +58,7 @@ export const jonah_2_7: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'particle',
       },
@@ -82,10 +70,7 @@ export const jonah_2_7: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'hayah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -97,10 +82,7 @@ export const jonah_2_7: Verse = {
       englishNatural: 'I remembered',
       root: 'zakhar',
       suffixes: ['ti'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -121,10 +103,7 @@ export const jonah_2_7: Verse = {
       englishNatural: 'and came',
       root: 'bo',
       prefixes: ['va', 'ta'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -142,10 +121,7 @@ export const jonah_2_7: Verse = {
       englishNatural: 'to you',
       root: 'el',
       suffixes: ['ekha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -157,10 +133,7 @@ export const jonah_2_7: Verse = {
       englishNatural: 'my prayer',
       root: 'tefilah',
       suffixes: ['i'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -177,10 +150,7 @@ export const jonah_2_7: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -192,10 +162,7 @@ export const jonah_2_7: Verse = {
       englishLiteral: 'temple-of',
       englishNatural: 'the temple of',
       root: 'hekhal',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -210,10 +177,7 @@ export const jonah_2_7: Verse = {
       englishNatural: 'your holiness',
       root: 'qodesh',
       suffixes: ['ekha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -236,6 +200,6 @@ export const jonah_2_7: Verse = {
     englishNatural:
       'In fainting over me my throat, He-Who-Is (YHWH) I remembered; and came to you my prayer, to the temple of your holiness.',
     kjv: 'When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thy holy temple.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

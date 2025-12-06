@@ -13,10 +13,7 @@ export const genesis_10_11: Verse = {
       englishLiteral: 'from-',
       englishNatural: 'from',
       root: 'min',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'preposition',
       },
@@ -63,10 +60,7 @@ export const genesis_10_11: Verse = {
       englishLiteral: 'went-forth',
       englishNatural: 'went forth',
       root: 'yatsa',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -82,10 +76,7 @@ export const genesis_10_11: Verse = {
       englishLiteral: 'Steppe (Assyria)',
       englishNatural: 'Steppe (Assyria)',
       root: 'ashur',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -103,10 +94,7 @@ export const genesis_10_11: Verse = {
       englishNatural: 'and he built',
       root: 'banah',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -123,10 +111,7 @@ export const genesis_10_11: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'particle',
       },
@@ -137,10 +122,7 @@ export const genesis_10_11: Verse = {
       englishLiteral: 'Dwelling_of_Fish (Nineveh)',
       englishNatural: 'Dwelling-of-Fish (Nineveh)',
       root: 'nineveh',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -155,10 +137,7 @@ export const genesis_10_11: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'particle',
       },
@@ -169,10 +148,7 @@ export const genesis_10_11: Verse = {
       englishLiteral: 'Open_Places (Rehoboth)',
       englishNatural: 'Open-Places (Rehoboth)',
       root: 'rechoboth',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -185,10 +161,7 @@ export const genesis_10_11: Verse = {
       englishLiteral: 'city',
       englishNatural: 'City',
       root: 'ir',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -202,10 +175,7 @@ export const genesis_10_11: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'particle',
       },
@@ -216,10 +186,7 @@ export const genesis_10_11: Verse = {
       englishLiteral: 'Vigor (Calah)',
       englishNatural: 'Vigor (Calah)',
       root: 'kalach',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',

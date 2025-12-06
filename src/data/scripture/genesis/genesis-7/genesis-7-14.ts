@@ -13,10 +13,7 @@ export const genesis_7_14: Verse = {
       englishLiteral: 'they',
       englishNatural: 'they',
       root: 'hem',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'pronoun',
       },
@@ -33,10 +30,7 @@ export const genesis_7_14: Verse = {
       englishNatural: 'and all',
       root: 'kol',
       prefixes: ['ve'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
       },
@@ -48,10 +42,7 @@ export const genesis_7_14: Verse = {
       englishNatural: 'the living-being',
       root: 'chayah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -66,10 +57,7 @@ export const genesis_7_14: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -88,10 +76,7 @@ export const genesis_7_14: Verse = {
       englishNatural: 'and all',
       root: 'kol',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -103,10 +88,7 @@ export const genesis_7_14: Verse = {
       englishNatural: 'the beast',
       root: 'behemah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -121,10 +103,7 @@ export const genesis_7_14: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -143,10 +122,7 @@ export const genesis_7_14: Verse = {
       englishNatural: 'and all',
       root: 'kol',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -158,10 +134,7 @@ export const genesis_7_14: Verse = {
       englishNatural: 'the creeping-thing',
       root: 'remes',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -175,10 +148,7 @@ export const genesis_7_14: Verse = {
       englishNatural: 'the creeping',
       root: 'ramas',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -193,10 +163,7 @@ export const genesis_7_14: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -208,10 +175,7 @@ export const genesis_7_14: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -226,10 +190,7 @@ export const genesis_7_14: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['hu'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -248,10 +209,7 @@ export const genesis_7_14: Verse = {
       englishNatural: 'and all',
       root: 'kol',
       prefixes: ['ve'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'noun',
       },
@@ -263,10 +221,7 @@ export const genesis_7_14: Verse = {
       englishNatural: 'the flier',
       root: 'oph',
       prefixes: ['ha'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -281,10 +236,7 @@ export const genesis_7_14: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['hu'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -302,10 +254,7 @@ export const genesis_7_14: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'noun',
       },
@@ -316,10 +265,7 @@ export const genesis_7_14: Verse = {
       englishLiteral: 'sparrow',
       englishNatural: 'sparrow',
       root: 'tzippor',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -336,10 +282,7 @@ export const genesis_7_14: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'noun',
       },
@@ -350,10 +293,7 @@ export const genesis_7_14: Verse = {
       englishLiteral: 'wing',
       englishNatural: 'wing',
       root: 'kanaph',
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -376,6 +316,6 @@ export const genesis_7_14: Verse = {
     englishNatural:
       'they, and all the living-being to its kind, and all the beast to its kind, and all the creeping-thing the creeping over the land to its kind, and all the flier to its kind, all sparrow, all wing.',
     kjv: 'They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

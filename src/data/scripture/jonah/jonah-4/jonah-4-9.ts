@@ -56,10 +56,7 @@ export const jonah_4_9: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -70,10 +67,7 @@ export const jonah_4_9: Verse = {
       englishLiteral: 'Dove (Jonah)',
       englishNatural: 'Dove (Jonah)',
       root: 'yonah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -89,10 +83,7 @@ export const jonah_4_9: Verse = {
       englishNatural: 'Is the doing-well',
       root: 'yatav',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         tense: 'infinitive_absolute',
         stem: 'hiphil',
@@ -109,10 +100,7 @@ export const jonah_4_9: Verse = {
       englishLiteral: 'fuming_angrily',
       englishNatural: 'fuming-angrily',
       root: 'charah',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -128,10 +116,7 @@ export const jonah_4_9: Verse = {
       englishLiteral: 'to-you',
       englishNatural: 'to you',
       root: 'lakhem',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -146,10 +131,7 @@ export const jonah_4_9: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -161,10 +143,7 @@ export const jonah_4_9: Verse = {
       englishNatural: 'the luscious-plant',
       root: 'qiqayon',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -182,10 +161,7 @@ export const jonah_4_9: Verse = {
       englishNatural: 'And he said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -206,10 +182,7 @@ export const jonah_4_9: Verse = {
       englishLiteral: 'doing_well',
       englishNatural: 'Doing-well is',
       root: 'yatav',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         tense: 'infinitive_absolute',
         stem: 'hiphil',
@@ -226,10 +199,7 @@ export const jonah_4_9: Verse = {
       englishLiteral: 'fuming_angrily-',
       englishNatural: 'fuming-angrily',
       root: 'charah',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -245,10 +215,7 @@ export const jonah_4_9: Verse = {
       englishLiteral: 'to-me',
       englishNatural: 'to me',
       root: 'li',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -263,10 +230,7 @@ export const jonah_4_9: Verse = {
       englishLiteral: 'until-',
       englishNatural: 'until',
       root: 'ad',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'preposition',
       },
@@ -277,10 +241,7 @@ export const jonah_4_9: Verse = {
       englishLiteral: 'death',
       englishNatural: 'death',
       root: 'mavet',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -303,6 +264,6 @@ export const jonah_4_9: Verse = {
     englishNatural:
       'And God said to Dove (Jonah), "Is the doing-well fuming-angrily to you, over the luscious-plant?" And he said, "Doing-well is fuming-angrily to me, until death."',
     kjv: 'And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -55,10 +55,7 @@ export const genesis_5_15: Verse = {
       englishLiteral: 'five',
       englishNatural: 'five',
       root: 'chamesh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -72,10 +69,7 @@ export const genesis_5_15: Verse = {
       englishNatural: 'and sixty',
       root: 'shishim',
       prefixes: ['ve'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'numeral',
         gender: 'masculine',
@@ -88,10 +82,7 @@ export const genesis_5_15: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -110,10 +101,7 @@ export const genesis_5_15: Verse = {
       englishNatural: 'and birthed',
       root: 'yalad',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -129,10 +117,7 @@ export const genesis_5_15: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'particle',
       },
@@ -143,10 +128,7 @@ export const genesis_5_15: Verse = {
       englishLiteral: 'Descending (Jared)',
       englishNatural: 'Descending (Jared)',
       root: 'yared',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -168,6 +150,6 @@ export const genesis_5_15: Verse = {
     englishNatural:
       'And Praise-of-God (Mahalaleel) lived five and sixty years, and birthed Descending (Jared).',
     kjv: 'And Mahalaleel lived sixty and five years, and begat Jared:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

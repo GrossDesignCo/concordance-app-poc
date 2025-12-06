@@ -14,10 +14,7 @@ export const ezekiel_1_6: Verse = {
       englishNatural: 'And four',
       root: 'arba',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'numeral',
       },
@@ -29,10 +26,7 @@ export const ezekiel_1_6: Verse = {
       englishLiteral: 'faces',
       englishNatural: 'faces',
       root: 'panah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -46,10 +40,7 @@ export const ezekiel_1_6: Verse = {
       englishNatural: 'to one',
       root: 'echad',
       prefixes: ['le'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -68,10 +59,7 @@ export const ezekiel_1_6: Verse = {
       englishNatural: 'and four',
       root: 'arba',
       prefixes: ['ve'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'numeral',
       },
@@ -82,10 +70,7 @@ export const ezekiel_1_6: Verse = {
       englishLiteral: 'wings',
       englishNatural: 'wings',
       root: 'kenaf',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -99,10 +84,7 @@ export const ezekiel_1_6: Verse = {
       englishNatural: 'to one',
       root: 'echad',
       prefixes: ['le'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -119,10 +101,7 @@ export const ezekiel_1_6: Verse = {
       englishNatural: 'to them',
       root: 'lamed',
       suffixes: ['hem'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -142,6 +121,6 @@ export const ezekiel_1_6: Verse = {
     englishLiteral: 'And-four faces to-one, and-four wings to-one to-them.',
     englishNatural: 'And four faces to one, and four wings to one, to them.',
     kjv: 'And every one had four faces, and every one had four wings.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

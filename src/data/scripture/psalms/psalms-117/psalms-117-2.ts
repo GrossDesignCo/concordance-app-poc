@@ -13,10 +13,7 @@ export const psalms_117_2: Verse = {
       englishLiteral: 'That',
       englishNatural: 'That',
       root: 'ki',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'conjunction',
       },
@@ -28,10 +25,7 @@ export const psalms_117_2: Verse = {
       englishLiteral: 'is-great',
       englishNatural: 'great',
       root: 'gadol',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -48,10 +42,7 @@ export const psalms_117_2: Verse = {
       englishNatural: 'toward us',
       root: 'al',
       suffixes: ['nu'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -70,10 +61,7 @@ export const psalms_117_2: Verse = {
       englishNatural: 'his steadfast-love',
       root: 'chesed',
       suffixes: ['o'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -93,10 +81,7 @@ export const psalms_117_2: Verse = {
       englishNatural: 'and truth of',
       root: 'emet',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -109,10 +94,7 @@ export const psalms_117_2: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -124,10 +106,7 @@ export const psalms_117_2: Verse = {
       englishNatural: 'to the-age',
       root: 'olam',
       prefixes: ['le'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -146,10 +125,7 @@ export const psalms_117_2: Verse = {
       root: 'palal',
       prefixes: ['ha'],
       suffixes: ['u'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -165,10 +141,7 @@ export const psalms_117_2: Verse = {
       englishLiteral: 'He—',
       englishNatural: 'He—',
       root: 'yhwh',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -186,6 +159,6 @@ export const psalms_117_2: Verse = {
     englishNatural:
       'That great toward us, his steadfast-love; and truth of He-Who-Is (YHWH) to the-age, Praise He—.',
     kjv: 'For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

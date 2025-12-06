@@ -14,10 +14,7 @@ export const genesis_2_6: Verse = {
       englishNatural: 'And a mist',
       root: 'ed',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -29,10 +26,7 @@ export const genesis_2_6: Verse = {
       englishLiteral: 'will-go_up',
       englishNatural: 'went up',
       root: 'alah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -48,10 +42,7 @@ export const genesis_2_6: Verse = {
       englishLiteral: 'from-',
       englishNatural: 'from',
       root: 'min',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -63,10 +54,7 @@ export const genesis_2_6: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -84,10 +72,7 @@ export const genesis_2_6: Verse = {
       englishNatural: 'and gave drink to',
       root: 'shaqah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -103,10 +88,7 @@ export const genesis_2_6: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
     },
     {
       hebrew: 'כָּל־',
@@ -114,10 +96,7 @@ export const genesis_2_6: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adjective',
       },
@@ -128,10 +107,7 @@ export const genesis_2_6: Verse = {
       englishLiteral: 'face-of',
       englishNatural: 'the face of',
       root: 'panah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -143,10 +119,7 @@ export const genesis_2_6: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -167,6 +140,6 @@ export const genesis_2_6: Verse = {
     englishNatural:
       'And a mist went up from the land, and gave drink to all the face of the earth.',
     kjv: 'But there went up a mist from the earth, and watered the whole face of the ground.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

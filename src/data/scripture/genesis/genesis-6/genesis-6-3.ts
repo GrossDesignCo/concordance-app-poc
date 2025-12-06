@@ -76,10 +76,7 @@ export const genesis_6_3: Verse = {
       englishLiteral: 'will-judge',
       englishNatural: 'will judge',
       root: 'din',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -117,10 +114,7 @@ export const genesis_6_3: Verse = {
       englishNatural: 'in the Earth (Adam)',
       root: 'adam',
       prefixes: ['ba'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -134,10 +128,7 @@ export const genesis_6_3: Verse = {
       englishNatural: 'to the-age',
       root: 'olam',
       prefixes: ['le'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -156,10 +147,7 @@ export const genesis_6_3: Verse = {
       englishNatural: 'in moreover',
       root: 'shagam',
       prefixes: ['be'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adverb',
       },
@@ -170,10 +158,7 @@ export const genesis_6_3: Verse = {
       englishLiteral: 'he',
       englishNatural: 'he',
       root: 'hu',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -187,10 +172,7 @@ export const genesis_6_3: Verse = {
       englishLiteral: 'flesh',
       englishNatural: 'is flesh',
       root: 'basar',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -246,10 +228,7 @@ export const genesis_6_3: Verse = {
       englishLiteral: 'hundred',
       englishNatural: 'a hundred',
       root: 'meah',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'numeral',
       },
@@ -261,10 +240,7 @@ export const genesis_6_3: Verse = {
       englishNatural: 'and twenty',
       root: 'esrim',
       prefixes: ['ve'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'numeral',
       },
@@ -275,10 +251,7 @@ export const genesis_6_3: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -301,6 +274,6 @@ export const genesis_6_3: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) said, "My Wind will judge not in the Earth (Adam) to the-age, in moreover he is flesh; and his days will be a hundred and twenty years."',
     kjv: 'And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

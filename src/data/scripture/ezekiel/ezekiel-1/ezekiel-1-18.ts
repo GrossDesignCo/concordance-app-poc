@@ -15,10 +15,7 @@ export const ezekiel_1_18: Verse = {
       root: 'gav',
       prefixes: ['ve'],
       suffixes: ['hen'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -33,10 +30,7 @@ export const ezekiel_1_18: Verse = {
       englishNatural: 'and height',
       root: 'govah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const ezekiel_1_18: Verse = {
       englishNatural: 'to them',
       root: 'la',
       suffixes: ['hem'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -70,10 +61,7 @@ export const ezekiel_1_18: Verse = {
       englishNatural: 'and fear',
       root: 'yirah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -87,10 +75,7 @@ export const ezekiel_1_18: Verse = {
       englishNatural: 'to them',
       root: 'la',
       suffixes: ['hem'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -108,10 +93,7 @@ export const ezekiel_1_18: Verse = {
       root: 'gav',
       prefixes: ['ve'],
       suffixes: ['tam'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -124,10 +106,7 @@ export const ezekiel_1_18: Verse = {
       englishLiteral: 'full-of',
       englishNatural: 'full of',
       root: 'male',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -142,10 +121,7 @@ export const ezekiel_1_18: Verse = {
       englishLiteral: 'eyes',
       englishNatural: 'eyes',
       root: 'ayin_eye',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -158,10 +134,7 @@ export const ezekiel_1_18: Verse = {
       englishLiteral: 'all_around',
       englishNatural: 'all-around',
       root: 'saviv',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'adverb',
       },
@@ -174,10 +147,7 @@ export const ezekiel_1_18: Verse = {
       root: 'arba',
       prefixes: ['le'],
       suffixes: ['tan'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -200,6 +170,6 @@ export const ezekiel_1_18: Verse = {
     englishNatural:
       'And their rims and height to them, and fear to them, and their rims full of eyes all-around to four of them.',
     kjv: 'As for their rings, they were so high that they were dreadful; and their rings were full of eyes round about them four.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

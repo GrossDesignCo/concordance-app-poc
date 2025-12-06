@@ -86,10 +86,7 @@ export const genesis_2_21: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -101,10 +98,7 @@ export const genesis_2_21: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -122,10 +116,7 @@ export const genesis_2_21: Verse = {
       englishNatural: 'and he slept',
       root: 'yashen',
       prefixes: ['va'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -146,10 +137,7 @@ export const genesis_2_21: Verse = {
       englishNatural: 'and he took',
       root: 'lakach',
       prefixes: ['va'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -165,10 +153,7 @@ export const genesis_2_21: Verse = {
       englishLiteral: 'one',
       englishNatural: 'one',
       root: 'echad',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -183,10 +168,7 @@ export const genesis_2_21: Verse = {
       root: 'tzela',
       prefixes: ['mi'],
       suffixes: ['av'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -204,10 +186,7 @@ export const genesis_2_21: Verse = {
       englishNatural: 'and closed up',
       root: 'sagar',
       prefixes: ['va'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -223,10 +202,7 @@ export const genesis_2_21: Verse = {
       englishLiteral: 'flesh',
       englishNatural: 'flesh',
       root: 'basar',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -239,10 +215,7 @@ export const genesis_2_21: Verse = {
       englishLiteral: 'under-it',
       englishNatural: 'under it',
       root: 'tachat',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -263,6 +236,6 @@ export const genesis_2_21: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God caused a deep-trance to fall over the Earth (Adam), and he slept; and he took one from his sides, and closed up flesh under it.',
     kjv: 'And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

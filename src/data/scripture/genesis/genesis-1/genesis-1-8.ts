@@ -57,10 +57,7 @@ export const genesis_1_8: Verse = {
       englishNatural: 'to the hammering-out',
       root: 'raqia',
       prefixes: ['la'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -77,10 +74,7 @@ export const genesis_1_8: Verse = {
       englishLiteral: 'Skies',
       englishNatural: 'Skies',
       root: 'shamayim',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -250,6 +244,6 @@ export const genesis_1_8: Verse = {
     englishLiteral: 'And-called_out Gods to_the-hammering_out, "Skies." And-was evening, And-was morning, Day second.',
     englishNatural: 'And God called-out to the hammering-out, "Skies." And evening was, And morning was, A second day.',
     kjv: 'And God called the firmament Heaven. And the evening and the morning were the second day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

@@ -14,10 +14,7 @@ export const genesis_7_11: Verse = {
       englishNatural: 'In the year of',
       root: 'shanah',
       prefixes: ['be'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -32,10 +29,7 @@ export const genesis_7_11: Verse = {
       englishLiteral: 'six-',
       englishNatural: 'six',
       root: 'shesh',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'numeral',
       },
@@ -46,10 +40,7 @@ export const genesis_7_11: Verse = {
       englishLiteral: 'hundreds',
       englishNatural: 'hundred',
       root: 'meah',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -62,10 +53,7 @@ export const genesis_7_11: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -79,10 +67,7 @@ export const genesis_7_11: Verse = {
       englishNatural: 'to the life of',
       root: 'chayah',
       prefixes: ['le'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -96,10 +81,7 @@ export const genesis_7_11: Verse = {
       englishLiteral: 'Rest (Noah)',
       englishNatural: 'Rest (Noah)',
       root: 'noach',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -116,10 +98,7 @@ export const genesis_7_11: Verse = {
       englishNatural: 'in the month',
       root: 'chodesh',
       prefixes: ['be', 'ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -133,10 +112,7 @@ export const genesis_7_11: Verse = {
       englishNatural: 'the second',
       root: 'sheni',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -155,10 +131,7 @@ export const genesis_7_11: Verse = {
       englishNatural: 'in seven',
       root: 'sheva',
       prefixes: ['be'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -171,10 +144,7 @@ export const genesis_7_11: Verse = {
       englishLiteral: 'ten',
       englishNatural: 'ten',
       root: 'asar',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'numeral',
       },
@@ -185,10 +155,7 @@ export const genesis_7_11: Verse = {
       englishLiteral: 'day',
       englishNatural: 'days',
       root: 'yom',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -202,10 +169,7 @@ export const genesis_7_11: Verse = {
       englishNatural: 'to the month',
       root: 'chodesh',
       prefixes: ['la'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -260,10 +224,7 @@ export const genesis_7_11: Verse = {
       englishLiteral: 'they-were-broken_open',
       englishNatural: 'were broken-open',
       root: 'baqa',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -279,10 +240,7 @@ export const genesis_7_11: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'noun',
       },
@@ -293,10 +251,7 @@ export const genesis_7_11: Verse = {
       englishLiteral: 'fountains-of',
       englishNatural: 'the fountains of',
       root: 'mayan',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -355,10 +310,7 @@ export const genesis_7_11: Verse = {
       englishNatural: 'and the windows of',
       root: 'arubbah',
       prefixes: ['va'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -373,10 +325,7 @@ export const genesis_7_11: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         gender: 'masculine',
         number: 'dual',
@@ -389,10 +338,7 @@ export const genesis_7_11: Verse = {
       englishLiteral: 'they-were-opened',
       englishNatural: 'were opened',
       root: 'patach',
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -418,6 +364,6 @@ export const genesis_7_11: Verse = {
     englishNatural:
       'In the year of six hundred years to the life of Rest (Noah), in the month the second, in seven ten days to the month, in this day were broken-open all the fountains of the great abyss, and the windows of the skies were opened.',
     kjv: "In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

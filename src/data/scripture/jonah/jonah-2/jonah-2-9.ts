@@ -14,10 +14,7 @@ export const jonah_2_9: Verse = {
       englishNatural: 'And I',
       root: 'ani',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         person: '1st',
         number: 'singular',
@@ -32,10 +29,7 @@ export const jonah_2_9: Verse = {
       englishNatural: 'with a voice of',
       root: 'qol',
       prefixes: ['be'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -49,10 +43,7 @@ export const jonah_2_9: Verse = {
       englishLiteral: 'thanksgiving',
       englishNatural: 'thanksgiving',
       root: 'todah',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -69,10 +60,7 @@ export const jonah_2_9: Verse = {
       englishLiteral: 'I-will-sacrifice-',
       englishNatural: 'I will sacrifice',
       root: 'zavach',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -89,10 +77,7 @@ export const jonah_2_9: Verse = {
       englishNatural: 'to you',
       root: 'la',
       suffixes: ['kha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -107,10 +92,7 @@ export const jonah_2_9: Verse = {
       englishLiteral: 'which',
       englishNatural: 'what',
       root: 'asher',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'relative',
       },
@@ -123,10 +105,7 @@ export const jonah_2_9: Verse = {
       englishNatural: 'I have vowed',
       root: 'nadar',
       suffixes: ['ti'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -142,10 +121,7 @@ export const jonah_2_9: Verse = {
       englishLiteral: 'I-will-complete',
       englishNatural: 'I will pay',
       root: 'shalem',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -165,10 +141,7 @@ export const jonah_2_9: Verse = {
       englishLiteral: 'salvation',
       englishNatural: 'salvation',
       root: 'yeshuah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -183,10 +156,7 @@ export const jonah_2_9: Verse = {
       englishNatural: 'belongs to He-Who-Is (YHWH)',
       root: 'hayah',
       prefixes: ['la'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
       },
@@ -207,6 +177,6 @@ export const jonah_2_9: Verse = {
     englishNatural:
       'And I with a voice of thanksgiving, I will sacrifice to you; what I have vowed I will pay; salvation belongs to He-Who-Is (YHWH).',
     kjv: 'But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

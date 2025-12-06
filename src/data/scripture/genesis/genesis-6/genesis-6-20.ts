@@ -14,10 +14,7 @@ export const genesis_6_20: Verse = {
       englishNatural: 'From the bird',
       root: 'oph',
       prefixes: ['mi', 'ha'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -33,10 +30,7 @@ export const genesis_6_20: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['hu'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const genesis_6_20: Verse = {
       englishNatural: 'and from',
       root: 'min_from',
       prefixes: ['u'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -65,10 +56,7 @@ export const genesis_6_20: Verse = {
       englishNatural: 'the beast',
       root: 'behemah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -83,10 +71,7 @@ export const genesis_6_20: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -105,10 +90,7 @@ export const genesis_6_20: Verse = {
       englishNatural: 'from all',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -119,10 +101,7 @@ export const genesis_6_20: Verse = {
       englishLiteral: 'creeping_thing-of',
       englishNatural: 'creeping-thing of',
       root: 'remes',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -137,10 +116,7 @@ export const genesis_6_20: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -155,10 +131,7 @@ export const genesis_6_20: Verse = {
       root: 'min',
       prefixes: ['le'],
       suffixes: ['hu'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -176,10 +149,7 @@ export const genesis_6_20: Verse = {
       englishLiteral: 'two',
       englishNatural: 'two',
       root: 'shnayim',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'dual',
@@ -193,10 +163,7 @@ export const genesis_6_20: Verse = {
       englishNatural: 'from all',
       root: 'kol',
       prefixes: ['mi'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
       },
@@ -207,10 +174,7 @@ export const genesis_6_20: Verse = {
       englishLiteral: 'they-will-come',
       englishNatural: 'they will come',
       root: 'bo',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -227,10 +191,7 @@ export const genesis_6_20: Verse = {
       englishNatural: 'to you',
       root: 'el',
       suffixes: ['kha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -247,10 +208,7 @@ export const genesis_6_20: Verse = {
       englishNatural: 'to keep-alive',
       root: 'chayah',
       prefixes: ['le', 'ha'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'hiphil',
@@ -273,6 +231,6 @@ export const genesis_6_20: Verse = {
     englishNatural:
       'From the bird to its kind and from the beast to its kind, from all creeping-thing of the earth to its kind, two from all they will come to you, to keep-alive.',
     kjv: 'Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

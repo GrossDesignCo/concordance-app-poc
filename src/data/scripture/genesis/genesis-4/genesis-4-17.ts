@@ -14,10 +14,7 @@ export const genesis_4_17: Verse = {
       englishNatural: 'And',
       root: 'yada',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -34,10 +31,7 @@ export const genesis_4_17: Verse = {
       englishLiteral: 'Acquired (Cain)',
       englishNatural: 'Acquired (Cain)',
       root: 'Qayin',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
       },
@@ -48,10 +42,7 @@ export const genesis_4_17: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -63,10 +54,7 @@ export const genesis_4_17: Verse = {
       englishNatural: 'knew his woman',
       root: 'ishah',
       suffixes: ['o'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -87,10 +75,7 @@ export const genesis_4_17: Verse = {
       root: 'harah',
       prefixes: ['va'],
       suffixes: ['ta'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -108,10 +93,7 @@ export const genesis_4_17: Verse = {
       root: 'yalad',
       prefixes: ['va'],
       suffixes: ['ta'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -127,10 +109,7 @@ export const genesis_4_17: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'particle',
       },
@@ -141,10 +120,7 @@ export const genesis_4_17: Verse = {
       englishLiteral: 'Dedicated (Enoch)',
       englishNatural: 'Dedicated (Enoch)',
       root: 'Chanokh',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -161,10 +137,7 @@ export const genesis_4_17: Verse = {
       englishNatural: 'and he was',
       root: 'hayah',
       prefixes: ['va'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -180,10 +153,7 @@ export const genesis_4_17: Verse = {
       englishLiteral: 'building',
       englishNatural: 'building',
       root: 'banah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -198,10 +168,7 @@ export const genesis_4_17: Verse = {
       englishLiteral: 'city',
       englishNatural: 'a city',
       root: 'ir',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -220,10 +187,7 @@ export const genesis_4_17: Verse = {
       englishNatural: 'and he called-out',
       root: 'qara',
       prefixes: ['va'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -239,10 +203,7 @@ export const genesis_4_17: Verse = {
       englishLiteral: 'name',
       englishNatural: 'the name of',
       root: 'shem',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -256,10 +217,7 @@ export const genesis_4_17: Verse = {
       englishNatural: 'the city',
       root: 'ir',
       prefixes: ['ha'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -273,10 +231,7 @@ export const genesis_4_17: Verse = {
       englishNatural: 'after the name of',
       root: 'shem',
       prefixes: ['ke'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -290,10 +245,7 @@ export const genesis_4_17: Verse = {
       englishNatural: 'his son',
       root: 'ben',
       suffixes: ['o'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -311,10 +263,7 @@ export const genesis_4_17: Verse = {
       englishLiteral: 'Dedicated (Enoch)',
       englishNatural: 'Dedicated (Enoch)',
       root: 'Chanokh',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'noun',
       },
@@ -335,6 +284,6 @@ export const genesis_4_17: Verse = {
     englishNatural:
       'And Acquired (Cain) knew his woman, and she conceived and bore Dedicated (Enoch); and he was building a city, and he called-out the name of the city after the name of his son, Dedicated (Enoch).',
     kjv: 'And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

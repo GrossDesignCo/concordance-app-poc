@@ -13,10 +13,7 @@ export const genesis_3_16: Verse = {
       englishLiteral: 'To',
       englishNatural: 'To',
       root: 'el',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'preposition'
       },
@@ -29,10 +26,7 @@ export const genesis_3_16: Verse = {
       englishNatural: 'the woman',
       root: 'ishah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -45,10 +39,7 @@ export const genesis_3_16: Verse = {
       englishLiteral: 'he-said',
       englishNatural: 'he said',
       root: 'amar',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         person: '3rd',
         gender: 'masculine',
@@ -68,10 +59,7 @@ export const genesis_3_16: Verse = {
       englishLiteral: 'Multiplying',
       englishNatural: 'Multiplying',
       root: 'harbah',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'adverb'
       },
@@ -91,10 +79,7 @@ export const genesis_3_16: Verse = {
       englishLiteral: 'I-will_multiply',
       englishNatural: 'I will multiply',
       root: 'rabah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         person: '1st',
         number: 'singular',
@@ -110,10 +95,7 @@ export const genesis_3_16: Verse = {
       englishNatural: 'your pain',
       root: 'etzev',
       suffixes: ['ekh'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -128,10 +110,7 @@ export const genesis_3_16: Verse = {
       root: 'heron',
       prefixes: ['ve'],
       suffixes: ['ekh'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -149,10 +128,7 @@ export const genesis_3_16: Verse = {
       englishNatural: 'in pain',
       root: 'etzev',
       prefixes: ['be'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -167,10 +143,7 @@ export const genesis_3_16: Verse = {
       englishNatural: 'you will birth',
       root: 'yalad',
       prefixes: ['te'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         person: '2nd',
         gender: 'feminine',
@@ -187,10 +160,7 @@ export const genesis_3_16: Verse = {
       englishNatural: 'sons',
       root: 'ben',
       suffixes: ['im'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -208,10 +178,7 @@ export const genesis_3_16: Verse = {
       englishNatural: 'and to',
       root: 'el',
       prefixes: ['ve'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition'
       },
@@ -224,10 +191,7 @@ export const genesis_3_16: Verse = {
       englishNatural: 'your man',
       root: 'ish',
       suffixes: ['ekh'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -241,10 +205,7 @@ export const genesis_3_16: Verse = {
       englishNatural: 'your fixation',
       root: 'teshuqah',
       suffixes: ['ekh'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -262,10 +223,7 @@ export const genesis_3_16: Verse = {
       englishNatural: 'and he',
       root: 'hu',
       prefixes: ['ve'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'pronoun'
       },
@@ -278,10 +236,7 @@ export const genesis_3_16: Verse = {
       englishNatural: 'will rule',
       root: 'mashal',
       prefixes: ['yi'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         person: '3rd',
         gender: 'masculine',
@@ -298,10 +253,7 @@ export const genesis_3_16: Verse = {
       englishNatural: 'in you',
       root: 'be',
       suffixes: ['ekh'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'preposition'
       },
@@ -318,6 +270,6 @@ export const genesis_3_16: Verse = {
     englishLiteral: 'To the-woman he-said, "Multiplying, I-will_multiply pain-your and-pregnancy-your; in-pain you-will_birth sons; and-to man-your fixation-your, and-he he-will_rule in-you."',
     englishNatural: 'To the woman he said, "Multiplying, I will multiply your pain and your pregnancy; in pain you will birth sons; and to your man your fixation, and he will rule in you."',
     kjv: 'Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

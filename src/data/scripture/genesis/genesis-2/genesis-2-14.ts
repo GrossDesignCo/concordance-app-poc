@@ -13,10 +13,7 @@ export const genesis_2_14: Verse = {
       englishLiteral: 'name',
       englishNatural: 'The name of',
       root: 'shem',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -66,10 +63,7 @@ export const genesis_2_14: Verse = {
       englishLiteral: 'Rapid (Chidekel)',
       englishNatural: 'Rapid (Chidekel)',
       root: 'chidekel',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -84,10 +78,7 @@ export const genesis_2_14: Verse = {
       englishLiteral: 'he',
       englishNatural: 'it',
       root: 'hu',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'pronoun',
       },
@@ -99,10 +90,7 @@ export const genesis_2_14: Verse = {
       englishNatural: 'walks',
       root: 'halakh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -115,10 +103,7 @@ export const genesis_2_14: Verse = {
       englishLiteral: 'east-of',
       englishNatural: 'east of',
       root: 'qedem',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
       },
@@ -129,10 +114,7 @@ export const genesis_2_14: Verse = {
       englishLiteral: 'Steppe (Assyria)',
       englishNatural: 'Steppe (Assyria)',
       root: 'ashur',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -191,10 +173,7 @@ export const genesis_2_14: Verse = {
       englishLiteral: 'he',
       englishNatural: 'it is',
       root: 'hu',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'pronoun',
       },
@@ -205,10 +184,7 @@ export const genesis_2_14: Verse = {
       englishLiteral: 'Fruitful (Perat)',
       englishNatural: 'Fruitful (Perat)',
       root: 'perat',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
       },

@@ -61,10 +61,7 @@ export const jonah_2_5: Verse = {
       englishLiteral: 'unto-',
       englishNatural: 'unto',
       root: 'ad',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -75,10 +72,7 @@ export const jonah_2_5: Verse = {
       englishLiteral: 'throat',
       englishNatural: 'the throat',
       root: 'nephesh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -95,10 +89,7 @@ export const jonah_2_5: Verse = {
       englishLiteral: 'abyss',
       englishNatural: 'the abyss',
       root: 'tehom',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -114,10 +105,7 @@ export const jonah_2_5: Verse = {
       root: 'savav',
       prefixes: ['ye'],
       suffixes: ['ni'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -137,10 +125,7 @@ export const jonah_2_5: Verse = {
       englishLiteral: 'reed',
       englishNatural: 'reed',
       root: 'suf',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -154,10 +139,7 @@ export const jonah_2_5: Verse = {
       englishLiteral: 'binds',
       englishNatural: 'binds',
       root: 'chavash',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -178,10 +160,7 @@ export const jonah_2_5: Verse = {
       root: 'rosh',
       prefixes: ['le'],
       suffixes: ['i'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -204,6 +183,6 @@ export const jonah_2_5: Verse = {
     englishNatural:
       'Waters have surrounded me, unto the throat; the abyss goes-around me; reed binds, to my head.',
     kjv: 'The waters compassed me about, even to the soul: the depth compassed me round about, the weeds were wrapped about my head.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

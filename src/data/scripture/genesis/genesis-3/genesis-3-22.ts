@@ -76,10 +76,7 @@ export const genesis_3_22: Verse = {
       englishLiteral: 'Behold',
       englishNatural: 'Behold',
       root: 'hinneh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'particle',
       },
@@ -100,10 +97,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -116,10 +110,7 @@ export const genesis_3_22: Verse = {
       englishLiteral: 'has-become',
       englishNatural: 'has become',
       root: 'hayah',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -136,10 +127,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'as one',
       root: 'echad',
       prefixes: ['ke'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'numeral',
       },
@@ -152,10 +140,7 @@ export const genesis_3_22: Verse = {
       root: 'mi',
       prefixes: ['mi'],
       suffixes: ['enu'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -168,10 +153,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'to know',
       root: 'yada',
       prefixes: ['la'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'verb',
       },
@@ -182,10 +164,7 @@ export const genesis_3_22: Verse = {
       englishLiteral: 'good',
       englishNatural: 'good',
       root: 'tov',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'adjective',
       },
@@ -197,10 +176,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'and bad',
       root: 'ra',
       prefixes: ['va'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'adjective',
       },
@@ -216,10 +192,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'and now',
       root: 'atah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'adverb',
       },
@@ -231,10 +204,7 @@ export const genesis_3_22: Verse = {
       englishLiteral: 'or-else',
       englishNatural: 'or else',
       root: 'pen',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'conjunction',
       },
@@ -250,10 +220,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'he will send',
       root: 'shalach',
       prefixes: ['yi'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -270,10 +237,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'his hand',
       root: 'yad',
       suffixes: ['o'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -287,10 +251,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'and take',
       root: 'laqach',
       prefixes: ['ve'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -307,10 +268,7 @@ export const genesis_3_22: Verse = {
       englishLiteral: 'also',
       englishNatural: 'also',
       root: 'gam',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'adverb',
       },
@@ -322,10 +280,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'from the Tree',
       root: 'etz',
       prefixes: ['me'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -339,10 +294,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'of Life',
       root: 'chayyim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -356,10 +308,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'and eat',
       root: 'akhal',
       prefixes: ['ve'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -377,10 +326,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'and live',
       root: 'chayah',
       prefixes: ['va'],
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -397,10 +343,7 @@ export const genesis_3_22: Verse = {
       englishNatural: 'to the-age',
       root: 'olam',
       prefixes: ['le'],
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         type: 'noun',
       },
@@ -421,6 +364,6 @@ export const genesis_3_22: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God said, "Behold, the Earth (Adam) has become as one from us to know good and bad; and now —or else he will send his hand and take also from the Tree of Life and eat and live to the-age—"',
     kjv: 'And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

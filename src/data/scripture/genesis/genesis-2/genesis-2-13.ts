@@ -14,10 +14,7 @@ export const genesis_2_13: Verse = {
       englishNatural: 'And the name of',
       root: 'shem',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -67,10 +64,7 @@ export const genesis_2_13: Verse = {
       englishLiteral: 'Gusher (Gichon)',
       englishNatural: 'Gusher (Gichon)',
       root: 'gichon',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -85,10 +79,7 @@ export const genesis_2_13: Verse = {
       englishLiteral: 'he',
       englishNatural: 'it',
       root: 'hu',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'pronoun',
       },
@@ -100,10 +91,7 @@ export const genesis_2_13: Verse = {
       englishNatural: 'goes-around',
       root: 'savav',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         stem: 'piel',
@@ -116,10 +104,7 @@ export const genesis_2_13: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
     },
     {
       hebrew: 'כָּל־',
@@ -127,10 +112,7 @@ export const genesis_2_13: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adjective',
       },
@@ -141,10 +123,7 @@ export const genesis_2_13: Verse = {
       englishLiteral: 'land',
       englishNatural: 'the land of',
       root: 'eretz',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -157,10 +136,7 @@ export const genesis_2_13: Verse = {
       englishLiteral: 'Black (Kush)',
       englishNatural: 'Black (Kush)',
       root: 'kush',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
       },
@@ -180,6 +156,6 @@ export const genesis_2_13: Verse = {
     englishNatural:
       'And the name of the second river, Gusher (Gichon); it goes-around all the land of Black (Kush).',
     kjv: 'And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -59,10 +59,7 @@ export const genesis_6_7: Verse = {
       englishLiteral: 'I-will-wipe_out',
       englishNatural: 'I will wipe-out',
       root: 'machah',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -82,10 +79,7 @@ export const genesis_6_7: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'particle',
       },
@@ -97,10 +91,7 @@ export const genesis_6_7: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -113,10 +104,7 @@ export const genesis_6_7: Verse = {
       englishLiteral: 'which-',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'relative',
       },
@@ -128,10 +116,7 @@ export const genesis_6_7: Verse = {
       englishNatural: 'I created',
       root: 'bara',
       suffixes: ['ti'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -149,10 +134,7 @@ export const genesis_6_7: Verse = {
       englishNatural: 'from over',
       root: 'al',
       prefixes: ['me'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -163,10 +145,7 @@ export const genesis_6_7: Verse = {
       englishLiteral: 'face-of',
       englishNatural: 'the face of',
       root: 'panah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -181,10 +160,7 @@ export const genesis_6_7: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -203,10 +179,7 @@ export const genesis_6_7: Verse = {
       englishNatural: 'from Earth (Adam)',
       root: 'adam',
       prefixes: ['me'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -219,10 +192,7 @@ export const genesis_6_7: Verse = {
       englishLiteral: 'unto-',
       englishNatural: 'unto',
       root: 'ad',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -233,10 +203,7 @@ export const genesis_6_7: Verse = {
       englishLiteral: 'beast',
       englishNatural: 'beast',
       root: 'behemah',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -253,10 +220,7 @@ export const genesis_6_7: Verse = {
       englishLiteral: 'unto-',
       englishNatural: 'unto',
       root: 'ad',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'preposition',
       },
@@ -267,10 +231,7 @@ export const genesis_6_7: Verse = {
       englishLiteral: 'creeping_thing',
       englishNatural: 'creeping-thing',
       root: 'remes',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -288,10 +249,7 @@ export const genesis_6_7: Verse = {
       englishNatural: 'and unto',
       root: 'ad',
       prefixes: ['ve'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'preposition',
       },
@@ -302,10 +260,7 @@ export const genesis_6_7: Verse = {
       englishLiteral: 'bird-of',
       englishNatural: 'bird of',
       root: 'oph',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -320,10 +275,7 @@ export const genesis_6_7: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'dual',
@@ -341,10 +293,7 @@ export const genesis_6_7: Verse = {
       englishLiteral: 'that',
       englishNatural: 'for',
       root: 'ki',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'conjunction',
       },
@@ -356,10 +305,7 @@ export const genesis_6_7: Verse = {
       englishNatural: 'I have relented',
       root: 'nacham',
       suffixes: ['ti'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -375,10 +321,7 @@ export const genesis_6_7: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         type: 'conjunction',
       },
@@ -390,10 +333,7 @@ export const genesis_6_7: Verse = {
       englishNatural: 'I have made them',
       root: 'asah',
       suffixes: ['tem'],
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -419,6 +359,6 @@ export const genesis_6_7: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) said, "I will wipe-out the Earth (Adam) which I created from over the face of the earth, from Earth (Adam) unto beast, unto creeping-thing, and unto bird of the skies; for I have relented that I have made them."',
     kjv: 'And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

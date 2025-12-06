@@ -13,10 +13,7 @@ export const ezekiel_1_9: Verse = {
       englishLiteral: 'joining',
       englishNatural: 'Joining',
       root: 'chavar',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -33,10 +30,7 @@ export const ezekiel_1_9: Verse = {
       englishLiteral: 'woman',
       englishNatural: 'woman',
       root: 'ishah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -49,10 +43,7 @@ export const ezekiel_1_9: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -64,10 +55,7 @@ export const ezekiel_1_9: Verse = {
       englishNatural: 'her sister',
       root: 'achot',
       suffixes: ['ah'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -81,10 +69,7 @@ export const ezekiel_1_9: Verse = {
       englishNatural: 'their wings',
       root: 'kenaf',
       suffixes: ['hem'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'dual',
@@ -137,10 +122,7 @@ export const ezekiel_1_9: Verse = {
       root: 'halakh',
       prefixes: ['be'],
       suffixes: ['tan'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         tense: 'infinitive_construct',
         type: 'verb',
@@ -157,10 +139,7 @@ export const ezekiel_1_9: Verse = {
       englishLiteral: 'man',
       englishNatural: 'man',
       root: 'ish',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -173,10 +152,7 @@ export const ezekiel_1_9: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -187,10 +163,7 @@ export const ezekiel_1_9: Verse = {
       englishLiteral: 'side-of',
       englishNatural: 'the side of',
       root: 'ever',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -205,10 +178,7 @@ export const ezekiel_1_9: Verse = {
       englishNatural: 'his face',
       root: 'panah',
       suffixes: ['av'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -221,10 +191,7 @@ export const ezekiel_1_9: Verse = {
       englishLiteral: 'they-went',
       englishNatural: 'they went',
       root: 'halakh',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -250,6 +217,6 @@ export const ezekiel_1_9: Verse = {
     englishNatural:
       'Joining woman to her sister their wings; they went-around not in their going; man to the side of his face they went.',
     kjv: 'Their wings were joined one to another; they turned not when they went; they went every one straight forward.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-21' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

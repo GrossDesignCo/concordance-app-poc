@@ -140,10 +140,7 @@ export const genesis_1_28: Verse = {
       englishLiteral: 'Be_fruitful',
       englishNatural: 'Be-fruitful',
       root: 'parah',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -164,10 +161,7 @@ export const genesis_1_28: Verse = {
       englishNatural: 'and multiply',
       root: 'rabah',
       prefixes: ['u'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -184,10 +178,7 @@ export const genesis_1_28: Verse = {
       englishNatural: 'and fill',
       root: 'male',
       prefixes: ['u'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -203,10 +194,7 @@ export const genesis_1_28: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
     },
     {
       hebrew: 'הָאָ֖רֶץ',
@@ -215,10 +203,7 @@ export const genesis_1_28: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -237,10 +222,7 @@ export const genesis_1_28: Verse = {
       root: 'kavash',
       prefixes: ['ve'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -258,10 +240,7 @@ export const genesis_1_28: Verse = {
       englishNatural: 'and subjugate',
       root: 'radah',
       prefixes: ['u'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -278,10 +257,7 @@ export const genesis_1_28: Verse = {
       englishNatural: 'among fish of',
       root: 'dagah',
       prefixes: ['bi'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -295,10 +271,7 @@ export const genesis_1_28: Verse = {
       englishNatural: 'the sea',
       root: 'yam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -316,10 +289,7 @@ export const genesis_1_28: Verse = {
       englishNatural: 'and among flyer of',
       root: 'oph',
       prefixes: ['u', 'be'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -333,10 +303,7 @@ export const genesis_1_28: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -354,10 +321,7 @@ export const genesis_1_28: Verse = {
       englishNatural: 'and among all',
       root: 'kol',
       prefixes: ['u', 'be'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'adjective',
       },
@@ -403,10 +367,7 @@ export const genesis_1_28: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         type: 'preposition',
       },
@@ -418,10 +379,7 @@ export const genesis_1_28: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -444,6 +402,6 @@ export const genesis_1_28: Verse = {
     englishNatural:
       'And God blessed them, And God said to them, "Be-fruitful and multiply and fill the land, And conquer and subjugate among fish of the sea, and among flyer of the skies, and among all the crawling living thing over the land."',
     kjv: 'And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

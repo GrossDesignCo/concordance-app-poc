@@ -13,10 +13,7 @@ export const psalms_23_5: Verse = {
       englishLiteral: 'you-prepare',
       englishNatural: 'you prepare',
       root: 'arakh',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         person: '2nd',
         gender: 'masculine',
@@ -35,10 +32,7 @@ export const psalms_23_5: Verse = {
       root: 'panah',
       prefixes: ['le'],
       suffixes: ['ai'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'preposition',
       },
@@ -49,10 +43,7 @@ export const psalms_23_5: Verse = {
       englishLiteral: 'table',
       englishNatural: 'a table',
       root: 'shulchan',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -69,10 +60,7 @@ export const psalms_23_5: Verse = {
       englishLiteral: 'in-presence-of',
       englishNatural: 'in the presence of',
       root: 'neged',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -84,10 +72,7 @@ export const psalms_23_5: Verse = {
       englishNatural: 'my enemies',
       root: 'tzarar',
       suffixes: ['ai'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -106,10 +91,7 @@ export const psalms_23_5: Verse = {
       englishLiteral: 'you-anoint',
       englishNatural: 'you anoint',
       root: 'dashen',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         person: '2nd',
         gender: 'masculine',
@@ -126,10 +108,7 @@ export const psalms_23_5: Verse = {
       englishNatural: 'with oil',
       root: 'shemen',
       prefixes: ['ba'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -143,10 +122,7 @@ export const psalms_23_5: Verse = {
       englishNatural: 'my head',
       root: 'rosh',
       suffixes: ['i'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -166,10 +142,7 @@ export const psalms_23_5: Verse = {
       englishNatural: 'my cup',
       root: 'kos',
       suffixes: ['i'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -187,10 +160,7 @@ export const psalms_23_5: Verse = {
       englishLiteral: 'overflowing',
       englishNatural: 'overflowing',
       root: 'rabah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -211,6 +181,6 @@ export const psalms_23_5: Verse = {
     englishLiteral: 'you-prepare to-my-face table, in-presence-of my-enemies; you-anoint with-oil my-head, my-cup, overflowing.',
     englishNatural: 'you prepare to my face a table, in the presence of my enemies; you anoint with oil my head, my cup, overflowing.',
     kjv: 'Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

@@ -102,10 +102,7 @@ export const genesis_1_6: Verse = {
       englishNatural: 'in the midst of',
       root: 'tokh',
       prefixes: ['be'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -117,10 +114,7 @@ export const genesis_1_6: Verse = {
       englishNatural: 'the waters',
       root: 'mayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -139,10 +133,7 @@ export const genesis_1_6: Verse = {
       englishNatural: 'and let it be',
       root: 'hayah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -159,10 +150,7 @@ export const genesis_1_6: Verse = {
       englishNatural: 'separating',
       root: 'badal',
       prefixes: ['me'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -177,10 +165,7 @@ export const genesis_1_6: Verse = {
       englishLiteral: 'between',
       englishNatural: 'between',
       root: 'beyn',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -191,10 +176,7 @@ export const genesis_1_6: Verse = {
       englishLiteral: 'waters',
       englishNatural: 'waters',
       root: 'mayim',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -208,10 +190,7 @@ export const genesis_1_6: Verse = {
       englishNatural: 'and waters',
       root: 'mayim',
       prefixes: ['la'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -230,6 +209,6 @@ export const genesis_1_6: Verse = {
     englishLiteral: 'And-said Gods "Let-be hammering_out in-midst-of the-waters, and-let-be separating between waters to-waters."',
     englishNatural: 'And God said, "Let a hammering-out be in the midst of the waters, and let it be separating between waters and waters."',
     kjv: 'And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

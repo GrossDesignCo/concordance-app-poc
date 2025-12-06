@@ -14,10 +14,7 @@ export const genesis_6_17: Verse = {
       englishNatural: 'And I',
       root: 'ani',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'pronoun',
       },
@@ -34,10 +31,7 @@ export const genesis_6_17: Verse = {
       englishNatural: 'behold me',
       root: 'hineh',
       suffixes: ['ni'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'interjection',
       },
@@ -52,10 +46,7 @@ export const genesis_6_17: Verse = {
       englishLiteral: 'bringing',
       englishNatural: 'bringing',
       root: 'bo',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -70,10 +61,7 @@ export const genesis_6_17: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'particle',
       },
@@ -85,10 +73,7 @@ export const genesis_6_17: Verse = {
       englishNatural: 'the flood',
       root: 'mabbul',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -101,10 +86,7 @@ export const genesis_6_17: Verse = {
       englishLiteral: 'waters',
       englishNatural: 'waters',
       root: 'mayim',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -117,10 +99,7 @@ export const genesis_6_17: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -132,10 +111,7 @@ export const genesis_6_17: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -154,10 +130,7 @@ export const genesis_6_17: Verse = {
       englishNatural: 'to destroy',
       root: 'shachat',
       prefixes: ['le'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'piel',
@@ -170,10 +143,7 @@ export const genesis_6_17: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
       },
@@ -184,10 +154,7 @@ export const genesis_6_17: Verse = {
       englishLiteral: 'flesh',
       englishNatural: 'flesh',
       root: 'basar',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -200,10 +167,7 @@ export const genesis_6_17: Verse = {
       englishLiteral: 'which-',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'particle',
       },
@@ -215,10 +179,7 @@ export const genesis_6_17: Verse = {
       englishNatural: 'in it',
       root: 'be',
       suffixes: ['o'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -233,10 +194,7 @@ export const genesis_6_17: Verse = {
       englishLiteral: 'wind-of',
       englishNatural: 'the wind of',
       root: 'ruach',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -250,10 +208,7 @@ export const genesis_6_17: Verse = {
       englishLiteral: 'lives',
       englishNatural: 'life',
       root: 'chayah',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -267,10 +222,7 @@ export const genesis_6_17: Verse = {
       englishNatural: 'from under',
       root: 'tachat',
       prefixes: ['mi'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'preposition',
       },
@@ -282,10 +234,7 @@ export const genesis_6_17: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'dual',
@@ -303,10 +252,7 @@ export const genesis_6_17: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'noun',
       },
@@ -317,10 +263,7 @@ export const genesis_6_17: Verse = {
       englishLiteral: 'which-',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'particle',
       },
@@ -332,10 +275,7 @@ export const genesis_6_17: Verse = {
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['be', 'ha'],
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -348,10 +288,7 @@ export const genesis_6_17: Verse = {
       englishLiteral: 'will-expire',
       englishNatural: 'will expire',
       root: 'gava',
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -377,6 +314,6 @@ export const genesis_6_17: Verse = {
     englishNatural:
       'And I, behold me, bringing the flood waters over the land, to destroy all flesh which in it, the wind of life from under the skies; all which in the land will expire.',
     kjv: 'And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

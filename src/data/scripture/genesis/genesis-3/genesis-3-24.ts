@@ -14,10 +14,7 @@ export const genesis_3_24: Verse = {
       englishNatural: 'And he banished',
       root: 'garash',
       prefixes: ['va', 'yi'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -36,10 +33,7 @@ export const genesis_3_24: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'particle',
       },
@@ -51,10 +45,7 @@ export const genesis_3_24: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -72,10 +63,7 @@ export const genesis_3_24: Verse = {
       englishNatural: 'and he caused to dwell',
       root: 'shakhan',
       prefixes: ['va', 'yi'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -93,10 +81,7 @@ export const genesis_3_24: Verse = {
       englishNatural: 'east',
       root: 'qedem',
       prefixes: ['mi'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -108,10 +93,7 @@ export const genesis_3_24: Verse = {
       englishNatural: 'of Garden',
       root: 'gan',
       prefixes: ['le'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -122,10 +104,7 @@ export const genesis_3_24: Verse = {
       englishLiteral: 'Delight (Eden)',
       englishNatural: 'of Delight (Eden)',
       root: 'eden',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
       },
@@ -136,10 +115,7 @@ export const genesis_3_24: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'particle',
       },
@@ -152,10 +128,7 @@ export const genesis_3_24: Verse = {
       root: 'keruv',
       prefixes: ['ha'],
       suffixes: ['im'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -173,10 +146,7 @@ export const genesis_3_24: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'particle',
       },
@@ -189,10 +159,7 @@ export const genesis_3_24: Verse = {
       englishNatural: 'the Flame of',
       root: 'hat',
       prefixes: ['la'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -206,10 +173,7 @@ export const genesis_3_24: Verse = {
       englishNatural: 'the Sword',
       root: 'cherev',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -227,10 +191,7 @@ export const genesis_3_24: Verse = {
       englishNatural: 'the Overturning',
       root: 'haphakh',
       prefixes: ['ha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -250,10 +211,7 @@ export const genesis_3_24: Verse = {
       englishNatural: 'to keep',
       root: 'shamar',
       prefixes: ['li'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'verb',
       },
@@ -265,10 +223,7 @@ export const genesis_3_24: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'particle',
       },
@@ -279,10 +234,7 @@ export const genesis_3_24: Verse = {
       englishLiteral: 'way',
       englishNatural: 'the way',
       root: 'derekh',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -295,10 +247,7 @@ export const genesis_3_24: Verse = {
       englishLiteral: 'tree',
       englishNatural: 'to the Tree',
       root: 'etz',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -312,10 +261,7 @@ export const genesis_3_24: Verse = {
       englishNatural: 'of Life',
       root: 'chayyim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -340,6 +286,6 @@ export const genesis_3_24: Verse = {
     englishNatural:
       'And he banished the Earth (Adam); and he caused to dwell east of Garden of Delight (Eden) the Approaching-Ones; and the Flame of the Sword, the Overturning, to keep the way to the Tree of Life.',
     kjv: 'So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

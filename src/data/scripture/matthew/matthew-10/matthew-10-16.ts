@@ -13,10 +13,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'Behold',
       englishNatural: 'Behold',
       root: 'idou',
-      order: {
-        greek: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'particle',
       },
@@ -31,10 +28,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'I',
       englishNatural: 'I',
       root: 'ego',
-      order: {
-        greek: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'pronoun',
         person: '1st',
@@ -48,10 +42,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'send',
       englishNatural: 'send',
       root: 'apostello',
-      order: {
-        greek: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'verb',
         tense: 'present',
@@ -67,10 +58,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'you',
       englishNatural: 'you',
       root: 'su',
-      order: {
-        greek: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'pronoun',
         person: '2nd',
@@ -84,10 +72,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'as',
       englishNatural: 'as',
       root: 'hos',
-      order: {
-        greek: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'conjunction',
       },
@@ -98,10 +83,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'sheep',
       englishNatural: 'sheep',
       root: 'probaton',
-      order: {
-        greek: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
         gender: 'neuter',
@@ -116,10 +98,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'in',
       englishNatural: 'in',
       root: 'en',
-      order: {
-        greek: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -130,10 +109,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'midst',
       englishNatural: 'the midst of',
       root: 'mesos',
-      order: {
-        greek: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adjective',
         gender: 'neuter',
@@ -147,10 +123,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'wolves',
       englishNatural: 'wolves',
       root: 'lukos',
-      order: {
-        greek: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -169,10 +142,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'be',
       englishNatural: 'be',
       root: 'ginomai',
-      order: {
-        greek: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'verb',
         tense: 'present',
@@ -188,10 +158,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'therefore',
       englishNatural: 'therefore',
       root: 'oun',
-      order: {
-        greek: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'conjunction',
       },
@@ -202,10 +169,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'shrewd',
       englishNatural: 'shrewd',
       root: 'phronimos',
-      order: {
-        greek: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'adjective',
         gender: 'masculine',
@@ -219,10 +183,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'as',
       englishNatural: 'as',
       root: 'hos',
-      order: {
-        greek: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'conjunction',
       },
@@ -233,10 +194,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'the',
       englishNatural: 'the',
       root: 'ho',
-      order: {
-        greek: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'article',
         gender: 'masculine',
@@ -250,10 +208,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'snakes',
       englishNatural: 'snakes',
       root: 'ophis',
-      order: {
-        greek: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -267,10 +222,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'and',
       englishNatural: 'and',
       root: 'kai',
-      order: {
-        greek: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'conjunction',
       },
@@ -281,10 +233,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'innocent',
       englishNatural: 'innocent',
       root: 'akeraios',
-      order: {
-        greek: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'adjective',
         gender: 'masculine',
@@ -298,10 +247,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'as',
       englishNatural: 'as',
       root: 'hos',
-      order: {
-        greek: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'conjunction',
       },
@@ -312,10 +258,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'the',
       englishNatural: 'the',
       root: 'ho',
-      order: {
-        greek: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         type: 'article',
         gender: 'feminine',
@@ -329,10 +272,7 @@ export const matthew_10_16: Verse = {
       englishLiteral: 'doves',
       englishNatural: 'doves',
       root: 'peristera',
-      order: {
-        greek: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -355,6 +295,6 @@ export const matthew_10_16: Verse = {
       'Behold, I send you as sheep in midst wolves; be therefore shrewd as the snakes and innocent as the doves.',
     englishNatural:
       'Behold, I send you as sheep in the midst of wolves; be therefore shrewd as the snakes and innocent as the doves.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

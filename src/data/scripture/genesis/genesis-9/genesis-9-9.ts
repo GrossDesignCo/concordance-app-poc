@@ -14,10 +14,7 @@ export const genesis_9_9: Verse = {
       englishNatural: 'And I',
       root: 'ani',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -41,10 +38,7 @@ export const genesis_9_9: Verse = {
       englishNatural: 'behold me',
       root: 'hineh',
       suffixes: ['ni'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'interjection',
       },
@@ -59,10 +53,7 @@ export const genesis_9_9: Verse = {
       englishLiteral: 'causing-to-stand',
       englishNatural: 'causing to stand',
       root: 'qum',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -81,10 +72,7 @@ export const genesis_9_9: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'particle',
       },
@@ -96,10 +84,7 @@ export const genesis_9_9: Verse = {
       englishNatural: 'my covenant',
       root: 'berit',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -113,10 +98,7 @@ export const genesis_9_9: Verse = {
       englishNatural: 'with you',
       root: 'et',
       suffixes: ['khem'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -135,10 +117,7 @@ export const genesis_9_9: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'particle',
       },
@@ -151,10 +130,7 @@ export const genesis_9_9: Verse = {
       englishNatural: 'your seed',
       root: 'zera',
       suffixes: ['khem'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -168,10 +144,7 @@ export const genesis_9_9: Verse = {
       englishNatural: 'after you',
       root: 'achar',
       suffixes: ['khem'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -192,6 +165,6 @@ export const genesis_9_9: Verse = {
     englishNatural:
       '"And I, behold me, causing to stand, my covenant with you, and your seed after you;',
     kjv: 'And I, behold, I establish my covenant with you, and with your seed after you;',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

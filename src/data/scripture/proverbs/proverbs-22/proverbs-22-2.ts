@@ -13,10 +13,7 @@ export const proverbs_22_2: Verse = {
       englishLiteral: 'Rich',
       englishNatural: 'Rich',
       root: 'ashar',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -32,10 +29,7 @@ export const proverbs_22_2: Verse = {
       englishNatural: 'and Poor',
       root: 'rash',
       prefixes: ['va'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -51,10 +45,7 @@ export const proverbs_22_2: Verse = {
       root: 'pagash',
       prefixes: ['ni'],
       suffixes: ['u'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -70,10 +61,7 @@ export const proverbs_22_2: Verse = {
       englishLiteral: 'this',
       englishNatural: 'together',
       root: 'zeh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -90,10 +78,7 @@ export const proverbs_22_2: Verse = {
       englishLiteral: 'with',
       englishNatural: 'with',
       root: 'im',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -104,10 +89,7 @@ export const proverbs_22_2: Verse = {
       englishLiteral: 'this',
       englishNatural: 'this',
       root: 'zeh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -120,10 +102,7 @@ export const proverbs_22_2: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
       },
@@ -134,10 +113,7 @@ export const proverbs_22_2: Verse = {
       englishLiteral: 'made',
       englishNatural: 'made',
       root: 'asah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -160,6 +136,6 @@ export const proverbs_22_2: Verse = {
     englishNatural:
       'Rich and Poor meet together; with this He-Who-Is (YHWH) made.',
     kjv: 'The rich and poor meet together: the LORD is the maker of them all.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

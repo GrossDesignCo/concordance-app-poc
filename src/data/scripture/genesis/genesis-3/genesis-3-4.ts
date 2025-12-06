@@ -56,10 +56,7 @@ export const genesis_3_4: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition'
       },
@@ -71,10 +68,7 @@ export const genesis_3_4: Verse = {
       englishNatural: 'the woman',
       root: 'ishah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -163,6 +157,6 @@ export const genesis_3_4: Verse = {
     englishLiteral: 'And-said the-snake to the-woman, "Not- dying you-shall-die."',
     englishNatural: 'And the snake said to the woman, "Dying? You shall die not."',
     kjv: 'And the serpent said unto the woman, Ye shall not surely die:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

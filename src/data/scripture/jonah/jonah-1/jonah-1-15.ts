@@ -15,10 +15,7 @@ export const jonah_1_15: Verse = {
       root: 'nasa',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -35,10 +32,7 @@ export const jonah_1_15: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'particle',
       },
@@ -49,10 +43,7 @@ export const jonah_1_15: Verse = {
       englishLiteral: 'Dove (Jonah)',
       englishNatural: 'Dove (Jonah)',
       root: 'yonah',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -67,10 +58,7 @@ export const jonah_1_15: Verse = {
       root: 'tul',
       prefixes: ['va'],
       suffixes: ['hu'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -86,10 +74,7 @@ export const jonah_1_15: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -101,10 +86,7 @@ export const jonah_1_15: Verse = {
       englishNatural: 'the sea',
       root: 'yam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -166,10 +148,7 @@ export const jonah_1_15: Verse = {
       root: 'zaaf',
       prefixes: ['mi'],
       suffixes: ['o'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -192,6 +171,6 @@ export const jonah_1_15: Verse = {
     englishNatural:
       'And they lifted-up Dove (Jonah) and hurled him to the sea; and the sea stood from its rage.',
     kjv: 'So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

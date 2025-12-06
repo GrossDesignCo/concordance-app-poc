@@ -87,10 +87,7 @@ export const ezekiel_1_3: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -101,10 +98,7 @@ export const ezekiel_1_3: Verse = {
       englishLiteral: 'God_Strengthens (Ezekiel)',
       englishNatural: 'God-Strengthens (Ezekiel)',
       root: 'yechezqel',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -115,10 +109,7 @@ export const ezekiel_1_3: Verse = {
       englishLiteral: 'son-of-',
       englishNatural: 'son of',
       root: 'ben',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -133,10 +124,7 @@ export const ezekiel_1_3: Verse = {
       englishLiteral: 'Contempt (Buzi)',
       englishNatural: 'Contempt (Buzi)',
       root: 'buzi',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -152,10 +140,7 @@ export const ezekiel_1_3: Verse = {
       englishNatural: 'the priest',
       root: 'kohen',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -174,10 +159,7 @@ export const ezekiel_1_3: Verse = {
       englishNatural: 'in the land of',
       root: 'eretz',
       prefixes: ['be'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -191,10 +173,7 @@ export const ezekiel_1_3: Verse = {
       englishLiteral: 'Chaldeans',
       englishNatural: 'Chaldeans',
       root: 'kasdim',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
       },
@@ -205,10 +184,7 @@ export const ezekiel_1_3: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -219,10 +195,7 @@ export const ezekiel_1_3: Verse = {
       englishLiteral: 'River-of-',
       englishNatural: 'River of',
       root: 'nahar',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -236,10 +209,7 @@ export const ezekiel_1_3: Verse = {
       englishLiteral: 'Ancient (Kebar)',
       englishNatural: 'Ancient (Kebar)',
       root: 'kebar',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'noun',
       },
@@ -355,6 +325,6 @@ export const ezekiel_1_3: Verse = {
     englishNatural:
       'The word of He-Who-Is (YHWH) was being to God-Strengthens (Ezekiel) son of Contempt (Buzi), the priest, in the land of Chaldeans over River of Ancient (Kebar), and the hand of He-Who-Is (YHWH) was over him there.',
     kjv: 'The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

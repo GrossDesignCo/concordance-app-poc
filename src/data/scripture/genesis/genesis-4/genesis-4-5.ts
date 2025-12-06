@@ -14,10 +14,7 @@ export const genesis_4_5: Verse = {
       englishNatural: 'And to',
       root: 'el',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'preposition',
       },
@@ -29,10 +26,7 @@ export const genesis_4_5: Verse = {
       englishLiteral: 'Acquired (Cain)',
       englishNatural: 'Acquired (Cain)',
       root: 'qanah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
       },
@@ -44,10 +38,7 @@ export const genesis_4_5: Verse = {
       englishNatural: 'and to',
       root: 'el',
       prefixes: ['ve'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -59,10 +50,7 @@ export const genesis_4_5: Verse = {
       englishNatural: 'his offering',
       root: 'minchah',
       suffixes: ['o'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -80,10 +68,7 @@ export const genesis_4_5: Verse = {
       englishLiteral: 'no',
       englishNatural: 'no',
       root: 'lo',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'adverb',
       },
@@ -94,10 +79,7 @@ export const genesis_4_5: Verse = {
       englishLiteral: 'esteeming',
       englishNatural: 'esteeming',
       root: 'shaah',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -119,10 +101,7 @@ export const genesis_4_5: Verse = {
       englishNatural: 'And it was fuming-anger',
       root: 'charah',
       prefixes: ['va'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -139,10 +118,7 @@ export const genesis_4_5: Verse = {
       englishNatural: 'to Acquired (Cain)',
       root: 'qanah',
       prefixes: ['le'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -153,10 +129,7 @@ export const genesis_4_5: Verse = {
       englishLiteral: 'very_much',
       englishNatural: 'very-much',
       root: 'meod',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'adverb',
       },
@@ -222,6 +195,6 @@ export const genesis_4_5: Verse = {
     englishLiteral: 'And-to Acquired (Cain) and-to his-offering, no esteeming; And-it-was_fuming_anger to-Acquired (Cain) very_much, and-they-fell his-faces.',
     englishNatural: 'And to Acquired (Cain) and to his offering, no esteeming; And it was fuming-anger to Acquired (Cain) very-much, and his faces (eyes) fell.',
     kjv: 'But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-18' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

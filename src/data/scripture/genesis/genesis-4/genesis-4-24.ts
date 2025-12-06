@@ -13,10 +13,7 @@ export const genesis_4_24: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'particle',
       },
@@ -51,10 +48,7 @@ export const genesis_4_24: Verse = {
       englishLiteral: 'shall-be-avenged',
       englishNatural: 'shall be avenged',
       root: 'naqam',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -93,10 +87,7 @@ export const genesis_4_24: Verse = {
       englishNatural: 'and Powerful (Lamech)',
       root: 'Lemekh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -109,10 +100,7 @@ export const genesis_4_24: Verse = {
       englishLiteral: 'seventy',
       englishNatural: 'seventy',
       root: 'sheva',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'numeral',
         gender: 'masculine',
@@ -125,10 +113,7 @@ export const genesis_4_24: Verse = {
       englishNatural: 'and seven',
       root: 'sheva',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'numeral',
         gender: 'masculine',
@@ -148,6 +133,6 @@ export const genesis_4_24: Verse = {
     englishNatural:
       'that Acquired (Cain) shall be avenged sevenfold, and Powerful (Lamech) seventy and seven."',
     kjv: 'If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

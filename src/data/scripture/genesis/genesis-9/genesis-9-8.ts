@@ -56,10 +56,7 @@ export const genesis_9_8: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -70,10 +67,7 @@ export const genesis_9_8: Verse = {
       englishLiteral: 'Rest (Noah)',
       englishNatural: 'Rest (Noah)',
       root: 'noach',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -91,10 +85,7 @@ export const genesis_9_8: Verse = {
       englishNatural: 'and to',
       root: 'el',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -107,10 +98,7 @@ export const genesis_9_8: Verse = {
       englishNatural: 'his sons',
       root: 'ben',
       suffixes: ['av'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -124,10 +112,7 @@ export const genesis_9_8: Verse = {
       englishNatural: 'with him',
       root: 'et',
       suffixes: ['o'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'preposition',
       },
@@ -143,10 +128,7 @@ export const genesis_9_8: Verse = {
       englishNatural: 'saying',
       root: 'amar',
       prefixes: ['le'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'qal',
@@ -167,6 +149,6 @@ export const genesis_9_8: Verse = {
     englishNatural:
       'And God said to Rest (Noah), and to his sons with him, saying,',
     kjv: 'And God spake unto Noah, and to his sons with him, saying,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

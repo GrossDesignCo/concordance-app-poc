@@ -14,10 +14,7 @@ export const ezekiel_1_1: Verse = {
       englishNatural: 'And it was',
       root: 'hayah',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -78,10 +75,7 @@ export const ezekiel_1_1: Verse = {
       englishNatural: 'in the fourth',
       root: 'revii',
       prefixes: ['ba'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -99,10 +93,7 @@ export const ezekiel_1_1: Verse = {
       englishNatural: 'in the five',
       root: 'chamesh',
       prefixes: ['ba'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'numeral',
       },
@@ -114,10 +105,7 @@ export const ezekiel_1_1: Verse = {
       englishNatural: 'to the month',
       root: 'chodesh',
       prefixes: ['la'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -136,10 +124,7 @@ export const ezekiel_1_1: Verse = {
       englishNatural: 'and I',
       root: 'ani',
       prefixes: ['va'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -154,10 +139,7 @@ export const ezekiel_1_1: Verse = {
       englishNatural: 'in the midst of',
       root: 'tokh',
       prefixes: ['be'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -172,10 +154,7 @@ export const ezekiel_1_1: Verse = {
       englishNatural: 'the exile',
       root: 'golah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -188,10 +167,7 @@ export const ezekiel_1_1: Verse = {
       englishLiteral: 'upon-',
       englishNatural: 'upon',
       root: 'al',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -202,10 +178,7 @@ export const ezekiel_1_1: Verse = {
       englishLiteral: 'River-of-',
       englishNatural: 'River of',
       root: 'nahar',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -219,10 +192,7 @@ export const ezekiel_1_1: Verse = {
       englishLiteral: 'Ancient (Kebar)',
       englishNatural: 'Ancient (Kebar)',
       root: 'kebar',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
       },
@@ -287,10 +257,7 @@ export const ezekiel_1_1: Verse = {
       englishNatural: 'and I saw',
       root: 'raah',
       prefixes: ['va'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -306,10 +273,7 @@ export const ezekiel_1_1: Verse = {
       englishLiteral: 'visions-of',
       englishNatural: 'visions of',
       root: 'mareh',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -324,10 +288,7 @@ export const ezekiel_1_1: Verse = {
       englishNatural: 'God',
       root: 'eloah',
       suffixes: ['im'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -350,6 +311,6 @@ export const ezekiel_1_1: Verse = {
     englishNatural:
       'And it was in year thirty, in the fourth, in the five to the month, and I in the midst of the exile upon River of Ancient (Kebar), the heavens were opened, and I saw visions of God.',
     kjv: 'Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

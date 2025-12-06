@@ -59,10 +59,7 @@ export const genesis_1_27: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
     },
     {
       hebrew: 'הָֽאָדָם֙',
@@ -71,10 +68,7 @@ export const genesis_1_27: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -93,10 +87,7 @@ export const genesis_1_27: Verse = {
       root: 'tselem',
       prefixes: ['be'],
       suffixes: ['o'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -115,10 +106,7 @@ export const genesis_1_27: Verse = {
       englishNatural: 'in image of',
       root: 'tselem',
       prefixes: ['be'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -132,10 +120,7 @@ export const genesis_1_27: Verse = {
       englishNatural: 'God',
       root: 'eloah',
       suffixes: ['im'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -152,10 +137,7 @@ export const genesis_1_27: Verse = {
       englishLiteral: 'created',
       englishNatural: 'created',
       root: 'bara',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -172,10 +154,7 @@ export const genesis_1_27: Verse = {
       englishNatural: 'him',
       root: 'et',
       suffixes: ['o'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'pronoun',
       },
@@ -190,10 +169,7 @@ export const genesis_1_27: Verse = {
       englishLiteral: 'male',
       englishNatural: 'male',
       root: 'zakhar',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -209,10 +185,7 @@ export const genesis_1_27: Verse = {
       root: 'neqevah',
       prefixes: ['u'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -229,10 +202,7 @@ export const genesis_1_27: Verse = {
       englishLiteral: 'created',
       englishNatural: 'created',
       root: 'bara',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -249,10 +219,7 @@ export const genesis_1_27: Verse = {
       englishNatural: 'them',
       root: 'et',
       suffixes: ['am'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'pronoun',
       },
@@ -273,6 +240,6 @@ export const genesis_1_27: Verse = {
     englishNatural:
       'And God created the Earth (Adam), in his image, in image of God, created him, male and female, created them.',
     kjv: 'So God created man in his own image, in the image of God created he him; male and female created he them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

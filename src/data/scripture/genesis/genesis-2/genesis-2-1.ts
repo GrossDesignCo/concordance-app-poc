@@ -14,10 +14,7 @@ export const genesis_2_1: Verse = {
       englishNatural: 'And finished were',
       root: 'kalah',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -35,10 +32,7 @@ export const genesis_2_1: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -56,10 +50,7 @@ export const genesis_2_1: Verse = {
       englishNatural: 'and the land',
       root: 'eretz',
       prefixes: ['ve', 'ha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -77,10 +68,7 @@ export const genesis_2_1: Verse = {
       englishNatural: 'and all',
       root: 'kol',
       prefixes: ['ve'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'adjective',
       },
@@ -92,10 +80,7 @@ export const genesis_2_1: Verse = {
       englishNatural: 'their host',
       root: 'tsava',
       suffixes: ['am'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -116,6 +101,6 @@ export const genesis_2_1: Verse = {
     englishNatural:
       'And finished were the skies, and the land, and all their host.',
     kjv: 'Thus the heavens and the earth were finished, and all the host of them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

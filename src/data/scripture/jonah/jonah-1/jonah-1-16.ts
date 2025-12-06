@@ -91,10 +91,7 @@ export const jonah_1_16: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'particle',
       },
@@ -105,10 +102,7 @@ export const jonah_1_16: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -125,10 +119,7 @@ export const jonah_1_16: Verse = {
       root: 'zavach',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -145,10 +136,7 @@ export const jonah_1_16: Verse = {
       englishLiteral: 'sacrifice',
       englishNatural: 'a sacrifice',
       root: 'zavach',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -162,10 +150,7 @@ export const jonah_1_16: Verse = {
       englishNatural: 'to He-Who-Is (YHWH)',
       root: 'yhwh',
       prefixes: ['la'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -178,10 +163,7 @@ export const jonah_1_16: Verse = {
       root: 'darar',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -199,10 +181,7 @@ export const jonah_1_16: Verse = {
       englishNatural: 'vows',
       root: 'neder',
       suffixes: ['im'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -225,6 +204,6 @@ export const jonah_1_16: Verse = {
     englishNatural:
       'And the men feared a great fear of He-Who-Is (YHWH); and sacrificed a sacrifice to He-Who-Is (YHWH) and vowed vows.',
     kjv: 'Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

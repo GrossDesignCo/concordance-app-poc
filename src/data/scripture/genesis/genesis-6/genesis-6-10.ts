@@ -53,10 +53,7 @@ export const genesis_6_10: Verse = {
       englishLiteral: 'three',
       englishNatural: 'three',
       root: 'shalosh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'numeral',
       },
@@ -67,10 +64,7 @@ export const genesis_6_10: Verse = {
       englishLiteral: 'sons',
       englishNatural: 'sons',
       root: 'ben',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -88,10 +82,7 @@ export const genesis_6_10: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'particle',
       },
@@ -102,10 +93,7 @@ export const genesis_6_10: Verse = {
       englishLiteral: 'Name (Shem)',
       englishNatural: 'Name (Shem)',
       root: 'shem',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -121,10 +109,7 @@ export const genesis_6_10: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'particle',
       },
@@ -135,10 +120,7 @@ export const genesis_6_10: Verse = {
       englishLiteral: 'Hot (Ham)',
       englishNatural: 'Hot (Ham)',
       root: 'cham',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -154,10 +136,7 @@ export const genesis_6_10: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'particle',
       },
@@ -168,10 +147,7 @@ export const genesis_6_10: Verse = {
       englishLiteral: 'Spacious (Japheth)',
       englishNatural: 'Spacious (Japheth)',
       root: 'yafet',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
       },
@@ -191,6 +167,6 @@ export const genesis_6_10: Verse = {
     englishNatural:
       'And Rest (Noah) birthed three sons: Name (Shem), and Hot (Ham), and Spacious (Japheth).',
     kjv: 'And Noah begat three sons, Shem, Ham, and Japheth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

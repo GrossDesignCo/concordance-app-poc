@@ -54,10 +54,7 @@ export const genesis_4_18: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -68,10 +65,7 @@ export const genesis_4_18: Verse = {
       englishLiteral: 'Fugitive (Irad)',
       englishNatural: 'Fugitive (Irad)',
       root: 'Irad',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -88,10 +82,7 @@ export const genesis_4_18: Verse = {
       englishNatural: 'and Fugitive (Irad)',
       root: 'Irad',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -102,10 +93,7 @@ export const genesis_4_18: Verse = {
       englishLiteral: 'bore',
       englishNatural: 'bore',
       root: 'yalad',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -121,10 +109,7 @@ export const genesis_4_18: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'particle',
       },
@@ -135,10 +120,7 @@ export const genesis_4_18: Verse = {
       englishLiteral: 'Smitten-of-God (Mehujael)',
       englishNatural: 'Smitten-of-God (Mehujael)',
       root: 'Mechuyael',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
       },
@@ -155,10 +137,7 @@ export const genesis_4_18: Verse = {
       englishNatural: 'and Smitten-of-God (Mehujael)',
       root: 'Mechuyael',
       prefixes: ['u'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -169,10 +148,7 @@ export const genesis_4_18: Verse = {
       englishLiteral: 'bore',
       englishNatural: 'bore',
       root: 'yalad',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -188,10 +164,7 @@ export const genesis_4_18: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'particle',
       },
@@ -202,10 +175,7 @@ export const genesis_4_18: Verse = {
       englishLiteral: 'Man-of-God (Methusael)',
       englishNatural: 'Man-of-God (Methusael)',
       root: 'Methushael',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
       },
@@ -222,10 +192,7 @@ export const genesis_4_18: Verse = {
       englishNatural: 'and Man-of-God (Methusael)',
       root: 'Methushael',
       prefixes: ['u'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
       },
@@ -236,10 +203,7 @@ export const genesis_4_18: Verse = {
       englishLiteral: 'bore',
       englishNatural: 'bore',
       root: 'yalad',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -255,10 +219,7 @@ export const genesis_4_18: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'particle',
       },
@@ -269,10 +230,7 @@ export const genesis_4_18: Verse = {
       englishLiteral: 'Powerful (Lamech)',
       englishNatural: 'Powerful (Lamech)',
       root: 'Lemekh',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'noun',
       },
@@ -293,6 +251,6 @@ export const genesis_4_18: Verse = {
     englishNatural:
       'And to Dedicated (Enoch) was born Fugitive (Irad); and Fugitive (Irad) bore Smitten-of-God (Mehujael); and Smitten-of-God (Mehujael) bore Man-of-God (Methusael); and Man-of-God (Methusael) bore Powerful (Lamech).',
     kjv: 'And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

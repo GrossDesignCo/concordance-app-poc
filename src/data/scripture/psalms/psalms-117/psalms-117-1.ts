@@ -15,10 +15,7 @@ export const psalms_117_1: Verse = {
       root: 'palal',
       prefixes: ['ha'],
       suffixes: ['u'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -34,10 +31,7 @@ export const psalms_117_1: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'particle',
       },
@@ -48,10 +42,7 @@ export const psalms_117_1: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
       },
@@ -66,10 +57,7 @@ export const psalms_117_1: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -83,10 +71,7 @@ export const psalms_117_1: Verse = {
       englishNatural: 'nations',
       root: 'goy',
       suffixes: ['im'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -105,10 +90,7 @@ export const psalms_117_1: Verse = {
       englishNatural: 'send to him',
       root: 'shalach',
       suffixes: ['u', 'hu'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -128,10 +110,7 @@ export const psalms_117_1: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -146,10 +125,7 @@ export const psalms_117_1: Verse = {
       root: 'am',
       prefixes: ['ha'],
       suffixes: ['im'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -170,6 +146,6 @@ export const psalms_117_1: Verse = {
     englishNatural:
       'Praise He-Who-Is (YHWH), all nations: send to him, all the peoples.',
     kjv: 'O praise the LORD, all ye nations: praise him, all ye people.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

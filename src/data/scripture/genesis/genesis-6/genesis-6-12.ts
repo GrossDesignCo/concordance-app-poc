@@ -55,10 +55,7 @@ export const genesis_6_12: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -70,10 +67,7 @@ export const genesis_6_12: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -92,10 +86,7 @@ export const genesis_6_12: Verse = {
       englishNatural: 'and behold',
       root: 'hineh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'interjection',
       },
@@ -106,10 +97,7 @@ export const genesis_6_12: Verse = {
       englishLiteral: 'it-had-corrupted',
       englishNatural: 'it had corrupted',
       root: 'shachat',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -130,10 +118,7 @@ export const genesis_6_12: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'conjunction',
       },
@@ -195,10 +180,7 @@ export const genesis_6_12: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'particle',
       },
@@ -210,10 +192,7 @@ export const genesis_6_12: Verse = {
       englishNatural: 'its way',
       root: 'derekh',
       suffixes: ['o'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -226,10 +205,7 @@ export const genesis_6_12: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -241,10 +217,7 @@ export const genesis_6_12: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -267,6 +240,6 @@ export const genesis_6_12: Verse = {
     englishNatural:
       'And God saw the land, and behold it had corrupted; that all flesh had corrupted its way over the land.',
     kjv: 'And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

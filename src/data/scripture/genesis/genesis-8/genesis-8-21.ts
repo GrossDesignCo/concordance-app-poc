@@ -53,10 +53,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'particle',
       },
@@ -67,10 +64,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: 'wind-of',
       englishNatural: 'the wind of',
       root: 'ruach',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -85,10 +79,7 @@ export const genesis_8_21: Verse = {
       englishNatural: 'the restful',
       root: 'nuach',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -140,10 +131,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition',
       },
@@ -155,10 +143,7 @@ export const genesis_8_21: Verse = {
       englishNatural: 'his heart',
       root: 'lev',
       suffixes: ['o'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -228,10 +213,7 @@ export const genesis_8_21: Verse = {
       englishNatural: 'to curse',
       root: 'qalal',
       prefixes: ['le'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'piel',
@@ -244,10 +226,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: 'again',
       englishNatural: 'again',
       root: 'od',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'adverb',
       },
@@ -258,10 +237,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'particle',
       },
@@ -273,10 +249,7 @@ export const genesis_8_21: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -295,10 +268,7 @@ export const genesis_8_21: Verse = {
       englishNatural: 'in the passing-through of',
       root: 'avar',
       prefixes: ['ba'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'preposition',
       },
@@ -310,10 +280,7 @@ export const genesis_8_21: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -331,10 +298,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: 'for',
       englishNatural: 'for',
       root: 'ki',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'conjunction',
       },
@@ -345,10 +309,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: 'forming',
       englishNatural: 'the forming',
       root: 'yatsar',
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -361,10 +322,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: 'heart-of',
       englishNatural: 'of the heart of',
       root: 'lev',
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -379,10 +337,7 @@ export const genesis_8_21: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -399,10 +354,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: 'bad',
       englishNatural: 'bad',
       root: 'ra',
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -417,10 +369,7 @@ export const genesis_8_21: Verse = {
       root: 'naar',
       prefixes: ['mi'],
       suffixes: ['av'],
-      order: {
-        hebrew: 23,
-        english: 23,
-      },
+      order: 23,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -472,10 +421,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: 'again',
       englishNatural: 'again',
       root: 'od',
-      order: {
-        hebrew: 26,
-        english: 26,
-      },
+      order: 26,
       morphology: {
         type: 'adverb',
       },
@@ -487,10 +433,7 @@ export const genesis_8_21: Verse = {
       englishNatural: 'to strike',
       root: 'nakah',
       prefixes: ['le'],
-      order: {
-        hebrew: 27,
-        english: 27,
-      },
+      order: 27,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'hiphil',
@@ -503,10 +446,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 28,
-        english: 28,
-      },
+      order: 28,
       morphology: {
         type: 'particle',
       },
@@ -517,10 +457,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: 'all-',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 29,
-        english: 29,
-      },
+      order: 29,
       morphology: {
         type: 'noun',
       },
@@ -531,10 +468,7 @@ export const genesis_8_21: Verse = {
       englishLiteral: 'living',
       englishNatural: 'living',
       root: 'chayah',
-      order: {
-        hebrew: 30,
-        english: 30,
-      },
+      order: 30,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -553,10 +487,7 @@ export const genesis_8_21: Verse = {
       englishNatural: 'as which',
       root: 'asher',
       prefixes: ['ka'],
-      order: {
-        hebrew: 31,
-        english: 31,
-      },
+      order: 31,
       morphology: {
         type: 'relative',
       },
@@ -568,10 +499,7 @@ export const genesis_8_21: Verse = {
       englishNatural: 'I have done',
       root: 'asah',
       suffixes: ['ti'],
-      order: {
-        hebrew: 32,
-        english: 32,
-      },
+      order: 32,
       morphology: {
         gender: 'common',
         number: 'singular',
@@ -597,6 +525,6 @@ export const genesis_8_21: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) winded the wind of the restful; and He-Who-Is (YHWH) said to his heart, "I will add not, to curse again the earth, in the passing-through of the Earth (Adam), for the forming of the heart of the Earth (Adam), bad from his youth; and I will add not again to strike all living, as which I have done.',
     kjv: "And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

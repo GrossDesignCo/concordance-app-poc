@@ -67,10 +67,7 @@ export const jonah_1_1: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -81,10 +78,7 @@ export const jonah_1_1: Verse = {
       englishLiteral: 'Dove (Jonah)',
       englishNatural: 'Dove (Jonah)',
       root: 'yonah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -97,10 +91,7 @@ export const jonah_1_1: Verse = {
       englishLiteral: 'son-of',
       englishNatural: 'son of',
       root: 'ben',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -114,10 +105,7 @@ export const jonah_1_1: Verse = {
       englishLiteral: 'My_Truth',
       englishNatural: 'My-Truth',
       root: 'amittai',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -135,10 +123,7 @@ export const jonah_1_1: Verse = {
       englishNatural: 'saying',
       root: 'amar',
       prefixes: ['le'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'verb',
         tense: 'infinitive_construct',
@@ -159,6 +144,6 @@ export const jonah_1_1: Verse = {
     englishNatural:
       'And the word of He-Who-Is (YHWH) was to Dove (Jonah) son of My-Truth, saying;',
     kjv: 'Now the word of the LORD came unto Jonah the son of Amittai, saying,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

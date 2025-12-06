@@ -126,10 +126,7 @@ export const genesis_5_5: Verse = {
       englishLiteral: 'nine',
       englishNatural: 'nine',
       root: 'tesha',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -143,10 +140,7 @@ export const genesis_5_5: Verse = {
       englishNatural: 'hundred',
       root: 'meah',
       prefixes: ['me'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -160,10 +154,7 @@ export const genesis_5_5: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -177,10 +168,7 @@ export const genesis_5_5: Verse = {
       englishNatural: 'and thirty',
       root: 'shloshim',
       prefixes: ['u'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'numeral',
         gender: 'masculine',
@@ -193,10 +181,7 @@ export const genesis_5_5: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -244,6 +229,6 @@ export const genesis_5_5: Verse = {
     englishNatural:
       'And all the days of Earth (Adam), which he lived, were nine hundred years and thirty years, and he died.',
     kjv: 'And all the days that Adam lived were nine hundred and thirty years: and he died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

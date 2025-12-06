@@ -59,10 +59,7 @@ export const jonah_4_10: Verse = {
       englishLiteral: 'you',
       englishNatural: 'You',
       root: 'atah',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'pronoun',
       },
@@ -78,10 +75,7 @@ export const jonah_4_10: Verse = {
       englishNatural: 'pitied',
       root: 'chas',
       suffixes: ['ta'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -97,10 +91,7 @@ export const jonah_4_10: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -112,10 +103,7 @@ export const jonah_4_10: Verse = {
       englishNatural: 'the luscious-plant',
       root: 'qiqayon',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -132,10 +120,7 @@ export const jonah_4_10: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'relative',
       },
@@ -241,10 +226,7 @@ export const jonah_4_10: Verse = {
       englishNatural: 'yet son of',
       root: 'ben',
       prefixes: ['she'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
       },
@@ -257,10 +239,7 @@ export const jonah_4_10: Verse = {
       englishNatural: 'a night',
       root: 'laylah',
       prefixes: ['la'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -273,10 +252,7 @@ export const jonah_4_10: Verse = {
       englishLiteral: 'was',
       englishNatural: 'it was',
       root: 'hayah',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -293,10 +269,7 @@ export const jonah_4_10: Verse = {
       englishNatural: 'and son of',
       root: 'ben',
       prefixes: ['u'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'noun',
       },
@@ -308,10 +281,7 @@ export const jonah_4_10: Verse = {
       englishNatural: 'a night',
       root: 'laylah',
       prefixes: ['la'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -324,10 +294,7 @@ export const jonah_4_10: Verse = {
       englishLiteral: 'perished',
       englishNatural: 'it perished',
       root: 'avad',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -353,6 +320,6 @@ export const jonah_4_10: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) said, "You pitied over the luscious-plant, which you labored in it not, and you grew it not, yet son of a night it was and son of a night it perished.',
     kjv: 'Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

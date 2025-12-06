@@ -14,10 +14,7 @@ export const ezekiel_1_22: Verse = {
       englishNatural: 'And the likeness of',
       root: 'demut',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -110,10 +107,7 @@ export const ezekiel_1_22: Verse = {
       englishNatural: 'like an eye of',
       root: 'ayin_eye',
       prefixes: ['ke'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -128,10 +122,7 @@ export const ezekiel_1_22: Verse = {
       englishNatural: 'The Crystal',
       root: 'kerach',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -148,10 +139,7 @@ export const ezekiel_1_22: Verse = {
       englishNatural: 'The Fearsome',
       root: 'nora',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -169,10 +157,7 @@ export const ezekiel_1_22: Verse = {
       englishLiteral: 'stretched-out',
       englishNatural: 'stretched-out',
       root: 'natah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -187,10 +172,7 @@ export const ezekiel_1_22: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -202,10 +184,7 @@ export const ezekiel_1_22: Verse = {
       englishNatural: 'their heads',
       root: 'rosh',
       suffixes: ['hem'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -219,10 +198,7 @@ export const ezekiel_1_22: Verse = {
       englishNatural: 'from above',
       root: 'maala',
       prefixes: ['me', 'le'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'adverb',
       },
@@ -243,6 +219,6 @@ export const ezekiel_1_22: Verse = {
     englishNatural:
       'And the likeness of a hammering-out, over the heads of the living-being, like an eye of The Crystal, The Fearsome, stretched-out over their heads from above.',
     kjv: 'And the likeness of the firmament upon the heads of the living creature was as the colour of the terrible crystal, stretched forth over their heads above.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

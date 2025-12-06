@@ -13,10 +13,7 @@ export const genesis_6_16: Verse = {
       englishLiteral: 'illunination',
       englishNatural: 'A illunination',
       root: 'tzohar',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -30,10 +27,7 @@ export const genesis_6_16: Verse = {
       englishLiteral: 'you-shall-make',
       englishNatural: 'you shall make',
       root: 'asah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -50,10 +44,7 @@ export const genesis_6_16: Verse = {
       englishNatural: 'for the ark',
       root: 'tevah',
       prefixes: ['la'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -72,10 +63,7 @@ export const genesis_6_16: Verse = {
       englishNatural: 'and to',
       root: 'el',
       prefixes: ['ve'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -86,10 +74,7 @@ export const genesis_6_16: Verse = {
       englishLiteral: 'cubit',
       englishNatural: 'a cubit',
       root: 'ammah',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -103,10 +88,7 @@ export const genesis_6_16: Verse = {
       englishNatural: 'you shall finish it',
       root: 'kalah',
       suffixes: ['ah'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -123,10 +105,7 @@ export const genesis_6_16: Verse = {
       englishNatural: 'from upward',
       root: 'maala',
       prefixes: ['mi', 'le'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adverb',
       },
@@ -143,10 +122,7 @@ export const genesis_6_16: Verse = {
       englishNatural: 'and the opening of',
       root: 'petach',
       prefixes: ['u'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -161,10 +137,7 @@ export const genesis_6_16: Verse = {
       englishNatural: 'the ark',
       root: 'tevah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -179,10 +152,7 @@ export const genesis_6_16: Verse = {
       root: 'tzad',
       prefixes: ['be'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -195,10 +165,7 @@ export const genesis_6_16: Verse = {
       englishLiteral: 'you-shall-set',
       englishNatural: 'you shall set',
       root: 'sim',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -219,10 +186,7 @@ export const genesis_6_16: Verse = {
       englishLiteral: 'lower',
       englishNatural: 'lower',
       root: 'tachti',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -235,10 +199,7 @@ export const genesis_6_16: Verse = {
       englishLiteral: 'second',
       englishNatural: 'second',
       root: 'sheni',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -252,10 +213,7 @@ export const genesis_6_16: Verse = {
       englishNatural: 'and third',
       root: 'shlishi',
       prefixes: ['u'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -269,10 +227,7 @@ export const genesis_6_16: Verse = {
       englishNatural: 'you shall make it',
       root: 'asah',
       suffixes: ['ah'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -298,6 +253,6 @@ export const genesis_6_16: Verse = {
     englishNatural:
       'A illunination you shall make for the ark, and to a cubit you shall finish it from upward; and the opening of the ark in its side you shall set; lower second and third you shall make it.',
     kjv: 'A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

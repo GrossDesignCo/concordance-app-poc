@@ -70,10 +70,7 @@ export const genesis_2_8: Verse = {
       englishLiteral: 'garden',
       englishNatural: 'a garden',
       root: 'gan',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -87,10 +84,7 @@ export const genesis_2_8: Verse = {
       englishNatural: 'in Delight (Eden)',
       root: 'eden',
       prefixes: ['be'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
       },
@@ -102,10 +96,7 @@ export const genesis_2_8: Verse = {
       englishNatural: 'from the east',
       root: 'qedem',
       prefixes: ['mi'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -121,10 +112,7 @@ export const genesis_2_8: Verse = {
       englishNatural: 'and set',
       root: 'sim',
       prefixes: ['va'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -141,10 +129,7 @@ export const genesis_2_8: Verse = {
       englishLiteral: 'there',
       englishNatural: 'there',
       root: 'sham',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adverb',
       },
@@ -155,10 +140,7 @@ export const genesis_2_8: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
     },
     {
       hebrew: 'הָאָדָם',
@@ -167,10 +149,7 @@ export const genesis_2_8: Verse = {
       englishNatural: 'the Earth (Adam)',
       root: 'adam',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -183,10 +162,7 @@ export const genesis_2_8: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'relative',
       },
@@ -197,10 +173,7 @@ export const genesis_2_8: Verse = {
       englishLiteral: 'formed',
       englishNatural: 'he formed',
       root: 'yatsar',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -226,6 +199,6 @@ export const genesis_2_8: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God planted a garden in Delight (Eden) from the east, and set there the Earth (Adam) which he formed.',
     kjv: 'And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

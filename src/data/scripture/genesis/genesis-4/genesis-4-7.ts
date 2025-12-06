@@ -14,10 +14,7 @@ export const genesis_4_7: Verse = {
       englishNatural: 'And is there not',
       root: 'lo',
       prefixes: ['va', 'ha'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
@@ -33,10 +30,7 @@ export const genesis_4_7: Verse = {
       englishLiteral: 'if-',
       englishNatural: 'if',
       root: 'im',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'conjunction',
       },
@@ -47,10 +41,7 @@ export const genesis_4_7: Verse = {
       englishLiteral: 'you-do_well',
       englishNatural: 'you do-well',
       root: 'yatav',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -70,10 +61,7 @@ export const genesis_4_7: Verse = {
       englishLiteral: 'lifting_up',
       englishNatural: 'lifting-up',
       root: 'nasa',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -92,10 +80,7 @@ export const genesis_4_7: Verse = {
       englishNatural: 'And if',
       root: 'im',
       prefixes: ['ve'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'conjunction',
       },
@@ -146,10 +131,7 @@ export const genesis_4_7: Verse = {
       englishNatural: 'to the opening',
       root: 'petach',
       prefixes: ['la'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -162,10 +144,7 @@ export const genesis_4_7: Verse = {
       englishLiteral: 'sin',
       englishNatural: 'sin',
       root: 'chata',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -178,10 +157,7 @@ export const genesis_4_7: Verse = {
       englishLiteral: 'crouching',
       englishNatural: 'is crouching',
       root: 'ravatz',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -203,10 +179,7 @@ export const genesis_4_7: Verse = {
       root: 'el',
       prefixes: ['ve'],
       suffixes: ['kha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         person: '2nd',
         type: 'preposition',
@@ -219,10 +192,7 @@ export const genesis_4_7: Verse = {
       englishNatural: 'is its fixation',
       root: 'teshuqah',
       suffixes: ['o'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -241,10 +211,7 @@ export const genesis_4_7: Verse = {
       englishNatural: 'and you',
       root: 'atah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -258,10 +225,7 @@ export const genesis_4_7: Verse = {
       englishLiteral: 'you-will-rule-',
       englishNatural: 'will rule',
       root: 'mashal',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -277,10 +241,7 @@ export const genesis_4_7: Verse = {
       englishLiteral: 'over-it',
       englishNatural: 'over it',
       root: 'bo',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -304,6 +265,6 @@ export const genesis_4_7: Verse = {
     englishNatural:
       'And is there not, if you do-well, lifting-up? And if you do-well not, to the opening sin is crouching, and to you is its fixation, and you will rule over it."',
     kjv: 'If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

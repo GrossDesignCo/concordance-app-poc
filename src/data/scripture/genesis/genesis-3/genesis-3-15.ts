@@ -14,10 +14,7 @@ export const genesis_3_15: Verse = {
       englishNatural: 'And enmity',
       root: 'eivah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -31,10 +28,7 @@ export const genesis_3_15: Verse = {
       englishLiteral: 'I-will_place',
       englishNatural: 'I will place',
       root: 'sim',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         person: '1st',
         number: 'singular',
@@ -50,10 +44,7 @@ export const genesis_3_15: Verse = {
       englishNatural: 'between you',
       root: 'beyn',
       suffixes: ['kha'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition'
       },
@@ -66,10 +57,7 @@ export const genesis_3_15: Verse = {
       englishNatural: 'and between',
       root: 'beyn',
       prefixes: ['u'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition'
       },
@@ -81,10 +69,7 @@ export const genesis_3_15: Verse = {
       englishNatural: 'the woman',
       root: 'ishah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -102,10 +87,7 @@ export const genesis_3_15: Verse = {
       englishNatural: 'and between',
       root: 'beyn',
       prefixes: ['u'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition'
       },
@@ -118,10 +100,7 @@ export const genesis_3_15: Verse = {
       englishNatural: 'your seed',
       root: 'zera',
       suffixes: ['kha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -135,10 +114,7 @@ export const genesis_3_15: Verse = {
       englishNatural: 'and between',
       root: 'beyn',
       prefixes: ['u'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'preposition'
       },
@@ -150,10 +126,7 @@ export const genesis_3_15: Verse = {
       englishNatural: 'her seed',
       root: 'zera',
       suffixes: ['ah'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -170,10 +143,7 @@ export const genesis_3_15: Verse = {
       englishLiteral: 'he',
       englishNatural: 'he',
       root: 'hu',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'pronoun'
       },
@@ -187,10 +157,7 @@ export const genesis_3_15: Verse = {
       root: 'shuf',
       prefixes: ['ye'],
       suffixes: ['kha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -206,10 +173,7 @@ export const genesis_3_15: Verse = {
       englishLiteral: 'head',
       englishNatural: 'head',
       root: 'rosh',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -227,10 +191,7 @@ export const genesis_3_15: Verse = {
       englishNatural: 'and you',
       root: 'atah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'pronoun'
       },
@@ -244,10 +205,7 @@ export const genesis_3_15: Verse = {
       root: 'shuf',
       prefixes: ['te'],
       suffixes: ['nu_object'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -263,10 +221,7 @@ export const genesis_3_15: Verse = {
       englishLiteral: 'heel',
       englishNatural: 'heel',
       root: 'aqev',
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -285,6 +240,6 @@ export const genesis_3_15: Verse = {
     englishLiteral: 'And-enmity I-will_place between-you and-between the-woman, and-between seed-your and-between seed-her; he he-will-bruise-your head, and-you you-will-bruise-his heel."',
     englishNatural: 'And enmity I will place between you and between the woman, and between your seed and between her seed; he will bruise your head, and you will bruise his heel."',
     kjv: 'And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

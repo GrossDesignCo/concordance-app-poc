@@ -14,10 +14,7 @@ export const proverbs_8_2: Verse = {
       englishNatural: 'In head of',
       root: 'rosh',
       prefixes: ['be'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -31,10 +28,7 @@ export const proverbs_8_2: Verse = {
       englishNatural: 'heights',
       root: 'marom',
       suffixes: ['im'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -47,10 +41,7 @@ export const proverbs_8_2: Verse = {
       englishLiteral: 'overlooking',
       englishNatural: 'overlooking',
       root: 'alei',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -61,10 +52,7 @@ export const proverbs_8_2: Verse = {
       englishLiteral: 'way',
       englishNatural: 'a way',
       root: 'derekh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -81,10 +69,7 @@ export const proverbs_8_2: Verse = {
       englishLiteral: 'between',
       englishNatural: 'between',
       root: 'bein',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -97,10 +82,7 @@ export const proverbs_8_2: Verse = {
       englishNatural: 'paths',
       root: 'netivah',
       suffixes: ['ot'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -113,10 +95,7 @@ export const proverbs_8_2: Verse = {
       englishLiteral: 'she-has-stationed_herself',
       englishNatural: 'she has stationed-herself',
       root: 'netzav',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -137,6 +116,6 @@ export const proverbs_8_2: Verse = {
     englishLiteral: 'In-head-of heights overlooking way, between paths she-has-stationed_herself;',
     englishNatural: 'In head of heights overlooking a way, between paths she has stationed-herself;',
     kjv: 'She standeth in the top of high places, by the way in the places where the paths meet',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

@@ -14,10 +14,7 @@ export const genesis_2_10: Verse = {
       englishNatural: 'And a river',
       root: 'nahar',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -31,10 +28,7 @@ export const genesis_2_10: Verse = {
       englishLiteral: 'goes-out',
       englishNatural: 'went out',
       root: 'yatsa',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -51,10 +45,7 @@ export const genesis_2_10: Verse = {
       englishNatural: 'from Delight (Eden)',
       root: 'eden',
       prefixes: ['me'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
       },
@@ -66,10 +57,7 @@ export const genesis_2_10: Verse = {
       englishNatural: 'to give-drink to',
       root: 'shaqah',
       prefixes: ['le', 'ha'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'verb',
         stem: 'hiphil',
@@ -82,10 +70,7 @@ export const genesis_2_10: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
     },
     {
       hebrew: 'הַגָּן',
@@ -94,10 +79,7 @@ export const genesis_2_10: Verse = {
       englishNatural: 'the garden',
       root: 'gan',
       prefixes: ['ha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -115,10 +97,7 @@ export const genesis_2_10: Verse = {
       englishNatural: 'and from there',
       root: 'sham',
       prefixes: ['u', 'mi'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adverb',
       },
@@ -129,10 +108,7 @@ export const genesis_2_10: Verse = {
       englishLiteral: 'will-part',
       englishNatural: 'parted',
       root: 'parad',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -149,10 +125,7 @@ export const genesis_2_10: Verse = {
       englishNatural: 'and became',
       root: 'hayah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -169,10 +142,7 @@ export const genesis_2_10: Verse = {
       englishNatural: 'into four',
       root: 'arba',
       prefixes: ['le'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'numeral',
       },
@@ -183,10 +153,7 @@ export const genesis_2_10: Verse = {
       englishLiteral: 'heads',
       englishNatural: 'heads',
       root: 'rosh',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -209,6 +176,6 @@ export const genesis_2_10: Verse = {
     englishNatural:
       'And a river went out from Delight (Eden) to give-drink to the garden, and from there parted and became into four heads.',
     kjv: 'And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

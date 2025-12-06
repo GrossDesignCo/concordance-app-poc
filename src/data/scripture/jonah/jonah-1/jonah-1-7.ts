@@ -56,10 +56,7 @@ export const jonah_1_7: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -71,10 +68,7 @@ export const jonah_1_7: Verse = {
       englishNatural: 'his friend',
       root: 'rea',
       suffixes: ['hu'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -91,10 +85,7 @@ export const jonah_1_7: Verse = {
       englishLiteral: 'Go',
       englishNatural: 'Go',
       root: 'lekhu',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -120,10 +111,7 @@ export const jonah_1_7: Verse = {
       root: 'naphal',
       prefixes: ['ve'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -141,10 +129,7 @@ export const jonah_1_7: Verse = {
       englishNatural: 'lots',
       root: 'goral',
       suffixes: ['ot'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -163,10 +148,7 @@ export const jonah_1_7: Verse = {
       root: 'yada',
       prefixes: ['ve'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -183,10 +165,7 @@ export const jonah_1_7: Verse = {
       englishLiteral: 'for-whose-sake',
       englishNatural: 'for whose sake',
       root: 'beshelmi',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -199,10 +178,7 @@ export const jonah_1_7: Verse = {
       root: 'ra',
       prefixes: ['ha'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -215,10 +191,7 @@ export const jonah_1_7: Verse = {
       englishLiteral: 'this',
       englishNatural: 'is',
       root: 'hazot',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -231,10 +204,7 @@ export const jonah_1_7: Verse = {
       englishLiteral: 'to-us',
       englishNatural: 'to us',
       root: 'lanu',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -252,10 +222,7 @@ export const jonah_1_7: Verse = {
       root: 'naphal',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -273,10 +240,7 @@ export const jonah_1_7: Verse = {
       englishNatural: 'lots',
       root: 'goral',
       suffixes: ['ot'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -330,10 +294,7 @@ export const jonah_1_7: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'preposition',
       },
@@ -344,10 +305,7 @@ export const jonah_1_7: Verse = {
       englishLiteral: 'Dove (Jonah)',
       englishNatural: 'Dove (Jonah)',
       root: 'yonah',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -370,6 +328,6 @@ export const jonah_1_7: Verse = {
     englishNatural:
       'And man said to his friend, "Go, and let us cause-to-fall lots, and let us know for whose sake this bad is to us." And they caused-to-fall lots, and the lot fell over Dove (Jonah).',
     kjv: 'And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-09-29' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

@@ -13,10 +13,7 @@ export const genesis_6_9: Verse = {
       englishLiteral: 'These',
       englishNatural: 'These',
       root: 'eleh',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'pronoun',
       },
@@ -28,10 +25,7 @@ export const genesis_6_9: Verse = {
       englishLiteral: 'birthings-of',
       englishNatural: 'are the birthings of',
       root: 'toledot',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -45,10 +39,7 @@ export const genesis_6_9: Verse = {
       englishLiteral: 'Rest (Noah)',
       englishNatural: 'Rest (Noah)',
       root: 'noach',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
       },
@@ -64,10 +55,7 @@ export const genesis_6_9: Verse = {
       englishLiteral: 'Rest (Noah)',
       englishNatural: 'Rest (Noah)',
       root: 'noach',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -83,10 +71,7 @@ export const genesis_6_9: Verse = {
       englishLiteral: 'man',
       englishNatural: 'a man',
       root: 'ish',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -99,10 +84,7 @@ export const genesis_6_9: Verse = {
       englishLiteral: 'righteous',
       englishNatural: 'righteous',
       root: 'tzaddiq',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -119,10 +101,7 @@ export const genesis_6_9: Verse = {
       englishLiteral: 'blameless',
       englishNatural: 'blameless',
       root: 'tamim',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -135,10 +114,7 @@ export const genesis_6_9: Verse = {
       englishLiteral: 'he-was',
       englishNatural: 'he was',
       root: 'hayah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -156,10 +132,7 @@ export const genesis_6_9: Verse = {
       root: 'dor',
       prefixes: ['be'],
       suffixes: ['av'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -258,6 +231,6 @@ export const genesis_6_9: Verse = {
     englishNatural:
       'These are the birthings of Rest (Noah); Rest (Noah), a man righteous, blameless he was in his generation; Rest (Noah) walked-with the God.',
     kjv: 'These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

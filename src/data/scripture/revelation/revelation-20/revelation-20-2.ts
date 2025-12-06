@@ -13,10 +13,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'and',
       englishNatural: 'and',
       root: 'kai',
-      order: {
-        greek: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'conjunction',
       },
@@ -27,10 +24,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'he-seized',
       englishNatural: 'he seized',
       root: 'krateo',
-      order: {
-        greek: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         number: 'singular',
         person: '3rd',
@@ -46,10 +40,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'the',
       englishNatural: 'the',
       root: 'ho',
-      order: {
-        greek: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'article',
         gender: 'masculine',
@@ -64,10 +55,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'dragon',
       englishNatural: 'dragon',
       root: 'drakon',
-      order: {
-        greek: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -86,10 +74,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'The',
       englishNatural: 'The',
       root: 'ho',
-      order: {
-        greek: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'article',
         gender: 'masculine',
@@ -104,10 +89,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'Snake',
       englishNatural: 'Snake',
       root: 'ophis',
-      order: {
-        greek: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -126,10 +108,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'The',
       englishNatural: 'The',
       root: 'ho',
-      order: {
-        greek: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'article',
         gender: 'masculine',
@@ -144,10 +123,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'Ancient',
       englishNatural: 'Ancient',
       root: 'archaios',
-      order: {
-        greek: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -166,10 +142,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'who',
       englishNatural: 'who',
       root: 'hos',
-      order: {
-        greek: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -183,10 +156,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'is',
       englishNatural: 'is',
       root: 'eimi',
-      order: {
-        greek: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         number: 'singular',
         person: '3rd',
@@ -202,10 +172,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'Accuser',
       englishNatural: 'Accuser',
       root: 'diabolos',
-      order: {
-        greek: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -220,10 +187,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'and',
       englishNatural: 'and',
       root: 'kai',
-      order: {
-        greek: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'conjunction',
       },
@@ -234,10 +198,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'The',
       englishNatural: 'The',
       root: 'ho',
-      order: {
-        greek: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'article',
         gender: 'masculine',
@@ -252,10 +213,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'Adversary',
       englishNatural: 'Adversary',
       root: 'satanas',
-      order: {
-        greek: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -274,10 +232,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'and',
       englishNatural: 'and',
       root: 'kai',
-      order: {
-        greek: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         type: 'conjunction',
       },
@@ -288,10 +243,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'he-bound',
       englishNatural: 'he bound',
       root: 'deo',
-      order: {
-        greek: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         number: 'singular',
         person: '3rd',
@@ -307,10 +259,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'him',
       englishNatural: 'him',
       root: 'autos',
-      order: {
-        greek: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -324,10 +273,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'thousand',
       englishNatural: 'a thousand',
       root: 'chilioi',
-      order: {
-        greek: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'neuter',
         number: 'plural',
@@ -341,10 +287,7 @@ export const revelation_20_2: Verse = {
       englishLiteral: 'years',
       englishNatural: 'years',
       root: 'etos',
-      order: {
-        greek: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'neuter',
         number: 'plural',
@@ -363,6 +306,6 @@ export const revelation_20_2: Verse = {
     englishLiteral: 'and he-seized the dragon, The Snake, The Ancient, who is Accuser and The Adversary, and he-bound him thousand years.',
     englishNatural: 'and he seized the dragon, The Snake, The Ancient, who is Accuser and The Adversary, and he bound him a thousand years.',
     kjv: 'And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 }; 

@@ -13,10 +13,7 @@ export const psalms_131_3: Verse = {
       englishLiteral: 'Hope',
       englishNatural: 'Hope',
       root: 'yachal',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -37,10 +34,7 @@ export const psalms_131_3: Verse = {
       englishLiteral: 'Struggles_with_God (Israel)',
       englishNatural: 'Struggles-with-God (Israel)',
       root: 'yisrael',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
       },
@@ -51,10 +45,7 @@ export const psalms_131_3: Verse = {
       englishLiteral: 'to-',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -65,10 +56,7 @@ export const psalms_131_3: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -85,10 +73,7 @@ export const psalms_131_3: Verse = {
       englishNatural: 'from now',
       root: 'atah',
       prefixes: ['me'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'adverb',
       },
@@ -100,10 +85,7 @@ export const psalms_131_3: Verse = {
       englishNatural: 'and on-behalf-of',
       root: 'ad',
       prefixes: ['ve'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -114,10 +96,7 @@ export const psalms_131_3: Verse = {
       englishLiteral: 'the_age',
       englishNatural: 'the-age',
       root: 'olam',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -137,6 +116,6 @@ export const psalms_131_3: Verse = {
     englishNatural:
       'Hope, Struggles-with-God (Israel) to He-Who-Is (YHWH), from now and on-behalf-of the-age.',
     kjv: 'Let Israel hope in the LORD from henceforth and for ever.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

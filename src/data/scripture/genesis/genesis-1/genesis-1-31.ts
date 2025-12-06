@@ -62,10 +62,7 @@ export const genesis_1_31: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
     },
     {
       hebrew: 'כָּל',
@@ -73,10 +70,7 @@ export const genesis_1_31: Verse = {
       englishLiteral: 'all',
       englishNatural: 'all',
       root: 'kol',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'adjective',
       },
@@ -87,10 +81,7 @@ export const genesis_1_31: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which was',
       root: 'asher',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'relative',
       },
@@ -101,10 +92,7 @@ export const genesis_1_31: Verse = {
       englishLiteral: 'made',
       englishNatural: 'made',
       root: 'asah',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -125,10 +113,7 @@ export const genesis_1_31: Verse = {
       englishNatural: 'And behold',
       root: 'hinneh',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'interjection',
       },
@@ -333,6 +318,6 @@ export const genesis_1_31: Verse = {
     englishLiteral: 'And-saw Gods, ↳ all which made, And-behold, good very. And-was evening, And-was morning, Day the-sixth.',
     englishNatural: 'And God saw, all which was made, And behold, very good. And evening was, And morning was, The sixth day.',
     kjv: 'And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-10' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

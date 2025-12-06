@@ -13,10 +13,7 @@ export const proverbs_8_22: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
       },
@@ -29,10 +26,7 @@ export const proverbs_8_22: Verse = {
       englishNatural: 'acquired me',
       root: 'qanah',
       suffixes: ['ni'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -52,10 +46,7 @@ export const proverbs_8_22: Verse = {
       englishLiteral: 'heading-of',
       englishNatural: 'the heading of',
       root: 'rosh',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -69,10 +60,7 @@ export const proverbs_8_22: Verse = {
       englishNatural: 'his way',
       root: 'derekh',
       suffixes: ['o'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -89,10 +77,7 @@ export const proverbs_8_22: Verse = {
       englishLiteral: 'before',
       englishNatural: 'before',
       root: 'qedem',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'adverb',
       },
@@ -106,10 +91,7 @@ export const proverbs_8_22: Verse = {
       root: 'paal',
       prefixes: ['mi'],
       suffixes: ['av'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -123,10 +105,7 @@ export const proverbs_8_22: Verse = {
       englishNatural: 'from that-time',
       root: 'az',
       prefixes: ['me'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adverb',
       },
@@ -144,6 +123,6 @@ export const proverbs_8_22: Verse = {
     englishNatural:
       'He-Who-Is (YHWH) acquired me, the heading of his way, before his works from that-time.',
     kjv: 'The LORD possessed me in the beginning of his way, before his works of old',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

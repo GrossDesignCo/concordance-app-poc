@@ -81,10 +81,7 @@ export const genesis_5_14: Verse = {
       englishLiteral: 'ten',
       englishNatural: 'ten',
       root: 'esreh',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -98,10 +95,7 @@ export const genesis_5_14: Verse = {
       englishNatural: 'years',
       root: 'shanah',
       suffixes: ['im'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -115,10 +109,7 @@ export const genesis_5_14: Verse = {
       englishNatural: 'and nine',
       root: 'tesha',
       prefixes: ['u'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -131,10 +122,7 @@ export const genesis_5_14: Verse = {
       englishLiteral: 'hundreds',
       englishNatural: 'hundred',
       root: 'meah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -148,10 +136,7 @@ export const genesis_5_14: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -169,10 +154,7 @@ export const genesis_5_14: Verse = {
       englishNatural: 'and he died',
       root: 'mut',
       prefixes: ['va'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -199,6 +181,6 @@ export const genesis_5_14: Verse = {
     englishNatural:
       'And all the days of Nest (Cainan) were ten years and nine hundred years, and he died.',
     kjv: 'And all the days of Cainan were nine hundred and ten years: and he died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

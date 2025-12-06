@@ -14,10 +14,7 @@ export const genesis_5_29: Verse = {
       englishNatural: 'And he called-out',
       root: 'qara',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -33,10 +30,7 @@ export const genesis_5_29: Verse = {
       transliteration: 'et-',
       englishLiteral: '↳',
       root: 'et',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
     },
     {
       hebrew: 'שְׁמוֹ',
@@ -45,10 +39,7 @@ export const genesis_5_29: Verse = {
       englishNatural: 'his name',
       root: 'shem',
       suffixes: ['o'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -62,10 +53,7 @@ export const genesis_5_29: Verse = {
       englishLiteral: 'Rest (Noah)',
       englishNatural: 'Rest (Noah)',
       root: 'nuach',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
         state: 'absolute',
@@ -86,10 +74,7 @@ export const genesis_5_29: Verse = {
       englishNatural: 'to say',
       root: 'amar',
       prefixes: ['le'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'verb',
         stem: 'qal',
@@ -106,10 +91,7 @@ export const genesis_5_29: Verse = {
       englishLiteral: 'This',
       englishNatural: 'This',
       root: 'zeh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'pronoun',
       },
@@ -127,10 +109,7 @@ export const genesis_5_29: Verse = {
       root: 'nacham',
       prefixes: ['ye'],
       suffixes: ['nu'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -148,10 +127,7 @@ export const genesis_5_29: Verse = {
       root: 'asah',
       prefixes: ['mi', 'ma'],
       suffixes: ['enu'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -166,10 +142,7 @@ export const genesis_5_29: Verse = {
       englishNatural: 'and from the pain',
       root: 'etzev',
       prefixes: ['u', 'me'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -185,10 +158,7 @@ export const genesis_5_29: Verse = {
       englishNatural: 'of our hands',
       root: 'yad',
       suffixes: ['enu'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -206,10 +176,7 @@ export const genesis_5_29: Verse = {
       englishLiteral: 'from',
       englishNatural: 'from',
       root: 'min',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -222,10 +189,7 @@ export const genesis_5_29: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -239,10 +203,7 @@ export const genesis_5_29: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'relative',
       },
@@ -306,6 +267,6 @@ export const genesis_5_29: Verse = {
     englishNatural:
       'And he called-out his name "Rest (Noah)," to say, "This will comfort us from our making and from the pain of our hands, from the earth which He-Who-Is (YHWH) cursed."',
     kjv: 'And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

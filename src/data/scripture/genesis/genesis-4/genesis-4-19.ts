@@ -68,10 +68,7 @@ export const genesis_4_19: Verse = {
       englishLiteral: 'two',
       englishNatural: 'two',
       root: 'shnayim',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -84,10 +81,7 @@ export const genesis_4_19: Verse = {
       englishLiteral: 'women',
       englishNatural: 'women',
       root: 'ish',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -104,10 +98,7 @@ export const genesis_4_19: Verse = {
       englishLiteral: 'name',
       englishNatural: 'the name',
       root: 'shem',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -122,10 +113,7 @@ export const genesis_4_19: Verse = {
       englishNatural: 'of the one',
       root: 'echad',
       prefixes: ['ha'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'adjective',
         gender: 'feminine',
@@ -142,10 +130,7 @@ export const genesis_4_19: Verse = {
       englishLiteral: 'Ornament (Adah)',
       englishNatural: 'Ornament (Adah)',
       root: 'Adah',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -163,10 +148,7 @@ export const genesis_4_19: Verse = {
       englishNatural: 'and the name',
       root: 'shem',
       prefixes: ['ve'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -181,10 +163,7 @@ export const genesis_4_19: Verse = {
       englishNatural: 'of the second',
       root: 'sheni',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'adjective',
         gender: 'feminine',
@@ -201,10 +180,7 @@ export const genesis_4_19: Verse = {
       englishLiteral: 'Shadow (Zillah)',
       englishNatural: 'Shadow (Zillah)',
       root: 'Tzillah',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -227,6 +203,6 @@ export const genesis_4_19: Verse = {
     englishNatural:
       'And Powerful (Lamech) took to himself two women; the name of the one, Ornament (Adah), and the name of the second, Shadow (Zillah).',
     kjv: 'And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
 },
 };

@@ -54,10 +54,7 @@ export const exodus_34_5: Verse = {
       englishNatural: 'in the cloud',
       root: 'anan',
       prefixes: ['be'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -75,10 +72,7 @@ export const exodus_34_5: Verse = {
       englishNatural: 'and positioned himself',
       root: 'yatzav',
       prefixes: ['va'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -96,10 +90,7 @@ export const exodus_34_5: Verse = {
       englishNatural: 'with him',
       root: 'im_with',
       suffixes: ['hu'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -110,10 +101,7 @@ export const exodus_34_5: Verse = {
       englishLiteral: 'there',
       englishNatural: 'there',
       root: 'sham',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'adverb',
       },
@@ -129,10 +117,7 @@ export const exodus_34_5: Verse = {
       englishNatural: 'and called-out',
       root: 'qara',
       prefixes: ['va'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -150,10 +135,7 @@ export const exodus_34_5: Verse = {
       englishNatural: 'the name of',
       root: 'shem',
       prefixes: ['be'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -167,10 +149,7 @@ export const exodus_34_5: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
       },
@@ -191,6 +170,6 @@ export const exodus_34_5: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) went-down in the cloud, and positioned himself with him there, and called-out the name of He-Who-Is (YHWH).',
     kjv: 'And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

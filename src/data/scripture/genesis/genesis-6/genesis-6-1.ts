@@ -14,10 +14,7 @@ export const genesis_6_1: Verse = {
       englishNatural: 'And it was',
       root: 'hayah',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -38,10 +35,7 @@ export const genesis_6_1: Verse = {
       englishLiteral: 'that-',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'conjunction',
       },
@@ -89,10 +83,7 @@ export const genesis_6_1: Verse = {
       englishNatural: 'to multiply',
       root: 'rabah',
       prefixes: ['la'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'qal',
@@ -105,10 +96,7 @@ export const genesis_6_1: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -120,10 +108,7 @@ export const genesis_6_1: Verse = {
       englishNatural: 'the face of',
       root: 'panah',
       suffixes: ['ey'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -138,10 +123,7 @@ export const genesis_6_1: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -160,10 +142,7 @@ export const genesis_6_1: Verse = {
       englishNatural: 'and daughters',
       root: 'bat',
       prefixes: ['u'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -176,10 +155,7 @@ export const genesis_6_1: Verse = {
       englishLiteral: 'were-birthed',
       englishNatural: 'were birthed',
       root: 'yalad',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'plural',
@@ -196,10 +172,7 @@ export const genesis_6_1: Verse = {
       englishNatural: 'to them',
       root: 'lamed',
       suffixes: ['hem'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -223,6 +196,6 @@ export const genesis_6_1: Verse = {
     englishNatural:
       'And it was, that the Earth (Adam) began to multiply over the face of the earth; and daughters were birthed to them.',
     kjv: 'And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

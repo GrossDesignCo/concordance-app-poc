@@ -62,10 +62,7 @@ export const jonah_1_3: Verse = {
       englishNatural: 'to flee to',
       root: 'barach',
       prefixes: ['li'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'verb',
         tense: 'infinitive_construct',
@@ -79,10 +76,7 @@ export const jonah_1_3: Verse = {
       englishNatural: 'golden-stone (Tarshish)',
       root: 'tarshish',
       suffixes: ['ah'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -100,10 +94,7 @@ export const jonah_1_3: Verse = {
       englishLiteral: 'from-the-face-of',
       englishNatural: 'from the face of',
       root: 'millifney',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -115,10 +106,7 @@ export const jonah_1_3: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'noun',
       },
@@ -134,10 +122,7 @@ export const jonah_1_3: Verse = {
       englishNatural: 'and went-down to',
       root: 'yarad',
       prefixes: ['va'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -154,10 +139,7 @@ export const jonah_1_3: Verse = {
       englishLiteral: 'Beautiful (Joppa)',
       englishNatural: 'Beautiful (Joppa)',
       root: 'yafo',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -175,10 +157,7 @@ export const jonah_1_3: Verse = {
       englishNatural: 'and he found',
       root: 'matza',
       prefixes: ['va'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -195,10 +174,7 @@ export const jonah_1_3: Verse = {
       englishLiteral: 'ship',
       englishNatural: 'a ship',
       root: 'aniyah',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -211,10 +187,7 @@ export const jonah_1_3: Verse = {
       englishLiteral: 'going',
       englishNatural: 'going to',
       root: 'baah',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -229,10 +202,7 @@ export const jonah_1_3: Verse = {
       englishLiteral: 'golden_stone (Tarshish)',
       englishNatural: 'golden-stone (Tarshish)',
       root: 'tarshish',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -250,10 +220,7 @@ export const jonah_1_3: Verse = {
       englishNatural: 'and he paid',
       root: 'natan',
       prefixes: ['va'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -271,10 +238,7 @@ export const jonah_1_3: Verse = {
       englishNatural: 'the fare of it',
       root: 'sakhar',
       suffixes: ['ah'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -292,10 +256,7 @@ export const jonah_1_3: Verse = {
       englishNatural: 'and went-down',
       root: 'yarad',
       prefixes: ['va'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -313,10 +274,7 @@ export const jonah_1_3: Verse = {
       englishNatural: 'into it',
       root: 'be',
       suffixes: ['ah'],
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'preposition',
       },
@@ -332,10 +290,7 @@ export const jonah_1_3: Verse = {
       englishNatural: 'to go',
       root: 'bo',
       prefixes: ['la'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'verb',
         tense: 'infinitive_construct',
@@ -348,10 +303,7 @@ export const jonah_1_3: Verse = {
       englishLiteral: 'with-them',
       englishNatural: 'with them to',
       root: 'immahhem',
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         type: 'preposition',
       },
@@ -363,10 +315,7 @@ export const jonah_1_3: Verse = {
       englishNatural: 'golden-stone (Tarshish)',
       root: 'tarshish',
       suffixes: ['ah'],
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -384,10 +333,7 @@ export const jonah_1_3: Verse = {
       englishLiteral: 'from-the-face-of',
       englishNatural: 'from the face of',
       root: 'millifney',
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'preposition',
       },
@@ -399,10 +345,7 @@ export const jonah_1_3: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         type: 'noun',
       },
@@ -423,6 +366,6 @@ export const jonah_1_3: Verse = {
     englishNatural:
       'And Dove (Jonah) stood-up, to flee to golden-stone (Tarshish), from the face of He-Who-Is (YHWH), and went-down to Beautiful (Joppa); and he found a ship going to golden-stone (Tarshish); and he paid the fare of it, and went-down into it, to go with them to golden-stone (Tarshish), from the face of He-Who-Is (YHWH).',
     kjv: 'But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

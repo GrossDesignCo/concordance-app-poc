@@ -14,10 +14,7 @@ export const genesis_4_11: Verse = {
       englishNatural: 'And now',
       root: 'atah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'adverb',
       },
@@ -31,10 +28,7 @@ export const genesis_4_11: Verse = {
       englishLiteral: 'cursed',
       englishNatural: 'cursed',
       root: 'arar',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -49,10 +43,7 @@ export const genesis_4_11: Verse = {
       englishLiteral: 'you',
       englishNatural: 'are you',
       root: 'atah',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -70,10 +61,7 @@ export const genesis_4_11: Verse = {
       englishLiteral: 'from-',
       englishNatural: 'from',
       root: 'min',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'preposition',
       },
@@ -85,10 +73,7 @@ export const genesis_4_11: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -106,10 +91,7 @@ export const genesis_4_11: Verse = {
       englishLiteral: 'which',
       englishNatural: 'which',
       root: 'asher',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'pronoun',
       },
@@ -121,10 +103,7 @@ export const genesis_4_11: Verse = {
       englishNatural: 'has opened',
       root: 'patsa',
       suffixes: ['ah'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -140,10 +119,7 @@ export const genesis_4_11: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'particle',
       },
@@ -155,10 +131,7 @@ export const genesis_4_11: Verse = {
       englishNatural: 'her mouth',
       root: 'peh',
       suffixes: ['ah'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -172,10 +145,7 @@ export const genesis_4_11: Verse = {
       englishLiteral: 'to-take',
       englishNatural: 'to take',
       root: 'laqach',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'qal',
@@ -188,10 +158,7 @@ export const genesis_4_11: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'particle',
       },
@@ -203,10 +170,7 @@ export const genesis_4_11: Verse = {
       englishNatural: 'the blood of',
       root: 'dam',
       suffixes: ['ey'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -221,10 +185,7 @@ export const genesis_4_11: Verse = {
       englishNatural: 'your brother',
       root: 'ach',
       suffixes: ['kha'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -243,10 +204,7 @@ export const genesis_4_11: Verse = {
       root: 'yad',
       prefixes: ['mi'],
       suffixes: ['ekha'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -270,6 +228,6 @@ export const genesis_4_11: Verse = {
     englishNatural:
       'And now cursed are you, from the earth; which has opened her mouth to take the blood of your brother, from your hand.',
     kjv: "And now art thou cursed from the earth, which hath opened her mouth to receive thy brother's blood from thy hand.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

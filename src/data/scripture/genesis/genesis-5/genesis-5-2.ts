@@ -13,10 +13,7 @@ export const genesis_5_2: Verse = {
       englishLiteral: 'male',
       englishNatural: 'Male',
       root: 'zakhar',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -30,10 +27,7 @@ export const genesis_5_2: Verse = {
       englishNatural: 'and female',
       root: 'neqevah',
       prefixes: ['u'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -47,10 +41,7 @@ export const genesis_5_2: Verse = {
       englishNatural: 'he created',
       root: 'bara',
       suffixes: ['am'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -71,10 +62,7 @@ export const genesis_5_2: Verse = {
       englishNatural: 'and blessed',
       root: 'barakh',
       prefixes: ['va'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -92,10 +80,7 @@ export const genesis_5_2: Verse = {
       englishNatural: 'them',
       root: 'et',
       suffixes: ['am'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'pronoun',
         gender: 'masculine',
@@ -114,10 +99,7 @@ export const genesis_5_2: Verse = {
       englishNatural: 'and called-out',
       root: 'qara',
       prefixes: ['va'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -134,10 +116,7 @@ export const genesis_5_2: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
     },
     {
       hebrew: 'שְׁמָם',
@@ -146,10 +125,7 @@ export const genesis_5_2: Verse = {
       englishNatural: 'their name',
       root: 'shem',
       suffixes: ['am'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -167,10 +143,7 @@ export const genesis_5_2: Verse = {
       englishLiteral: 'Earth (Adam)',
       englishNatural: 'Earth (Adam)',
       root: 'adam',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -192,10 +165,7 @@ export const genesis_5_2: Verse = {
       englishNatural: 'in the day of',
       root: 'yom',
       prefixes: ['be'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -212,10 +182,7 @@ export const genesis_5_2: Verse = {
       root: 'bara',
       prefixes: ['hi'],
       suffixes: ['am'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'verb',
         stem: 'niphal',
@@ -238,6 +205,6 @@ export const genesis_5_2: Verse = {
     englishNatural:
       'Male and female he created; and blessed them, and called-out their name, "Earth (Adam)," in the day of them being created.',
     kjv: 'Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

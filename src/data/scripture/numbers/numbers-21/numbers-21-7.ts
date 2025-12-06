@@ -56,10 +56,7 @@ export const numbers_21_7: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         type: 'preposition',
       },
@@ -70,10 +67,7 @@ export const numbers_21_7: Verse = {
       englishLiteral: 'Draws_Out (Moses)',
       englishNatural: 'Draws-Out (Moses)',
       root: 'moshe',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -88,10 +82,7 @@ export const numbers_21_7: Verse = {
       root: 'amar',
       prefixes: ['va'],
       suffixes: ['u'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -113,10 +104,7 @@ export const numbers_21_7: Verse = {
       englishNatural: 'We have sinned',
       root: 'chata',
       suffixes: ['nu'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'common',
         number: 'plural',
@@ -140,10 +128,7 @@ export const numbers_21_7: Verse = {
       englishLiteral: 'that',
       englishNatural: 'that',
       root: 'ki',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'conjunction',
       },
@@ -155,10 +140,7 @@ export const numbers_21_7: Verse = {
       englishNatural: 'we have spoken',
       root: 'dabar',
       suffixes: ['nu'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'common',
         number: 'plural',
@@ -175,10 +157,7 @@ export const numbers_21_7: Verse = {
       englishNatural: 'against He-Who-Is (YHWH)',
       root: 'yhwh',
       prefixes: ['ba'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
     },
     {
       hebrew: 'וָבָךְ',
@@ -188,10 +167,7 @@ export const numbers_21_7: Verse = {
       root: 'atah',
       prefixes: ['va', 'be'],
       suffixes: ['kha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -211,10 +187,7 @@ export const numbers_21_7: Verse = {
       englishNatural: 'pray',
       root: 'palal',
       prefixes: ['hit'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -228,10 +201,7 @@ export const numbers_21_7: Verse = {
       englishLiteral: 'to',
       englishNatural: 'to',
       root: 'el',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -242,10 +212,7 @@ export const numbers_21_7: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       grammarSuffix: {
         englishLiteral: ',',
         englishNatural: ',',
@@ -258,10 +225,7 @@ export const numbers_21_7: Verse = {
       englishNatural: 'and may he turn-aside',
       root: 'sur',
       prefixes: ['ve'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -332,10 +296,7 @@ export const numbers_21_7: Verse = {
       englishNatural: 'prayed',
       root: 'palal',
       prefixes: ['va', 'yit'],
-      order: {
-        hebrew: 18,
-        english: 18, // Position shifts in English
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -412,6 +373,6 @@ export const numbers_21_7: Verse = {
     englishNatural:
       'And the people came to Draws-Out (Moses) and said, "We have sinned, that we have spoken against He-Who-Is (YHWH) and against you; pray to He-Who-Is (YHWH), and may he turn-aside the snake from over us." And Draws-Out (Moses) prayed on behalf of the people.',
     kjv: 'Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

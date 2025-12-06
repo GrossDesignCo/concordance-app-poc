@@ -14,10 +14,7 @@ export const genesis_4_10: Verse = {
       englishNatural: 'And he said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -38,10 +35,7 @@ export const genesis_4_10: Verse = {
       englishLiteral: 'What',
       englishNatural: 'What',
       root: 'mah',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'pronoun',
       },
@@ -57,10 +51,7 @@ export const genesis_4_10: Verse = {
       englishNatural: 'have you done',
       root: 'asah',
       suffixes: ['ta'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -83,10 +74,7 @@ export const genesis_4_10: Verse = {
       englishLiteral: 'Voice-of',
       englishNatural: 'The voice of',
       root: 'qol',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -101,10 +89,7 @@ export const genesis_4_10: Verse = {
       englishNatural: 'the blood of',
       root: 'dam',
       suffixes: ['ey'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -119,10 +104,7 @@ export const genesis_4_10: Verse = {
       englishNatural: 'your brother',
       root: 'ach',
       suffixes: ['kha'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -137,10 +119,7 @@ export const genesis_4_10: Verse = {
       englishNatural: 'is crying-out',
       root: 'tsaaq',
       suffixes: ['im'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -156,10 +135,7 @@ export const genesis_4_10: Verse = {
       englishNatural: 'to me',
       root: 'el',
       suffixes: ['i'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         number: 'singular',
         person: '1st',
@@ -172,10 +148,7 @@ export const genesis_4_10: Verse = {
       englishLiteral: 'from-',
       englishNatural: 'from',
       root: 'min',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'preposition',
       },
@@ -187,10 +160,7 @@ export const genesis_4_10: Verse = {
       englishNatural: 'the earth',
       root: 'adamah',
       prefixes: ['ha'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -213,6 +183,6 @@ export const genesis_4_10: Verse = {
     englishNatural:
       'And he said, "What have you done? The voice of the blood of your brother is crying-out to me from the earth.',
     kjv: "And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

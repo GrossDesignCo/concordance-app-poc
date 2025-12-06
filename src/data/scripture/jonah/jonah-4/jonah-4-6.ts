@@ -70,10 +70,7 @@ export const jonah_4_6: Verse = {
       englishLiteral: 'luscious_plant',
       englishNatural: 'a luscious-plant',
       root: 'qiqayon',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -91,10 +88,7 @@ export const jonah_4_6: Verse = {
       englishNatural: 'and made it go-up',
       root: 'alah',
       prefixes: ['va'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -112,10 +106,7 @@ export const jonah_4_6: Verse = {
       englishNatural: 'from over',
       root: 'al',
       prefixes: ['me'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -127,10 +118,7 @@ export const jonah_4_6: Verse = {
       englishNatural: 'to Dove (Jonah)',
       root: 'yonah',
       prefixes: ['le'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         type: 'noun',
       },
@@ -146,10 +134,7 @@ export const jonah_4_6: Verse = {
       englishNatural: 'to be',
       root: 'hayah',
       prefixes: ['li'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'qal',
@@ -163,10 +148,7 @@ export const jonah_4_6: Verse = {
       englishLiteral: 'shadow',
       englishNatural: 'a shadow',
       root: 'tzel',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -179,10 +161,7 @@ export const jonah_4_6: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -194,10 +173,7 @@ export const jonah_4_6: Verse = {
       englishNatural: 'his head',
       root: 'rosh',
       suffixes: ['o'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -215,10 +191,7 @@ export const jonah_4_6: Verse = {
       englishNatural: 'to deliver',
       root: 'natzal',
       prefixes: ['le'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'hiphil',
@@ -233,10 +206,7 @@ export const jonah_4_6: Verse = {
       englishNatural: 'to him',
       root: 'li',
       suffixes: ['o'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'preposition',
       },
@@ -249,10 +219,7 @@ export const jonah_4_6: Verse = {
       root: 'ra',
       prefixes: ['me'],
       suffixes: ['ato'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -309,10 +276,7 @@ export const jonah_4_6: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         type: 'preposition',
       },
@@ -324,10 +288,7 @@ export const jonah_4_6: Verse = {
       englishNatural: 'the luscious-plant',
       root: 'qiqayon',
       prefixes: ['ha'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -390,6 +351,6 @@ export const jonah_4_6: Verse = {
     englishNatural:
       'And He-Who-Is (YHWH) God appointed a luscious-plant, and made it go-up from over to Dove (Jonah), to be a shadow over his head, to deliver to him from his bad; and Dove (Jonah) rejoiced over the luscious-plant a great joy.',
     kjv: 'And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

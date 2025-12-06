@@ -14,10 +14,7 @@ export const psalms_23_3: Verse = {
       englishNatural: 'my throat',
       root: 'nephesh',
       suffixes: ['i'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -37,10 +34,7 @@ export const psalms_23_3: Verse = {
       englishNatural: 'he returns',
       root: 'shuv',
       prefixes: ['ye'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -62,10 +56,7 @@ export const psalms_23_3: Verse = {
       root: 'magal',
       prefixes: ['be'],
       suffixes: ['ei'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -80,10 +71,7 @@ export const psalms_23_3: Verse = {
       englishLiteral: 'righteousness',
       englishNatural: 'righteousness',
       root: 'tzedeq',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -102,10 +90,7 @@ export const psalms_23_3: Verse = {
       root: 'nachah',
       prefixes: ['ya'],
       suffixes: ['ni'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -126,10 +111,7 @@ export const psalms_23_3: Verse = {
       englishNatural: 'for the sake of',
       root: 'maan',
       prefixes: ['le'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'preposition',
       },
@@ -142,10 +124,7 @@ export const psalms_23_3: Verse = {
       englishNatural: 'his name',
       root: 'shem',
       suffixes: ['o'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -167,6 +146,6 @@ export const psalms_23_3: Verse = {
     englishNatural:
       'my throat, he returns; in paths of righteousness, he guides me, for the sake of his name.',
     kjv: "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-30' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

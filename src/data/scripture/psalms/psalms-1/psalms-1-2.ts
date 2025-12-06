@@ -13,10 +13,7 @@ export const psalms_1_2: Verse = {
       englishLiteral: 'That',
       englishNatural: 'That',
       root: 'ki',
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         type: 'conjunction',
       },
@@ -28,10 +25,7 @@ export const psalms_1_2: Verse = {
       englishLiteral: 'if',
       englishNatural: 'if',
       root: 'im',
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         type: 'conjunction',
       },
@@ -43,10 +37,7 @@ export const psalms_1_2: Verse = {
       englishNatural: 'in the law of',
       root: 'torah',
       prefixes: ['be'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -59,10 +50,7 @@ export const psalms_1_2: Verse = {
       englishLiteral: 'He_Who_Is (YHWH)',
       englishNatural: 'He-Who-Is (YHWH)',
       root: 'yhwh',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
       },
@@ -74,10 +62,7 @@ export const psalms_1_2: Verse = {
       englishNatural: 'his choice-thing',
       root: 'chafetz',
       suffixes: ['o'],
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -97,10 +82,7 @@ export const psalms_1_2: Verse = {
       root: 'torah',
       prefixes: ['u', 'be'],
       suffixes: ['o'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -116,10 +98,7 @@ export const psalms_1_2: Verse = {
       englishNatural: 'he meditates',
       root: 'hagah',
       prefixes: ['ye'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -136,10 +115,7 @@ export const psalms_1_2: Verse = {
       englishNatural: 'by day',
       root: 'yom',
       suffixes: ['am'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'adverb',
       },
@@ -152,10 +128,7 @@ export const psalms_1_2: Verse = {
       root: 'layil',
       prefixes: ['va'],
       suffixes: ['ah'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'adverb',
       },
@@ -176,6 +149,6 @@ export const psalms_1_2: Verse = {
     englishNatural:
       'That if in the law of He-Who-Is (YHWH) his choice-thing, and in his law he meditates by day and night.',
     kjv: 'But his delight is in the law of the LORD; and in his law doth he meditate day and night.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

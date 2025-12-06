@@ -105,10 +105,7 @@ export const genesis_1_20: Verse = {
       englishLiteral: 'swarm',
       englishNatural: 'a swarm',
       root: 'sharats',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -163,10 +160,7 @@ export const genesis_1_20: Verse = {
       englishNatural: 'And let flyer',
       root: 'uf',
       prefixes: ['ve'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -181,10 +175,7 @@ export const genesis_1_20: Verse = {
       englishNatural: 'fly',
       root: 'uf',
       prefixes: ['ye'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'verb',
       },
@@ -195,10 +186,7 @@ export const genesis_1_20: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'preposition',
       },
@@ -210,10 +198,7 @@ export const genesis_1_20: Verse = {
       englishNatural: 'the land',
       root: 'eretz',
       prefixes: ['ha'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -230,10 +215,7 @@ export const genesis_1_20: Verse = {
       englishLiteral: 'over',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'preposition',
       },
@@ -244,10 +226,7 @@ export const genesis_1_20: Verse = {
       englishLiteral: 'face-of',
       englishNatural: 'the face of',
       root: 'panah',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
       },
@@ -258,10 +237,7 @@ export const genesis_1_20: Verse = {
       englishLiteral: 'hammering_out',
       englishNatural: 'the hammering-out',
       root: 'raqia',
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -279,10 +255,7 @@ export const genesis_1_20: Verse = {
       englishNatural: 'the skies',
       root: 'shamayim',
       prefixes: ['ha'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -301,6 +274,6 @@ export const genesis_1_20: Verse = {
     englishLiteral: 'And-said Gods, "Let-swarm the-waters swarm throat living, And-flyer let-fly over the-land, over face-of hammering_out, the-skies."',
     englishNatural: 'And God said, "Let the waters swarm with a swarm, living throat, And let flyer fly over the land, over the face of the hammering-out, the skies."',
     kjv: 'And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 }; 

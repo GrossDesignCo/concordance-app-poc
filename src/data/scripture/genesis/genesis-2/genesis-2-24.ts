@@ -88,10 +88,7 @@ export const genesis_2_24: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
     },
     {
       hebrew: 'אָבִיו',
@@ -100,10 +97,7 @@ export const genesis_2_24: Verse = {
       englishNatural: 'his father',
       root: 'av',
       suffixes: ['av'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -121,10 +115,7 @@ export const genesis_2_24: Verse = {
       englishNatural: 'and',
       root: 'et',
       prefixes: ['ve'],
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
     },
     {
       hebrew: 'אִמּוֹ',
@@ -133,10 +124,7 @@ export const genesis_2_24: Verse = {
       englishNatural: 'his mother',
       root: 'em',
       suffixes: ['o'],
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -154,10 +142,7 @@ export const genesis_2_24: Verse = {
       englishNatural: 'and cling',
       root: 'davaq',
       prefixes: ['ve'],
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -175,10 +160,7 @@ export const genesis_2_24: Verse = {
       root: 'ishah',
       prefixes: ['be'],
       suffixes: ['o'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -196,10 +178,7 @@ export const genesis_2_24: Verse = {
       englishNatural: 'and will become',
       root: 'hayah',
       prefixes: ['ve'],
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -265,6 +244,6 @@ export const genesis_2_24: Verse = {
     englishNatural:
       'So moreover, Man will leave his father, and his mother, and cling in his woman, and will become one flesh.',
     kjv: 'Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

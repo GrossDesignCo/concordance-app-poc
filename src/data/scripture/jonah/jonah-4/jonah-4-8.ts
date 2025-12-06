@@ -14,10 +14,7 @@ export const jonah_4_8: Verse = {
       englishNatural: 'And it was',
       root: 'hayah',
       prefixes: ['va'],
-      order: {
-        hebrew: 1,
-        english: 1,
-      },
+      order: 1,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -35,10 +32,7 @@ export const jonah_4_8: Verse = {
       englishNatural: 'at the rising of',
       root: 'zarach',
       prefixes: ['ki'],
-      order: {
-        hebrew: 2,
-        english: 2,
-      },
+      order: 2,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'qal',
@@ -115,10 +109,7 @@ export const jonah_4_8: Verse = {
       englishLiteral: 'wind',
       englishNatural: 'a wind',
       root: 'ruach',
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -216,10 +207,7 @@ export const jonah_4_8: Verse = {
       englishLiteral: 'over-',
       englishNatural: 'over',
       root: 'al',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'preposition',
       },
@@ -230,10 +218,7 @@ export const jonah_4_8: Verse = {
       englishLiteral: 'head',
       englishNatural: 'the head of',
       root: 'rosh',
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -246,10 +231,7 @@ export const jonah_4_8: Verse = {
       englishLiteral: 'Dove (Jonah)',
       englishNatural: 'Dove (Jonah)',
       root: 'yonah',
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
       },
@@ -265,10 +247,7 @@ export const jonah_4_8: Verse = {
       englishNatural: 'and he fainted',
       root: 'alaf',
       prefixes: ['va'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -289,10 +268,7 @@ export const jonah_4_8: Verse = {
       englishNatural: 'and he asked',
       root: 'shaal',
       prefixes: ['va'],
-      order: {
-        hebrew: 15,
-        english: 15,
-      },
+      order: 15,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -309,10 +285,7 @@ export const jonah_4_8: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 16,
-        english: 16,
-      },
+      order: 16,
       morphology: {
         type: 'particle',
       },
@@ -324,10 +297,7 @@ export const jonah_4_8: Verse = {
       englishNatural: 'his throat',
       root: 'nephesh',
       suffixes: ['o'],
-      order: {
-        hebrew: 17,
-        english: 17,
-      },
+      order: 17,
       morphology: {
         gender: 'feminine',
         number: 'singular',
@@ -341,10 +311,7 @@ export const jonah_4_8: Verse = {
       englishNatural: 'to die',
       root: 'mot',
       prefixes: ['la'],
-      order: {
-        hebrew: 18,
-        english: 18,
-      },
+      order: 18,
       morphology: {
         tense: 'infinitive_construct',
         stem: 'qal',
@@ -362,10 +329,7 @@ export const jonah_4_8: Verse = {
       englishNatural: 'and he said',
       root: 'amar',
       prefixes: ['va'],
-      order: {
-        hebrew: 19,
-        english: 19,
-      },
+      order: 19,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -386,10 +350,7 @@ export const jonah_4_8: Verse = {
       englishLiteral: 'good',
       englishNatural: 'Good-is',
       root: 'tov',
-      order: {
-        hebrew: 20,
-        english: 20,
-      },
+      order: 20,
       morphology: {
         type: 'adjective',
       },
@@ -405,10 +366,7 @@ export const jonah_4_8: Verse = {
       englishNatural: 'my death',
       root: 'mot',
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 21,
-        english: 21,
-      },
+      order: 21,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -423,10 +381,7 @@ export const jonah_4_8: Verse = {
       root: 'chayyim',
       prefixes: ['me'],
       suffixes: ['i_possessive'],
-      order: {
-        hebrew: 22,
-        english: 22,
-      },
+      order: 22,
       morphology: {
         gender: 'masculine',
         number: 'plural',
@@ -449,6 +404,6 @@ export const jonah_4_8: Verse = {
     englishNatural:
       'And it was at the rising of the sun; and God appointed a wind, a scorching east-wind, and the sun struck over the head of Dove (Jonah), and he fainted; and he asked his throat to die, and he said, "Good-is my death from my life."',
     kjv: 'And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-10-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

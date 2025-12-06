@@ -49,10 +49,7 @@ export const genesis_5_22: Verse = {
       englishLiteral: '↳',
       englishNatural: 'with',
       root: 'et',
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
     },
     {
       hebrew: 'הָאֱלֹהִים',
@@ -62,10 +59,7 @@ export const genesis_5_22: Verse = {
       root: 'eloah',
       prefixes: ['ha'],
       suffixes: ['im'],
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -82,10 +76,7 @@ export const genesis_5_22: Verse = {
       englishLiteral: 'after',
       englishNatural: 'after',
       root: 'achar',
-      order: {
-        hebrew: 5,
-        english: 5,
-      },
+      order: 5,
       morphology: {
         type: 'preposition',
       },
@@ -98,10 +89,7 @@ export const genesis_5_22: Verse = {
       root: 'yalad',
       prefixes: ['ho'],
       suffixes: ['o'],
-      order: {
-        hebrew: 6,
-        english: 6,
-      },
+      order: 6,
       morphology: {
         type: 'verb',
         stem: 'hiphil',
@@ -114,10 +102,7 @@ export const genesis_5_22: Verse = {
       englishLiteral: '↳',
       englishNatural: '',
       root: 'et',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
     },
     {
       hebrew: 'מְתוּשָׁלַח',
@@ -125,10 +110,7 @@ export const genesis_5_22: Verse = {
       englishLiteral: 'Man-of-the-Dart (Methuselah)',
       englishNatural: 'Man-of-the-Dart (Methuselah)',
       root: 'Metushalach',
-      order: {
-        hebrew: 8,
-        english: 8,
-      },
+      order: 8,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -149,10 +131,7 @@ export const genesis_5_22: Verse = {
       englishLiteral: 'three',
       englishNatural: 'three',
       root: 'shalosh',
-      order: {
-        hebrew: 9,
-        english: 9,
-      },
+      order: 9,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -166,10 +145,7 @@ export const genesis_5_22: Verse = {
       englishNatural: 'hundred',
       root: 'meah',
       prefixes: ['me'],
-      order: {
-        hebrew: 10,
-        english: 10,
-      },
+      order: 10,
       morphology: {
         type: 'numeral',
         gender: 'feminine',
@@ -183,10 +159,7 @@ export const genesis_5_22: Verse = {
       englishLiteral: 'year',
       englishNatural: 'years',
       root: 'shanah',
-      order: {
-        hebrew: 11,
-        english: 11,
-      },
+      order: 11,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -204,10 +177,7 @@ export const genesis_5_22: Verse = {
       englishNatural: 'and birthed',
       root: 'yalad',
       prefixes: ['va'],
-      order: {
-        hebrew: 12,
-        english: 12,
-      },
+      order: 12,
       morphology: {
         type: 'verb',
         person: '3rd',
@@ -225,10 +195,7 @@ export const genesis_5_22: Verse = {
       englishNatural: 'sons',
       root: 'ben',
       suffixes: ['im'],
-      order: {
-        hebrew: 13,
-        english: 13,
-      },
+      order: 13,
       morphology: {
         type: 'noun',
         gender: 'masculine',
@@ -243,10 +210,7 @@ export const genesis_5_22: Verse = {
       root: 'bat',
       prefixes: ['u'],
       suffixes: ['ot'],
-      order: {
-        hebrew: 14,
-        english: 14,
-      },
+      order: 14,
       morphology: {
         type: 'noun',
         gender: 'feminine',
@@ -269,6 +233,6 @@ export const genesis_5_22: Verse = {
     englishNatural:
       'And Dedicated (Enoch) walked with the God, after he had birthed "Man-of-the-Dart (Methuselah)," three hundred years, and birthed sons and daughters.',
     kjv: 'And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-07-22' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

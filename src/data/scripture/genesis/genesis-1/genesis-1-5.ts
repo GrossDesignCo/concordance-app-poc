@@ -51,10 +51,7 @@ export const genesis_1_5: Verse = {
       englishNatural: 'to the light',
       root: 'or',
       prefixes: ['la'],
-      order: {
-        hebrew: 3,
-        english: 3,
-      },
+      order: 3,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -70,10 +67,7 @@ export const genesis_1_5: Verse = {
       englishLiteral: 'Day',
       englishNatural: 'Day',
       root: 'yom',
-      order: {
-        hebrew: 4,
-        english: 4,
-      },
+      order: 4,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -140,10 +134,7 @@ export const genesis_1_5: Verse = {
       englishLiteral: 'Night',
       englishNatural: 'Night',
       root: 'layil',
-      order: {
-        hebrew: 7,
-        english: 7,
-      },
+      order: 7,
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -319,6 +310,6 @@ export const genesis_1_5: Verse = {
     englishNatural:
       'And God called-out to the light "Day," and called-out to darkness "Night." And evening was, And morning was, One day.',
     kjv: 'And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-26' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };
