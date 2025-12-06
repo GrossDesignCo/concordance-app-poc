@@ -8,6 +8,7 @@ import genesis_6 from './genesis-6';
 import genesis_7 from './genesis-7';
 import genesis_8 from './genesis-8';
 import genesis_9 from './genesis-9';
+import genesis_10 from './genesis-10';
 
 export const genesis: Book = {
   meta: {
@@ -25,5 +26,6 @@ export const genesis: Book = {
     genesis_7,
     genesis_8,
     genesis_9,
+    genesis_10,
   ],
 };

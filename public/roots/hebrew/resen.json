@@ -1,0 +1,20 @@
+{
+  "key": "resen",
+  "hebrew": "רֶסֶן",
+  "transliteration": "Resen",
+  "englishLiteral": "Bridle (Resen)",
+  "englishNatural": "Bridle (Resen)",
+  "type": "noun",
+  "description": "proper name, ancient Assyrian city between Nineveh and Calah, meaning \"bridle\" or \"restraint\"",
+  "wordIndexes": {
+    "genesis": {
+      "10": {
+        "12": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -46,3 +46,9 @@ to the generations of the-age;
 My bow I have given in the cloud,
 and it will be for the sign of covenant,
 between me and between the land.
+
+And Rest (Noah) lived after the flood,
+three hundred years and fifty years.
+
+And all the days of Rest (Noah) were nine hundred years and fifty years,
+and he died."

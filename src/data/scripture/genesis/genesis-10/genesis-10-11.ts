@@ -1,0 +1,246 @@
+import { Verse } from '@/types';
+
+export const genesis_10_11: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 10,
+    verse: 11,
+  },
+  words: [
+    {
+      hebrew: 'מִן־',
+      transliteration: 'min-',
+      englishLiteral: 'from-',
+      englishNatural: 'from',
+      root: 'min',
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
+      morphology: {
+        type: 'preposition',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'הָאָרֶץ',
+      transliteration: 'haAretz',
+      englishLiteral: 'the-land',
+      englishNatural: 'land',
+      root: 'eretz',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 2,
+        english: 3,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַהִוא',
+      transliteration: 'hahi',
+      englishLiteral: 'the-that',
+      englishNatural: 'that',
+      root: 'hu',
+      prefixes: ['ha'],
+      order: {
+        hebrew: 3,
+        english: 2,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        person: '3rd',
+        type: 'pronoun',
+      },
+    },
+    {
+      hebrew: 'יָצָא',
+      transliteration: 'yatsa',
+      englishLiteral: 'went-forth',
+      englishNatural: 'went forth',
+      root: 'yatsa',
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אַשּׁוּר',
+      transliteration: 'Ashur',
+      englishLiteral: 'Straight (Asshur)',
+      englishNatural: 'Straight (Asshur)',
+      root: 'ashur',
+      order: {
+        hebrew: 5,
+        english: 5,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וַיִּבֶן',
+      transliteration: 'vayYiven',
+      englishLiteral: 'and-he-built',
+      englishNatural: 'and he built',
+      root: 'banah',
+      prefixes: ['va'],
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: {
+        hebrew: 7,
+        english: 7,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'נִינְוֵה',
+      transliteration: 'Nineveh',
+      englishLiteral: 'Dwelling_of_Fish (Nineveh)',
+      englishNatural: 'Dwelling-of-Fish (Nineveh)',
+      root: 'nineveh',
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְאֶת־',
+      transliteration: 'veEt-',
+      englishLiteral: 'and-↳',
+      englishNatural: 'and',
+      root: 'et',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 9,
+        english: 9,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'רְחֹבֹת',
+      transliteration: 'Rechoboth',
+      englishLiteral: 'Open_Places (Rehoboth)',
+      englishNatural: 'Open-Places (Rehoboth)',
+      root: 'rechoboth',
+      order: {
+        hebrew: 10,
+        english: 10,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'plural',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'עִיר',
+      transliteration: 'ir',
+      englishLiteral: 'city',
+      englishNatural: 'City',
+      root: 'ir',
+      order: {
+        hebrew: 11,
+        english: 11,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וְאֶת־',
+      transliteration: 'veEt-',
+      englishLiteral: 'and-↳',
+      englishNatural: 'and',
+      root: 'et',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 12,
+        english: 12,
+      },
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'כָּלַח',
+      transliteration: 'Kalach',
+      englishLiteral: 'Vigor (Calah)',
+      englishNatural: 'Vigor (Calah)',
+      root: 'kalach',
+      order: {
+        hebrew: 13,
+        english: 13,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'מִן־הָאָרֶץ הַהִוא יָצָא אַשּׁוּר וַיִּבֶן אֶת־נִינְוֵה וְאֶת־רְחֹבֹת עִיר וְאֶת־כָּלַח',
+    transliteration:
+      'min-haAretz hahi yatsa Ashur vayYiven et-Nineveh veEt-Rechoboth ir veEt-Kalach',
+    englishLiteral:
+      'from- the-land the-that went-forth Straight (Asshur), and-he-built ↳ Dwelling_of_Fish (Nineveh) and-↳ Open_Places (Rehoboth) city and-↳ Vigor (Calah),',
+    englishNatural:
+      'from that land went forth Straight (Asshur), and he built Dwelling-of-Fish (Nineveh) and Open-Places (Rehoboth) City and Vigor (Calah),',
+    kjv: 'Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,',
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+},
+};

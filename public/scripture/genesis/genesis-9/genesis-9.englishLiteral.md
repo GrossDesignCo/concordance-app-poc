@@ -48,3 +48,9 @@ to-generations-of the_age;
 ↳ my-bow I-have-given in-the-cloud,
 and-she-will-be for-sign-of covenant,
 between-me and-between the-land.
+
+And-lived- Rest (Noah) after the-flood,
+three hundreds year and-fifty year.
+
+And-were all- days-of- Rest (Noah) nine hundreds year and-fifty year,
+and-he-died."

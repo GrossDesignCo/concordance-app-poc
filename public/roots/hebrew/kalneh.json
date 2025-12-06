@@ -1,0 +1,20 @@
+{
+  "key": "kalneh",
+  "hebrew": "כַלְנֵה",
+  "transliteration": "Kalneh",
+  "englishLiteral": "Fortress (Calneh)",
+  "englishNatural": "Fortress (Calneh)",
+  "type": "noun",
+  "description": "proper name, Calneh, an ancient city",
+  "wordIndexes": {
+    "genesis": {
+      "10": {
+        "10": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

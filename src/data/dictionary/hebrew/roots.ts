@@ -1243,6 +1243,14 @@ const ROOTS = {
     englishNatural: 'image',
     type: 'noun',
   },
+  tsayid: {
+    hebrew: 'צַיִד',
+    transliteration: 'tsayid',
+    englishLiteral: 'hunter',
+    englishNatural: 'hunter',
+    type: 'noun',
+    description: 'hunter, hunting, game',
+  },
   demut: {
     hebrew: 'דמות',
     transliteration: 'demut',
@@ -1707,6 +1715,56 @@ const ROOTS = {
       'Proper noun, land/people group, traditionally associated with Ethiopia or Nubia',
     type: 'noun',
   },
+  nimrod: {
+    hebrew: 'נִמְרֹד',
+    transliteration: 'Nimrod',
+    englishLiteral: 'Rebel (Nimrod)',
+    englishNatural: 'Rebel (Nimrod)',
+    type: 'noun',
+    description:
+      'proper name, Nimrod, son of Kush, a mighty hunter and builder of cities',
+  },
+  babel: {
+    hebrew: 'בָּבֶל',
+    transliteration: 'Babel',
+    englishLiteral: 'Confusion (Babylon)',
+    englishNatural: 'Confusion (Babylon)',
+    type: 'noun',
+    description:
+      'proper name, Babel/Babylon, meaning "confusion" or "gate of god"',
+  },
+  erekh: {
+    hebrew: 'אֶרֶךְ',
+    transliteration: 'Erekh',
+    englishLiteral: 'Length (Erech)',
+    englishNatural: 'Length (Erech)',
+    type: 'noun',
+    description: 'proper name, Erech, an ancient city in Mesopotamia',
+  },
+  akkad: {
+    hebrew: 'אַכַּד',
+    transliteration: 'Akkad',
+    englishLiteral: 'Fortress (Akkadia)',
+    englishNatural: 'Fortress (Akkadia)',
+    type: 'noun',
+    description: 'proper name, Akkadia/Akkad, an ancient city in Mesopotamia',
+  },
+  kalneh: {
+    hebrew: 'כַלְנֵה',
+    transliteration: 'Kalneh',
+    englishLiteral: 'Fortress (Calneh)',
+    englishNatural: 'Fortress (Calneh)',
+    type: 'noun',
+    description: 'proper name, Calneh, an ancient city',
+  },
+  shinar: {
+    hebrew: 'שִׁנְעָר',
+    transliteration: 'Shinar',
+    englishLiteral: 'Tooth_of_Two (Shinar)',
+    englishNatural: 'Tooth-of-Two (Shinar)',
+    type: 'noun',
+    description: 'proper name, Shinar, the land of Babylonia/Mesopotamia',
+  },
   // --- Added for Genesis 2:14 ---
   chidekel: {
     hebrew: 'חִדֶּקֶל',
@@ -1891,6 +1949,16 @@ const ROOTS = {
     englishLiteral: 'king',
     englishNatural: 'king',
     type: 'noun',
+    related: ['mamlakah'],
+  },
+  mamlakah: {
+    hebrew: 'מַמְלָכָה',
+    transliteration: 'mamlakah',
+    englishLiteral: 'kingdom',
+    englishNatural: 'kingdom',
+    type: 'noun',
+    description: 'kingdom, dominion, reign',
+    related: ['melekh'],
   },
   malakh: {
     hebrew: 'מַלְאָךְ',
@@ -1898,6 +1966,7 @@ const ROOTS = {
     englishLiteral: 'messenger',
     englishNatural: 'messenger',
     type: 'noun',
+    related: ['melekh', 'mamlakah'],
   },
   uz: {
     hebrew: 'עז',
@@ -6336,6 +6405,32 @@ const ROOTS = {
     englishNatural: 'dread',
     type: 'noun',
     description: 'dread, terror, fear, dismay',
+  },
+  rechoboth: {
+    hebrew: 'רְחֹבֹת',
+    transliteration: 'Rechoboth',
+    englishLiteral: 'Open-Places (Rehoboth)',
+    englishNatural: 'Open-Places (Rehoboth)',
+    type: 'noun',
+    description:
+      'proper name, city built by Asshur, meaning "broad places" or "streets"',
+  },
+  kalach: {
+    hebrew: 'כָּלַח',
+    transliteration: 'Kalach',
+    englishLiteral: 'Vigor (Calah)',
+    englishNatural: 'Vigor (Calah)',
+    type: 'noun',
+    description: 'proper name, ancient Assyrian city, also known as Nimrud',
+  },
+  resen: {
+    hebrew: 'רֶסֶן',
+    transliteration: 'Resen',
+    englishLiteral: 'Bridle (Resen)',
+    englishNatural: 'Bridle (Resen)',
+    type: 'noun',
+    description:
+      'proper name, ancient Assyrian city between Nineveh and Calah, meaning "bridle" or "restraint"',
   },
 } as const;
 

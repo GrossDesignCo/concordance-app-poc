@@ -7,6 +7,16 @@
   "type": "noun",
   "description": "proper name, Nineveh, capital city of Assyria",
   "wordIndexes": {
+    "genesis": {
+      "10": {
+        "11": [
+          7
+        ],
+        "12": [
+          3
+        ]
+      }
+    },
     "jonah": {
       "1": {
         "2": [

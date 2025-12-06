@@ -48,3 +48,9 @@ ledorot olam
 et-qashti natati beAnan
 veHayetah leOt berit
 beyni uveyn haAretz
+
+vayechi-Noach achar haMabbul
+shelosh meot shanah vachamishim shanah
+
+vayihyu kol-yemey-Noach tesha meot shanah vachamishim shanah
+vayamot

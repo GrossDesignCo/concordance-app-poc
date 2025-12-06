@@ -1,0 +1,21 @@
+{
+  "key": "tsayid",
+  "hebrew": "צַיִד",
+  "transliteration": "tsayid",
+  "englishLiteral": "hunter",
+  "englishNatural": "hunter",
+  "type": "noun",
+  "description": "hunter, hunting, game",
+  "wordIndexes": {
+    "genesis": {
+      "10": {
+        "9": [
+          3,
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

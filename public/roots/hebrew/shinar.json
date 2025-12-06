@@ -1,0 +1,20 @@
+{
+  "key": "shinar",
+  "hebrew": "שִׁנְעָר",
+  "transliteration": "Shinar",
+  "englishLiteral": "Tooth_of_Two (Shinar)",
+  "englishNatural": "Tooth-of-Two (Shinar)",
+  "type": "noun",
+  "description": "proper name, Shinar, the land of Babylonia/Mesopotamia",
+  "wordIndexes": {
+    "genesis": {
+      "10": {
+        "10": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

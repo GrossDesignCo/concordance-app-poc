@@ -1,0 +1,23 @@
+{
+  "key": "mamlakah",
+  "hebrew": "מַמְלָכָה",
+  "transliteration": "mamlakah",
+  "englishLiteral": "kingdom",
+  "englishNatural": "kingdom",
+  "type": "noun",
+  "description": "kingdom, dominion, reign",
+  "related": [
+    "melekh"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "10": {
+        "10": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

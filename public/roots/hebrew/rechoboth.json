@@ -1,0 +1,20 @@
+{
+  "key": "rechoboth",
+  "hebrew": "רְחֹבֹת",
+  "transliteration": "Rechoboth",
+  "englishLiteral": "Open-Places (Rehoboth)",
+  "englishNatural": "Open-Places (Rehoboth)",
+  "type": "noun",
+  "description": "proper name, city built by Asshur, meaning \"broad places\" or \"streets\"",
+  "wordIndexes": {
+    "genesis": {
+      "10": {
+        "11": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

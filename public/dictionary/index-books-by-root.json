@@ -695,6 +695,9 @@
   "tselem": [
     "genesis"
   ],
+  "tsayid": [
+    "genesis"
+  ],
   "demut": [
     "ezekiel",
     "genesis"
@@ -897,6 +900,26 @@
   "kush": [
     "genesis"
   ],
+  "nimrod": [
+    "genesis"
+  ],
+  "babel": [
+    "genesis"
+  ],
+  "erekh": [
+    "exodus",
+    "genesis",
+    "jonah"
+  ],
+  "akkad": [
+    "genesis"
+  ],
+  "kalneh": [
+    "genesis"
+  ],
+  "shinar": [
+    "genesis"
+  ],
   "chidekel": [
     "genesis"
   ],
@@ -985,6 +1008,9 @@
     "isaiah",
     "jonah",
     "proverbs"
+  ],
+  "mamlakah": [
+    "genesis"
   ],
   "uz": [
     "isaiah"
@@ -1914,6 +1940,7 @@
     "jonah"
   ],
   "nineveh": [
+    "genesis",
     "jonah"
   ],
   "barach": [
@@ -2065,10 +2092,6 @@
     "jonah"
   ],
   "chanun": [
-    "exodus",
-    "jonah"
-  ],
-  "erekh": [
     "exodus",
     "jonah"
   ],
@@ -2659,6 +2682,15 @@
     "genesis"
   ],
   "chittah": [
+    "genesis"
+  ],
+  "rechoboth": [
+    "genesis"
+  ],
+  "kalach": [
+    "genesis"
+  ],
+  "resen": [
     "genesis"
   ],
   "en": [

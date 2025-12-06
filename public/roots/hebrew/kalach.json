@@ -1,0 +1,23 @@
+{
+  "key": "kalach",
+  "hebrew": "כָּלַח",
+  "transliteration": "Kalach",
+  "englishLiteral": "Vigor (Calah)",
+  "englishNatural": "Vigor (Calah)",
+  "type": "noun",
+  "description": "proper name, ancient Assyrian city, also known as Nimrud",
+  "wordIndexes": {
+    "genesis": {
+      "10": {
+        "11": [
+          12
+        ],
+        "12": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,23 @@
+{
+  "key": "nimrod",
+  "hebrew": "נִמְרֹד",
+  "transliteration": "Nimrod",
+  "englishLiteral": "Rebel (Nimrod)",
+  "englishNatural": "Rebel (Nimrod)",
+  "type": "noun",
+  "description": "proper name, Nimrod, son of Kush, a mighty hunter and builder of cities",
+  "wordIndexes": {
+    "genesis": {
+      "10": {
+        "8": [
+          3
+        ],
+        "9": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "babel",
+  "hebrew": "בָּבֶל",
+  "transliteration": "Babel",
+  "englishLiteral": "Confusion (Babylon)",
+  "englishNatural": "Confusion (Babylon)",
+  "type": "noun",
+  "description": "proper name, Babel/Babylon, meaning \"confusion\" or \"gate of god\"",
+  "wordIndexes": {
+    "genesis": {
+      "10": {
+        "10": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}
