@@ -29,7 +29,7 @@ And a river went out from Delight (Eden) to give-drink to the garden, and from t
 
 The name of one, Spreading (Pishon); it goes-around all the land of Strength (Havilah), which there is the gold. And the gold of that land, good; there is the bedolach, and the stone of onyx. 
 And the name of the second river, Gusher (Gichon); it goes-around all the land of Black (Kush). 
-The name of the third river, Rapid (Chidekel); it walks east of Steppe (Ashur). 
+The name of the third river, Rapid (Chidekel); it walks east of Steppe (Assyria). 
 And the fourth river, it is Fruitful (Perat).
 
 And He-Who-Is (YHWH) God took the Earth (Adam), and rested him in Garden of Delight (Eden), to serve her and to keep her.

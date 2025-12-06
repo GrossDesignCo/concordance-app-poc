@@ -1786,8 +1786,8 @@ const ROOTS = {
   ashur: {
     hebrew: 'אַשּׁוּר',
     transliteration: 'ashur',
-    englishLiteral: 'Steppe (Ashur)',
-    englishNatural: 'Steppe (Ashur)',
+    englishLiteral: 'Steppe (Assyria)',
+    englishNatural: 'Steppe (Assyria)',
     description: 'Proper noun, land/empire of Assyria',
     type: 'noun',
   },

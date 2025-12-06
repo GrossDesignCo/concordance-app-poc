@@ -2,10 +2,10 @@
   "key": "akkad",
   "hebrew": "אַכַּד",
   "transliteration": "Akkad",
-  "englishLiteral": "Fortress (Accad)",
-  "englishNatural": "Fortress (Accad)",
+  "englishLiteral": "Fortress (Akkadia)",
+  "englishNatural": "Fortress (Akkadia)",
   "type": "noun",
-  "description": "proper name, Accad/Akkad, an ancient city in Mesopotamia",
+  "description": "proper name, Akkadia/Akkad, an ancient city in Mesopotamia",
   "wordIndexes": {
     "genesis": {
       "10": {

@@ -126,8 +126,8 @@ export const genesis_2_14: Verse = {
     {
       hebrew: 'אַשּׁוּר',
       transliteration: 'Ashur',
-      englishLiteral: 'Steppe (Ashur)',
-      englishNatural: 'Steppe (Ashur)',
+      englishLiteral: 'Steppe (Assyria)',
+      englishNatural: 'Steppe (Assyria)',
       root: 'ashur',
       order: {
         hebrew: 8,
@@ -225,10 +225,10 @@ export const genesis_2_14: Verse = {
     transliteration:
       'shem haNahar haShlishi Chidekel hu haHolekh qidmat Ashur veHaNahar haRevii hu Perat',
     englishLiteral:
-      'name the-river the-third, Rapid (Chidekel); he the-walking east-of Steppe (Ashur). And-the-river the-fourth, he Fruitful (Perat).',
+      'name the-river the-third, Rapid (Chidekel); he the-walking east-of Steppe (Assyria). And-the-river the-fourth, he Fruitful (Perat).',
     englishNatural:
-      'The name of the third river, Rapid (Chidekel); it walks east of Steppe (Ashur). And the fourth river, it is Fruitful (Perat).',
+      'The name of the third river, Rapid (Chidekel); it walks east of Steppe (Assyria). And the fourth river, it is Fruitful (Perat).',
     kjv: 'And the name of the third river is Hiddekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphrates.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-06-04' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
 };

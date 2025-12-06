@@ -11,10 +11,10 @@ over- so it-will-be-said,
 "like-Rebel (Nimrod), mighty_one, hunter to-faces-of He_Who_Is (YHWH)."
 
 And-was heading-of his-kingdom Confusion (Babylon),
-and-Length (Erech), and-Fortress (Accad), and-Fortress (Calneh),
+and-Length (Erech), and-Fortress (Akkadia), and-Fortress (Calneh),
 in-land-of Tooth_of_Two (Shinar).
 
-from- the-land the-that went-forth Straight (Asshur), 
+from- the-land the-that went-forth Steppe (Assyria), 
 and-he-built ↳ Dwelling_of_Fish (Nineveh)
 and-↳ Open_Places (Rehoboth) city and-↳ Vigor (Calah), and-↳ Bridle (Resen), 
 between Dwelling_of_Fish (Nineveh) and-between Vigor (Calah); 

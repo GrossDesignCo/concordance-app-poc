@@ -11,10 +11,10 @@ so moreover it will be said,
 "Like Rebel (Nimrod), a mighty-one, a hunter to the face of He-Who-Is (YHWH)."
 
 and the heading of his kingdom was Confusion (Babylon),
-and Length (Erech), and Fortress (Accad), and Fortress (Calneh),
+and Length (Erech), and Fortress (Akkadia), and Fortress (Calneh),
 in the land of Tooth-of-Two (Shinar).
 
-from that land went forth Straight (Asshur), 
+from that land went forth Steppe (Assyria), 
 and he built Dwelling-of-Fish (Nineveh)
 and Open-Places (Rehoboth) City and Vigor (Calah), and Bridle (Resen), 
 between Dwelling-of-Fish (Nineveh) and between Vigor (Calah); 
