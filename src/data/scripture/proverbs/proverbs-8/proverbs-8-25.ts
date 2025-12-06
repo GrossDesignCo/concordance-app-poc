@@ -84,8 +84,8 @@ export const proverbs_8_25: Verse = {
     {
       hebrew: 'נוֹלָדְתִּי',
       transliteration: 'noladti',
-      englishLiteral: 'was-born-I',
-      englishNatural: 'I was born',
+      englishLiteral: 'was-birthed-I',
+      englishNatural: 'I was birthed',
       root: 'yalad',
       suffixes: ['ti'],
       order: 6,
@@ -101,15 +101,16 @@ export const proverbs_8_25: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
     hebrew: 'בְּטֶרֶם הָרִים הָטְבָּעוּ לִפְנֵי גְבָעוֹת נוֹלָדְתִּי',
     transliteration: 'beTerem harim hotbau lifnei gevaot noladti',
     englishLiteral:
-      'In-before mountains were-sunk, to-face-of hills was-born-I.',
+      'In-before mountains were-sunk, to-face-of hills was-birthed-I.',
     englishNatural:
-      'In before mountains were sunk, to the-face-of hills I was born.',
+      'In before mountains were sunk, to the-face-of hills I was birthed.',
     kjv: 'Before the mountains were settled, before the hills was I brought forth',
     lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },

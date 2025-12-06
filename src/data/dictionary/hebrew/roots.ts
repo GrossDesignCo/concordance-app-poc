@@ -4729,7 +4729,7 @@ const ROOTS = {
     description: 'graceful, gracious, showing favor, kind',
     related: ['chanan', 'chen'],
   },
-  erekh: {
+  erekh_name: {
     hebrew: 'ארך',
     transliteration: 'erekh',
     englishLiteral: 'long',
@@ -6431,6 +6431,75 @@ const ROOTS = {
     type: 'noun',
     description:
       'proper name, ancient Assyrian city between Nineveh and Calah, meaning "bridle" or "restraint"',
+  },
+  amats: {
+    hebrew: 'אָמַץ',
+    transliteration: 'amats',
+    englishLiteral: 'to be strong',
+    englishNatural: 'be strong',
+    type: 'verb',
+    description:
+      'to be strong, be courageous, be firm; in piel: to make firm, strengthen, establish',
+  },
+  shachaq: {
+    hebrew: 'שְׁחָק',
+    transliteration: 'shachaq',
+    englishLiteral: 'clouds',
+    englishNatural: 'clouds',
+    type: 'noun',
+    description:
+      'clouds, skies, sky; literally "dust clouds" or "fine powder", poetic term for the upper atmosphere',
+  },
+  azaz: {
+    hebrew: 'עָזַז',
+    transliteration: 'azaz',
+    englishLiteral: 'to be_strong',
+    englishNatural: 'to be-strong',
+    type: 'verb',
+    description: 'to be strong, to prevail, to strengthen',
+  },
+  mosed: {
+    hebrew: 'מוֹסָד',
+    transliteration: 'mosed',
+    englishLiteral: 'foundation',
+    englishNatural: 'foundation',
+    type: 'noun',
+    description:
+      'foundation, base; from the root ysd (to found, establish, lay a foundation)',
+  },
+  etsel: {
+    hebrew: 'אֵצֶל',
+    transliteration: 'etsel',
+    englishLiteral: 'beside',
+    englishNatural: 'beside',
+    type: 'preposition',
+    description: 'beside, by, near, with, at the side of',
+  },
+  amon: {
+    hebrew: 'אָמוֹן',
+    transliteration: 'amon',
+    englishLiteral: 'master_craftsman',
+    englishNatural: 'master-craftsman',
+    type: 'noun',
+    description:
+      'master craftsman, architect, nursling; alternatively "faithful one" or "one brought up"; debated meaning in Proverbs 8:30',
+  },
+  shaashua: {
+    hebrew: 'שַׁעֲשׁוּעַ',
+    transliteration: 'shaashua',
+    englishLiteral: 'delight',
+    englishNatural: 'delight',
+    type: 'noun',
+    description: 'delight, pleasure, enjoyment',
+  },
+  sachaq: {
+    hebrew: 'שָׂחַק',
+    transliteration: 'sachaq',
+    englishLiteral: 'to laugh',
+    englishNatural: 'laugh',
+    type: 'verb',
+    description:
+      'to laugh, to play, to rejoice, to make sport; to take delight in',
   },
 } as const;
 

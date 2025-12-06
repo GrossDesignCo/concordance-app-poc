@@ -1,0 +1,20 @@
+{
+  "key": "shachaq",
+  "hebrew": "שְׁחָק",
+  "transliteration": "shachaq",
+  "englishLiteral": "clouds",
+  "englishNatural": "clouds",
+  "type": "noun",
+  "description": "clouds, skies, sky; literally \"dust clouds\" or \"fine powder\", poetic term for the upper atmosphere",
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "28": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

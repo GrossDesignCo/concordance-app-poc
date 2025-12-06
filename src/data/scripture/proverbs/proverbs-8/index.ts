@@ -9,6 +9,9 @@ import { proverbs_8_24 } from './proverbs-8-24';
 import { proverbs_8_25 } from './proverbs-8-25';
 import { proverbs_8_26 } from './proverbs-8-26';
 import { proverbs_8_27 } from './proverbs-8-27';
+import { proverbs_8_28 } from './proverbs-8-28';
+import { proverbs_8_29 } from './proverbs-8-29';
+import { proverbs_8_30 } from './proverbs-8-30';
 
 const chapter: Chapter = {
   meta: {
@@ -26,6 +29,9 @@ const chapter: Chapter = {
     proverbs_8_25,
     proverbs_8_26,
     proverbs_8_27,
+    proverbs_8_28,
+    proverbs_8_29,
+    proverbs_8_30,
   ],
 };
 

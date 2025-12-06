@@ -90,6 +90,7 @@ export const proverbs_8_23: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {

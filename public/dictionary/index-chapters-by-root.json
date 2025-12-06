@@ -108,6 +108,9 @@
     "numbers": [
       21
     ],
+    "proverbs": [
+      8
+    ],
     "psalms": [
       1
     ]
@@ -384,6 +387,7 @@
       3
     ],
     "proverbs": [
+      8,
       22
     ]
   },
@@ -424,6 +428,9 @@
     ],
     "numbers": [
       21
+    ],
+    "proverbs": [
+      8
     ],
     "psalms": [
       1,
@@ -1023,6 +1030,9 @@
     ],
     "numbers": [
       21
+    ],
+    "proverbs": [
+      8
     ]
   },
   "im": {
@@ -1159,6 +1169,9 @@
     "numbers": [
       21
     ],
+    "proverbs": [
+      8
+    ],
     "psalms": [
       117
     ]
@@ -1213,6 +1226,9 @@
   "maal": {
     "isaiah": [
       6
+    ],
+    "proverbs": [
+      8
     ]
   },
   "kenaf": {
@@ -1510,6 +1526,7 @@
       3
     ],
     "proverbs": [
+      8,
       22
     ],
     "psalms": [
@@ -1563,6 +1580,9 @@
     "jonah": [
       1,
       2
+    ],
+    "proverbs": [
+      8
     ]
   },
   "shem": {
@@ -2101,6 +2121,9 @@
     ],
     "jonah": [
       1
+    ],
+    "proverbs": [
+      8
     ]
   },
   "ed": {
@@ -2345,9 +2368,6 @@
   "erekh": {
     "exodus": [
       34
-    ],
-    "genesis": [
-      10
     ],
     "jonah": [
       4
@@ -4647,6 +4667,11 @@
       4
     ]
   },
+  "erekh_name": {
+    "genesis": [
+      10
+    ]
+  },
   "panim": {
     "exodus": [
       34
@@ -4654,6 +4679,9 @@
     "genesis": [
       6,
       10
+    ],
+    "proverbs": [
+      8
     ]
   },
   "natsar": {
@@ -5699,6 +5727,46 @@
   "resen": {
     "genesis": [
       10
+    ]
+  },
+  "amats": {
+    "proverbs": [
+      8
+    ]
+  },
+  "shachaq": {
+    "proverbs": [
+      8
+    ]
+  },
+  "azaz": {
+    "proverbs": [
+      8
+    ]
+  },
+  "mosed": {
+    "proverbs": [
+      8
+    ]
+  },
+  "etsel": {
+    "proverbs": [
+      8
+    ]
+  },
+  "amon": {
+    "proverbs": [
+      8
+    ]
+  },
+  "shaashua": {
+    "proverbs": [
+      8
+    ]
+  },
+  "sachaq": {
+    "proverbs": [
+      8
     ]
   },
   "en": {

@@ -45,8 +45,8 @@ export const proverbs_8_24: Verse = {
     {
       hebrew: 'נוֹלָדְתִּי',
       transliteration: 'noladti',
-      englishLiteral: 'was-born-I',
-      englishNatural: 'I was born',
+      englishLiteral: 'was-birthed-I',
+      englishNatural: 'I was birthed',
       root: 'yalad',
       suffixes: ['ti'],
       order: 3,
@@ -128,6 +128,7 @@ export const proverbs_8_24: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
@@ -135,9 +136,9 @@ export const proverbs_8_24: Verse = {
       'בְּאֵין תְּהֹמוֹת נוֹלָדְתִּי בְּאֵין מַעְיָנוֹת נִכְבַּדֵּי מָיִם',
     transliteration: 'beEin tehomot noladti beEin mayanot nikhbadei mayim',
     englishLiteral:
-      'In-nothing, abyss, was-born-I; in-nothing, springs, heavy_with waters.',
+      'In-nothing, abyss, was-birthed-I; in-nothing, springs, heavy_with waters.',
     englishNatural:
-      'In nothing, abyss, I was born; in nothing, springs, heavy-with waters.',
+      'In nothing, abyss, I was birthed; in nothing, springs, heavy-with waters.',
     kjv: 'When there were no depths, I was brought forth; when there were no fountains abounding with water',
     lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },

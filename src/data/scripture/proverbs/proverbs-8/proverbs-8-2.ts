@@ -11,7 +11,7 @@ export const proverbs_8_2: Verse = {
       hebrew: 'בְּרֹאשׁ',
       transliteration: 'beRosh',
       englishLiteral: 'In-head-of',
-      englishNatural: 'In head of',
+      englishNatural: 'In the head of',
       root: 'rosh',
       prefixes: ['be'],
       order: 1,
@@ -20,6 +20,7 @@ export const proverbs_8_2: Verse = {
         number: 'singular',
         type: 'noun',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'מְרוֹמִים',
@@ -108,14 +109,17 @@ export const proverbs_8_2: Verse = {
         englishLiteral: ';',
         englishNatural: ';',
       },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
     hebrew: 'בְּרֹאשׁ מְרוֹמִים עֲלֵי־דָרֶךְ בֵּין נְתִיבוֹת נִצָּבָה',
     transliteration: 'beRosh meromim alei-derekh bein netivot nitzavah',
-    englishLiteral: 'In-head-of heights overlooking way, between paths she-has-stationed_herself;',
-    englishNatural: 'In head of heights overlooking a way, between paths she has stationed-herself;',
+    englishLiteral:
+      'In-head-of heights overlooking way, between paths she-has-stationed_herself;',
+    englishNatural:
+      'In the head of heights overlooking a way, between paths she has stationed-herself;',
     kjv: 'She standeth in the top of high places, by the way in the places where the paths meet',
     lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
-}; 
+};

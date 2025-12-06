@@ -20,6 +20,7 @@ export const proverbs_8_3: Verse = {
         number: 'singular',
         type: 'noun',
       },
+      lineBreaksBefore: 1,
     },
     {
       hebrew: 'שְׁעָרִים',

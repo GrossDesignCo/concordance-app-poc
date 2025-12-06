@@ -1,0 +1,20 @@
+{
+  "key": "azaz",
+  "hebrew": "עָזַז",
+  "transliteration": "azaz",
+  "englishLiteral": "to be_strong",
+  "englishNatural": "to be-strong",
+  "type": "verb",
+  "description": "to be strong, to prevail, to strengthen",
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "28": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

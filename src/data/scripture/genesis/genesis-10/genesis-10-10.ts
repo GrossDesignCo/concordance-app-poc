@@ -91,7 +91,7 @@ export const genesis_10_10: Verse = {
       transliteration: 'veErekh',
       englishLiteral: 'and-Length (Erech)',
       englishNatural: 'and Length (Erech)',
-      root: 'erekh',
+      root: 'erekh_name',
       prefixes: ['ve'],
       order: 5,
       morphology: {
@@ -186,5 +186,5 @@ export const genesis_10_10: Verse = {
       'and the heading of his kingdom was Confusion (Babylon), and Length (Erech), and Fortress (Akkadia), and Fortress (Calneh), in the land of Tooth-of-Two (Shinar).',
     kjv: 'And the beginning of his kingdom was Babel, and Erech, and Akkadia, and Calneh, in the land of Shinar.',
     lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
-},
+  },
 };

@@ -100,14 +100,17 @@ export const proverbs_8_1: Verse = {
         englishLiteral: '?',
         englishNatural: '?',
       },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
     hebrew: 'הֲלֹא־חָכְמָה תִקְרָא וּתְבוּנָה תִּתֵּן קוֹלָהּ',
     transliteration: 'haLo chokmah tiqra uTevunah titten qolah',
-    englishLiteral: 'Does-not Wisdom will-call_out? and-Understanding will-give voice-her?',
-    englishNatural: 'Does not Wisdom call-out? and Understanding give her voice?',
+    englishLiteral:
+      'Does-not Wisdom will-call_out? and-Understanding will-give voice-her?',
+    englishNatural:
+      'Does not Wisdom call-out? and Understanding give her voice?',
     kjv: 'Doth not wisdom cry? and understanding put forth her voice?',
     lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },
-}; 
+};

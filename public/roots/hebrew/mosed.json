@@ -1,0 +1,20 @@
+{
+  "key": "mosed",
+  "hebrew": "מוֹסָד",
+  "transliteration": "mosed",
+  "englishLiteral": "foundation",
+  "englishNatural": "foundation",
+  "type": "noun",
+  "description": "foundation, base; from the root ysd (to found, establish, lay a foundation)",
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "29": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

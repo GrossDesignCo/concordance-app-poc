@@ -2,7 +2,7 @@
 And it was in year thirty,
 in the fourth, in the five to the month,
 and I in the midst of the exile upon River of Ancient (Kebar),
-the heavens were opened,
+the skies were opened,
 and I saw visions of God.
 
 In the five to the month,

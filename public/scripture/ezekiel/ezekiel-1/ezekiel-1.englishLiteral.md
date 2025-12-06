@@ -2,7 +2,7 @@
 And-it-was in-thirty year,
 in-the-fourth, in-the-five to-the-month,
 and-I in-midst-of- the-exile upon- River-of- Ancient (Kebar),
-they-were-opened the-heavens,
+they-were-opened the-skies,
 and-I-saw visions-of Gods.
 
 In-the-five to-the-month,

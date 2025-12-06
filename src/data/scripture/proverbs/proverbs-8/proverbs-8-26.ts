@@ -25,7 +25,10 @@ export const proverbs_8_26: Verse = {
       englishLiteral: 'not',
       englishNatural: 'not',
       root: 'lo',
-      order: 2,
+      order: {
+        hebrew: 2,
+        english: 3,
+      },
       morphology: {
         type: 'adverb',
       },
@@ -33,10 +36,13 @@ export const proverbs_8_26: Verse = {
     {
       hebrew: 'עָשָׂה',
       transliteration: 'asah',
-      englishLiteral: 'had-made',
-      englishNatural: 'had made',
+      englishLiteral: 'he-had-made',
+      englishNatural: 'he had made',
       root: 'asah',
-      order: 3,
+      order: {
+        hebrew: 3,
+        english: 2,
+      },
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -111,7 +117,7 @@ export const proverbs_8_26: Verse = {
       hebrew: 'תֵּבֵל',
       transliteration: 'tevel',
       englishLiteral: 'world',
-      englishNatural: 'world',
+      englishNatural: 'the world',
       root: 'tevel',
       order: 8,
       morphology: {
@@ -123,15 +129,16 @@ export const proverbs_8_26: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
     hebrew: 'עַד־לֹא עָשָׂה אֶרֶץ וְחוּצוֹת וְרֹאשׁ עָפְרוֹת תֵּבֵל',
     transliteration: 'ad lo asah eretz veChutzot veRosh afrot tevel',
     englishLiteral:
-      'Until not had-made land and-outsides, and-head-of dusts-of world.',
+      'Until not he-had-made land and-outsides, and-head-of dusts-of world.',
     englishNatural:
-      'Until not had made land and outsides, and the head of dusts of world.',
+      'Until he had made not land and outsides, and the head of dusts of the world.',
     kjv: 'While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world',
     lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
   },

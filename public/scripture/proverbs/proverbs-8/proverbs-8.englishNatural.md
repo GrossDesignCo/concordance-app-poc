@@ -1,17 +1,35 @@
 Does not Wisdom call-out? 
-and Understanding give her voice? In head of heights overlooking a way, 
-between paths she has stationed-herself; To the hand of gates, to the mouth of a city, 
+and Understanding give her voice?
+
+In the head of heights overlooking a way, 
+between paths she has stationed-herself;
+
+To the hand of gates, to the mouth of a city, 
 incoming of openings she cries-out;
 
 He-Who-Is (YHWH) acquired me, the heading of his way, 
-before his works from that-time. 
+before his works from that-time.
+
 From the-age I was poured-out, 
-from the heading, from the-east of land. 
-In nothing, abyss, I was born; 
-in nothing, springs, heavy-with waters. 
+from the heading, from the-east of land.
+
+In nothing, abyss, I was birthed; 
+in nothing, springs, heavy-with waters.
+
 In before mountains were sunk, 
-to the-face-of hills I was born. 
-Until not had made land and outsides, 
-and the head of dusts of world. 
-In his establishing heavens, there I; 
-in his inscribing circle over the face of the abyss. 
+to the-face-of hills I was birthed.
+
+Until he had made not land and outsides, 
+and the head of dusts of the world.
+
+In his establishing skies, there I; 
+in his inscribing a circle over the face of the abyss.
+
+In his strengthening clouds from above; 
+in being-strong the fountains of the abyss.
+
+In his placing to the sea his decree, and the waters will pass his mouth not; 
+in his inscribing the foundations of land. 
+and I was beside him a master-craftsman, 
+and I was delights day day, 
+laughing to his face in all time. 

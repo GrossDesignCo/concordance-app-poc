@@ -1,0 +1,23 @@
+{
+  "key": "erekh_name",
+  "hebrew": "ארך",
+  "transliteration": "erekh",
+  "englishLiteral": "long",
+  "englishNatural": "long",
+  "type": "adjective",
+  "description": "long, lengthy, extended",
+  "related": [
+    "orekh"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "10": {
+        "10": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,26 +1,16 @@
 {
   "key": "erekh",
-  "hebrew": "ארך",
-  "transliteration": "erekh",
-  "englishLiteral": "long",
-  "englishNatural": "long",
-  "type": "adjective",
-  "description": "long, lengthy, extended",
-  "related": [
-    "orekh"
-  ],
+  "hebrew": "אֶרֶךְ",
+  "transliteration": "Erekh",
+  "englishLiteral": "Length (Erech)",
+  "englishNatural": "Length (Erech)",
+  "type": "noun",
+  "description": "proper name, Erech, an ancient city in Mesopotamia",
   "wordIndexes": {
     "exodus": {
       "34": {
         "6": [
           10
-        ]
-      }
-    },
-    "genesis": {
-      "10": {
-        "10": [
-          4
         ]
       }
     },

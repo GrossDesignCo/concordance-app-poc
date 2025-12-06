@@ -28,6 +28,7 @@
     "genesis",
     "jonah",
     "numbers",
+    "proverbs",
     "psalms"
   ],
   "or": [
@@ -153,6 +154,7 @@
     "isaiah",
     "jonah",
     "numbers",
+    "proverbs",
     "psalms"
   ],
   "chayah": [
@@ -362,7 +364,8 @@
   ],
   "sim": [
     "genesis",
-    "numbers"
+    "numbers",
+    "proverbs"
   ],
   "im": [
     "genesis",
@@ -411,6 +414,7 @@
     "isaiah",
     "jonah",
     "numbers",
+    "proverbs",
     "psalms"
   ],
   "et_with": [
@@ -427,7 +431,8 @@
     "psalms"
   ],
   "maal": [
-    "isaiah"
+    "isaiah",
+    "proverbs"
   ],
   "kenaf": [
     "ezekiel",
@@ -566,7 +571,8 @@
   ],
   "yam": [
     "genesis",
-    "jonah"
+    "jonah",
+    "proverbs"
   ],
   "shem": [
     "exodus",
@@ -787,7 +793,8 @@
   ],
   "ayin": [
     "genesis",
-    "jonah"
+    "jonah",
+    "proverbs"
   ],
   "ed": [
     "genesis"
@@ -908,7 +915,6 @@
   ],
   "erekh": [
     "exodus",
-    "genesis",
     "jonah"
   ],
   "akkad": [
@@ -2095,9 +2101,13 @@
     "exodus",
     "jonah"
   ],
+  "erekh_name": [
+    "genesis"
+  ],
   "panim": [
     "exodus",
-    "genesis"
+    "genesis",
+    "proverbs"
   ],
   "natsar": [
     "exodus"
@@ -2692,6 +2702,30 @@
   ],
   "resen": [
     "genesis"
+  ],
+  "amats": [
+    "proverbs"
+  ],
+  "shachaq": [
+    "proverbs"
+  ],
+  "azaz": [
+    "proverbs"
+  ],
+  "mosed": [
+    "proverbs"
+  ],
+  "etsel": [
+    "proverbs"
+  ],
+  "amon": [
+    "proverbs"
+  ],
+  "shaashua": [
+    "proverbs"
+  ],
+  "sachaq": [
+    "proverbs"
   ],
   "en": [
     "john",

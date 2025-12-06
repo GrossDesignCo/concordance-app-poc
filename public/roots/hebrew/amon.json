@@ -1,0 +1,20 @@
+{
+  "key": "amon",
+  "hebrew": "אָמוֹן",
+  "transliteration": "amon",
+  "englishLiteral": "master_craftsman",
+  "englishNatural": "master-craftsman",
+  "type": "noun",
+  "description": "master craftsman, architect, nursling; alternatively \"faithful one\" or \"one brought up\"; debated meaning in Proverbs 8:30",
+  "wordIndexes": {
+    "proverbs": {
+      "8": {
+        "30": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}
