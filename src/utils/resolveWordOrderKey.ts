@@ -7,12 +7,17 @@ export const resolveWordOrderKey = (
   // By default assume hebrew word order since that's the most common
   let key: WordOrderKey = 'hebrew';
 
-  // Greek
-  if (word?.greek && language === 'original') {
+  // Greek (for original text, transliteration, and English literal of Greek texts)
+  if (
+    word?.greek &&
+    (language === 'original' ||
+      language === 'transliteration' ||
+      language === 'englishLiteral')
+  ) {
     key = 'greek';
   }
 
-  // Natural English is the only translation for now that uses the english word order
+  // Natural English uses the english word order
   if (language === 'englishNatural') {
     key = 'english';
   }

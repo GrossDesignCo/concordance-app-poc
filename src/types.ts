@@ -365,11 +365,13 @@ export type TranslationWord = {
   /**
    * Word order key for a given language
    */
-  order?: {
-    greek?: number; // Position in original Greek text
-    hebrew?: number; // Position in original Hebrew text
-    english?: number; // Optional position for English rendering
-  };
+  order?:
+    | number
+    | {
+        greek?: number; // Position in original Greek text
+        hebrew?: number; // Position in original Hebrew text
+        english?: number; // Optional position for English rendering
+      };
 
   // Grammatical elements like commas/periods
   grammarSuffix?: Grammar;
