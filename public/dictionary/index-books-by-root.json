@@ -1319,6 +1319,7 @@
     "psalms"
   ],
   "goy": [
+    "genesis",
     "psalms"
   ],
   "etzah": [
@@ -2284,6 +2285,7 @@
     "jonah"
   ],
   "gadal": [
+    "genesis",
     "jonah"
   ],
   "laylah": [
@@ -2728,6 +2730,18 @@
   ],
   "sachaq": [
     "proverbs"
+  ],
+  "abram": [
+    "genesis"
+  ],
+  "moledet": [
+    "genesis"
+  ],
+  "berakah": [
+    "genesis"
+  ],
+  "mishpachah": [
+    "genesis"
   ],
   "en": [
     "john",

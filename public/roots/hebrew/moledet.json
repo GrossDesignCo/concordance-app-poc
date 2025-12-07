@@ -1,0 +1,23 @@
+{
+  "key": "moledet",
+  "hebrew": "מוֹלֶדֶת",
+  "transliteration": "moledet",
+  "englishLiteral": "kindred",
+  "englishNatural": "kindred",
+  "type": "noun",
+  "description": "kindred, relatives, family, birthplace; from yalad (to bear, beget)",
+  "related": [
+    "yalad"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "12": {
+        "1": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "mishpachah",
+  "hebrew": "מִשְׁפָּחָה",
+  "transliteration": "mishpachah",
+  "englishLiteral": "family",
+  "englishNatural": "family",
+  "type": "noun",
+  "description": "family, clan, tribe; extended family group",
+  "wordIndexes": {
+    "genesis": {
+      "12": {
+        "3": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

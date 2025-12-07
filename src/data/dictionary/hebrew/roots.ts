@@ -4655,7 +4655,7 @@ const ROOTS = {
     englishNatural: 'Father-of-Multitudes (Abraham)',
     type: 'noun',
     description: 'proper name, Abraham, meaning "father of multitudes"',
-    related: ['av'],
+    related: ['abram', 'av'],
   },
   yitzchaq: {
     hebrew: 'יצחק',
@@ -6501,6 +6501,43 @@ const ROOTS = {
     type: 'verb',
     description:
       'to laugh, to play, to rejoice, to make sport; to take delight in',
+  },
+  abram: {
+    hebrew: 'אַבְרָם',
+    transliteration: 'Abram',
+    englishLiteral: 'Exalted-Father (Abram)',
+    englishNatural: 'Exalted-Father (Abram)',
+    type: 'noun',
+    description:
+      'proper name, Abram (later Abraham), meaning "exalted father"; patriarch and father of many nations',
+    related: ['avraham', 'av'],
+  },
+  moledet: {
+    hebrew: 'מוֹלֶדֶת',
+    transliteration: 'moledet',
+    englishLiteral: 'kindred',
+    englishNatural: 'kindred',
+    type: 'noun',
+    description:
+      'kindred, relatives, family, birthplace; from yalad (to bear, beget)',
+    related: ['yalad'],
+  },
+  berakah: {
+    hebrew: 'בְּרָכָה',
+    transliteration: 'berakah',
+    englishLiteral: 'blessing',
+    englishNatural: 'blessing',
+    type: 'noun',
+    description: 'blessing, benediction; from barakh (to bless)',
+    related: ['barakh'],
+  },
+  mishpachah: {
+    hebrew: 'מִשְׁפָּחָה',
+    transliteration: 'mishpachah',
+    englishLiteral: 'family',
+    englishNatural: 'family',
+    type: 'noun',
+    description: 'family, clan, tribe; extended family group',
   },
 } as const;
 

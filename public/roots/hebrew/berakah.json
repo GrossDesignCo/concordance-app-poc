@@ -1,0 +1,23 @@
+{
+  "key": "berakah",
+  "hebrew": "בְּרָכָה",
+  "transliteration": "berakah",
+  "englishLiteral": "blessing",
+  "englishNatural": "blessing",
+  "type": "noun",
+  "description": "blessing, benediction; from barakh (to bless)",
+  "related": [
+    "barakh"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "12": {
+        "2": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

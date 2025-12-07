@@ -1,0 +1,24 @@
+{
+  "key": "abram",
+  "hebrew": "אַבְרָם",
+  "transliteration": "Abram",
+  "englishLiteral": "Exalted-Father (Abram)",
+  "englishNatural": "Exalted-Father (Abram)",
+  "type": "noun",
+  "description": "proper name, Abram (later Abraham), meaning \"exalted father\"; patriarch and father of many nations",
+  "related": [
+    "avraham",
+    "av"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "12": {
+        "1": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}
