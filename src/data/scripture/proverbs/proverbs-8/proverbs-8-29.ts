@@ -176,6 +176,7 @@ export const proverbs_8_29: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
@@ -188,6 +189,6 @@ export const proverbs_8_29: Verse = {
     englishNatural:
       'In his placing to the sea his decree, and the waters will pass his mouth not; in his inscribing the foundations of land.',
     kjv: 'When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-07' },
+  },
 };

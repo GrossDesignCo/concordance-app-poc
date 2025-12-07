@@ -2,15 +2,18 @@
   "key": "shaashua",
   "hebrew": "שַׁעֲשׁוּעַ",
   "transliteration": "shaashua",
-  "englishLiteral": "delight",
-  "englishNatural": "delight",
+  "englishLiteral": "darling",
+  "englishNatural": "darling",
   "type": "noun",
-  "description": "delight, pleasure, enjoyment",
+  "description": "delight, pleasure, enjoyment, specifically pure playful childlike delight, relatively rare in hebrew",
   "wordIndexes": {
     "proverbs": {
       "8": {
         "30": [
           4
+        ],
+        "31": [
+          3
         ]
       }
     }

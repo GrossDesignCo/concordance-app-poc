@@ -108,10 +108,10 @@ export const proverbs_8_28: Verse = {
     hebrew: 'בְּאַמְּצוֹ שְׁחָקִים מִמָּעַל בַּעֲזוֹז עֵינוֹת תְּהוֹם',
     transliteration: 'beAmetso shechaqim miMaal baAzoz eynot tehom',
     englishLiteral:
-      'In-strengthening-his clouds from-above; in-being_strong fountains-of abyss.',
+      'In-strengtheng-his clouds from-above; in-being_strong fountains-of abyss.',
     englishNatural:
       'In his strengthening clouds from above; in being-strong the fountains of the abyss.',
     kjv: 'When he established the clouds above: when he strengthened the fountains of the deep:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-07' },
 },
 };

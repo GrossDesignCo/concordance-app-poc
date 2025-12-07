@@ -29,7 +29,11 @@ In-strengtheng-his clouds from-above;
 in-being_strong fountains-of abyss.
 
 In-placing-his to-the-sea his-decree, and-waters not they-will-pass- his-mouth; 
-in-inscribing-his foundations-of land. 
+in-inscribing-his foundations-of land.
+
 and-I-was beside-him master_craftsman, 
-and-I-was delights day day, 
-laughing to-faces-his in-all- time. 
+and-I-was darlings day day, 
+laughing to-faces-his in-all- time.
+
+laughing in-world-of his-land, 
+and-my-darlings ↳ sons-of Earth (Adam). 

@@ -29,7 +29,11 @@ In his strengthening clouds from above;
 in being-strong the fountains of the abyss.
 
 In his placing to the sea his decree, and the waters will pass his mouth not; 
-in his inscribing the foundations of land. 
+in his inscribing the foundations of land.
+
 and I was beside him a master-craftsman, 
-and I was delights day day, 
-laughing to his face in all time. 
+and I was darlings day day, 
+laughing to his face in all time.
+
+laughing in the world of his land, 
+and my darlings the sons of Earth (Adam). 

@@ -20564,14 +20564,14 @@
             "28": true,
             "29": true,
             "30": true,
-            "31": false,
+            "31": true,
             "32": false,
             "33": false,
             "34": false,
             "35": false,
             "36": false
           },
-          "progress": 33.33333333333333
+          "progress": 36.11111111111111
         },
         "9": {
           "chapterNumber": 9,
@@ -21389,7 +21389,7 @@
           "progress": 0
         }
       },
-      "progress": 2.4043715846994536
+      "progress": 2.5136612021857925
     },
     "ECCLESIASTES": {
       "bookName": "Ecclesiastes",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.0770665209143813
+  "totalProgress": 1.0802816448574093
 }

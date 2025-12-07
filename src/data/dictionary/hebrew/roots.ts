@@ -6487,16 +6487,17 @@ const ROOTS = {
   shaashua: {
     hebrew: 'שַׁעֲשׁוּעַ',
     transliteration: 'shaashua',
-    englishLiteral: 'delight',
-    englishNatural: 'delight',
+    englishLiteral: 'darling',
+    englishNatural: 'darling',
     type: 'noun',
-    description: 'delight, pleasure, enjoyment',
+    description:
+      'delight, pleasure, enjoyment, specifically pure playful childlike delight, relatively rare in hebrew',
   },
   sachaq: {
     hebrew: 'שָׂחַק',
     transliteration: 'sachaq',
     englishLiteral: 'to laugh',
-    englishNatural: 'laugh',
+    englishNatural: 'to laugh',
     type: 'verb',
     description:
       'to laugh, to play, to rejoice, to make sport; to take delight in',

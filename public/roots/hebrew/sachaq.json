@@ -3,7 +3,7 @@
   "hebrew": "שָׂחַק",
   "transliteration": "sachaq",
   "englishLiteral": "to laugh",
-  "englishNatural": "laugh",
+  "englishNatural": "to laugh",
   "type": "verb",
   "description": "to laugh, to play, to rejoice, to make sport; to take delight in",
   "wordIndexes": {
@@ -11,6 +11,9 @@
       "8": {
         "30": [
           7
+        ],
+        "31": [
+          0
         ]
       }
     }

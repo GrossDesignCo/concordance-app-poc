@@ -696,7 +696,8 @@
   "adam": [
     "ezekiel",
     "genesis",
-    "jonah"
+    "jonah",
+    "proverbs"
   ],
   "tselem": [
     "genesis"
@@ -1348,6 +1349,7 @@
     "psalms"
   ],
   "et_time": [
+    "proverbs",
     "psalms"
   ],
   "navel": [

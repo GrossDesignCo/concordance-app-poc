@@ -29,7 +29,11 @@ beAmetso shechaqim miMaal
 baAzoz eynot tehom
 
 beSumo laYam chuqo uMayim lo yaavru-piw 
-beChuqo mosdei aretz 
+beChuqo mosdei aretz
+
 vaEhyeh etslo amon 
 vaEhyeh shaashuim yom yom 
-mesacheqet lefanav beKhol-et 
+mesacheqet lefanav beKhol-et
+
+mesacheqet beTevel artso 
+veShaashuai et-benei adam 

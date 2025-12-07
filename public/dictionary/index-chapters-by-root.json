@@ -1909,6 +1909,9 @@
     "jonah": [
       3,
       4
+    ],
+    "proverbs": [
+      8
     ]
   },
   "tselem": {
@@ -3065,7 +3068,8 @@
       4
     ],
     "proverbs": [
-      1
+      1,
+      8
     ]
   },
   "teshuqah": {
@@ -3268,6 +3272,9 @@
     ]
   },
   "et_time": {
+    "proverbs": [
+      8
+    ],
     "psalms": [
       1
     ]

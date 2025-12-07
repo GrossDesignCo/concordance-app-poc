@@ -75,8 +75,8 @@ export const proverbs_8_30: Verse = {
     {
       hebrew: 'שַׁעֲשֻׁעִים',
       transliteration: 'shaashuim',
-      englishLiteral: 'delights',
-      englishNatural: 'delights',
+      englishLiteral: 'darlings',
+      englishNatural: 'darlings',
       root: 'shaashua',
       suffixes: ['im'],
       order: 5,
@@ -162,7 +162,7 @@ export const proverbs_8_30: Verse = {
       transliteration: 'et',
       englishLiteral: 'time',
       englishNatural: 'time',
-      root: 'et',
+      root: 'et_time',
       order: 11,
       morphology: {
         gender: 'feminine',
@@ -173,6 +173,7 @@ export const proverbs_8_30: Verse = {
         englishLiteral: '.',
         englishNatural: '.',
       },
+      lineBreaksAfter: 1,
     },
   ],
   expectedTranslations: {
@@ -181,10 +182,10 @@ export const proverbs_8_30: Verse = {
     transliteration:
       'vaEhyeh etslo amon vaEhyeh shaashuim yom yom mesacheqet lefanav beKhol-et',
     englishLiteral:
-      'and-I-was beside-him master_craftsman, and-I-was delights day day, laughing to-faces-of-him in-all- time.',
+      'and-I-was beside-him master_craftsman, and-I-was darlings day day, laughing to-faces-his in-all- time.',
     englishNatural:
-      'and I was beside him a master-craftsman, and I was delights day day, laughing before him in all time.',
+      'and I was beside him a master-craftsman, and I was darlings day day, laughing to his face in all time.',
     kjv: 'Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-07' },
+  },
 };
