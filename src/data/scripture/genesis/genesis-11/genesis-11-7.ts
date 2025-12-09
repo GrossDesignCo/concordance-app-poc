@@ -1,0 +1,201 @@
+import { Verse } from '@/types';
+
+export const genesis_11_7: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 11,
+    verse: 7,
+  },
+  words: [
+    {
+      hebrew: 'הָבָה',
+      transliteration: 'havah',
+      englishLiteral: 'Come',
+      englishNatural: 'Come',
+      root: 'habah',
+      order: 1,
+      morphology: {
+        type: 'interjection',
+      },
+      grammarPrefix: {
+        englishLiteral: '',
+        englishNatural: '',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'נֵרְדָה',
+      transliteration: 'nerdah',
+      englishLiteral: 'let-us-descend',
+      englishNatural: 'let us descend',
+      root: 'yarad',
+      prefixes: ['ne'],
+      suffixes: ['nah'],
+      order: 2,
+      morphology: {
+        gender: 'common',
+        number: 'plural',
+        person: '1st',
+        tense: 'cohortative',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְנָבְלָה',
+      transliteration: 'veNavlah',
+      englishLiteral: 'and-let-us-confuse',
+      englishNatural: 'and let us confuse',
+      root: 'balal',
+      prefixes: ['ve'],
+      suffixes: ['nah'],
+      order: 3,
+      morphology: {
+        gender: 'common',
+        number: 'plural',
+        person: '1st',
+        tense: 'cohortative',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'שָׁם',
+      transliteration: 'sham',
+      englishLiteral: 'there',
+      englishNatural: 'there',
+      root: 'sham',
+      order: 4,
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'שְׂפָתָם',
+      transliteration: 'sefatam',
+      englishLiteral: 'lip-of-them',
+      englishNatural: 'the lip of them',
+      root: 'safah',
+      suffixes: ['am'],
+      order: 5,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'אֲשֶׁר',
+      transliteration: 'asher',
+      englishLiteral: 'which',
+      englishNatural: 'which',
+      root: 'asher',
+      order: 6,
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'לֹא',
+      transliteration: 'lo',
+      englishLiteral: 'not',
+      englishNatural: 'not',
+      root: 'lo',
+      order: {
+        hebrew: 7,
+        english: 9,
+      },
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'יִשְׁמְעוּ',
+      transliteration: "yishme'u",
+      englishLiteral: 'they-will-hear',
+      englishNatural: 'will hear',
+      root: 'shama',
+      prefixes: ['yi'],
+      suffixes: ['u'],
+      order: 8,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אִישׁ',
+      transliteration: 'ish',
+      englishLiteral: 'man',
+      englishNatural: 'man',
+      root: 'ish',
+      order: {
+        hebrew: 9,
+        english: 7,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'שְׂפַת',
+      transliteration: 'sefat',
+      englishLiteral: 'lip-of',
+      englishNatural: 'the lip of',
+      root: 'safah',
+      order: 10,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'רֵעֵהוּ',
+      transliteration: 'reehu',
+      englishLiteral: 'companion-of-him',
+      englishNatural: 'his companion',
+      root: 'rea',
+      suffixes: ['ehu'],
+      order: 11,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '."',
+        englishNatural: '."',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'הָבָה נֵרְדָה וְנָבְלָה שָׁם שְׂפָתָם אֲשֶׁר לֹא יִשְׁמְעוּ אִישׁ שְׂפַת רֵעֵהוּ',
+    transliteration:
+      "havah nerdah veNavlah sham sefatam asher lo yishme'u ish sefat reehu",
+    englishLiteral:
+      'Come let-us-descend and-let-us-confuse there lip-of-them, which not they-will-hear man lip-of companion-of-him."',
+    englishNatural:
+      'Come let us descend, and let us confuse there the lip of them, which man will hear not the lip of his companion."',
+    kjv: "Go to, let us go down, and there confound their language, that they may not understand one another's speech.",
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
+},
+};

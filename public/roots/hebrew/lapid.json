@@ -1,0 +1,20 @@
+{
+  "key": "lapid",
+  "hebrew": "לפיד",
+  "transliteration": "lapid",
+  "englishLiteral": "torch",
+  "englishNatural": "torch",
+  "type": "noun",
+  "description": "torch, lamp, firebrand; flaming torch",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "17": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,23 @@
+{
+  "key": "balal",
+  "hebrew": "בלל",
+  "transliteration": "balal",
+  "englishLiteral": "to confuse",
+  "englishNatural": "to confuse",
+  "type": "verb",
+  "description": "to confuse, confound, mix, mingle; to jumble or make unintelligible",
+  "wordIndexes": {
+    "genesis": {
+      "11": {
+        "7": [
+          2
+        ],
+        "9": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

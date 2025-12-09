@@ -1,0 +1,20 @@
+{
+  "key": "emori",
+  "hebrew": "אמרי",
+  "transliteration": "emori",
+  "englishLiteral": "Amorite",
+  "englishNatural": "Amorite",
+  "type": "noun",
+  "description": "Amorite; one of the Canaanite peoples",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "16": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

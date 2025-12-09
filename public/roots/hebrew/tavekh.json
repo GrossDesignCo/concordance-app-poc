@@ -1,0 +1,20 @@
+{
+  "key": "tavekh",
+  "hebrew": "תוך",
+  "transliteration": "tavekh",
+  "englishLiteral": "midst",
+  "englishNatural": "midst",
+  "type": "noun",
+  "description": "midst, middle, center; the middle part",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "10": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

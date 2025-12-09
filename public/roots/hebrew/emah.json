@@ -1,0 +1,20 @@
+{
+  "key": "emah",
+  "hebrew": "אימה",
+  "transliteration": "emah",
+  "englishLiteral": "terror",
+  "englishNatural": "terror",
+  "type": "noun",
+  "description": "terror, dread, horror; overwhelming fear",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "12": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

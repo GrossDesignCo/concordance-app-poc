@@ -1,0 +1,20 @@
+{
+  "key": "bamah",
+  "hebrew": "במה",
+  "transliteration": "bamah",
+  "englishLiteral": "by-what",
+  "englishNatural": "by what",
+  "type": "pronoun",
+  "description": "by what, whereby, how; interrogative pronoun with preposition",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "8": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

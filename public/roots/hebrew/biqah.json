@@ -1,0 +1,20 @@
+{
+  "key": "biqah",
+  "hebrew": "בִּקְעָה",
+  "transliteration": "biqah",
+  "englishLiteral": "valley",
+  "englishNatural": "valley",
+  "type": "noun",
+  "description": "valley, plain, broad valley; a wide flat area between hills",
+  "wordIndexes": {
+    "genesis": {
+      "11": {
+        "2": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

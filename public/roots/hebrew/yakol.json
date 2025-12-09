@@ -7,6 +7,13 @@
   "type": "verb",
   "description": "to be able, can, have power, prevail",
   "wordIndexes": {
+    "genesis": {
+      "15": {
+        "5": [
+          10
+        ]
+      }
+    },
     "jonah": {
       "1": {
         "13": [

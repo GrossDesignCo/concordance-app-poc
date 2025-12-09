@@ -1,0 +1,20 @@
+{
+  "key": "habah",
+  "hebrew": "הבה",
+  "transliteration": "habah",
+  "englishLiteral": "come",
+  "englishNatural": "come",
+  "type": "interjection",
+  "description": "come, come now, go to; particle of exhortation or invitation",
+  "wordIndexes": {
+    "genesis": {
+      "11": {
+        "7": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "mitzrayim",
+  "hebrew": "מצרים",
+  "transliteration": "mitzrayim",
+  "englishLiteral": "Narrow_Place (Egypt)",
+  "englishNatural": "Narrow-Place (Egypt)",
+  "type": "noun",
+  "description": "Egypt; literally \"narrow place\" or \"place of distress\"",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "18": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

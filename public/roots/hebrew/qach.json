@@ -1,0 +1,23 @@
+{
+  "key": "qach",
+  "hebrew": "קח",
+  "transliteration": "qach",
+  "englishLiteral": "to take",
+  "englishNatural": "to take",
+  "type": "verb",
+  "description": "to take, grasp, seize; to receive or acquire",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "9": [
+          2
+        ],
+        "10": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -38,4 +38,4 @@ they, and-all- the-living_being to-kind-her,
 and-all- the-beast to-kind-her,
 and-all- the-creeping_thing the-creeping over- the-land to-kind-his,
 and-all- the-flier to-kind-his,
-all sparrow, all- wing.
+all bird, all- wing.

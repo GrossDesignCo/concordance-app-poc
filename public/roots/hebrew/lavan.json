@@ -1,0 +1,20 @@
+{
+  "key": "lavan",
+  "hebrew": "לָבַן",
+  "transliteration": "lavan",
+  "englishLiteral": "to make_white",
+  "englishNatural": "to make-white",
+  "type": "verb",
+  "description": "to make white, to make bricks; in this context: to form and bake bricks",
+  "wordIndexes": {
+    "genesis": {
+      "11": {
+        "3": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

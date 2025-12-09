@@ -18,4 +18,4 @@ seed and harvest,
 and cold and heat,
 and summer and winter,
 and day and night
-they will cease not."
+they will sabbath not."

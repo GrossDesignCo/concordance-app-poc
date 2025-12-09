@@ -1,0 +1,26 @@
+{
+  "key": "anoki",
+  "hebrew": "אנכי",
+  "transliteration": "anoki",
+  "englishLiteral": "I",
+  "englishNatural": "I",
+  "type": "pronoun",
+  "description": "I, me; first person singular pronoun (emphatic form)",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "1": [
+          13
+        ],
+        "2": [
+          7
+        ],
+        "14": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

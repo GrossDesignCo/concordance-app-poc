@@ -1,0 +1,21 @@
+{
+  "key": "batar",
+  "hebrew": "בתר",
+  "transliteration": "batar",
+  "englishLiteral": "to divide",
+  "englishNatural": "to divide",
+  "type": "verb",
+  "description": "to divide, cut in two, split; to separate into pieces",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "10": [
+          5,
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

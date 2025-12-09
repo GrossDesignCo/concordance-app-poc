@@ -1,0 +1,20 @@
+{
+  "key": "alatah",
+  "hebrew": "עלטה",
+  "transliteration": "alatah",
+  "englishLiteral": "darkness",
+  "englishNatural": "darkness",
+  "type": "noun",
+  "description": "darkness, deep darkness, gloom",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "17": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

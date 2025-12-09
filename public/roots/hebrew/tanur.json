@@ -1,0 +1,20 @@
+{
+  "key": "tanur",
+  "hebrew": "תנור",
+  "transliteration": "tanur",
+  "englishLiteral": "furnace",
+  "englishNatural": "furnace",
+  "type": "noun",
+  "description": "furnace, oven; portable oven or kiln",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "17": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

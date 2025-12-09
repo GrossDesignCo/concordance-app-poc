@@ -1,0 +1,20 @@
+{
+  "key": "elyon",
+  "hebrew": "עליון",
+  "transliteration": "elyon",
+  "englishLiteral": "Most_High",
+  "englishNatural": "Most-High",
+  "type": "adjective",
+  "description": "Most High, uppermost, highest; title for God",
+  "wordIndexes": {
+    "genesis": {
+      "14": {
+        "18": [
+          10
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

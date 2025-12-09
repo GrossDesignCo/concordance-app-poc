@@ -1,0 +1,20 @@
+{
+  "key": "machazeh",
+  "hebrew": "מחזה",
+  "transliteration": "machazeh",
+  "englishLiteral": "vision",
+  "englishNatural": "vision",
+  "type": "noun",
+  "description": "vision, sight, appearance; prophetic vision or revelation",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "1": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -31,7 +31,7 @@ Keepers of vapors of emptiness,
 their steadfast-love they forsake.
 
 And I with a voice of thanksgiving, I will sacrifice to you; 
-what I have vowed I will pay; 
+what I have vowed I will complete; 
 salvation belongs to He-Who-Is (YHWH).
 
 And He-Who-Is (YHWH) spoke to the fish, 

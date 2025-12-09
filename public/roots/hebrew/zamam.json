@@ -1,0 +1,20 @@
+{
+  "key": "zamam",
+  "hebrew": "זמם",
+  "transliteration": "zamam",
+  "englishLiteral": "to plan",
+  "englishNatural": "to plan",
+  "type": "verb",
+  "description": "to plan, devise, scheme, imagine; to consider, purpose",
+  "wordIndexes": {
+    "genesis": {
+      "11": {
+        "6": [
+          17
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "ger",
+  "hebrew": "גר",
+  "transliteration": "ger",
+  "englishLiteral": "sojourner",
+  "englishNatural": "sojourner",
+  "type": "noun",
+  "description": "sojourner, stranger, alien; temporary resident or foreigner",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "13": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

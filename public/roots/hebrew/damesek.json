@@ -1,0 +1,20 @@
+{
+  "key": "damesek",
+  "hebrew": "דמשק",
+  "transliteration": "damesek",
+  "englishLiteral": "Damascus",
+  "englishNatural": "Damascus",
+  "type": "noun",
+  "description": "Damascus; ancient city in Syria",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "2": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

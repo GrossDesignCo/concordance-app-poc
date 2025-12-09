@@ -1,0 +1,20 @@
+{
+  "key": "gozal",
+  "hebrew": "גוזל",
+  "transliteration": "gozal",
+  "englishLiteral": "young-pigeon",
+  "englishNatural": "young pigeon",
+  "type": "noun",
+  "description": "young pigeon, young bird; fledgling",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "9": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

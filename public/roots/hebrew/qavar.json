@@ -1,0 +1,20 @@
+{
+  "key": "qavar",
+  "hebrew": "קבר",
+  "transliteration": "qavar",
+  "englishLiteral": "to bury",
+  "englishNatural": "to bury",
+  "type": "verb",
+  "description": "to bury, to be buried",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "15": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

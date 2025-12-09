@@ -1,0 +1,26 @@
+{
+  "key": "puts",
+  "hebrew": "פּוּץ",
+  "transliteration": "puts",
+  "englishLiteral": "to scatter",
+  "englishNatural": "to scatter",
+  "type": "verb",
+  "description": "to scatter, disperse, spread abroad; to be dispersed",
+  "wordIndexes": {
+    "genesis": {
+      "11": {
+        "4": [
+          12
+        ],
+        "8": [
+          0
+        ],
+        "9": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

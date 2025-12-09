@@ -1,0 +1,22 @@
+{
+  "key": "meshulash",
+  "hebrew": "משלש",
+  "transliteration": "meshulash",
+  "englishLiteral": "three-years-old",
+  "englishNatural": "three years old",
+  "type": "adjective",
+  "description": "three years old, threefold; tripled or made three",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "9": [
+          5,
+          7,
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

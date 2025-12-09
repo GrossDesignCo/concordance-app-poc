@@ -1,0 +1,20 @@
+{
+  "key": "ayil",
+  "hebrew": "איל",
+  "transliteration": "ayil",
+  "englishLiteral": "ram",
+  "englishNatural": "ram",
+  "type": "noun",
+  "description": "ram; male sheep",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "9": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,21 @@
+{
+  "key": "safar",
+  "hebrew": "ספר",
+  "transliteration": "safar",
+  "englishLiteral": "to count",
+  "englishNatural": "to count",
+  "type": "verb",
+  "description": "to count, number, recount; to tell or declare",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "5": [
+          7,
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

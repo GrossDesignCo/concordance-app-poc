@@ -1,0 +1,25 @@
+{
+  "key": "hen",
+  "hebrew": "הן",
+  "transliteration": "hen",
+  "englishLiteral": "behold",
+  "englishNatural": "behold",
+  "type": "interjection",
+  "description": "behold, lo, see; particle calling attention",
+  "wordIndexes": {
+    "genesis": {
+      "11": {
+        "6": [
+          2
+        ]
+      },
+      "15": {
+        "3": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

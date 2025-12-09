@@ -1,0 +1,20 @@
+{
+  "key": "gezer",
+  "hebrew": "גזר",
+  "transliteration": "gezer",
+  "englishLiteral": "piece",
+  "englishNatural": "piece",
+  "type": "noun",
+  "description": "piece, part; cut piece (from an animal sacrifice)",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "17": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

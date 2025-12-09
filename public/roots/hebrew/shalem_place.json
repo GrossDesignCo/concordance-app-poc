@@ -1,0 +1,20 @@
+{
+  "key": "shalem_place",
+  "hebrew": "שלם",
+  "transliteration": "shalem",
+  "englishLiteral": "Peace (Salem)",
+  "englishNatural": "Peace (Salem)",
+  "type": "noun",
+  "description": "Salem; ancient name for Jerusalem, meaning \"peace\"",
+  "wordIndexes": {
+    "genesis": {
+      "14": {
+        "18": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -286,6 +286,7 @@
     "genesis"
   ],
   "saraph": [
+    "genesis",
     "isaiah",
     "numbers"
   ],
@@ -305,6 +306,7 @@
     "numbers"
   ],
   "am": [
+    "genesis",
     "isaiah",
     "jonah",
     "numbers",
@@ -387,6 +389,7 @@
     "psalms"
   ],
   "nabat": [
+    "genesis",
     "jonah",
     "numbers"
   ],
@@ -543,6 +546,9 @@
     "jonah",
     "proverbs"
   ],
+  "qavar": [
+    "genesis"
+  ],
   "yom": [
     "ezekiel",
     "genesis",
@@ -573,6 +579,12 @@
     "genesis",
     "jonah",
     "proverbs"
+  ],
+  "seivah": [
+    "genesis"
+  ],
+  "shalom": [
+    "genesis"
   ],
   "shem": [
     "exodus",
@@ -1012,6 +1024,7 @@
   ],
   "melekh": [
     "ezekiel",
+    "genesis",
     "isaiah",
     "jonah",
     "proverbs"
@@ -1057,6 +1070,7 @@
     "proverbs"
   ],
   "ashan": [
+    "genesis",
     "isaiah"
   ],
   "bayit": [
@@ -1085,6 +1099,7 @@
     "jonah"
   ],
   "safah": [
+    "genesis",
     "isaiah"
   ],
   "ayin_eye": [
@@ -1384,6 +1399,7 @@
     "psalms"
   ],
   "abad": [
+    "genesis",
     "jonah",
     "psalms"
   ],
@@ -1405,6 +1421,7 @@
     "psalms"
   ],
   "tzedeq": [
+    "genesis",
     "proverbs",
     "psalms"
   ],
@@ -1612,6 +1629,7 @@
   ],
   "davar": [
     "ezekiel",
+    "genesis",
     "jonah",
     "proverbs"
   ],
@@ -1964,6 +1982,7 @@
   ],
   "yarad": [
     "exodus",
+    "genesis",
     "jonah"
   ],
   "yafo": [
@@ -1986,6 +2005,7 @@
     "jonah"
   ],
   "chashav": [
+    "genesis",
     "jonah"
   ],
   "lehishabeir": [
@@ -2034,7 +2054,11 @@
     "jonah"
   ],
   "rea": [
+    "genesis",
     "jonah"
+  ],
+  "rekush": [
+    "genesis"
   ],
   "lekhu": [
     "jonah"
@@ -2064,7 +2088,8 @@
     "exodus"
   ],
   "koh": [
-    "exodus"
+    "exodus",
+    "genesis"
   ],
   "shlachani": [
     "exodus"
@@ -2154,6 +2179,7 @@
     "jonah"
   ],
   "aman": [
+    "genesis",
     "jonah"
   ],
   "tzom": [
@@ -2219,6 +2245,7 @@
     "jonah"
   ],
   "lahem": [
+    "genesis",
     "jonah"
   ],
   "yara": [
@@ -2231,6 +2258,7 @@
     "jonah"
   ],
   "attah": [
+    "genesis",
     "jonah"
   ],
   "mot": [
@@ -2264,6 +2292,7 @@
     "jonah"
   ],
   "shemesh": [
+    "genesis",
     "jonah"
   ],
   "qadim": [
@@ -2319,6 +2348,7 @@
     "jonah"
   ],
   "yakol": [
+    "genesis",
     "jonah"
   ],
   "naki": [
@@ -2347,6 +2377,7 @@
     "jonah"
   ],
   "anah": [
+    "genesis",
     "jonah"
   ],
   "beten": [
@@ -2408,6 +2439,7 @@
     "jonah"
   ],
   "shalem": [
+    "genesis",
     "jonah"
   ],
   "yeshuah": [
@@ -2463,7 +2495,8 @@
     "ezekiel"
   ],
   "esh": [
-    "ezekiel"
+    "ezekiel",
+    "genesis"
   ],
   "nogah": [
     "ezekiel"
@@ -2672,10 +2705,12 @@
     "ezekiel"
   ],
   "kasdim": [
-    "ezekiel"
+    "ezekiel",
+    "genesis"
   ],
   "kohen": [
-    "ezekiel"
+    "ezekiel",
+    "genesis"
   ],
   "qatzir": [
     "genesis"
@@ -2741,6 +2776,180 @@
     "genesis"
   ],
   "mishpachah": [
+    "genesis"
+  ],
+  "biqah": [
+    "genesis"
+  ],
+  "havah": [
+    "genesis"
+  ],
+  "lavan": [
+    "genesis"
+  ],
+  "levenah": [
+    "genesis"
+  ],
+  "chemar": [
+    "genesis"
+  ],
+  "chomer": [
+    "genesis"
+  ],
+  "migdal": [
+    "genesis"
+  ],
+  "puts": [
+    "genesis"
+  ],
+  "hen": [
+    "genesis"
+  ],
+  "batsar": [
+    "genesis"
+  ],
+  "zamam": [
+    "genesis"
+  ],
+  "habah": [
+    "genesis"
+  ],
+  "balal": [
+    "genesis"
+  ],
+  "chadal": [
+    "genesis"
+  ],
+  "machazeh": [
+    "genesis"
+  ],
+  "anoki": [
+    "genesis"
+  ],
+  "magen": [
+    "genesis"
+  ],
+  "sakar": [
+    "genesis"
+  ],
+  "adonai": [
+    "genesis"
+  ],
+  "ariri": [
+    "genesis"
+  ],
+  "mesheq": [
+    "genesis"
+  ],
+  "damesek": [
+    "genesis"
+  ],
+  "eliezer": [
+    "genesis"
+  ],
+  "yarash": [
+    "genesis"
+  ],
+  "elav": [
+    "genesis"
+  ],
+  "ki_im": [
+    "genesis"
+  ],
+  "safar": [
+    "genesis"
+  ],
+  "tsedaqah": [
+    "genesis"
+  ],
+  "ur": [
+    "genesis"
+  ],
+  "bamah": [
+    "genesis"
+  ],
+  "qach": [
+    "genesis"
+  ],
+  "eglah": [
+    "genesis"
+  ],
+  "meshulash": [
+    "genesis"
+  ],
+  "ez": [
+    "genesis"
+  ],
+  "ayil": [
+    "genesis"
+  ],
+  "tor": [
+    "genesis"
+  ],
+  "gozal": [
+    "genesis"
+  ],
+  "batar": [
+    "genesis"
+  ],
+  "tavekh": [
+    "genesis"
+  ],
+  "beter": [
+    "genesis"
+  ],
+  "ayit": [
+    "genesis"
+  ],
+  "peger": [
+    "genesis"
+  ],
+  "emah": [
+    "genesis"
+  ],
+  "ger": [
+    "genesis"
+  ],
+  "hennah": [
+    "genesis"
+  ],
+  "emori": [
+    "genesis"
+  ],
+  "alatah": [
+    "genesis"
+  ],
+  "tanur": [
+    "genesis"
+  ],
+  "lapid": [
+    "genesis"
+  ],
+  "gezer": [
+    "genesis"
+  ],
+  "mitzrayim": [
+    "genesis"
+  ],
+  "sedom": [
+    "genesis"
+  ],
+  "kedarlaomer": [
+    "genesis"
+  ],
+  "emeq": [
+    "genesis"
+  ],
+  "shaveh": [
+    "genesis"
+  ],
+  "shalem_place": [
+    "genesis"
+  ],
+  "elyon": [
+    "genesis"
+  ],
+  "yayin": [
     "genesis"
   ],
   "en": [

@@ -1,0 +1,20 @@
+{
+  "key": "mesheq",
+  "hebrew": "משק",
+  "transliteration": "mesheq",
+  "englishLiteral": "possessor",
+  "englishNatural": "possessor",
+  "type": "noun",
+  "description": "possessor, steward, heir; one who inherits or manages",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "2": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

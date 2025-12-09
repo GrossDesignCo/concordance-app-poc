@@ -1,0 +1,20 @@
+{
+  "key": "eliezer",
+  "hebrew": "אליעזר",
+  "transliteration": "eliezer",
+  "englishLiteral": "God_My_Help (Eliezer)",
+  "englishNatural": "God-My-Help (Eliezer)",
+  "type": "noun",
+  "description": "Eliezer; name meaning \"God is my help\"",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "2": [
+          15
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "peger",
+  "hebrew": "פגר",
+  "transliteration": "peger",
+  "englishLiteral": "carcass",
+  "englishNatural": "carcass",
+  "type": "noun",
+  "description": "carcass, corpse, dead body; remains of a dead animal",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "11": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "ayit",
+  "hebrew": "עיט",
+  "transliteration": "ayit",
+  "englishLiteral": "bird_of_prey",
+  "englishNatural": "bird-of-prey",
+  "type": "noun",
+  "description": "bird of prey, vulture, eagle, ravenous bird; scavenger bird",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "11": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

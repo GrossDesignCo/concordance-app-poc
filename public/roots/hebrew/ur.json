@@ -1,0 +1,20 @@
+{
+  "key": "ur",
+  "hebrew": "אור",
+  "transliteration": "ur",
+  "englishLiteral": "Ur",
+  "englishNatural": "Ur",
+  "type": "noun",
+  "description": "Ur; ancient city in Mesopotamia, birthplace of Abraham",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "7": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

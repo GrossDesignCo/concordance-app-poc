@@ -1,0 +1,26 @@
+{
+  "key": "elav",
+  "hebrew": "אליו",
+  "transliteration": "elav",
+  "englishLiteral": "to-him",
+  "englishNatural": "to him",
+  "type": "preposition",
+  "description": "to him, unto him; preposition with pronominal suffix",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "4": [
+          3
+        ],
+        "7": [
+          1
+        ],
+        "9": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

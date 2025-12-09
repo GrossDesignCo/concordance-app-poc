@@ -7,6 +7,21 @@
   "type": "noun",
   "description": "friend, companion, fellow, neighbor",
   "wordIndexes": {
+    "genesis": {
+      "11": {
+        "3": [
+          3
+        ],
+        "7": [
+          10
+        ]
+      },
+      "15": {
+        "10": [
+          12
+        ]
+      }
+    },
     "jonah": {
       "1": {
         "7": [

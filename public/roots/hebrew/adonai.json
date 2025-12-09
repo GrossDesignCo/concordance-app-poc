@@ -1,0 +1,23 @@
+{
+  "key": "adonai",
+  "hebrew": "אדני",
+  "transliteration": "adonai",
+  "englishLiteral": "Lord",
+  "englishNatural": "Lord",
+  "type": "noun",
+  "description": "Lord, master; title of respect and authority",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "2": [
+          2
+        ],
+        "8": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

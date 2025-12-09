@@ -1,0 +1,20 @@
+{
+  "key": "magen",
+  "hebrew": "מגן",
+  "transliteration": "magen",
+  "englishLiteral": "shield",
+  "englishNatural": "shield",
+  "type": "noun",
+  "description": "shield, buckler; protection, defender",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "1": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

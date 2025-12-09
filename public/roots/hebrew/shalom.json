@@ -1,0 +1,20 @@
+{
+  "key": "shalom",
+  "hebrew": "שלום",
+  "transliteration": "shalom",
+  "englishLiteral": "peace",
+  "englishNatural": "peace",
+  "type": "noun",
+  "description": "peace, completeness, soundness, welfare, safety",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "15": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

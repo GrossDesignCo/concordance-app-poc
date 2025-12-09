@@ -1,0 +1,20 @@
+{
+  "key": "sakar",
+  "hebrew": "שכר",
+  "transliteration": "sakar",
+  "englishLiteral": "reward",
+  "englishNatural": "reward",
+  "type": "noun",
+  "description": "reward, wages, hire; compensation or recompense",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "1": [
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

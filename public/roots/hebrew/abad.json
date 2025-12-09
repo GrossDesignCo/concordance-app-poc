@@ -7,6 +7,16 @@
   "type": "verb",
   "description": "to perish, be destroyed, be lost, vanish",
   "wordIndexes": {
+    "genesis": {
+      "15": {
+        "13": [
+          11
+        ],
+        "14": [
+          4
+        ]
+      }
+    },
     "jonah": {
       "1": {
         "6": [

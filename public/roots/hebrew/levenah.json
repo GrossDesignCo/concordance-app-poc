@@ -1,0 +1,24 @@
+{
+  "key": "levenah",
+  "hebrew": "לְבֵנָה",
+  "transliteration": "levenah",
+  "englishLiteral": "brick",
+  "englishNatural": "brick",
+  "type": "noun",
+  "description": "brick, tile; from lavan (to make white/bricks)",
+  "related": [
+    "lavan"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "11": {
+        "3": [
+          6,
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

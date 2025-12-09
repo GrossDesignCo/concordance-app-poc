@@ -83,6 +83,15 @@ Usually this works best if the ai-model:
      - "God rested Man in the garden"
      - "And he called his name Rest, saying 'At last this one will give us rest'"
 
+1. Preserve spaces after hyphens when words are split across multiple word objects.
+
+   When a Hebrew word with a prefix is represented as two separate word objects with a maqaf separator (e.g., `כִּי־` and `גֵר`), the hyphen at the end of the prefix indicates continuation to the next word. A space should appear after this hyphen in the rendered text to maintain word separation.
+   
+   Example from Genesis 15:13:
+   - Word 1: `כִּי־` → `englishLiteral: 'that-'`
+   - Word 2: `גֵר` → `englishLiteral: 'sojourner'`
+   - Rendered: `"that- sojourner"` (space after hyphen)
+
 1. Transliterate unknown words
 
 Specific names of certain places or materials may be unknown or not fit into any semantic range, such as "Bedolach" (Traditionally Bdellium in Genesis 2:12 and Numbers 11:7, which itself is a transliteration of a Greek transliteration of the Hebrew term). Rabbinic translation takes guesses at what this material could be, but it appears to be genuinely lost to the ages, adding to the exotic mystique.
@@ -101,6 +110,11 @@ In these cases, a simple transliteration of the original Hebrew seems the most a
    - English-Literal Translation: "And-said, Gods, 'Let_be, light.' And-was, light."
    - English-Natural Translation: "And God said, 'Let light be.' And light was."
    - In the data structures this usually means reversing subject-verb order, and moving prefixes like "va-"/"and-" to the subject word
+
+1. Use more natural english punctuation.
+
+  - Break up clauses in English with commas or semicolons while preserving meaning.
+  - Use additional line-breaks where necessary, preferring the preservation of the vav- consecutive when possible.
 
 1. Use dashes for underscored Hebrew words and names translated as English phrases.
 

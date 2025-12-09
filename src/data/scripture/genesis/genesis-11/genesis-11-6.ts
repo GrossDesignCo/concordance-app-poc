@@ -1,0 +1,345 @@
+import { Verse } from '@/types';
+
+export const genesis_11_6: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 11,
+    verse: 6,
+  },
+  words: [
+    {
+      hebrew: 'וַיֹּאמֶר',
+      transliteration: 'vaYomer',
+      englishLiteral: 'And-he-said',
+      englishNatural: 'said',
+      root: 'amar',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+    },
+    {
+      hebrew: 'יְהוָה',
+      transliteration: 'YHWH',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
+      root: 'yhwh',
+      order: {
+        hebrew: 2,
+        english: 1,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
+    },
+    {
+      hebrew: 'הֵן',
+      transliteration: 'hen',
+      englishLiteral: 'Behold',
+      englishNatural: 'Behold',
+      root: 'hen',
+      order: 3,
+      morphology: {
+        type: 'interjection',
+      },
+      grammarPrefix: {
+        englishLiteral: '"',
+        englishNatural: '"',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'עַם',
+      transliteration: 'am',
+      englishLiteral: 'people',
+      englishNatural: 'the people',
+      root: 'am',
+      order: 4,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֶחָד',
+      transliteration: 'echad',
+      englishLiteral: 'one',
+      englishNatural: 'is one',
+      root: 'echad',
+      order: 5,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'numeral',
+      },
+    },
+    {
+      hebrew: 'וְשָׂפָה',
+      transliteration: 'veSafah',
+      englishLiteral: 'and-lip',
+      englishNatural: 'lip',
+      root: 'safah',
+      prefixes: ['ve'],
+      order: {
+        hebrew: 6,
+        english: 7,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+    },
+    {
+      hebrew: 'אַחַת',
+      transliteration: 'achat',
+      englishLiteral: 'one',
+      englishNatural: 'and one',
+      root: 'echad',
+      order: {
+        hebrew: 7,
+        english: 6,
+      },
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'numeral',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'לְכֻלָּם',
+      transliteration: 'leKhulam',
+      englishLiteral: 'to-all-of-them',
+      englishNatural: 'to all of them',
+      root: 'kol',
+      prefixes: ['le'],
+      suffixes: ['am'],
+      order: {
+        hebrew: 8,
+        english: 8,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: 1,
+    },
+    {
+      hebrew: 'וְזֶה',
+      transliteration: 'veZeh',
+      englishLiteral: 'and-this',
+      englishNatural: 'and this',
+      root: 'zeh',
+      prefixes: ['ve'],
+      order: 9,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'pronoun',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'הַחִלָּם',
+      transliteration: 'hachilam',
+      englishLiteral: 'the-beginning-of-them',
+      englishNatural: 'the beginning of',
+      root: 'chalal',
+      prefixes: ['ha'],
+      suffixes: ['am'],
+      order: 10,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        tense: 'infinitive_construct',
+        stem: 'hiphil',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'לַעֲשׂוֹת',
+      transliteration: 'laAsot',
+      englishLiteral: 'to-make',
+      englishNatural: 'their making',
+      root: 'asah',
+      prefixes: ['la'],
+      order: 11,
+      morphology: {
+        tense: 'infinitive_construct',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ';',
+      },
+    },
+    {
+      hebrew: 'וְעַתָּה',
+      transliteration: 'veAttah',
+      englishLiteral: 'and-now',
+      englishNatural: 'and now',
+      root: 'attah',
+      prefixes: ['ve'],
+      order: 12,
+      morphology: {
+        type: 'adverb',
+      },
+      lineBreaksBefore: 1,
+    },
+    {
+      hebrew: 'לֹא־',
+      transliteration: 'lo-',
+      englishLiteral: 'not-',
+      englishNatural: 'nothing',
+      root: 'lo',
+      order: 13,
+      morphology: {
+        type: 'adverb',
+      },
+    },
+    {
+      hebrew: 'יִבָּצֵר',
+      transliteration: 'yibatser',
+      englishLiteral: 'he-will-be-restrained',
+      englishNatural: 'will be restrained',
+      root: 'batsar',
+      prefixes: ['yi'],
+      order: 14,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'niphal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'מֵהֶם',
+      transliteration: 'mehem',
+      englishLiteral: 'from-them',
+      englishNatural: 'from them',
+      root: 'min',
+      suffixes: ['hem'],
+      order: 15,
+      morphology: {
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'כֹּל',
+      transliteration: 'kol',
+      englishLiteral: 'all',
+      englishNatural: 'all',
+      root: 'kol',
+      order: 16,
+      morphology: {
+        type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'אֲשֶׁר',
+      transliteration: 'asher',
+      englishLiteral: 'which',
+      englishNatural: 'which',
+      root: 'asher',
+      order: 17,
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'יָזְמוּ',
+      transliteration: 'yazmu',
+      englishLiteral: 'they-will-plan',
+      englishNatural: 'they will plan',
+      root: 'zamam',
+      prefixes: ['ya'],
+      suffixes: ['u'],
+      order: 18,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'לַעֲשׂוֹת',
+      transliteration: 'laAsot',
+      englishLiteral: 'to-make',
+      englishNatural: 'to make',
+      root: 'asah',
+      prefixes: ['la'],
+      order: 19,
+      morphology: {
+        tense: 'infinitive_construct',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַיֹּאמֶר יְהוָה הֵן עַם אֶחָד וְשָׂפָה אַחַת לְכֻלָּם וְזֶה הַחִלָּם לַעֲשׂוֹת וְעַתָּה לֹא־יִבָּצֵר מֵהֶם כֹּל אֲשֶׁר יָזְמוּ לַעֲשׂוֹת',
+    transliteration:
+      'vaYomer YHWH hen am echad veSafah achat leKhulam veZeh hachilam laAsot veAttah lo-yibatser mehem kol asher yazmu laAsot',
+    englishLiteral:
+      'And-he-said He_Who_Is (YHWH), "Behold, people one and-lip one to-all-of-them, and-this the-beginning-of-them to-make, and-now not- he-will-be-restrained from-them all which they-will-plan to-make.',
+    englishNatural:
+      'And He-Who-Is (YHWH) said, "Behold, the people is one and one lip to all of them, and this, the beginning of their making; and now nothing will be restrained from them, all which they will plan to make.',
+    kjv: 'And the LORD said, Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
+},
+};

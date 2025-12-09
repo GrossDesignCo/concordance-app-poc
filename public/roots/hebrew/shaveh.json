@@ -1,0 +1,20 @@
+{
+  "key": "shaveh",
+  "hebrew": "שוה",
+  "transliteration": "shaveh",
+  "englishLiteral": "Level (Shaveh)",
+  "englishNatural": "Level (Shaveh)",
+  "type": "noun",
+  "description": "Shaveh; place name meaning \"level\" or \"plain\"",
+  "wordIndexes": {
+    "genesis": {
+      "14": {
+        "17": [
+          15
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

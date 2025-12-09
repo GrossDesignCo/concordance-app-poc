@@ -1,0 +1,20 @@
+{
+  "key": "ez",
+  "hebrew": "עז",
+  "transliteration": "ez",
+  "englishLiteral": "goat",
+  "englishNatural": "goat",
+  "type": "noun",
+  "description": "goat, she-goat; female goat",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "9": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

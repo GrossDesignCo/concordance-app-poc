@@ -1,0 +1,20 @@
+{
+  "key": "seivah",
+  "hebrew": "שיבה",
+  "transliteration": "seivah",
+  "englishLiteral": "old age",
+  "englishNatural": "old age",
+  "type": "noun",
+  "description": "old age, gray hair, hoary head",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "15": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

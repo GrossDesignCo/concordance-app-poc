@@ -1,0 +1,20 @@
+{
+  "key": "eglah",
+  "hebrew": "עגלה",
+  "transliteration": "eglah",
+  "englishLiteral": "heifer",
+  "englishNatural": "heifer",
+  "type": "noun",
+  "description": "heifer, young cow; female calf",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "9": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

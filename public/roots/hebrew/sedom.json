@@ -1,0 +1,20 @@
+{
+  "key": "sedom",
+  "hebrew": "סדם",
+  "transliteration": "sedom",
+  "englishLiteral": "Devastation (Sodom)",
+  "englishNatural": "Devastation (Sodom)",
+  "type": "noun",
+  "description": "Sodom; city destroyed by fire",
+  "wordIndexes": {
+    "genesis": {
+      "14": {
+        "17": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

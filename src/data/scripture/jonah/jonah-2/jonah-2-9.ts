@@ -119,7 +119,7 @@ export const jonah_2_9: Verse = {
       hebrew: 'אֲשַׁלֵּמָה',
       transliteration: 'ashalemah',
       englishLiteral: 'I-will-complete',
-      englishNatural: 'I will pay',
+      englishNatural: 'I will complete',
       root: 'shalem',
       order: 8,
       morphology: {
@@ -175,8 +175,8 @@ export const jonah_2_9: Verse = {
     englishLiteral:
       'And-I with-voice-of thanksgiving, I-will-sacrifice- to-you; which I-vowed I-will-complete; salvation to-He_Who_Is (YHWH).',
     englishNatural:
-      'And I with a voice of thanksgiving, I will sacrifice to you; what I have vowed I will pay; salvation belongs to He-Who-Is (YHWH).',
+      'And I with a voice of thanksgiving, I will sacrifice to you; what I have vowed I will complete; salvation belongs to He-Who-Is (YHWH).',
     kjv: 'But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
   },
 };

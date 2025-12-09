@@ -1,0 +1,20 @@
+{
+  "key": "chomer",
+  "hebrew": "חֹמֶר",
+  "transliteration": "chomer",
+  "englishLiteral": "mortar",
+  "englishNatural": "mortar",
+  "type": "noun",
+  "description": "mortar, clay, cement; binding material used in construction",
+  "wordIndexes": {
+    "genesis": {
+      "11": {
+        "3": [
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

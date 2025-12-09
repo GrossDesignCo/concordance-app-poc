@@ -333,15 +333,15 @@
         "11": {
           "chapterNumber": 11,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
-            "5": false,
-            "6": false,
-            "7": false,
-            "8": false,
-            "9": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
             "10": false,
             "11": false,
             "12": false,
@@ -366,7 +366,7 @@
             "31": false,
             "32": false
           },
-          "progress": 0
+          "progress": 28.125
         },
         "12": {
           "chapterNumber": 12,
@@ -437,8 +437,8 @@
             "14": false,
             "15": false,
             "16": false,
-            "17": false,
-            "18": false,
+            "17": true,
+            "18": true,
             "19": false,
             "20": false,
             "21": false,
@@ -446,34 +446,34 @@
             "23": false,
             "24": false
           },
-          "progress": 0
+          "progress": 8.333333333333332
         },
         "15": {
           "chapterNumber": 15,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
-            "5": false,
-            "6": false,
-            "7": false,
-            "8": false,
-            "9": false,
-            "10": false,
-            "11": false,
-            "12": false,
-            "13": false,
-            "14": false,
-            "15": false,
-            "16": false,
-            "17": false,
-            "18": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "15": true,
+            "16": true,
+            "17": true,
+            "18": true,
             "19": false,
             "20": false,
             "21": false
           },
-          "progress": 0
+          "progress": 85.71428571428571
         },
         "16": {
           "chapterNumber": 16,
@@ -1837,7 +1837,7 @@
           "progress": 0
         }
       },
-      "progress": 12.785388127853881
+      "progress": 14.677103718199607
     },
     "EXODUS": {
       "bookName": "Exodus",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.0899270166864932
+  "totalProgress": 1.1831656110343054
 }

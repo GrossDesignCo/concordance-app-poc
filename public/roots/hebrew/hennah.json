@@ -1,0 +1,21 @@
+{
+  "key": "hennah",
+  "hebrew": "הֵנָּה",
+  "transliteration": "hennah",
+  "englishLiteral": "here",
+  "englishNatural": "here",
+  "type": "adverb",
+  "description": "here, hither, to this place",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "16": [
+          3,
+          10
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

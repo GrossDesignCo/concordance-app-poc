@@ -1,0 +1,23 @@
+{
+  "key": "havah",
+  "hebrew": "הָבָה",
+  "transliteration": "havah",
+  "englishLiteral": "come",
+  "englishNatural": "come",
+  "type": "particle",
+  "description": "come, come now; an interjection expressing encouragement or exhortation",
+  "wordIndexes": {
+    "genesis": {
+      "11": {
+        "3": [
+          4
+        ],
+        "4": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

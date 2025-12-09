@@ -1,0 +1,20 @@
+{
+  "key": "tsedaqah",
+  "hebrew": "צדקה",
+  "transliteration": "tsedaqah",
+  "englishLiteral": "righteousness",
+  "englishNatural": "righteousness",
+  "type": "noun",
+  "description": "righteousness, justice, rightness; moral and ethical uprightness",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "6": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,30 @@
+{
+  "key": "yarash",
+  "hebrew": "ירש",
+  "transliteration": "yarash",
+  "englishLiteral": "to inherit",
+  "englishNatural": "to inherit",
+  "type": "verb",
+  "description": "to inherit, possess, dispossess; to take possession of",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "3": [
+          10
+        ],
+        "4": [
+          6,
+          13
+        ],
+        "7": [
+          13
+        ],
+        "8": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

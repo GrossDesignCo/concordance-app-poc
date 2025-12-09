@@ -214,8 +214,8 @@ export const genesis_8_22: Verse = {
     {
       hebrew: 'יִשְׁבֹּתוּ',
       transliteration: 'yishbotu',
-      englishLiteral: 'they-will-cease',
-      englishNatural: 'they will cease',
+      englishLiteral: 'they-will-sabbath',
+      englishNatural: 'they will sabbath',
       root: 'shavat',
       suffixes: ['u'],
       order: {
@@ -244,10 +244,10 @@ export const genesis_8_22: Verse = {
     transliteration:
       'od kol-yemei haAretz zera veQatzir veQor vaChom veQayitz vaChoref veYom vaLaylah lo yishbotu',
     englishLiteral:
-      'Still all- days-of the-land, seed and-harvest, and-cold and-heat, and-summer and-winter, and-day and-night not they-will-cease."',
+      'Still all- days-of the-land, seed and-harvest, and-cold and-heat, and-summer and-winter, and-day and-night not they-will-sabbath."',
     englishNatural:
-      'Still all the days of the land, seed and harvest, and cold and heat, and summer and winter, and day and night they will cease not."',
+      'Still all the days of the land, seed and harvest, and cold and heat, and summer and winter, and day and night they will sabbath not."',
     kjv: 'While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
+  },
 };

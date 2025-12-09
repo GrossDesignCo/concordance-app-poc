@@ -1,0 +1,296 @@
+import { Verse } from '@/types';
+
+export const genesis_14_17: Verse = {
+  meta: {
+    book: 'Genesis',
+    chapter: 14,
+    verse: 17,
+  },
+  words: [
+    {
+      hebrew: 'וַיֵּצֵא',
+      transliteration: 'vayYetse',
+      englishLiteral: 'And-he-went-out',
+      englishNatural: 'went out',
+      root: 'yatsa',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+    },
+    {
+      hebrew: 'מֶלֶךְ־',
+      transliteration: 'melekh-',
+      englishLiteral: 'king-of-',
+      englishNatural: 'And the king of',
+      root: 'melekh',
+      order: {
+        hebrew: 2,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'סְדֹם',
+      transliteration: 'Sedom',
+      englishLiteral: 'Devastation (Sodom)',
+      englishNatural: 'Devastation (Sodom)',
+      root: 'sedom',
+      order: {
+        hebrew: 3,
+        english: 2,
+      },
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'לִקְרָאתוֹ',
+      transliteration: 'liqrato',
+      englishLiteral: 'to-meet-him',
+      englishNatural: 'to meet him',
+      root: 'qara',
+      prefixes: ['li'],
+      suffixes: ['o'],
+      order: 4,
+      morphology: {
+        tense: 'infinitive_construct',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אַחֲרֵי',
+      transliteration: 'acharey',
+      englishLiteral: 'after',
+      englishNatural: 'after',
+      root: 'achar',
+      order: 5,
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'שׁוּבוֹ',
+      transliteration: 'shuvo',
+      englishLiteral: 'returning-of-him',
+      englishNatural: 'his return',
+      root: 'shuv',
+      suffixes: ['o'],
+      order: 6,
+      morphology: {
+        tense: 'infinitive_construct',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'מֵהַכּוֹת',
+      transliteration: 'meHakot',
+      englishLiteral: 'from-the-striking_down',
+      englishNatural: 'from the striking-down of',
+      root: 'nakah',
+      prefixes: ['me', 'ha'],
+      order: 7,
+      morphology: {
+        tense: 'infinitive_construct',
+        stem: 'hiphil',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: 8,
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'כְּדָרְלָעֹמֶר',
+      transliteration: 'Kedarlaomer',
+      englishLiteral: 'Sheaf_Binder (Chedorlaomer)',
+      englishNatural: 'Sheaf-Binder (Chedorlaomer)',
+      root: 'kedarlaomer',
+      order: 9,
+      morphology: {
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'וְאֶת־',
+      transliteration: 'veEt-',
+      englishLiteral: 'and-↳',
+      englishNatural: 'and',
+      root: 'et',
+      prefixes: ['ve'],
+      order: 10,
+      morphology: {
+        type: 'particle',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'הַמְּלָכִים',
+      transliteration: 'haMelakhim',
+      englishLiteral: 'the-kings',
+      englishNatural: 'the kings',
+      root: 'melekh',
+      prefixes: ['ha'],
+      order: 11,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֲשֶׁר',
+      transliteration: 'asher',
+      englishLiteral: 'which',
+      englishNatural: 'which were',
+      root: 'asher',
+      order: 12,
+      morphology: {
+        type: 'relative',
+      },
+    },
+    {
+      hebrew: 'אִתּוֹ',
+      transliteration: 'ito',
+      englishLiteral: 'with-him',
+      englishNatural: 'with him',
+      root: 'et_with',
+      suffixes: ['o'],
+      order: 13,
+      morphology: {
+        type: 'preposition',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+      lineBreaksAfter: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'אֶל־',
+      transliteration: 'el-',
+      englishLiteral: 'to-',
+      englishNatural: 'to',
+      root: 'el',
+      order: 14,
+      morphology: {
+        type: 'preposition',
+      },
+    },
+    {
+      hebrew: 'עֵמֶק',
+      transliteration: 'emeq',
+      englishLiteral: 'valley-of',
+      englishNatural: 'the valley of',
+      root: 'emeq',
+      order: 15,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'שָׁוֵה',
+      transliteration: 'Shaveh',
+      englishLiteral: 'Level (Shaveh)',
+      englishNatural: 'Level (Shaveh)',
+      root: 'shaveh',
+      order: 16,
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'הוּא',
+      transliteration: 'hu',
+      englishLiteral: 'he',
+      englishNatural: 'it is',
+      root: 'hu',
+      order: 17,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        type: 'pronoun',
+      },
+    },
+    {
+      hebrew: 'עֵמֶק',
+      transliteration: 'emeq',
+      englishLiteral: 'valley-of',
+      englishNatural: 'the Valley of',
+      root: 'emeq',
+      order: 18,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'הַמֶּלֶךְ',
+      transliteration: 'haMelekh',
+      englishLiteral: 'the-king',
+      englishNatural: 'the King',
+      root: 'melekh',
+      prefixes: ['ha'],
+      order: 19,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַיֵּצֵא מֶלֶךְ־סְדֹם לִקְרָאתוֹ אַחֲרֵי שׁוּבוֹ מֵהַכּוֹת אֶת־כְּדָרְלָעֹמֶר וְאֶת־הַמְּלָכִים אֲשֶׁר אִתּוֹ אֶל־עֵמֶק שָׁוֵה הוּא עֵמֶק הַמֶּלֶךְ',
+    transliteration:
+      'vayYetse melekh-Sedom liqrato acharey shuvo meHakot et-Kedarlaomer veEt-haMelakhim asher ito el-emeq Shaveh hu emeq haMelekh',
+    englishLiteral:
+      'And-he-went-out king-of- Devastation (Sodom) to-meet-him after returning-of-him from-the-striking_down ↳ Sheaf_Binder (Chedorlaomer) and-↳ the-kings which with-him, to- valley-of Level (Shaveh), he valley-of the-king.',
+    englishNatural:
+      'And the king of Devastation (Sodom) went out to meet him after his return from the striking-down of Sheaf-Binder (Chedorlaomer) and the kings which were with him, to the valley of Level (Shaveh), it is the Valley of the King.',
+    kjv: "And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king's dale.",
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
+},
+};

@@ -1,0 +1,26 @@
+{
+  "key": "migdal",
+  "hebrew": "מִגְדָּל",
+  "transliteration": "migdal",
+  "englishLiteral": "tower",
+  "englishNatural": "tower",
+  "type": "noun",
+  "description": "tower, fortress tower; a tall defensive or monumental structure",
+  "related": [
+    "gadal"
+  ],
+  "wordIndexes": {
+    "genesis": {
+      "11": {
+        "4": [
+          5
+        ],
+        "5": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

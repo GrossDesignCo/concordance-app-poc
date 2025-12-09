@@ -1,0 +1,21 @@
+{
+  "key": "emeq",
+  "hebrew": "עמק",
+  "transliteration": "emeq",
+  "englishLiteral": "valley",
+  "englishNatural": "valley",
+  "type": "noun",
+  "description": "valley, plain, lowland; deep valley or vale",
+  "wordIndexes": {
+    "genesis": {
+      "14": {
+        "17": [
+          14,
+          17
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

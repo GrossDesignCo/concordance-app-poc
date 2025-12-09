@@ -1,0 +1,20 @@
+{
+  "key": "beter",
+  "hebrew": "בתר",
+  "transliteration": "beter",
+  "englishLiteral": "piece",
+  "englishNatural": "piece",
+  "type": "noun",
+  "description": "piece, half, portion; a divided part",
+  "wordIndexes": {
+    "genesis": {
+      "15": {
+        "10": [
+          10
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}
