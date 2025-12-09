@@ -580,7 +580,7 @@ const ROOTS = {
     englishNatural: 'Exalted-Father (Abraham)',
     type: 'noun',
     description: 'Abraham; Greek form of Hebrew name Abram/Abraham',
-    translatedFrom: ['abram', 'abraham'],
+    translatedFrom: ['abram', 'avraham'],
   },
 } as const;
 
