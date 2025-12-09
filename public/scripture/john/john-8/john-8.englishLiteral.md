@@ -1,0 +1,1 @@
+said to-them Salvation (Jesus), "Amen amen I-say to-you, before Exalted_Father (Abraham) to-become, I am." 

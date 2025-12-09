@@ -556,6 +556,32 @@ const ROOTS = {
     englishLiteral: 'but',
     englishNatural: 'but',
   },
+  // John 8:58 additions
+  sy: {
+    greek: 'σύ',
+    transliteration: 'sy',
+    englishLiteral: 'you',
+    englishNatural: 'you',
+    type: 'pronoun',
+    description: 'you (singular); second person singular pronoun',
+  },
+  prin: {
+    greek: 'πρὶν',
+    transliteration: 'prin',
+    englishLiteral: 'before',
+    englishNatural: 'before',
+    type: 'conjunction',
+    description: 'before, sooner than; temporal conjunction',
+  },
+  abraam: {
+    greek: 'Ἀβραάμ',
+    transliteration: 'Abraam',
+    englishLiteral: 'Exalted_Father (Abraham)',
+    englishNatural: 'Exalted-Father (Abraham)',
+    type: 'noun',
+    description: 'Abraham; Greek form of Hebrew name Abram/Abraham',
+    translatedFrom: ['abram', 'abraham'],
+  },
 } as const;
 
 export type GreekRootKey = keyof typeof ROOTS;

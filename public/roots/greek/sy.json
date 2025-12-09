@@ -1,0 +1,20 @@
+{
+  "key": "sy",
+  "greek": "σύ",
+  "transliteration": "sy",
+  "englishLiteral": "you",
+  "englishNatural": "you",
+  "type": "pronoun",
+  "description": "you (singular); second person singular pronoun",
+  "wordIndexes": {
+    "john": {
+      "8": {
+        "58": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

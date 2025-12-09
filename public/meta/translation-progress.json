@@ -32722,10 +32722,10 @@
             "55": false,
             "56": false,
             "57": false,
-            "58": false,
+            "58": true,
             "59": false
           },
-          "progress": 0
+          "progress": 1.694915254237288
         },
         "9": {
           "chapterNumber": 9,
@@ -33289,7 +33289,7 @@
           "progress": 16
         }
       },
-      "progress": 0.5688282138794084
+      "progress": 0.6825938566552902
     },
     "ACTS": {
       "bookName": "Acts",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.1831656110343054
+  "totalProgress": 1.1863807349773334
 }

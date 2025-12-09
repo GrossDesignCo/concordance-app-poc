@@ -1,0 +1,1 @@
+eipen autois Iēsous, amēn amēn legō hymin, prin Abraam genesthai, egō eimi. 

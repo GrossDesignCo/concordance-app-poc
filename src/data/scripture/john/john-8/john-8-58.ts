@@ -1,0 +1,231 @@
+import { Verse } from '@/types';
+
+export const john_8_58: Verse = {
+  meta: {
+    book: 'John',
+    chapter: 8,
+    verse: 58,
+  },
+  words: [
+    {
+      greek: 'εἶπεν',
+      transliteration: 'eipen',
+      englishLiteral: 'said',
+      englishNatural: 'said',
+      root: 'lego',
+      order: {
+        greek: 1,
+        english: 2,
+      },
+      morphology: {
+        number: 'singular',
+        person: '3rd',
+        tense: 'aorist',
+        voice: 'active',
+        mood: 'indicative',
+        type: 'verb',
+      },
+    },
+    {
+      greek: 'αὐτοῖς',
+      transliteration: 'autois',
+      englishLiteral: 'to-them',
+      englishNatural: 'to them',
+      root: 'autos',
+      order: {
+        greek: 2,
+        english: 3,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        case: 'dative',
+        person: '3rd',
+        type: 'pronoun',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      greek: 'Ἰησοῦς',
+      transliteration: 'Iēsous',
+      englishLiteral: 'Salvation (Jesus)',
+      englishNatural: 'Salvation (Jesus)',
+      root: 'iesous',
+      order: {
+        greek: 3,
+        english: 1,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        case: 'nominative',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        greek: '·',
+        transliteration: ',',
+      },
+    },
+    {
+      greek: 'ἀμὴν',
+      transliteration: 'amēn',
+      englishLiteral: 'Amen',
+      englishNatural: 'Amen',
+      root: 'amen',
+      order: 4,
+      morphology: {
+        type: 'particle',
+      },
+      grammarPrefix: {
+        englishLiteral: '"',
+        englishNatural: '"',
+      },
+    },
+    {
+      greek: 'ἀμὴν',
+      transliteration: 'amēn',
+      englishLiteral: 'amen',
+      englishNatural: 'amen',
+      root: 'amen',
+      order: 5,
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      greek: 'λέγω',
+      transliteration: 'legō',
+      englishLiteral: 'I-say',
+      englishNatural: 'I say',
+      root: 'lego',
+      order: 6,
+      morphology: {
+        number: 'singular',
+        person: '1st',
+        tense: 'present',
+        voice: 'active',
+        mood: 'indicative',
+        type: 'verb',
+      },
+    },
+    {
+      greek: 'ὑμῖν',
+      transliteration: 'hymin',
+      englishLiteral: 'to-you',
+      englishNatural: 'to you',
+      root: 'sy',
+      order: 7,
+      morphology: {
+        number: 'plural',
+        case: 'dative',
+        person: '2nd',
+        type: 'pronoun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+        greek: ',',
+        transliteration: ',',
+      },
+    },
+    {
+      greek: 'πρὶν',
+      transliteration: 'prin',
+      englishLiteral: 'before',
+      englishNatural: 'Before',
+      root: 'prin',
+      order: 8,
+      morphology: {
+        type: 'conjunction',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      greek: 'Ἀβραὰμ',
+      transliteration: 'Abraam',
+      englishLiteral: 'Exalted_Father (Abraham)',
+      englishNatural: 'Exalted-Father (Abraham)',
+      root: 'abraam',
+      order: 9,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        case: 'accusative',
+        type: 'noun',
+      },
+    },
+    {
+      greek: 'γενέσθαι',
+      transliteration: 'genesthai',
+      englishLiteral: 'to-become',
+      englishNatural: 'was',
+      root: 'ginomai',
+      order: 10,
+      morphology: {
+        tense: 'aorist',
+        voice: 'middle',
+        mood: 'infinitive',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+        greek: ',',
+        transliteration: ',',
+      },
+    },
+    {
+      greek: 'ἐγὼ',
+      transliteration: 'egō',
+      englishLiteral: 'I',
+      englishNatural: 'I',
+      root: 'ego',
+      order: 11,
+      morphology: {
+        number: 'singular',
+        case: 'nominative',
+        person: '1st',
+        type: 'pronoun',
+      },
+    },
+    {
+      greek: 'εἰμί',
+      transliteration: 'eimi',
+      englishLiteral: 'am',
+      englishNatural: 'Am',
+      root: 'eimi',
+      order: 12,
+      morphology: {
+        number: 'singular',
+        person: '1st',
+        tense: 'present',
+        voice: 'active',
+        mood: 'indicative',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: '."',
+        englishNatural: '."',
+        greek: '.',
+        transliteration: '.',
+      },
+    },
+  ],
+  expectedTranslations: {
+    greek:
+      'εἶπεν αὐτοῖς Ἰησοῦς· ἀμὴν ἀμὴν λέγω ὑμῖν, πρὶν Ἀβραὰμ γενέσθαι, ἐγὼ εἰμί.',
+    transliteration:
+      'eipen autois Iēsous, amēn amēn legō hymin, prin Abraam genesthai, egō eimi.',
+    englishLiteral:
+      'said to-them Salvation (Jesus), "Amen amen I-say to-you, before Exalted_Father (Abraham) to-become, I am."',
+    englishNatural:
+      'Salvation (Jesus) said to them, "Amen amen I say to you, Before Exalted-Father (Abraham) was, I Am."',
+    kjv: 'Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
+},
+};
