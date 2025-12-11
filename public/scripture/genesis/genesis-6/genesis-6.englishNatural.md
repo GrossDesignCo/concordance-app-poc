@@ -6,7 +6,7 @@ And the sons of God saw the daughters of Earth (Adam),
 that they were good;
 and they took to themselves women, from all which they chose.
 
-And He-Who-Is (YHWH) said, "My Wind will judge not in the Earth (Adam) to the-age,
+And He-Who-Is (YHWH) said, "My Wind will judge not in Earth (Adam) to the-age,
 in moreover he is flesh;
 and his days will be a hundred and twenty years."
 

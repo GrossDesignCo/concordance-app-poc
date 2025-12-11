@@ -78,7 +78,7 @@ export const genesis_3_5: Verse = {
       hebrew: 'בְיוֹם',
       transliteration: 'beYom',
       englishLiteral: 'in-day',
-      englishNatural: 'in the day',
+      englishNatural: 'in the day of',
       root: 'yom',
       prefixes: ['be'],
       order: 5,
@@ -92,7 +92,7 @@ export const genesis_3_5: Verse = {
       hebrew: 'אֲכָלְכֶם',
       transliteration: 'akhalchem',
       englishLiteral: 'eating-you',
-      englishNatural: 'of you eating',
+      englishNatural: 'you eating',
       root: 'akhal',
       suffixes: ['chem'],
       order: 6,
@@ -264,6 +264,6 @@ export const genesis_3_5: Verse = {
     englishNatural:
       'That God is knowing, that in the day of you eating from it, and your eyes will be opened; and you-all will be as God, knowing good and bad."',
     kjv: 'For God doth know that when ye eat thereof your eyes shall be opened, and ye shall be as gods, knowing good and evil.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

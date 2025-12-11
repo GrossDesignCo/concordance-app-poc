@@ -1,4 +1,4 @@
-In heading, God created the skies and the land.
+In the heading, God created the skies and the land.
 
 And the land was waste and void; 
 And darkness, over the face of the abyss.
@@ -91,7 +91,7 @@ And God said, "Let us make Earth (Adam), in our image, as our likeness,
 And let them subjugate, among fish of the sea, and among flyer of the skies, and among the beast, and among all the land, and among all the crawler, the crawling, over the land."
 
 And God created the Earth (Adam), in his image,
-in image of God, created him, 
+in the image of God, created him, 
 male and female, created them.
 
 And God blessed them, 

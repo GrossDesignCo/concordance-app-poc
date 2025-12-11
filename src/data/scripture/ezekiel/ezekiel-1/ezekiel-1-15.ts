@@ -91,7 +91,7 @@ export const ezekiel_1_15: Verse = {
     {
       hebrew: 'בָּאָרֶץ',
       transliteration: 'baAretz',
-      englishLiteral: 'in-the-land',
+      englishLiteral: 'in-land',
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['be', 'ha'],
@@ -177,10 +177,10 @@ export const ezekiel_1_15: Verse = {
     transliteration:
       'vaEre haChayot veHineh ophan echad baAretz etzal haChayot leArbaat panav',
     englishLiteral:
-      'And-I-saw the-living-beings, and-behold wheel one in-the-land, beside the-living-beings, to-four-of faces-his.',
+      'And-I-saw the-living-beings, and-behold wheel one in-land, beside the-living-beings, to-four-of faces-his.',
     englishNatural:
       'And I saw the living-beings, and behold one wheel in the land, beside the living-beings, to four of his faces.',
     kjv: 'Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

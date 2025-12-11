@@ -11,7 +11,7 @@ according-to-word-of He_Who_Is (YHWH).
 And-Dwelling_of_Fish (Nineveh) was city- great to-Gods, 
 journey-of three days.
 
-And-began Dove (Jonah) to-enter in-the-city journey-of day one, 
+And-began Dove (Jonah) to-enter in-city journey-of day one, 
 and-called_out and-said, 
 "yet forty day, 
 and-Dwelling_of_Fish (Nineveh) overturned."

@@ -109,7 +109,7 @@ export const genesis_15_10: Verse = {
     {
       hebrew: 'בַּתָּוֶךְ',
       transliteration: 'batavekh',
-      englishLiteral: 'in-the-midst',
+      englishLiteral: 'in-midst',
       englishNatural: 'in the midst',
       root: 'tavekh',
       prefixes: ['ba'],
@@ -281,10 +281,10 @@ export const genesis_15_10: Verse = {
     transliteration:
       'vayiqach-lo et-kol-eleh vayevater otam batavekh vayiten ish-bitro liqrat reehu veEt-haTzippor lo batar',
     englishLiteral:
-      'And-he-took- to-him ↳ all-of- these, and-he-divided ↳ them in-the-midst, and-he-gave man- piece-of-him to-meet companion-of-him, and-↳ the-bird not he-divided.',
+      'And-he-took- to-him ↳ all-of- these, and-he-divided ↳ them in-midst, and-he-gave man- piece-of-him to-meet companion-of-him, and-↳ the-bird not he-divided.',
     englishNatural:
       'And he took to him all these, and divided them in the midst, and gave man piece of him to meet his companion; and the birds he divided not.',
     kjv: 'And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+  },
 };

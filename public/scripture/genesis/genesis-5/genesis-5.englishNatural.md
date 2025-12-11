@@ -2,7 +2,7 @@
 This book, Birthings of Earth (Adam).
 
 In the day God created Earth (Adam),
-in likeness of God he made him.
+in the likeness of God he made him.
 Male and female he created; 
 and blessed them, 
 and called-out their name, "Earth (Adam)," 

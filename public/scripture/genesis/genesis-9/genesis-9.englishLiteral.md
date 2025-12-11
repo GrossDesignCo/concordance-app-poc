@@ -21,11 +21,11 @@ from-hand-of man his-brother
 I-will-require ↳ soul-of the-Earth (Adam).
 
 One-pouring blood-of the-Earth (Adam),
-in-the-Earth (Adam) his-blood it-will-be-poured;
+in-Earth (Adam) his-blood it-will-be-poured;
 for in-image-of Gods, he-made ↳ the-Earth (Adam).
 
 And-you, be_fruitful and-multiply,
-swarm in-the-earth, and-multiply- in-it."
+swarm in-land, and-multiply- in-it."
 
 And-said Gods to- Rest (Noah), 
 and-to- his-sons with-him, to-say,
@@ -33,7 +33,7 @@ and-to- his-sons with-him, to-say,
 "And-I, behold-me, causing-to-stand, ↳ my-covenant with-you, 
 and-↳ your-seed after-you;
 and-↳ all- wind-of the-living_being which with-you;
-in-the-flyer, in-the-beast, and-in-all- living_being-of the-land with-you,
+in-flyer, in-beast, and-in-all- living_being-of the-land with-you,
 from-all going-out-of the-ark, to-all living_being-of the-land;
 and-I-will-cause-to-stand 
 ↳, my-covenant with-you,
@@ -45,7 +45,7 @@ between-me and-between-you,
 and-between all- wind-of living_being which with-you,
 to-generations-of the_age;
 
-↳ my-bow I-have-given in-the-cloud,
+↳ my-bow I-have-given in-cloud,
 and-she-will-be for-sign-of covenant,
 between-me and-between the-land.
 

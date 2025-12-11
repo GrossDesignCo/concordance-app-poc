@@ -14,7 +14,10 @@ export const genesis_15_15: Verse = {
       englishNatural: 'And you',
       root: 'atah',
       prefixes: ['ve'],
-      order: { hebrew: 1, english: 1 },
+      order: {
+        hebrew: 1,
+        english: 1,
+      },
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -29,7 +32,10 @@ export const genesis_15_15: Verse = {
       englishLiteral: 'you-will-come',
       englishNatural: 'will go',
       root: 'bo',
-      order: { hebrew: 2, english: 2 },
+      order: {
+        hebrew: 2,
+        english: 2,
+      },
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -77,8 +83,13 @@ export const genesis_15_15: Verse = {
         number: 'singular',
         type: 'noun',
       },
-      grammarSuffix: { englishLiteral: ',', englishNatural: ';' },
-      lineBreaksAfter: { english: 1 },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ';',
+      },
+      lineBreaksAfter: {
+        english: 1,
+      },
     },
     {
       hebrew: 'תִּקָּבֵר',
@@ -86,7 +97,10 @@ export const genesis_15_15: Verse = {
       englishLiteral: 'you-will-be-buried',
       englishNatural: 'you will be buried',
       root: 'qavar',
-      order: { hebrew: 6, english: 6 },
+      order: {
+        hebrew: 6,
+        english: 6,
+      },
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -112,8 +126,12 @@ export const genesis_15_15: Verse = {
         number: 'singular',
         type: 'noun',
       },
-      grammarSuffix: { englishNatural: '.' },
-      lineBreaksAfter: { english: 1 },
+      grammarSuffix: {
+        englishNatural: '.',
+      },
+      lineBreaksAfter: {
+        english: 1,
+      },
     },
     {
       hebrew: 'טוֹבָה',
@@ -130,8 +148,12 @@ export const genesis_15_15: Verse = {
         number: 'singular',
         type: 'adjective',
       },
-      grammarSuffix: { englishLiteral: '.' },
-      lineBreaksAfter: { hebrew: 1 },
+      grammarSuffix: {
+        englishLiteral: '.',
+      },
+      lineBreaksAfter: {
+        hebrew: 1,
+      },
     },
   ],
   expectedTranslations: {
@@ -143,6 +165,6 @@ export const genesis_15_15: Verse = {
     englishNatural:
       'And you will go to your fathers in peace; you will be buried in good old age.',
     kjv: 'And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+  },
 };

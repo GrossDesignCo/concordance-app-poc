@@ -103,7 +103,7 @@ export const genesis_1_27: Verse = {
       hebrew: 'בְּצֶ֥לֶם',
       transliteration: 'beTselem',
       englishLiteral: 'in-image-of',
-      englishNatural: 'in image of',
+      englishNatural: 'in the image of',
       root: 'tselem',
       prefixes: ['be'],
       order: 6,
@@ -238,8 +238,8 @@ export const genesis_1_27: Verse = {
     englishLiteral:
       'And-created Gods, ↳ the-Earth (Adam), in-his-image, in-image-of Gods, created him, male and-female, created them.',
     englishNatural:
-      'And God created the Earth (Adam), in his image, in image of God, created him, male and female, created them.',
+      'And God created the Earth (Adam), in his image, in the image of God, created him, male and female, created them.',
     kjv: 'So God created man in his own image, in the image of God created he him; male and female created he them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

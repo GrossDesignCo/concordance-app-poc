@@ -21,11 +21,11 @@ from the hand of a man his brother
 I will require the soul of the Earth (Adam).
 
 One-pouring the blood of the Earth (Adam),
-in the Earth (Adam) his blood will be poured;
+in Earth (Adam) his blood will be poured;
 for in the image of God, he made the Earth (Adam).
 
 And you, be-fruitful and multiply,
-swarm in the earth, and multiply in it."
+swarm in the land, and multiply in it."
 
 And God said to Rest (Noah), 
 and to his sons with him, saying,

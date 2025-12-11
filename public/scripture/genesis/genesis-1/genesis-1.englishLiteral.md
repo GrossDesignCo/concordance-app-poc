@@ -60,7 +60,7 @@ And-↳ the-stars.
 
 And-put them Gods in-hammering_out, the-skies, to-shine_light over the-land.
 
-And-to-rule in-the-day, and-in-the-night, 
+And-to-rule in-day, and-in-night, 
 and-to-separate between the-light, and-between the-darkness, 
 And-saw Gods, that- good.
 
@@ -76,8 +76,8 @@ And-↳ all throat the-living the-crawling which swarmed the-waters, to-their-ki
 And-↳ all flyer wing to-its-kind, 
 And-saw Gods, that- good.
 
-And-blessed them Gods, saying, "Be_fruitful and-multiply and-fill ↳ the-waters in-the-seas, 
-And-the-flyer let-multiply in-the-land."
+And-blessed them Gods, saying, "Be_fruitful and-multiply and-fill ↳ the-waters in-seas, 
+And-the-flyer let-multiply in-land."
 
 And-was evening, 
 And-was morning, 
@@ -91,7 +91,7 @@ And-↳ all crawler the-earth, to-its-kind,
 And-saw Gods, that- good.
 
 And-said Gods, "Let_us-make Earth (Adam), in-our-image, as-our-likeness, 
-And-let-them-subjugate, in-fish-of the-sea, and-in-flyer-of the-skies, and-in-the-beast, and-in-all the-land, and-in-all the-crawler, the-crawling, over the-land."
+And-let-them-subjugate, in-fish-of the-sea, and-in-flyer-of the-skies, and-in-beast, and-in-all the-land, and-in-all the-crawler, the-crawling, over the-land."
 
 And-created Gods, ↳ the-Earth (Adam), in-his-image,
 in-image-of Gods, created him, 

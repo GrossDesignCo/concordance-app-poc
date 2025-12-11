@@ -52,7 +52,7 @@ export const genesis_9_13: Verse = {
     {
       hebrew: 'בֶּעָנָן',
       transliteration: 'beAnan',
-      englishLiteral: 'in-the-cloud',
+      englishLiteral: 'in-cloud',
       englishNatural: 'in the cloud',
       root: 'anan',
       prefixes: ['ba'],
@@ -168,10 +168,10 @@ export const genesis_9_13: Verse = {
     transliteration:
       'et-qashti natati beAnan veHayetah leOt berit beyni uveyn haAretz',
     englishLiteral:
-      '↳ my-bow I-have-given in-the-cloud, and-she-will-be for-sign-of covenant, between-me and-between the-land.',
+      '↳ my-bow I-have-given in-cloud, and-she-will-be for-sign-of covenant, between-me and-between the-land.',
     englishNatural:
       'My bow I have given in the cloud, and it will be for the sign of covenant, between me and between the land.',
     kjv: 'I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+  },
 };

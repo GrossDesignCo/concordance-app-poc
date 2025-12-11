@@ -178,7 +178,7 @@ export const jonah_1_5: Verse = {
     {
       hebrew: 'בָּאֳנִיָּה',
       transliteration: 'baOniyah',
-      englishLiteral: 'in-the-ship',
+      englishLiteral: 'in-ship',
       englishNatural: 'in the ship',
       root: 'aniyah',
       prefixes: ['ba', 'ha'],
@@ -372,10 +372,10 @@ export const jonah_1_5: Verse = {
     transliteration:
       'vaYirau haMallachim vaYizaqu ish el-elohav vaYatilu et-haKelim asher baOniyah el-haYam leHaqel meAleihem veYonah yarad el-yarketei haSeninah vaYishkav vaYeradam',
     englishLiteral:
-      'And-feared the-sailors, and-cried_out, man to- gods-his, and-hurled ↳ the-vessels which in-the-ship to- the-sea, to-lighten from-over-them. And-Dove (Jonah) went_down to- far_reaches-of the-ship; and-lay_down and-deeply_tranced.',
+      'And-feared the-sailors, and-cried_out, man to- gods-his, and-hurled ↳ the-vessels which in-ship to- the-sea, to-lighten from-over-them. And-Dove (Jonah) went_down to- far_reaches-of the-ship; and-lay_down and-deeply_tranced.',
     englishNatural:
       'And the sailors feared, and cried-out, man to his god, and hurled the vessels which were in the ship to the sea, to lighten it from over them. And Dove (Jonah) had gone down into the far-reaches of the ship; and he lay down and deeply-tranced.',
     kjv: 'Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

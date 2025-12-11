@@ -66,8 +66,8 @@ export const jonah_3_4: Verse = {
     {
       hebrew: 'בָעִיר',
       transliteration: 'baIr',
-      englishLiteral: 'in-the-city',
-      englishNatural: 'into the city',
+      englishLiteral: 'in-city',
+      englishNatural: 'in the city',
       root: 'ir',
       prefixes: ['ba'],
       order: 4,
@@ -255,10 +255,10 @@ export const jonah_3_4: Verse = {
     transliteration:
       'vaYachel Yonah lavo baIr mahalakh yom echad vaYiqra vaYomar od arbaim yom veNineveh nehpaket',
     englishLiteral:
-      'And-began Dove (Jonah) to-enter in-the-city journey-of day one, and-called_out and-said, "yet forty day, and-Dwelling_of_Fish (Nineveh) overturned."',
+      'And-began Dove (Jonah) to-enter in-city journey-of day one, and-called_out and-said, "yet forty day, and-Dwelling_of_Fish (Nineveh) overturned."',
     englishNatural:
-      'And Dove (Jonah) began to enter into the city a journey of one day, and he called-out and said, "Yet forty days, and Dwelling-of-Fish (Nineveh) overturned."',
+      'And Dove (Jonah) began to enter in the city a journey of one day, and he called-out and said, "Yet forty days, and Dwelling-of-Fish (Nineveh) overturned."',
     kjv: "And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

@@ -258,7 +258,7 @@ export const ezekiel_1_20: Verse = {
     {
       hebrew: 'בָּאוֹפַנִּים',
       transliteration: 'baOphanim',
-      englishLiteral: 'in-the-wheels',
+      englishLiteral: 'in-wheels',
       englishNatural: 'in the wheels',
       root: 'ophan',
       prefixes: ['be', 'ha'],
@@ -281,10 +281,10 @@ export const ezekiel_1_20: Verse = {
     transliteration:
       'al asher yihyeh-sham haRuach laLekhet yelekhu shamah haRuach laLekhet veHaOphanim yinasu leUmatam ki ruach haChayah baOphanim',
     englishLiteral:
-      'over which it-was- there, the-wind to-go they-went there, the-wind to-go, and-the-wheels they-were-lifted to-alongside-them, that wind-of the-living-being, in-the-wheels.',
+      'over which it-was- there, the-wind to-go they-went there, the-wind to-go, and-the-wheels they-were-lifted to-alongside-them, that wind-of the-living-being, in-wheels.',
     englishNatural:
       'Over which the wind to go was there, they went there, the wind to go, and the wheels were lifted alongside them, that the wind of the living-being, in the wheels.',
     kjv: 'Whithersoever the spirit was to go, they went, thither was their spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

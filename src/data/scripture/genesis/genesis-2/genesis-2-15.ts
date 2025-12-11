@@ -112,7 +112,7 @@ export const genesis_2_15: Verse = {
       hebrew: 'בְגַן־',
       transliteration: 'beGan-',
       englishLiteral: 'in-Garden-',
-      englishNatural: 'in Garden of',
+      englishNatural: 'in Garden',
       root: 'gan',
       prefixes: ['be'],
       order: 7,
@@ -181,8 +181,8 @@ export const genesis_2_15: Verse = {
     englishLiteral:
       'And-took He_Who_Is (YHWH) Gods ↳ the-Earth (Adam), and-rested-him in-Garden- Delight (Eden), to-serve-her and-to-keep-her.',
     englishNatural:
-      'And He-Who-Is (YHWH) God took the Earth (Adam), and rested him in Garden of Delight (Eden), to serve her and to keep her.',
+      'And He-Who-Is (YHWH) God took the Earth (Adam), and rested him in Garden Delight (Eden), to serve her and to keep her.',
     kjv: 'And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

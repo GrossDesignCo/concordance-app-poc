@@ -127,7 +127,7 @@ export const genesis_10_8: Verse = {
     {
       hebrew: 'בָּאָרֶץ',
       transliteration: 'baAretz',
-      englishLiteral: 'in-the-land',
+      englishLiteral: 'in-land',
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['ba'],
@@ -146,14 +146,12 @@ export const genesis_10_8: Verse = {
   ],
   expectedTranslations: {
     hebrew: 'וְכוּשׁ יָלַד אֶת־נִמְרֹד הוּא הֵחֵל לִהְיוֹת גִּבֹּר בָּאָרֶץ',
-    transliteration:
-      'veKhush yalad et-Nimrod hu hechel lihyot gibbor baAretz',
+    transliteration: 'veKhush yalad et-Nimrod hu hechel lihyot gibbor baAretz',
     englishLiteral:
-      'And-Black (Kush) he-birthed ↳ Rebel (Nimrod); he caused-to-begin to-be mighty_one in-the-land.',
+      'And-Black (Kush) he-birthed ↳ Rebel (Nimrod); he caused-to-begin to-be mighty_one in-land.',
     englishNatural:
       'And Black (Kush) birthed Rebel (Nimrod); he caused to begin to be a mighty-one in the land.',
     kjv: 'And Cush begat Nimrod: he began to be a mighty one in the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+  },
 };
-

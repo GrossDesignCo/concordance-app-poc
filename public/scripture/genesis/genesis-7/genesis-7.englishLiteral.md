@@ -21,8 +21,8 @@ And-it-was to-seven-of the-days,
 and-waters-of the-flood they-were over- the-land.
 
 In-year-of six- hundreds year to-lives-of- Rest (Noah),
-in-the-month the-second,
-in-seven- ten day to-the-month, in-the-day the-this
+in-month the-second,
+in-seven- ten day to-the-month, in-day the-this
 they-were-broken_open all- fountains-of abyss great,
 and-windows-of the-skies they-were-opened.
 

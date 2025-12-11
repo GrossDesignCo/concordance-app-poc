@@ -87,8 +87,8 @@ export const genesis_9_7: Verse = {
     {
       hebrew: 'בָאָרֶץ',
       transliteration: 'baAretz',
-      englishLiteral: 'in-the-earth',
-      englishNatural: 'in the earth',
+      englishLiteral: 'in-land',
+      englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['ba'],
       order: 5,
@@ -145,10 +145,10 @@ export const genesis_9_7: Verse = {
     hebrew: 'וְאַתֶּם פְּרוּ וּרְבוּ שִׁרְצוּ בָאָרֶץ וּרְבוּ־בָהּ',
     transliteration: 'veAtem peru urevu shirtzu baAretz urevu-vah',
     englishLiteral:
-      'And-you, be_fruitful and-multiply, swarm in-the-earth, and-multiply- in-it."',
+      'And-you, be_fruitful and-multiply, swarm in-land, and-multiply- in-it."',
     englishNatural:
-      'And you, be-fruitful and multiply, swarm in the earth, and multiply in it."',
+      'And you, be-fruitful and multiply, swarm in the land, and multiply in it."',
     kjv: 'And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

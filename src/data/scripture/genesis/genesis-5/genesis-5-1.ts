@@ -146,7 +146,7 @@ export const genesis_5_1: Verse = {
       hebrew: 'בִּדְמוּת',
       transliteration: 'biDemut',
       englishLiteral: 'in-likeness-of',
-      englishNatural: 'in likeness of',
+      englishNatural: 'in the likeness of',
       root: 'demut',
       prefixes: ['bi'],
       order: 9,
@@ -216,8 +216,8 @@ export const genesis_5_1: Verse = {
     englishLiteral:
       'This book, birthings Earth (Adam). In-day create Gods Earth (Adam), in-likeness-of Gods he-made him.',
     englishNatural:
-      'This book, Birthings of Earth (Adam). In the day God created Earth (Adam), in likeness of God he made him.',
+      'This book, Birthings of Earth (Adam). In the day God created Earth (Adam), in the likeness of God he made him.',
     kjv: 'This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

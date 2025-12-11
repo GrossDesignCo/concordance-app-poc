@@ -94,7 +94,7 @@ export const genesis_7_11: Verse = {
     {
       hebrew: 'בַּחֹדֶשׁ',
       transliteration: 'baChodeshhash',
-      englishLiteral: 'in-the-month',
+      englishLiteral: 'in-month',
       englishNatural: 'in the month',
       root: 'chodesh',
       prefixes: ['be', 'ha'],
@@ -183,7 +183,7 @@ export const genesis_7_11: Verse = {
     {
       hebrew: 'בַּיּוֹם',
       transliteration: 'baYom',
-      englishLiteral: 'in-the-day',
+      englishLiteral: 'in-day',
       englishNatural: 'day',
       root: 'yom',
       prefixes: ['be', 'ha'],
@@ -360,10 +360,10 @@ export const genesis_7_11: Verse = {
     transliteration:
       'biShnat shesh-meot shanah leChayey-Noach baChodeshhash haSheni beShivah-asar yom laChodesh baYom haZeh nivqeu kol-mayanot tehom rabbah vaArubot haShamayim niftachu',
     englishLiteral:
-      'In-year-of six- hundreds year to-lives-of- Rest (Noah), in-the-month the-second, in-seven- ten day to-the-month, in-the-day the-this they-were-broken_open all- fountains-of abyss great, and-windows-of the-skies they-were-opened.',
+      'In-year-of six- hundreds year to-lives-of- Rest (Noah), in-month the-second, in-seven- ten day to-the-month, in-day the-this they-were-broken_open all- fountains-of abyss great, and-windows-of the-skies they-were-opened.',
     englishNatural:
       'In the year of six hundred years to the life of Rest (Noah), in the month the second, in seven ten days to the month, in this day were broken-open all the fountains of the great abyss, and the windows of the skies were opened.',
     kjv: "In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

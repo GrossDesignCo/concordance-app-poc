@@ -15,8 +15,8 @@ that good death-my, from-lives-my."
 And-said He_Who_Is (YHWH), "the-doing_well, fuming_angrily, to-you?"
 
 And-went_out Dove (Jonah) from- the-city and-sat from-east to-the-city 
-and-made to-him there booth and-sat under-her in-the-shadow, 
-until which he-will-see what- will-be in-the-city.
+and-made to-him there booth and-sat under-her in-shadow, 
+until which he-will-see what- will-be in-city.
 
 And-appointed He_Who_Is (YHWH)- Gods luscious_plant, 
 and-went_up from-over to-Dove (Jonah), 

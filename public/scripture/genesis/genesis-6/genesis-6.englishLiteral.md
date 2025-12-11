@@ -6,20 +6,20 @@ And-they-saw sons- the-Gods ↳ daughters-of the-Earth (Adam),
 that good they;
 and-they-took to-them women, from-all which they-chose.
 
-And-he-said He_Who_Is (YHWH), "not- will-judge my-wind in-the-Earth (Adam) to-the_age,
+And-he-said He_Who_Is (YHWH), "not- will-judge my-wind in-Earth (Adam) to-the_age,
 in-moreover he flesh;
 and-they-will-be his-days hundred and-twenty year."
 
-The-Fallen (Nephilim) were in-the-land in-the-days the-those;
+The-Fallen (Nephilim) were in-land in-days the-those;
 and-also after- so,
 which they-came sons-of the-Gods to daughters-of the-Earth (Adam),
 and-they-birthed to-them they the-mighty_ones,
 which from-the_age, men-of the-name.
 
-And-he-saw He_Who_Is (YHWH) that multiplying-was bad-of the-Earth (Adam) in-the-land,
+And-he-saw He_Who_Is (YHWH) that multiplying-was bad-of the-Earth (Adam) in-land,
 and-all- forming-of thoughts-of heart-his, only bad, all- the-day.
 
-And-he-relented He_Who_Is (YHWH), that- he-made ↳ the-Earth (Adam) in-the-land,
+And-he-relented He_Who_Is (YHWH), that- he-made ↳ the-Earth (Adam) in-land,
 and-it-grieved-him to- heart-his.
 
 And-he-said He_Who_Is (YHWH), "I-will-wipe_out ↳ the-Earth (Adam) which- I-created
@@ -65,7 +65,7 @@ lower second and-third you-shall-make-her.
 
 And-I, behold-me, bringing ↳ the-flood waters over- the-land,
 to-destroy all- flesh which- in-him, wind-of lives from-under the-skies;
-all which- in-the-land will-expire.
+all which- in-land will-expire.
 
 And-I-will-stand_up ↳ covenant-my with-you;
 and-you-shall-come to- the-ark,

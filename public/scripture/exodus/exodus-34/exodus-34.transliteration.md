@@ -1,7 +1,7 @@
 
 vaYered YHWH beAnan 
 vaYityatzev imo sham 
-vaYiqra beshem YHWH
+vaYiqra beShem YHWH
 
 vaYaavor YHWH al-panav 
 vaYiqra YHWH YHWH El rachum 

@@ -257,7 +257,7 @@ export const genesis_3_8: Verse = {
       hebrew: 'עֵץ',
       transliteration: 'etz',
       englishLiteral: 'tree',
-      englishNatural: 'the tree',
+      englishNatural: 'the tree of',
       root: 'etz',
       order: 17,
       morphology: {
@@ -271,7 +271,7 @@ export const genesis_3_8: Verse = {
       hebrew: 'הַגָּן׃',
       transliteration: 'haGan',
       englishLiteral: 'the-garden',
-      englishNatural: 'of Garden',
+      englishNatural: 'Garden',
       root: 'gan',
       prefixes: ['ha'],
       order: 18,
@@ -297,6 +297,6 @@ export const genesis_3_8: Verse = {
     englishNatural:
       'And they heard the voice of He-Who-Is (YHWH) God, walking in Garden to the wind of the day; and the Earth (Adam) and his woman hid, from the face of He-Who-Is (YHWH) God, in the midst of the tree of Garden.',
     kjv: 'And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

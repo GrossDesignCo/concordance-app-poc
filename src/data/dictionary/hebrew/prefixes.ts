@@ -7,7 +7,8 @@ const PREFIXES = {
     hebrew: 'בְּ',
     transliteration: 'be',
     englishLiteral: 'in',
-    englishNatural: 'in',
+    englishNatural: 'in the',
+    description: 'in, among, like "in the" flock',
   },
   ve: {
     hebrew: 'וְ',
@@ -85,7 +86,7 @@ const PREFIXES = {
   ba: {
     hebrew: 'בַּ',
     transliteration: 'ba',
-    englishLiteral: 'in-the',
+    englishLiteral: 'in',
     englishNatural: 'in the',
   },
   yit: {

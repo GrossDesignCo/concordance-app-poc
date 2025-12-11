@@ -92,7 +92,7 @@ export const genesis_9_10: Verse = {
     {
       hebrew: 'בָּעוֹף',
       transliteration: 'baOph',
-      englishLiteral: 'in-the-flyer',
+      englishLiteral: 'in-flyer',
       englishNatural: 'in the flyer',
       root: 'oph',
       prefixes: ['ba'],
@@ -110,7 +110,7 @@ export const genesis_9_10: Verse = {
     {
       hebrew: 'בַּבְּהֵמָה',
       transliteration: 'baBehemah',
-      englishLiteral: 'in-the-beast',
+      englishLiteral: 'in-beast',
       englishNatural: 'in the beast',
       root: 'behemah',
       prefixes: ['ba'],
@@ -286,10 +286,10 @@ export const genesis_9_10: Verse = {
     transliteration:
       'veEt kol-nefesh haChayah asher itkhem baOph baBehemah uvKhol-chayat haAretz itkhem miKol yotzei haTevah leKhol chayat haAretz',
     englishLiteral:
-      'and-↳ all- wind-of the-living_being which with-you; in-the-flyer, in-the-beast, and-in-all- living_being-of the-land with-you, from-all going-out-of the-ark, to-all living_being-of the-land;',
+      'and-↳ all- wind-of the-living_being which with-you; in-flyer, in-beast, and-in-all- living_being-of the-land with-you, from-all going-out-of the-ark, to-all living_being-of the-land;',
     englishNatural:
       'and all the wind of the living-being which is with you; in the flyer, in the beast, and in all the living-being of the land with you, from all the going-out of the ark, to all the living-being of the land;',
     kjv: 'And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+  },
 };

@@ -123,7 +123,7 @@ export const genesis_11_4: Verse = {
     {
       hebrew: 'בַשָּׁמַיִם',
       transliteration: 'baShamayim',
-      englishLiteral: 'in-the-heavens',
+      englishLiteral: 'in-heavens',
       englishNatural: 'in the heavens',
       root: 'shamayim',
       prefixes: ['be'],
@@ -273,10 +273,10 @@ export const genesis_11_4: Verse = {
     transliteration:
       'vayYomeru havah nivneh-lanu ir uMigdal veRosho baShamayim veNaaseh-lanu shem pen-naFuts al-peney kol-haAretz',
     englishLiteral:
-      'And-they-said, "come let-us-build- for-us city and-tower and-its-head in-the-heavens, and-let-us-make- for-us name lest- we-are-scattered over- faces-of all- the-land."',
+      'And-they-said, "come let-us-build- for-us city and-tower and-its-head in-heavens, and-let-us-make- for-us name lest- we-are-scattered over- faces-of all- the-land."',
     englishNatural:
       'And they said, "Come let us build for us a city and a tower and its head in the heavens, and let us make for us a name lest we are scattered over the faces of all the land."',
     kjv: 'And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+  },
 };

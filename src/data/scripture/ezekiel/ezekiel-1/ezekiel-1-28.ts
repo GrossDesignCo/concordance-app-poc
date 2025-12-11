@@ -67,7 +67,7 @@ export const ezekiel_1_28: Verse = {
     {
       hebrew: 'בֶעָנָן',
       transliteration: 'beAnan',
-      englishLiteral: 'in-the-cloud',
+      englishLiteral: 'in-cloud',
       englishNatural: 'in the cloud',
       root: 'anan',
       prefixes: ['be'],
@@ -357,10 +357,10 @@ export const ezekiel_1_28: Verse = {
     transliteration:
       'keMareeh haQeshet asher yihyeh beAnan beYom haGeshem ken mareeh haNogah saviv hu mareeh demut kevod-YHWH vaEreh vaEppol al-panai vaEshma qol medabber',
     englishLiteral:
-      'like-appearance-of the-bow which it-is in-the-cloud in-day-of the-rain, so appearance-of the-brightness all_around; he appearance-of likeness-of glory-of- He_Who_Is (YHWH). And-I-saw and-I-fell over- face-my, and-I-heard voice speaking.',
+      'like-appearance-of the-bow which it-is in-cloud in-day-of the-rain, so appearance-of the-brightness all_around; he appearance-of likeness-of glory-of- He_Who_Is (YHWH). And-I-saw and-I-fell over- face-my, and-I-heard voice speaking.',
     englishNatural:
       'Like the appearance of the bow which is in the cloud in the day of rain, so the appearance of the brightness all-around; that the appearance of the likeness of the glory of He-Who-Is (YHWH). And I saw and I fell over my face, and I heard a voice speaking.',
     kjv: 'As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spake.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

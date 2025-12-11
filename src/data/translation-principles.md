@@ -98,6 +98,22 @@ Specific names of certain places or materials may be unknown or not fit into any
 
 In these cases, a simple transliteration of the original Hebrew seems the most appropriate, with an accompanying lexicon entry explaining the history.
 
+1. Preserve the Hebrew definite article (ה / ha-) in `englishLiteral`.
+
+The Hebrew definite article is a prefix that makes nouns definite. In `englishLiteral`, always include "the-" when the Hebrew has the definite article prefix:
+
+   - Hebrew: `הָאָרֶץ` (haAretz) with definite article → `englishLiteral: 'the-land'`
+   - Hebrew: `הַשָּׁמַיִם` (haShamayim) with definite article → `englishLiteral: 'the-skies'`
+   - Hebrew: `אֱלֹהִים` (Elohim) without definite article → `englishLiteral: 'Gods'`
+   - Hebrew: `הָאֱלֹהִים` (haElohim) with definite article → `englishLiteral: 'the-Gods'`
+
+   Examples from Genesis:
+   - Genesis 1:1: `englishLiteral: 'In-heading, created Gods ↳ the-skies and-↳ the-land'`
+   - Genesis 1:18: `englishLiteral: 'And-to-rule in-day, and-in-night, and-to-separate between the-light, and-between the-darkness'`
+   - Genesis 6:4: `englishLiteral: 'The-Fallen (Nephilim) were in-land in-days the-those'`
+
+   This preserves the grammatical precision of the Hebrew text where the presence or absence of the definite article carries semantic weight.
+
 ## English-Natural Translation Principles
 
 1. Maintain readability while preserving meaning.
@@ -131,6 +147,21 @@ In these cases, a simple transliteration of the original Hebrew seems the most a
    - Like the English-Literal, the root word should be consistently translated, even in strange situations.
    - This is most important for verbs, nouns, and adjectives.
    - Smaller/connective/marker words are allowed more flexibility due to their variety of use and function, especially in the Hebrew.
+
+1. Handle definite articles (Hebrew ה / ha) for readability.
+
+   - When a Hebrew noun is anarthrous (without the definite article ה), `englishNatural` should generally NOT include "the" unless required for English readability.
+   - When a Hebrew noun is articular (with the definite article ה), `englishNatural` SHOULD include "the".
+   - However, `englishNatural` may adjust article usage for natural English flow while preserving the semantic intent.
+   
+   Examples from Genesis:
+   - Genesis 1:1: `beReshit` (anarthrous) → `englishNatural: 'In the beginning'` (article added for English readability)
+   - Genesis 1:1: `haAretz` (articular) → `englishNatural: 'the earth'` (article preserved)
+   - Genesis 1:18: `haYom` (articular) → `englishNatural: 'the day'` (article preserved)
+   - Genesis 6:4: `haNefilim` (articular) → `englishNatural: 'the Fallen (Nephilim)'` (article preserved)
+   - Genesis 6:4: `baAretz` (anarthrous, with preposition) → `englishNatural: 'in the land'` (article added for English readability)
+
+   The goal is to balance Hebrew grammatical precision with natural English expression.
 
 1. Include genderization in cases where it stands out to Hebrew readers.
 

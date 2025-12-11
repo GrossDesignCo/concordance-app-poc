@@ -130,9 +130,9 @@ export const exodus_34_5: Verse = {
     },
     {
       hebrew: 'בְשֵׁם',
-      transliteration: 'beshem',
+      transliteration: 'beShem',
       englishLiteral: 'in-name',
-      englishNatural: 'the name of',
+      englishNatural: 'in the name of',
       root: 'shem',
       prefixes: ['be'],
       order: 8,
@@ -164,12 +164,12 @@ export const exodus_34_5: Verse = {
     hebrew:
       'וַיֵּרֶד יְהוָה בֶּעָנָן וַיִּתְיַצֵּב עִמּוֹ שָׁם וַיִּקְרָא בְשֵׁם יְהוָה',
     transliteration:
-      'vaYered YHWH beAnan vaYityatzev imo sham vaYiqra beshem YHWH',
+      'vaYered YHWH beAnan vaYityatzev imo sham vaYiqra beShem YHWH',
     englishLiteral:
       'And-went_down He_Who_Is (YHWH) in-cloud, and-positioned-himself with-him there, and-called_out in-name He_Who_Is (YHWH).',
     englishNatural:
-      'And He-Who-Is (YHWH) went-down in the cloud, and positioned himself with him there, and called-out the name of He-Who-Is (YHWH).',
+      'And He-Who-Is (YHWH) went-down in the cloud, and positioned himself with him there, and called-out in the name of He-Who-Is (YHWH).',
     kjv: 'And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

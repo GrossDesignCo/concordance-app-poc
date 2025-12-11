@@ -71,7 +71,7 @@ export const ezekiel_1_1: Verse = {
     {
       hebrew: 'בָּרְבִיעִי',
       transliteration: 'baRevii',
-      englishLiteral: 'in-the-fourth',
+      englishLiteral: 'in-fourth',
       englishNatural: 'in the fourth',
       root: 'revii',
       prefixes: ['ba'],
@@ -89,7 +89,7 @@ export const ezekiel_1_1: Verse = {
     {
       hebrew: 'בַּחֲמִשָּׁה',
       transliteration: 'baChamishah',
-      englishLiteral: 'in-the-five',
+      englishLiteral: 'in-five',
       englishNatural: 'in the five',
       root: 'chamesh',
       prefixes: ['ba'],
@@ -307,10 +307,10 @@ export const ezekiel_1_1: Verse = {
     transliteration:
       'vayehi biShloshim shanah baRevii baChamishah laChodes vaAni betokh-haGolah al-nehar-Kebar niftechu haShamayim vaEreh marot elohim',
     englishLiteral:
-      'And-it-was in-thirty year, in-the-fourth, in-the-five to-the-month, and-I in-midst-of- the-exile upon- River-of- Ancient (Kebar), they-were-opened the-skies, and-I-saw visions-of Gods.',
+      'And-it-was in-thirty year, in-fourth, in-five to-the-month, and-I in-midst-of- the-exile upon- River-of- Ancient (Kebar), they-were-opened the-skies, and-I-saw visions-of Gods.',
     englishNatural:
       'And it was in year thirty, in the fourth, in the five to the month, and I in the midst of the exile upon River of Ancient (Kebar), the skies were opened, and I saw visions of God.',
     kjv: 'Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

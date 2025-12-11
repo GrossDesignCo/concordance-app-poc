@@ -25,7 +25,7 @@ And-if not you-do_well, to-opening sin crouching,
 and-to-you its-fixation, and-you you-will-rule- over-it."
 
 And-he-said Acquired (Cain) to Vapor (Abel) his-brother;
-And-it-was in-their-being in-the-field,
+And-it-was in-their-being in-field,
 and-he-stood_up Acquired (Cain) to- Vapor (Abel) his-brother,
 and-he-killed-him.
 
@@ -41,13 +41,13 @@ which she-opened ↳ her-mouth to-take ↳ blood-of your-brother from-your-hand.
 
 When you-serve ↳ the-earth,
 not- it-will-add give- her-strength to-you;
-wandering and-fugitive you-will-be in-the-land."
+wandering and-fugitive you-will-be in-land."
 
 And-he-said Acquired (Cain) to He_Who_Is (YHWH),
 "Great my-twisting, from-lifting_up.
 Behold, you-banished ↳-me the-day, from-over face-of the-earth;
 and-from-your-face I-will-hide;
-and-I-will-be wandering and-fugitive in-the-land;
+and-I-will-be wandering and-fugitive in-land;
 and-it-will-be all- finding-me will-kill-me.
 
 And-he-said to-him He_Who_Is (YHWH), 

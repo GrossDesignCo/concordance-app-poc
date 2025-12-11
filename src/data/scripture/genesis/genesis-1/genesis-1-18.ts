@@ -25,7 +25,7 @@ export const genesis_1_18: Verse = {
     {
       hebrew: 'בַּיּ֣וֹם',
       transliteration: 'baYom',
-      englishLiteral: 'in-the-day',
+      englishLiteral: 'in-day',
       englishNatural: 'in the day',
       root: 'yom',
       prefixes: ['be', 'ha'],
@@ -43,7 +43,7 @@ export const genesis_1_18: Verse = {
     {
       hebrew: 'וּבַלַּ֔יְלָה',
       transliteration: 'uBaLaylah',
-      englishLiteral: 'and-in-the-night',
+      englishLiteral: 'and-in-night',
       englishNatural: 'and in the night',
       root: 'layil',
       prefixes: ['u', 'be', 'ha'],
@@ -208,11 +208,15 @@ export const genesis_1_18: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֧רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃',
-    transliteration: 'veLiMshol baYom uBaLaylah uLeHavdil beyn haOr uBeyn haHoshekh vaYar Elohim ki-tov',
-    englishLiteral: 'And-to-rule in-the-day, and-in-the-night, and-to-separate between the-light, and-between the-darkness, And-saw Gods, that- good.',
-    englishNatural: 'And to rule in the day, and in the night, and to separate between the light, and between the darkness, And God saw, that it was good.',
+    hebrew:
+      'וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֧רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃',
+    transliteration:
+      'veLiMshol baYom uBaLaylah uLeHavdil beyn haOr uBeyn haHoshekh vaYar Elohim ki-tov',
+    englishLiteral:
+      'And-to-rule in-day, and-in-night, and-to-separate between the-light, and-between the-darkness, And-saw Gods, that- good.',
+    englishNatural:
+      'And to rule in the day, and in the night, and to separate between the light, and between the darkness, And God saw, that it was good.',
     kjv: 'And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
-}; 
+};

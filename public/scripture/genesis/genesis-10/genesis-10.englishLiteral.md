@@ -4,7 +4,7 @@ Name (Shem), Hot (Ham), and-Spacious (Japheth);
 and-were-birthed to-them sons, after the-flood.
 
 And-Black (Kush) he-birthed ↳ Rebel (Nimrod);
-he caused-to-begin to-be mighty_one in-the-land.
+he caused-to-begin to-be mighty_one in-land.
 
 He- was mighty_one-of- hunter to-faces-of He_Who_Is (YHWH);
 over- so it-will-be-said,

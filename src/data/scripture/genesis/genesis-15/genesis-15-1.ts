@@ -141,7 +141,7 @@ export const genesis_15_1: Verse = {
     {
       hebrew: 'בַּמַּחֲזֶה',
       transliteration: 'baMachazeh',
-      englishLiteral: 'in-the-vision',
+      englishLiteral: 'in-vision',
       englishNatural: 'in the vision',
       root: 'machazeh',
       prefixes: ['ba'],
@@ -333,10 +333,10 @@ export const genesis_15_1: Verse = {
     transliteration:
       'achar haDvarim haEleh hayah devar-YHWH el-Abram baMachazeh lemor al-tira Abram anoki magen lakh sekharcha harbeh meod',
     englishLiteral:
-      'After the-words the-these, was word-of- He_Who_Is (YHWH) to- Exalted_Father (Abram) in-the-vision, to-say, "not- you-will-fear Exalted_Father (Abram), I shield to-you, reward-of-you to-multiply exceedingly."',
+      'After the-words the-these, was word-of- He_Who_Is (YHWH) to- Exalted_Father (Abram) in-vision, to-say, "not- you-will-fear Exalted_Father (Abram), I shield to-you, reward-of-you to-multiply exceedingly."',
     englishNatural:
       'After these words, the word of He-Who-Is (YHWH) was to Exalted-Father (Abram) in the vision, saying, "You will fear not Exalted-Father (Abram), I, a shield to you; your reward to multiply exceedingly."',
     kjv: 'After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+  },
 };

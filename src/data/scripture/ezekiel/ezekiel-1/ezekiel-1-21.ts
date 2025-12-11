@@ -220,7 +220,7 @@ export const ezekiel_1_21: Verse = {
     {
       hebrew: 'בָּאוֹפַנִּים',
       transliteration: 'baOphanim',
-      englishLiteral: 'in-the-wheels',
+      englishLiteral: 'in-wheels',
       englishNatural: 'in the wheels',
       root: 'ophan',
       prefixes: ['be', 'ha'],
@@ -243,10 +243,10 @@ export const ezekiel_1_21: Verse = {
     transliteration:
       'beLekhtan yelekhu uVeAmdam yaamodu uVehinasam meAl haAretz yinasu haOphanim leUmatam ki ruach haChayah baOphanim',
     englishLiteral:
-      'In-going-their they-went, and-in-standing-their they-stood, and-in-being-lifted-their from-over the-land they-were-lifted the-wheels to-alongside-them, that wind-of the-living-being, in-the-wheels.',
+      'In-going-their they-went, and-in-standing-their they-stood, and-in-being-lifted-their from-over the-land they-were-lifted the-wheels to-alongside-them, that wind-of the-living-being, in-wheels.',
     englishNatural:
       'In their going they went, and in their standing they stood, and in their being-lifted from over the land the wheels were lifted to alongside them, that the wind of the living-being, in the wheels.',
     kjv: 'When those went, these went; and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

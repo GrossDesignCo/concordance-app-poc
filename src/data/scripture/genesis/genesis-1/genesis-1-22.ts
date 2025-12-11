@@ -166,7 +166,7 @@ export const genesis_1_22: Verse = {
     {
       hebrew: 'בַּיַּמִּ֔ים',
       transliteration: 'baYamim',
-      englishLiteral: 'in-the-seas',
+      englishLiteral: 'in-seas',
       englishNatural: 'in the seas',
       root: 'yam',
       prefixes: ['be', 'ha'],
@@ -217,7 +217,7 @@ export const genesis_1_22: Verse = {
     {
       hebrew: 'בָּאָֽרֶץ׃',
       transliteration: 'baAretz',
-      englishLiteral: 'in-the-land',
+      englishLiteral: 'in-land',
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['be', 'ha'],
@@ -240,10 +240,10 @@ export const genesis_1_22: Verse = {
     transliteration:
       'vaYeVarekh otam Elohim leMor peru uReVu uMilU et-haMayim baYamim veHaOf yiRev baAretz',
     englishLiteral:
-      'And-blessed them Gods, saying, "Be_fruitful and-multiply and-fill ↳ the-waters in-the-seas, And-the-flyer let-multiply in-the-land."',
+      'And-blessed them Gods, saying, "Be_fruitful and-multiply and-fill ↳ the-waters in-seas, And-the-flyer let-multiply in-land."',
     englishNatural:
       'And God blessed them, saying, "Be-fruitful and multiply and fill the waters in the seas, And let the flyer multiply in the land."',
     kjv: 'And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

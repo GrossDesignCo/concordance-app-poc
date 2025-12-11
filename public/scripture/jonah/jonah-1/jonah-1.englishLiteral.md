@@ -12,11 +12,11 @@ and-went_down in-her, to-go with-them golden_stone (Tarshish),
 from-the-face-of He_Who_Is (YHWH).
 
 And-He_Who_Is (YHWH) hurled wind- great to- the-sea, 
-and-was tempest- great in-the-sea, 
+and-was tempest- great in-sea, 
 and-the-ship planned to-be-broken.
 
 And-feared the-sailors, and-cried_out, man to- gods-his, 
-and-hurled ↳ the-vessels which in-the-ship to- the-sea, 
+and-hurled ↳ the-vessels which in-ship to- the-sea, 
 to-lighten from-over-them.
 
 And-Dove (Jonah) went_down to- far_reaches-of the-ship; 

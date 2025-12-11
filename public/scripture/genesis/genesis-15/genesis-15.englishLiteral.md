@@ -1,6 +1,6 @@
 
 After the-words the-these,
-was word-of- He_Who_Is (YHWH) to- Exalted_Father (Abram) in-the-vision, to-say, 
+was word-of- He_Who_Is (YHWH) to- Exalted_Father (Abram) in-vision, to-say, 
 "not- you-will-fear Exalted_Father (Abram),
 I shield to-you,
 reward-of-you to-multiply exceedingly."
@@ -46,7 +46,7 @@ and-ram three-years-old,
 and-turtledove, and-young-pigeon."
 
 And-he-took- to-him ↳ all-of- these,
-and-he-divided ↳ them in-the-midst,
+and-he-divided ↳ them in-midst,
 and-he-gave man- piece-of-him to-meet companion-of-him,
 and-↳ the-bird not he-divided.
 
@@ -70,4 +70,4 @@ And-generation fourth they-will-return here, that not- complete iniquity-of the-
 
 And-he-was the-sun she-came and-darkness he-was, and-behold furnace smoke and-torch fire which he-passed between the-pieces the-these.
 
-in-the-day the-that he-cut He_Who_Is (YHWH) ↳ Exalted_Father (Abram) covenant, to-say, "to-seed-of-you I-gave ↳ the-land the-this, from-river-of Narrow_Place (Egypt) until- the-river the-great river-of- Fruitful (Euphrates)."
+in-day the-that he-cut He_Who_Is (YHWH) ↳ Exalted_Father (Abram) covenant, to-say, "to-seed-of-you I-gave ↳ the-land the-this, from-river-of Narrow_Place (Egypt) until- the-river the-great river-of- Fruitful (Euphrates)."

@@ -10,7 +10,7 @@ that in-it sabbathed from-all his-work, which created Gods to-make.
 These birthings the-skies and-the-land, in-being-created-them; 
 in-day making He_Who_Is (YHWH) Gods land and-skies.
 
-And-all shrub the-field not-yet will-be in-the-land, and-all herb the-field not-yet will-grow; for not caused_to_rain He_Who_Is (YHWH) Gods over the-land, and-Earth (Adam) not_exist to-serve ↳ the-earth.
+And-all shrub the-field not-yet will-be in-land, and-all herb the-field not-yet will-grow; for not caused_to_rain He_Who_Is (YHWH) Gods over the-land, and-Earth (Adam) not_exist to-serve ↳ the-earth.
 
 And-mist will-go_up from- the-land, and-gave_drink ↳ all- face-of the-earth.
 

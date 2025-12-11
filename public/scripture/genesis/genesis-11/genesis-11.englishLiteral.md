@@ -11,7 +11,7 @@ And-she-was to-them the-brick for-stone,
 and-the-bitumen was to-them for-mortar.
 
 And-they-said, "come let-us-build- for-us city and-tower 
-and-its-head in-the-heavens, 
+and-its-head in-heavens, 
 and-let-us-make- for-us name 
 lest- we-are-scattered over- faces-of all- the-land."
 

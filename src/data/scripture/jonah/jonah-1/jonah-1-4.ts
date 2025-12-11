@@ -153,7 +153,7 @@ export const jonah_1_4: Verse = {
     {
       hebrew: 'בַּיָּם',
       transliteration: 'baYam',
-      englishLiteral: 'in-the-sea',
+      englishLiteral: 'in-sea',
       englishNatural: 'in the sea',
       root: 'yam',
       prefixes: ['ba', 'ha'],
@@ -225,10 +225,10 @@ export const jonah_1_4: Verse = {
     transliteration:
       'vaYHWH hetil ruach-gedolah el-haYam vaYehi saar-gadol baYam veHaOniyah chishvah lehishabeir',
     englishLiteral:
-      'And-He_Who_Is (YHWH) hurled wind- great to- the-sea, and-was tempest- great in-the-sea, and-the-ship planned to-be-broken.',
+      'And-He_Who_Is (YHWH) hurled wind- great to- the-sea, and-was tempest- great in-sea, and-the-ship planned to-be-broken.',
     englishNatural:
       'And He-Who-Is (YHWH) hurled a great wind to the sea, and there was a great tempest in the sea, and the ship planned to be broken.',
     kjv: 'But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

@@ -192,7 +192,7 @@ export const genesis_4_12: Verse = {
     {
       hebrew: 'בָאָרֶץ',
       transliteration: 'baAretz',
-      englishLiteral: 'in-the-land',
+      englishLiteral: 'in-land',
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['ba'],
@@ -215,10 +215,10 @@ export const genesis_4_12: Verse = {
     transliteration:
       'ki taavod et-haAdamah lo-toseeph tet-kochah lakh na vanad tihyeh baAretz',
     englishLiteral:
-      'When you-serve ↳ the-earth, not- it-will-add give- her-strength to-you; wandering and-fugitive you-will-be in-the-land."',
+      'When you-serve ↳ the-earth, not- it-will-add give- her-strength to-you; wandering and-fugitive you-will-be in-land."',
     englishNatural:
       'When you serve the earth, it will add not, to give her strength to you; wandering and fugitive you will be in the land."',
     kjv: 'When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

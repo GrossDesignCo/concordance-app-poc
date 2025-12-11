@@ -271,7 +271,7 @@ export const genesis_6_17: Verse = {
     {
       hebrew: 'בָּאָרֶץ',
       transliteration: 'baAretz',
-      englishLiteral: 'in-the-land',
+      englishLiteral: 'in-land',
       englishNatural: 'in the land',
       root: 'eretz',
       prefixes: ['be', 'ha'],
@@ -310,10 +310,10 @@ export const genesis_6_17: Verse = {
     transliteration:
       'vaAni hineni mevi et-haMabbul mayim al-haAretz leShachet kol-basar asher-bo ruach chayim miTachat haShamayim kol asher-baAretz yigva',
     englishLiteral:
-      'And-I, behold-me, bringing ↳ the-flood waters over- the-land, to-destroy all- flesh which- in-him, wind-of lives from-under the-skies; all which- in-the-land will-expire.',
+      'And-I, behold-me, bringing ↳ the-flood waters over- the-land, to-destroy all- flesh which- in-him, wind-of lives from-under the-skies; all which- in-land will-expire.',
     englishNatural:
       'And I, behold me, bringing the flood waters over the land, to destroy all flesh which in it, the wind of life from under the skies; all which in the land will expire.',
     kjv: 'And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

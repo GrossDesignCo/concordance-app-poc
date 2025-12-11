@@ -199,7 +199,7 @@ export const jonah_4_5: Verse = {
     {
       hebrew: 'בַּצֵּל',
       transliteration: 'baTzel',
-      englishLiteral: 'in-the-shadow',
+      englishLiteral: 'in-shadow',
       englishNatural: 'in the shadow',
       root: 'tzel',
       prefixes: ['ba'],
@@ -283,7 +283,7 @@ export const jonah_4_5: Verse = {
     {
       hebrew: 'בָּעִיר',
       transliteration: 'baIr',
-      englishLiteral: 'in-the-city',
+      englishLiteral: 'in-city',
       englishNatural: 'in the city',
       root: 'ir',
       prefixes: ['ba'],
@@ -306,10 +306,10 @@ export const jonah_4_5: Verse = {
     transliteration:
       'vaYetze Yonah min-haIr vaYeshev miQedem laIr vaYaas lo sham sukkah vaYeshev tachteha baTzel ad asher yireh mah-yihyeh baIr',
     englishLiteral:
-      'And-went_out Dove (Jonah) from- the-city and-sat from-east to-the-city and-made to-him there booth and-sat under-her in-the-shadow, until which he-will-see what- will-be in-the-city.',
+      'And-went_out Dove (Jonah) from- the-city and-sat from-east to-the-city and-made to-him there booth and-sat under-her in-shadow, until which he-will-see what- will-be in-city.',
     englishNatural:
       'And Dove (Jonah) went-out from the city and sat from east to the city and made for him there a booth and sat under it in the shadow, until which he will see what will be in the city.',
     kjv: 'So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
   },
 };

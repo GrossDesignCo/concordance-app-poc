@@ -1,6 +1,6 @@
 
 And-it-was in-thirty year,
-in-the-fourth, in-the-five to-the-month,
+in-fourth, in-five to-the-month,
 and-I in-midst-of- the-exile upon- River-of- Ancient (Kebar),
 they-were-opened the-skies,
 and-I-saw visions-of Gods.
@@ -61,7 +61,7 @@ and-from- the-fire brought_out lightning.
 And-the-living-beings sprinting and-returning like-appearance-of the-flashing.
 
 And-I-saw the-living-beings,
-and-behold wheel one in-the-land,
+and-behold wheel one in-land,
 beside the-living-beings, to-four-of faces-his.
 
 appearance-of the-wheels and-work-their,
@@ -83,13 +83,13 @@ and-in-being-lifted-of the-living-beings from-over the-land, they-were-lifted th
 over which it-was- there, the-wind to-go they-went
 there, the-wind to-go,
 and-the-wheels they-were-lifted to-alongside-them,
-that wind-of the-living-being, in-the-wheels.
+that wind-of the-living-being, in-wheels.
 
 In-going-their they-went,
 and-in-standing-their they-stood,
 and-in-being-lifted-their from-over the-land
 they-were-lifted the-wheels to-alongside-them,
-that wind-of the-living-being, in-the-wheels.
+that wind-of the-living-being, in-wheels.
 
 And-likeness-of over- heads-of the-living-being hammering_out,
 like-eye-of the-crystal the-fearsome,
@@ -121,7 +121,7 @@ and-from-appearance-of loins-his and-to-downward
 I-saw like-appearance-of- fire,
 and-brightness to-him all_around.
 
-like-appearance-of the-bow which it-is in-the-cloud in-day-of the-rain,
+like-appearance-of the-bow which it-is in-cloud in-day-of the-rain,
 so appearance-of the-brightness all_around;
 he appearance-of likeness-of glory-of- He_Who_Is (YHWH).
 And-I-saw and-I-fell over- face-my,

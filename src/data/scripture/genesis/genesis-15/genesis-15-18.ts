@@ -10,7 +10,7 @@ export const genesis_15_18: Verse = {
     {
       hebrew: 'בַּיּוֹם',
       transliteration: 'baYom',
-      englishLiteral: 'in-the-day',
+      englishLiteral: 'in-day',
       englishNatural: 'In the day',
       root: 'yom',
       prefixes: ['ba'],
@@ -323,10 +323,10 @@ export const genesis_15_18: Verse = {
     transliteration:
       'baYom haHu karat YHWH et-Abram berit lemor leZarakha natati et-haAretz haZot miNehar Mitzrayim ad-haNahar haGadol nehar-Perat',
     englishLiteral:
-      'in-the-day the-that he-cut He_Who_Is (YHWH) ↳ Exalted_Father (Abram) covenant, to-say, "to-seed-of-you I-gave ↳ the-land the-this, from-river-of Narrow_Place (Egypt) until- the-river the-great river-of- Fruitful (Euphrates)."',
+      'in-day the-that he-cut He_Who_Is (YHWH) ↳ Exalted_Father (Abram) covenant, to-say, "to-seed-of-you I-gave ↳ the-land the-this, from-river-of Narrow_Place (Egypt) until- the-river the-great river-of- Fruitful (Euphrates)."',
     englishNatural:
       'In the day that He-Who-Is (YHWH) cut Exalted-Father (Abram) a covenant, saying, "To your seed I have given the land this, from The River of Narrow-Place (Egypt) until The River, The Great, the River of Fruitful (Euphrates)."',
     kjv: 'In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+  },
 };
