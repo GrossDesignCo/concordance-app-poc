@@ -1,0 +1,10 @@
+.workInProgressMarker {
+  background-color: var(--ds-bg-page);
+  padding: var(--ds-space-2);
+  margin-block: var(--ds-space-4);
+  border-radius: var(--ds-radius-md);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--ds-mg-border);
+}

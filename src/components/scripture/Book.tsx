@@ -4,6 +4,8 @@ import type { Book as BookData } from '@/types';
 import styles from './Book.module.css';
 import { useSelection } from '@/context/SelectionContext';
 import { getBookNameKey } from '@/data/utils/idUtils';
+import { WorkInProgressMarker } from './WorkInProgressMarker';
+import { Fragment } from 'react/jsx-runtime';
 
 interface BookProps {
   bookData: BookData;
@@ -25,7 +27,7 @@ export const Book = ({ bookData }: BookProps) => {
       </div>
 
       <div className={styles.chapters}>
-        {bookData?.chapters?.map((chapter) => {
+        {bookData?.chapters?.map((chapter, i) => {
           // Filter verses based on filteredStructure
           const filteredVerses = chapter.verses.filter((verse) => {
             if (!filterVerses || !filteredStructure) return true;
@@ -43,6 +45,21 @@ export const Book = ({ bookData }: BookProps) => {
             ...chapter,
             verses: filteredVerses,
           };
+
+          // Handle non-consecutive chapters
+          const nonConsecutiveChapters =
+            chapter.meta.chapter !==
+              bookData.chapters[i - 1]?.meta.chapter + 1 &&
+            chapter.meta.chapter !== 1;
+
+          if (nonConsecutiveChapters) {
+            return (
+              <Fragment key={chapter.meta.chapter}>
+                <WorkInProgressMarker />
+                <Chapter chapterData={filteredChapter} />
+              </Fragment>
+            );
+          }
 
           return (
             <Chapter chapterData={filteredChapter} key={chapter.meta.chapter} />

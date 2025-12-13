@@ -4,6 +4,7 @@ import type { Chapter as ChapterData } from '@/types';
 import styles from './Chapter.module.css';
 import { getChapterId, getBookNameKey } from '@/data/utils/idUtils';
 import { Fragment } from 'react';
+import { WorkInProgressMarker } from './WorkInProgressMarker';
 
 interface ChapterProps {
   chapterData: ChapterData;
@@ -29,9 +30,7 @@ export const Chapter = ({ chapterData }: ChapterProps) => {
 
         return (
           <Fragment key={v.meta.verse}>
-            {nonConsecutiveVerse && (
-              <div className={styles.nonConsecutiveVerse}>...</div>
-            )}
+            {nonConsecutiveVerse && <WorkInProgressMarker />}
             <Verse verse={v} />
           </Fragment>
         );
