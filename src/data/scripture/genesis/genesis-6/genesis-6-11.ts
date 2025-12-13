@@ -52,7 +52,7 @@ export const genesis_6_11: Verse = {
     },
     {
       hebrew: 'לִפְנֵי',
-      transliteration: 'lifney',
+      transliteration: 'liFney',
       englishLiteral: 'to-face-of',
       englishNatural: 'to the face of',
       root: 'panah',
@@ -143,12 +143,12 @@ export const genesis_6_11: Verse = {
   expectedTranslations: {
     hebrew: 'וַתִּשָּׁחֵת הָאָרֶץ לִפְנֵי הָאֱלֹהִים וַתִּמָּלֵא הָאָרֶץ חָמָס',
     transliteration:
-      'vatTishachet haAretz lifney haElohim vatTimale haAretz chamas',
+      'vatTishachet haAretz liFney haElohim vatTimale haAretz chamas',
     englishLiteral:
       'And-it-corrupted the-land to-face-of the-Gods, and-it-filled the-land violence.',
     englishNatural:
       'And the land corrupted to the face of God, and the land filled-with violence.',
     kjv: 'The earth also was corrupt before God, and the earth was filled with violence.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

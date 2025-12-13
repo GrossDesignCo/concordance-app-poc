@@ -57,7 +57,7 @@ export const genesis_4_16: Verse = {
       hebrew: 'מִלִּפְנֵי',
       transliteration: 'miliPhney',
       englishLiteral: 'from-face-of',
-      englishNatural: 'from the presence of',
+      englishNatural: 'from the face of',
       root: 'panah',
       prefixes: ['mi', 'li'],
       order: {
@@ -192,8 +192,8 @@ export const genesis_4_16: Verse = {
     englishLiteral:
       'And-he-went-out Acquired (Cain), from-face-of He_Who_Is (YHWH); and-he-dwelt in-land- Wandering, east- Delight.',
     englishNatural:
-      'Acquired (Cain) went out, from the presence of He-Who-Is (YHWH); and dwelt in the land of Wandering, east of Delight.',
+      'Acquired (Cain) went out, from the face of He-Who-Is (YHWH); and dwelt in the land of Wandering, east of Delight.',
     kjv: 'And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-11-27' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

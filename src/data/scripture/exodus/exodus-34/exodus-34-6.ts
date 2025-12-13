@@ -62,8 +62,8 @@ export const exodus_34_6: Verse = {
       hebrew: 'פָּנָיו',
       transliteration: 'panav',
       englishLiteral: 'his-faces',
-      englishNatural: 'his faces (eyes)',
-      root: 'panim',
+      englishNatural: 'his faces',
+      root: 'panah',
       suffixes: ['av'],
       order: 4,
       morphology: {
@@ -265,8 +265,8 @@ export const exodus_34_6: Verse = {
     englishLiteral:
       'And-passed-through He_Who_Is (YHWH) over- his-faces, and-called_out, "He_Who_Is (YHWH), He_Who_Is (YHWH), God, compassionate, and-gracious, long nostrils, and-many- steadfast_love and-truth.',
     englishNatural:
-      'And He-Who-Is (YHWH) passed through over his faces (eyes), and called-out, "He-Who-Is (YHWH), He-Who-Is (YHWH), God, compassionate, and gracious, long of nostrils, and abundant in steadfast-love and truth.',
+      'And He-Who-Is (YHWH) passed through over his faces, and called-out, "He-Who-Is (YHWH), He-Who-Is (YHWH), God, compassionate, and gracious, long of nostrils, and abundant in steadfast-love and truth.',
     kjv: 'And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

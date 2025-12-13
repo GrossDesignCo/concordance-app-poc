@@ -15,10 +15,10 @@ from the firstborn of his flock, and from their fat;
 And He-Who-Is (YHWH) esteemed to Vapor (Abel), and to his offering.
 
 And to Acquired (Cain) and to his offering, no esteeming;
-And it was fuming-anger to Acquired (Cain) very-much, and his faces (eyes) fell.
+And it was fuming-anger to Acquired (Cain) very-much, and his faces fell.
 
 And He-Who-Is (YHWH) said to Acquired (Cain),
-"Why is it fuming-anger to you, and why have your faces (eyes) fallen?
+"Why is it fuming-anger to you, and why have your faces fallen?
 
 And is there not, if you do-well, lifting-up?
 And if you do-well not, to the opening sin is crouching,
@@ -45,7 +45,7 @@ wandering and fugitive you will be in the land."
 And Acquired (Cain) said to He-Who-Is (YHWH),
 "Great is my twisting, from lifting-up.
 Behold, you have banished me this day, from over the face of the earth;
-and from your face I will be hidden;
+and from your faces I will be hidden;
 and I will be wandering and fugitive in the land;
 and it will be all finding me will kill me."
 
@@ -55,7 +55,7 @@ sevenfold it will be avenged."
 And He-Who-Is (YHWH) set for Acquired (Cain) a sign,
 so that not all striking-down him on finding him.
 
-And Acquired (Cain) went out, from the presence of He-Who-Is (YHWH);
+And Acquired (Cain) went out, from the face of He-Who-Is (YHWH);
 and dwelt in the land of Wandering,
 east of Delight.
 

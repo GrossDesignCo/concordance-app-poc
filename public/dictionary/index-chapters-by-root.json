@@ -183,6 +183,9 @@
     ]
   },
   "panah": {
+    "exodus": [
+      34
+    ],
     "ezekiel": [
       1
     ],
@@ -193,6 +196,7 @@
       4,
       6,
       7,
+      10,
       11
     ],
     "isaiah": [
@@ -200,6 +204,9 @@
     ],
     "jonah": [
       1
+    ],
+    "proverbs": [
+      8
     ],
     "psalms": [
       23
@@ -4594,11 +4601,6 @@
       4
     ]
   },
-  "millifney": {
-    "jonah": [
-      1
-    ]
-  },
   "yarad": {
     "exodus": [
       34
@@ -4871,19 +4873,6 @@
   "erekh_name": {
     "genesis": [
       10
-    ]
-  },
-  "panim": {
-    "exodus": [
-      34
-    ],
-    "genesis": [
-      6,
-      10,
-      11
-    ],
-    "proverbs": [
-      8
     ]
   },
   "natsar": {

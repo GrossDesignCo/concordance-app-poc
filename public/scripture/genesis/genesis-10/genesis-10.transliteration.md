@@ -6,9 +6,9 @@ vayivaledu lahem banim achar haMabbul
 veKhush yalad et-Nimrod
 hu hechel lihyot gibbor baAretz
 
-hu-hayah gibbor-tsayid lifney YHWH
+hu-hayah gibbor-tsayid liFney YHWH
 al-ken yeamar
-keNimrod gibbor tsayid lifney YHWH
+keNimrod gibbor tsayid liFney YHWH
 
 vatehi reshit mamlakhto Babel
 veErekh veAkkad veKhalneh

@@ -26,7 +26,7 @@ export const psalms_23_5: Verse = {
     },
     {
       hebrew: 'לְפָנַי',
-      transliteration: 'lefanai',
+      transliteration: 'leFanai',
       englishLiteral: 'to-my-face',
       englishNatural: 'to my face',
       root: 'panah',
@@ -176,11 +176,15 @@ export const psalms_23_5: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'תַּעֲרֹךְ לְפָנַי שֻׁלְחָן נֶגֶד צֹרְרָי דִּשַּׁנְתָּ בַשֶּׁמֶן רֹאשִׁי כּוֹסִי רְוָיָה',
-    transliteration: 'taarokh lefanai shulchan neged tzorerai dishanta baShemen roshi kosi revayah',
-    englishLiteral: 'you-prepare to-my-face table, in-presence-of my-enemies; you-anoint with-oil my-head, my-cup, overflowing.',
-    englishNatural: 'you prepare to my face a table, in the presence of my enemies; you anoint with oil my head, my cup, overflowing.',
+    hebrew:
+      'תַּעֲרֹךְ לְפָנַי שֻׁלְחָן נֶגֶד צֹרְרָי דִּשַּׁנְתָּ בַשֶּׁמֶן רֹאשִׁי כּוֹסִי רְוָיָה',
+    transliteration:
+      'taarokh leFanai shulchan neged tzorerai dishanta baShemen roshi kosi revayah',
+    englishLiteral:
+      'you-prepare to-my-face table, in-presence-of my-enemies; you-anoint with-oil my-head, my-cup, overflowing.',
+    englishNatural:
+      'you prepare to my face a table, in the presence of my enemies; you anoint with oil my head, my cup, overflowing.',
     kjv: 'Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
-}; 
+};

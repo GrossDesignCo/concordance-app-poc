@@ -67,10 +67,10 @@ export const genesis_10_9: Verse = {
     },
     {
       hebrew: 'לִפְנֵי',
-      transliteration: 'lifney',
+      transliteration: 'liFney',
       englishLiteral: 'to-faces-of',
-      englishNatural: 'to the face of',
-      root: 'panim',
+      englishNatural: 'to the faces of',
+      root: 'panah',
       prefixes: ['le'],
       suffixes: ['ei'],
       order: 5,
@@ -200,10 +200,10 @@ export const genesis_10_9: Verse = {
     },
     {
       hebrew: 'לִפְנֵי',
-      transliteration: 'lifney',
+      transliteration: 'liFney',
       englishLiteral: 'to-faces-of',
-      englishNatural: 'to the face of',
-      root: 'panim',
+      englishNatural: 'to the faces of',
+      root: 'panah',
       prefixes: ['le'],
       suffixes: ['ei'],
       order: 13,
@@ -235,12 +235,12 @@ export const genesis_10_9: Verse = {
     hebrew:
       'הוּא־הָיָה גִבֹּר־צַיִד לִפְנֵי יְהוָה עַל־כֵּן יֵאָמַר כְּנִמְרֹד גִּבּוֹר צַיִד לִפְנֵי יְהוָה',
     transliteration:
-      'hu-hayah gibbor-tsayid lifney YHWH al-ken yeamar keNimrod gibbor tsayid lifney YHWH',
+      'hu-hayah gibbor-tsayid liFney YHWH al-ken yeamar keNimrod gibbor tsayid liFney YHWH',
     englishLiteral:
       'He- was mighty_one-of- hunter to-faces-of He_Who_Is (YHWH); over- so it-will-be-said, "like-Rebel (Nimrod), mighty_one, hunter to-faces-of He_Who_Is (YHWH)."',
     englishNatural:
-      'He was a mighty-one of the hunter to the face of He-Who-Is (YHWH); so moreover it will be said, "Like Rebel (Nimrod), a mighty-one, a hunter to the face of He-Who-Is (YHWH)."',
+      'He was a mighty-one of the hunter to the faces of He-Who-Is (YHWH); so moreover it will be said, "Like Rebel (Nimrod), a mighty-one, a hunter to the faces of He-Who-Is (YHWH)."',
     kjv: 'He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+  },
 };

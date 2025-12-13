@@ -168,7 +168,7 @@ export const genesis_4_5: Verse = {
       hebrew: 'פָנָיו',
       transliteration: 'panav',
       englishLiteral: 'his-faces',
-      englishNatural: 'and his faces (eyes)',
+      englishNatural: 'and his faces',
       root: 'panah',
       suffixes: ['av'],
       order: {
@@ -190,11 +190,15 @@ export const genesis_4_5: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וְאֶל־קַיִן וְאֶל־מִנְחָתוֹ לֹא שָׁעָה וַיִּחַר לְקַיִן מְאֹד וַיִּפְּלוּ פָנָיו',
-    transliteration: 'veEl-Qayin veEl-minchato lo shaah vayYichar leQayin meod vayYipelu panav',
-    englishLiteral: 'And-to Acquired (Cain) and-to his-offering, no esteeming; And-it-was_fuming_anger to-Acquired (Cain) very_much, and-they-fell his-faces.',
-    englishNatural: 'And to Acquired (Cain) and to his offering, no esteeming; And it was fuming-anger to Acquired (Cain) very-much, and his faces (eyes) fell.',
+    hebrew:
+      'וְאֶל־קַיִן וְאֶל־מִנְחָתוֹ לֹא שָׁעָה וַיִּחַר לְקַיִן מְאֹד וַיִּפְּלוּ פָנָיו',
+    transliteration:
+      'veEl-Qayin veEl-minchato lo shaah vayYichar leQayin meod vayYipelu panav',
+    englishLiteral:
+      'And-to Acquired (Cain) and-to his-offering, no esteeming; And-it-was_fuming_anger to-Acquired (Cain) very_much, and-they-fell his-faces.',
+    englishNatural:
+      'And to Acquired (Cain) and to his offering, no esteeming; And it was fuming-anger to Acquired (Cain) very-much, and his faces fell.',
     kjv: 'But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
-}; 
+};

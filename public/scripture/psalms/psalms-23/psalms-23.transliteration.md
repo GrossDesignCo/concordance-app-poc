@@ -12,7 +12,7 @@ gam ki-elekh beGei tzalmavet lo-ira ra
 ki-atah imadi
 shivtekha uMishantekha hemah yenachamuni
 
-taarokh lefanai shulchan neged tzorerai
+taarokh leFanai shulchan neged tzorerai
 dishanta baShemen roshi
 kosi revayah
 

@@ -228,7 +228,7 @@ export const genesis_11_4: Verse = {
       transliteration: 'peney',
       englishLiteral: 'faces-of',
       englishNatural: 'the faces of',
-      root: 'panim',
+      root: 'panah',
       order: 15,
       morphology: {
         gender: 'masculine',
@@ -277,6 +277,6 @@ export const genesis_11_4: Verse = {
     englishNatural:
       'And they said, "Come let us build for us a city and a tower and its head in the heavens, and let us make for us a name lest we are scattered over the faces of all the land."',
     kjv: 'And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

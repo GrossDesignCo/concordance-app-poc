@@ -10,7 +10,7 @@ And-said the-snake to the-woman, "Not- dying you-shall-die."
 
 That knowing Gods, that in-day eating-you from-it, and-will-be-opened your-eyes; and-you_all-will-be as-Gods, knowing good and-bad."
 
-And-saw the-woman that good the-tree for-food, and-that desirable- it to-the-eyes, and-coveted the-tree to-make-wise, and-took from-fruit-its and-ate, and-gave also- to-her-man with-her; and-ate.
+And-saw the-woman that good the-tree for-food, and-that desirable- it to-eyes, and-coveted the-tree to-make-wise, and-took from-fruit-its and-ate, and-gave also- to-her-man with-her; and-ate.
 
 And-opened-were eyes-of two-of-them, and-knew that naked they; and-sewed leaf-of fig, and-made to-them girdings.
 

@@ -105,6 +105,7 @@ const ROOTS = {
     englishNatural: 'face',
     description: 'the front, the face, the front of, the face of',
     type: 'noun',
+    related: ['ayin_eye'],
   },
   tehom: {
     hebrew: 'תהום',
@@ -2117,6 +2118,7 @@ const ROOTS = {
     englishLiteral: 'eye',
     englishNatural: 'eye',
     type: 'noun',
+    related: ['panah'],
   },
   pi: {
     hebrew: 'פי',
@@ -4347,15 +4349,6 @@ const ROOTS = {
     description:
       'beryl, chrysolite, a precious golden-yellow or sea-green gemstone; also the name Tarshish, a distant port city (possibly in Spain) from which such stones may have come',
   },
-  millifney: {
-    hebrew: 'מלפני',
-    transliteration: 'millifney',
-    englishLiteral: 'from-before',
-    englishNatural: 'from before',
-    type: 'preposition',
-    description: 'from before, from the presence of',
-    related: ['panah'],
-  },
   yarad: {
     hebrew: 'ירד',
     transliteration: 'yarad',
@@ -4786,15 +4779,6 @@ const ROOTS = {
     type: 'verb',
     description: 'to give grace, show favor, be merciful',
     related: ['chanun', 'chen'],
-  },
-  panim: {
-    hebrew: 'פנים',
-    transliteration: 'panim',
-    englishLiteral: 'faces',
-    englishNatural: 'faces',
-    type: 'noun',
-    description: 'faces, presence, before (always plural in Hebrew)',
-    related: ['panah'],
   },
   // Exodus 34:7 additions
   natsar: {

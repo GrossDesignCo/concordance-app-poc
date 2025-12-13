@@ -196,9 +196,9 @@ export const jonah_1_2: Verse = {
     },
     {
       hebrew: 'לְפָנָי',
-      transliteration: 'lefanai',
-      englishLiteral: 'before-me',
-      englishNatural: 'before me',
+      transliteration: 'leFanai',
+      englishLiteral: 'before-my-face',
+      englishNatural: 'before my face',
       root: 'panah',
       order: 12,
       morphology: {
@@ -215,12 +215,12 @@ export const jonah_1_2: Verse = {
     hebrew:
       'קוּם לֵךְ אֶל־נִינְוֵה הָעִיר הַגְּדוֹלָה וּקְרָא עָלֶיהָ כִּי־עָלְתָה רָעָתָם לְפָנָי',
     transliteration:
-      'qum lekh el-Nineveh haIr haGedolah uQera aleha ki-aletah raatam lefanai',
+      'qum lekh el-Nineveh haIr haGedolah uQera aleha ki-aletah raatam leFanai',
     englishLiteral:
-      '"Stand_up, go to- Dwelling_of_Fish (Nineveh), the-city, the-great; and-call_out over-her, that- went_up bad-their before-me."',
+      '"Stand_up, go to- Dwelling_of_Fish (Nineveh), the-city, the-great; and-call_out over-her, that- went_up bad-their before-my-face."',
     englishNatural:
-      '"Stand-up, go to Dwelling-of-Fish (Nineveh), the city, the great; and call-out over her, that their bad has come up before me."',
+      '"Stand-up, go to Dwelling-of-Fish (Nineveh), the city, the great; and call-out over her, that their bad has come up before my face."',
     kjv: 'Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

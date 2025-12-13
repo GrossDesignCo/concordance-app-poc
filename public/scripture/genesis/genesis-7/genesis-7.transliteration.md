@@ -5,7 +5,7 @@ veHaMabbul hayah mayim al-haAretz
 vayYavo Noach
 uVanav veIshto uNeshey-vanav itto
 el-haTevah
-mippeney mey haMabbul
+mipPeney mey haMabbul
 
 min-haBehemah haTehorah 
 uMin-haBehemah asher einennah tehorah

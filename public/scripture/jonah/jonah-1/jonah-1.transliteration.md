@@ -1,15 +1,15 @@
 vaYehi devar-YHWH el-Yonah ben-Amittai lemor
 
 qum lekh el-Nineveh haIr haGedolah 
-uQera aleha ki-aletah raatam lefanai
+uQera aleha ki-aletah raatam leFanai
 
 vaYaqam Yonah livroach Tarshishah 
-millifney YHWH 
+milLiFney YHWH 
 vaYered Yafo 
 vaYimtza aniyah baah Tarshish 
 vaYitten sekhorah 
 vaYered bah lavo immahhem Tarshishah 
-millifney YHWH
+milLiFney YHWH
 
 vaYHWH hetil ruach-gedolah el-haYam 
 vaYehi saar-gadol baYam 

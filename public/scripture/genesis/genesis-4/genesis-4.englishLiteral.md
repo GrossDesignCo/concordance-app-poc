@@ -46,7 +46,7 @@ wandering and-fugitive you-will-be in-land."
 And-he-said Acquired (Cain) to He_Who_Is (YHWH),
 "Great my-twisting, from-lifting_up.
 Behold, you-banished ↳-me the-day, from-over face-of the-earth;
-and-from-your-face I-will-hide;
+and-from-your-faces I-will-hide;
 and-I-will-be wandering and-fugitive in-land;
 and-it-will-be all- finding-me will-kill-me.
 

@@ -3,7 +3,7 @@ And He-Who-Is (YHWH) went-down in the cloud,
 and positioned himself with him there, 
 and called-out in the name of He-Who-Is (YHWH).
 
-And He-Who-Is (YHWH) passed through over his faces (eyes), 
+And He-Who-Is (YHWH) passed through over his faces, 
 and called-out, "He-Who-Is (YHWH), He-Who-Is (YHWH), God, compassionate, 
 and gracious, long of nostrils, 
 and abundant in steadfast-love 

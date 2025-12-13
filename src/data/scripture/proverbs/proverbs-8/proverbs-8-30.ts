@@ -136,8 +136,8 @@ export const proverbs_8_30: Verse = {
       hebrew: 'לְפָנָיו',
       transliteration: 'lefanav',
       englishLiteral: 'to-faces-his',
-      englishNatural: 'to his face',
-      root: 'panim',
+      englishNatural: 'to his faces',
+      root: 'panah',
       prefixes: ['le'],
       suffixes: ['av'],
       order: 9,
@@ -184,8 +184,8 @@ export const proverbs_8_30: Verse = {
     englishLiteral:
       'and-I-was beside-him master_craftsman, and-I-was darlings day day, laughing to-faces-his in-all- time.',
     englishNatural:
-      'and I was beside him a master-craftsman, and I was darlings day day, laughing to his face in all time.',
+      'and I was beside him a master-craftsman, and I was darlings day day, laughing to his faces in all time.',
     kjv: 'Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-07' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

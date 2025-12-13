@@ -15,7 +15,7 @@ vatere haIshah ki tov haEtz leMaakhal veKi taavah-hu laEynayim veNechmad haEtz l
 vaTipakachnah eyney shneyhem vaYedu ki eyrumim hem vayItperu aleh teenah vaYaasu lahem chagorot
 
 vaYishme'u et-qol YHWH Elohim mithallekh baGan leRuach haYom 
-vaYitchabe haAdam ve'ishto mipney YHWH Elohim betokh etz haGan
+vaYitchabe haAdam ve'ishto miPney YHWH Elohim betokh etz haGan
 
 vaYiqra YHWH Elohim el-haAdam
 vaYomer lo ayekah

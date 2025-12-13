@@ -165,7 +165,7 @@ export const genesis_4_6: Verse = {
       hebrew: 'פָנֶיךָ',
       transliteration: 'panekha',
       englishLiteral: 'your-faces',
-      englishNatural: 'have your faces (eyes)',
+      englishNatural: 'have your faces',
       root: 'panah',
       suffixes: ['kha'],
       order: {
@@ -194,8 +194,8 @@ export const genesis_4_6: Verse = {
     englishLiteral:
       'And-He-said He_Who_Is (YHWH) to- Acquired (Cain), "Why it-fumed_angrily to-you, and-why they-fell your-faces?',
     englishNatural:
-      'And He-Who-Is (YHWH) said to Acquired (Cain), "Why is it fuming-anger to you, and why have your faces (eyes) fallen?',
+      'And He-Who-Is (YHWH) said to Acquired (Cain), "Why is it fuming-anger to you, and why have your faces fallen?',
     kjv: 'And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

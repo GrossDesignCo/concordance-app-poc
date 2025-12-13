@@ -57,10 +57,12 @@
     "genesis"
   ],
   "panah": [
+    "exodus",
     "ezekiel",
     "genesis",
     "isaiah",
     "jonah",
+    "proverbs",
     "psalms"
   ],
   "tehom": [
@@ -1977,9 +1979,6 @@
     "ezekiel",
     "jonah"
   ],
-  "millifney": [
-    "jonah"
-  ],
   "yarad": [
     "exodus",
     "genesis",
@@ -2131,11 +2130,6 @@
   ],
   "erekh_name": [
     "genesis"
-  ],
-  "panim": [
-    "exodus",
-    "genesis",
-    "proverbs"
   ],
   "natsar": [
     "exodus"

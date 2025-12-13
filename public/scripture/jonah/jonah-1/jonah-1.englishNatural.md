@@ -2,7 +2,7 @@
 And the word of He-Who-Is (YHWH) was to Dove (Jonah) son of My-Truth, saying;
 
 "Stand-up, go to Dwelling-of-Fish (Nineveh), the city, the great; 
-and call-out over her, that their bad has come up before me."
+and call-out over her, that their bad has come up before my face."
 
 And Dove (Jonah) stood-up, to flee to golden-stone (Tarshish), 
 from the face of He-Who-Is (YHWH), 

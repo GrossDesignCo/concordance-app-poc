@@ -37,7 +37,7 @@ et-haElohim hithalekh-noach
 vayYoled noach shloshah vanim
 et-shem veEt-cham veEt-yafet
 
-vatTishachet haAretz lifney haElohim
+vatTishachet haAretz liFney haElohim
 vatTimale haAretz chamas
 
 vayYar elohim et-haAretz
@@ -45,8 +45,8 @@ veHineh nishchatah
 ki-hishchit kol-basar et-darko al-haAretz
 
 vayYomer Elohim leNoach
-qetz kol-basar ba lefanai
-ki-maleah haAretz chamas mippneihem
+qetz kol-basar ba leFanai
+ki-maleah haAretz chamas mipPneihem
 veHineni mashchitam et-haAretz
 
 aseh lekha tevat atsey-gopher

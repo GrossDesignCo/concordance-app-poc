@@ -205,7 +205,7 @@ export const genesis_3_8: Verse = {
     },
     {
       hebrew: 'מִפְּנֵי',
-      transliteration: 'mipney',
+      transliteration: 'miPney',
       englishLiteral: 'from-face-of',
       englishNatural: 'from the face of',
       root: 'panah',
@@ -291,12 +291,12 @@ export const genesis_3_8: Verse = {
     hebrew:
       'וַיִּשְׁמְעוּ אֶת־קוֹל יְהוָה אֱלֹהִים מִתְהַלֵּךְ בַּגָּן לְרוּחַ הַיּוֹם וַיִּתְחַבֵּא הָאָדָם וְאִשְׁתּוֹ מִפְּנֵי יְהוָה אֱלֹהִים בְּתוֹךְ עֵץ הַגָּן׃',
     transliteration:
-      "vaYishme'u et-qol YHWH Elohim mithallekh baGan leRuach haYom vaYitchabe haAdam ve'ishto mipney YHWH Elohim betokh etz haGan",
+      "vaYishme'u et-qol YHWH Elohim mithallekh baGan leRuach haYom vaYitchabe haAdam ve'ishto miPney YHWH Elohim betokh etz haGan",
     englishLiteral:
       'And-heard ↳ voice He_Who_Is (YHWH) Gods, walking in-Garden to-wind the-day; and-hid the-Earth (Adam) and-his-woman, from-face-of He_Who_Is (YHWH) Gods, in-midst-of tree the-garden.',
     englishNatural:
       'And they heard the voice of He-Who-Is (YHWH) God, walking in Garden to the wind of the day; and the Earth (Adam) and his woman hid, from the face of He-Who-Is (YHWH) God, in the midst of the tree of Garden.',
     kjv: 'And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

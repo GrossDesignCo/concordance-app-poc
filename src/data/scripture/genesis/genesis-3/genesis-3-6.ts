@@ -153,7 +153,7 @@ export const genesis_3_6: Verse = {
     {
       hebrew: 'לָעֵינַיִם',
       transliteration: 'laEynayim',
-      englishLiteral: 'to-the-eyes',
+      englishLiteral: 'to-eyes',
       englishNatural: 'to the eyes',
       root: 'ayin_eye',
       prefixes: ['la'],
@@ -394,10 +394,10 @@ export const genesis_3_6: Verse = {
     transliteration:
       'vatere haIshah ki tov haEtz leMaakhal veKi taavah-hu laEynayim veNechmad haEtz leHashkil vatiqach miPiryo vatokhal vatiten gam-leIshah imah vayokhal',
     englishLiteral:
-      'And-saw the-woman that good the-tree for-food, and-that desirable- it to-the-eyes, and-coveted the-tree to-make-wise, and-took from-fruit-its and-ate, and-gave also- to-her-man with-her; and-ate.',
+      'And-saw the-woman that good the-tree for-food, and-that desirable- it to-eyes, and-coveted the-tree to-make-wise, and-took from-fruit-its and-ate, and-gave also- to-her-man with-her; and-ate.',
     englishNatural:
       'And the woman saw that the tree was good for food, and that it was desirable to the eyes, and coveted was the tree to make wise, and she took from its fruit and ate, and gave also to her man with her; and he ate.',
     kjv: 'And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };
