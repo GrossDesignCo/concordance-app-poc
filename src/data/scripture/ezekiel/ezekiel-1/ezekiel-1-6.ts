@@ -25,7 +25,7 @@ export const ezekiel_1_6: Verse = {
       transliteration: 'fanim',
       englishLiteral: 'faces',
       englishNatural: 'faces',
-      root: 'panah',
+      root: 'panim',
       order: 2,
       morphology: {
         gender: 'masculine',
@@ -121,6 +121,6 @@ export const ezekiel_1_6: Verse = {
     englishLiteral: 'And-four faces to-one, and-four wings to-one to-them.',
     englishNatural: 'And four faces to one, and four wings to one, to them.',
     kjv: 'And every one had four faces, and every one had four wings.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

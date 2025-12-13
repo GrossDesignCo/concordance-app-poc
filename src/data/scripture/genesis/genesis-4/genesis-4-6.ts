@@ -166,7 +166,7 @@ export const genesis_4_6: Verse = {
       transliteration: 'panekha',
       englishLiteral: 'your-faces',
       englishNatural: 'have your faces',
-      root: 'panah',
+      root: 'panim',
       suffixes: ['kha'],
       order: {
         hebrew: 10,

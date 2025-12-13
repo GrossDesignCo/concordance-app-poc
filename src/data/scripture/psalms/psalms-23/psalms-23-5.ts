@@ -27,9 +27,9 @@ export const psalms_23_5: Verse = {
     {
       hebrew: 'לְפָנַי',
       transliteration: 'leFanai',
-      englishLiteral: 'to-my-face',
+      englishLiteral: 'to-my-faces',
       englishNatural: 'to my face',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['le'],
       suffixes: ['ai'],
       order: 2,
@@ -181,7 +181,7 @@ export const psalms_23_5: Verse = {
     transliteration:
       'taarokh leFanai shulchan neged tzorerai dishanta baShemen roshi kosi revayah',
     englishLiteral:
-      'you-prepare to-my-face table, in-presence-of my-enemies; you-anoint with-oil my-head, my-cup, overflowing.',
+      'you-prepare to-my-faces table, in-presence-of my-enemies; you-anoint with-oil my-head, my-cup, overflowing.',
     englishNatural:
       'you prepare to my face a table, in the presence of my enemies; you anoint with oil my head, my cup, overflowing.',
     kjv: 'Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.',

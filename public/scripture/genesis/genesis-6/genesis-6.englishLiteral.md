@@ -1,5 +1,5 @@
 
-And-it-was, that- began the-Earth (Adam) to-multiply over- face-of the-earth;
+And-it-was, that- began the-Earth (Adam) to-multiply over- faces-of the-earth;
 and-daughters were-birthed to-them.
 
 And-they-saw sons- the-Gods ↳ daughters-of the-Earth (Adam),
@@ -23,7 +23,7 @@ And-he-relented He_Who_Is (YHWH), that- he-made ↳ the-Earth (Adam) in-land,
 and-it-grieved-him to- heart-his.
 
 And-he-said He_Who_Is (YHWH), "I-will-wipe_out ↳ the-Earth (Adam) which- I-created
-from-over face-of the-earth,
+from-over faces-of the-earth,
 from-Earth (Adam) unto- beast, unto- creeping_thing, and-unto- bird-of the-skies;
 that I-have-relented that I-have-made-them."
 
@@ -37,7 +37,7 @@ Rest (Noah), man righteous, blameless he-was in-generation-his;
 And-he-birthed Rest (Noah) three sons:
 ↳ Name (Shem), and-↳ Hot (Ham), and-↳ Spacious (Japheth).
 
-And-it-corrupted the-land to-face-of the-Gods,
+And-it-corrupted the-land to-faces-of the-Gods,
 and-it-filled the-land violence.
 
 And-he-saw Gods ↳ the-land,
@@ -45,7 +45,7 @@ and-behold it-had-corrupted;
 that- had-corrupted all- flesh ↳ way-its over- the-land.
 
 And-he-said Gods to-Rest (Noah),
-"end-of all- flesh coming to-face-my;
+"end-of all- flesh coming to-faces-my;
 that- is-full the-land violence from-faces-their;
 and-behold-me destroying ↳ the-land."
 

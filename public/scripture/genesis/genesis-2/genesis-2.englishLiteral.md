@@ -12,7 +12,7 @@ in-day making He_Who_Is (YHWH) Gods land and-skies.
 
 And-all shrub the-field not-yet will-be in-land, and-all herb the-field not-yet will-grow; for not caused_to_rain He_Who_Is (YHWH) Gods over the-land, and-Earth (Adam) not_exist to-serve ↳ the-earth.
 
-And-mist will-go_up from- the-land, and-gave_drink ↳ all- face-of the-earth.
+And-mist will-go_up from- the-land, and-gave_drink ↳ all- faces-of the-earth.
 
 And-formed He_Who_Is (YHWH) Gods ↳ the-Earth (Adam) dust from- the-earth; 
 and-blew in-his-nostrils breath-of lives, 

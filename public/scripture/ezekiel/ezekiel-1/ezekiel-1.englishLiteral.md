@@ -36,19 +36,19 @@ and-faces-their and-wings-their to-four-them.
 
 joining woman to- sister-her wings-their;
 not- they-went_around in-going-their;
-man to- side-of face-his they-went.
+man to- side-of faces-his they-went.
 
 And-likeness-of faces-their:
-face-of Earth (Adam),
-and-face-of lion to- the-right to-four-of-them,
-and-face-of- ox from-the-left to-four-of-them,
-and-face-of- eagle to-four-of-them.
+faces-of Earth (Adam),
+and-faces-of lion to- the-right to-four-of-them,
+and-faces-of- ox from-the-left to-four-of-them,
+and-faces-of- eagle to-four-of-them.
 
 And-faces-their and-wings-their separated from-to-upward;
 to-man two joining man,
 and-two covering ↳ bodies-their.
 
-And-man to- side-of face-his they-went;
+And-man to- side-of faces-his they-went;
 to which it-was- there the-wind to-go they-went;
 not they-went-around in-going-their.
 
@@ -124,5 +124,5 @@ and-brightness to-him all_around.
 like-appearance-of the-bow which it-is in-cloud in-day-of the-rain,
 so appearance-of the-brightness all_around;
 he appearance-of likeness-of glory-of- He_Who_Is (YHWH).
-And-I-saw and-I-fell over- face-my,
+And-I-saw and-I-fell over- faces-my,
 and-I-heard voice speaking.

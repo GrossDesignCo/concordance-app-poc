@@ -98,14 +98,33 @@ const ROOTS = {
     englishNatural: 'darkness',
     type: 'noun',
   },
+  panim: {
+    hebrew: 'פנים',
+    transliteration: 'panim',
+    englishLiteral: 'faces',
+    englishNatural: 'face',
+    description:
+      'face, faces, presence, surface, front; always grammatically plural even when referring to a single face; used idiomatically for presence (lifnei = before/in the presence of), surface (al-pnei = upon the surface of), direction, and encounter. Construct form is pnei (פני). Common idioms: panim el-panim (face to face), lifnei (before), mipnei (from before, because of), al-pnei (upon the surface of). Theologically significant for presence and favor: "God hid his face" = withdrew presence; "seek my face" = seek relationship.',
+    type: 'noun',
+    gender: 'masculine',
+    number: 'plural', // always plural in form
+    related: ['panah', 'ayin_eye', 'peh'],
+  },
   panah: {
     hebrew: 'פנה',
     transliteration: 'panah',
-    englishLiteral: 'face',
-    englishNatural: 'face',
-    description: 'the front, the face, the front of, the face of',
-    type: 'noun',
-    related: ['ayin_eye'],
+    englishLiteral: 'to-face',
+    englishNatural: 'to face',
+    description:
+      "to turn, to face (a direction), to turn toward, to turn away, to turn aside, to look; the action of directing oneself or one's attention toward or away from something. Etymologically related to panim (face) - the verb means to turn one's face/attention toward something. Often used with directional prepositions: el (toward), min (from/away from).",
+    type: 'verb',
+    stems: {
+      qal: 'to face, to turn toward',
+      piel: 'to clear away, remove',
+      hiphil:
+        'to face (something), to cause to change the direction something is facing',
+    },
+    related: ['panim'],
   },
   tehom: {
     hebrew: 'תהום',

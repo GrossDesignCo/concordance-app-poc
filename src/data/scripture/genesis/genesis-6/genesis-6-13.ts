@@ -131,9 +131,9 @@ export const genesis_6_13: Verse = {
     {
       hebrew: 'לְפָנַי',
       transliteration: 'leFanai',
-      englishLiteral: 'to-face-my',
+      englishLiteral: 'to-faces-my',
       englishNatural: 'to my face',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['le'],
       suffixes: ['ai'],
       order: 8,
@@ -213,7 +213,7 @@ export const genesis_6_13: Verse = {
       transliteration: 'mipPneihem',
       englishLiteral: 'from-faces-their',
       englishNatural: 'from their faces',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['mi'],
       suffixes: ['hem'],
       order: 13,
@@ -294,7 +294,7 @@ export const genesis_6_13: Verse = {
     transliteration:
       'vayYomer Elohim leNoach qetz kol-basar ba leFanai ki-maleah haAretz chamas mipPneihem veHineni mashchitam et-haAretz',
     englishLiteral:
-      'And-he-said Gods to-Rest (Noah), "end-of all- flesh coming to-face-my; that- is-full the-land violence from-faces-their; and-behold-me destroying ↳ the-land."',
+      'And-he-said Gods to-Rest (Noah), "end-of all- flesh coming to-faces-my; that- is-full the-land violence from-faces-their; and-behold-me destroying ↳ the-land."',
     englishNatural:
       'And God said to Rest (Noah), "The end of all flesh has come to my face; that the land is full of violence from their faces; and behold me destroying the land."',
     kjv: 'And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.',

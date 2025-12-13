@@ -15,7 +15,7 @@ And-saw the-woman that good the-tree for-food, and-that desirable- it to-eyes, a
 And-opened-were eyes-of two-of-them, and-knew that naked they; and-sewed leaf-of fig, and-made to-them girdings.
 
 And-heard ↳ voice He_Who_Is (YHWH) Gods, walking in-Garden to-wind the-day; 
-and-hid the-Earth (Adam) and-his-woman, from-face-of He_Who_Is (YHWH) Gods, in-midst-of tree the-garden.
+and-hid the-Earth (Adam) and-his-woman, from-faces-of He_Who_Is (YHWH) Gods, in-midst-of tree the-garden.
 
 And-called_out He_Who_Is (YHWH) Gods to- the-Earth (Adam),
 and-said to-him, "Where?"
@@ -64,7 +64,7 @@ all days-of lives-your;"
 And-thorn and-thistle it-will-grow to-you; 
 and-you-will-eat ↳ herb the-field;
 
-In-sweat_of your-face, you-will-eat bread, 
+In-sweat_of your-faces, you-will-eat bread, 
 until your-return to the-earth; 
 that from-her you-were-taken, 
 that dust you, 

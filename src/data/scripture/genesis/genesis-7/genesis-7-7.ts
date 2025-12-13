@@ -168,9 +168,9 @@ export const genesis_7_7: Verse = {
     {
       hebrew: 'מִפְּנֵי',
       transliteration: 'mipPeney',
-      englishLiteral: 'from-face-of',
+      englishLiteral: 'from-faces-of',
       englishNatural: 'from the face of',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['mi'],
       order: 10,
       morphology: {
@@ -220,7 +220,7 @@ export const genesis_7_7: Verse = {
     transliteration:
       'vayYavo Noach uVanav veIshto uNeshey-vanav itto el-haTevah mipPeney mey haMabbul',
     englishLiteral:
-      'And-he-came Rest (Noah), and-sons-his and-woman-his and-women-of- sons-his with-him, to- the-ark, from-face-of waters-of the-flood.',
+      'And-he-came Rest (Noah), and-sons-his and-woman-his and-women-of- sons-his with-him, to- the-ark, from-faces-of waters-of the-flood.',
     englishNatural:
       'And Rest (Noah) came, and his sons and his woman and the women of his sons with him, to the ark, from the face of the waters of the flood.',
     kjv: "And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood.",

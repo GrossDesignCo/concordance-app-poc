@@ -206,9 +206,9 @@ export const genesis_3_8: Verse = {
     {
       hebrew: 'מִפְּנֵי',
       transliteration: 'miPney',
-      englishLiteral: 'from-face-of',
+      englishLiteral: 'from-faces-of',
       englishNatural: 'from the face of',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['mi'],
       order: 13,
       morphology: {
@@ -293,7 +293,7 @@ export const genesis_3_8: Verse = {
     transliteration:
       "vaYishme'u et-qol YHWH Elohim mithallekh baGan leRuach haYom vaYitchabe haAdam ve'ishto miPney YHWH Elohim betokh etz haGan",
     englishLiteral:
-      'And-heard ↳ voice He_Who_Is (YHWH) Gods, walking in-Garden to-wind the-day; and-hid the-Earth (Adam) and-his-woman, from-face-of He_Who_Is (YHWH) Gods, in-midst-of tree the-garden.',
+      'And-heard ↳ voice He_Who_Is (YHWH) Gods, walking in-Garden to-wind the-day; and-hid the-Earth (Adam) and-his-woman, from-faces-of He_Who_Is (YHWH) Gods, in-midst-of tree the-garden.',
     englishNatural:
       'And they heard the voice of He-Who-Is (YHWH) God, walking in Garden to the wind of the day; and the Earth (Adam) and his woman hid, from the face of He-Who-Is (YHWH) God, in the midst of the tree of Garden.',
     kjv: 'And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.',

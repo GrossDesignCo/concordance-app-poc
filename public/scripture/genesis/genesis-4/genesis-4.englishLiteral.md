@@ -45,7 +45,7 @@ wandering and-fugitive you-will-be in-land."
 
 And-he-said Acquired (Cain) to He_Who_Is (YHWH),
 "Great my-twisting, from-lifting_up.
-Behold, you-banished ↳-me the-day, from-over face-of the-earth;
+Behold, you-banished ↳-me the-day, from-over faces-of the-earth;
 and-from-your-faces I-will-hide;
 and-I-will-be wandering and-fugitive in-land;
 and-it-will-be all- finding-me will-kill-me.
@@ -56,7 +56,7 @@ sevenfold it-will-be-avenged."
 And-he-set He_Who_Is (YHWH) for-Acquired (Cain) sign,
 for-not striking_down- ↳-him all- finding-him.
 
-And-he-went-out Acquired (Cain), from-face-of He_Who_Is (YHWH);
+And-he-went-out Acquired (Cain), from-faces-of He_Who_Is (YHWH);
 and-he-dwelt in-land- Wandering,
 east- Delight.
 

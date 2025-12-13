@@ -25,9 +25,9 @@ export const genesis_3_19: Verse = {
     {
       hebrew: 'אַפֶּיךָ',
       transliteration: 'apeikha',
-      englishLiteral: 'your-face',
+      englishLiteral: 'your-faces',
       englishNatural: 'your face',
-      root: 'panah',
+      root: 'panim',
       suffixes: ['ekha'],
       order: 2,
       morphology: {
@@ -274,6 +274,6 @@ export const genesis_3_19: Verse = {
     englishNatural:
       'In sweat of your face, you will eat bread, until your return to the earth; that from it you were taken, that dust are you, and to dust you will return."',
     kjv: 'In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

@@ -5,7 +5,7 @@ and-the-flood it-was waters over- the-land.
 And-he-came Rest (Noah),
 and-sons-his and-woman-his and-women-of- sons-his with-him,
 to- the-ark,
-from-face-of waters-of the-flood.
+from-faces-of waters-of the-flood.
 
 From- the-beast the-clean 
 and-from- the-beast which not-her clean,

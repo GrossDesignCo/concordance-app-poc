@@ -110,7 +110,7 @@ export const ezekiel_1_8: Verse = {
       transliteration: 'uFeneihem',
       englishLiteral: 'and-faces-their',
       englishNatural: 'and their faces',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['u'],
       suffixes: ['hem'],
       order: 8,
@@ -164,6 +164,6 @@ export const ezekiel_1_8: Verse = {
     englishNatural:
       'And hands of Earth (Adam) from under their wings over four of their sides; and their faces and their wings to four of them.',
     kjv: 'And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

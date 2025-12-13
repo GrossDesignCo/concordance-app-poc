@@ -147,7 +147,7 @@ export const isaiah_6_2: Verse = {
       transliteration: 'panav',
       englishLiteral: 'his-faces',
       englishNatural: 'his faces',
-      root: 'panah',
+      root: 'panim',
       suffixes: ['av'],
       order: 10,
       morphology: {

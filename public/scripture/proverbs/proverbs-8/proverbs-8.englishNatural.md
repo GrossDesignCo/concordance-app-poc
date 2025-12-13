@@ -17,13 +17,13 @@ In nothing, abyss, I was birthed;
 in nothing, springs, heavy-with waters.
 
 In before mountains were sunk, 
-to the-face-of hills I was birthed.
+to the faces of hills I was birthed.
 
 Unto he had made not land and outsides, 
 and the head of dusts of the world.
 
 In his establishing skies, there I; 
-in his inscribing a circle over the face of the abyss.
+in his inscribing a circle over the mouth of the abyss.
 
 In his strengthening clouds from above; 
 in being-strong the fountains of the abyss.

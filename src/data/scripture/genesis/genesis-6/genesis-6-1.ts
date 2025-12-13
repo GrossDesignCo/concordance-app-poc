@@ -104,9 +104,9 @@ export const genesis_6_1: Verse = {
     {
       hebrew: 'פְּנֵי',
       transliteration: 'peney',
-      englishLiteral: 'face-of',
+      englishLiteral: 'faces-of',
       englishNatural: 'the face of',
-      root: 'panah',
+      root: 'panim',
       suffixes: ['ey'],
       order: 7,
       morphology: {
@@ -192,10 +192,10 @@ export const genesis_6_1: Verse = {
     transliteration:
       'vayHi ki-hechel haAdam laRov al-peney haAdamah uVanot yuledu lahem',
     englishLiteral:
-      'And-it-was, that- began the-Earth (Adam) to-multiply over- face-of the-earth; and-daughters were-birthed to-them.',
+      'And-it-was, that- began the-Earth (Adam) to-multiply over- faces-of the-earth; and-daughters were-birthed to-them.',
     englishNatural:
       'And it was, that the Earth (Adam) began to multiply over the face of the earth; and daughters were birthed to them.',
     kjv: 'And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

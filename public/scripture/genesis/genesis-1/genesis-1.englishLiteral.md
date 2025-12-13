@@ -1,8 +1,8 @@
 In-heading, created Gods ↳ the-skies and-↳ the-land
 
 And-the-land was waste and-void; 
-And-darkness, over-face-of abyss.
-And-Wind, Gods, was-stirring over-face-of the-waters.
+And-darkness, over-faces-of abyss.
+And-Wind, Gods, was-stirring over-faces-of the-waters.
 
 And-said Gods, "Let-be light."
 And-was light.
@@ -69,7 +69,7 @@ And-was- morning,
 Day fourth.
 
 And-said Gods, "Let-swarm the-waters swarm throat living, 
-And-flyer let-fly over the-land, over face-of hammering_out, the-skies."
+And-flyer let-fly over the-land, over faces-of hammering_out, the-skies."
 
 And-created Gods ↳ the-monsters, the-greats, 
 And-↳ all throat the-living the-crawling which swarmed the-waters, to-their-kind, 
@@ -101,7 +101,7 @@ And-blessed them Gods,
 And-said to-them Gods, "Be_fruitful and-multiply and-fill ↳ the-land, 
 And-conquer and-subjugate in-fish-of the-sea, and-in-flyer-of the-skies, and-in-all living-being the-crawling over the-land."
 
-And-said Gods, "Behold, I-give to-you ↳ all herb seeding seed, which over face-of all the-land, 
+And-said Gods, "Behold, I-give to-you ↳ all herb seeding seed, which over faces-of all the-land, 
 And-↳ all the-tree which in-it fruit-of tree seeding seed, to-you it-shall-be for-food.
 
 And-to-all living_being-of the-land, and-to-all flyer-of the-skies, and-to-all crawler over the-land, which in-it throat living ↳ all green herb for-food." 

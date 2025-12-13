@@ -2,168 +2,19 @@
   "key": "panah",
   "hebrew": "פנה",
   "transliteration": "panah",
-  "englishLiteral": "face",
-  "englishNatural": "face",
-  "description": "the front, the face, the front of, the face of",
-  "type": "noun",
-  "related": [
-    "ayin_eye"
-  ],
-  "wordIndexes": {
-    "exodus": {
-      "34": {
-        "6": [
-          3
-        ]
-      }
-    },
-    "ezekiel": {
-      "1": {
-        "6": [
-          1
-        ],
-        "8": [
-          7
-        ],
-        "9": [
-          11
-        ],
-        "10": [
-          1,
-          2,
-          4,
-          9,
-          13
-        ],
-        "11": [
-          0
-        ],
-        "12": [
-          3
-        ],
-        "15": [
-          9
-        ],
-        "28": [
-          19
-        ]
-      }
-    },
-    "genesis": {
-      "1": {
-        "2": [
-          5,
-          10
-        ],
-        "20": [
-          12
-        ],
-        "29": [
-          12
-        ]
-      },
-      "2": {
-        "6": [
-          7
-        ]
-      },
-      "3": {
-        "8": [
-          12
-        ],
-        "19": [
-          1
-        ]
-      },
-      "4": {
-        "5": [
-          10
-        ],
-        "6": [
-          9
-        ],
-        "14": [
-          5,
-          7
-        ],
-        "16": [
-          2
-        ]
-      },
-      "6": {
-        "1": [
-          6
-        ],
-        "7": [
-          8
-        ],
-        "11": [
-          2
-        ],
-        "13": [
-          7,
-          12
-        ]
-      },
-      "7": {
-        "7": [
-          9
-        ]
-      },
-      "10": {
-        "9": [
-          4,
-          12
-        ]
-      },
-      "11": {
-        "4": [
-          14
-        ],
-        "8": [
-          5
-        ],
-        "9": [
-          16
-        ]
-      }
-    },
-    "isaiah": {
-      "6": {
-        "2": [
-          9
-        ]
-      }
-    },
-    "jonah": {
-      "1": {
-        "2": [
-          11
-        ],
-        "3": [
-          4,
-          19
-        ],
-        "10": [
-          13
-        ]
-      }
-    },
-    "proverbs": {
-      "8": {
-        "30": [
-          8
-        ]
-      }
-    },
-    "psalms": {
-      "23": {
-        "5": [
-          1
-        ]
-      }
-    }
+  "englishLiteral": "to-face",
+  "englishNatural": "to face",
+  "description": "to turn, to face (a direction), to turn toward, to turn away, to turn aside, to look; the action of directing oneself or one's attention toward or away from something. Etymologically related to panim (face) - the verb means to turn one's face/attention toward something. Often used with directional prepositions: el (toward), min (from/away from).",
+  "type": "verb",
+  "stems": {
+    "qal": "to face, to turn toward",
+    "piel": "to clear away, remove",
+    "hiphil": "to face (something), to cause to change the direction something is facing"
   },
+  "related": [
+    "panim"
+  ],
+  "wordIndexes": {},
   "usage": {},
   "translationConnections": []
 }

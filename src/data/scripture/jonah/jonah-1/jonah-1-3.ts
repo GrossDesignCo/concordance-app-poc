@@ -91,9 +91,9 @@ export const jonah_1_3: Verse = {
     {
       hebrew: 'מִלִּפְנֵי',
       transliteration: 'milLiFney',
-      englishLiteral: 'from-the-face-of',
+      englishLiteral: 'from-faces-of',
       englishNatural: 'from the face of',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['mi', 'li'],
       suffixes: ['ey'],
       order: 5,
@@ -332,9 +332,9 @@ export const jonah_1_3: Verse = {
     {
       hebrew: 'מִלִּפְנֵי',
       transliteration: 'milLiFney',
-      englishLiteral: 'from-the-face-of',
+      englishLiteral: 'from-faces-of',
       englishNatural: 'from the face of',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['mi', 'li'],
       suffixes: ['ey'],
       order: 20,
@@ -366,7 +366,7 @@ export const jonah_1_3: Verse = {
     transliteration:
       'vaYaqam Yonah livroach Tarshishah milLiFney YHWH vaYered Yafo vaYimtza aniyah baah Tarshish vaYitten sekhorah vaYered bah lavo immahhem Tarshishah milLiFney YHWH',
     englishLiteral:
-      'And-stood_up Dove (Jonah), to-flee golden_stone (Tarshish), from-the-face-of He_Who_Is (YHWH), and-went_down Beautiful (Joppa); and-found ship going golden_stone (Tarshish); and-gave fare-her, and-went_down in-her, to-go with-them golden_stone (Tarshish), from-the-face-of He_Who_Is (YHWH).',
+      'And-stood_up Dove (Jonah), to-flee golden_stone (Tarshish), from-faces-of He_Who_Is (YHWH), and-went_down Beautiful (Joppa); and-found ship going golden_stone (Tarshish); and-gave fare-her, and-went_down in-her, to-go with-them golden_stone (Tarshish), from-faces-of He_Who_Is (YHWH).',
     englishNatural:
       'And Dove (Jonah) stood-up, to flee to golden-stone (Tarshish), from the face of He-Who-Is (YHWH), and went-down to Beautiful (Joppa); and he found a ship going to golden-stone (Tarshish); and he paid the fare of it, and went-down into it, to go with them to golden-stone (Tarshish), from the face of He-Who-Is (YHWH).',
     kjv: 'But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.',

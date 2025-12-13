@@ -245,9 +245,9 @@ export const jonah_1_10: Verse = {
     {
       hebrew: 'מִלִּפְנֵי',
       transliteration: 'miLiFney',
-      englishLiteral: 'from-the-face-of',
+      englishLiteral: 'from-faces-of',
       englishNatural: 'from the face of',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['mi', 'li'],
       suffixes: ['ey'],
       order: 14,
@@ -350,10 +350,10 @@ export const jonah_1_10: Verse = {
     transliteration:
       'vaYirau haAnashim yirah gedolah vaYomeru elav mah-zot asita ki-yadu haAnashim ki-miLiFney YHWH hu boreach ki higid lahem',
     englishLiteral:
-      'And-feared the-men fear great, and-said to-him, "What- this you-did?" that- knew the-men, that- from-the-face-of He_Who_Is (YHWH) he fleeing, that he-said to-them.',
+      'And-feared the-men fear great, and-said to-him, "What- this you-did?" that- knew the-men, that- from-faces-of He_Who_Is (YHWH) he fleeing, that he-said to-them.',
     englishNatural:
       'And the men feared a great fear, and said to him, "What is this you have done?" that the men knew, that from the face of He-Who-Is (YHWH) he was fleeing, that he had said to them.',
     kjv: 'Then were the men exceedingly afraid, and said unto him, What is this that thou hast done? For the men knew that he fled from the presence of the LORD, because he had told them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

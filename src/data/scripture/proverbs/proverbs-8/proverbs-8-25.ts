@@ -57,9 +57,9 @@ export const proverbs_8_25: Verse = {
     {
       hebrew: 'לִפְנֵי',
       transliteration: 'lifnei',
-      englishLiteral: 'to-face-of',
-      englishNatural: 'to the-face-of',
-      root: 'peh',
+      englishLiteral: 'to-faces-of',
+      englishNatural: 'to the faces of',
+      root: 'panim',
       prefixes: ['li'],
       order: 4,
       morphology: {
@@ -108,10 +108,10 @@ export const proverbs_8_25: Verse = {
     hebrew: 'בְּטֶרֶם הָרִים הָטְבָּעוּ לִפְנֵי גְבָעוֹת נוֹלָדְתִּי',
     transliteration: 'beTerem harim hotbau lifnei gevaot noladti',
     englishLiteral:
-      'In-before mountains were-sunk, to-face-of hills was-birthed-I.',
+      'In-before mountains were-sunk, to-faces-of hills was-birthed-I.',
     englishNatural:
-      'In before mountains were sunk, to the-face-of hills I was birthed.',
+      'In before mountains were sunk, to the faces of hills I was birthed.',
     kjv: 'Before the mountains were settled, before the hills was I brought forth',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

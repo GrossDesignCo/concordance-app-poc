@@ -197,9 +197,9 @@ export const jonah_1_2: Verse = {
     {
       hebrew: 'לְפָנָי',
       transliteration: 'leFanai',
-      englishLiteral: 'before-my-face',
+      englishLiteral: 'before-my-faces',
       englishNatural: 'before my face',
-      root: 'panah',
+      root: 'panim',
       order: 12,
       morphology: {
         type: 'preposition',
@@ -217,7 +217,7 @@ export const jonah_1_2: Verse = {
     transliteration:
       'qum lekh el-Nineveh haIr haGedolah uQera aleha ki-aletah raatam leFanai',
     englishLiteral:
-      '"Stand_up, go to- Dwelling_of_Fish (Nineveh), the-city, the-great; and-call_out over-her, that- went_up bad-their before-my-face."',
+      '"Stand_up, go to- Dwelling_of_Fish (Nineveh), the-city, the-great; and-call_out over-her, that- went_up bad-their before-my-faces."',
     englishNatural:
       '"Stand-up, go to Dwelling-of-Fish (Nineveh), the city, the great; and call-out over her, that their bad has come up before my face."',
     kjv: 'Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.',

@@ -169,7 +169,7 @@ export const genesis_4_5: Verse = {
       transliteration: 'panav',
       englishLiteral: 'his-faces',
       englishNatural: 'and his faces',
-      root: 'panah',
+      root: 'panim',
       suffixes: ['av'],
       order: {
         hebrew: 11,

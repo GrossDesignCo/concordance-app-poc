@@ -1,15 +1,15 @@
 And-was word-of He_Who_Is (YHWH) to- Dove (Jonah) son-of My_Truth, to-say;
 
 "Stand_up, go to- Dwelling_of_Fish (Nineveh), the-city, the-great; 
-and-call_out over-her, that- went_up bad-their before-my-face."
+and-call_out over-her, that- went_up bad-their before-my-faces."
 
 And-stood_up Dove (Jonah), to-flee golden_stone (Tarshish), 
-from-the-face-of He_Who_Is (YHWH), 
+from-faces-of He_Who_Is (YHWH), 
 and-went_down Beautiful (Joppa); 
 and-found ship going golden_stone (Tarshish); 
 and-gave fare-her, 
 and-went_down in-her, to-go with-them golden_stone (Tarshish), 
-from-the-face-of He_Who_Is (YHWH).
+from-faces-of He_Who_Is (YHWH).
 
 And-He_Who_Is (YHWH) hurled wind- great to- the-sea, 
 and-was tempest- great in-sea, 
@@ -43,7 +43,7 @@ which- made ↳ the-sea and-↳ the-dry_ground."
 
 And-feared the-men fear great, 
 and-said to-him, "What- this you-did?" 
-that- knew the-men, that- from-the-face-of He_Who_Is (YHWH) he fleeing, that he-said to-them.
+that- knew the-men, that- from-faces-of He_Who_Is (YHWH) he fleeing, that he-said to-them.
 
 And-said to-him, "what- shall-be-done to-you 
 and-will-quiet the-sea from-over-us? 

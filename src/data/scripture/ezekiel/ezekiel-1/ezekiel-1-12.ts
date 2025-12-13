@@ -50,9 +50,9 @@ export const ezekiel_1_12: Verse = {
     {
       hebrew: 'פָּנָיו',
       transliteration: 'panav',
-      englishLiteral: 'face-his',
+      englishLiteral: 'faces-his',
       englishNatural: 'his face',
-      root: 'panah',
+      root: 'panim',
       suffixes: ['av'],
       order: 4,
       morphology: {
@@ -250,10 +250,10 @@ export const ezekiel_1_12: Verse = {
     transliteration:
       'veIsh el-ever panav yelekhu el asher yihyeh-shamah haRuach laLekhet yelekhu lo yisabbu beLekhtan',
     englishLiteral:
-      'And-man to- side-of face-his they-went; to which it-was- there the-wind to-go they-went; not they-went-around in-going-their.',
+      'And-man to- side-of faces-his they-went; to which it-was- there the-wind to-go they-went; not they-went-around in-going-their.',
     englishNatural:
       'And man to the side of his face they went; to which the wind to go was there they went; they went-around not in their going.',
     kjv: 'And they went every one straight forward: whither the spirit was to go, they went; and they turned not when they went.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

@@ -17,13 +17,13 @@ In-nothing, abyss, was-birthed-I;
 in-nothing, springs, heavy_with waters.
 
 In-before mountains were-sunk, 
-to-face-of hills was-birthed-I.
+to-faces-of hills was-birthed-I.
 
 Unto not he-had-made land and-outsides, 
 and-head-of dusts-of world.
 
 In-establishing-his skies, there I; 
-in-inscribing-his circle over face-of abyss.
+in-inscribing-his circle over mouth-of abyss.
 
 In-strengtheng-his clouds from-above; 
 in-being_strong fountains-of abyss.

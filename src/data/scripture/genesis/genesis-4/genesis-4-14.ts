@@ -86,9 +86,9 @@ export const genesis_4_14: Verse = {
     {
       hebrew: 'פְּנֵי',
       transliteration: 'peney',
-      englishLiteral: 'face-of',
+      englishLiteral: 'faces-of',
       englishNatural: 'the face of',
-      root: 'panah',
+      root: 'panim',
       suffixes: ['ey'],
       order: 6,
       morphology: {
@@ -122,7 +122,7 @@ export const genesis_4_14: Verse = {
       transliteration: 'umiPanekha',
       englishLiteral: 'and-from-your-faces',
       englishNatural: 'and from your faces',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['u', 'mi'],
       suffixes: ['ekha'],
       order: 8,
@@ -289,7 +289,7 @@ export const genesis_4_14: Verse = {
     transliteration:
       'hen gerashta oti haYom meAl peney haAdamah umiPanekha esater veHayiti na vanad baAretz vehayah kol-motzei yahargeini',
     englishLiteral:
-      'Behold, you-banished ↳-me the-day, from-over face-of the-earth; and-from-your-faces I-will-hide; and-I-will-be wandering and-fugitive in-land; and-it-will-be all- finding-me will-kill-me.',
+      'Behold, you-banished ↳-me the-day, from-over faces-of the-earth; and-from-your-faces I-will-hide; and-I-will-be wandering and-fugitive in-land; and-it-will-be all- finding-me will-kill-me.',
     englishNatural:
       'Behold, you have banished me this day, from over the face of the earth; and from your faces I will be hidden; and I will be wandering and fugitive in the land; and it will be all finding me will kill me."',
     kjv: 'Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.',

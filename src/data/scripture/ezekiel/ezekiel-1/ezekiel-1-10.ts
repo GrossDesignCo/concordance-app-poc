@@ -28,7 +28,7 @@ export const ezekiel_1_10: Verse = {
       transliteration: 'peneihem',
       englishLiteral: 'faces-their',
       englishNatural: 'their faces',
-      root: 'panah',
+      root: 'panim',
       suffixes: ['hem'],
       order: 2,
       morphology: {
@@ -45,9 +45,9 @@ export const ezekiel_1_10: Verse = {
     {
       hebrew: 'פְּנֵי',
       transliteration: 'peney',
-      englishLiteral: 'face-of',
+      englishLiteral: 'faces-of',
       englishNatural: 'the face of',
-      root: 'panah',
+      root: 'panim',
       order: 3,
       morphology: {
         gender: 'masculine',
@@ -77,9 +77,9 @@ export const ezekiel_1_10: Verse = {
     {
       hebrew: 'וּפְנֵי',
       transliteration: 'uFeney',
-      englishLiteral: 'and-face-of',
+      englishLiteral: 'and-faces-of',
       englishNatural: 'and the face of',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['ve'],
       order: 5,
       morphology: {
@@ -150,9 +150,9 @@ export const ezekiel_1_10: Verse = {
     {
       hebrew: 'וּפְנֵי־',
       transliteration: 'uFeney-',
-      englishLiteral: 'and-face-of-',
+      englishLiteral: 'and-faces-of-',
       englishNatural: 'and the face of',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['ve'],
       order: 10,
       morphology: {
@@ -212,9 +212,9 @@ export const ezekiel_1_10: Verse = {
     {
       hebrew: 'וּפְנֵי־',
       transliteration: 'uFeney-',
-      englishLiteral: 'and-face-of-',
+      englishLiteral: 'and-faces-of-',
       englishNatural: 'and the face of',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['ve'],
       order: 14,
       morphology: {
@@ -264,10 +264,10 @@ export const ezekiel_1_10: Verse = {
     transliteration:
       'uDemut peneihem peney Adam uFeney aryeh el-haYamin leArbatam uFeney-shor meHaSmol leArbatan uFeney-nesher leArbatan',
     englishLiteral:
-      'And-likeness-of faces-their: face-of Earth (Adam), and-face-of lion to- the-right to-four-of-them, and-face-of- ox from-the-left to-four-of-them, and-face-of- eagle to-four-of-them.',
+      'And-likeness-of faces-their: faces-of Earth (Adam), and-faces-of lion to- the-right to-four-of-them, and-faces-of- ox from-the-left to-four-of-them, and-faces-of- eagle to-four-of-them.',
     englishNatural:
       'And the likeness of their faces: the face of Earth (Adam), and the face of a lion to the right to four of them, and the face of an ox from the left to four of them, and the face of an eagle to four of them.',
     kjv: 'As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

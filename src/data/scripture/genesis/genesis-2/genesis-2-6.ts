@@ -104,9 +104,9 @@ export const genesis_2_6: Verse = {
     {
       hebrew: 'פְּנֵי',
       transliteration: 'peney',
-      englishLiteral: 'face-of',
+      englishLiteral: 'faces-of',
       englishNatural: 'the face of',
-      root: 'panah',
+      root: 'panim',
       order: 8,
       morphology: {
         type: 'noun',
@@ -136,10 +136,10 @@ export const genesis_2_6: Verse = {
     hebrew: 'וְאֵד יַעֲלֶה מִן־הָאָרֶץ וְהִשְׁקָה אֶת־כָּל־פְּנֵי הָאֲדָמָה׃',
     transliteration: 'veEd yaaleh min-haAretz veHishqah et-kol-peney haAdamah',
     englishLiteral:
-      'And-mist will-go_up from- the-land, and-gave_drink ↳ all- face-of the-earth.',
+      'And-mist will-go_up from- the-land, and-gave_drink ↳ all- faces-of the-earth.',
     englishNatural:
       'And a mist went up from the land, and gave drink to all the face of the earth.',
     kjv: 'But there went up a mist from the earth, and watered the whole face of the ground.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

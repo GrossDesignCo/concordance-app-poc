@@ -137,7 +137,7 @@ export const proverbs_8_30: Verse = {
       transliteration: 'lefanav',
       englishLiteral: 'to-faces-his',
       englishNatural: 'to his faces',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['le'],
       suffixes: ['av'],
       order: 9,

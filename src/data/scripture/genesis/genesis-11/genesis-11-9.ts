@@ -250,8 +250,8 @@ export const genesis_11_9: Verse = {
       hebrew: 'פְּנֵי',
       transliteration: 'peney',
       englishLiteral: 'faces-of',
-      englishNatural: 'the faces of',
-      root: 'panah',
+      englishNatural: 'the face of',
+      root: 'panim',
       order: 17,
       morphology: {
         gender: 'masculine',
@@ -301,8 +301,8 @@ export const genesis_11_9: Verse = {
     englishLiteral:
       'over- so he-called name-of-her Confusion (Babylon), that- there he-confused He_Who_Is (YHWH) lip-of all- the-land, and-from-there he-scattered-them He_Who_Is (YHWH) over- faces-of all- the-land.',
     englishNatural:
-      'So moreover he called the name of it Confusion (Babylon), that there He-Who-Is (YHWH) confused the lip of all the land; and from there He-Who-Is (YHWH) scattered them over the faces of all the land.',
+      'So moreover he called the name of it Confusion (Babylon), that there He-Who-Is (YHWH) confused the lip of all the land; and from there He-Who-Is (YHWH) scattered them over the face of all the land.',
     kjv: 'Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+  },
 };

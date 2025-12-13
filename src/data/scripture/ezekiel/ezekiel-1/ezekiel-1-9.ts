@@ -174,9 +174,9 @@ export const ezekiel_1_9: Verse = {
     {
       hebrew: 'פָּנָיו',
       transliteration: 'panav',
-      englishLiteral: 'face-his',
+      englishLiteral: 'faces-his',
       englishNatural: 'his face',
-      root: 'panah',
+      root: 'panim',
       suffixes: ['av'],
       order: 12,
       morphology: {
@@ -213,10 +213,10 @@ export const ezekiel_1_9: Verse = {
     transliteration:
       'choverot ishah el-achotah kanfeihem lo-yisabbu beLekhtan ish el-ever panav yelekhu',
     englishLiteral:
-      'joining woman to- sister-her wings-their; not- they-went_around in-going-their; man to- side-of face-his they-went.',
+      'joining woman to- sister-her wings-their; not- they-went_around in-going-their; man to- side-of faces-his they-went.',
     englishNatural:
       'Joining woman to her sister their wings; they went-around not in their going; man to the side of his face they went.',
     kjv: 'Their wings were joined one to another; they turned not when they went; they went every one straight forward.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

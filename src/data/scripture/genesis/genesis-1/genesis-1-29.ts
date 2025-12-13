@@ -189,9 +189,9 @@ export const genesis_1_29: Verse = {
     {
       hebrew: 'פְּנֵ֣י',
       transliteration: 'penei',
-      englishLiteral: 'face-of',
+      englishLiteral: 'faces-of',
       englishNatural: 'the face of',
-      root: 'panah',
+      root: 'panim',
       order: 13,
       morphology: {
         gender: 'masculine',
@@ -389,11 +389,15 @@ export const genesis_1_29: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיֹּ֣אמֶר אֱלֹהִ֗ים הִנֵּה֩ נָתַ֨תִּי לָכֶ֜ם אֶת־כָּל־עֵ֣שֶׂב זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙ עַל־פְּנֵ֣י כָל־הָאָ֔רֶץ וְאֶת־כָּל־הָעֵ֗ץ אֲשֶׁר־בּ֤וֹ פְרִֽי־עֵ֣ץ זֹרֵ֣עַ זָ֑רַע לָכֶ֥ם יִֽהְיֶ֖ה לְאָכְלָֽה׃',
-    transliteration: 'vaYomer Elohim hineh natati lakhem et-kol-esev zorea zera asher al-penei kol-haAretz veEt-kol-haEtz asher-bo peri-etz zorea zara lakhem yihyeh leOchlah',
-    englishLiteral: 'And-said Gods, "Behold, I-give to-you ↳ all herb seeding seed, which over face-of all the-land, And-↳ all the-tree which in-it fruit-of tree seeding seed, to-you it-shall-be for-food.',
-    englishNatural: 'And God said, "Behold, I give to you all herb seeding seed, which over the face of all the land, And all the tree which in it is fruit of tree seeding seed, to you it shall be for food.',
+    hebrew:
+      'וַיֹּ֣אמֶר אֱלֹהִ֗ים הִנֵּה֩ נָתַ֨תִּי לָכֶ֜ם אֶת־כָּל־עֵ֣שֶׂב זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙ עַל־פְּנֵ֣י כָל־הָאָ֔רֶץ וְאֶת־כָּל־הָעֵ֗ץ אֲשֶׁר־בּ֤וֹ פְרִֽי־עֵ֣ץ זֹרֵ֣עַ זָ֑רַע לָכֶ֥ם יִֽהְיֶ֖ה לְאָכְלָֽה׃',
+    transliteration:
+      'vaYomer Elohim hineh natati lakhem et-kol-esev zorea zera asher al-penei kol-haAretz veEt-kol-haEtz asher-bo peri-etz zorea zara lakhem yihyeh leOchlah',
+    englishLiteral:
+      'And-said Gods, "Behold, I-give to-you ↳ all herb seeding seed, which over faces-of all the-land, And-↳ all the-tree which in-it fruit-of tree seeding seed, to-you it-shall-be for-food.',
+    englishNatural:
+      'And God said, "Behold, I give to you all herb seeding seed, which over the face of all the land, And all the tree which in it is fruit of tree seeding seed, to you it shall be for food.',
     kjv: 'And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
-}; 
+};

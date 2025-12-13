@@ -156,7 +156,7 @@ export const ezekiel_1_15: Verse = {
       transliteration: 'panav',
       englishLiteral: 'faces-his',
       englishNatural: 'his faces',
-      root: 'panah',
+      root: 'panim',
       suffixes: ['av'],
       order: 10,
       morphology: {
@@ -181,6 +181,6 @@ export const ezekiel_1_15: Verse = {
     englishNatural:
       'And I saw the living-beings, and behold one wheel in the land, beside the living-beings, to four of his faces.',
     kjv: 'Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-11' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

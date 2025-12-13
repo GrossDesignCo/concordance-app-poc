@@ -223,12 +223,15 @@ export const genesis_1_20: Verse = {
     {
       hebrew: 'פְּנֵ֖י',
       transliteration: 'peney',
-      englishLiteral: 'face-of',
+      englishLiteral: 'faces-of',
       englishNatural: 'the face of',
-      root: 'panah',
+      root: 'panim',
       order: 13,
       morphology: {
         type: 'noun',
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
       },
     },
     {
@@ -269,11 +272,15 @@ export const genesis_1_20: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ עַל־פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם׃',
-    transliteration: 'vaYomer Elohim yiShretsu haMayim sherets nephesh chayah veOf yeOfef al-haAretz al-peney raqia haShamayim',
-    englishLiteral: 'And-said Gods, "Let-swarm the-waters swarm throat living, And-flyer let-fly over the-land, over face-of hammering_out, the-skies."',
-    englishNatural: 'And God said, "Let the waters swarm with a swarm, living throat, And let flyer fly over the land, over the face of the hammering-out, the skies."',
+    hebrew:
+      'וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ עַל־פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם׃',
+    transliteration:
+      'vaYomer Elohim yiShretsu haMayim sherets nephesh chayah veOf yeOfef al-haAretz al-peney raqia haShamayim',
+    englishLiteral:
+      'And-said Gods, "Let-swarm the-waters swarm throat living, And-flyer let-fly over the-land, over faces-of hammering_out, the-skies."',
+    englishNatural:
+      'And God said, "Let the waters swarm with a swarm, living throat, And let flyer fly over the land, over the face of the hammering-out, the skies."',
     kjv: 'And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
-}; 
+};

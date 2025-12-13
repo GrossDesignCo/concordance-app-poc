@@ -12,7 +12,7 @@ and the bitumen was to them for mortar.
 And they said, "Come let us build for us a city and a tower 
 and its head in the heavens, 
 and let us make for us a name 
-lest we are scattered over the faces of all the land."
+lest we are scattered over the face of all the land."
 
 And He-Who-Is (YHWH) descended to see the city 
 and the tower which the sons of the Earth (Adam) had built.
@@ -29,7 +29,7 @@ and let us confuse there the lip of them,
 which man will hear not the lip of his companion."
 
 And He-Who-Is (YHWH) scattered them from there 
-over the faces of all the land;
+over the face of all the land;
 and they ceased to build the city. So moreover he called the name of it Confusion (Babylon),
 that there He-Who-Is (YHWH) confused the lip of all the land;
-and from there He-Who-Is (YHWH) scattered them over the faces of all the land. 
+and from there He-Who-Is (YHWH) scattered them over the face of all the land. 

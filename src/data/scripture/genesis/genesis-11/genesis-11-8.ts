@@ -89,8 +89,8 @@ export const genesis_11_8: Verse = {
       hebrew: 'פְּנֵי',
       transliteration: 'peney',
       englishLiteral: 'faces-of',
-      englishNatural: 'the faces of',
-      root: 'panah',
+      englishNatural: 'the face of',
+      root: 'panim',
       order: 6,
       morphology: {
         gender: 'masculine',
@@ -191,8 +191,8 @@ export const genesis_11_8: Verse = {
     englishLiteral:
       'And-he-scattered He_Who_Is (YHWH) ↳ them from-there over- faces-of all- the-land, and-they-ceased to-build the-city.',
     englishNatural:
-      'And He-Who-Is (YHWH) scattered them from there over the faces of all the land; and they ceased to build the city.',
+      'And He-Who-Is (YHWH) scattered them from there over the face of all the land; and they ceased to build the city.',
     kjv: 'So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+  },
 };

@@ -56,9 +56,9 @@ export const genesis_4_16: Verse = {
     {
       hebrew: 'מִלִּפְנֵי',
       transliteration: 'miliPhney',
-      englishLiteral: 'from-face-of',
+      englishLiteral: 'from-faces-of',
       englishNatural: 'from the face of',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['mi', 'li'],
       order: {
         hebrew: 3,
@@ -190,7 +190,7 @@ export const genesis_4_16: Verse = {
     transliteration:
       'vayYetze Qayin miliPhney YHWH vayYeshev beEretz-Nod qidmat-Eden',
     englishLiteral:
-      'And-he-went-out Acquired (Cain), from-face-of He_Who_Is (YHWH); and-he-dwelt in-land- Wandering, east- Delight.',
+      'And-he-went-out Acquired (Cain), from-faces-of He_Who_Is (YHWH); and-he-dwelt in-land- Wandering, east- Delight.',
     englishNatural:
       'Acquired (Cain) went out, from the face of He-Who-Is (YHWH); and dwelt in the land of Wandering, east of Delight.',
     kjv: 'And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.',

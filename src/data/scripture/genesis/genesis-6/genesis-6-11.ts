@@ -53,9 +53,9 @@ export const genesis_6_11: Verse = {
     {
       hebrew: 'לִפְנֵי',
       transliteration: 'liFney',
-      englishLiteral: 'to-face-of',
+      englishLiteral: 'to-faces-of',
       englishNatural: 'to the face of',
-      root: 'panah',
+      root: 'panim',
       prefixes: ['le'],
       order: 3,
       morphology: {
@@ -145,7 +145,7 @@ export const genesis_6_11: Verse = {
     transliteration:
       'vatTishachet haAretz liFney haElohim vatTimale haAretz chamas',
     englishLiteral:
-      'And-it-corrupted the-land to-face-of the-Gods, and-it-filled the-land violence.',
+      'And-it-corrupted the-land to-faces-of the-Gods, and-it-filled the-land violence.',
     englishNatural:
       'And the land corrupted to the face of God, and the land filled-with violence.',
     kjv: 'The earth also was corrupt before God, and the earth was filled with violence.',
