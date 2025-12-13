@@ -112,9 +112,9 @@ export const proverbs_8_27: Verse = {
     {
       hebrew: 'פְּנֵי',
       transliteration: 'penei',
-      englishLiteral: 'mouth-of',
-      englishNatural: 'the mouth of',
-      root: 'peh',
+      englishLiteral: 'faces-of',
+      englishNatural: 'the face of',
+      root: 'panim',
       order: 8,
       morphology: {
         gender: 'masculine',
@@ -145,9 +145,9 @@ export const proverbs_8_27: Verse = {
     hebrew: 'בַּהֲכִינוֹ שָׁמַיִם שָׁם אָנִי בְּחוּקוֹ חוּג עַל־פְּנֵי תְהוֹם',
     transliteration: 'baHakhino shamayim sham ani beChuqo chug al penei tehom',
     englishLiteral:
-      'In-establishing-his skies, there I; in-inscribing-his circle over mouth-of abyss.',
+      'In-establishing-his skies, there I; in-inscribing-his circle over faces-of abyss.',
     englishNatural:
-      'In his establishing skies, there I; in his inscribing a circle over the mouth of the abyss.',
+      'In his establishing skies, there I; in his inscribing a circle over the face of the abyss.',
     kjv: 'When he prepared the heavens, I was there: when he set a compass upon the face of the depth',
     lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },

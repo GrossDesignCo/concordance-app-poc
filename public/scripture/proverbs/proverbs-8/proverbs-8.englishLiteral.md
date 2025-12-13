@@ -23,7 +23,7 @@ Unto not he-had-made land and-outsides,
 and-head-of dusts-of world.
 
 In-establishing-his skies, there I; 
-in-inscribing-his circle over mouth-of abyss.
+in-inscribing-his circle over faces-of abyss.
 
 In-strengtheng-his clouds from-above; 
 in-being_strong fountains-of abyss.
