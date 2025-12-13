@@ -19,7 +19,7 @@ in nothing, springs, heavy-with waters.
 In before mountains were sunk, 
 to the-face-of hills I was birthed.
 
-Until he had made not land and outsides, 
+Unto he had made not land and outsides, 
 and the head of dusts of the world.
 
 In his establishing skies, there I; 

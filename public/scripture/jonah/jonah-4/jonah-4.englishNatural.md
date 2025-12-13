@@ -3,7 +3,7 @@ And it was bad to Dove (Jonah), a great bad;
 and it fumed angrily to him.
 
 And he prayed to He-Who-Is (YHWH) and said, 
-"Please He-Who-Is (YHWH), was not this my word until I was over my earth? 
+"Please He-Who-Is (YHWH), was not this my word unto I was over my earth? 
 So moreover I preceded to flee to golden-stone (Tarshish), 
 that I knew that you are God gracious and compassionate, 
 long of nostrils and great of steadfast-love 
@@ -37,7 +37,7 @@ and he asked his throat to die,
 and he said, "Good-is my death from my life."
 
 And God said to Dove (Jonah), "Is the doing-well fuming-angrily to you, over the luscious-plant?" 
-And he said, "Doing-well is fuming-angrily to me, until death."
+And he said, "Doing-well is fuming-angrily to me, unto death."
 
 And He-Who-Is (YHWH) said, "You pitied over the luscious-plant, 
 which you labored in it not, and you grew it not, 

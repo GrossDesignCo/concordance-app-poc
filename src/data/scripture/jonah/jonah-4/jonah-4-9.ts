@@ -227,8 +227,8 @@ export const jonah_4_9: Verse = {
     {
       hebrew: 'עַד־',
       transliteration: 'ad-',
-      englishLiteral: 'until-',
-      englishNatural: 'until',
+      englishLiteral: 'unto-',
+      englishNatural: 'unto',
       root: 'ad',
       order: 14,
       morphology: {
@@ -260,10 +260,10 @@ export const jonah_4_9: Verse = {
     transliteration:
       'vaYomer Elohim el-Yonah haHeitiv charah lekha al-haQiqayon vaYomer heitiv charah-li ad-mavet',
     englishLiteral:
-      'And-said Gods to- Dove (Jonah), "the-doing_well fuming_angrily to-you, over- the-luscious_plant?" And-said, "doing_well fuming_angrily- to-me, until- death."',
+      'And-said Gods to- Dove (Jonah), "the-doing_well fuming_angrily to-you, over- the-luscious_plant?" And-said, "doing_well fuming_angrily- to-me, unto- death."',
     englishNatural:
-      'And God said to Dove (Jonah), "Is the doing-well fuming-angrily to you, over the luscious-plant?" And he said, "Doing-well is fuming-angrily to me, until death."',
+      'And God said to Dove (Jonah), "Is the doing-well fuming-angrily to you, over the luscious-plant?" And he said, "Doing-well is fuming-angrily to me, unto death."',
     kjv: 'And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
   },
 };

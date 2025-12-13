@@ -7,7 +7,7 @@ And-came the-people to Draws_Out (Moses)
 and-they-said, "we-have-sinned, that we-have-spoken against-He_Who_Is (YHWH) 
 and-against-you, pray to He_Who_Is (YHWH), 
 and-may-he-turn_aside from-over-us ↳ the-snake." 
-And-prayed Draws_Out (Moses) on-behalf-of the-people.
+And-prayed Draws_Out (Moses) in-unto the-people.
 
 And-said He_Who_Is (YHWH) to Draws_Out (Moses), 
 "Make for-yourself burning_one, 

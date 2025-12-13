@@ -3,7 +3,7 @@ And-was-bad to- Dove (Jonah), bad great;
 and-fumed_angrily to-him.
 
 And-prayed to- He_Who_Is (YHWH) and-said, 
-"please He_Who_Is (YHWH), is-not- this word-my until- being-my over- earth-my? 
+"please He_Who_Is (YHWH), is-not- this word-my unto- being-my over- earth-my? 
 over- so I-preceded to-flee golden_stone (Tarshish), 
 that I-knew that- you God- gracious and-compassionate, 
 long nostrils and-great- steadfast_love 
@@ -36,7 +36,7 @@ and-asked ↳ throat-his to-die,
 and-said, "good death-my from-lives-my."
 
 And-said Gods to- Dove (Jonah), "the-doing_well fuming_angrily to-you, over- the-luscious_plant?" 
-And-said, "doing_well fuming_angrily- to-me, until- death."
+And-said, "doing_well fuming_angrily- to-me, unto- death."
 
 And-said He_Who_Is (YHWH), "you pitied over- the-luscious_plant, 
 which not- you-labored in-it and-not you-grew-it, 

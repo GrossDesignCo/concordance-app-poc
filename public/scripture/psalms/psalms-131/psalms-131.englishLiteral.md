@@ -11,4 +11,4 @@ as-weaned-one upon his-mother,
 as-weaned-one upon my-throat.
 
 Hope, Struggles_with_God (Israel) to- He_Who_Is (YHWH),
-from-now and-on_behalf_of- the_age. 
+from-now and-unto- the_age. 

@@ -556,9 +556,9 @@ const ROOTS = {
   ad: {
     hebrew: 'עד',
     transliteration: 'ad',
-    englishLiteral: 'on_behalf_of',
-    englishNatural: 'on-behalf-of',
-    description: 'can also mean: as far as, through, until',
+    englishLiteral: 'until',
+    englishNatural: 'until',
+    description: 'can also mean: as far as, on behalf of, through, until',
     type: 'preposition',
   },
   moshe: {

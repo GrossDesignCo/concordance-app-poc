@@ -7,7 +7,7 @@ And the people came to Draws-Out (Moses)
 and said, "We have sinned, that we have spoken against He-Who-Is (YHWH) 
 and against you; pray to He-Who-Is (YHWH), 
 and may he turn-aside the snake from over us." 
-And Draws-Out (Moses) prayed on behalf of the people.
+And Draws-Out (Moses) prayed in unto the people.
 
 And He-Who-Is (YHWH) said to Draws-Out (Moses), 
 "Make for yourself a burning-one, 
