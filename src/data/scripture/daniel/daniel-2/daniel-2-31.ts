@@ -291,7 +291,7 @@ export const daniel_2_31: Verse = {
       transliteration: 'nora',
       englishLiteral: 'fearsome',
       englishNatural: 'fearsome',
-      root: 'yare',
+      root: 'nora',
       order: 19,
       morphology: {
         type: 'adjective',
@@ -314,5 +314,5 @@ export const daniel_2_31: Verse = {
       'You the king, were seeing and behold, an image one great the-image the-image this great great its image great standing opposite you and its appearance fearsome.',
     kjv: 'Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof was terrible.',
     lastReviewed: { name: 'Matt Gross', date: '2025-12-15' },
-},
+  },
 };

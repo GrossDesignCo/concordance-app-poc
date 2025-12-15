@@ -2,12 +2,12 @@
   "key": "mora",
   "hebrew": "מורא",
   "transliteration": "mora",
-  "englishLiteral": "fear",
-  "englishNatural": "fear",
+  "englishLiteral": "awe",
+  "englishNatural": "awe",
   "type": "noun",
-  "description": "fear, terror, awe, reverence",
+  "description": "awe, terror, fear, reverence, distinct from the adjective nora (fearsome)",
   "related": [
-    "yare"
+    "yirah"
   ],
   "wordIndexes": {
     "genesis": {

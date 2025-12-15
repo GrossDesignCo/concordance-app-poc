@@ -3,7 +3,7 @@ And God blessed Rest (Noah) and his sons;
 and said to them, 
 "Be-fruitful and multiply and fill the land.
 
-And your fear and your dread will be over all the living of the land
+And your awe and your dread will be over all the living of the land
 and over all the flyer of the skies,
 in all which creeps the soil
 and in all fish of the sea;

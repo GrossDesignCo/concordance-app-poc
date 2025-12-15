@@ -2297,6 +2297,7 @@ const ROOTS = {
     englishNatural: 'to fear',
     type: 'verb',
     description: 'to fear, be afraid, revere, awesome',
+    related: ['yirah', 'nora', 'mora'] as const,
   },
   yirah: {
     hebrew: 'יִרְאָה',
@@ -6028,11 +6029,11 @@ const ROOTS = {
   nora: {
     hebrew: 'נורא',
     transliteration: 'nora',
-    englishLiteral: 'fearful',
-    englishNatural: 'fearful',
+    englishLiteral: 'fearsome',
+    englishNatural: 'fearsome',
     type: 'adjective',
     description: 'fearful, awesome, terrible, to be feared',
-    related: ['yirah'],
+    related: ['yare', 'yirah'] as const,
   },
   natah: {
     hebrew: 'נטה',
@@ -6427,11 +6428,12 @@ const ROOTS = {
   mora: {
     hebrew: 'מורא',
     transliteration: 'mora',
-    englishLiteral: 'fear',
-    englishNatural: 'fear',
+    englishLiteral: 'awe',
+    englishNatural: 'awe',
     type: 'noun',
-    description: 'fear, terror, awe, reverence',
-    related: ['yare'],
+    description:
+      'awe, terror, fear, reverence, distinct from the adjective nora (fearsome)',
+    related: ['yirah'] as const,
   },
   chittah: {
     hebrew: 'חתה',

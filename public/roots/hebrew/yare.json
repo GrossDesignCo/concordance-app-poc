@@ -6,14 +6,12 @@
   "englishNatural": "to fear",
   "type": "verb",
   "description": "to fear, be afraid, revere, awesome",
+  "related": [
+    "yirah",
+    "nora",
+    "mora"
+  ],
   "wordIndexes": {
-    "daniel": {
-      "2": {
-        "31": [
-          18
-        ]
-      }
-    },
     "genesis": {
       "3": {
         "10": [

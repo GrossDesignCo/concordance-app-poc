@@ -10,8 +10,8 @@ export const genesis_9_2: Verse = {
     {
       hebrew: 'וּמוֹרַאֲכֶם',
       transliteration: 'uMorakhem',
-      englishLiteral: 'And-fear-your',
-      englishNatural: 'And your fear',
+      englishLiteral: 'And-awe-your',
+      englishNatural: 'And your awe',
       root: 'mora',
       prefixes: ['u'],
       suffixes: ['khem'],
@@ -305,10 +305,10 @@ export const genesis_9_2: Verse = {
     transliteration:
       'uMorakhem veChitkhem yihyeh al kol-chayat haAretz veAl kol-of haShamayim beKhol asher tirmos haAdamah uVekhol-degei haYam beYedkhem nitanu',
     englishLiteral:
-      'And-fear-your and-dread-your will-be over all- living-of the-land and-over all- flyer-of the-skies, in-all which it-creeps the-soil and-in-all- fish-of the-sea; in-hand-your they-are-given.',
+      'And-awe-your and-dread-your will-be over all- living-of the-land and-over all- flyer-of the-skies, in-all which it-creeps the-soil and-in-all- fish-of the-sea; in-hand-your they-are-given.',
     englishNatural:
-      'And your fear and your dread will be over all the living of the land and over all the flyer of the skies, in all which creeps the soil and in all fish of the sea; in your hand they are given.',
+      'And your awe and your dread will be over all the living of the land and over all the flyer of the skies, in all which creeps the soil and in all fish of the sea; in your hand they are given.',
     kjv: 'And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-15' },
+  },
 };

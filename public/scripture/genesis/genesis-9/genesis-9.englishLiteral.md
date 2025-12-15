@@ -3,7 +3,7 @@ And-blessed Gods ↳ Rest (Noah) and-↳ his-sons;
 and-said to-them, 
 "Be_fruitful and-multiply and-fill ↳ the-land.
 
-And-fear-your and-dread-your will-be over all- living-of the-land
+And-awe-your and-dread-your will-be over all- living-of the-land
 and-over all- flyer-of the-skies,
 in-all which it-creeps the-soil
 and-in-all- fish-of the-sea;
