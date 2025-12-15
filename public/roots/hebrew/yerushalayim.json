@@ -1,0 +1,20 @@
+{
+  "key": "yerushalayim",
+  "hebrew": "ירושלם",
+  "transliteration": "Yerushalayim",
+  "englishLiteral": "Foundation_of_Peace (Jerusalem)",
+  "englishNatural": "Foundation-of-Peace (Jerusalem)",
+  "type": "noun",
+  "description": "Jerusalem; city of David, capital of Judah; name means \"foundation of peace\"",
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "1": [
+          10
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

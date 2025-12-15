@@ -7,6 +7,14 @@
   "type": "particle",
   "description": "there is, there are, exists",
   "wordIndexes": {
+    "daniel": {
+      "2": {
+        "30": [
+          3,
+          16
+        ]
+      }
+    },
     "jonah": {
       "4": {
         "11": [

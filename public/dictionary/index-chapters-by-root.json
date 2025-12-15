@@ -31,6 +31,9 @@
     ]
   },
   "eloah": {
+    "daniel": [
+      1
+    ],
     "exodus": [
       3
     ],
@@ -90,6 +93,10 @@
     ]
   },
   "hayah": {
+    "daniel": [
+      1,
+      2
+    ],
     "ezekiel": [
       1
     ],
@@ -129,6 +136,9 @@
     ]
   },
   "eretz": {
+    "daniel": [
+      1
+    ],
     "ezekiel": [
       1
     ],
@@ -360,6 +370,9 @@
     ]
   },
   "raah": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       1
     ],
@@ -434,6 +447,10 @@
     ]
   },
   "kol": {
+    "daniel": [
+      1,
+      2
+    ],
     "genesis": [
       1,
       2,
@@ -565,6 +582,10 @@
     ]
   },
   "asher": {
+    "daniel": [
+      1,
+      2
+    ],
     "exodus": [
       3
     ],
@@ -642,6 +663,9 @@
     ]
   },
   "el": {
+    "daniel": [
+      1
+    ],
     "exodus": [
       3,
       34
@@ -690,6 +714,9 @@
     ]
   },
   "ki": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       1
     ],
@@ -730,6 +757,9 @@
     ]
   },
   "lo": {
+    "daniel": [
+      2
+    ],
     "exodus": [
       34
     ],
@@ -792,6 +822,9 @@
     ]
   },
   "min": {
+    "daniel": [
+      1
+    ],
     "ezekiel": [
       1
     ],
@@ -858,6 +891,9 @@
     ]
   },
   "be": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       2
     ],
@@ -954,6 +990,9 @@
     ]
   },
   "bo": {
+    "daniel": [
+      1
+    ],
     "ezekiel": [
       1,
       2
@@ -1021,6 +1060,9 @@
     ]
   },
   "ad": {
+    "daniel": [
+      1
+    ],
     "genesis": [
       3,
       6,
@@ -1050,6 +1092,9 @@
     ]
   },
   "atah": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       3,
       4,
@@ -1098,6 +1143,9 @@
     ]
   },
   "im": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       4,
       15
@@ -1210,6 +1258,9 @@
     ]
   },
   "et": {
+    "daniel": [
+      1
+    ],
     "ezekiel": [
       1,
       2
@@ -1256,6 +1307,10 @@
     ]
   },
   "al": {
+    "daniel": [
+      1,
+      2
+    ],
     "exodus": [
       34
     ],
@@ -1420,6 +1475,10 @@
     ]
   },
   "echad": {
+    "daniel": [
+      1,
+      2
+    ],
     "ezekiel": [
       1
     ],
@@ -1466,6 +1525,9 @@
     ]
   },
   "yad": {
+    "daniel": [
+      1
+    ],
     "ezekiel": [
       1
     ],
@@ -1770,6 +1832,9 @@
     ]
   },
   "zeh": {
+    "daniel": [
+      2
+    ],
     "exodus": [
       3
     ],
@@ -1808,6 +1873,9 @@
     ]
   },
   "shanah": {
+    "daniel": [
+      1
+    ],
     "ezekiel": [
       1
     ],
@@ -1833,6 +1901,9 @@
     ]
   },
   "gadol": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       1
     ],
@@ -1877,6 +1948,9 @@
     ]
   },
   "natan": {
+    "daniel": [
+      1
+    ],
     "genesis": [
       1,
       3,
@@ -2028,6 +2102,9 @@
     ]
   },
   "tselem": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       1,
       5,
@@ -2138,6 +2215,9 @@
     ]
   },
   "amad": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       1,
       2
@@ -2249,6 +2329,9 @@
     ]
   },
   "alah": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       2,
       8
@@ -2483,6 +2566,9 @@
     ]
   },
   "babel": {
+    "daniel": [
+      1
+    ],
     "genesis": [
       10,
       11
@@ -2507,6 +2593,9 @@
     ]
   },
   "shinar": {
+    "daniel": [
+      1
+    ],
     "genesis": [
       10,
       11
@@ -2560,6 +2649,9 @@
     ]
   },
   "matza": {
+    "daniel": [
+      1
+    ],
     "genesis": [
       2,
       4
@@ -2693,6 +2785,10 @@
     ]
   },
   "melekh": {
+    "daniel": [
+      1,
+      2
+    ],
     "ezekiel": [
       1
     ],
@@ -2800,6 +2896,9 @@
     ]
   },
   "bayit": {
+    "daniel": [
+      1
+    ],
     "ezekiel": [
       1
     ],
@@ -2844,6 +2943,9 @@
     ]
   },
   "li": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       4
     ],
@@ -2907,6 +3009,9 @@
     ]
   },
   "yada": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       3,
       4,
@@ -3040,6 +3145,9 @@
     ]
   },
   "yare": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       3,
       15
@@ -3074,6 +3182,9 @@
     ]
   },
   "nagad": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       3
     ],
@@ -3105,6 +3216,9 @@
     ]
   },
   "mah": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       3,
       4,
@@ -3144,6 +3258,9 @@
     ]
   },
   "chayyim": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       3
     ],
@@ -3172,6 +3289,9 @@
     ]
   },
   "rabah": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       1,
       3,
@@ -3843,6 +3963,10 @@
     ]
   },
   "chokmah": {
+    "daniel": [
+      1,
+      2
+    ],
     "proverbs": [
       1,
       8
@@ -3859,6 +3983,9 @@
     ]
   },
   "binah": {
+    "daniel": [
+      1
+    ],
     "proverbs": [
       1
     ]
@@ -3927,6 +4054,9 @@
     ]
   },
   "davar": {
+    "daniel": [
+      1
+    ],
     "ezekiel": [
       1
     ],
@@ -4105,6 +4235,9 @@
     ]
   },
   "ani": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       1
     ],
@@ -4348,6 +4481,9 @@
     ]
   },
   "achar": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       5,
       6,
@@ -4390,6 +4526,9 @@
     ]
   },
   "shalosh": {
+    "daniel": [
+      1
+    ],
     "ezekiel": [
       1
     ],
@@ -4666,6 +4805,9 @@
     ]
   },
   "keli": {
+    "daniel": [
+      1
+    ],
     "jonah": [
       1
     ]
@@ -5209,6 +5351,9 @@
     ]
   },
   "yesh": {
+    "daniel": [
+      2
+    ],
     "jonah": [
       4
     ]
@@ -5510,6 +5655,9 @@
     ]
   },
   "hineh": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       1
     ],
@@ -5838,6 +5986,9 @@
     ]
   },
   "asar": {
+    "daniel": [
+      1
+    ],
     "genesis": [
       7
     ]
@@ -6112,6 +6263,9 @@
     ]
   },
   "adonai": {
+    "daniel": [
+      1
+    ],
     "genesis": [
       15
     ]
@@ -6309,6 +6463,91 @@
   "yayin": {
     "genesis": [
       14
+    ]
+  },
+  "malkhut": {
+    "daniel": [
+      1
+    ]
+  },
+  "yehoyakim": {
+    "daniel": [
+      1
+    ]
+  },
+  "yehudah": {
+    "daniel": [
+      1
+    ]
+  },
+  "nevukhadnetzar": {
+    "daniel": [
+      1
+    ]
+  },
+  "yerushalayim": {
+    "daniel": [
+      1
+    ]
+  },
+  "tsur": {
+    "daniel": [
+      1
+    ]
+  },
+  "otzar": {
+    "daniel": [
+      1
+    ]
+  },
+  "miktsat": {
+    "daniel": [
+      1
+    ]
+  },
+  "daniel": {
+    "daniel": [
+      1
+    ]
+  },
+  "chartom": {
+    "daniel": [
+      1
+    ]
+  },
+  "ashshaf": {
+    "daniel": [
+      1
+    ]
+  },
+  "baqash": {
+    "daniel": [
+      1
+    ]
+  },
+  "koresh": {
+    "daniel": [
+      1
+    ]
+  },
+  "galah": {
+    "daniel": [
+      2
+    ]
+  },
+  "raz": {
+    "daniel": [
+      2
+    ]
+  },
+  "shakhav": {
+    "daniel": [
+      2
+    ]
+  },
+  "raavon": {
+    "daniel": [
+      2
     ]
   },
   "en": {

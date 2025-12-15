@@ -9,6 +9,7 @@ import { ezekiel } from './ezekiel';
 import { jonah } from './jonah';
 import { revelation } from './revelation';
 import { matthew } from './matthew';
+import { daniel } from './daniel';
 
 export const scripture = {
   books: [
@@ -19,6 +20,7 @@ export const scripture = {
     psalms,
     isaiah,
     ezekiel,
+    daniel,
     jonah,
     matthew,
     john,

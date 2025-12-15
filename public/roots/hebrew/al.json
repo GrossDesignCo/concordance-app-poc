@@ -7,6 +7,25 @@
   "description": "over, upon, above, on, upon, above, on top of, on the top of",
   "type": "preposition",
   "wordIndexes": {
+    "daniel": {
+      "1": {
+        "1": [
+          12
+        ],
+        "20": [
+          11
+        ]
+      },
+      "2": {
+        "29": [
+          2
+        ],
+        "30": [
+          13,
+          21
+        ]
+      }
+    },
     "exodus": {
       "34": {
         "6": [

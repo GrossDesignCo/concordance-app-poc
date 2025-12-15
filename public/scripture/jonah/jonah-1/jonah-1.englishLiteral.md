@@ -43,7 +43,7 @@ which- made ↳ the-sea and-↳ the-dry_ground."
 
 And-feared the-men fear great, 
 and-said to-him, "What- this you-did?" 
-that- knew the-men, that- from-faces-of He_Who_Is (YHWH) he fleeing, that he-said to-them.
+that- knew the-men, that- from-faces-of He_Who_Is (YHWH) he fleeing, that he-declared to-them.
 
 And-said to-him, "what- shall-be-done to-you 
 and-will-quiet the-sea from-over-us? 

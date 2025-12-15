@@ -1,0 +1,20 @@
+{
+  "key": "raavon",
+  "hebrew": "רעיון",
+  "transliteration": "raavon",
+  "englishLiteral": "thought",
+  "englishNatural": "thought",
+  "type": "noun",
+  "description": "thought, idea, conception, imagination",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "29": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

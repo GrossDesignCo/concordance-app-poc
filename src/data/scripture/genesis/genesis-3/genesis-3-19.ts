@@ -270,10 +270,10 @@ export const genesis_3_19: Verse = {
     transliteration:
       'beZeat apeikha toKhal lechem ad shuvkha el-haAdamah ki mimenah luqachta ki-afar atah veEl-afar taShuv',
     englishLiteral:
-      'In-sweat_of your-face, you-will-eat bread, until your-return to the-earth; that from-her you-were-taken, that dust you, and-to dust you-will-return."',
+      'In-sweat_of your-faces, you-will-eat bread, until your-return to the-earth; that from-her you-were-taken, that dust you, and-to dust you-will-return."',
     englishNatural:
       'In sweat of your face, you will eat bread, until your return to the earth; that from it you were taken, that dust are you, and to dust you will return."',
     kjv: 'In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-15' },
   },
 };

@@ -402,6 +402,22 @@
       ]
     }
   },
+  "DANIEL": {
+    "name": "Daniel",
+    "chapters": {
+      "1": [
+        1,
+        2,
+        20,
+        21
+      ],
+      "2": [
+        29,
+        30,
+        31
+      ]
+    }
+  },
   "JONAH": {
     "name": "Jonah",
     "chapters": {

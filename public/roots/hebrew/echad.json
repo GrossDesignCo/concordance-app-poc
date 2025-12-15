@@ -6,6 +6,18 @@
   "englishNatural": "one",
   "type": "numeral",
   "wordIndexes": {
+    "daniel": {
+      "1": {
+        "21": [
+          4
+        ]
+      },
+      "2": {
+        "31": [
+          6
+        ]
+      }
+    },
     "ezekiel": {
       "1": {
         "6": [

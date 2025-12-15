@@ -1,0 +1,23 @@
+{
+  "key": "yehudah",
+  "hebrew": "יהודה",
+  "transliteration": "Yehudah",
+  "englishLiteral": "Praise (Judah)",
+  "englishNatural": "Praise (Judah)",
+  "type": "noun",
+  "description": "Judah; son of Jacob, tribe of Judah, kingdom of Judah; name means \"praise\"",
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "1": [
+          5
+        ],
+        "2": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,27 @@
+{
+  "key": "malkhut",
+  "hebrew": "מלכות",
+  "transliteration": "malkhut",
+  "englishLiteral": "kingdom",
+  "englishNatural": "kingdom",
+  "type": "noun",
+  "description": "kingdom, reign, dominion, royal power",
+  "related": [
+    "melekh",
+    "mamlakah"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "1": [
+          2
+        ],
+        "20": [
+          17
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "koresh",
+  "hebrew": "כורש",
+  "transliteration": "Koresh",
+  "englishLiteral": "Cyrus",
+  "englishNatural": "Cyrus",
+  "type": "noun",
+  "description": "Cyrus; king of Persia who allowed the Jews to return to Jerusalem",
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "21": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

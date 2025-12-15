@@ -1,0 +1,20 @@
+{
+  "key": "otzar",
+  "hebrew": "אוצר",
+  "transliteration": "otzar",
+  "englishLiteral": "treasure",
+  "englishNatural": "treasure",
+  "type": "noun",
+  "description": "treasure, treasury, storehouse, repository",
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "2": [
+          22
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

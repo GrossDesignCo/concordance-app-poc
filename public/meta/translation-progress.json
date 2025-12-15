@@ -27001,8 +27001,8 @@
         "1": {
           "chapterNumber": 1,
           "verses": {
-            "1": false,
-            "2": false,
+            "1": true,
+            "2": true,
             "3": false,
             "4": false,
             "5": false,
@@ -27020,10 +27020,10 @@
             "17": false,
             "18": false,
             "19": false,
-            "20": false,
-            "21": false
+            "20": true,
+            "21": true
           },
-          "progress": 0
+          "progress": 19.047619047619047
         },
         "2": {
           "chapterNumber": 2,
@@ -27056,9 +27056,9 @@
             "26": false,
             "27": false,
             "28": false,
-            "29": false,
-            "30": false,
-            "31": false,
+            "29": true,
+            "30": true,
+            "31": true,
             "32": false,
             "33": false,
             "34": false,
@@ -27078,7 +27078,7 @@
             "48": false,
             "49": false
           },
-          "progress": 0
+          "progress": 6.122448979591836
         },
         "3": {
           "chapterNumber": 3,
@@ -27428,7 +27428,7 @@
           "progress": 0
         }
       },
-      "progress": 0
+      "progress": 1.9607843137254901
     },
     "HOSEA": {
       "bookName": "Hosea",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.1863807349773334
+  "totalProgress": 1.2088866025785294
 }

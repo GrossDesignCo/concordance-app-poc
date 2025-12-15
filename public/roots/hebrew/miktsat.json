@@ -1,0 +1,20 @@
+{
+  "key": "miktsat",
+  "hebrew": "מקצת",
+  "transliteration": "miktsat",
+  "englishLiteral": "part",
+  "englishNatural": "part",
+  "type": "noun",
+  "description": "part, portion, some, a portion of",
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "2": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

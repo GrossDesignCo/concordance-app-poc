@@ -1,0 +1,23 @@
+{
+  "key": "yehoyakim",
+  "hebrew": "יהויקים",
+  "transliteration": "Yehoyakim",
+  "englishLiteral": "YHWH_Will_Establish (Jehoiakim)",
+  "englishNatural": "YHWH-Will-Establish (Jehoiakim)",
+  "type": "noun",
+  "description": "Jehoiakim; king of Judah, name means \"YHWH will establish\"",
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "1": [
+          3
+        ],
+        "2": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

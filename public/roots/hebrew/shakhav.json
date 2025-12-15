@@ -1,0 +1,20 @@
+{
+  "key": "shakhav",
+  "hebrew": "שכב",
+  "transliteration": "shakhav",
+  "englishLiteral": "to lie",
+  "englishNatural": "to lie",
+  "type": "verb",
+  "description": "to lie down, rest, sleep; bed (noun form)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "29": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

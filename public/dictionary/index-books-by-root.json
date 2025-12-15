@@ -10,6 +10,7 @@
     "genesis"
   ],
   "eloah": [
+    "daniel",
     "exodus",
     "ezekiel",
     "genesis",
@@ -24,6 +25,7 @@
     "numbers"
   ],
   "hayah": [
+    "daniel",
     "ezekiel",
     "genesis",
     "jonah",
@@ -35,6 +37,7 @@
     "genesis"
   ],
   "eretz": [
+    "daniel",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -123,6 +126,7 @@
     "proverbs"
   ],
   "raah": [
+    "daniel",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -152,6 +156,7 @@
     "numbers"
   ],
   "kol": [
+    "daniel",
     "genesis",
     "isaiah",
     "jonah",
@@ -191,6 +196,7 @@
     "psalms"
   ],
   "asher": [
+    "daniel",
     "exodus",
     "ezekiel",
     "genesis",
@@ -208,6 +214,7 @@
     "psalms"
   ],
   "el": [
+    "daniel",
     "exodus",
     "ezekiel",
     "genesis",
@@ -221,6 +228,7 @@
     "genesis"
   ],
   "ki": [
+    "daniel",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -232,6 +240,7 @@
     "genesis"
   ],
   "lo": [
+    "daniel",
     "exodus",
     "ezekiel",
     "genesis",
@@ -254,6 +263,7 @@
     "psalms"
   ],
   "min": [
+    "daniel",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -276,6 +286,7 @@
     "jonah"
   ],
   "be": [
+    "daniel",
     "ezekiel",
     "genesis",
     "jonah"
@@ -315,6 +326,7 @@
     "psalms"
   ],
   "bo": [
+    "daniel",
     "ezekiel",
     "genesis",
     "jonah",
@@ -341,6 +353,7 @@
     "numbers"
   ],
   "ad": [
+    "daniel",
     "genesis",
     "jonah",
     "numbers",
@@ -352,6 +365,7 @@
     "numbers"
   ],
   "atah": [
+    "daniel",
     "genesis",
     "jonah",
     "numbers",
@@ -372,6 +386,7 @@
     "proverbs"
   ],
   "im": [
+    "daniel",
     "genesis",
     "numbers",
     "proverbs",
@@ -414,6 +429,7 @@
     "psalms"
   ],
   "et": [
+    "daniel",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -426,6 +442,7 @@
     "genesis"
   ],
   "al": [
+    "daniel",
     "exodus",
     "ezekiel",
     "genesis",
@@ -488,6 +505,7 @@
     "jonah"
   ],
   "echad": [
+    "daniel",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -504,6 +522,7 @@
     "isaiah"
   ],
   "yad": [
+    "daniel",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -622,6 +641,7 @@
     "proverbs"
   ],
   "zeh": [
+    "daniel",
     "exodus",
     "ezekiel",
     "genesis",
@@ -636,6 +656,7 @@
     "genesis"
   ],
   "shanah": [
+    "daniel",
     "ezekiel",
     "genesis",
     "isaiah"
@@ -645,6 +666,7 @@
     "isaiah"
   ],
   "gadol": [
+    "daniel",
     "ezekiel",
     "genesis",
     "jonah",
@@ -662,6 +684,7 @@
     "genesis"
   ],
   "natan": [
+    "daniel",
     "genesis",
     "jonah",
     "proverbs",
@@ -714,6 +737,7 @@
     "proverbs"
   ],
   "tselem": [
+    "daniel",
     "genesis"
   ],
   "tsayid": [
@@ -762,6 +786,7 @@
     "genesis"
   ],
   "amad": [
+    "daniel",
     "ezekiel",
     "isaiah",
     "jonah",
@@ -815,6 +840,7 @@
     "genesis"
   ],
   "alah": [
+    "daniel",
     "genesis",
     "jonah",
     "psalms"
@@ -926,6 +952,7 @@
     "genesis"
   ],
   "babel": [
+    "daniel",
     "genesis"
   ],
   "erekh": [
@@ -939,6 +966,7 @@
     "genesis"
   ],
   "shinar": [
+    "daniel",
     "genesis"
   ],
   "chidekel": [
@@ -960,6 +988,7 @@
     "genesis"
   ],
   "matza": [
+    "daniel",
     "genesis",
     "jonah"
   ],
@@ -1025,6 +1054,7 @@
     "isaiah"
   ],
   "melekh": [
+    "daniel",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -1076,6 +1106,7 @@
     "isaiah"
   ],
   "bayit": [
+    "daniel",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -1096,6 +1127,7 @@
     "isaiah"
   ],
   "li": [
+    "daniel",
     "genesis",
     "isaiah",
     "jonah"
@@ -1124,6 +1156,7 @@
     "isaiah"
   ],
   "yada": [
+    "daniel",
     "genesis",
     "jonah",
     "proverbs",
@@ -1183,6 +1216,7 @@
     "genesis"
   ],
   "yare": [
+    "daniel",
     "genesis",
     "jonah",
     "psalms"
@@ -1198,6 +1232,7 @@
     "jonah"
   ],
   "nagad": [
+    "daniel",
     "genesis",
     "jonah"
   ],
@@ -1213,6 +1248,7 @@
     "genesis"
   ],
   "mah": [
+    "daniel",
     "genesis",
     "jonah"
   ],
@@ -1230,6 +1266,7 @@
     "genesis"
   ],
   "chayyim": [
+    "daniel",
     "genesis",
     "jonah"
   ],
@@ -1246,6 +1283,7 @@
     "genesis"
   ],
   "rabah": [
+    "daniel",
     "genesis",
     "psalms"
   ],
@@ -1581,6 +1619,7 @@
     "proverbs"
   ],
   "chokmah": [
+    "daniel",
     "proverbs"
   ],
   "musar": [
@@ -1590,6 +1629,7 @@
     "proverbs"
   ],
   "binah": [
+    "daniel",
     "proverbs"
   ],
   "emer": [
@@ -1630,6 +1670,7 @@
     "proverbs"
   ],
   "davar": [
+    "daniel",
     "ezekiel",
     "genesis",
     "jonah",
@@ -1728,6 +1769,7 @@
     "proverbs"
   ],
   "ani": [
+    "daniel",
     "ezekiel",
     "genesis",
     "jonah",
@@ -1853,6 +1895,7 @@
     "genesis"
   ],
   "achar": [
+    "daniel",
     "genesis"
   ],
   "shmoneh": [
@@ -1874,6 +1917,7 @@
     "genesis"
   ],
   "shalosh": [
+    "daniel",
     "ezekiel",
     "genesis",
     "jonah"
@@ -2014,6 +2058,7 @@
     "jonah"
   ],
   "keli": [
+    "daniel",
     "jonah"
   ],
   "haqel": [
@@ -2316,6 +2361,7 @@
     "jonah"
   ],
   "yesh": [
+    "daniel",
     "jonah"
   ],
   "harbeh": [
@@ -2482,6 +2528,7 @@
     "genesis"
   ],
   "hineh": [
+    "daniel",
     "ezekiel",
     "genesis"
   ],
@@ -2666,6 +2713,7 @@
     "genesis"
   ],
   "asar": [
+    "daniel",
     "genesis"
   ],
   "baqa": [
@@ -2827,6 +2875,7 @@
     "genesis"
   ],
   "adonai": [
+    "daniel",
     "genesis"
   ],
   "ariri": [
@@ -2945,6 +2994,57 @@
   ],
   "yayin": [
     "genesis"
+  ],
+  "malkhut": [
+    "daniel"
+  ],
+  "yehoyakim": [
+    "daniel"
+  ],
+  "yehudah": [
+    "daniel"
+  ],
+  "nevukhadnetzar": [
+    "daniel"
+  ],
+  "yerushalayim": [
+    "daniel"
+  ],
+  "tsur": [
+    "daniel"
+  ],
+  "otzar": [
+    "daniel"
+  ],
+  "miktsat": [
+    "daniel"
+  ],
+  "daniel": [
+    "daniel"
+  ],
+  "chartom": [
+    "daniel"
+  ],
+  "ashshaf": [
+    "daniel"
+  ],
+  "baqash": [
+    "daniel"
+  ],
+  "koresh": [
+    "daniel"
+  ],
+  "galah": [
+    "daniel"
+  ],
+  "raz": [
+    "daniel"
+  ],
+  "shakhav": [
+    "daniel"
+  ],
+  "raavon": [
+    "daniel"
   ],
   "en": [
     "john",

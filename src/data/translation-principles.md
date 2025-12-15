@@ -168,3 +168,8 @@ The Hebrew definite article is a prefix that makes nouns definite. In `englishLi
    - "the Garden, to serve her and to keep her" - Garden is grammatically masculine in Hebrew so this would raise eyebrows and is significant.
    - "My bow has been given in the clouds" - Bow is grammatically feminine, so this would be standard verb-noun agreement, including genderization in all these cases would likely mean even more clunky English
    - Ideally this should yield intuitive significance (or not) in the same/right places for native Hebrew and English readers
+
+1. Adjust pluralization only when necessary and when it does not change the word meaning
+
+  - `panim`/`faces` → `face` - is always grammatically plural in Hebrew, similar to "eyeglasses" or "pants" in english. Distinct from other hebrew words for Eyes/Noses/Mouth, "faces" always refers to someone's face.
+  - `three hundreds year` → `three hundred years` - Hebrew grammatically pluralizes the number instead of the object, but meaning is unaffected.

@@ -313,8 +313,8 @@ export const jonah_1_10: Verse = {
     {
       hebrew: 'הִגִּיד',
       transliteration: 'higid',
-      englishLiteral: 'he-said',
-      englishNatural: 'he had said',
+      englishLiteral: 'he-declared',
+      englishNatural: 'he had declared',
       root: 'nagad',
       order: 19,
       morphology: {
@@ -350,10 +350,10 @@ export const jonah_1_10: Verse = {
     transliteration:
       'vaYirau haAnashim yirah gedolah vaYomeru elav mah-zot asita ki-yadu haAnashim ki-miLiFney YHWH hu boreach ki higid lahem',
     englishLiteral:
-      'And-feared the-men fear great, and-said to-him, "What- this you-did?" that- knew the-men, that- from-faces-of He_Who_Is (YHWH) he fleeing, that he-said to-them.',
+      'And-feared the-men fear great, and-said to-him, "What- this you-did?" that- knew the-men, that- from-faces-of He_Who_Is (YHWH) he fleeing, that he-declared to-them.',
     englishNatural:
-      'And the men feared a great fear, and said to him, "What is this you have done?" that the men knew, that from the face of He-Who-Is (YHWH) he was fleeing, that he had said to them.',
+      'And the men feared a great fear, and said to him, "What is this you have done?" that the men knew, that from the face of He-Who-Is (YHWH) he was fleeing, that he had declared to them.',
     kjv: 'Then were the men exceedingly afraid, and said unto him, What is this that thou hast done? For the men knew that he fled from the presence of the LORD, because he had told them.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-15' },
   },
 };

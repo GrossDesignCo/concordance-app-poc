@@ -1,0 +1,20 @@
+{
+  "key": "baqash",
+  "hebrew": "בקש",
+  "transliteration": "baqash",
+  "englishLiteral": "to seek",
+  "englishNatural": "to seek",
+  "type": "verb",
+  "description": "to seek, inquire, require, demand, investigate",
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "20": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

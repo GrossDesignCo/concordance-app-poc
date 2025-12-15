@@ -6,6 +6,20 @@
   "englishNatural": "all",
   "type": "adjective",
   "wordIndexes": {
+    "daniel": {
+      "1": {
+        "20": [
+          0,
+          12,
+          16
+        ]
+      },
+      "2": {
+        "30": [
+          5
+        ]
+      }
+    },
     "genesis": {
       "1": {
         "21": [

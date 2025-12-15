@@ -2,7 +2,7 @@ In-heading, created Gods ↳ the-skies and-↳ the-land
 
 And-the-land was waste and-void; 
 And-darkness, over-faces-of abyss.
-And-Wind, Gods, was-stirring over-faces-of the-waters.
+And-Wind, Gods, stirring over-faces-of the-waters.
 
 And-said Gods, "Let-be light."
 And-was light.
@@ -10,8 +10,8 @@ And-was light.
 And-saw Gods ↳ the-light, that- good. 
 And-separated Gods between the-light, and-between the-darkness.
 
-And-called_out Gods to_the-light, "Day,"
-and-to-darkness, called_out, "Night."
+And-called_out Gods to-light "Day,"
+and-to-darkness called_out "Night."
 
 And-was, evening, 
 And-was, morning, 
@@ -34,8 +34,8 @@ And-said, Gods, "Let-gather, the-waters, from-under the-skies, to- place, one.
 And-be-seen, the-dry_ground."
 And-was- so.
 
-And-called_out Gods to_the-dry_ground, "Land,"
-and-to-gathering, the-waters, called_out, "Seas."
+And-called_out Gods to-dry-ground "Land,"
+and-to-gathering, the-waters, called_out "Seas."
 And-saw Gods, that- good.
 
 And-said Gods, "Let-tenderly_shoot_up the-land tender_shoot, herb seeding seed, tree fruit making fruit to-its-kind, which, its-seed- in-it, over- the-land." 

@@ -1,0 +1,20 @@
+{
+  "key": "tsur",
+  "hebrew": "צור",
+  "transliteration": "tsur",
+  "englishLiteral": "to besiege",
+  "englishNatural": "to besiege",
+  "type": "verb",
+  "description": "to besiege, to lay siege to, to press hard upon",
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "1": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

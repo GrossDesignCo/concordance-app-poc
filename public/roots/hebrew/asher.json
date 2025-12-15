@@ -7,6 +7,19 @@
   "description": "which, that, which it is, which is in it, which has",
   "type": "relative",
   "wordIndexes": {
+    "daniel": {
+      "1": {
+        "20": [
+          4,
+          15
+        ]
+      },
+      "2": {
+        "30": [
+          15
+        ]
+      }
+    },
     "exodus": {
       "3": {
         "14": [

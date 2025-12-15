@@ -26,6 +26,9 @@ export const genesis_1_5: Verse = {
         stem: 'qal',
         type: 'verb',
       },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
     },
     {
       hebrew: 'אֱלֹהִ֤ים',
@@ -43,12 +46,15 @@ export const genesis_1_5: Verse = {
         number: 'plural',
         type: 'noun',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       hebrew: 'לָא֔וֹר',
       transliteration: 'laOr',
-      englishLiteral: 'to_the-light',
-      englishNatural: 'to the light',
+      englishLiteral: 'to-light',
+      englishNatural: 'to light',
       root: 'or',
       prefixes: ['la'],
       order: 3,
@@ -58,7 +64,7 @@ export const genesis_1_5: Verse = {
         type: 'noun',
       },
       grammarSuffix: {
-        englishLiteral: ',',
+        englishNatural: ',',
       },
     },
     {
@@ -103,7 +109,7 @@ export const genesis_1_5: Verse = {
         type: 'noun',
       },
       grammarSuffix: {
-        englishLiteral: ',',
+        englishNatural: ',',
       },
     },
     {
@@ -123,9 +129,6 @@ export const genesis_1_5: Verse = {
         tense: 'perfect',
         stem: 'qal',
         type: 'verb',
-      },
-      grammarSuffix: {
-        englishLiteral: ',',
       },
     },
     {
@@ -306,10 +309,10 @@ export const genesis_1_5: Verse = {
     transliteration:
       'vaYiqra Elohim laOr yom veLaChoshekh qara laylah vaYehi erev vaYehi voqer yom echad',
     englishLiteral:
-      'And-called_out Gods to_the-light, "Day," and-to-darkness, called_out, "Night." And-was, evening, And-was, morning, Day one.',
+      'And-called_out Gods to-light "Day," and-to-darkness called_out "Night." And-was, evening, And-was, morning, Day one.',
     englishNatural:
-      'And God called-out to the light "Day," and called-out to darkness "Night." And evening was, And morning was, One day.',
+      'And God called-out to light, "Day," and called-out to darkness, "Night." And evening was, And morning was, One day.',
     kjv: 'And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-15' },
   },
 };

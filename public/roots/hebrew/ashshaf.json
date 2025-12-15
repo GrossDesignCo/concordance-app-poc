@@ -1,0 +1,20 @@
+{
+  "key": "ashshaf",
+  "hebrew": "אשף",
+  "transliteration": "ashshaf",
+  "englishLiteral": "astrologer",
+  "englishNatural": "astrologer",
+  "type": "noun",
+  "description": "astrologer, enchanter, one who practices sorcery",
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "20": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

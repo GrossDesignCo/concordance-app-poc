@@ -1,0 +1,20 @@
+{
+  "key": "nevukhadnetzar",
+  "hebrew": "נבוכדנאצר",
+  "transliteration": "Nevukhadnetzar",
+  "englishLiteral": "Nebuchadnezzar",
+  "englishNatural": "Nebuchadnezzar",
+  "type": "noun",
+  "description": "Nebuchadnezzar; king of Babylon who conquered Jerusalem",
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "1": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

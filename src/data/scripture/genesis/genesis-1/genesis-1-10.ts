@@ -53,7 +53,7 @@ export const genesis_1_10: Verse = {
     {
       hebrew: 'לַיַּבָּשָׁה֙',
       transliteration: 'laYabashah',
-      englishLiteral: 'to_the-dry_ground',
+      englishLiteral: 'to-dry-ground',
       englishNatural: 'to the dry-ground',
       root: 'yabashah',
       prefixes: ['la'],
@@ -64,7 +64,7 @@ export const genesis_1_10: Verse = {
         type: 'noun',
       },
       grammarSuffix: {
-        englishLiteral: ',',
+        englishNatural: ',',
       },
     },
     {
@@ -140,7 +140,7 @@ export const genesis_1_10: Verse = {
         type: 'verb',
       },
       grammarSuffix: {
-        englishLiteral: ',',
+        englishNatural: ',',
       },
     },
     {
@@ -241,11 +241,15 @@ export const genesis_1_10: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew: 'וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃',
-    transliteration: 'vaYiqra Elohim laYabashah eretz uLeMiQveh haMayim qara yamim vaYar Elohim ki-tov',
-    englishLiteral: 'And-called_out Gods to_the-dry_ground, "Land," and-to-gathering, the-waters, called_out, "Seas." And-saw Gods, that- good.',
-    englishNatural: 'And God called-out to the dry-ground "Land," and to the gathering of the waters he called-out "Seas." And God saw, that it was good.',
+    hebrew:
+      'וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃',
+    transliteration:
+      'vaYiqra Elohim laYabashah eretz uLeMiQveh haMayim qara yamim vaYar Elohim ki-tov',
+    englishLiteral:
+      'And-called_out Gods to-dry-ground "Land," and-to-gathering, the-waters, called_out "Seas." And-saw Gods, that- good.',
+    englishNatural:
+      'And God called-out to the dry-ground, "Land," and to the gathering of the waters he called-out, "Seas." And God saw, that it was good.',
     kjv: 'And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-15' },
   },
-}; 
+};

@@ -2,16 +2,17 @@ In the heading, God created the skies and the land.
 
 And the land was waste and void; 
 And darkness, over the face of the abyss.
-And the Wind of God was stirring over the face of the waters.
+And the Wind of God, stirring over the face of the waters.
 
 And God said, "Let light be."
 And light was.
 
 And God saw the light, that it was good. 
-And God separated between the light, and between the darkness.
+And God separated between the light, 
+and between the darkness.
 
-And God called-out to the light "Day,"
-and called-out to darkness "Night."
+And God called-out to light, "Day,"
+and called-out to darkness, "Night."
 
 And evening was, 
 And morning was, 
@@ -33,8 +34,8 @@ A second day.
 And God said, "Let the waters gather from under the skies to one place. And let the dry-ground be seen."
 And it was so.
 
-And God called-out to the dry-ground "Land,"
-and to the gathering of the waters he called-out "Seas."
+And God called-out to the dry-ground, "Land,"
+and to the gathering of the waters he called-out, "Seas."
 And God saw, that it was good.
 
 And God said, "Let the land tenderly-shoot-up tender-shoot, herb seeding seed, fruit tree making fruit after its kind, which has its seed in it, over the land." 

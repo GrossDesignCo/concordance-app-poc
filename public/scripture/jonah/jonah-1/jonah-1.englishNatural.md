@@ -44,7 +44,7 @@ which made the sea and the dry-ground."
 
 And the men feared a great fear, 
 and said to him, "What is this you have done?" 
-that the men knew, that from the face of He-Who-Is (YHWH) he was fleeing, that he had said to them.
+that the men knew, that from the face of He-Who-Is (YHWH) he was fleeing, that he had declared to them.
 
 And they said to him, "What shall be done to you 
 and will quiet the sea from over us? 

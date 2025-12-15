@@ -7,6 +7,14 @@
   "description": "a direct object marker, points to the object of the verb",
   "type": "particle",
   "wordIndexes": {
+    "daniel": {
+      "1": {
+        "2": [
+          3,
+          19
+        ]
+      }
+    },
     "ezekiel": {
       "1": {
         "11": [

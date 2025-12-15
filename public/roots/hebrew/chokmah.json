@@ -7,6 +7,19 @@
   "type": "noun",
   "description": "wisdom, skill, understanding, insight",
   "wordIndexes": {
+    "daniel": {
+      "1": {
+        "20": [
+          2
+        ]
+      },
+      "2": {
+        "30": [
+          2,
+          14
+        ]
+      }
+    },
     "proverbs": {
       "1": {
         "2": [

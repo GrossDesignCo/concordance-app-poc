@@ -1,0 +1,20 @@
+{
+  "key": "chartom",
+  "hebrew": "חרטם",
+  "transliteration": "chartom",
+  "englishLiteral": "mage",
+  "englishNatural": "mage",
+  "type": "noun",
+  "description": "mage, magician, enchanter, one who practices divination",
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "20": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}
