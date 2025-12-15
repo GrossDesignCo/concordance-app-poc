@@ -1,0 +1,26 @@
+{
+  "key": "gala",
+  "aramaic": "גלא",
+  "transliteration": "gala",
+  "englishLiteral": "to reveal",
+  "englishNatural": "to reveal",
+  "type": "verb",
+  "description": "to reveal, to uncover, to disclose (Aramaic)",
+  "cognateHebrew": [
+    "galah"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "29": [
+          11
+        ],
+        "30": [
+          10
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

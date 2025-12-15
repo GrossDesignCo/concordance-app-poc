@@ -1,0 +1,24 @@
+{
+  "key": "qevel",
+  "aramaic": "קֳבֵל",
+  "transliteration": "qevel",
+  "englishLiteral": "before",
+  "englishNatural": "before",
+  "type": "preposition",
+  "description": "before, in front of, opposite (Aramaic)",
+  "cognateHebrew": [
+    "neged",
+    "panim"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "31": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

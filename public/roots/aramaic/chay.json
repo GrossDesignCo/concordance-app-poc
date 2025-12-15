@@ -1,0 +1,25 @@
+{
+  "key": "chay",
+  "aramaic": "חַי",
+  "transliteration": "chay",
+  "englishLiteral": "living",
+  "englishNatural": "living",
+  "type": "noun",
+  "description": "living, alive, life (Aramaic)",
+  "cognateHebrew": [
+    "chayah",
+    "chayyim",
+    "chai"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "30": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

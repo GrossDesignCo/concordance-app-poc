@@ -1,0 +1,23 @@
+{
+  "key": "dechal",
+  "aramaic": "דְּחַל",
+  "transliteration": "dechal",
+  "englishLiteral": "fearsome",
+  "englishNatural": "fearsome",
+  "type": "adjective",
+  "description": "fearsome, terrible, frightening (Aramaic)",
+  "cognateHebrew": [
+    "yare"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "31": [
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

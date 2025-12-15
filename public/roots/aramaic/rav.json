@@ -1,0 +1,55 @@
+{
+  "key": "rav",
+  "aramaic": "רַב",
+  "transliteration": "rav",
+  "englishLiteral": "great",
+  "englishNatural": "great",
+  "type": "adjective",
+  "description": "great, much, chief (Aramaic)",
+  "cognateHebrew": [
+    "rabah",
+    "rav"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "31": [
+          10
+        ]
+      }
+    },
+    "exodus": {
+      "34": {
+        "6": [
+          12
+        ]
+      }
+    },
+    "ezekiel": {
+      "1": {
+        "24": [
+          6
+        ]
+      }
+    },
+    "jonah": {
+      "4": {
+        "2": [
+          27
+        ],
+        "11": [
+          22
+        ]
+      }
+    },
+    "numbers": {
+      "21": {
+        "6": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

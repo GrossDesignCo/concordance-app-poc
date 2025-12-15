@@ -1,0 +1,23 @@
+{
+  "key": "chad",
+  "aramaic": "חַד",
+  "transliteration": "chad",
+  "englishLiteral": "one",
+  "englishNatural": "one",
+  "type": "numeral",
+  "description": "one, single (Aramaic)",
+  "cognateHebrew": [
+    "echad"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "31": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

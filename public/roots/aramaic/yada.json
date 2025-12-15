@@ -1,0 +1,103 @@
+{
+  "key": "yada",
+  "aramaic": "ידע",
+  "transliteration": "yada",
+  "englishLiteral": "to know",
+  "englishNatural": "to know",
+  "type": "verb",
+  "description": "to know, to make known (Aramaic)",
+  "cognateHebrew": [
+    "yada"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "29": [
+          13
+        ],
+        "30": [
+          17
+        ]
+      }
+    },
+    "genesis": {
+      "3": {
+        "5": [
+          1,
+          11
+        ],
+        "7": [
+          3
+        ],
+        "22": [
+          8
+        ]
+      },
+      "4": {
+        "1": [
+          1
+        ],
+        "9": [
+          9
+        ],
+        "17": [
+          0
+        ],
+        "25": [
+          0
+        ]
+      },
+      "15": {
+        "8": [
+          4
+        ],
+        "13": [
+          2,
+          3
+        ]
+      }
+    },
+    "jonah": {
+      "1": {
+        "7": [
+          7
+        ],
+        "10": [
+          10
+        ],
+        "12": [
+          10
+        ]
+      },
+      "3": {
+        "9": [
+          1
+        ]
+      },
+      "4": {
+        "2": [
+          19
+        ],
+        "11": [
+          17
+        ]
+      }
+    },
+    "proverbs": {
+      "1": {
+        "2": [
+          0
+        ]
+      }
+    },
+    "psalms": {
+      "1": {
+        "6": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

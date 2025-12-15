@@ -1,0 +1,26 @@
+{
+  "key": "denah",
+  "aramaic": "דנה",
+  "transliteration": "denah",
+  "englishLiteral": "this",
+  "englishNatural": "this",
+  "type": "pronoun",
+  "description": "this, demonstrative pronoun (Aramaic)",
+  "cognateHebrew": [
+    "zeh"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "29": [
+          10
+        ],
+        "30": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

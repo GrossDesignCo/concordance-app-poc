@@ -1,0 +1,20 @@
+{
+  "key": "ziv",
+  "aramaic": "זִיו",
+  "transliteration": "ziv",
+  "englishLiteral": "brightness",
+  "englishNatural": "brightness",
+  "type": "noun",
+  "description": "brightness, splendor, radiance (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "31": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

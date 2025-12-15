@@ -94,8 +94,7 @@
   },
   "hayah": {
     "daniel": [
-      1,
-      2
+      1
     ],
     "ezekiel": [
       1
@@ -370,9 +369,6 @@
     ]
   },
   "raah": {
-    "daniel": [
-      2
-    ],
     "ezekiel": [
       1
     ],
@@ -583,8 +579,7 @@
   },
   "asher": {
     "daniel": [
-      1,
-      2
+      1
     ],
     "exodus": [
       3
@@ -714,9 +709,6 @@
     ]
   },
   "ki": {
-    "daniel": [
-      2
-    ],
     "ezekiel": [
       1
     ],
@@ -757,9 +749,6 @@
     ]
   },
   "lo": {
-    "daniel": [
-      2
-    ],
     "exodus": [
       34
     ],
@@ -823,7 +812,8 @@
   },
   "min": {
     "daniel": [
-      1
+      1,
+      2
     ],
     "ezekiel": [
       1
@@ -891,9 +881,6 @@
     ]
   },
   "be": {
-    "daniel": [
-      2
-    ],
     "ezekiel": [
       2
     ],
@@ -959,6 +946,9 @@
     ]
   },
   "rav": {
+    "daniel": [
+      2
+    ],
     "exodus": [
       34
     ],
@@ -1092,9 +1082,6 @@
     ]
   },
   "atah": {
-    "daniel": [
-      2
-    ],
     "genesis": [
       3,
       4,
@@ -1143,9 +1130,6 @@
     ]
   },
   "im": {
-    "daniel": [
-      2
-    ],
     "genesis": [
       4,
       15
@@ -1476,8 +1460,7 @@
   },
   "echad": {
     "daniel": [
-      1,
-      2
+      1
     ],
     "ezekiel": [
       1
@@ -1832,9 +1815,6 @@
     ]
   },
   "zeh": {
-    "daniel": [
-      2
-    ],
     "exodus": [
       3
     ],
@@ -1901,9 +1881,6 @@
     ]
   },
   "gadol": {
-    "daniel": [
-      2
-    ],
     "ezekiel": [
       1
     ],
@@ -2215,9 +2192,6 @@
     ]
   },
   "amad": {
-    "daniel": [
-      2
-    ],
     "ezekiel": [
       1,
       2
@@ -2329,9 +2303,6 @@
     ]
   },
   "alah": {
-    "daniel": [
-      2
-    ],
     "genesis": [
       2,
       8
@@ -3100,6 +3071,9 @@
     ]
   },
   "la": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       1
     ],
@@ -3179,9 +3153,6 @@
     ]
   },
   "nagad": {
-    "daniel": [
-      2
-    ],
     "genesis": [
       3
     ],
@@ -3255,9 +3226,6 @@
     ]
   },
   "chayyim": {
-    "daniel": [
-      2
-    ],
     "genesis": [
       3
     ],
@@ -3286,9 +3254,6 @@
     ]
   },
   "rabah": {
-    "daniel": [
-      2
-    ],
     "genesis": [
       1,
       3,
@@ -3581,6 +3546,9 @@
     ]
   },
   "qum": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       4,
       6,
@@ -4232,9 +4200,6 @@
     ]
   },
   "ani": {
-    "daniel": [
-      2
-    ],
     "ezekiel": [
       1
     ],
@@ -5348,9 +5313,6 @@
     ]
   },
   "yesh": {
-    "daniel": [
-      2
-    ],
     "jonah": [
       4
     ]
@@ -5449,6 +5411,9 @@
     ]
   },
   "anah": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       15
     ],
@@ -5652,9 +5617,6 @@
     ]
   },
   "hineh": {
-    "daniel": [
-      2
-    ],
     "ezekiel": [
       1
     ],
@@ -5825,9 +5787,6 @@
     ]
   },
   "nora": {
-    "daniel": [
-      2
-    ],
     "ezekiel": [
       1
     ]
@@ -6530,11 +6489,6 @@
       1
     ]
   },
-  "galah": {
-    "daniel": [
-      2
-    ]
-  },
   "raz": {
     "daniel": [
       2
@@ -7037,6 +6991,111 @@
   "abraam": {
     "john": [
       8
+    ]
+  },
+  "antah": {
+    "daniel": [
+      2
+    ]
+  },
+  "salaq": {
+    "daniel": [
+      2
+    ]
+  },
+  "di": {
+    "daniel": [
+      2
+    ]
+  },
+  "hava": {
+    "daniel": [
+      2
+    ]
+  },
+  "denah": {
+    "daniel": [
+      2
+    ]
+  },
+  "gala": {
+    "daniel": [
+      2
+    ]
+  },
+  "itay": {
+    "daniel": [
+      2
+    ]
+  },
+  "chay": {
+    "daniel": [
+      2
+    ]
+  },
+  "lahen": {
+    "daniel": [
+      2
+    ]
+  },
+  "dibrah": {
+    "daniel": [
+      2
+    ]
+  },
+  "peshar": {
+    "daniel": [
+      2
+    ]
+  },
+  "chazah": {
+    "daniel": [
+      2
+    ]
+  },
+  "alu": {
+    "daniel": [
+      2
+    ]
+  },
+  "chad": {
+    "daniel": [
+      2
+    ]
+  },
+  "saggi": {
+    "daniel": [
+      2
+    ]
+  },
+  "dikken": {
+    "daniel": [
+      2
+    ]
+  },
+  "ziv": {
+    "daniel": [
+      2
+    ]
+  },
+  "yattir": {
+    "daniel": [
+      2
+    ]
+  },
+  "qevel": {
+    "daniel": [
+      2
+    ]
+  },
+  "revu": {
+    "daniel": [
+      2
+    ]
+  },
+  "dechal": {
+    "daniel": [
+      2
     ]
   }
 }

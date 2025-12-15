@@ -4,6 +4,9 @@ import { roots as hebrewRoots } from '@/data/dictionary/hebrew/roots';
 import { prefixes as hebrewPrefixes } from '@/data/dictionary/hebrew/prefixes';
 import { suffixes as hebrewSuffixes } from '@/data/dictionary/hebrew/suffixes';
 import { roots as greekRoots } from '@/data/dictionary/greek/roots';
+import { roots as aramaicRoots } from '@/data/dictionary/aramaic/roots';
+import { prefixes as aramaicPrefixes } from '@/data/dictionary/aramaic/prefixes';
+import { suffixes as aramaicSuffixes } from '@/data/dictionary/aramaic/suffixes';
 
 describe('Word Reference Validation Tests: Ensure all string references exist in dictionaries', () => {
   // Validate that a word's root string exists in the appropriate roots dictionary
@@ -21,11 +24,18 @@ describe('Word Reference Validation Tests: Ensure all string references exist in
       const isGreekRoot =
         !isHebrewRoot && word.greek && word.root in greekRoots;
 
+      // If not found in Hebrew or Greek and the word has Aramaic content, check Aramaic roots
+      const isAramaicRoot =
+        !isHebrewRoot &&
+        !isGreekRoot &&
+        word.aramaic &&
+        word.root in aramaicRoots;
+
       // Report if root reference is not found in any dictionary
-      if (!isHebrewRoot && !isGreekRoot) {
+      if (!isHebrewRoot && !isGreekRoot && !isAramaicRoot) {
         console.info(
           `${bookName} ${chapterNum}:${verseNum} - Word "${
-            word.hebrew || word.greek || word.transliteration
+            word.hebrew || word.greek || word.aramaic || word.transliteration
           }" references a root "${
             word.root
           }" that doesn't exist in any roots dictionary`
@@ -45,13 +55,23 @@ describe('Word Reference Validation Tests: Ensure all string references exist in
   ) => {
     if (word.prefixes && Array.isArray(word.prefixes)) {
       for (const prefix of word.prefixes) {
-        if (typeof prefix === 'string' && !(prefix in hebrewPrefixes)) {
-          console.info(
-            `${bookName} ${chapterNum}:${verseNum} - Word "${
-              word.hebrew || word.greek || word.transliteration
-            }" references a prefix "${prefix}" that doesn't exist in the prefixes dictionary`
-          );
-          return false;
+        if (typeof prefix === 'string') {
+          // Check Hebrew prefixes
+          const isHebrewPrefix = prefix in hebrewPrefixes;
+          // Check Aramaic prefixes if word has Aramaic content
+          const isAramaicPrefix = word.aramaic && prefix in aramaicPrefixes;
+
+          if (!isHebrewPrefix && !isAramaicPrefix) {
+            console.info(
+              `${bookName} ${chapterNum}:${verseNum} - Word "${
+                word.hebrew ||
+                word.greek ||
+                word.aramaic ||
+                word.transliteration
+              }" references a prefix "${prefix}" that doesn't exist in the prefixes dictionary`
+            );
+            return false;
+          }
         }
       }
     }
@@ -67,13 +87,23 @@ describe('Word Reference Validation Tests: Ensure all string references exist in
   ) => {
     if (word.suffixes && Array.isArray(word.suffixes)) {
       for (const suffix of word.suffixes) {
-        if (typeof suffix === 'string' && !(suffix in hebrewSuffixes)) {
-          console.info(
-            `${bookName} ${chapterNum}:${verseNum} - Word "${
-              word.hebrew || word.greek || word.transliteration
-            }" references a suffix "${suffix}" that doesn't exist in the suffixes dictionary`
-          );
-          return false;
+        if (typeof suffix === 'string') {
+          // Check Hebrew suffixes
+          const isHebrewSuffix = suffix in hebrewSuffixes;
+          // Check Aramaic suffixes if word has Aramaic content
+          const isAramaicSuffix = word.aramaic && suffix in aramaicSuffixes;
+
+          if (!isHebrewSuffix && !isAramaicSuffix) {
+            console.info(
+              `${bookName} ${chapterNum}:${verseNum} - Word "${
+                word.hebrew ||
+                word.greek ||
+                word.aramaic ||
+                word.transliteration
+              }" references a suffix "${suffix}" that doesn't exist in the suffixes dictionary`
+            );
+            return false;
+          }
         }
       }
     }
@@ -89,7 +119,7 @@ describe('Word Reference Validation Tests: Ensure all string references exist in
   ) => {
     verse.words.forEach((word) => {
       test(`${bookName} ${chapterNum}:${verseNum} word "${
-        word.hebrew || word.greek || word.transliteration
+        word.hebrew || word.greek || word.aramaic || word.transliteration
       }" has valid root reference`, () => {
         expect(validateWordRoot(word, bookName, chapterNum, verseNum)).toBe(
           true
@@ -97,7 +127,7 @@ describe('Word Reference Validation Tests: Ensure all string references exist in
       });
 
       test(`${bookName} ${chapterNum}:${verseNum} word "${
-        word.hebrew || word.greek || word.transliteration
+        word.hebrew || word.greek || word.aramaic || word.transliteration
       }" has valid prefix references`, () => {
         expect(validateWordPrefixes(word, bookName, chapterNum, verseNum)).toBe(
           true

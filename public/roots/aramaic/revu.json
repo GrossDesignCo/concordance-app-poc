@@ -1,0 +1,20 @@
+{
+  "key": "revu",
+  "aramaic": "רְוּ",
+  "transliteration": "revu",
+  "englishLiteral": "appearance",
+  "englishNatural": "appearance",
+  "type": "noun",
+  "description": "appearance, aspect, form (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "31": [
+          15
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

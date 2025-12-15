@@ -1,0 +1,28 @@
+{
+  "key": "di",
+  "aramaic": "די",
+  "transliteration": "di",
+  "englishLiteral": "which",
+  "englishNatural": "that",
+  "type": "particle",
+  "description": "which, that, relative particle (Aramaic equivalent of Hebrew אֲשֶׁר)",
+  "cognateHebrew": [
+    "asher"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "29": [
+          7,
+          15
+        ],
+        "30": [
+          3,
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

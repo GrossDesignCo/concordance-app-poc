@@ -1,6 +1,6 @@
 
-atah haMelekh al mishkavkha alu rayonekha mah yihyeh acharei zeh vehaMegid razim hodiak mah yihyeh
+antah malka rayonakh al mishkavakh sliqu mah di leheve acharey denah vegale razayya hodakh mah di leheve
 
-veAni lo veChokhmah sheYesh bi miKol chayyim haRaz haZeh galah li ki lo al chokhmah asher yesh bi ki im lo al daat haMelekh haRaz haZeh lo hodiuni
+vaAnah la beChokmah di itay min kol chayyayya razah denah geli li lahen beDivrat di pishra leMalka yehodun
 
-atah haMelekh hayita roeh veHineh tselem echad gadol haTselem haTselem haZeh gadol rav tsalmo rav omed negdekha veTsalmo nora
+antah malka chazeh havayta vaAlu tselem chad saggi tsalma dikken rav veZiveh yattir qaem leQovlakh veReveh dechil

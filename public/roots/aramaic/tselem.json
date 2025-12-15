@@ -1,0 +1,45 @@
+{
+  "key": "tselem",
+  "aramaic": "צְלֵם",
+  "transliteration": "tselem",
+  "englishLiteral": "image",
+  "englishNatural": "image",
+  "type": "noun",
+  "description": "image, statue, likeness (Aramaic)",
+  "cognateHebrew": [
+    "tselem"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "31": [
+          5,
+          8
+        ]
+      }
+    },
+    "genesis": {
+      "1": {
+        "26": [
+          4
+        ],
+        "27": [
+          4,
+          5
+        ]
+      },
+      "5": {
+        "3": [
+          7
+        ]
+      },
+      "9": {
+        "6": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

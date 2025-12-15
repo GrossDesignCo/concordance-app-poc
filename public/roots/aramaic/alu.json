@@ -1,0 +1,23 @@
+{
+  "key": "alu",
+  "aramaic": "אֲלוּ",
+  "transliteration": "alu",
+  "englishLiteral": "behold",
+  "englishNatural": "behold",
+  "type": "particle",
+  "description": "behold, lo (Aramaic)",
+  "cognateHebrew": [
+    "hineh"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "31": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

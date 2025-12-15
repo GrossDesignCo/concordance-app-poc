@@ -1,0 +1,23 @@
+{
+  "key": "chazah",
+  "aramaic": "חזה",
+  "transliteration": "chazah",
+  "englishLiteral": "to see",
+  "englishNatural": "to see",
+  "type": "verb",
+  "description": "to see, to behold, to perceive (Aramaic)",
+  "cognateHebrew": [
+    "raah"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "31": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

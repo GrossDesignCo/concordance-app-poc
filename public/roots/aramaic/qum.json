@@ -1,0 +1,75 @@
+{
+  "key": "qum",
+  "aramaic": "קום",
+  "transliteration": "qum",
+  "englishLiteral": "to stand",
+  "englishNatural": "to stand",
+  "type": "verb",
+  "description": "to stand, to arise, to establish (Aramaic)",
+  "cognateHebrew": [
+    "qum",
+    "amad"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "31": [
+          13
+        ]
+      }
+    },
+    "genesis": {
+      "4": {
+        "8": [
+          8
+        ]
+      },
+      "6": {
+        "18": [
+          0
+        ]
+      },
+      "9": {
+        "9": [
+          2
+        ],
+        "11": [
+          0
+        ]
+      }
+    },
+    "jonah": {
+      "1": {
+        "2": [
+          0
+        ],
+        "3": [
+          0
+        ],
+        "6": [
+          9
+        ]
+      },
+      "3": {
+        "2": [
+          0
+        ],
+        "3": [
+          0
+        ],
+        "6": [
+          5
+        ]
+      }
+    },
+    "psalms": {
+      "1": {
+        "5": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

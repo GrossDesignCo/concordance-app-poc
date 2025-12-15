@@ -1,0 +1,372 @@
+import { HebrewWordMorphology } from '@/types';
+import { GreekRootKey } from '../greek';
+import { HebrewRootKey } from '../hebrew';
+
+/**
+ * Dictionary of Aramaic root words
+ *
+ * Note: Aramaic appears in Daniel 2:4b-7:28, Ezra 4:8-6:18, 7:12-26, Jeremiah 10:11
+ * This dictionary follows the same structure as Hebrew but captures Aramaic-specific forms.
+ */
+const ROOTS = {
+  // Daniel 2:29 additions
+  antah: {
+    aramaic: 'אַנְתָּה',
+    transliteration: 'antah',
+    englishLiteral: 'you',
+    englishNatural: 'you',
+    type: 'pronoun',
+    description: 'second person singular pronoun (Aramaic)',
+    cognateHebrew: ['atah'] as const,
+  },
+  melekh: {
+    aramaic: 'מלך',
+    transliteration: 'melekh',
+    englishLiteral: 'king',
+    englishNatural: 'king',
+    type: 'noun',
+    description:
+      'king, ruler (Aramaic form, often with emphatic state ending -א)',
+    cognateHebrew: ['melekh'] as const,
+  },
+  raavon: {
+    aramaic: 'רעיון',
+    transliteration: 'raavon',
+    englishLiteral: 'thought',
+    englishNatural: 'thought',
+    type: 'noun',
+    description: 'thought, idea, conception (Aramaic)',
+    cognateHebrew: ['raavon'] as const,
+  },
+  al: {
+    aramaic: 'עַל',
+    transliteration: 'al',
+    englishLiteral: 'over',
+    englishNatural: 'upon',
+    type: 'preposition',
+    description: 'upon, over, on (Aramaic)',
+    cognateHebrew: ['al'] as const,
+  },
+  shakhav: {
+    aramaic: 'שׁכב',
+    transliteration: 'shakhav',
+    englishLiteral: 'bed',
+    englishNatural: 'bed',
+    type: 'noun',
+    description: 'bed, place of lying (Aramaic)',
+    cognateHebrew: ['shakhav'] as const,
+  },
+  salaq: {
+    aramaic: 'סלק',
+    transliteration: 'salaq',
+    englishLiteral: 'to come_up',
+    englishNatural: 'to come-up',
+    type: 'verb',
+    description: 'to come up, to ascend (Aramaic)',
+    cognateHebrew: ['alah'] as const,
+  },
+  mah: {
+    aramaic: 'מה',
+    transliteration: 'mah',
+    englishLiteral: 'what',
+    englishNatural: 'what',
+    type: 'pronoun',
+    description: 'what, interrogative pronoun (Aramaic)',
+    cognateHebrew: ['mah'] as const,
+  },
+  di: {
+    aramaic: 'די',
+    transliteration: 'di',
+    englishLiteral: 'which',
+    englishNatural: 'that',
+    type: 'particle',
+    description:
+      'which, that, relative particle (Aramaic equivalent of Hebrew אֲשֶׁר)',
+    cognateHebrew: ['asher'] as const,
+  },
+  hava: {
+    aramaic: 'הוא',
+    transliteration: 'hava',
+    englishLiteral: 'to be',
+    englishNatural: 'to be',
+    type: 'verb',
+    description: 'to be, to become, to happen (Aramaic)',
+    cognateHebrew: ['hayah'] as const,
+  },
+  achar: {
+    aramaic: 'אחר',
+    transliteration: 'achar',
+    englishLiteral: 'after',
+    englishNatural: 'after',
+    type: 'preposition',
+    description: 'after, behind (Aramaic)',
+    cognateHebrew: ['achar'] as const,
+  },
+  denah: {
+    aramaic: 'דנה',
+    transliteration: 'denah',
+    englishLiteral: 'this',
+    englishNatural: 'this',
+    type: 'pronoun',
+    description: 'this, demonstrative pronoun (Aramaic)',
+    cognateHebrew: ['zeh'] as const,
+  },
+  gala: {
+    aramaic: 'גלא',
+    transliteration: 'gala',
+    englishLiteral: 'to reveal',
+    englishNatural: 'to reveal',
+    type: 'verb',
+    description: 'to reveal, to uncover, to disclose (Aramaic)',
+    cognateHebrew: ['galah'] as const,
+  },
+  raz: {
+    aramaic: 'רז',
+    transliteration: 'raz',
+    englishLiteral: 'mystery',
+    englishNatural: 'mystery',
+    type: 'noun',
+    description: 'mystery, secret (Aramaic)',
+    cognateHebrew: ['raz'] as const,
+  },
+  yada: {
+    aramaic: 'ידע',
+    transliteration: 'yada',
+    englishLiteral: 'to know',
+    englishNatural: 'to know',
+    type: 'verb',
+    description: 'to know, to make known (Aramaic)',
+    cognateHebrew: ['yada'] as const,
+  },
+  // Daniel 2:30 additions
+  anah: {
+    aramaic: 'אֲנָה',
+    transliteration: 'anah',
+    englishLiteral: 'I',
+    englishNatural: 'I',
+    type: 'pronoun',
+    description: 'first person singular pronoun (Aramaic variant)',
+    cognateHebrew: ['ani'] as const,
+  },
+  la: {
+    aramaic: 'לָא',
+    transliteration: 'la',
+    englishLiteral: 'not',
+    englishNatural: 'not',
+    type: 'adverb',
+    description: 'negation particle (Aramaic)',
+    cognateHebrew: ['lo'] as const,
+  },
+  chokmah: {
+    aramaic: 'חָכְמָה',
+    transliteration: 'chokmah',
+    englishLiteral: 'wisdom',
+    englishNatural: 'wisdom',
+    type: 'noun',
+    description: 'wisdom, skill (Aramaic)',
+    cognateHebrew: ['chokmah'] as const,
+  },
+  itay: {
+    aramaic: 'אִיתַי',
+    transliteration: 'itay',
+    englishLiteral: 'there_is_in_me',
+    englishNatural: 'there-is-in-me',
+    type: 'particle',
+    description: 'there is, exists (with pronominal suffix "in me") (Aramaic)',
+    cognateHebrew: ['yesh'] as const,
+  },
+  min: {
+    aramaic: 'מִן',
+    transliteration: 'min',
+    englishLiteral: 'from',
+    englishNatural: 'from',
+    type: 'preposition',
+    description: 'from, out of, more than (Aramaic)',
+    cognateHebrew: ['min'] as const,
+  },
+  kol: {
+    aramaic: 'כֹּל',
+    transliteration: 'kol',
+    englishLiteral: 'all',
+    englishNatural: 'all',
+    type: 'adjective',
+    description: 'all, every, whole (Aramaic)',
+    cognateHebrew: ['kol'] as const,
+  },
+  chay: {
+    aramaic: 'חַי',
+    transliteration: 'chay',
+    englishLiteral: 'living',
+    englishNatural: 'living',
+    type: 'noun',
+    description: 'living, alive, life (Aramaic)',
+    cognateHebrew: ['chayah', 'chayyim', 'chai'] as const,
+  },
+  li: {
+    aramaic: 'לִי',
+    transliteration: 'li',
+    englishLiteral: 'to-me',
+    englishNatural: 'to me',
+    type: 'preposition',
+    description: 'to me, preposition with 1st person suffix (Aramaic)',
+    cognateHebrew: ['li'] as const,
+  },
+  lahen: {
+    aramaic: 'לָהֵן',
+    transliteration: 'lahen',
+    englishLiteral: 'but',
+    englishNatural: 'but',
+    type: 'conjunction',
+    description: 'but, however, except (Aramaic)',
+  },
+  dibrah: {
+    aramaic: 'דִּבְרָה',
+    transliteration: 'dibrah',
+    englishLiteral: 'account',
+    englishNatural: 'account',
+    type: 'noun',
+    description: 'word, matter, account, cause, reason (Aramaic)',
+    cognateHebrew: ['davar'] as const,
+  },
+  peshar: {
+    aramaic: 'פְּשַׁר',
+    transliteration: 'peshar',
+    englishLiteral: 'interpretation',
+    englishNatural: 'interpretation',
+    type: 'noun',
+    description:
+      'interpretation, solution, meaning (Aramaic - specifically for dream interpretation)',
+  },
+  // Daniel 2:31 additions
+  chazah: {
+    aramaic: 'חזה',
+    transliteration: 'chazah',
+    englishLiteral: 'to see',
+    englishNatural: 'to see',
+    type: 'verb',
+    description: 'to see, to behold, to perceive (Aramaic)',
+    cognateHebrew: ['raah'] as const,
+  },
+  alu: {
+    aramaic: 'אֲלוּ',
+    transliteration: 'alu',
+    englishLiteral: 'behold',
+    englishNatural: 'behold',
+    type: 'particle',
+    description: 'behold, lo (Aramaic)',
+    cognateHebrew: ['hineh'] as const,
+  },
+  tselem: {
+    aramaic: 'צְלֵם',
+    transliteration: 'tselem',
+    englishLiteral: 'image',
+    englishNatural: 'image',
+    type: 'noun',
+    description: 'image, statue, likeness (Aramaic)',
+    cognateHebrew: ['tselem'] as const,
+  },
+  chad: {
+    aramaic: 'חַד',
+    transliteration: 'chad',
+    englishLiteral: 'one',
+    englishNatural: 'one',
+    type: 'numeral',
+    description: 'one, single (Aramaic)',
+    cognateHebrew: ['echad'] as const,
+  },
+  saggi: {
+    aramaic: 'שַׂגִּיא',
+    transliteration: 'saggi',
+    englishLiteral: 'great',
+    englishNatural: 'great',
+    type: 'adjective',
+    description: 'great, much, many, abundant (Aramaic)',
+    cognateHebrew: ['gadol', 'rabah'] as const,
+  },
+  dikken: {
+    aramaic: 'דִכֵּן',
+    transliteration: 'dikken',
+    englishLiteral: 'that',
+    englishNatural: 'that',
+    type: 'pronoun',
+    description: 'that, demonstrative pronoun (Aramaic)',
+    cognateHebrew: ['zeh'] as const,
+  },
+  rav: {
+    aramaic: 'רַב',
+    transliteration: 'rav',
+    englishLiteral: 'great',
+    englishNatural: 'great',
+    type: 'adjective',
+    description: 'great, much, chief (Aramaic)',
+    cognateHebrew: ['rabah', 'rav'] as const,
+  },
+  ziv: {
+    aramaic: 'זִיו',
+    transliteration: 'ziv',
+    englishLiteral: 'brightness',
+    englishNatural: 'brightness',
+    type: 'noun',
+    description: 'brightness, splendor, radiance (Aramaic)',
+  },
+  yattir: {
+    aramaic: 'יַתִּיר',
+    transliteration: 'yattir',
+    englishLiteral: 'surpassing',
+    englishNatural: 'surpassing',
+    type: 'adjective',
+    description: 'surpassing, exceeding, extraordinary, excellent (Aramaic)',
+  },
+  qum: {
+    aramaic: 'קום',
+    transliteration: 'qum',
+    englishLiteral: 'to stand',
+    englishNatural: 'to stand',
+    type: 'verb',
+    description: 'to stand, to arise, to establish (Aramaic)',
+    cognateHebrew: ['qum', 'amad'] as const,
+  },
+  qevel: {
+    aramaic: 'קֳבֵל',
+    transliteration: 'qevel',
+    englishLiteral: 'before',
+    englishNatural: 'before',
+    type: 'preposition',
+    description: 'before, in front of, opposite (Aramaic)',
+    cognateHebrew: ['neged', 'panim'] as const,
+  },
+  revu: {
+    aramaic: 'רְוּ',
+    transliteration: 'revu',
+    englishLiteral: 'appearance',
+    englishNatural: 'appearance',
+    type: 'noun',
+    description: 'appearance, aspect, form (Aramaic)',
+  },
+  dechal: {
+    aramaic: 'דְּחַל',
+    transliteration: 'dechal',
+    englishLiteral: 'fearsome',
+    englishNatural: 'fearsome',
+    type: 'adjective',
+    description: 'fearsome, terrible, frightening (Aramaic)',
+    cognateHebrew: ['yare'] as const,
+  },
+} as const;
+
+export type AramaicRootKey = keyof typeof ROOTS;
+
+export interface AramaicRootElement {
+  aramaic: string;
+  transliteration: string;
+  englishLiteral: string;
+  englishNatural: string;
+  type?: HebrewWordMorphology['type'];
+  description?: string;
+  related?: readonly AramaicRootKey[];
+  cognateHebrew?: readonly HebrewRootKey[];
+  translatedTo?: readonly GreekRootKey[];
+}
+
+// Type-safe export for Aramaic Dictionary
+export const roots: Record<AramaicRootKey, AramaicRootElement> = ROOTS;

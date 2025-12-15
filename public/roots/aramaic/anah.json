@@ -1,0 +1,37 @@
+{
+  "key": "anah",
+  "aramaic": "אֲנָה",
+  "transliteration": "anah",
+  "englishLiteral": "I",
+  "englishNatural": "I",
+  "type": "pronoun",
+  "description": "first person singular pronoun (Aramaic variant)",
+  "cognateHebrew": [
+    "ani"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "30": [
+          0
+        ]
+      }
+    },
+    "genesis": {
+      "15": {
+        "13": [
+          12
+        ]
+      }
+    },
+    "jonah": {
+      "2": {
+        "2": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

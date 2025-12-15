@@ -1,0 +1,26 @@
+{
+  "key": "raz",
+  "aramaic": "רז",
+  "transliteration": "raz",
+  "englishLiteral": "mystery",
+  "englishNatural": "mystery",
+  "type": "noun",
+  "description": "mystery, secret (Aramaic)",
+  "cognateHebrew": [
+    "raz"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "29": [
+          12
+        ],
+        "30": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

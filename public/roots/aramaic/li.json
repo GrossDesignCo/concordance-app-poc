@@ -1,0 +1,55 @@
+{
+  "key": "li",
+  "aramaic": "לִי",
+  "transliteration": "li",
+  "englishLiteral": "to-me",
+  "englishNatural": "to me",
+  "type": "preposition",
+  "description": "to me, preposition with 1st person suffix (Aramaic)",
+  "cognateHebrew": [
+    "li"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "30": [
+          11
+        ]
+      }
+    },
+    "genesis": {
+      "4": {
+        "25": [
+          13
+        ]
+      }
+    },
+    "isaiah": {
+      "6": {
+        "5": [
+          2
+        ]
+      }
+    },
+    "jonah": {
+      "2": {
+        "2": [
+          3
+        ]
+      },
+      "4": {
+        "5": [
+          8
+        ],
+        "6": [
+          12
+        ],
+        "9": [
+          12
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,23 @@
+{
+  "key": "itay",
+  "aramaic": "אִיתַי",
+  "transliteration": "itay",
+  "englishLiteral": "there_is_in_me",
+  "englishNatural": "there-is-in-me",
+  "type": "particle",
+  "description": "there is, exists (with pronominal suffix \"in me\") (Aramaic)",
+  "cognateHebrew": [
+    "yesh"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "30": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

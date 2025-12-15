@@ -1,0 +1,23 @@
+{
+  "key": "dibrah",
+  "aramaic": "דִּבְרָה",
+  "transliteration": "dibrah",
+  "englishLiteral": "account",
+  "englishNatural": "account",
+  "type": "noun",
+  "description": "word, matter, account, cause, reason (Aramaic)",
+  "cognateHebrew": [
+    "davar"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "30": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

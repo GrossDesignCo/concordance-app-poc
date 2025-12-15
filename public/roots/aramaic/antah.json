@@ -1,0 +1,26 @@
+{
+  "key": "antah",
+  "aramaic": "אַנְתָּה",
+  "transliteration": "antah",
+  "englishLiteral": "you",
+  "englishNatural": "you",
+  "type": "pronoun",
+  "description": "second person singular pronoun (Aramaic)",
+  "cognateHebrew": [
+    "atah"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "29": [
+          0
+        ],
+        "31": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

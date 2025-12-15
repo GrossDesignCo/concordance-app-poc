@@ -1,0 +1,91 @@
+{
+  "key": "melekh",
+  "aramaic": "מלך",
+  "transliteration": "melekh",
+  "englishLiteral": "king",
+  "englishNatural": "king",
+  "type": "noun",
+  "description": "king, ruler (Aramaic form, often with emphatic state ending -א)",
+  "cognateHebrew": [
+    "melekh"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "1": [
+          4,
+          8
+        ],
+        "2": [
+          5
+        ],
+        "20": [
+          7
+        ],
+        "21": [
+          6
+        ]
+      },
+      "2": {
+        "29": [
+          1
+        ],
+        "30": [
+          16
+        ],
+        "31": [
+          1
+        ]
+      }
+    },
+    "ezekiel": {
+      "1": {
+        "2": [
+          6
+        ]
+      }
+    },
+    "genesis": {
+      "14": {
+        "17": [
+          1,
+          10,
+          18
+        ],
+        "18": [
+          0,
+          2
+        ]
+      }
+    },
+    "isaiah": {
+      "6": {
+        "1": [
+          2
+        ],
+        "5": [
+          18
+        ]
+      }
+    },
+    "jonah": {
+      "3": {
+        "6": [
+          3
+        ],
+        "7": [
+          4
+        ]
+      }
+    },
+    "proverbs": {
+      "1": {
+        "1": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

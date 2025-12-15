@@ -7,11 +7,19 @@ import {
   roots as greekRoots,
   GreekRootElement,
 } from '@/data/dictionary/greek/roots';
-import { HebrewRoot, GreekRoot } from '@/types';
+import {
+  roots as aramaicRoots,
+  AramaicRootElement,
+} from '@/data/dictionary/aramaic/roots';
+import { HebrewRoot, GreekRoot, AramaicRoot } from '@/types';
 import styles from './LexiconEntryReader.module.css';
 
 const findRoot = (word: string) => {
-  return hebrewRoots[word as HebrewRoot] || greekRoots[word as GreekRoot];
+  return (
+    hebrewRoots[word as HebrewRoot] ||
+    greekRoots[word as GreekRoot] ||
+    aramaicRoots[word as AramaicRoot]
+  );
 };
 
 export default function RootLinks() {
@@ -60,14 +68,16 @@ export default function RootLinks() {
 export const DictionaryEntry = ({
   rootWord,
 }: {
-  rootWord: HebrewRootElement | GreekRootElement;
+  rootWord: HebrewRootElement | GreekRootElement | AramaicRootElement;
 }) => {
-  // @ts-expect-error - hebrew and greek have different keys
-  const { hebrew, transliteration, englishLiteral, type } = rootWord;
+  // @ts-expect-error - hebrew, greek, and aramaic have different keys
+  const { hebrew, greek, aramaic, transliteration, englishLiteral, type } =
+    rootWord;
+  const originalText = hebrew || greek || aramaic;
 
   return (
     <div key={transliteration}>
-      {hebrew} → {transliteration} → {englishLiteral} ({type})
+      {originalText} → {transliteration} → {englishLiteral} ({type})
     </div>
   );
 };

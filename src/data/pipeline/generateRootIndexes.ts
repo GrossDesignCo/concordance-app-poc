@@ -3,24 +3,32 @@ import path from 'path';
 import { Verse } from '@/types';
 import { roots as hebrewRoots } from '@/data/dictionary/hebrew/roots';
 import { roots as greekRoots } from '@/data/dictionary/greek/roots';
+import { roots as aramaicRoots } from '@/data/dictionary/aramaic/roots';
 import { RootIndex } from '@/types';
 
 async function generateRootIndexes() {
   const scriptureDir = path.join(process.cwd(), 'src/data/scripture');
-  const books = fs.readdirSync(scriptureDir).filter(file => 
-    fs.statSync(path.join(scriptureDir, file)).isDirectory() && 
-    file !== 'index.ts'
-  );
+  const books = fs
+    .readdirSync(scriptureDir)
+    .filter(
+      (file) =>
+        fs.statSync(path.join(scriptureDir, file)).isDirectory() &&
+        file !== 'index.ts'
+    );
 
   // Initialize indexes with all known roots
   const indexes: RootIndex = {
     verses: {},
     chapters: {},
-    books: {}
+    books: {},
   };
 
   // Pre-initialize all roots from our dictionaries
-  const allRoots = [...Object.keys(hebrewRoots), ...Object.keys(greekRoots)];
+  const allRoots = [
+    ...Object.keys(hebrewRoots),
+    ...Object.keys(greekRoots),
+    ...Object.keys(aramaicRoots),
+  ];
   for (const root of allRoots) {
     indexes.verses[root] = {};
     indexes.chapters[root] = {};
@@ -30,19 +38,23 @@ async function generateRootIndexes() {
   // Process each book
   for (const book of books) {
     const bookDir = path.join(scriptureDir, book);
-    const chapters = fs.readdirSync(bookDir).filter(file => 
-      fs.statSync(path.join(bookDir, file)).isDirectory() && 
-      file !== 'index.ts'
-    );
+    const chapters = fs
+      .readdirSync(bookDir)
+      .filter(
+        (file) =>
+          fs.statSync(path.join(bookDir, file)).isDirectory() &&
+          file !== 'index.ts'
+      );
 
     // Process each chapter
     for (const chapterDir of chapters) {
       const chapterPath = path.join(bookDir, chapterDir);
       const chapterNumber = parseInt(chapterDir.split('-')[1]);
-      
+
       // Import and process each verse
-      const verseFiles = fs.readdirSync(chapterPath)
-        .filter(file => file.endsWith('.ts') && file !== 'index.ts');
+      const verseFiles = fs
+        .readdirSync(chapterPath)
+        .filter((file) => file.endsWith('.ts') && file !== 'index.ts');
 
       for (const verseFile of verseFiles) {
         const versePath = path.join(chapterPath, verseFile);
@@ -50,12 +62,19 @@ async function generateRootIndexes() {
         const verse: Verse = verseModule[Object.keys(verseModule)[0]];
 
         // Get unique roots from the verse that are in our dictionary
-        const roots = [...new Set(verse.words
-          .map(word => word.root)
-          .filter((root) => 
-            root !== undefined && 
-            (root in hebrewRoots || root in greekRoots)
-          ))];
+        const roots = [
+          ...new Set(
+            verse.words
+              .map((word) => word.root)
+              .filter(
+                (root) =>
+                  root !== undefined &&
+                  (root in hebrewRoots ||
+                    root in greekRoots ||
+                    root in aramaicRoots)
+              )
+          ),
+        ];
 
         // Update indexes for each root
         for (const root of roots as string[]) {
@@ -117,7 +136,7 @@ async function generateRootIndexes() {
   const files = {
     'index-verses-by-root.json': indexes.verses,
     'index-chapters-by-root.json': indexes.chapters,
-    'index-books-by-root.json': indexes.books
+    'index-books-by-root.json': indexes.books,
   };
 
   for (const [filename, data] of Object.entries(files)) {
@@ -127,4 +146,4 @@ async function generateRootIndexes() {
   }
 }
 
-generateRootIndexes().catch(console.error); 
+generateRootIndexes().catch(console.error);

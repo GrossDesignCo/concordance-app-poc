@@ -1,0 +1,23 @@
+{
+  "key": "salaq",
+  "aramaic": "סלק",
+  "transliteration": "salaq",
+  "englishLiteral": "to come_up",
+  "englishNatural": "to come-up",
+  "type": "verb",
+  "description": "to come up, to ascend (Aramaic)",
+  "cognateHebrew": [
+    "alah"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "29": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -6,9 +6,9 @@ This repository contains a structured framework for working with Biblical texts 
 
 Concordance provides:
 
-1. **Scripture Data**: Original language texts (primarily Hebrew and Greek) with corresponding word-by-word English translations that follow strict translation principles.
+1. **Scripture Data**: Original language texts (Hebrew, Aramaic, and Greek) with corresponding word-by-word English translations that follow strict translation principles.
 
-2. **Lexical Resources**: Comprehensive dictionaries of Biblical Hebrew and Greek terms, including their semantic ranges, root forms, and contextual usages.
+2. **Lexical Resources**: Comprehensive dictionaries of Biblical Hebrew, Aramaic, and Greek terms, including their semantic ranges, root forms, and contextual usages.
 
 3. **Translation Pipeline**: Tools for applying consistent translation principles across texts, ensuring coherence in the English renderings.
 
@@ -27,7 +27,7 @@ Concordance provides:
 
 This project uses a distinctive approach to translation that prioritizes:
 
-- 1:1 Hebrew/Greek to English word mapping where possible
+- 1:1 Hebrew/Aramaic/Greek to English word mapping where possible
 - Preservation of original word order and sentence structure
 - Consistent translation of terms across the entire corpus
 - Minimal interpretive additions to the text

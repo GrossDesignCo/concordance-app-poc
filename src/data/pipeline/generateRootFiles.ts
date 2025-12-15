@@ -1,7 +1,8 @@
 /**
  * Generates individual JSON files for each root word in the dictionary
  *
- * Creates `public/roots/hebrew/[rootKey].json` and `public/roots/greek/[rootKey].json`
+ * Creates `public/roots/hebrew/[rootKey].json`, `public/roots/greek/[rootKey].json`,
+ * and `public/roots/aramaic/[rootKey].json`
  *
  * Run with:
  *
@@ -15,6 +16,7 @@ import fs from 'fs';
 import path from 'path';
 import { roots as hebrewRoots } from '@/data/dictionary/hebrew/roots';
 import { roots as greekRoots } from '@/data/dictionary/greek/roots';
+import { roots as aramaicRoots } from '@/data/dictionary/aramaic/roots';
 import { Verse } from '@/types';
 
 // Ensures that the given directory exists
@@ -110,7 +112,7 @@ async function collectWordIndexesByRoot(): Promise<
 
 // Generates root files for the given language
 async function generateRootFiles(
-  language: 'hebrew' | 'greek',
+  language: 'hebrew' | 'greek' | 'aramaic',
   wordIndexesByRoot: Record<
     string,
     Record<string, Record<number, Record<number, number[]>>>
@@ -120,7 +122,12 @@ async function generateRootFiles(
     console.log(`Generating root files for ${language}...`);
 
     // Get the appropriate roots dictionary
-    const roots = language === 'hebrew' ? hebrewRoots : greekRoots;
+    const roots =
+      language === 'hebrew'
+        ? hebrewRoots
+        : language === 'greek'
+        ? greekRoots
+        : aramaicRoots;
 
     // Ensure the output directory exists
     const outputDir = path.join(process.cwd(), `public/roots/${language}`);
@@ -174,9 +181,10 @@ export async function generateAllRootFiles(): Promise<void> {
       `Found word indexes for ${Object.keys(wordIndexesByRoot).length} roots`
     );
 
-    // Generate files for both languages
+    // Generate files for all languages
     await generateRootFiles('hebrew', wordIndexesByRoot);
     await generateRootFiles('greek', wordIndexesByRoot);
+    await generateRootFiles('aramaic', wordIndexesByRoot);
 
     console.log('Successfully generated all root files');
   } catch (error) {

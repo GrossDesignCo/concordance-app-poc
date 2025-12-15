@@ -5,6 +5,11 @@ import {
 } from '@/data/dictionary/hebrew';
 import { roots as greekRoots } from '@/data/dictionary/greek';
 import {
+  roots as aramaicRoots,
+  prefixes as aramaicPrefixes,
+  suffixes as aramaicSuffixes,
+} from '@/data/dictionary/aramaic';
+import {
   HEBREW_WORD_STATES,
   HEBREW_WORD_STEMS,
   HEBREW_WORD_TENSES,
@@ -18,6 +23,11 @@ export type HebrewSuffix = keyof typeof suffixes;
 
 // Greek Dictionary
 export type GreekRoot = keyof typeof greekRoots;
+
+// Aramaic Dictionary
+export type AramaicRoot = keyof typeof aramaicRoots;
+export type AramaicPrefix = keyof typeof aramaicPrefixes;
+export type AramaicSuffix = keyof typeof aramaicSuffixes;
 
 // Settings Keys
 export const FONT_KEYS = ['sans', 'serif'] as const;
@@ -35,13 +45,19 @@ export type LanguageKey = (typeof LANGUAGE_KEYS)[number];
 export const RESOLVED_LANGUAGE_KEYS = [
   'hebrew',
   'greek',
+  'aramaic',
   'transliteration',
   'englishLiteral',
   'englishNatural',
 ] as const;
 export type ResolvedLanguageKey = (typeof RESOLVED_LANGUAGE_KEYS)[number];
 
-export const WORD_ORDER_KEYS = ['hebrew', 'greek', 'english'] as const;
+export const WORD_ORDER_KEYS = [
+  'hebrew',
+  'greek',
+  'aramaic',
+  'english',
+] as const;
 export type WordOrderKey = (typeof WORD_ORDER_KEYS)[number];
 
 /**
@@ -346,16 +362,124 @@ export type GreekWordMorphology = {
     | 'indirect discourse';
 };
 
+// Types for Aramaic morphology
+export type AramaicWordMorphology = {
+  gender?: WordGender;
+  number?: WordNumber;
+  person?: WordPerson;
+
+  /**
+   * The part of speech of the word
+   * Aramaic has grammatical categories similar to Hebrew
+   */
+  type?: (typeof HEBREW_WORD_TYPES)[number]['type'];
+
+  /**
+   * Verbal tense/aspect
+   * Aramaic verbs indicate aspect similar to Hebrew
+   * - perfect: Completed action (often past)
+   * - imperfect: Incomplete action (often future or ongoing)
+   * - participle: Verbal adjective showing continuous action
+   * - infinitive: Verbal noun
+   * - imperative: Commands
+   * - jussive: Indirect commands or wishes (3rd person)
+   * - cohortative: Expression of will/intention (1st person)
+   */
+  tense?:
+    | 'perfect'
+    | 'imperfect'
+    | 'participle'
+    | 'infinitive'
+    | 'imperative'
+    | 'jussive'
+    | 'cohortative';
+
+  /**
+   * Verbal stem indicating type of action
+   * Aramaic has its own stem system, related to but distinct from Hebrew
+   * - peal: Simple active (Aramaic equivalent of Hebrew Qal)
+   * - peil: Passive of Peal
+   * - pael: Intensive active (Aramaic equivalent of Hebrew Piel)
+   * - ithpaal: Reflexive/reciprocal of Pael (equivalent of Hebrew Hithpael)
+   * - pual: Passive of Pael
+   * - aphel: Causative active (one Aramaic equivalent of Hebrew Hiphil)
+   * - ettaphal: Reflexive of Aphel
+   * - haphel: Alternative causative active (another Aramaic equivalent of Hebrew Hiphil)
+   * - hophal: Passive of Haphel (equivalent of Hebrew Hophal)
+   * - ithpeel: Reflexive/reciprocal form (alternative to Ithpaal)
+   * - shaphel: Causative stem (rare)
+   * - ishtaphal: Reflexive of Shaphel (rare)
+   * - saphel: Causative stem variant (rare)
+   * - polel: Intensive from duplicated root letters
+   * - polal: Passive of Polel
+   * - ithpolel: Reflexive of Polel
+   * - poel: Variant intensive form
+   * - ithpoel: Reflexive of Poel
+   */
+  stem?:
+    | 'peal'
+    | 'peil'
+    | 'pael'
+    | 'ithpaal'
+    | 'pual'
+    | 'aphel'
+    | 'ettaphal'
+    | 'haphel'
+    | 'hophal'
+    | 'ithpeel'
+    | 'shaphel'
+    | 'ishtaphal'
+    | 'saphel'
+    | 'polel'
+    | 'polal'
+    | 'ithpolel'
+    | 'poel'
+    | 'ithpoel';
+
+  /**
+   * State indicates the grammatical form of nouns and adjectives
+   * Aramaic has three main states - this is a KEY DISTINGUISHING FEATURE
+   * - absolute: The basic, unmarked form (like Hebrew absolute state)
+   * - construct: Bound to a following noun (like Hebrew construct state)
+   * - emphatic: Determined/definite form with -א/-ָא ending (UNIQUE TO ARAMAIC)
+   *   This is Aramaic's primary way of expressing definiteness, replacing Hebrew's ה- prefix
+   *   Examples: מַלְכָּא (malka "the king"), רָזַיָּא (razayya "the mysteries")
+   * - determined: General term for definite forms (emphatic or with demonstrative)
+   */
+  state?: 'absolute' | 'construct' | 'emphatic' | 'determined';
+
+  /**
+   * Direction/volition indicators (primarily with verbs)
+   * - directive: Movement toward (with ה suffix, he locale)
+   * - volitional: Expresses will, desire or purpose
+   * - non-volitional: Simple statement without volition
+   */
+  direction?: 'directive' | 'volitional' | 'non-volitional';
+
+  /**
+   * Case is not as prominent in Biblical Aramaic as in older forms
+   * But remnants exist, especially in older texts and proper names
+   * - nominative: Subject function
+   * - genitive: Possession or relationship (rare in Biblical Aramaic)
+   * - accusative: Object function (rare in Biblical Aramaic)
+   */
+  case?: 'nominative' | 'genitive' | 'accusative';
+};
+
 export type TranslationWord = {
   hebrew?: string;
   greek?: string;
+  aramaic?: string;
   transliteration: string;
   englishLiteral: string; // Our hyper-literal translation
   englishNatural?: string; // More natural English rendering
-  morphology?: HebrewWordMorphology | GreekWordMorphology; // Detailed grammatical info
-  root?: HebrewRoot | GreekRoot; // Hebrew root if known
-  prefixes?: HebrewPrefix[]; // Separable prefixes
-  suffixes?: HebrewSuffix[]; // Separable suffixes
+  morphology?:
+    | HebrewWordMorphology
+    | GreekWordMorphology
+    | AramaicWordMorphology; // Detailed grammatical info
+  root?: HebrewRoot | GreekRoot | AramaicRoot; // Hebrew root if known
+  prefixes?: HebrewPrefix[] | AramaicPrefix[]; // Separable prefixes
+  suffixes?: HebrewSuffix[] | AramaicSuffix[]; // Separable suffixes
 
   // number of line breaks to render between this word and the next block (as needed)
   lineBreaksAfter?: LineBreak;
@@ -368,6 +492,7 @@ export type TranslationWord = {
   order?:
     | number
     | {
+        aramaic?: number; // Position in original Aramaic text
         greek?: number; // Position in original Greek text
         hebrew?: number; // Position in original Hebrew text
         english?: number; // Optional position for English rendering
@@ -394,6 +519,7 @@ export type Verse = {
       name: string;
     };
     hebrew?: string; // full hebrew string, should follow hebrew word order
+    aramaic?: string; // full aramaic string, should follow aramaic word order
     transliteration: string; // full transliteration of the hebrew string, should follow hebrew word order
     englishLiteral: string; // Our hyper-literal translation, should follow hebrew/greek word order
     englishNatural: string; // More natural English, should follow english word order
@@ -408,12 +534,14 @@ export type LineBreak =
   | {
       greek?: number;
       hebrew?: number;
+      aramaic?: number;
       english?: number;
     };
 
 export type Grammar = {
   greek?: string;
   hebrew?: string;
+  aramaic?: string;
   transliteration?: string;
   englishLiteral?: string;
   englishNatural?: string;

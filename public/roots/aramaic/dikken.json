@@ -1,0 +1,23 @@
+{
+  "key": "dikken",
+  "aramaic": "דִכֵּן",
+  "transliteration": "dikken",
+  "englishLiteral": "that",
+  "englishNatural": "that",
+  "type": "pronoun",
+  "description": "that, demonstrative pronoun (Aramaic)",
+  "cognateHebrew": [
+    "zeh"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "31": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

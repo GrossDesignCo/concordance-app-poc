@@ -1,0 +1,24 @@
+{
+  "key": "saggi",
+  "aramaic": "שַׂגִּיא",
+  "transliteration": "saggi",
+  "englishLiteral": "great",
+  "englishNatural": "great",
+  "type": "adjective",
+  "description": "great, much, many, abundant (Aramaic)",
+  "cognateHebrew": [
+    "gadol",
+    "rabah"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "31": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

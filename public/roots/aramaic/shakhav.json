@@ -1,0 +1,23 @@
+{
+  "key": "shakhav",
+  "aramaic": "שׁכב",
+  "transliteration": "shakhav",
+  "englishLiteral": "bed",
+  "englishNatural": "bed",
+  "type": "noun",
+  "description": "bed, place of lying (Aramaic)",
+  "cognateHebrew": [
+    "shakhav"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "29": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

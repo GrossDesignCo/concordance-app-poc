@@ -1,0 +1,20 @@
+{
+  "key": "peshar",
+  "aramaic": "פְּשַׁר",
+  "transliteration": "peshar",
+  "englishLiteral": "interpretation",
+  "englishNatural": "interpretation",
+  "type": "noun",
+  "description": "interpretation, solution, meaning (Aramaic - specifically for dream interpretation)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "30": [
+          15
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

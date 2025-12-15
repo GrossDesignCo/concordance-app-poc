@@ -1,0 +1,27 @@
+{
+  "key": "hava",
+  "aramaic": "הוא",
+  "transliteration": "hava",
+  "englishLiteral": "to be",
+  "englishNatural": "to be",
+  "type": "verb",
+  "description": "to be, to become, to happen (Aramaic)",
+  "cognateHebrew": [
+    "hayah"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "29": [
+          8,
+          16
+        ],
+        "31": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}
