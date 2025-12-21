@@ -25,7 +25,7 @@ export const daniel_2_31: Verse = {
       aramaic: 'מַלְכָּא',
       transliteration: 'malka',
       englishLiteral: 'the-king',
-      englishNatural: 'O king',
+      englishNatural: 'the king',
       root: 'melekh',
       suffixes: ['a'],
       order: 2,
@@ -43,23 +43,32 @@ export const daniel_2_31: Verse = {
       aramaic: 'חָזֵה',
       transliteration: 'chazeh',
       englishLiteral: 'seeing',
-      englishNatural: 'were seeing',
+      englishNatural: 'seeing',
       root: 'chazah',
-      order: 3,
+      order: {
+        aramaic: 3,
+        english: 4,
+      },
       morphology: {
         gender: 'masculine',
         number: 'singular',
         type: 'noun',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
       },
     },
     {
       aramaic: 'הֲוַיְתָ',
       transliteration: 'havayta',
       englishLiteral: 'you-were',
-      englishNatural: '',
+      englishNatural: 'were',
       root: 'hava',
       suffixes: ['ta'],
-      order: 4,
+      order: {
+        aramaic: 4,
+        english: 3,
+      },
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -88,14 +97,20 @@ export const daniel_2_31: Verse = {
       aramaic: 'צְלֵם',
       transliteration: 'tselem',
       englishLiteral: 'image',
-      englishNatural: 'an image',
+      englishNatural: 'image',
       root: 'tselem',
-      order: 6,
+      order: {
+        aramaic: 6,
+        english: 8,
+      },
       morphology: {
         gender: 'masculine',
         number: 'singular',
         type: 'noun',
         state: 'absolute',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
       },
     },
     {
@@ -104,7 +119,10 @@ export const daniel_2_31: Verse = {
       englishLiteral: 'one',
       englishNatural: 'one',
       root: 'chad',
-      order: 7,
+      order: {
+        aramaic: 7,
+        english: 6,
+      },
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -117,7 +135,10 @@ export const daniel_2_31: Verse = {
       englishLiteral: 'great',
       englishNatural: 'great',
       root: 'saggi',
-      order: 8,
+      order: {
+        aramaic: 8,
+        english: 7,
+      },
       morphology: {
         type: 'adjective',
       },
@@ -128,8 +149,8 @@ export const daniel_2_31: Verse = {
     {
       aramaic: 'צַלְמָא',
       transliteration: 'tsalma',
-      englishLiteral: 'the-image',
-      englishNatural: 'image',
+      englishLiteral: 'image-the',
+      englishNatural: 'the image',
       root: 'tselem',
       suffixes: ['a'],
       order: 9,
@@ -239,6 +260,9 @@ export const daniel_2_31: Verse = {
         number: 'singular',
         type: 'noun',
       },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
     },
     {
       aramaic: 'דְּחִיל',
@@ -263,10 +287,10 @@ export const daniel_2_31: Verse = {
     transliteration:
       'antah malka chazeh havayta vaAlu tselem chad saggi tsalma dikken rav veZiveh yattir qaem leQovlakh veReveh dechil',
     englishLiteral:
-      'you the-king seeing you-were and-behold image one great, the-image that great and-brightness-its surpassing, standing before-you, and-appearance-its fearsome.',
+      'you the-king seeing you-were and-behold image one great, image-the that great and-brightness-its surpassing, standing before-you, and-appearance-its fearsome.',
     englishNatural:
-      'You O king, were seeing and behold, an image one great image that was great, and its brightness surpassing, standing before you, and its appearance fearsome.',
+      'You the king, were seeing, and behold, one great image, the image that was great, and its brightness surpassing, standing before you, and its appearance, fearsome.',
     kjv: 'Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof was terrible.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-15' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-21' },
+  },
 };

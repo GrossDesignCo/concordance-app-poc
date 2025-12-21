@@ -1,0 +1,20 @@
+{
+  "key": "innun",
+  "aramaic": "אִנּוּן",
+  "transliteration": "innun",
+  "englishLiteral": "those",
+  "englishNatural": "those",
+  "type": "pronoun",
+  "description": "those, they - 3rd person masculine plural demonstrative pronoun (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "44": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

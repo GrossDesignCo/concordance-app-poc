@@ -1,0 +1,24 @@
+{
+  "key": "revai",
+  "aramaic": "רְבִיעִי",
+  "transliteration": "revai",
+  "englishLiteral": "fourth",
+  "englishNatural": "fourth",
+  "type": "numeral",
+  "description": "four, fourth (Aramaic)",
+  "cognateHebrew": [
+    "arba",
+    "revii"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "40": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

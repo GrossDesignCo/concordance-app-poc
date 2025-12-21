@@ -1,0 +1,20 @@
+{
+  "key": "iddar",
+  "aramaic": "אִדַּר",
+  "transliteration": "iddar",
+  "englishLiteral": "threshing_floor",
+  "englishNatural": "threshing floor",
+  "type": "noun",
+  "description": "threshing floor (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "35": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,37 @@
+{
+  "key": "aman",
+  "aramaic": "אָמַן",
+  "transliteration": "aman",
+  "englishLiteral": "trustworthy",
+  "englishNatural": "trustworthy",
+  "type": "adjective",
+  "description": "trustworthy, faithful, reliable (Aramaic)",
+  "cognateHebrew": [
+    "aman"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "45": [
+          29
+        ]
+      }
+    },
+    "genesis": {
+      "15": {
+        "6": [
+          0
+        ]
+      }
+    },
+    "jonah": {
+      "3": {
+        "5": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

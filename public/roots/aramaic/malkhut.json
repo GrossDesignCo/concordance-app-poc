@@ -1,0 +1,49 @@
+{
+  "key": "malkhut",
+  "aramaic": "מַלְכוּת",
+  "transliteration": "malkhut",
+  "englishLiteral": "kingdom",
+  "englishNatural": "kingdom",
+  "type": "noun",
+  "description": "kingdom, reign, dominion (Aramaic)",
+  "cognateHebrew": [
+    "malkhut"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "1": [
+          2
+        ],
+        "20": [
+          17
+        ]
+      },
+      "2": {
+        "37": [
+          7
+        ],
+        "39": [
+          2,
+          6
+        ],
+        "40": [
+          0
+        ],
+        "41": [
+          9
+        ],
+        "42": [
+          8
+        ],
+        "44": [
+          7,
+          12,
+          21
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

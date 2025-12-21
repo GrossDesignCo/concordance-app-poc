@@ -1,0 +1,48 @@
+{
+  "key": "even",
+  "aramaic": "אֶבֶן",
+  "transliteration": "even",
+  "englishLiteral": "stone",
+  "englishNatural": "stone",
+  "type": "noun",
+  "description": "stone, rock (Aramaic)",
+  "cognateHebrew": [
+    "even"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "34": [
+          5
+        ],
+        "35": [
+          20
+        ],
+        "45": [
+          8
+        ]
+      }
+    },
+    "ezekiel": {
+      "1": {
+        "26": [
+          6
+        ]
+      }
+    },
+    "genesis": {
+      "2": {
+        "12": [
+          6
+        ]
+      },
+      "11": {
+        "3": [
+          12
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

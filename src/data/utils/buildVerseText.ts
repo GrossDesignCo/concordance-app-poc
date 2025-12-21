@@ -20,7 +20,7 @@ export function buildVerseText(
   verse: Verse,
   language: LanguageKey,
   includeGrammar: boolean = true,
-  includeLineBreaks: boolean = true,
+  includeLineBreaks: boolean = true
 ): string {
   // Sort words by their specified order
   const orderedWords = sortWords(verse.words, language);
@@ -35,7 +35,9 @@ export function buildVerseText(
 
     // Add line breaks
     if (includeLineBreaks && word.lineBreaksBefore) {
-      result += `\n`.repeat(resolveLineBreaks(word.lineBreaksBefore, wordOrderKey));
+      result += `\n`.repeat(
+        resolveLineBreaks(word.lineBreaksBefore, wordOrderKey)
+      );
     }
 
     // Add any grammar prefix if present and includeSuffixes is true
@@ -53,7 +55,9 @@ export function buildVerseText(
 
     // Add line breaks
     if (includeLineBreaks && word.lineBreaksAfter) {
-      result += `\n`.repeat(resolveLineBreaks(word.lineBreaksAfter, wordOrderKey));
+      result += `\n`.repeat(
+        resolveLineBreaks(word.lineBreaksAfter, wordOrderKey)
+      );
     }
 
     // Add space unless:
@@ -64,8 +68,10 @@ export function buildVerseText(
 
     if (
       (resolvedLanguage === 'hebrew' && wordText?.endsWith('־')) ||
+      (resolvedLanguage === 'aramaic' && wordText?.endsWith('־')) ||
       (resolvedLanguage === 'transliteration' && wordText?.endsWith('-')) ||
-      (includeLineBreaks && resolveLineBreaks(word?.lineBreaksAfter, wordOrderKey)) ||
+      (includeLineBreaks &&
+        resolveLineBreaks(word?.lineBreaksAfter, wordOrderKey)) ||
       (!includeLineBreaks && index === orderedWords.length - 1)
     ) {
       // Don't add space after dash/maqaf or line break

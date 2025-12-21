@@ -1,0 +1,20 @@
+{
+  "key": "yatziv",
+  "aramaic": "יַצִּיב",
+  "transliteration": "yatziv",
+  "englishLiteral": "certain",
+  "englishNatural": "certain",
+  "type": "adjective",
+  "description": "certain, firm, sure, established (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "45": [
+          27
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

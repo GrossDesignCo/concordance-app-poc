@@ -1,0 +1,23 @@
+{
+  "key": "shelet",
+  "aramaic": "שְׁלֵט",
+  "transliteration": "shelet",
+  "englishLiteral": "to rule",
+  "englishNatural": "to rule",
+  "type": "verb",
+  "description": "to rule, to have dominion, to govern (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "38": [
+          11
+        ],
+        "39": [
+          12
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

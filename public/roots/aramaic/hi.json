@@ -1,0 +1,45 @@
+{
+  "key": "hi",
+  "aramaic": "הִיא",
+  "transliteration": "hi",
+  "englishLiteral": "she",
+  "englishNatural": "she",
+  "type": "pronoun",
+  "description": "she, it - 3rd person feminine singular pronoun (Aramaic)",
+  "cognateHebrew": [
+    "hi"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "44": [
+          22
+        ]
+      }
+    },
+    "ezekiel": {
+      "1": {
+        "13": [
+          8
+        ]
+      }
+    },
+    "genesis": {
+      "3": {
+        "12": [
+          6
+        ],
+        "20": [
+          6
+        ]
+      },
+      "4": {
+        "22": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

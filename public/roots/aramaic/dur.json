@@ -1,0 +1,20 @@
+{
+  "key": "dur",
+  "aramaic": "דּוּר",
+  "transliteration": "dur",
+  "englishLiteral": "to dwell",
+  "englishNatural": "to dwell",
+  "type": "verb",
+  "description": "to dwell, to live, to reside (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "38": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

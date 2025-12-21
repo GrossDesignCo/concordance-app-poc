@@ -59,6 +59,9 @@
     ]
   },
   "amar": {
+    "daniel": [
+      2
+    ],
     "exodus": [
       3
     ],
@@ -234,6 +237,9 @@
     ]
   },
   "ruach": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       1,
       2
@@ -427,6 +433,9 @@
     ]
   },
   "anash": {
+    "daniel": [
+      2
+    ],
     "proverbs": [
       22
     ]
@@ -881,6 +890,9 @@
     ]
   },
   "be": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       2
     ],
@@ -963,6 +975,9 @@
     ]
   },
   "am": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       11
     ],
@@ -1051,7 +1066,8 @@
   },
   "ad": {
     "daniel": [
-      1
+      1,
+      2
     ],
     "genesis": [
       3,
@@ -1130,6 +1146,9 @@
     ]
   },
   "im": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       4,
       15
@@ -1222,6 +1241,11 @@
     ],
     "psalms": [
       1
+    ]
+  },
+  "atar": {
+    "daniel": [
+      2
     ]
   },
   "yashav": {
@@ -1362,6 +1386,9 @@
     ]
   },
   "regel": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       1,
       2
@@ -1438,6 +1465,9 @@
     ]
   },
   "hu": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       1
     ],
@@ -1509,7 +1539,8 @@
   },
   "yad": {
     "daniel": [
-      1
+      1,
+      2
     ],
     "ezekiel": [
       1
@@ -2183,6 +2214,9 @@
     ]
   },
   "zera": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       1,
       3,
@@ -2507,6 +2541,9 @@
     ]
   },
   "even": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       1
     ],
@@ -2727,6 +2764,9 @@
     ]
   },
   "davaq": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       2
     ]
@@ -3175,6 +3215,9 @@
     ]
   },
   "hi": {
+    "daniel": [
+      2
+    ],
     "ezekiel": [
       1
     ],
@@ -3759,6 +3802,9 @@
     ]
   },
   "levav": {
+    "daniel": [
+      2
+    ],
     "jonah": [
       2
     ]
@@ -3871,6 +3917,9 @@
     ]
   },
   "minchah": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       4
     ]
@@ -4434,6 +4483,9 @@
     ]
   },
   "meah": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       5,
       6,
@@ -5054,6 +5106,9 @@
     ]
   },
   "aman": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       15
     ],
@@ -5462,6 +5517,9 @@
     ]
   },
   "suf": {
+    "daniel": [
+      2
+    ],
     "jonah": [
       2
     ]
@@ -6171,6 +6229,9 @@
     ]
   },
   "hen": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       11,
       15
@@ -6275,6 +6336,9 @@
     ]
   },
   "ur": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       15
     ]
@@ -6380,6 +6444,9 @@
     ]
   },
   "gezer": {
+    "daniel": [
+      2
+    ],
     "genesis": [
       15
     ]
@@ -6426,7 +6493,8 @@
   },
   "malkhut": {
     "daniel": [
-      1
+      1,
+      2
     ]
   },
   "yehoyakim": {
@@ -6441,7 +6509,8 @@
   },
   "nevukhadnetzar": {
     "daniel": [
-      1
+      1,
+      2
     ]
   },
   "yerushalayim": {
@@ -7033,6 +7102,11 @@
       2
     ]
   },
+  "le": {
+    "daniel": [
+      2
+    ]
+  },
   "lahen": {
     "daniel": [
       2
@@ -7094,6 +7168,346 @@
     ]
   },
   "dechal": {
+    "daniel": [
+      2
+    ]
+  },
+  "resh": {
+    "daniel": [
+      2
+    ]
+  },
+  "dehav": {
+    "daniel": [
+      2
+    ]
+  },
+  "tav": {
+    "daniel": [
+      2
+    ]
+  },
+  "chad_chest": {
+    "daniel": [
+      2
+    ]
+  },
+  "dera": {
+    "daniel": [
+      2
+    ]
+  },
+  "kesaf": {
+    "daniel": [
+      2
+    ]
+  },
+  "yarkah": {
+    "daniel": [
+      2
+    ]
+  },
+  "nechash": {
+    "daniel": [
+      2
+    ]
+  },
+  "shaq": {
+    "daniel": [
+      2
+    ]
+  },
+  "parzel": {
+    "daniel": [
+      2
+    ]
+  },
+  "chasaf": {
+    "daniel": [
+      2
+    ]
+  },
+  "edayin": {
+    "daniel": [
+      2
+    ]
+  },
+  "daq": {
+    "daniel": [
+      2
+    ]
+  },
+  "iddar": {
+    "daniel": [
+      2
+    ]
+  },
+  "qayit": {
+    "daniel": [
+      2
+    ]
+  },
+  "nesa": {
+    "daniel": [
+      2
+    ]
+  },
+  "shakach": {
+    "daniel": [
+      2
+    ]
+  },
+  "mecha": {
+    "daniel": [
+      2
+    ]
+  },
+  "tur": {
+    "daniel": [
+      2
+    ]
+  },
+  "mela": {
+    "daniel": [
+      2
+    ]
+  },
+  "ara": {
+    "daniel": [
+      2
+    ]
+  },
+  "chelem": {
+    "daniel": [
+      2
+    ]
+  },
+  "qodam": {
+    "daniel": [
+      2
+    ]
+  },
+  "elah": {
+    "daniel": [
+      2
+    ]
+  },
+  "shemay": {
+    "daniel": [
+      2
+    ]
+  },
+  "chisen": {
+    "daniel": [
+      2
+    ]
+  },
+  "toqef": {
+    "daniel": [
+      2
+    ]
+  },
+  "yeqar": {
+    "daniel": [
+      2
+    ]
+  },
+  "yahav": {
+    "daniel": [
+      2
+    ]
+  },
+  "dur": {
+    "daniel": [
+      2
+    ]
+  },
+  "bar": {
+    "daniel": [
+      2
+    ]
+  },
+  "enash": {
+    "daniel": [
+      2
+    ]
+  },
+  "cheiva": {
+    "daniel": [
+      2
+    ]
+  },
+  "bar_field": {
+    "daniel": [
+      2
+    ]
+  },
+  "of": {
+    "daniel": [
+      2
+    ]
+  },
+  "shelet": {
+    "daniel": [
+      2
+    ]
+  },
+  "himmon": {
+    "daniel": [
+      2
+    ]
+  },
+  "ochoran": {
+    "daniel": [
+      2
+    ]
+  },
+  "telat": {
+    "daniel": [
+      2
+    ]
+  },
+  "revai": {
+    "daniel": [
+      2
+    ]
+  },
+  "taqqif": {
+    "daniel": [
+      2
+    ]
+  },
+  "qetsat": {
+    "daniel": [
+      2
+    ]
+  },
+  "tevir": {
+    "daniel": [
+      2
+    ]
+  },
+  "chashal": {
+    "daniel": [
+      2
+    ]
+  },
+  "raa": {
+    "daniel": [
+      2
+    ]
+  },
+  "etzba": {
+    "daniel": [
+      2
+    ]
+  },
+  "pechar": {
+    "daniel": [
+      2
+    ]
+  },
+  "pelag": {
+    "daniel": [
+      2
+    ]
+  },
+  "nitzav": {
+    "daniel": [
+      2
+    ]
+  },
+  "arav": {
+    "daniel": [
+      2
+    ]
+  },
+  "tin": {
+    "daniel": [
+      2
+    ]
+  },
+  "kedi": {
+    "daniel": [
+      2
+    ]
+  },
+  "yoma": {
+    "daniel": [
+      2
+    ]
+  },
+  "innun": {
+    "daniel": [
+      2
+    ]
+  },
+  "yeqim": {
+    "daniel": [
+      2
+    ]
+  },
+  "alma": {
+    "daniel": [
+      2
+    ]
+  },
+  "chabat": {
+    "daniel": [
+      2
+    ]
+  },
+  "shebaq": {
+    "daniel": [
+      2
+    ]
+  },
+  "illen": {
+    "daniel": [
+      2
+    ]
+  },
+  "hada": {
+    "daniel": [
+      2
+    ]
+  },
+  "yatziv": {
+    "daniel": [
+      2
+    ]
+  },
+  "nephal": {
+    "daniel": [
+      2
+    ]
+  },
+  "anaf": {
+    "daniel": [
+      2
+    ]
+  },
+  "segid": {
+    "daniel": [
+      2
+    ]
+  },
+  "daniel_name": {
+    "daniel": [
+      2
+    ]
+  },
+  "amar_aramaic": {
+    "daniel": [
+      2
+    ]
+  },
+  "nesakh": {
+    "daniel": [
+      2
+    ]
+  },
+  "nichoach": {
     "daniel": [
       2
     ]

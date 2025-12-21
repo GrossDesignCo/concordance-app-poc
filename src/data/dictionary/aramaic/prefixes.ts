@@ -65,6 +65,67 @@ const PREFIXES = {
     description: '3rd person masculine imperfect prefix (Aramaic)',
     function: 'verb prefix',
   },
+  // Daniel 2:32 additions
+  u: {
+    aramaic: 'וּ',
+    transliteration: 'u',
+    englishLiteral: 'and',
+    englishNatural: 'and',
+    description: 'conjunction - and (Aramaic, variant before consonant clusters)',
+    function: 'conjunction',
+  },
+  // Daniel 2:35 additions
+  ka: {
+    aramaic: 'כְּ',
+    transliteration: 'ka',
+    englishLiteral: 'like',
+    englishNatural: 'like',
+    description: 'preposition - like, as (Aramaic)',
+    function: 'preposition',
+  },
+  ke: {
+    aramaic: 'כְּ',
+    transliteration: 'ke',
+    englishLiteral: 'like',
+    englishNatural: 'like',
+    description: 'preposition - like, as (Aramaic, alternate form)',
+    function: 'preposition',
+  },
+  // Daniel 2:37 additions
+  vi: {
+    aramaic: 'וִ',
+    transliteration: 'vi',
+    englishLiteral: 'and',
+    englishNatural: 'and',
+    description: 'conjunction - and (Aramaic, variant before yod)',
+    function: 'conjunction',
+  },
+  // Daniel 2:38 additions
+  bi: {
+    aramaic: 'בִּ',
+    transliteration: 'bi',
+    englishLiteral: 'in',
+    englishNatural: 'in',
+    description: 'preposition - in, with (Aramaic, variant before consonants)',
+    function: 'preposition',
+  },
+  ha: {
+    aramaic: 'הַ',
+    transliteration: 'ha',
+    englishLiteral: 'he-caused',
+    englishNatural: 'he caused',
+    description: 'haphel stem prefix - causative (Aramaic)',
+    function: 'verb stem marker',
+  },
+  // Daniel 2:41 additions
+  ba: {
+    aramaic: 'בַּ',
+    transliteration: 'ba',
+    englishLiteral: 'in',
+    englishNatural: 'in',
+    description: 'preposition - in, with (Aramaic, variant)',
+    function: 'preposition',
+  },
 } as const;
 
 type PrefixKey = keyof typeof PREFIXES;

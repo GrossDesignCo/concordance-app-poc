@@ -1,0 +1,71 @@
+{
+  "key": "im",
+  "aramaic": "עִם",
+  "transliteration": "im",
+  "englishLiteral": "with",
+  "englishNatural": "with",
+  "type": "preposition",
+  "description": "with, together with (Aramaic)",
+  "cognateHebrew": [
+    "im"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "43": [
+          14,
+          21
+        ]
+      }
+    },
+    "genesis": {
+      "4": {
+        "7": [
+          1,
+          4
+        ]
+      },
+      "15": {
+        "5": [
+          9
+        ]
+      }
+    },
+    "numbers": {
+      "21": {
+        "9": [
+          8
+        ]
+      }
+    },
+    "proverbs": {
+      "22": {
+        "2": [
+          4
+        ]
+      }
+    },
+    "psalms": {
+      "1": {
+        "2": [
+          1
+        ],
+        "4": [
+          4
+        ]
+      },
+      "23": {
+        "4": [
+          10
+        ]
+      },
+      "131": {
+        "2": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

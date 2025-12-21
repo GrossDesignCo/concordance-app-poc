@@ -24,8 +24,8 @@ export const daniel_2_29: Verse = {
     {
       aramaic: 'מַלְכָּא',
       transliteration: 'malka',
-      englishLiteral: 'the-king',
-      englishNatural: 'O king',
+      englishLiteral: 'king-the',
+      englishNatural: 'the king',
       root: 'melekh',
       suffixes: ['a'],
       order: 2,
@@ -57,7 +57,7 @@ export const daniel_2_29: Verse = {
       aramaic: 'עַל',
       transliteration: 'al',
       englishLiteral: 'over',
-      englishNatural: 'upon',
+      englishNatural: 'over',
       root: 'al',
       order: 4,
       morphology: {
@@ -114,7 +114,7 @@ export const daniel_2_29: Verse = {
       aramaic: 'דִּי',
       transliteration: 'di',
       englishLiteral: 'which',
-      englishNatural: 'will',
+      englishNatural: 'which',
       root: 'di',
       order: 8,
       morphology: {
@@ -125,7 +125,7 @@ export const daniel_2_29: Verse = {
       aramaic: 'לֶהֱוֵא',
       transliteration: 'leheve',
       englishLiteral: 'to-be',
-      englishNatural: 'be',
+      englishNatural: 'will be',
       root: 'hava',
       prefixes: ['le'],
       order: 9,
@@ -164,8 +164,8 @@ export const daniel_2_29: Verse = {
     {
       aramaic: 'וְגָלֵא',
       transliteration: 'vegale',
-      englishLiteral: 'and-the-revealer',
-      englishNatural: 'and the revealer of',
+      englishLiteral: 'and-revealer-the',
+      englishNatural: 'and the Revealer of',
       root: 'gala',
       prefixes: ['ve'],
       suffixes: ['a'],
@@ -180,8 +180,8 @@ export const daniel_2_29: Verse = {
     {
       aramaic: 'רָזַיָּא',
       transliteration: 'razayya',
-      englishLiteral: 'the-mysteries',
-      englishNatural: 'mysteries',
+      englishLiteral: 'mysteries-the',
+      englishNatural: 'the Mysteries',
       root: 'raz',
       suffixes: ['ayya'],
       order: 13,
@@ -225,7 +225,7 @@ export const daniel_2_29: Verse = {
       aramaic: 'דִּי',
       transliteration: 'di',
       englishLiteral: 'which',
-      englishNatural: 'will',
+      englishNatural: 'which',
       root: 'di',
       order: 16,
       morphology: {
@@ -236,7 +236,7 @@ export const daniel_2_29: Verse = {
       aramaic: 'לֶהֱוֵא',
       transliteration: 'leheve',
       englishLiteral: 'to-be',
-      englishNatural: 'be',
+      englishNatural: 'will be',
       root: 'hava',
       prefixes: ['le'],
       order: 17,
@@ -258,10 +258,10 @@ export const daniel_2_29: Verse = {
     transliteration:
       'antah malka rayonakh al mishkavakh sliqu mah di leheve acharey denah vegale razayya hodakh mah di leheve',
     englishLiteral:
-      'you the-king thoughts-your over bed-your they-came-up, what which to-be after this, and-the-revealer the-mysteries he-caused-you-to-know what which to-be.',
+      'you king-the thoughts-your over bed-your they-came-up, what which to-be after this, and-revealer-the mysteries-the he-caused-you-to-know what which to-be.',
     englishNatural:
-      'You O king, your thoughts upon your bed came up, what will be after this, and the revealer of mysteries caused you to know what will be.',
+      'You the king, your thoughts over your bed came up, what which will be after this, and the Revealer of the Mysteries caused you to know what which will be.',
     kjv: 'As for thee, O king, thy thoughts came into thy mind upon thy bed, what should come to pass hereafter: and he that revealeth secrets maketh known to thee what shall come to pass.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-15' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-21' },
+  },
 };

@@ -1,0 +1,32 @@
+{
+  "key": "dehav",
+  "aramaic": "דְהַב",
+  "transliteration": "dehav",
+  "englishLiteral": "gold",
+  "englishNatural": "gold",
+  "type": "noun",
+  "description": "gold (Aramaic)",
+  "cognateHebrew": [
+    "zahav"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "32": [
+          4
+        ],
+        "35": [
+          7
+        ],
+        "38": [
+          17
+        ],
+        "45": [
+          17
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

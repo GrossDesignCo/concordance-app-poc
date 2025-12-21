@@ -54,7 +54,7 @@ export const daniel_2_30: Verse = {
       aramaic: 'דִּי',
       transliteration: 'di',
       englishLiteral: 'which',
-      englishNatural: 'that',
+      englishNatural: 'which',
       root: 'di',
       order: 4,
       morphology: {
@@ -76,7 +76,7 @@ export const daniel_2_30: Verse = {
       aramaic: 'מִן',
       transliteration: 'min',
       englishLiteral: 'from',
-      englishNatural: 'more than',
+      englishNatural: 'from',
       root: 'min',
       order: 6,
       morphology: {
@@ -97,7 +97,7 @@ export const daniel_2_30: Verse = {
     {
       aramaic: 'חַיַּיָּא',
       transliteration: 'chayyayya',
-      englishLiteral: 'the-living',
+      englishLiteral: 'living-the',
       englishNatural: 'the living',
       root: 'chay',
       suffixes: ['ayya'],
@@ -116,13 +116,13 @@ export const daniel_2_30: Verse = {
     {
       aramaic: 'רָזָה',
       transliteration: 'razah',
-      englishLiteral: 'the-mystery',
-      englishNatural: 'mystery',
+      englishLiteral: 'mystery-the',
+      englishNatural: 'the mystery',
       root: 'raz',
       suffixes: ['ah'],
       order: {
-        hebrew: 9,
-        english: 10,
+        aramaic: 9,
+        english: 11,
       },
       morphology: {
         gender: 'masculine',
@@ -137,21 +137,24 @@ export const daniel_2_30: Verse = {
       englishLiteral: 'this',
       englishNatural: 'this',
       root: 'denah',
-      order: {
-        hebrew: 10,
-        english: 9,
-      },
+      order: 10,
       morphology: {
         type: 'pronoun',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
       },
     },
     {
       aramaic: 'גְּלִי',
       transliteration: 'geli',
       englishLiteral: 'he-revealed',
-      englishNatural: 'has been revealed',
+      englishNatural: 'has he revealed',
       root: 'gala',
-      order: 11,
+      order: {
+        aramaic: 11,
+        english: 9,
+      },
       morphology: {
         gender: 'masculine',
         number: 'singular',
@@ -186,12 +189,15 @@ export const daniel_2_30: Verse = {
       morphology: {
         type: 'conjunction',
       },
+      lineBreaksBefore: {
+        english: 1,
+      },
     },
     {
       aramaic: 'בְּדִבְרַת',
       transliteration: 'beDivrat',
-      englishLiteral: 'on-account-of',
-      englishNatural: 'on account of',
+      englishLiteral: 'on-word-of',
+      englishNatural: 'on the word of',
       root: 'dibrah',
       prefixes: ['be'],
       order: 14,
@@ -206,7 +212,7 @@ export const daniel_2_30: Verse = {
       aramaic: 'דִּי',
       transliteration: 'di',
       englishLiteral: 'which',
-      englishNatural: 'that',
+      englishNatural: 'which',
       root: 'di',
       order: 15,
       morphology: {
@@ -216,7 +222,7 @@ export const daniel_2_30: Verse = {
     {
       aramaic: 'פִּשְׁרָא',
       transliteration: 'pishra',
-      englishLiteral: 'the-interpretation',
+      englishLiteral: 'interpretation-the',
       englishNatural: 'the interpretation',
       root: 'peshar',
       suffixes: ['a'],
@@ -231,33 +237,91 @@ export const daniel_2_30: Verse = {
     {
       aramaic: 'לְמַלְכָּא',
       transliteration: 'leMalka',
-      englishLiteral: 'to-the-king',
+      englishLiteral: 'to-king-the',
       englishNatural: 'to the king',
       root: 'melekh',
       prefixes: ['le'],
       suffixes: ['a'],
-      order: 17,
+      order: {
+        aramaic: 17,
+        english: 18,
+      },
       morphology: {
         gender: 'masculine',
         number: 'singular',
         type: 'noun',
         state: 'emphatic',
       },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
     },
     {
       aramaic: 'יְהוֹדְעוּן',
       transliteration: 'yehodun',
       englishLiteral: 'they-will-make-known',
-      englishNatural: 'they might make known',
+      englishNatural: 'might be made known',
       root: 'yada',
       prefixes: ['ye'],
-      order: 18,
+      order: {
+        aramaic: 18,
+        english: 17,
+      },
       morphology: {
         gender: 'masculine',
         number: 'plural',
         person: '3rd',
         tense: 'imperfect',
         stem: 'haphel',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+      },
+    },
+    {
+      aramaic: 'וְרַעְיוֹנֵי',
+      transliteration: 'veRaayonei',
+      englishLiteral: 'and-thoughts-of',
+      englishNatural: 'and the thoughts of',
+      root: 'raavon',
+      prefixes: ['ve'],
+      suffixes: ['ei'],
+      order: 19,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+        state: 'construct',
+      },
+    },
+    {
+      aramaic: 'לִבְבָךְ',
+      transliteration: 'levavakh',
+      englishLiteral: 'heart-your',
+      englishNatural: 'your heart',
+      root: 'levav',
+      suffixes: ['akh'],
+      order: 20,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      aramaic: 'תִּנְדַּע',
+      transliteration: 'tindaa',
+      englishLiteral: 'you-will-know',
+      englishNatural: 'you might know',
+      root: 'yada',
+      order: 21,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '2nd',
+        tense: 'imperfect',
+        stem: 'peal',
         type: 'verb',
       },
       grammarSuffix: {
@@ -268,15 +332,15 @@ export const daniel_2_30: Verse = {
     },
   ],
   expectedTranslations: {
-    hebrew:
-      'וַאֲנָה לָא בְחָכְמָה דִּי אִיתַי מִן כָּל חַיַּיָּא רָזָה דְנָה גְּלִי לִי לָהֵן בְּדִבְרַת דִּי פִּשְׁרָא לְמַלְכָּא יְהוֹדְעוּן',
+    aramaic:
+      'וַאֲנָה לָא בְחָכְמָה דִּי אִיתַי מִן כָּל חַיַּיָּא רָזָה דְנָה גְּלִי לִי לָהֵן בְּדִבְרַת דִּי פִּשְׁרָא לְמַלְכָּא יְהוֹדְעוּן וְרַעְיוֹנֵי לִבְבָךְ תִּנְדַּע',
     transliteration:
-      'vaAnah la beChokmah di itay min kol chayyayya razah denah geli li lahen beDivrat di pishra leMalka yehodun',
+      'vaAnah la beChokmah di itay min kol chayyayya razah denah geli li lahen beDivrat di pishra leMalka yehodun veRaayonei levavakh tindaa',
     englishLiteral:
-      'and-I not in-wisdom which there-is-in-me from all the-living, the-mystery this he-revealed to-me, but on-account-of which the-interpretation to-the-king they-will-make-known.',
+      'and-I not in-wisdom which there-is-in-me from all living-the, mystery-the this he-revealed to-me, but on-word-of which interpretation-the to-king-the they-will-make-known, and-thoughts-of heart-your you-will-know.',
     englishNatural:
-      'And I, not in wisdom that is in me more than all the living, this mystery has been revealed to me, but on account of that the interpretation to the king they might make known.',
+      'And I, not in wisdom which is in me from all the living, has he revealed this, the mystery to me, but on the word of which the interpretation might be made known to the king, and the thoughts of your heart you might know.',
     kjv: 'But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but for their sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-15' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-21' },
+  },
 };

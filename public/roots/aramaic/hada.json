@@ -1,0 +1,23 @@
+{
+  "key": "hada",
+  "aramaic": "הוֹדַע",
+  "transliteration": "hada",
+  "englishLiteral": "to make_known",
+  "englishNatural": "to make-known",
+  "type": "verb",
+  "description": "to make known, to inform, to declare (Aramaic haphel of yada)",
+  "cognateHebrew": [
+    "yada"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "45": [
+          20
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

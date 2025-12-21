@@ -1,0 +1,23 @@
+{
+  "key": "etzba",
+  "aramaic": "אֶצְבַּע",
+  "transliteration": "etzba",
+  "englishLiteral": "toe",
+  "englishNatural": "toe",
+  "type": "noun",
+  "description": "toe, finger, digit (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "41": [
+          3
+        ],
+        "42": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,26 @@
+{
+  "key": "yahav",
+  "aramaic": "יְהַב",
+  "transliteration": "yahav",
+  "englishLiteral": "to give",
+  "englishNatural": "to give",
+  "type": "verb",
+  "description": "to give, to grant, to bestow (Aramaic)",
+  "cognateHebrew": [
+    "natan"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "37": [
+          11
+        ],
+        "38": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

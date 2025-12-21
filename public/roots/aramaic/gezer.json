@@ -1,0 +1,30 @@
+{
+  "key": "gezer",
+  "aramaic": "גְּזַר",
+  "transliteration": "gezer",
+  "englishLiteral": "to cut",
+  "englishNatural": "to cut",
+  "type": "verb",
+  "description": "to cut, to cut out, to hew (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "34": [
+          4
+        ],
+        "45": [
+          7
+        ]
+      }
+    },
+    "genesis": {
+      "15": {
+        "17": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

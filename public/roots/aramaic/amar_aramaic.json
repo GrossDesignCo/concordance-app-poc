@@ -1,0 +1,23 @@
+{
+  "key": "amar_aramaic",
+  "aramaic": "אֲמַר",
+  "transliteration": "amar",
+  "englishLiteral": "to say",
+  "englishNatural": "to say",
+  "type": "verb",
+  "description": "to say, to speak, to command (Aramaic)",
+  "cognateHebrew": [
+    "amar"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "46": [
+          10
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

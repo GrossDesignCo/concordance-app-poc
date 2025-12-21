@@ -1,0 +1,20 @@
+{
+  "key": "nitzav",
+  "aramaic": "נִצַּב",
+  "transliteration": "nitzav",
+  "englishLiteral": "firmness",
+  "englishNatural": "firmness",
+  "type": "noun",
+  "description": "firmness, strength, hardness (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "41": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

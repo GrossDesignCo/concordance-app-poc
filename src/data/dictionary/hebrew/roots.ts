@@ -2569,7 +2569,8 @@ const ROOTS = {
     englishLiteral: 'the_age',
     englishNatural: 'the-age',
     type: 'noun',
-    description: 'eternity, forever, everlasting, ancient time',
+    description:
+      '"unto/from hidden time", or "beyond the horizon of knowability", eternity, forever, everlasting, ancient time',
   },
   garash: {
     hebrew: 'גרש',

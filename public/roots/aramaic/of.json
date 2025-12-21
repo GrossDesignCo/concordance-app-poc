@@ -1,0 +1,23 @@
+{
+  "key": "of",
+  "aramaic": "עוֹף",
+  "transliteration": "of",
+  "englishLiteral": "bird",
+  "englishNatural": "bird",
+  "type": "noun",
+  "description": "bird, fowl (Aramaic)",
+  "cognateHebrew": [
+    "tzippor"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "38": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

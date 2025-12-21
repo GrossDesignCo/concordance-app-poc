@@ -1,0 +1,20 @@
+{
+  "key": "pechar",
+  "aramaic": "פֶּחָר",
+  "transliteration": "pechar",
+  "englishLiteral": "potter",
+  "englishNatural": "potter",
+  "type": "noun",
+  "description": "potter, one who works with clay (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "41": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

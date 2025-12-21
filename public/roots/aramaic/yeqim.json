@@ -1,0 +1,23 @@
+{
+  "key": "yeqim",
+  "aramaic": "יְקִים",
+  "transliteration": "yeqim",
+  "englishLiteral": "he-will-raise_up",
+  "englishNatural": "he will raise-up",
+  "type": "verb",
+  "description": "to raise up, to establish, to set up (Aramaic haphel of qum)",
+  "cognateHebrew": [
+    "qum"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "44": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

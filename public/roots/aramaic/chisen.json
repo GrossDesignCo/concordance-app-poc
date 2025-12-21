@@ -1,0 +1,20 @@
+{
+  "key": "chisen",
+  "aramaic": "חִסֵן",
+  "transliteration": "chisen",
+  "englishLiteral": "power",
+  "englishNatural": "power",
+  "type": "noun",
+  "description": "power, might, strength (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "37": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

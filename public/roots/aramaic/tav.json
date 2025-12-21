@@ -1,0 +1,23 @@
+{
+  "key": "tav",
+  "aramaic": "טָב",
+  "transliteration": "tav",
+  "englishLiteral": "good",
+  "englishNatural": "good",
+  "type": "adjective",
+  "description": "good, fine, pleasant (Aramaic)",
+  "cognateHebrew": [
+    "tov"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "32": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

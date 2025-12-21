@@ -1,0 +1,91 @@
+{
+  "key": "ruach",
+  "aramaic": "רוּחַ",
+  "transliteration": "ruach",
+  "englishLiteral": "wind",
+  "englishNatural": "wind",
+  "type": "noun",
+  "description": "wind, spirit, breath (Aramaic)",
+  "cognateHebrew": [
+    "ruach"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "35": [
+          14
+        ]
+      }
+    },
+    "ezekiel": {
+      "1": {
+        "4": [
+          2
+        ],
+        "12": [
+          9
+        ],
+        "20": [
+          4,
+          8,
+          14
+        ],
+        "21": [
+          11
+        ]
+      },
+      "2": {
+        "2": [
+          2
+        ]
+      }
+    },
+    "genesis": {
+      "1": {
+        "2": [
+          7
+        ]
+      },
+      "3": {
+        "8": [
+          7
+        ]
+      },
+      "6": {
+        "3": [
+          4
+        ],
+        "17": [
+          13
+        ]
+      },
+      "8": {
+        "21": [
+          0,
+          3
+        ]
+      }
+    },
+    "jonah": {
+      "1": {
+        "4": [
+          2
+        ]
+      },
+      "4": {
+        "8": [
+          5
+        ]
+      }
+    },
+    "psalms": {
+      "1": {
+        "4": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

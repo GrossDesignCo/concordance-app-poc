@@ -1,0 +1,23 @@
+{
+  "key": "cheiva",
+  "aramaic": "חֵיוָה",
+  "transliteration": "cheiva",
+  "englishLiteral": "beast",
+  "englishNatural": "beast",
+  "type": "noun",
+  "description": "beast, animal, living creature (Aramaic)",
+  "cognateHebrew": [
+    "chayah"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "38": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

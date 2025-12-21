@@ -1,0 +1,20 @@
+{
+  "key": "illen",
+  "aramaic": "אִלֵּין",
+  "transliteration": "illen",
+  "englishLiteral": "these",
+  "englishNatural": "these",
+  "type": "pronoun",
+  "description": "these - demonstrative pronoun, plural (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "44": [
+          20
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

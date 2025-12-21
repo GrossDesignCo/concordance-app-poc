@@ -1,0 +1,23 @@
+{
+  "key": "himmon",
+  "aramaic": "הִמּוֹן",
+  "transliteration": "himmon",
+  "englishLiteral": "them",
+  "englishNatural": "them",
+  "type": "pronoun",
+  "description": "them (3rd person masculine plural pronoun) (Aramaic)",
+  "cognateHebrew": [
+    "hem"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "34": [
+          17
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

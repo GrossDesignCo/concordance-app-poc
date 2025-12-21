@@ -1,0 +1,23 @@
+{
+  "key": "yeqar",
+  "aramaic": "יְקָר",
+  "transliteration": "yeqar",
+  "englishLiteral": "glory",
+  "englishNatural": "glory",
+  "type": "noun",
+  "description": "glory, honor, dignity, majesty (Aramaic)",
+  "cognateHebrew": [
+    "kavod"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "37": [
+          10
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

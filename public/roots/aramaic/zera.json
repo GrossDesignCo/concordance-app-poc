@@ -1,0 +1,52 @@
+{
+  "key": "zera",
+  "aramaic": "זְרַע",
+  "transliteration": "zera",
+  "englishLiteral": "seed",
+  "englishNatural": "seed",
+  "type": "noun",
+  "description": "seed, offspring, descendants (Aramaic)",
+  "cognateHebrew": [
+    "zera"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "43": [
+          8
+        ]
+      }
+    },
+    "genesis": {
+      "1": {
+        "29": [
+          9,
+          23
+        ]
+      },
+      "3": {
+        "15": [
+          6,
+          8
+        ]
+      },
+      "4": {
+        "25": [
+          15
+        ]
+      },
+      "8": {
+        "22": [
+          4
+        ]
+      },
+      "9": {
+        "9": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

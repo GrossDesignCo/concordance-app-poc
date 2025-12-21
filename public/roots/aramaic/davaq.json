@@ -1,0 +1,30 @@
+{
+  "key": "davaq",
+  "aramaic": "דָּבַק",
+  "transliteration": "davaq",
+  "englishLiteral": "to adhere",
+  "englishNatural": "to adhere",
+  "type": "verb",
+  "description": "to adhere, to cling, to stick together (Aramaic)",
+  "cognateHebrew": [
+    "davaq"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "43": [
+          12
+        ]
+      }
+    },
+    "genesis": {
+      "2": {
+        "24": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

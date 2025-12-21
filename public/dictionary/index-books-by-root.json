@@ -17,6 +17,7 @@
     "jonah"
   ],
   "amar": [
+    "daniel",
     "exodus",
     "ezekiel",
     "genesis",
@@ -74,6 +75,7 @@
     "proverbs"
   ],
   "ruach": [
+    "daniel",
     "ezekiel",
     "genesis",
     "jonah",
@@ -147,6 +149,7 @@
     "proverbs"
   ],
   "anash": [
+    "daniel",
     "proverbs"
   ],
   "nachash": [
@@ -283,6 +286,7 @@
     "jonah"
   ],
   "be": [
+    "daniel",
     "ezekiel",
     "genesis",
     "jonah"
@@ -316,6 +320,7 @@
     "numbers"
   ],
   "am": [
+    "daniel",
     "genesis",
     "isaiah",
     "jonah",
@@ -382,6 +387,7 @@
     "proverbs"
   ],
   "im": [
+    "daniel",
     "genesis",
     "numbers",
     "proverbs",
@@ -416,6 +422,9 @@
     "jonah",
     "proverbs",
     "psalms"
+  ],
+  "atar": [
+    "daniel"
   ],
   "yashav": [
     "genesis",
@@ -460,6 +469,7 @@
     "isaiah"
   ],
   "regel": [
+    "daniel",
     "ezekiel",
     "isaiah"
   ],
@@ -494,6 +504,7 @@
     "isaiah"
   ],
   "hu": [
+    "daniel",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -776,6 +787,7 @@
     "jonah"
   ],
   "zera": [
+    "daniel",
     "genesis"
   ],
   "amad": [
@@ -927,6 +939,7 @@
     "genesis"
   ],
   "even": [
+    "daniel",
     "ezekiel",
     "genesis"
   ],
@@ -1030,6 +1043,7 @@
     "psalms"
   ],
   "davaq": [
+    "daniel",
     "genesis"
   ],
   "kisse": [
@@ -1234,6 +1248,7 @@
     "genesis"
   ],
   "hi": [
+    "daniel",
     "ezekiel",
     "genesis"
   ],
@@ -1522,6 +1537,7 @@
     "psalms"
   ],
   "levav": [
+    "daniel",
     "jonah"
   ],
   "shavah": [
@@ -1579,6 +1595,7 @@
     "genesis"
   ],
   "minchah": [
+    "daniel",
     "genesis"
   ],
   "bekhor": [
@@ -1880,6 +1897,7 @@
     "genesis"
   ],
   "meah": [
+    "daniel",
     "genesis"
   ],
   "achar": [
@@ -2206,6 +2224,7 @@
     "jonah"
   ],
   "aman": [
+    "daniel",
     "genesis",
     "jonah"
   ],
@@ -2433,6 +2452,7 @@
     "jonah"
   ],
   "suf": [
+    "daniel",
     "jonah"
   ],
   "chavash": [
@@ -2832,6 +2852,7 @@
     "genesis"
   ],
   "hen": [
+    "daniel",
     "genesis"
   ],
   "batsar": [
@@ -2893,6 +2914,7 @@
     "genesis"
   ],
   "ur": [
+    "daniel",
     "genesis"
   ],
   "bamah": [
@@ -2956,6 +2978,7 @@
     "genesis"
   ],
   "gezer": [
+    "daniel",
     "genesis"
   ],
   "mitzrayim": [
@@ -3330,6 +3353,9 @@
   "chay": [
     "daniel"
   ],
+  "le": [
+    "daniel"
+  ],
   "lahen": [
     "daniel"
   ],
@@ -3367,6 +3393,210 @@
     "daniel"
   ],
   "dechal": [
+    "daniel"
+  ],
+  "resh": [
+    "daniel"
+  ],
+  "dehav": [
+    "daniel"
+  ],
+  "tav": [
+    "daniel"
+  ],
+  "chad_chest": [
+    "daniel"
+  ],
+  "dera": [
+    "daniel"
+  ],
+  "kesaf": [
+    "daniel"
+  ],
+  "yarkah": [
+    "daniel"
+  ],
+  "nechash": [
+    "daniel"
+  ],
+  "shaq": [
+    "daniel"
+  ],
+  "parzel": [
+    "daniel"
+  ],
+  "chasaf": [
+    "daniel"
+  ],
+  "edayin": [
+    "daniel"
+  ],
+  "daq": [
+    "daniel"
+  ],
+  "iddar": [
+    "daniel"
+  ],
+  "qayit": [
+    "daniel"
+  ],
+  "nesa": [
+    "daniel"
+  ],
+  "shakach": [
+    "daniel"
+  ],
+  "mecha": [
+    "daniel"
+  ],
+  "tur": [
+    "daniel"
+  ],
+  "mela": [
+    "daniel"
+  ],
+  "ara": [
+    "daniel"
+  ],
+  "chelem": [
+    "daniel"
+  ],
+  "qodam": [
+    "daniel"
+  ],
+  "elah": [
+    "daniel"
+  ],
+  "shemay": [
+    "daniel"
+  ],
+  "chisen": [
+    "daniel"
+  ],
+  "toqef": [
+    "daniel"
+  ],
+  "yeqar": [
+    "daniel"
+  ],
+  "yahav": [
+    "daniel"
+  ],
+  "dur": [
+    "daniel"
+  ],
+  "bar": [
+    "daniel"
+  ],
+  "enash": [
+    "daniel"
+  ],
+  "cheiva": [
+    "daniel"
+  ],
+  "bar_field": [
+    "daniel"
+  ],
+  "of": [
+    "daniel"
+  ],
+  "shelet": [
+    "daniel"
+  ],
+  "himmon": [
+    "daniel"
+  ],
+  "ochoran": [
+    "daniel"
+  ],
+  "telat": [
+    "daniel"
+  ],
+  "revai": [
+    "daniel"
+  ],
+  "taqqif": [
+    "daniel"
+  ],
+  "qetsat": [
+    "daniel"
+  ],
+  "tevir": [
+    "daniel"
+  ],
+  "chashal": [
+    "daniel"
+  ],
+  "raa": [
+    "daniel"
+  ],
+  "etzba": [
+    "daniel"
+  ],
+  "pechar": [
+    "daniel"
+  ],
+  "pelag": [
+    "daniel"
+  ],
+  "nitzav": [
+    "daniel"
+  ],
+  "arav": [
+    "daniel"
+  ],
+  "tin": [
+    "daniel"
+  ],
+  "kedi": [
+    "daniel"
+  ],
+  "yoma": [
+    "daniel"
+  ],
+  "innun": [
+    "daniel"
+  ],
+  "yeqim": [
+    "daniel"
+  ],
+  "alma": [
+    "daniel"
+  ],
+  "chabat": [
+    "daniel"
+  ],
+  "shebaq": [
+    "daniel"
+  ],
+  "illen": [
+    "daniel"
+  ],
+  "hada": [
+    "daniel"
+  ],
+  "yatziv": [
+    "daniel"
+  ],
+  "nephal": [
+    "daniel"
+  ],
+  "anaf": [
+    "daniel"
+  ],
+  "segid": [
+    "daniel"
+  ],
+  "daniel_name": [
+    "daniel"
+  ],
+  "amar_aramaic": [
+    "daniel"
+  ],
+  "nesakh": [
+    "daniel"
+  ],
+  "nichoach": [
     "daniel"
   ]
 }

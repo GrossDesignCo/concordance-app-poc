@@ -1,0 +1,20 @@
+{
+  "key": "chabat",
+  "aramaic": "חֲבַל",
+  "transliteration": "chabat",
+  "englishLiteral": "to be_damaged",
+  "englishNatural": "to be-damaged",
+  "type": "verb",
+  "description": "to be damaged, to be destroyed, to perish (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "44": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

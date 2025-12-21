@@ -1,0 +1,27 @@
+{
+  "key": "ara",
+  "aramaic": "אֲרַע",
+  "transliteration": "ara",
+  "englishLiteral": "earth",
+  "englishNatural": "earth",
+  "type": "noun",
+  "description": "earth, land, ground (Aramaic)",
+  "cognateHebrew": [
+    "eretz"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "35": [
+          29
+        ],
+        "39": [
+          4,
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

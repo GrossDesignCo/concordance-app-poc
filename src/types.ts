@@ -513,6 +513,8 @@ export type Verse = {
   meta: VerseMeta;
   words: TranslationWord[];
   // Different renderings of the complete verse for test/validation purposes
+  // CRITICAL: This serves as a doublecheck function against the data,
+  // to ensure that the translator is extra-certain they have it right.
   expectedTranslations: {
     lastReviewed?: {
       date: string;

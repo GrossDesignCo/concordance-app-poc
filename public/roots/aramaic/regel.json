@@ -1,0 +1,57 @@
+{
+  "key": "regel",
+  "aramaic": "רֶגֶל",
+  "transliteration": "regel",
+  "englishLiteral": "foot",
+  "englishNatural": "foot",
+  "type": "noun",
+  "description": "foot (Aramaic)",
+  "cognateHebrew": [
+    "regel"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "33": [
+          3
+        ],
+        "34": [
+          12
+        ],
+        "41": [
+          2
+        ],
+        "42": [
+          1
+        ]
+      }
+    },
+    "ezekiel": {
+      "1": {
+        "7": [
+          0,
+          1,
+          4,
+          6
+        ]
+      },
+      "2": {
+        "1": [
+          6
+        ],
+        "2": [
+          8
+        ]
+      }
+    },
+    "isaiah": {
+      "6": {
+        "2": [
+          12
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

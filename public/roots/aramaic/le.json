@@ -1,0 +1,26 @@
+{
+  "key": "le",
+  "aramaic": "לְ",
+  "transliteration": "le",
+  "englishLiteral": "to",
+  "englishNatural": "to",
+  "type": "preposition",
+  "description": "to, for (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "35": [
+          19
+        ],
+        "37": [
+          12
+        ],
+        "46": [
+          12
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

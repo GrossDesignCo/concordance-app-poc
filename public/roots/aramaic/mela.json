@@ -1,0 +1,23 @@
+{
+  "key": "mela",
+  "aramaic": "מְלָא",
+  "transliteration": "mela",
+  "englishLiteral": "to fill",
+  "englishNatural": "to fill",
+  "type": "verb",
+  "description": "to fill, to be full (Aramaic)",
+  "cognateHebrew": [
+    "male"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "35": [
+          27
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

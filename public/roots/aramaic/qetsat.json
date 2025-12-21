@@ -1,0 +1,20 @@
+{
+  "key": "qetsat",
+  "aramaic": "קְצָת",
+  "transliteration": "qetsat",
+  "englishLiteral": "end",
+  "englishNatural": "end",
+  "type": "noun",
+  "description": "end, part, portion (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "42": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

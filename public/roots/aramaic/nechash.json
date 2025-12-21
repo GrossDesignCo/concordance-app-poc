@@ -1,0 +1,32 @@
+{
+  "key": "nechash",
+  "aramaic": "נְחָשׁ",
+  "transliteration": "nechash",
+  "englishLiteral": "bronze",
+  "englishNatural": "bronze",
+  "type": "noun",
+  "description": "bronze, brass, copper (Aramaic)",
+  "cognateHebrew": [
+    "nechoshet"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "32": [
+          13
+        ],
+        "35": [
+          5
+        ],
+        "39": [
+          10
+        ],
+        "45": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

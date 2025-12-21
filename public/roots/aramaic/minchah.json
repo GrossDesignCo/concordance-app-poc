@@ -1,0 +1,36 @@
+{
+  "key": "minchah",
+  "aramaic": "מִנְחָה",
+  "transliteration": "minchah",
+  "englishLiteral": "offering",
+  "englishNatural": "offering",
+  "type": "noun",
+  "description": "offering, gift, tribute (Aramaic)",
+  "cognateHebrew": [
+    "minchah"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "46": [
+          8
+        ]
+      }
+    },
+    "genesis": {
+      "4": {
+        "3": [
+          7
+        ],
+        "4": [
+          12
+        ],
+        "5": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,24 @@
+{
+  "key": "enash",
+  "aramaic": "אֱנָשׁ",
+  "transliteration": "enash",
+  "englishLiteral": "mortal_man",
+  "englishNatural": "mortal-man",
+  "type": "noun",
+  "description": "generic word for human (Aramaic), cognate of the Hebrew name Mortal-Man (Enosh)",
+  "cognateHebrew": [
+    "enosh",
+    "adam"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "38": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

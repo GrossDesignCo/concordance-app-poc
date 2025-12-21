@@ -1,0 +1,29 @@
+{
+  "key": "shemay",
+  "aramaic": "שְׁמַי",
+  "transliteration": "shemay",
+  "englishLiteral": "heaven",
+  "englishNatural": "heaven",
+  "type": "noun",
+  "description": "heaven, sky (Aramaic, always plural in form)",
+  "cognateHebrew": [
+    "shamayim"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "37": [
+          6
+        ],
+        "38": [
+          8
+        ],
+        "44": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

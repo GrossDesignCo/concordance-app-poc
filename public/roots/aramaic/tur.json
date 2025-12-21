@@ -1,0 +1,23 @@
+{
+  "key": "tur",
+  "aramaic": "טוּר",
+  "transliteration": "tur",
+  "englishLiteral": "mountain",
+  "englishNatural": "mountain",
+  "type": "noun",
+  "description": "mountain, hill (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "35": [
+          25
+        ],
+        "45": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

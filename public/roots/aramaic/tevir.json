@@ -1,0 +1,20 @@
+{
+  "key": "tevir",
+  "aramaic": "תְּבִיר",
+  "transliteration": "tevir",
+  "englishLiteral": "fragile",
+  "englishNatural": "fragile",
+  "type": "adjective",
+  "description": "fragile, brittle, broken (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "42": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

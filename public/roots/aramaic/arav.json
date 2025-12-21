@@ -1,0 +1,25 @@
+{
+  "key": "arav",
+  "aramaic": "עָרַב",
+  "transliteration": "arav",
+  "englishLiteral": "to mix",
+  "englishNatural": "to mix",
+  "type": "verb",
+  "description": "to mix, to mingle, to blend (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "41": [
+          23
+        ],
+        "43": [
+          3,
+          6,
+          20
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

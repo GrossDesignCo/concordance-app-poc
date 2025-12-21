@@ -7,6 +7,16 @@ export const resolveWordOrderKey = (
   // By default assume hebrew word order since that's the most common
   let key: WordOrderKey = 'hebrew';
 
+  // Aramaic (for original text, transliteration, and English literal of Aramaic texts)
+  if (
+    word?.aramaic &&
+    (language === 'original' ||
+      language === 'transliteration' ||
+      language === 'englishLiteral')
+  ) {
+    key = 'aramaic';
+  }
+
   // Greek (for original text, transliteration, and English literal of Greek texts)
   if (
     word?.greek &&

@@ -1,0 +1,23 @@
+{
+  "key": "nephal",
+  "aramaic": "נְפַל",
+  "transliteration": "nephal",
+  "englishLiteral": "to fall",
+  "englishNatural": "to fall",
+  "type": "verb",
+  "description": "to fall, to fall down (Aramaic)",
+  "cognateHebrew": [
+    "naphal"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "46": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "chad_chest",
+  "aramaic": "חֲדוֹ",
+  "transliteration": "chad",
+  "englishLiteral": "breast",
+  "englishNatural": "breast",
+  "type": "noun",
+  "description": "breast, chest (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "32": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

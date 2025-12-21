@@ -1,0 +1,33 @@
+{
+  "key": "daq",
+  "aramaic": "דָּקַק",
+  "transliteration": "daq",
+  "englishLiteral": "to crush",
+  "englishNatural": "to crush",
+  "type": "verb",
+  "description": "to crush, to pulverize, to break in pieces (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "34": [
+          16
+        ],
+        "35": [
+          1
+        ],
+        "40": [
+          9,
+          16
+        ],
+        "44": [
+          17
+        ],
+        "45": [
+          12
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "shakach",
+  "aramaic": "שְׁכַח",
+  "transliteration": "shakach",
+  "englishLiteral": "to find",
+  "englishNatural": "to find",
+  "type": "verb",
+  "description": "to find, to discover (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "35": [
+          18
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

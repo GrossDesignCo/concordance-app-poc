@@ -1,0 +1,20 @@
+{
+  "key": "bar_field",
+  "aramaic": "בָּר",
+  "transliteration": "bar",
+  "englishLiteral": "field",
+  "englishNatural": "field",
+  "type": "noun",
+  "description": "field, open country (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "38": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

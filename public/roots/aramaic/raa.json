@@ -1,0 +1,21 @@
+{
+  "key": "raa",
+  "aramaic": "רָעַע",
+  "transliteration": "raa",
+  "englishLiteral": "to break",
+  "englishNatural": "to break",
+  "type": "verb",
+  "description": "to break, to shatter, to crush (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "40": [
+          14,
+          17
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

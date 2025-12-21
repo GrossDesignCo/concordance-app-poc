@@ -1,0 +1,23 @@
+{
+  "key": "bar",
+  "aramaic": "בַּר",
+  "transliteration": "bar",
+  "englishLiteral": "son",
+  "englishNatural": "son",
+  "type": "noun",
+  "description": "son, child (Aramaic)",
+  "cognateHebrew": [
+    "ben"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "38": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

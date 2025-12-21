@@ -1,0 +1,20 @@
+{
+  "key": "kedi",
+  "aramaic": "כְּדִי",
+  "transliteration": "kedi",
+  "englishLiteral": "just_as",
+  "englishNatural": "just as",
+  "type": "conjunction",
+  "description": "just as, according as, like (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "43": [
+          17
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

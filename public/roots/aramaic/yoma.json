@@ -1,0 +1,23 @@
+{
+  "key": "yoma",
+  "aramaic": "יוֹם",
+  "transliteration": "yoma",
+  "englishLiteral": "day",
+  "englishNatural": "day",
+  "type": "noun",
+  "description": "day, time period (Aramaic)",
+  "cognateHebrew": [
+    "yom"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "44": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

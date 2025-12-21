@@ -1,0 +1,26 @@
+{
+  "key": "chelem",
+  "aramaic": "חֵלֶם",
+  "transliteration": "chelem",
+  "englishLiteral": "dream",
+  "englishNatural": "dream",
+  "type": "noun",
+  "description": "dream (Aramaic)",
+  "cognateHebrew": [
+    "chalom"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "36": [
+          1
+        ],
+        "45": [
+          28
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

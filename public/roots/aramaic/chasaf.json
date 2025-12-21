@@ -1,0 +1,43 @@
+{
+  "key": "chasaf",
+  "aramaic": "חֲסַף",
+  "transliteration": "chasaf",
+  "englishLiteral": "clay",
+  "englishNatural": "clay",
+  "type": "noun",
+  "description": "clay, pottery, earthenware (Aramaic)",
+  "cognateHebrew": [
+    "chomer"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "33": [
+          9
+        ],
+        "34": [
+          15
+        ],
+        "35": [
+          4
+        ],
+        "41": [
+          5,
+          24
+        ],
+        "42": [
+          5
+        ],
+        "43": [
+          4,
+          22
+        ],
+        "45": [
+          15
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

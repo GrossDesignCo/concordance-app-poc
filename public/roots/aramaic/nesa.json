@@ -1,0 +1,23 @@
+{
+  "key": "nesa",
+  "aramaic": "נְשָׂא",
+  "transliteration": "nesa",
+  "englishLiteral": "to carry",
+  "englishNatural": "to carry",
+  "type": "verb",
+  "description": "to carry, to lift up, to bear (Aramaic)",
+  "cognateHebrew": [
+    "nasa"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "35": [
+          13
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

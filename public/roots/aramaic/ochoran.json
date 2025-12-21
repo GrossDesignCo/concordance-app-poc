@@ -1,0 +1,27 @@
+{
+  "key": "ochoran",
+  "aramaic": "אָחֳרָן",
+  "transliteration": "ochoran",
+  "englishLiteral": "another",
+  "englishNatural": "another",
+  "type": "adjective",
+  "description": "another, other, different (Aramaic)",
+  "cognateHebrew": [
+    "acher"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "39": [
+          3,
+          8
+        ],
+        "44": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

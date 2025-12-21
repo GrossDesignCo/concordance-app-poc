@@ -1,0 +1,20 @@
+{
+  "key": "nesakh",
+  "aramaic": "נְסַךְ",
+  "transliteration": "nesakh",
+  "englishLiteral": "to pour_out",
+  "englishNatural": "to pour-out",
+  "type": "verb",
+  "description": "to pour out, to offer a libation (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "46": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

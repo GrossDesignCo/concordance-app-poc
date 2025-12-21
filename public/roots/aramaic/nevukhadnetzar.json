@@ -1,0 +1,28 @@
+{
+  "key": "nevukhadnetzar",
+  "aramaic": "נְבוּכַדְנֶצַּר",
+  "transliteration": "Nevukhadnetzar",
+  "englishLiteral": "Nebuchadnezzar",
+  "englishNatural": "Nebuchadnezzar",
+  "type": "noun",
+  "description": "Nebuchadnezzar, king of Babylon (Aramaic form)",
+  "cognateHebrew": [
+    "nevukhadnetzar"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "1": {
+        "1": [
+          7
+        ]
+      },
+      "2": {
+        "46": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

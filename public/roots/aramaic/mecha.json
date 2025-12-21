@@ -1,0 +1,23 @@
+{
+  "key": "mecha",
+  "aramaic": "מְחָא",
+  "transliteration": "mecha",
+  "englishLiteral": "to strike",
+  "englishNatural": "to strike",
+  "type": "verb",
+  "description": "to strike, to smite, to hit (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "34": [
+          9
+        ],
+        "35": [
+          22
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "atar",
+  "aramaic": "אֲתַר",
+  "transliteration": "atar",
+  "englishLiteral": "place",
+  "englishNatural": "place",
+  "type": "noun",
+  "description": "place, location (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "35": [
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

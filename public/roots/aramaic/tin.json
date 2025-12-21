@@ -1,0 +1,23 @@
+{
+  "key": "tin",
+  "aramaic": "טִין",
+  "transliteration": "tin",
+  "englishLiteral": "mud",
+  "englishNatural": "mud",
+  "type": "noun",
+  "description": "clay, mud, mire (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "41": [
+          25
+        ],
+        "43": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

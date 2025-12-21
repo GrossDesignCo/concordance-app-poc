@@ -1,0 +1,20 @@
+{
+  "key": "telat",
+  "aramaic": "תְּלָת",
+  "transliteration": "telat",
+  "englishLiteral": "three",
+  "englishNatural": "three",
+  "type": "numeral",
+  "description": "three, third (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "39": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

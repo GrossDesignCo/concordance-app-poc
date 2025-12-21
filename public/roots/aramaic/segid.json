@@ -1,0 +1,20 @@
+{
+  "key": "segid",
+  "aramaic": "סְגִד",
+  "transliteration": "segid",
+  "englishLiteral": "to prostrate",
+  "englishNatural": "to prostrate",
+  "type": "verb",
+  "description": "to prostrate oneself, to worship, to bow down (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "46": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

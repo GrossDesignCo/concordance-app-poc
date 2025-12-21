@@ -1,0 +1,20 @@
+{
+  "key": "shaq",
+  "aramaic": "שָׁק",
+  "transliteration": "shaq",
+  "englishLiteral": "leg",
+  "englishNatural": "leg",
+  "type": "noun",
+  "description": "leg, shin (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "33": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

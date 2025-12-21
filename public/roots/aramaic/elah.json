@@ -1,0 +1,29 @@
+{
+  "key": "elah",
+  "aramaic": "אֱלָהּ",
+  "transliteration": "elah",
+  "englishLiteral": "God",
+  "englishNatural": "God",
+  "type": "noun",
+  "description": "God, deity (Aramaic)",
+  "cognateHebrew": [
+    "eloah"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "37": [
+          5
+        ],
+        "44": [
+          5
+        ],
+        "45": [
+          18
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

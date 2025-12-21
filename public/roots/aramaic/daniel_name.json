@@ -1,0 +1,23 @@
+{
+  "key": "daniel_name",
+  "aramaic": "דָּנִיֵּאל",
+  "transliteration": "Daniel",
+  "englishLiteral": "God_Is_My_Judge",
+  "englishNatural": "God-Is-My-Judge",
+  "type": "noun",
+  "description": "Daniel (personal name meaning \"God is my judge\")",
+  "cognateHebrew": [
+    "daniel"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "46": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

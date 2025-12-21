@@ -1,0 +1,20 @@
+{
+  "key": "dera",
+  "aramaic": "דְרָע",
+  "transliteration": "dera",
+  "englishLiteral": "arm",
+  "englishNatural": "arm",
+  "type": "noun",
+  "description": "arm (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "32": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

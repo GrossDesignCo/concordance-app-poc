@@ -1,0 +1,26 @@
+{
+  "key": "resh",
+  "aramaic": "רֵאשׁ",
+  "transliteration": "resh",
+  "englishLiteral": "head",
+  "englishNatural": "head",
+  "type": "noun",
+  "description": "head, top, chief (Aramaic)",
+  "cognateHebrew": [
+    "rosh"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "32": [
+          2
+        ],
+        "38": [
+          15
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

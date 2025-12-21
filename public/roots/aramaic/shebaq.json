@@ -1,0 +1,20 @@
+{
+  "key": "shebaq",
+  "aramaic": "שְׁבַק",
+  "transliteration": "shebaq",
+  "englishLiteral": "to leave",
+  "englishNatural": "to leave",
+  "type": "verb",
+  "description": "to leave, to forsake, to abandon (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "44": [
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

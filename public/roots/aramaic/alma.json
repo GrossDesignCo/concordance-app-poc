@@ -1,0 +1,24 @@
+{
+  "key": "alma",
+  "aramaic": "עָלַם",
+  "transliteration": "alma",
+  "englishLiteral": "the_age",
+  "englishNatural": "the-age",
+  "type": "noun",
+  "description": "eternity, forever, perpetuity (Aramaic)",
+  "cognateHebrew": [
+    "olam"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "44": [
+          9,
+          24
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

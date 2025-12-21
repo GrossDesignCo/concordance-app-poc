@@ -1,0 +1,20 @@
+{
+  "key": "qodam",
+  "aramaic": "קֳדָם",
+  "transliteration": "qodam",
+  "englishLiteral": "before",
+  "englishNatural": "before",
+  "type": "preposition",
+  "description": "before, in front of, in the presence of (Aramaic)",
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "36": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

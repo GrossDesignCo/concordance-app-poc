@@ -3,7 +3,7 @@
   "aramaic": "די",
   "transliteration": "di",
   "englishLiteral": "which",
-  "englishNatural": "that",
+  "englishNatural": "which",
   "type": "particle",
   "description": "which, that, relative particle (Aramaic equivalent of Hebrew אֲשֶׁר)",
   "cognateHebrew": [
@@ -19,6 +19,57 @@
         "30": [
           3,
           14
+        ],
+        "32": [
+          3,
+          8,
+          12
+        ],
+        "33": [
+          1,
+          5,
+          8
+        ],
+        "34": [
+          3,
+          6,
+          13
+        ],
+        "35": [
+          21
+        ],
+        "37": [
+          4
+        ],
+        "38": [
+          1,
+          16
+        ],
+        "39": [
+          9,
+          11
+        ],
+        "40": [
+          7,
+          13
+        ],
+        "41": [
+          0,
+          14,
+          20
+        ],
+        "43": [
+          0
+        ],
+        "44": [
+          1,
+          8
+        ],
+        "45": [
+          2,
+          4,
+          9,
+          23
         ]
       }
     }

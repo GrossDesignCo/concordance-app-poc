@@ -1,0 +1,30 @@
+{
+  "key": "levav",
+  "aramaic": "לְבַב",
+  "transliteration": "levav",
+  "englishLiteral": "heart",
+  "englishNatural": "heart",
+  "type": "noun",
+  "description": "heart, mind, inner being (Aramaic)",
+  "cognateHebrew": [
+    "lev"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "30": [
+          19
+        ]
+      }
+    },
+    "jonah": {
+      "2": {
+        "3": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

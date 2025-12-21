@@ -1,0 +1,26 @@
+{
+  "key": "edayin",
+  "aramaic": "אֱדַיִן",
+  "transliteration": "edayin",
+  "englishLiteral": "then",
+  "englishNatural": "then",
+  "type": "adverb",
+  "description": "then, at that time (Aramaic)",
+  "cognateHebrew": [
+    "az"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "35": [
+          0
+        ],
+        "46": [
+          0
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

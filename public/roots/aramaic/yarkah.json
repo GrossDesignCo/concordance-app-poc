@@ -1,0 +1,23 @@
+{
+  "key": "yarkah",
+  "aramaic": "יַרְכָה",
+  "transliteration": "yarkah",
+  "englishLiteral": "thigh",
+  "englishNatural": "thigh",
+  "type": "noun",
+  "description": "thigh, side (Aramaic)",
+  "cognateHebrew": [
+    "yarek"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "32": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

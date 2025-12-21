@@ -7,6 +7,13 @@
   "type": "numeral",
   "description": "hundred, the number one hundred",
   "wordIndexes": {
+    "daniel": {
+      "2": {
+        "32": [
+          10
+        ]
+      }
+    },
     "genesis": {
       "5": {
         "3": [

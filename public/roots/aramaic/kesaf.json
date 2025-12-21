@@ -1,0 +1,29 @@
+{
+  "key": "kesaf",
+  "aramaic": "כְסַף",
+  "transliteration": "kesaf",
+  "englishLiteral": "silver",
+  "englishNatural": "silver",
+  "type": "noun",
+  "description": "silver, money (Aramaic)",
+  "cognateHebrew": [
+    "kesef"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "32": [
+          9
+        ],
+        "35": [
+          6
+        ],
+        "45": [
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

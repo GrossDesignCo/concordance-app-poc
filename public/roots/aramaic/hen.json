@@ -1,0 +1,35 @@
+{
+  "key": "hen",
+  "aramaic": "הֵן",
+  "transliteration": "hen",
+  "englishLiteral": "behold",
+  "englishNatural": "behold",
+  "type": "particle",
+  "description": "behold, if, lo (Aramaic)",
+  "cognateHebrew": [
+    "hen"
+  ],
+  "wordIndexes": {
+    "daniel": {
+      "2": {
+        "43": [
+          16
+        ]
+      }
+    },
+    "genesis": {
+      "11": {
+        "6": [
+          2
+        ]
+      },
+      "15": {
+        "3": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}
