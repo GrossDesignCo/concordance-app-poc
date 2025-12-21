@@ -20,6 +20,7 @@ export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
   maximumScale: 1,
+  viewportFit: 'cover',
   themeColor: [
     { media: '(prefers-color-scheme: light)', color: '#faf3f0' },
     { media: '(prefers-color-scheme: dark)', color: '#23161c' },
@@ -31,6 +32,25 @@ export const metadata: Metadata = {
   description:
     'A Translation of the Bible that focused on consistent 1:1 mapping of original root words to English counterparts.',
   manifest: '/manifest.json',
+  icons: {
+    icon: [
+      {
+        url: '/icons/Logo-Light.svg',
+        media: '(prefers-color-scheme: light)',
+      },
+      {
+        url: '/icons/Logo-Dark.svg',
+        media: '(prefers-color-scheme: dark)',
+      },
+    ],
+    apple: [
+      {
+        url: '/icons/Logo-Light.png',
+        sizes: '512x512',
+        type: 'image/png',
+      },
+    ],
+  },
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',
@@ -50,7 +70,7 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <head>
-        <link rel="apple-touch-icon" href="/icons/icon-192x192.png" />
+        <link rel="apple-touch-icon" href="/icons/Logo-Light.png" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta
           name="apple-mobile-web-app-status-bar-style"
