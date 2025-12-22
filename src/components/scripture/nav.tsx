@@ -87,6 +87,7 @@ export const BookNav = ({
       <Button
         variant="ghost"
         className={styles.bookButton}
+        introType="down"
         data-book-id={bookNameKey}
         onClick={onToggleOpen}
       >
@@ -108,6 +109,7 @@ export const BookNav = ({
               <Button
                 variant={highlighted ? 'primary' : 'secondary'}
                 className={styles.chapterButton}
+                introType="down"
                 data-chapter-id={chapterId}
                 onClick={() => {
                   document
