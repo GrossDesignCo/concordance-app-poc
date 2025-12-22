@@ -7,6 +7,13 @@
   "type": "particle",
   "description": "negative particle used with imperfect verbs for prohibitions (do not), distinct from עַל meaning \"over\"",
   "wordIndexes": {
+    "exodus": {
+      "3": {
+        "5": [
+          1
+        ]
+      }
+    },
     "jonah": {
       "1": {
         "14": [

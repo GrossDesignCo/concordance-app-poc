@@ -1,0 +1,20 @@
+{
+  "key": "chorev",
+  "hebrew": "חרב",
+  "transliteration": "Chorev",
+  "englishLiteral": "Desolate (Horeb)",
+  "englishNatural": "Desolate (Horeb)",
+  "type": "noun",
+  "description": "Horeb, the mountain of God, another name for Mount Sinai",
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "1": [
+          18
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

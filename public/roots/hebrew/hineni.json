@@ -1,0 +1,23 @@
+{
+  "key": "hineni",
+  "hebrew": "הנני",
+  "transliteration": "hineni",
+  "englishLiteral": "behold_me",
+  "englishNatural": "behold-me",
+  "type": "interjection",
+  "description": "here I am, behold me - response of availability and readiness",
+  "related": [
+    "hineh"
+  ],
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "4": [
+          14
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

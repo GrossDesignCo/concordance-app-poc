@@ -7,6 +7,13 @@
   "type": "pronoun",
   "description": "2nd person masculine singular pronoun",
   "wordIndexes": {
+    "exodus": {
+      "3": {
+        "5": [
+          11
+        ]
+      }
+    },
     "genesis": {
       "3": {
         "11": [

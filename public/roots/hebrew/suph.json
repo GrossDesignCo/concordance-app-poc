@@ -1,0 +1,20 @@
+{
+  "key": "suph",
+  "hebrew": "סוף",
+  "transliteration": "suph",
+  "englishLiteral": "reeds",
+  "englishNatural": "reeds",
+  "type": "noun",
+  "description": "reeds, rushes, water plants",
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "3": [
+          16
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

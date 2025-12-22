@@ -1,0 +1,23 @@
+{
+  "key": "tzaaqah",
+  "hebrew": "צעקה",
+  "transliteration": "tzaaqah",
+  "englishLiteral": "outcry",
+  "englishNatural": "outcry",
+  "type": "noun",
+  "description": "outcry, cry for help, distress call",
+  "related": [
+    "shavah_cry"
+  ],
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "7": [
+          10
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

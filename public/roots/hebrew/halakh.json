@@ -7,6 +7,13 @@
   "description": "to walk, go, proceed, travel, live, behave",
   "type": "verb",
   "wordIndexes": {
+    "exodus": {
+      "2": {
+        "1": [
+          0
+        ]
+      }
+    },
     "ezekiel": {
       "1": {
         "9": [

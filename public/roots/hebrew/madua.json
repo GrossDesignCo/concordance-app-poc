@@ -1,0 +1,23 @@
+{
+  "key": "madua",
+  "hebrew": "מדוע",
+  "transliteration": "madua",
+  "englishLiteral": "why",
+  "englishNatural": "why",
+  "type": "adverb",
+  "description": "why, for what reason, wherefore",
+  "related": [
+    "lamah"
+  ],
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "3": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

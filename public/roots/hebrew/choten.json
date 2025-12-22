@@ -1,0 +1,20 @@
+{
+  "key": "choten",
+  "hebrew": "חתן",
+  "transliteration": "choten",
+  "englishLiteral": "father_in_law",
+  "englishNatural": "father-in-law",
+  "type": "noun",
+  "description": "father-in-law, relative by marriage",
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "1": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

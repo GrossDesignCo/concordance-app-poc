@@ -1,0 +1,20 @@
+{
+  "key": "oni",
+  "hebrew": "עני",
+  "transliteration": "oni",
+  "englishLiteral": "affliction",
+  "englishNatural": "affliction",
+  "type": "noun",
+  "description": "affliction, misery, suffering, poverty",
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "7": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -27,6 +27,7 @@
   ],
   "hayah": [
     "daniel",
+    "exodus",
     "ezekiel",
     "genesis",
     "jonah",
@@ -128,6 +129,7 @@
     "proverbs"
   ],
   "raah": [
+    "exodus",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -136,6 +138,7 @@
     "proverbs"
   ],
   "satar": [
+    "exodus",
     "genesis",
     "proverbs"
   ],
@@ -177,6 +180,7 @@
     "genesis"
   ],
   "asah": [
+    "exodus",
     "genesis",
     "jonah",
     "numbers",
@@ -184,10 +188,12 @@
     "psalms"
   ],
   "ishah": [
+    "exodus",
     "ezekiel",
     "genesis"
   ],
   "akhal": [
+    "exodus",
     "genesis"
   ],
   "gan": [
@@ -230,6 +236,7 @@
     "genesis"
   ],
   "ki": [
+    "exodus",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -287,6 +294,7 @@
   ],
   "be": [
     "daniel",
+    "exodus",
     "ezekiel",
     "genesis",
     "jonah"
@@ -304,6 +312,7 @@
     "numbers"
   ],
   "shalach": [
+    "exodus",
     "genesis",
     "jonah",
     "numbers",
@@ -321,6 +330,7 @@
   ],
   "am": [
     "daniel",
+    "exodus",
     "genesis",
     "isaiah",
     "jonah",
@@ -329,6 +339,7 @@
   ],
   "bo": [
     "daniel",
+    "exodus",
     "ezekiel",
     "genesis",
     "jonah",
@@ -351,6 +362,7 @@
     "psalms"
   ],
   "sur": [
+    "exodus",
     "isaiah",
     "numbers"
   ],
@@ -367,6 +379,7 @@
     "numbers"
   ],
   "atah": [
+    "exodus",
     "genesis",
     "jonah",
     "numbers",
@@ -382,6 +395,7 @@
     "numbers"
   ],
   "sim": [
+    "exodus",
     "genesis",
     "numbers",
     "proverbs"
@@ -399,6 +413,7 @@
     "numbers"
   ],
   "ish": [
+    "exodus",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -407,6 +422,7 @@
     "psalms"
   ],
   "nabat": [
+    "exodus",
     "genesis",
     "jonah",
     "numbers"
@@ -434,6 +450,7 @@
   ],
   "et": [
     "daniel",
+    "exodus",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -470,6 +487,7 @@
   ],
   "regel": [
     "daniel",
+    "exodus",
     "ezekiel",
     "isaiah"
   ],
@@ -505,6 +523,7 @@
   ],
   "hu": [
     "daniel",
+    "exodus",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -547,6 +566,7 @@
     "jonah"
   ],
   "tov": [
+    "exodus",
     "genesis",
     "jonah",
     "proverbs",
@@ -596,6 +616,7 @@
     "genesis"
   ],
   "maqom": [
+    "exodus",
     "genesis"
   ],
   "yabashah": [
@@ -630,6 +651,7 @@
     "proverbs"
   ],
   "yalad": [
+    "exodus",
     "genesis",
     "proverbs"
   ],
@@ -671,6 +693,7 @@
     "isaiah"
   ],
   "gadol": [
+    "exodus",
     "ezekiel",
     "genesis",
     "jonah",
@@ -723,6 +746,7 @@
     "genesis"
   ],
   "adamah": [
+    "exodus",
     "genesis",
     "jonah"
   ],
@@ -791,6 +815,7 @@
     "genesis"
   ],
   "amad": [
+    "exodus",
     "ezekiel",
     "isaiah",
     "jonah",
@@ -836,6 +861,7 @@
     "genesis"
   ],
   "ayin": [
+    "exodus",
     "genesis",
     "jonah",
     "proverbs"
@@ -882,6 +908,7 @@
     "genesis"
   ],
   "mareh": [
+    "exodus",
     "ezekiel",
     "genesis"
   ],
@@ -977,6 +1004,7 @@
     "genesis"
   ],
   "halakh": [
+    "exodus",
     "ezekiel",
     "genesis",
     "jonah",
@@ -1036,6 +1064,7 @@
     "jonah"
   ],
   "av": [
+    "exodus",
     "genesis"
   ],
   "em": [
@@ -1068,6 +1097,9 @@
   ],
   "mamlakah": [
     "genesis"
+  ],
+  "malakh": [
+    "exodus"
   ],
   "uz": [
     "isaiah"
@@ -1112,6 +1144,7 @@
   ],
   "bayit": [
     "daniel",
+    "exodus",
     "ezekiel",
     "genesis",
     "isaiah",
@@ -1124,6 +1157,7 @@
     "isaiah"
   ],
   "anokhi": [
+    "exodus",
     "genesis",
     "isaiah",
     "jonah"
@@ -1162,6 +1196,7 @@
   ],
   "yada": [
     "daniel",
+    "exodus",
     "genesis",
     "jonah",
     "proverbs",
@@ -1177,6 +1212,7 @@
     "genesis"
   ],
   "laqach": [
+    "exodus",
     "ezekiel",
     "genesis",
     "jonah",
@@ -1210,6 +1246,7 @@
     "genesis"
   ],
   "shama": [
+    "exodus",
     "ezekiel",
     "genesis",
     "jonah",
@@ -1222,6 +1259,7 @@
     "genesis"
   ],
   "yare": [
+    "exodus",
     "genesis",
     "jonah",
     "psalms"
@@ -1254,6 +1292,7 @@
   ],
   "mah": [
     "daniel",
+    "exodus",
     "genesis",
     "jonah"
   ],
@@ -1448,6 +1487,7 @@
     "psalms"
   ],
   "raah_shepherd": [
+    "exodus",
     "genesis",
     "jonah",
     "psalms"
@@ -1553,6 +1593,7 @@
     "psalms"
   ],
   "harah": [
+    "exodus",
     "genesis"
   ],
   "qanah": [
@@ -1572,6 +1613,7 @@
     "jonah"
   ],
   "tzon": [
+    "exodus",
     "genesis",
     "jonah"
   ],
@@ -1749,6 +1791,7 @@
     "proverbs"
   ],
   "har": [
+    "exodus",
     "jonah",
     "proverbs"
   ],
@@ -1839,6 +1882,7 @@
     "genesis"
   ],
   "achot": [
+    "exodus",
     "ezekiel",
     "genesis"
   ],
@@ -1858,6 +1902,7 @@
     "genesis"
   ],
   "yeled": [
+    "exodus",
     "genesis"
   ],
   "chaburah": [
@@ -1902,12 +1947,14 @@
   ],
   "achar": [
     "daniel",
+    "exodus",
     "genesis"
   ],
   "shmoneh": [
     "genesis"
   ],
   "bat": [
+    "exodus",
     "genesis"
   ],
   "tesha": [
@@ -1924,6 +1971,7 @@
   ],
   "shalosh": [
     "daniel",
+    "exodus",
     "ezekiel",
     "genesis",
     "jonah"
@@ -2083,6 +2131,7 @@
     "jonah"
   ],
   "qarav": [
+    "exodus",
     "jonah"
   ],
   "rav_noun": [
@@ -2263,6 +2312,7 @@
     "jonah"
   ],
   "al_negative": [
+    "exodus",
     "jonah"
   ],
   "chazaq": [
@@ -2298,6 +2348,7 @@
     "jonah"
   ],
   "anna": [
+    "exodus",
     "jonah"
   ],
   "qidam": [
@@ -2446,6 +2497,7 @@
     "jonah"
   ],
   "qodesh": [
+    "exodus",
     "jonah"
   ],
   "afaf": [
@@ -2536,6 +2588,7 @@
     "genesis"
   ],
   "hineh": [
+    "exodus",
     "ezekiel",
     "genesis"
   ],
@@ -2543,6 +2596,7 @@
     "ezekiel"
   ],
   "esh": [
+    "exodus",
     "ezekiel",
     "genesis"
   ],
@@ -2600,6 +2654,7 @@
     "ezekiel"
   ],
   "baar": [
+    "exodus",
     "ezekiel"
   ],
   "lappid": [
@@ -2668,6 +2723,7 @@
     "genesis"
   ],
   "tevah": [
+    "exodus",
     "genesis"
   ],
   "gopher": [
@@ -2758,6 +2814,7 @@
     "genesis"
   ],
   "kohen": [
+    "exodus",
     "ezekiel",
     "genesis"
   ],
@@ -2840,6 +2897,7 @@
     "genesis"
   ],
   "chemar": [
+    "exodus",
     "genesis"
   ],
   "chomer": [
@@ -2902,6 +2960,7 @@
     "genesis"
   ],
   "elav": [
+    "exodus",
     "genesis"
   ],
   "ki_im": [
@@ -2945,6 +3004,7 @@
     "genesis"
   ],
   "tavekh": [
+    "exodus",
     "genesis"
   ],
   "beter": [
@@ -2982,6 +3042,7 @@
     "genesis"
   ],
   "mitzrayim": [
+    "exodus",
     "genesis"
   ],
   "sedom": [
@@ -3052,6 +3113,90 @@
   ],
   "raavon": [
     "daniel"
+  ],
+  "levi": [
+    "exodus"
+  ],
+  "tsaphan": [
+    "exodus"
+  ],
+  "yerach": [
+    "exodus"
+  ],
+  "lo_to_him": [
+    "exodus"
+  ],
+  "yakhal": [
+    "exodus"
+  ],
+  "gome": [
+    "exodus"
+  ],
+  "tar": [
+    "exodus"
+  ],
+  "zefet": [
+    "exodus"
+  ],
+  "suph": [
+    "exodus"
+  ],
+  "yeor": [
+    "exodus"
+  ],
+  "saphah": [
+    "exodus"
+  ],
+  "rachok": [
+    "exodus"
+  ],
+  "yitro": [
+    "exodus"
+  ],
+  "choten": [
+    "exodus"
+  ],
+  "midyan": [
+    "exodus"
+  ],
+  "nahag": [
+    "exodus"
+  ],
+  "midbar": [
+    "exodus"
+  ],
+  "chorev": [
+    "exodus"
+  ],
+  "seneh": [
+    "exodus"
+  ],
+  "lehavah": [
+    "exodus"
+  ],
+  "halom": [
+    "exodus"
+  ],
+  "naal": [
+    "exodus"
+  ],
+  "oni": [
+    "exodus"
+  ],
+  "tzaaqah": [
+    "exodus"
+  ],
+  "noges": [
+    "exodus"
+  ],
+  "makheov": [
+    "exodus"
+  ],
+  "madua": [
+    "exodus"
+  ],
+  "hineni": [
+    "exodus"
   ],
   "en": [
     "john",

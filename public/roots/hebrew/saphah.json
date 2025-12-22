@@ -1,0 +1,20 @@
+{
+  "key": "saphah",
+  "hebrew": "שפה",
+  "transliteration": "saphah",
+  "englishLiteral": "lip",
+  "englishNatural": "lip",
+  "type": "noun",
+  "description": "lip, edge, bank, shore; language, speech",
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "3": [
+          18
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

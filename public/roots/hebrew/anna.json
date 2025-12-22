@@ -7,6 +7,13 @@
   "type": "particle",
   "description": "please, I pray, entreaty particle",
   "wordIndexes": {
+    "exodus": {
+      "3": {
+        "3": [
+          3
+        ]
+      }
+    },
     "jonah": {
       "1": {
         "14": [

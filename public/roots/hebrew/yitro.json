@@ -1,0 +1,20 @@
+{
+  "key": "yitro",
+  "hebrew": "יתרו",
+  "transliteration": "Yitro",
+  "englishLiteral": "Abundance (Jethro)",
+  "englishNatural": "Abundance (Jethro)",
+  "type": "noun",
+  "description": "Jethro, Moses' father-in-law, priest of Midian",
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "1": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

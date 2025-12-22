@@ -1873,10 +1873,10 @@
         "2": {
           "chapterNumber": 2,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
             "5": false,
             "6": false,
             "7": false,
@@ -1899,18 +1899,18 @@
             "24": false,
             "25": false
           },
-          "progress": 0
+          "progress": 16
         },
         "3": {
           "chapterNumber": 3,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
-            "5": false,
-            "6": false,
-            "7": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
             "8": false,
             "9": false,
             "10": false,
@@ -1927,7 +1927,7 @@
             "21": false,
             "22": false
           },
-          "progress": 9.090909090909092
+          "progress": 40.909090909090914
         },
         "4": {
           "chapterNumber": 4,
@@ -3296,7 +3296,7 @@
           "progress": 0
         }
       },
-      "progress": 0.4122011541632316
+      "progress": 1.3190436933223413
     },
     "LEVITICUS": {
       "bookName": "Leviticus",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.2571134617239494
+  "totalProgress": 1.2924798250972576
 }

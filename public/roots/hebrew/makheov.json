@@ -1,0 +1,23 @@
+{
+  "key": "makheov",
+  "hebrew": "מכאב",
+  "transliteration": "makheov",
+  "englishLiteral": "pain",
+  "englishNatural": "pain",
+  "type": "noun",
+  "description": "pain, suffering, sorrow",
+  "related": [
+    "etzev"
+  ],
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "7": [
+          17
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

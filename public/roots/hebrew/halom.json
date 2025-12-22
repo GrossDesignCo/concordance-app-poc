@@ -1,0 +1,20 @@
+{
+  "key": "halom",
+  "hebrew": "הלם",
+  "transliteration": "halom",
+  "englishLiteral": "here",
+  "englishNatural": "here",
+  "type": "adverb",
+  "description": "here, hither, to this place",
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "5": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

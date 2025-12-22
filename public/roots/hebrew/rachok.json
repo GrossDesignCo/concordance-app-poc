@@ -1,0 +1,20 @@
+{
+  "key": "rachok",
+  "hebrew": "רחק",
+  "transliteration": "rachok",
+  "englishLiteral": "distance",
+  "englishNatural": "distance",
+  "type": "noun",
+  "description": "distance, far away, remote place",
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "4": [
+          2
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

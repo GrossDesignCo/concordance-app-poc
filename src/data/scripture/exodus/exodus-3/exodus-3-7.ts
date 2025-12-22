@@ -1,0 +1,316 @@
+import { Verse } from '@/types';
+
+export const exodus_3_7: Verse = {
+  meta: {
+    book: 'Exodus',
+    chapter: 3,
+    verse: 7,
+  },
+  words: [
+    {
+      hebrew: 'וַיֹּאמֶר',
+      transliteration: 'vaYomer',
+      englishLiteral: 'And-said',
+      englishNatural: 'said',
+      root: 'amar',
+      prefixes: ['va'],
+      order: {
+        hebrew: 1,
+        english: 2,
+      },
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        person: '3rd',
+        tense: 'imperfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+      lineBreaksBefore: {
+        hebrew: 1,
+      },
+    },
+    {
+      hebrew: 'יְהוָה',
+      transliteration: 'YHWH',
+      englishLiteral: 'He_Who_Is (YHWH)',
+      englishNatural: 'And He-Who-Is (YHWH)',
+      root: 'yhwh',
+      order: {
+        hebrew: 2,
+        english: 1,
+      },
+      morphology: {
+        type: 'noun',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'רָאֹה',
+      transliteration: 'raoh',
+      englishLiteral: 'seeing',
+      englishNatural: 'Seeing',
+      root: 'raah',
+      order: 3,
+      morphology: {
+        tense: 'infinitive_absolute',
+        stem: 'qal',
+        type: 'verb',
+      },
+      grammarPrefix: {
+        englishLiteral: '"',
+        englishNatural: '"',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'רָאִיתִי',
+      transliteration: 'raiti',
+      englishLiteral: 'I-see',
+      englishNatural: 'I have seen',
+      root: 'raah',
+      suffixes: ['ti'],
+      order: {
+        hebrew: 4,
+        english: 4,
+      },
+      morphology: {
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: 5,
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'עֳנִי',
+      transliteration: 'oni',
+      englishLiteral: 'affliction-of',
+      englishNatural: 'the affliction of',
+      root: 'oni',
+      order: 6,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'עַמִּי',
+      transliteration: 'ammi',
+      englishLiteral: 'people-my',
+      englishNatural: 'my people',
+      root: 'am',
+      suffixes: ['i'],
+      order: 7,
+      morphology: {
+        gender: 'masculine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'אֲשֶׁר',
+      transliteration: 'asher',
+      englishLiteral: 'which',
+      englishNatural: 'which',
+      root: 'asher',
+      order: 8,
+      morphology: {
+        type: 'pronoun',
+      },
+      grammarSuffix: {
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'בְּמִצְרָיִם',
+      transliteration: 'beMitzrayim',
+      englishLiteral: 'in-Egypt',
+      englishNatural: 'in Egypt',
+      root: 'mitzrayim',
+      prefixes: ['be'],
+      order: 9,
+      morphology: {
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'וְאֶת־',
+      transliteration: 'veEt-',
+      englishLiteral: 'and-↳',
+      englishNatural: 'and',
+      root: 'et',
+      prefixes: ['ve'],
+      order: 10,
+      morphology: {
+        type: 'particle',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'צַעֲקָתָם',
+      transliteration: 'tzaaqatam',
+      englishLiteral: 'outcry-their',
+      englishNatural: 'their outcry',
+      root: 'tzaaqah',
+      suffixes: ['am'],
+      order: 11,
+      morphology: {
+        gender: 'feminine',
+        number: 'singular',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'שָׁמַעְתִּי',
+      transliteration: 'shamati',
+      englishLiteral: 'I-hear',
+      englishNatural: 'I have heard',
+      root: 'shama',
+      suffixes: ['ti'],
+      order: 12,
+      morphology: {
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'מִפְּנֵי',
+      transliteration: 'miPenei',
+      englishLiteral: 'from-faces-of',
+      englishNatural: 'from the faces of',
+      root: 'panim',
+      prefixes: ['mi'],
+      suffixes: ['ei'],
+      order: 13,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        state: 'construct',
+        type: 'noun',
+      },
+    },
+    {
+      hebrew: 'נֹגְשָׂיו',
+      transliteration: 'nogsav',
+      englishLiteral: 'taskmasters-his',
+      englishNatural: 'his taskmasters',
+      root: 'noges',
+      suffixes: ['av'],
+      order: 14,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: ',',
+        englishNatural: ',',
+      },
+    },
+    {
+      hebrew: 'כִּי',
+      transliteration: 'ki',
+      englishLiteral: 'that',
+      englishNatural: 'that',
+      root: 'ki',
+      order: 15,
+      morphology: {
+        type: 'conjunction',
+      },
+      lineBreaksBefore: {
+        english: 1,
+      },
+    },
+    {
+      hebrew: 'יָדַעְתִּי',
+      transliteration: 'yadati',
+      englishLiteral: 'I-know',
+      englishNatural: 'I have known',
+      root: 'yada',
+      suffixes: ['ti'],
+      order: 16,
+      morphology: {
+        number: 'singular',
+        person: '1st',
+        tense: 'perfect',
+        stem: 'qal',
+        type: 'verb',
+      },
+    },
+    {
+      hebrew: 'אֶת־',
+      transliteration: 'et-',
+      englishLiteral: '↳',
+      englishNatural: '',
+      root: 'et',
+      order: 17,
+      morphology: {
+        type: 'particle',
+      },
+    },
+    {
+      hebrew: 'מַכְאֹבָיו',
+      transliteration: 'makheovav',
+      englishLiteral: 'pains-his',
+      englishNatural: 'his pains',
+      root: 'makheov',
+      suffixes: ['av'],
+      order: 18,
+      morphology: {
+        gender: 'masculine',
+        number: 'plural',
+        type: 'noun',
+      },
+      grammarSuffix: {
+        englishLiteral: '.',
+        englishNatural: '.',
+      },
+      lineBreaksAfter: 1,
+    },
+  ],
+  expectedTranslations: {
+    hebrew:
+      'וַיֹּאמֶר יְהוָה רָאֹה רָאִיתִי אֶת־עֳנִי עַמִּי אֲשֶׁר בְּמִצְרָיִם וְאֶת־צַעֲקָתָם שָׁמַעְתִּי מִפְּנֵי נֹגְשָׂיו כִּי יָדַעְתִּי אֶת־מַכְאֹבָיו',
+    transliteration:
+      'vaYomer YHWH raoh raiti et-oni ammi asher beMitzrayim veEt-tzaaqatam shamati miPenei nogsav ki yadati et-makheovav',
+    englishLiteral:
+      'And-said He_Who_Is (YHWH) "seeing I-see ↳ affliction-of people-my which in-Egypt, and-↳ outcry-their I-hear from-faces-of taskmasters-his, that I-know ↳ pains-his.',
+    englishNatural:
+      'And He-Who-Is (YHWH) said, "Seeing, I have seen the affliction of my people which, in Egypt, and their outcry I have heard from the faces of his taskmasters, that I have known his pains.',
+    kjv: 'And the LORD said, I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows.',
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-22' },
+},
+};

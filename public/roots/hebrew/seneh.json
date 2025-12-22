@@ -1,0 +1,28 @@
+{
+  "key": "seneh",
+  "hebrew": "סנה",
+  "transliteration": "seneh",
+  "englishLiteral": "thornbush",
+  "englishNatural": "thornbush",
+  "type": "noun",
+  "description": "thornbush, bramble, a thorny bush",
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "2": [
+          7,
+          10,
+          13
+        ],
+        "3": [
+          12
+        ],
+        "4": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

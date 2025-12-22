@@ -1,0 +1,23 @@
+{
+  "key": "tar",
+  "hebrew": "חמר",
+  "transliteration": "tar",
+  "englishLiteral": "to coat",
+  "englishNatural": "to coat",
+  "type": "verb",
+  "description": "to smear, to coat, to daub with tar or bitumen",
+  "related": [
+    "chemar"
+  ],
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "3": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

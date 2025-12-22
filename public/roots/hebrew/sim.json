@@ -7,6 +7,14 @@
   "description": "to place, to set down, like to place a book on a shelf",
   "type": "verb",
   "wordIndexes": {
+    "exodus": {
+      "2": {
+        "3": [
+          11,
+          15
+        ]
+      }
+    },
     "genesis": {
       "2": {
         "8": [

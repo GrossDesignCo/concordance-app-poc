@@ -1,0 +1,20 @@
+{
+  "key": "naal",
+  "hebrew": "נעל",
+  "transliteration": "naal",
+  "englishLiteral": "sandal",
+  "englishNatural": "sandal",
+  "type": "noun",
+  "description": "sandal, shoe, footwear",
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "5": [
+          5
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

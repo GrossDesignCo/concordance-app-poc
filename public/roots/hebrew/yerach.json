@@ -1,0 +1,23 @@
+{
+  "key": "yerach",
+  "hebrew": "ירח",
+  "transliteration": "yerach",
+  "englishLiteral": "moon_cycle",
+  "englishNatural": "moon-cycle",
+  "type": "noun",
+  "description": "moon, month (lunar cycle)",
+  "related": [
+    "chodesh"
+  ],
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "2": [
+          11
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

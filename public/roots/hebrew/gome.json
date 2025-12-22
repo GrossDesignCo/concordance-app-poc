@@ -1,0 +1,20 @@
+{
+  "key": "gome",
+  "hebrew": "גמא",
+  "transliteration": "gome",
+  "englishLiteral": "papyrus",
+  "englishNatural": "papyrus",
+  "type": "noun",
+  "description": "papyrus, bulrush, reed plant (Cyperus papyrus)",
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "3": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

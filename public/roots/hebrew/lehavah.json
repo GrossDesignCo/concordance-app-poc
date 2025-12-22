@@ -1,0 +1,24 @@
+{
+  "key": "lehavah",
+  "hebrew": "להבה",
+  "transliteration": "lehavah",
+  "englishLiteral": "flame",
+  "englishNatural": "flame",
+  "type": "noun",
+  "description": "flame, blaze, flashing point of fire",
+  "related": [
+    "esh",
+    "hat"
+  ],
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "2": [
+          4
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

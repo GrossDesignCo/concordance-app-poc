@@ -1,0 +1,21 @@
+{
+  "key": "levi",
+  "hebrew": "לֵוִי",
+  "transliteration": "Levi",
+  "englishLiteral": "Joined",
+  "englishNatural": "Joined",
+  "type": "noun",
+  "description": "Levi (personal name meaning \"joined\" or \"attached\"), third son of Jacob and Leah, ancestor of the Levites",
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "1": [
+          3,
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

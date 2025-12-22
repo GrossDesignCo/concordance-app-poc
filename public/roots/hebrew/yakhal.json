@@ -1,0 +1,20 @@
+{
+  "key": "yakhal",
+  "hebrew": "יכל",
+  "transliteration": "yakhal",
+  "englishLiteral": "to be_able",
+  "englishNatural": "to be-able",
+  "type": "verb",
+  "description": "to be able, can, have power, prevail",
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "3": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,20 @@
+{
+  "key": "nahag",
+  "hebrew": "נהג",
+  "transliteration": "nahag",
+  "englishLiteral": "to drive",
+  "englishNatural": "to drive",
+  "type": "verb",
+  "description": "to drive, lead (animals), conduct, guide",
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "1": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

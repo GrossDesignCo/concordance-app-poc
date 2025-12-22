@@ -1,0 +1,23 @@
+{
+  "key": "lo_to_him",
+  "hebrew": "לו",
+  "transliteration": "lo",
+  "englishLiteral": "to-him",
+  "englishNatural": "to him",
+  "type": "preposition",
+  "description": "to him, for him - preposition with 3rd person masculine singular suffix",
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "3": [
+          5
+        ],
+        "4": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

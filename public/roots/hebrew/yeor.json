@@ -1,0 +1,23 @@
+{
+  "key": "yeor",
+  "hebrew": "יאר",
+  "transliteration": "yeor",
+  "englishLiteral": "canal",
+  "englishNatural": "canal",
+  "type": "noun",
+  "description": "canal, stream, river; specifically the Nile River and its branches",
+  "related": [
+    "nahar"
+  ],
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "3": [
+          19
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -1,0 +1,23 @@
+{
+  "key": "tsaphan",
+  "hebrew": "צפן",
+  "transliteration": "tsaphan",
+  "englishLiteral": "to conceal",
+  "englishNatural": "to conceal",
+  "type": "verb",
+  "description": "to hide, to conceal, to treasure up",
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "2": [
+          9
+        ],
+        "3": [
+          3
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

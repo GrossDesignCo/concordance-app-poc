@@ -1,0 +1,20 @@
+{
+  "key": "midyan",
+  "hebrew": "מדין",
+  "transliteration": "Midyan",
+  "englishLiteral": "Strife (Midian)",
+  "englishNatural": "Strife (Midian)",
+  "type": "noun",
+  "description": "Midian, a region east of the Gulf of Aqaba; son of Abraham and Keturah",
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "1": [
+          8
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

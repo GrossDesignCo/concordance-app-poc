@@ -7,6 +7,14 @@
   "type": "noun",
   "description": "flock, sheep, goats",
   "wordIndexes": {
+    "exodus": {
+      "3": {
+        "1": [
+          4,
+          11
+        ]
+      }
+    },
     "genesis": {
       "4": {
         "2": [

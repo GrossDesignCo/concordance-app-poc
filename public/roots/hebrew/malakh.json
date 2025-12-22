@@ -9,7 +9,15 @@
     "melekh",
     "mamlakah"
   ],
-  "wordIndexes": {},
+  "wordIndexes": {
+    "exodus": {
+      "3": {
+        "2": [
+          1
+        ]
+      }
+    }
+  },
   "usage": {},
   "translationConnections": []
 }
