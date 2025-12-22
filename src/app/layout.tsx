@@ -35,17 +35,17 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: '/icons/Logo-Light.svg',
+        url: '/icons/logo-light.svg',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icons/Logo-Dark.svg',
+        url: '/icons/logo-dark.svg',
         media: '(prefers-color-scheme: dark)',
       },
     ],
     apple: [
       {
-        url: '/icons/Logo-Light.png',
+        url: '/icons/logo-light.png',
         sizes: '512x512',
         type: 'image/png',
       },
@@ -70,7 +70,7 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <head>
-        <link rel="apple-touch-icon" href="/icons/Logo-Light.png" />
+        <link rel="apple-touch-icon" href="/icons/logo-light.png" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta
           name="apple-mobile-web-app-status-bar-style"
