@@ -119,6 +119,10 @@
   --ds-fg-high-contrast: var(--ds-cream-0);
   --ds-fg-default: var(--ds-cream-100);
   --ds-fg-low-contrast: var(--ds-cream-300);
+
+  /* Since color is usually inherited rather than explicitly set,
+  ensure we reset it whenever the given theme is different than the ancestor theme */
+  color: var(--ds-fg-default);
 }
 
 /* Semantic Tokens - Dark Theme */
@@ -140,6 +144,10 @@
   --ds-fg-high-contrast: var(--ds-cream-1000);
   --ds-fg-default: var(--ds-cream-800);
   --ds-fg-low-contrast: var(--ds-cream-600);
+
+  /* Since color is usually inherited rather than explicitly set,
+  ensure we reset it whenever the given theme is different than the ancestor theme */
+  color: var(--ds-fg-default);
 }
 
 /* Indexes for animation delays, allows items within the list to delay intro animations in sequence */

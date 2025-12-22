@@ -6,17 +6,38 @@
 .content {
   background-color: var(--ds-bg-container);
   border-radius: var(--ds-radius-md);
-  padding: var(--ds-space-3) var(--ds-space-6);
   display: flex;
   align-items: center;
-  gap: var(--ds-space-6);
 }
 
-.descriptionTitle {
-  padding: 0;
+.description {
+  padding: var(--ds-space-3) var(--ds-space-4);
 }
 
-.descriptionText {
-  font-size: var(--ds-font-size-sm);
-  max-width: 60ch;
+.ctaLink {
+  padding: var(--ds-space-3) var(--ds-space-4);
+  background-color: var(--ds-bg-container-low-contrast);
+  border-radius: var(--ds-radius-md);
+  transition: 0.3s ease;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+}
+
+.ctaLink svg {
+  margin-inline-start: -20px; /* Width of icon */
+  opacity: 0;
+  pointer-events: none;
+  transition: 0.3s ease;
+}
+
+@media (pointer: fine) {
+  .ctaLink:hover {
+    background-color: var(--ds-bg-high-contrast);
+
+    & svg {
+      margin-inline-start: var(--ds-space-2);
+      opacity: 1;
+    }
+  }
 }

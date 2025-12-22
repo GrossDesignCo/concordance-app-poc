@@ -21,15 +21,8 @@ export const ScriptureReader = () => {
   return (
     <div className={cx(styles.scripture, font ? styles[font] : '')}>
       <CTACard
-        title="Roots Translation Preface"
+        title="The Bible (Roots Translation)"
         className={styles.prefaceCTACard}
-        description={
-          <p>
-            Much of this translation may look strange on the first read.
-            <br />
-            Learn more about the Translation Principles in the Preface.
-          </p>
-        }
         link={{
           href: '/about',
           label: 'Read the Preface',
