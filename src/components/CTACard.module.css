@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  background-color: var(--ds-bg-container);
+  border-radius: var(--ds-radius-md);
+  padding: var(--ds-space-3) var(--ds-space-6);
+  display: flex;
+  align-items: center;
+  gap: var(--ds-space-6);
+}
+
+.descriptionTitle {
+  padding: 0;
+}
+
+.descriptionText {
+  font-size: var(--ds-font-size-sm);
+  max-width: 60ch;
+}

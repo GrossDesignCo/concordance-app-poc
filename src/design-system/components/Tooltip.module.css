@@ -2,7 +2,7 @@
   background-color: var(--ds-bg-high-contrast);
   color: var(--ds-fg-default);
   border-radius: var(--ds-radius-md);
-  padding: var(--ds-space-2) var(--ds-space-3);
+  padding: var(--ds-space-2) var(--ds-space-3) var(--ds-space-3);
   line-height: 1;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
   user-select: none;
@@ -12,23 +12,36 @@
 }
 
 .content[data-state='delayed-open'][data-side='top'] {
-    animation-name: slideUpAndFade;
+  animation-name: slideUpAndFade;
 }
 
 .content[data-state='delayed-open'][data-side='right'] {
-    animation-name: slideDownAndFade;
+  animation-name: slideDownAndFade;
 }
 
 .content[data-state='delayed-open'][data-side='bottom'] {
-    animation-name: slideLeftAndFade;
+  animation-name: slideLeftAndFade;
 }
 
 .content[data-state='delayed-open'][data-side='left'] {
   animation-name: slideRightAndFade;
 }
 
+.content::before {
+  content: '';
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  border-radius: 0 0 var(--ds-radius-md) var(--ds-radius-md);
+  background-color: var(--ds-mg-border);
+  /* z-index: -1; */
+}
+
 .arrow {
-  fill: var(--ds-bg-high-contrast);
+  fill: var(--ds-mg-border);
 }
 
 @keyframes slideUpAndFade {
@@ -73,4 +86,4 @@
     opacity: 1;
     transform: translateX(0);
   }
-} 
+}

@@ -2,7 +2,7 @@
   max-width: 80ch;
   margin: 0 auto;
   line-height: var(--ds-line-height-loose);
-  
+
   padding: var(--ds-space-10) 0 var(--ds-space-8);
   min-height: calc(100dvh - var(--header-max-height));
 }
@@ -19,4 +19,9 @@
   display: flex;
   flex-direction: column;
   gap: var(--ds-space-5);
+}
+
+.prefaceCTACard {
+  margin-top: calc(var(--ds-space-8) * -1);
+  margin-bottom: var(--ds-space-4);
 }

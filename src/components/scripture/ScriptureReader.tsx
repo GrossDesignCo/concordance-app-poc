@@ -6,6 +6,7 @@ import { Book } from '@/components/scripture/Book';
 import { useSettings } from '@/context/SettingsContext';
 import { scripture } from '@/data/scripture';
 import cx from 'classnames';
+import { CTACard } from '../CTACard';
 
 export const ScriptureReader = () => {
   const { font } = useSettings();
@@ -19,6 +20,22 @@ export const ScriptureReader = () => {
 
   return (
     <div className={cx(styles.scripture, font ? styles[font] : '')}>
+      <CTACard
+        title="Roots Translation Preface"
+        className={styles.prefaceCTACard}
+        description={
+          <p>
+            Much of this translation may look strange on the first read.
+            <br />
+            Learn more about the Translation Principles in the Preface.
+          </p>
+        }
+        link={{
+          href: '/about',
+          label: 'Read the Preface',
+        }}
+      />
+
       <div className={styles.bookContainer}>
         {filteredBooks.map((book) => {
           // Filter chapters based on filteredStructure

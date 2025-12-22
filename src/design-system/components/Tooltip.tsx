@@ -19,6 +19,7 @@ export function Tooltip({
     <TooltipPrimitive.Provider>
       <TooltipPrimitive.Root>
         <TooltipPrimitive.Trigger asChild>{children}</TooltipPrimitive.Trigger>
+
         <TooltipPrimitive.Portal>
           <TooltipPrimitive.Content
             className={styles.content}
@@ -27,6 +28,7 @@ export function Tooltip({
             sideOffset={5}
           >
             {label}
+
             <TooltipPrimitive.Arrow className={styles.arrow} />
           </TooltipPrimitive.Content>
         </TooltipPrimitive.Portal>
