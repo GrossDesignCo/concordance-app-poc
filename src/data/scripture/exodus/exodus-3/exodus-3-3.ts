@@ -36,8 +36,8 @@ export const exodus_3_3: Verse = {
     {
       hebrew: 'מֹשֶׁה',
       transliteration: 'Moshe',
-      englishLiteral: 'Draws_Out (Moses)',
-      englishNatural: 'And Draws-Out (Moses)',
+      englishLiteral: 'Drawn_Out (Moses)',
+      englishNatural: 'And Drawn-Out (Moses)',
       root: 'moshe',
       order: {
         hebrew: 2,
@@ -247,10 +247,10 @@ export const exodus_3_3: Verse = {
     transliteration:
       'vaYomer Moshe asurah-nah veEreh et-haMareh haGadol haZeh madua lo-yivar haSeneh',
     englishLiteral:
-      'And-said Draws_Out (Moses) "I-will-turn_aside- please and-will-see ↳ the-sight the-great the-this, why not- burns the-thornbush."',
+      'And-said Drawn_Out (Moses) "I-will-turn_aside- please and-will-see ↳ the-sight the-great the-this, why not- burns the-thornbush."',
     englishNatural:
-      'And Draws-Out (Moses) said, "I will turn-aside please, and see this great sight, why the thornbush burns not."',
+      'And Drawn-Out (Moses) said, "I will turn-aside please, and see this great sight, why the thornbush burns not."',
     kjv: 'And Moses said, I will now turn aside, and see this great sight, why the bush is not burnt.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-22' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
+  },
 };

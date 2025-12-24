@@ -2,12 +2,17 @@
   "key": "moshe",
   "hebrew": "משׁה",
   "transliteration": "Moshe",
-  "englishLiteral": "Draws_Out (Moses)",
-  "englishNatural": "Draws-Out (Moses)",
+  "englishLiteral": "Drawn_Out (Moses)",
+  "englishNatural": "Drawn-Out (Moses)",
   "description": "Moses, who was drawn out of the water, and who drew out the Israelites, also \"Son of ?\" in Egyptian (eg. Ra-meses, \"Son of Ra\")",
   "type": "noun",
   "wordIndexes": {
     "exodus": {
+      "2": {
+        "10": [
+          10
+        ]
+      },
       "3": {
         "1": [
           0
@@ -22,11 +27,37 @@
         "6": [
           11
         ],
+        "13": [
+          1
+        ],
         "14": [
           3
         ],
         "15": [
           4
+        ]
+      },
+      "4": {
+        "1": [
+          1
+        ],
+        "3": [
+          8
+        ],
+        "4": [
+          3
+        ],
+        "20": [
+          1,
+          13
+        ],
+        "21": [
+          3
+        ]
+      },
+      "5": {
+        "1": [
+          2
         ]
       }
     },

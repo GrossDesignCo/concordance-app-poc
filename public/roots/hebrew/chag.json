@@ -1,0 +1,20 @@
+{
+  "key": "chag",
+  "hebrew": "חג",
+  "transliteration": "chag",
+  "englishLiteral": "feast",
+  "englishNatural": "feast",
+  "type": "noun",
+  "description": "feast, festival, pilgrimage feast",
+  "wordIndexes": {
+    "exodus": {
+      "5": {
+        "1": [
+          15
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

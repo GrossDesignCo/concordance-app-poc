@@ -1,4 +1,4 @@
-And-was word-of He_Who_Is (YHWH) to- Dove (Jonah) son-of My_Truth, to-say;
+And-was word-of He_Who_Is (YHWH) to- Dove (Jonah) son-of My_Truth (Amittai), to-say;
 
 "Stand_up, go to- Dwelling_of_Fish (Nineveh), the-city, the-great; 
 and-call_out over-her, that- went_up bad-their before-my-faces."

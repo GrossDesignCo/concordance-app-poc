@@ -7,6 +7,13 @@
   "type": "pronoun",
   "description": "these, those (demonstrative pronoun)",
   "wordIndexes": {
+    "exodus": {
+      "3": {
+        "13": [
+          22
+        ]
+      }
+    },
     "genesis": {
       "6": {
         "9": [

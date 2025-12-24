@@ -64,8 +64,8 @@ export const numbers_21_7: Verse = {
     {
       hebrew: 'מֹשֶׁה',
       transliteration: 'Moshe',
-      englishLiteral: 'Draws_Out (Moses)',
-      englishNatural: 'Draws-Out (Moses)',
+      englishLiteral: 'Drawn_Out (Moses)',
+      englishNatural: 'Drawn-Out (Moses)',
       root: 'moshe',
       order: 4,
       morphology: {
@@ -312,8 +312,8 @@ export const numbers_21_7: Verse = {
     {
       hebrew: 'מֹשֶׁה',
       transliteration: 'Moshe',
-      englishLiteral: 'Draws_Out (Moses)',
-      englishNatural: 'And Draws-Out (Moses)',
+      englishLiteral: 'Drawn_Out (Moses)',
+      englishNatural: 'And Drawn-Out (Moses)',
       root: 'moshe',
       order: {
         hebrew: 19,
@@ -369,10 +369,10 @@ export const numbers_21_7: Verse = {
     transliteration:
       'vaYavo haAm el Moshe vaYomru chatanu ki dibarnu vaYHWH vaVeKha hitpalel el YHWH veYaSer meAleinu et haNachash vaYitpalel Moshe beAd haAm',
     englishLiteral:
-      'And-came the-people to Draws_Out (Moses) and-they-said, "we-have-sinned, that we-have-spoken against-He_Who_Is (YHWH) and-against-you, pray to He_Who_Is (YHWH), and-may-he-turn_aside from-over-us ↳ the-snake." And-prayed Draws_Out (Moses) in-unto the-people.',
+      'And-came the-people to Drawn_Out (Moses) and-they-said, "we-have-sinned, that we-have-spoken against-He_Who_Is (YHWH) and-against-you, pray to He_Who_Is (YHWH), and-may-he-turn_aside from-over-us ↳ the-snake." And-prayed Drawn_Out (Moses) in-unto the-people.',
     englishNatural:
-      'And the people came to Draws-Out (Moses) and said, "We have sinned, that we have spoken against He-Who-Is (YHWH) and against you; pray to He-Who-Is (YHWH), and may he turn-aside the snake from over us." And Draws-Out (Moses) prayed in unto the people.',
+      'And the people came to Drawn-Out (Moses) and said, "We have sinned, that we have spoken against He-Who-Is (YHWH) and against you; pray to He-Who-Is (YHWH), and may he turn-aside the snake from over us." And Drawn-Out (Moses) prayed in unto the people.',
     kjv: 'Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
   },
 };

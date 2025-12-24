@@ -102,8 +102,8 @@ export const jonah_1_1: Verse = {
     {
       hebrew: 'אֲמִתַּי',
       transliteration: 'Amittai',
-      englishLiteral: 'My_Truth',
-      englishNatural: 'My-Truth',
+      englishLiteral: 'My_Truth (Amittai)',
+      englishNatural: 'My-Truth (Amittai)',
       root: 'amittai',
       order: 7,
       morphology: {
@@ -140,10 +140,10 @@ export const jonah_1_1: Verse = {
     hebrew: 'וַיְהִי דְבַר־יְהוָה אֶל־יוֹנָה בֶן־אֲמִתַּי לֵאמֹר',
     transliteration: 'vaYehi devar-YHWH el-Yonah ben-Amittai lemor',
     englishLiteral:
-      'And-was word-of He_Who_Is (YHWH) to- Dove (Jonah) son-of My_Truth, to-say;',
+      'And-was word-of He_Who_Is (YHWH) to- Dove (Jonah) son-of My_Truth (Amittai), to-say;',
     englishNatural:
-      'And the word of He-Who-Is (YHWH) was to Dove (Jonah) son of My-Truth, saying;',
+      'And the word of He-Who-Is (YHWH) was to Dove (Jonah) son of My-Truth (Amittai), saying;',
     kjv: 'Now the word of the LORD came unto Jonah the son of Amittai, saying,',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
   },
 };

@@ -64,8 +64,8 @@ export const exodus_3_14: Verse = {
     {
       hebrew: 'מֹשֶׁה',
       transliteration: 'Moshe',
-      englishLiteral: 'Draws_Out (Moses)',
-      englishNatural: 'Draws-Out (Moses)',
+      englishLiteral: 'Drawn_Out (Moses)',
+      englishNatural: 'Drawn-Out (Moses)',
       root: 'moshe',
       order: 4,
       morphology: {
@@ -235,7 +235,7 @@ export const exodus_3_14: Verse = {
       transliteration: 'shlachani',
       englishLiteral: 'sent-me',
       englishNatural: 'has sent me',
-      root: 'shlachani',
+      root: 'shalach',
       order: 14,
       morphology: {
         gender: 'masculine',
@@ -269,10 +269,10 @@ export const exodus_3_14: Verse = {
     transliteration:
       'vaYomer Elohim el-Moshe ehyeh asher ehyeh vaYomer koh tomar livney Yisrael ehyeh shlachani aleikhem',
     englishLiteral:
-      'And-said Gods to- Draws_Out (Moses), "I am which I am." And-said, "Thus you-will-say to-sons-of Struggles_with_God (Israel), \'I_Am sent-me to-you.\'"',
+      'And-said Gods to- Drawn_Out (Moses), "I am which I am." And-said, "Thus you-will-say to-sons-of Struggles_with_God (Israel), \'I_Am sent-me to-you.\'"',
     englishNatural:
-      'And God said to Draws-Out (Moses), "I am which I am." And he said, "Thus you will say to the sons of Struggles-with-God (Israel), \'I-Am has sent me to you.\'"',
+      'And God said to Drawn-Out (Moses), "I am which I am." And he said, "Thus you will say to the sons of Struggles-with-God (Israel), \'I-Am has sent me to you.\'"',
     kjv: 'And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
   },
 };

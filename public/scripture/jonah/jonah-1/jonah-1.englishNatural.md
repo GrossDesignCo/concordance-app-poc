@@ -1,5 +1,5 @@
 
-And the word of He-Who-Is (YHWH) was to Dove (Jonah) son of My-Truth, saying;
+And the word of He-Who-Is (YHWH) was to Dove (Jonah) son of My-Truth (Amittai), saying;
 
 "Stand-up, go to Dwelling-of-Fish (Nineveh), the city, the great; 
 and call-out over her, that their bad has come up before my face."

@@ -180,8 +180,8 @@ export const exodus_3_1: Verse = {
     {
       hebrew: 'אַחַר',
       transliteration: 'achar',
-      englishLiteral: 'behind',
-      englishNatural: 'to the back of',
+      englishLiteral: 'after',
+      englishNatural: 'after',
       root: 'achar',
       order: 13,
       morphology: {
@@ -293,10 +293,10 @@ export const exodus_3_1: Verse = {
     transliteration:
       'uMoshe hayah roeh et-tzon Yitro chotno kohen Midyan vaYinhag et-haTzon achar haMidbar vaYavo el-har haElohim Chorevah',
     englishLiteral:
-      'And-Drawn_Out (Moses) was shepherding ↳ flock-of Abundance (Jethro) father_in_law-his, priest-of Strife (Midian), and-drove ↳ the-flock behind the-wilderness, and-came to- mountain-of the-Gods, Desolate (Horeb).',
+      'And-Drawn_Out (Moses) was shepherding ↳ flock-of Abundance (Jethro) father_in_law-his, priest-of Strife (Midian), and-drove ↳ the-flock after the-wilderness, and-came to- mountain-of the-Gods, Desolate (Horeb).',
     englishNatural:
-      'And Drawn-Out (Moses) had been shepherding the flock of Abundance (Jethro) his father-in-law, the priest of Strife (Midian), and he drove the flock to the back of the wilderness, and came to the mountain of the God, Desolate (Horeb).',
+      'And Drawn-Out (Moses) had been shepherding the flock of Abundance (Jethro) his father-in-law, the priest of Strife (Midian), and he drove the flock after the wilderness, and came to the mountain of the God, Desolate (Horeb).',
     kjv: 'Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-22' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
+  },
 };

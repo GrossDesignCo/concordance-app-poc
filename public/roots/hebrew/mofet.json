@@ -1,0 +1,23 @@
+{
+  "key": "mofet",
+  "hebrew": "מופת",
+  "transliteration": "mofet",
+  "englishLiteral": "wonder",
+  "englishNatural": "wonder",
+  "type": "noun",
+  "description": "wonder, sign, portent, miracle",
+  "related": [
+    "ot"
+  ],
+  "wordIndexes": {
+    "exodus": {
+      "4": {
+        "21": [
+          9
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -208,8 +208,8 @@ export const exodus_3_6: Verse = {
     {
       hebrew: 'מֹשֶׁה',
       transliteration: 'Moshe',
-      englishLiteral: 'Draws_Out (Moses)',
-      englishNatural: 'And Draws-Out (Moses)',
+      englishLiteral: 'Drawn_Out (Moses)',
+      englishNatural: 'And Drawn-Out (Moses)',
       root: 'moshe',
       order: {
         hebrew: 12,
@@ -319,10 +319,10 @@ export const exodus_3_6: Verse = {
     transliteration:
       'vaYomer anokhi elohei avikha elohei Avraham elohei Yitzchaq vElohei Yaaqov vaYaster Moshe panav ki yare meHabit el-haElohim',
     englishLiteral:
-      'And-said "I Gods-of father-your, Gods-of Exalted_Father (Abraham), Gods-of He_Laughs (Isaac), and-Gods-of Heel_Grasper (Jacob)." And-hid Draws_Out (Moses) faces-his, that feared from-to-look to- the-Gods.',
+      'And-said "I Gods-of father-your, Gods-of Exalted_Father (Abraham), Gods-of He_Laughs (Isaac), and-Gods-of Heel_Grasper (Jacob)." And-hid Drawn_Out (Moses) faces-his, that feared from-to-look to- the-Gods.',
     englishNatural:
-      'And he said, "I, the God of your father, the God of Exalted-Father (Abraham), the God of He-Laughs (Isaac), and the God of Heel-Grasper (Jacob)." And Draws-Out (Moses) hid his face, that he feared to look to the God.',
+      'And he said, "I, the God of your father, the God of Exalted-Father (Abraham), the God of He-Laughs (Isaac), and the God of Heel-Grasper (Jacob)." And Drawn-Out (Moses) hid his face, that he feared to look to the God.',
     kjv: 'Moreover he said, I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-22' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
+  },
 };

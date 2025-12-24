@@ -1,0 +1,20 @@
+{
+  "key": "mashah",
+  "hebrew": "משה",
+  "transliteration": "mashah",
+  "englishLiteral": "to draw_out",
+  "englishNatural": "to draw-out",
+  "type": "verb",
+  "description": "to draw out, to pull out (especially from water)",
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "10": [
+          15
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

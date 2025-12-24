@@ -12,3 +12,6 @@ vaTasem baSuph al-sefat haYeor
 
 vaTetatzav achoto meRachok 
 leDeah mah-yeaseh lo
+
+vaYigdal haYeled vatTevihu leBat-Paroh vaYehi-lah leVen 
+vaTiqra shemo Moshe vaTomer ki min-haMayim meshitihu

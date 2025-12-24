@@ -77,11 +77,11 @@ And He-Who-Is (YHWH) God made to Earth (Adam) and to his woman; tunics of skin a
 And He-Who-Is (YHWH) God said, 
 "Behold, the Earth (Adam) has become as one 
 from us to know good and bad; 
-and now —or else he will send his hand 
+and now —or else he will send-out his hand 
 and take also from the Tree of Life 
 and eat and live to the-age—"
 
-And He-Who-Is (YHWH) God sent him from Garden of Delight (Eden); 
+And He-Who-Is (YHWH) God sent him out from Garden of Delight (Eden); 
 to serve the earth from there which he was taken.
 And he banished the Earth (Adam); 
 and he caused to dwell east of Garden of Delight (Eden) the Approaching-Ones; 

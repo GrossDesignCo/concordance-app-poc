@@ -20,6 +20,9 @@ vaYaster Moshe panav ki yare meHabit el-haElohim
 
 vaYomer YHWH raoh raiti et-oni ammi asher beMitzrayim veEt-tzaaqatam shamati miPenei nogsav ki yadati et-makheovav
 
+vaYomer Moshe el-haElohim hineh anokhi va el-benei Yisrael veAmarti lahem elohei avoteikhem shelachani aleikhem 
+veAmru-li mah-shemo mah omar alehem
+
 vaYomer Elohim el-Moshe 
 ehyeh asher ehyeh 
 vaYomer koh tomar livney Yisrael 

@@ -205,8 +205,8 @@ export const exodus_3_4: Verse = {
     {
       hebrew: 'מֹשֶׁה',
       transliteration: 'Moshe',
-      englishLiteral: 'Draws_Out (Moses)',
-      englishNatural: 'Draws-Out (Moses)',
+      englishLiteral: 'Drawn_Out (Moses)',
+      englishNatural: 'Drawn-Out (Moses)',
       root: 'moshe',
       order: 12,
       morphology: {
@@ -224,8 +224,8 @@ export const exodus_3_4: Verse = {
     {
       hebrew: 'מֹשֶׁה',
       transliteration: 'Moshe',
-      englishLiteral: 'Draws_Out (Moses)',
-      englishNatural: 'Draws-Out (Moses)',
+      englishLiteral: 'Drawn_Out (Moses)',
+      englishNatural: 'Drawn-Out (Moses)',
       root: 'moshe',
       order: 13,
       morphology: {
@@ -286,10 +286,10 @@ export const exodus_3_4: Verse = {
     transliteration:
       'vaYar YHWH ki sar lirot vaYiqra elav Elohim miTokh haSeneh vaYomer Moshe Moshe vaYomer hineni',
     englishLiteral:
-      'And-saw He_Who_Is (YHWH) that turned_aside to-see, and-he-called to-him Gods from-midst-of the-thornbush and-said, "Draws_Out (Moses), Draws_Out (Moses)," and-said "behold_me."',
+      'And-saw He_Who_Is (YHWH) that turned_aside to-see, and-he-called to-him Gods from-midst-of the-thornbush and-said, "Drawn_Out (Moses), Drawn_Out (Moses)," and-said "behold_me."',
     englishNatural:
-      'And He-Who-Is (YHWH) saw that he had turned-aside to see, and God called to him from the midst of the thornbush and said, "Draws-Out (Moses), Draws-Out (Moses)," and he said, "Behold-me."',
+      'And He-Who-Is (YHWH) saw that he had turned-aside to see, and God called to him from the midst of the thornbush and said, "Drawn-Out (Moses), Drawn-Out (Moses)," and he said, "Behold-me."',
     kjv: 'And when the LORD saw that he turned aside to see, God called unto him out of the midst of the bush, and said, Moses, Moses. And he said, Here am I.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-22' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
+  },
 };

@@ -217,7 +217,7 @@ export const genesis_3_22: Verse = {
       hebrew: 'יִשְׁלַח',
       transliteration: 'yishLach',
       englishLiteral: 'he-will-send',
-      englishNatural: 'he will send',
+      englishNatural: 'he will send-out',
       root: 'shalach',
       prefixes: ['yi'],
       order: 14,
@@ -362,8 +362,8 @@ export const genesis_3_22: Verse = {
     englishLiteral:
       'And-he-said He_Who_Is (YHWH) Gods, "Behold, the-Earth (Adam) has-become as-one from-us to-know good and-bad; and-now —or-else he-will-send hand-his and-take also from-tree the-lives and-eat and-live to-the_age—"',
     englishNatural:
-      'And He-Who-Is (YHWH) God said, "Behold, the Earth (Adam) has become as one from us to know good and bad; and now —or else he will send his hand and take also from the Tree of Life and eat and live to the-age—"',
+      'And He-Who-Is (YHWH) God said, "Behold, the Earth (Adam) has become as one from us to know good and bad; and now —or else he will send-out his hand and take also from the Tree of Life and eat and live to the-age—"',
     kjv: 'And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
   },
 };

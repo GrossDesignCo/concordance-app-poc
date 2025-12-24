@@ -7,6 +7,13 @@
   "type": "pronoun",
   "description": "first person singular pronoun - I, me",
   "wordIndexes": {
+    "exodus": {
+      "4": {
+        "21": [
+          16
+        ]
+      }
+    },
     "ezekiel": {
       "1": {
         "1": [

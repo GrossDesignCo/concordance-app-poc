@@ -1,0 +1,29 @@
+{
+  "key": "mateh",
+  "hebrew": "מטה",
+  "transliteration": "mateh",
+  "englishLiteral": "branch",
+  "englishNatural": "branch",
+  "type": "noun",
+  "description": "literally \"a branch\" from a tree, common word for a staff, supply system, rod, branch, tribe",
+  "related": [
+    "shevet"
+  ],
+  "wordIndexes": {
+    "exodus": {
+      "4": {
+        "2": [
+          7
+        ],
+        "4": [
+          13
+        ],
+        "20": [
+          15
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

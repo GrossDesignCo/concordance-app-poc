@@ -6,6 +6,7 @@ import { exodus_3_4 } from './exodus-3-4';
 import { exodus_3_5 } from './exodus-3-5';
 import { exodus_3_6 } from './exodus-3-6';
 import { exodus_3_7 } from './exodus-3-7';
+import { exodus_3_13 } from './exodus-3-13';
 import { exodus_3_14 } from './exodus-3-14';
 import { exodus_3_15 } from './exodus-3-15';
 
@@ -22,6 +23,7 @@ const chapter: Chapter = {
     exodus_3_5,
     exodus_3_6,
     exodus_3_7,
+    exodus_3_13,
     exodus_3_14,
     exodus_3_15,
   ],

@@ -11,7 +11,7 @@ export const genesis_3_23: Verse = {
       hebrew: 'וַיְשַׁלְּחֵהוּ',
       transliteration: 'vayShallachehu',
       englishLiteral: 'And-he-sent-him',
-      englishNatural: 'sent him',
+      englishNatural: 'sent him out',
       root: 'shalach',
       prefixes: ['va', 'yi'],
       suffixes: ['ehu'],
@@ -199,8 +199,8 @@ export const genesis_3_23: Verse = {
     englishLiteral:
       'And-he-sent-him He_Who_Is (YHWH) Gods from-Garden Delight (Eden); to-serve ↳ the-earth which was-taken from-there.',
     englishNatural:
-      'And He-Who-Is (YHWH) God sent him from Garden of Delight (Eden); to serve the earth from there which he was taken.',
+      'And He-Who-Is (YHWH) God sent him out from Garden of Delight (Eden); to serve the earth from there which he was taken.',
     kjv: 'Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
   },
 };

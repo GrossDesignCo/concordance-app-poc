@@ -93,8 +93,8 @@ export const exodus_3_5: Verse = {
     {
       hebrew: 'שַׁל־',
       transliteration: 'shal-',
-      englishLiteral: 'remove-',
-      englishNatural: 'remove',
+      englishLiteral: 'send-',
+      englishNatural: 'send-out',
       root: 'shalach',
       order: 5,
       morphology: {
@@ -290,10 +290,10 @@ export const exodus_3_5: Verse = {
     transliteration:
       'vaYomer al-tiqrav halom shal-nealekha meAl raglekha ki haMaqom asher atah omed alav admat-qodesh hu',
     englishLiteral:
-      'And-said "not- approach here, remove- sandals-your from-over feet-your, that the-place which you standing over-it ground-of holiness it.',
+      'And-said "not- approach here, send- sandals-your from-over feet-your, that the-place which you standing over-it ground-of holiness it.',
     englishNatural:
-      'And he said, "Approach here not, remove your sandals from over your feet, that the place which you, standing over it, the ground of holiness it is.',
+      'And he said, "Approach here not, send-out your sandals from over your feet, that the place which you, standing over it, the ground of holiness it is.',
     kjv: 'And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-22' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
+  },
 };

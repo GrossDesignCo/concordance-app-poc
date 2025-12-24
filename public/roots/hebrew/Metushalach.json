@@ -5,7 +5,10 @@
   "englishLiteral": "Man-of-the-Dart (Methuselah)",
   "englishNatural": "Man-of-the-Dart (Methuselah)",
   "type": "noun",
-  "description": "proper name, Methuselah, meaning \"man of the dart\" or \"when he dies, it shall be sent\"",
+  "related": [
+    "shalach"
+  ],
+  "description": "proper name, Methuselah, meaning \"one of the dart\" or \"one of sending-out\" or or \"when he dies, it shall be sent\"",
   "wordIndexes": {
     "genesis": {
       "5": {

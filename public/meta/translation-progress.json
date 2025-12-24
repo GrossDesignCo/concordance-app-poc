@@ -1882,7 +1882,7 @@
             "7": false,
             "8": false,
             "9": false,
-            "10": false,
+            "10": true,
             "11": false,
             "12": false,
             "13": false,
@@ -1899,7 +1899,7 @@
             "24": false,
             "25": false
           },
-          "progress": 16
+          "progress": 20
         },
         "3": {
           "chapterNumber": 3,
@@ -1916,7 +1916,7 @@
             "10": false,
             "11": false,
             "12": false,
-            "13": false,
+            "13": true,
             "14": true,
             "15": true,
             "16": false,
@@ -1927,16 +1927,16 @@
             "21": false,
             "22": false
           },
-          "progress": 40.909090909090914
+          "progress": 45.45454545454545
         },
         "4": {
           "chapterNumber": 4,
           "verses": {
-            "1": false,
-            "2": false,
-            "3": false,
-            "4": false,
-            "5": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
             "6": false,
             "7": false,
             "8": false,
@@ -1951,8 +1951,8 @@
             "17": false,
             "18": false,
             "19": false,
-            "20": false,
-            "21": false,
+            "20": true,
+            "21": true,
             "22": false,
             "23": false,
             "24": false,
@@ -1964,13 +1964,13 @@
             "30": false,
             "31": false
           },
-          "progress": 0
+          "progress": 22.58064516129032
         },
         "5": {
           "chapterNumber": 5,
           "verses": {
-            "1": false,
-            "2": false,
+            "1": true,
+            "2": true,
             "3": false,
             "4": false,
             "5": false,
@@ -1993,7 +1993,7 @@
             "22": false,
             "23": false
           },
-          "progress": 0
+          "progress": 8.695652173913043
         },
         "6": {
           "chapterNumber": 6,
@@ -3296,7 +3296,7 @@
           "progress": 0
         }
       },
-      "progress": 1.3190436933223413
+      "progress": 2.225886232481451
     },
     "LEVITICUS": {
       "bookName": "Leviticus",
@@ -38634,5 +38634,5 @@
       "progress": 0.49504950495049505
     }
   },
-  "totalProgress": 1.2924798250972576
+  "totalProgress": 1.3278461884705657
 }

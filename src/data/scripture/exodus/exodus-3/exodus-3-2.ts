@@ -34,7 +34,7 @@ export const exodus_3_2: Verse = {
       hebrew: 'מַלְאַךְ',
       transliteration: 'malakh',
       englishLiteral: 'messenger-of',
-      englishNatural: 'And the messenger of',
+      englishNatural: 'And the Messenger of',
       root: 'malakh',
       order: {
         hebrew: 2,
@@ -280,8 +280,8 @@ export const exodus_3_2: Verse = {
     englishLiteral:
       'And-was_seen messenger-of He_Who_Is (YHWH) to-him in-flame-of fire from-midst-of the-thornbush, and-saw and-behold the-thornbush burning in-fire, and-the-thornbush not_exist-it consumed.',
     englishNatural:
-      'And the messenger of He-Who-Is (YHWH) was-seen to him in a flame of fire, from the midst of the thornbush, and he saw, and behold the thornbush, burning in fire, and the thornbush was not consumed.',
+      'And the Messenger of He-Who-Is (YHWH) was-seen to him in a flame of fire, from the midst of the thornbush, and he saw, and behold the thornbush, burning in fire, and the thornbush was not consumed.',
     kjv: 'And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-22' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
+  },
 };

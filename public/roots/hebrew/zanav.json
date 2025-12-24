@@ -1,0 +1,20 @@
+{
+  "key": "zanav",
+  "hebrew": "זנב",
+  "transliteration": "zanav",
+  "englishLiteral": "tail",
+  "englishNatural": "tail",
+  "type": "noun",
+  "description": "tail, rear, end",
+  "wordIndexes": {
+    "exodus": {
+      "4": {
+        "4": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

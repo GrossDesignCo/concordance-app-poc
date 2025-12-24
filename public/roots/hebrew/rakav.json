@@ -1,0 +1,20 @@
+{
+  "key": "rakav",
+  "hebrew": "רכב",
+  "transliteration": "rakav",
+  "englishLiteral": "to ride",
+  "englishNatural": "to ride",
+  "type": "verb",
+  "description": "to ride, mount (an animal or vehicle)",
+  "wordIndexes": {
+    "exodus": {
+      "4": {
+        "20": [
+          6
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -513,6 +513,8 @@ const ROOTS = {
     englishLiteral: 'to send',
     englishNatural: 'to send',
     type: 'verb',
+    description: 'to send or to send-out, depending on intensity',
+    related: ['Metushalach'],
   },
   shafakh: {
     hebrew: 'שָׁפַךְ',
@@ -585,8 +587,8 @@ const ROOTS = {
   moshe: {
     hebrew: 'משׁה',
     transliteration: 'Moshe',
-    englishLiteral: 'Draws_Out (Moses)',
-    englishNatural: 'Draws-Out (Moses)',
+    englishLiteral: 'Drawn_Out (Moses)',
+    englishNatural: 'Drawn-Out (Moses)',
     description:
       'Moses, who was drawn out of the water, and who drew out the Israelites, also "Son of ?" in Egyptian (eg. Ra-meses, "Son of Ra")',
     type: 'noun',
@@ -4081,8 +4083,9 @@ const ROOTS = {
     englishLiteral: 'Man-of-the-Dart (Methuselah)',
     englishNatural: 'Man-of-the-Dart (Methuselah)',
     type: 'noun',
+    related: ['shalach'],
     description:
-      'proper name, Methuselah, meaning "man of the dart" or "when he dies, it shall be sent"',
+      'proper name, Methuselah, meaning "one of the dart" or "one of sending-out" or or "when he dies, it shall be sent"',
   },
   // Genesis 5:22 additions
   shalosh: {
@@ -4674,16 +4677,6 @@ const ROOTS = {
     englishNatural: 'thus',
     type: 'adverb',
     description: 'thus, so, in this manner',
-  },
-
-  shlachani: {
-    hebrew: 'שלחני',
-    transliteration: 'shlachani',
-    englishLiteral: 'sent-me',
-    englishNatural: 'has sent me',
-    type: 'verb',
-    description: 'has sent me, sent me (perfect with 1st person object suffix)',
-    related: ['shalach'],
   },
   // Exodus 3:15 additions
   avot: {
@@ -5396,10 +5389,10 @@ const ROOTS = {
   tul: {
     hebrew: 'טול',
     transliteration: 'tul',
-    englishLiteral: 'to cast',
-    englishNatural: 'to cast',
+    englishLiteral: 'to hurl',
+    englishNatural: 'to hurl',
     type: 'verb',
-    description: 'to cast, throw, hurl',
+    description: 'to hurl, throw, cast',
   },
   zaaf: {
     hebrew: 'זעף',
@@ -7545,8 +7538,90 @@ const ROOTS = {
     englishLiteral: 'behold_me',
     englishNatural: 'behold-me',
     type: 'interjection',
-    description: 'here I am, behold me - response of availability and readiness',
+    description:
+      'here I am, behold me - response of availability and readiness',
     related: ['hineh'] as const,
+  },
+  // Exodus 2:10 additions
+  paroh: {
+    hebrew: 'פרעה',
+    transliteration: 'Paroh',
+    englishLiteral: 'Pharaoh',
+    englishNatural: 'Pharaoh',
+    type: 'noun',
+    description: 'Pharaoh, title of Egyptian kings, meaning "great house"',
+  },
+  mashah: {
+    hebrew: 'משה',
+    transliteration: 'mashah',
+    englishLiteral: 'to draw_out',
+    englishNatural: 'to draw-out',
+    type: 'verb',
+    description: 'to draw out, to pull out (especially from water)',
+  },
+  // Exodus 4:2 additions
+  mateh: {
+    hebrew: 'מטה',
+    transliteration: 'mateh',
+    englishLiteral: 'branch',
+    englishNatural: 'branch',
+    type: 'noun',
+    description:
+      'literally "a branch" from a tree, common word for a staff, supply system, rod, branch, tribe',
+    related: ['shevet'] as const,
+  },
+  // Exodus 4:4 additions
+  zanav: {
+    hebrew: 'זנב',
+    transliteration: 'zanav',
+    englishLiteral: 'tail',
+    englishNatural: 'tail',
+    type: 'noun',
+    description: 'tail, rear, end',
+  },
+  // Exodus 4:20 additions
+  chamor: {
+    hebrew: 'חמור',
+    transliteration: 'chamor',
+    englishLiteral: 'donkey',
+    englishNatural: 'donkey',
+    type: 'noun',
+    description: 'donkey, ass',
+  },
+  rakav: {
+    hebrew: 'רכב',
+    transliteration: 'rakav',
+    englishLiteral: 'to ride',
+    englishNatural: 'to ride',
+    type: 'verb',
+    description: 'to ride, mount (an animal or vehicle)',
+  },
+  // Exodus 4:21 additions
+  mofet: {
+    hebrew: 'מופת',
+    transliteration: 'mofet',
+    englishLiteral: 'wonder',
+    englishNatural: 'wonder',
+    type: 'noun',
+    description: 'wonder, sign, portent, miracle',
+    related: ['ot'] as const,
+  },
+  // Exodus 5:1 additions
+  aharon: {
+    hebrew: 'אהרן',
+    transliteration: 'Aharon',
+    englishLiteral: 'Light_Bringer (Aaron)',
+    englishNatural: 'Light-Bringer (Aaron)',
+    type: 'noun',
+    description: 'Aaron, brother of Moses, first high priest of Israel',
+  },
+  chag: {
+    hebrew: 'חג',
+    transliteration: 'chag',
+    englishLiteral: 'feast',
+    englishNatural: 'feast',
+    type: 'noun',
+    description: 'feast, festival, pilgrimage feast',
   },
 } as const;
 

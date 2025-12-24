@@ -1,0 +1,33 @@
+{
+  "key": "paroh",
+  "hebrew": "פרעה",
+  "transliteration": "Paroh",
+  "englishLiteral": "Pharaoh",
+  "englishNatural": "Pharaoh",
+  "type": "noun",
+  "description": "Pharaoh, title of Egyptian kings, meaning \"great house\"",
+  "wordIndexes": {
+    "exodus": {
+      "2": {
+        "10": [
+          4
+        ]
+      },
+      "4": {
+        "21": [
+          15
+        ]
+      },
+      "5": {
+        "1": [
+          6
+        ],
+        "2": [
+          1
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

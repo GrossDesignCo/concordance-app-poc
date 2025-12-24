@@ -7,6 +7,28 @@
   "type": "preposition",
   "description": "to, for, at, in",
   "wordIndexes": {
+    "exodus": {
+      "2": {
+        "10": [
+          6
+        ]
+      },
+      "3": {
+        "13": [
+          17
+        ]
+      },
+      "4": {
+        "1": [
+          6
+        ]
+      },
+      "5": {
+        "1": [
+          16
+        ]
+      }
+    },
     "ezekiel": {
       "1": {
         "4": [

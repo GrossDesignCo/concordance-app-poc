@@ -15,3 +15,6 @@ and set it in the reeds over the lip of the canal.
 
 And his sister positioned-herself from a distance, 
 to know what would be done to him.
+
+And the child grew, and she brought him to the daughter of Pharaoh, and he was to her for a son, 
+and she called his name Drawn-Out (Moses), and said, "That from the waters I drew-him-out."
