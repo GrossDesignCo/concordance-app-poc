@@ -1,4 +1,4 @@
-const CACHE_NAME = 'concordance-cache-v1';
+const CACHE_NAME = 'roots-translation-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',
