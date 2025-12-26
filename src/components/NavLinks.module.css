@@ -2,6 +2,7 @@
   width: 100%;
   max-width: 80ch;
   overflow-x: auto;
+  overflow-y: hidden;
   margin: 0 auto;
   padding: var(--ds-space-4) 0;
   display: flex;
