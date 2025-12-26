@@ -313,8 +313,7 @@
   ],
   "saraph": [
     "genesis",
-    "isaiah",
-    "numbers"
+    "isaiah"
   ],
   "shalach": [
     "exodus",
@@ -477,6 +476,10 @@
     "numbers",
     "proverbs",
     "psalms"
+  ],
+  "seraph": [
+    "isaiah",
+    "numbers"
   ],
   "maal": [
     "isaiah",

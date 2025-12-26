@@ -502,10 +502,11 @@ const ROOTS = {
   saraph: {
     hebrew: 'שׂרף',
     transliteration: 'saraph',
-    englishLiteral: 'to burn',
-    englishNatural: 'to burn',
+    englishLiteral: 'to incinerate',
+    englishNatural: 'to incinerate',
     related: ['seraph'],
     type: 'verb',
+    description: 'To burn up completely, to incinerate',
   },
   shalach: {
     hebrew: 'שׁלח',
@@ -744,9 +745,9 @@ const ROOTS = {
   seraph: {
     hebrew: 'שרף',
     transliteration: 'seraph',
-    englishLiteral: 'burning_one',
-    englishNatural: 'burning-one',
-    description: 'a thing/one that/who burns',
+    englishLiteral: 'incinerating_one',
+    englishNatural: 'incinerating-one',
+    description: 'a thing/one that/who incinerates/completely burns',
     related: ['saraph'],
     type: 'noun',
   },
@@ -5932,7 +5933,8 @@ const ROOTS = {
     englishLiteral: 'to burn',
     englishNatural: 'to burn',
     type: 'verb',
-    description: 'to burn, to kindle, to consume by fire',
+    description:
+      'to burn, general word for being on-fire, to kindle, to consume by fire',
   },
   lappid: {
     hebrew: 'לפיד',

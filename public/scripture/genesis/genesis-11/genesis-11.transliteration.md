@@ -6,7 +6,7 @@ vayYimtse'u biqah beEretz ShinAr
 vayYeshvu sham
 
 vayYomeru ish el-reeyhu 
-havah nilvnah levenim veNisrefah lisrefah 
+havah nilvnah levenim veNisrefah liSrefah 
 vatTehi lahem haLevenah leEven 
 veHacheymar hayah lahem laChomer
 

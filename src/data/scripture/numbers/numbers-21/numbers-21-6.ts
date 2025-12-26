@@ -114,9 +114,9 @@ export const numbers_21_6: Verse = {
     {
       hebrew: 'הַשְּׂרָפִים',
       transliteration: 'haSeraphim',
-      englishLiteral: 'the-burning_ones',
-      englishNatural: 'the burning-ones',
-      root: 'saraph',
+      englishLiteral: 'the-incinerating_ones',
+      englishNatural: 'the incinerating-ones',
+      root: 'seraph',
       prefixes: ['ha'],
       suffixes: ['im'],
       order: {
@@ -292,10 +292,10 @@ export const numbers_21_6: Verse = {
     transliteration:
       'vaYeshalach YHWH baAm et haNechashim haSeraphim vaYeNashkhu et haAm vaYamat am rav miYisrael',
     englishLiteral:
-      'And-sent, He_Who_Is (YHWH), among-the-people ↳ the-snakes, the-burning_ones, and-they-struck ↳ the-people, and-died, people, many, from-Struggles_with_God (Israel).',
+      'And-sent, He_Who_Is (YHWH), among-the-people ↳ the-snakes, the-incinerating_ones, and-they-struck ↳ the-people, and-died, people, many, from-Struggles_with_God (Israel).',
     englishNatural:
-      'And He-Who-Is (YHWH) sent the snakes, the burning-ones, among the people, and they struck the people; and many people of Struggles-with-God (Israel) died.',
+      'And He-Who-Is (YHWH) sent the snakes, the incinerating-ones, among the people, and they struck the people; and many people of Struggles-with-God (Israel) died.',
     kjv: 'And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-05' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-26' },
   },
 };

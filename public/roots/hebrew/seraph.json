@@ -2,14 +2,37 @@
   "key": "seraph",
   "hebrew": "שרף",
   "transliteration": "seraph",
-  "englishLiteral": "burning_one",
-  "englishNatural": "burning-one",
-  "description": "a thing/one that/who burns",
+  "englishLiteral": "incinerating_one",
+  "englishNatural": "incinerating-one",
+  "description": "a thing/one that/who incinerates/completely burns",
   "related": [
     "saraph"
   ],
   "type": "noun",
-  "wordIndexes": {},
+  "wordIndexes": {
+    "isaiah": {
+      "6": {
+        "2": [
+          0
+        ]
+      },
+      "14": {
+        "29": [
+          14
+        ]
+      }
+    },
+    "numbers": {
+      "21": {
+        "6": [
+          5
+        ],
+        "8": [
+          6
+        ]
+      }
+    }
+  },
   "usage": {},
   "translationConnections": []
 }

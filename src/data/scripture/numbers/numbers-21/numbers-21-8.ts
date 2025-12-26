@@ -115,9 +115,9 @@ export const numbers_21_8: Verse = {
     {
       hebrew: 'שָׂרָף',
       transliteration: 'saraph',
-      englishLiteral: 'burning_one',
-      englishNatural: 'a burning-one',
-      root: 'saraph',
+      englishLiteral: 'incinerating_one',
+      englishNatural: 'an incinerating-one',
+      root: 'seraph',
       order: 7,
       morphology: {
         gender: 'masculine',
@@ -308,10 +308,10 @@ export const numbers_21_8: Verse = {
     transliteration:
       'vaYomer YHWH el Moshe aseh lekha saraph veSim oto al nes veHayah kol haNashukh veRaah oto vaChai',
     englishLiteral:
-      'And-said He_Who_Is (YHWH) to Drawn_Out (Moses), "Make for-yourself burning_one, and-place it over standard, and-it-will-be, all the-struck, and-sees it, and-lives."',
+      'And-said He_Who_Is (YHWH) to Drawn_Out (Moses), "Make for-yourself incinerating_one, and-place it over standard, and-it-will-be, all the-struck, and-sees it, and-lives."',
     englishNatural:
-      'And He-Who-Is (YHWH) said to Drawn-Out (Moses), "Make for yourself a burning-one, and place it over a standard; and it shall come about, everyone who is struck, and sees it, will live."',
+      'And He-Who-Is (YHWH) said to Drawn-Out (Moses), "Make for yourself an incinerating-one, and place it over a standard; and it shall come about, everyone who is struck, and sees it, will live."',
     kjv: 'And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-26' },
   },
 };

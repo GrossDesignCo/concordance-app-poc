@@ -207,9 +207,9 @@ export const isaiah_14_29: Verse = {
     {
       hebrew: 'שָׂרָף',
       transliteration: 'saraph',
-      englishLiteral: 'burning_one',
-      englishNatural: 'a burning-one',
-      root: 'saraph',
+      englishLiteral: 'incinerating_one',
+      englishNatural: 'an incinerating-one',
+      root: 'seraph',
       order: 15,
       morphology: {
         gender: 'masculine',
@@ -242,10 +242,10 @@ export const isaiah_14_29: Verse = {
     transliteration:
       'al tiSmechi Peleshet kulekh ki nishbar shevet makekh ki miShoresh nachash yetze tsefa uFiryo saraph meOfef',
     englishLiteral:
-      'Do-not you-shall-rejoice Wallowers (Philistia) all-of-you that is-broken rod of-him-who-strikes_down-you that from-root snake shall-come-forth viper and-its-fruit burning_one flying',
+      'Do-not you-shall-rejoice Wallowers (Philistia) all-of-you that is-broken rod of-him-who-strikes_down-you that from-root snake shall-come-forth viper and-its-fruit incinerating_one flying',
     englishNatural:
-      'Do not rejoice Wallowers (Philistia) all of you that is broken the rod of him who strikes-down you that from the root of a snake shall come forth a viper and its fruit a burning-one flying',
+      'Do not rejoice Wallowers (Philistia) all of you that is broken the rod of him who strikes-down you that from the root of a snake shall come forth a viper and its fruit an incinerating-one flying',
     kjv: "Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent's root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.",
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-26' },
   },
 };

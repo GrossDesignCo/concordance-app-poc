@@ -3,7 +3,7 @@ In the year of the death of the king, He-my-Strength (Uzziah).
 And I saw my Lord sitting over a throne, high and lifted-up, 
 and his garments, filling the temple.
 
-Burning-ones were standing above him; six wings to each one, in two he covers his faces, and in two he covers his feet, and in two he flies.
+Incinerating-ones were standing above him; six wings to each one, in two he covers his faces, and in two he covers his feet, and in two he flies.
 
 And this called-out to this, and said, 
 
@@ -18,7 +18,7 @@ and in the midst of a people of unclean lips I sit;
 that my eyes have seen the King, He-Who-Is (YHWH) of Hosts."
 
 
-And flew to me one from the burning-ones 
+And flew to me one from the incinerating-ones 
 and in his hand a live-coal he had taken with tongs from upon the altar.
 
 And he touched it to my mouth,

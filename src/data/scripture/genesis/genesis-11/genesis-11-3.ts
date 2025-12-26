@@ -117,8 +117,8 @@ export const genesis_11_3: Verse = {
     {
       hebrew: 'וְנִשְׂרְפָה',
       transliteration: 'veNisrefah',
-      englishLiteral: 'and-let-us-burn',
-      englishNatural: 'and let us burn',
+      englishLiteral: 'and-let-us-incinerate',
+      englishNatural: 'and let us incinerate',
       root: 'saraph',
       prefixes: ['ve'],
       order: 8,
@@ -133,9 +133,9 @@ export const genesis_11_3: Verse = {
     },
     {
       hebrew: 'לִשְׂרֵפָה',
-      transliteration: 'lisrefah',
-      englishLiteral: 'to-burning',
-      englishNatural: 'to a burning',
+      transliteration: 'liSrefah',
+      englishLiteral: 'to-incinerating',
+      englishNatural: 'to an incinerating',
       root: 'saraph',
       prefixes: ['le'],
       order: 9,
@@ -298,12 +298,12 @@ export const genesis_11_3: Verse = {
     hebrew:
       'וַיֹּאמְרוּ אִישׁ אֶל־רֵעֵהוּ הָבָה נִלְבְּנָה לְבֵנִים וְנִשְׂרְפָה לִשְׂרֵפָה וַתְּהִי לָהֶם הַלְּבֵנָה לְאָבֶן וְהַחֵמָר הָיָה לָהֶם לַחֹמֶר',
     transliteration:
-      'vayYomeru ish el-reeyhu havah nilvnah levenim veNisrefah lisrefah vatTehi lahem haLevenah leEven veHacheymar hayah lahem laChomer',
+      'vayYomeru ish el-reeyhu havah nilvnah levenim veNisrefah liSrefah vatTehi lahem haLevenah leEven veHacheymar hayah lahem laChomer',
     englishLiteral:
-      'And-they-said man to- his-neighbor, come let-us-make-bricks bricks and-let-us-burn to-burning." And-she-was to-them the-brick for-stone, and-the-bitumen was to-them for-mortar.',
+      'And-they-said man to- his-neighbor, come let-us-make-bricks bricks and-let-us-incinerate to-incinerating." And-she-was to-them the-brick for-stone, and-the-bitumen was to-them for-mortar.',
     englishNatural:
-      'And they said, man to his neighbor, "Come let us make-bricks bricks and let us burn to a burning." And the brick was to them for stone, and the bitumen was to them for mortar.',
+      'And they said, man to his neighbor, "Come let us make-bricks bricks and let us incinerate to an incinerating." And the brick was to them for stone, and the bitumen was to them for mortar.',
     kjv: 'And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-09' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-26' },
+  },
 };

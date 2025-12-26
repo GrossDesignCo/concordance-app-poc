@@ -6,7 +6,7 @@ and-they-found plain in-land-of Tooth-of-Two (Shinar)
 and-they-settled there.
 
 And-they-said man to- his-neighbor, 
-come let-us-make-bricks bricks and-let-us-burn to-burning." 
+come let-us-make-bricks bricks and-let-us-incinerate to-incinerating." 
 And-she-was to-them the-brick for-stone, 
 and-the-bitumen was to-them for-mortar.
 

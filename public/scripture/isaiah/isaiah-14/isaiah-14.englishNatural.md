@@ -1,1 +1,1 @@
-Do not rejoice Wallowers (Philistia) all of you that is broken the rod of him who strikes-down you that from the root of a snake shall come forth a viper and its fruit a burning-one flying. 
+Do not rejoice Wallowers (Philistia) all of you that is broken the rod of him who strikes-down you that from the root of a snake shall come forth a viper and its fruit an incinerating-one flying. 

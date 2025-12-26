@@ -1,5 +1,5 @@
 
-And He-Who-Is (YHWH) sent the snakes, the burning-ones, among the people, 
+And He-Who-Is (YHWH) sent the snakes, the incinerating-ones, among the people, 
 and they struck the people; 
 and many people of Struggles-with-God (Israel) died.
 
@@ -10,7 +10,7 @@ and may he turn-aside the snake from over us."
 And Drawn-Out (Moses) prayed in unto the people.
 
 And He-Who-Is (YHWH) said to Drawn-Out (Moses), 
-"Make for yourself a burning-one, 
+"Make for yourself an incinerating-one, 
 and place it over a standard; 
 and it shall come about, everyone who is struck, 
 and sees it, will live."

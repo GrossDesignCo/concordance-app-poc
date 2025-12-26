@@ -10,9 +10,9 @@ export const isaiah_6_2: Verse = {
     {
       hebrew: 'שְׂרָפִים',
       transliteration: 'seraphim',
-      englishLiteral: 'Burning_ones',
-      englishNatural: 'Burning-ones',
-      root: 'saraph',
+      englishLiteral: 'Incinerating_ones',
+      englishNatural: 'Incinerating-ones',
+      root: 'seraph',
       suffixes: ['im'],
       order: 1,
       morphology: {
@@ -250,10 +250,10 @@ export const isaiah_6_2: Verse = {
     transliteration:
       'seraphim omedim miMaal lo shesh kenafayim leEchad biShtayim yeKhasseh panav uViShtayim yeKhasseh raglav uViShtayim yeOfef',
     englishLiteral:
-      'Burning_ones were-standing from-above to-him; six wings to-one, in-two he-covers his-faces, and-in-two he-covers his-feet, and-in-two he-flies.',
+      'Incinerating_ones were-standing from-above to-him; six wings to-one, in-two he-covers his-faces, and-in-two he-covers his-feet, and-in-two he-flies.',
     englishNatural:
-      'Burning-ones were standing above him; six wings to each one, in two he covers his faces, and in two he covers his feet, and in two he flies.',
+      'Incinerating-ones were standing above him; six wings to each one, in two he covers his faces, and in two he covers his feet, and in two he flies.',
     kjv: 'Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-13' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-26' },
   },
 };

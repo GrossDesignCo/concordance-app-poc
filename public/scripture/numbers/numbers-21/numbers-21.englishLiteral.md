@@ -1,5 +1,5 @@
 
-And-sent, He_Who_Is (YHWH), among-the-people ↳ the-snakes, the-burning_ones, 
+And-sent, He_Who_Is (YHWH), among-the-people ↳ the-snakes, the-incinerating_ones, 
 and-they-struck ↳ the-people, 
 and-died, people, many, from-Struggles_with_God (Israel).
 
@@ -10,7 +10,7 @@ and-may-he-turn_aside from-over-us ↳ the-snake."
 And-prayed Drawn_Out (Moses) in-unto the-people.
 
 And-said He_Who_Is (YHWH) to Drawn_Out (Moses), 
-"Make for-yourself burning_one, 
+"Make for-yourself incinerating_one, 
 and-place it over standard, 
 and-it-will-be, all the-struck, 
 and-sees it, and-lives."

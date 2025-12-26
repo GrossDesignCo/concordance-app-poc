@@ -5,7 +5,7 @@ and they found a plain in the land of Tooth-of-Two (Shinar)
 and they settled there.
 
 And they said, man to his neighbor, 
-"Come let us make-bricks bricks and let us burn to a burning." 
+"Come let us make-bricks bricks and let us incinerate to an incinerating." 
 And the brick was to them for stone, 
 and the bitumen was to them for mortar.
 

@@ -2,12 +2,13 @@
   "key": "saraph",
   "hebrew": "שׂרף",
   "transliteration": "saraph",
-  "englishLiteral": "to burn",
-  "englishNatural": "to burn",
+  "englishLiteral": "to incinerate",
+  "englishNatural": "to incinerate",
   "related": [
     "seraph"
   ],
   "type": "verb",
+  "description": "To burn up completely, to incinerate",
   "wordIndexes": {
     "genesis": {
       "11": {
@@ -19,26 +20,8 @@
     },
     "isaiah": {
       "6": {
-        "2": [
-          0
-        ],
         "6": [
           4
-        ]
-      },
-      "14": {
-        "29": [
-          14
-        ]
-      }
-    },
-    "numbers": {
-      "21": {
-        "6": [
-          5
-        ],
-        "8": [
-          6
         ]
       }
     }

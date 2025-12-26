@@ -64,8 +64,8 @@ export const isaiah_6_6: Verse = {
     {
       hebrew: 'הַשְּׂרָפִים',
       transliteration: 'haSeraphim',
-      englishLiteral: 'the-burning_ones',
-      englishNatural: 'the burning-ones',
+      englishLiteral: 'the-incinerating_ones',
+      englishNatural: 'the incinerating-ones',
       root: 'saraph',
       prefixes: ['ha'],
       suffixes: ['im'],
@@ -180,10 +180,10 @@ export const isaiah_6_6: Verse = {
     transliteration:
       'vaYaof elai echad min haSeraphim uVeYado ritzpah beMelkachayim lakach meAl haMizbeach',
     englishLiteral:
-      'And-flew to-me one from the-burning_ones and-in-his-hand live_coal with-tongs he-took from-upon the-altar.',
+      'And-flew to-me one from the-incinerating_ones and-in-his-hand live_coal with-tongs he-took from-upon the-altar.',
     englishNatural:
-      'And flew to me one from the burning-ones and in his hand a live-coal he had taken with tongs from upon the altar.',
+      'And flew to me one from the incinerating-ones and in his hand a live-coal he had taken with tongs from upon the altar.',
     kjv: 'Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-06' },
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-26' },
   },
 };
