@@ -2,19 +2,6 @@
   padding: var(--ds-space-4) var(--ds-space-7);
 }
 
-.links {
-  max-width: 80ch;
-  margin: 0 auto;
-  padding: var(--ds-space-4) 0;
-  display: flex;
-  gap: var(--ds-space-4);
-  position: sticky;
-  top: 0;
-  background-color: var(--ds-bg-page);
-  z-index: 100;
-  box-shadow: 0 0 20px 20px var(--ds-bg-page);
-}
-
 .main-text {
   padding: var(--ds-space-10) 0 var(--ds-space-12);
   max-width: 80ch;

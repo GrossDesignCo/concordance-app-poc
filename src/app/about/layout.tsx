@@ -8,33 +8,31 @@ export default function StaticPageLayout({
 }) {
   return (
     <div className="page-shell">
-      <div className="links">
-        <NavLinks
-          links={[
-            {
-              href: '/',
-              label: 'Back',
-            },
-            {
-              href: '/about',
-              label: 'About',
-            },
-            {
-              href: '/about/translation-progress',
-              label: 'Progress',
-            },
-            {
-              href: '/about/contribute',
-              label: 'Contribute',
-            },
-            {
-              href: 'https://github.com/GrossDesignCo/concordance-app-poc',
-              target: '_blank',
-              label: 'GitHub/Source',
-            },
-          ]}
-        />
-      </div>
+      <NavLinks
+        links={[
+          {
+            href: '/',
+            label: 'Back',
+          },
+          {
+            href: '/about',
+            label: 'About',
+          },
+          {
+            href: '/about/translation-progress',
+            label: 'Progress',
+          },
+          {
+            href: '/about/contribute',
+            label: 'Contribute',
+          },
+          {
+            href: 'https://github.com/GrossDesignCo/concordance-app-poc',
+            target: '_blank',
+            label: 'GitHub/Source',
+          },
+        ]}
+      />
 
       <main className="main-text markdown-text">{children}</main>
     </div>
