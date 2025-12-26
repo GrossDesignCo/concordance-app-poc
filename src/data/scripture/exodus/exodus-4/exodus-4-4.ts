@@ -180,8 +180,8 @@ export const exodus_4_4: Verse = {
     {
       hebrew: 'וַיַּחֲזֶק',
       transliteration: 'vaYachazek',
-      englishLiteral: 'and-seized',
-      englishNatural: 'and seized',
+      englishLiteral: 'and-handled',
+      englishNatural: 'and handled',
       root: 'tafas',
       prefixes: ['va'],
       order: 11,
@@ -271,10 +271,10 @@ export const exodus_4_4: Verse = {
     transliteration:
       'vaYomer YHWH el-Moshe shelach yadkha veEchoz biZnavo vaYishlach yado vaYachazek bo vaYehi leMateh beKhapo',
     englishLiteral:
-      'And-said He_Who_Is (YHWH) to- Drawn_Out (Moses) "send hand-your and-seize in-tail-its." And-sent hand-his and-seized in-it, and-was to-branch in-palm-his.',
+      'And-said He_Who_Is (YHWH) to- Drawn_Out (Moses) "send hand-your and-seize in-tail-its." And-sent hand-his and-handled in-it, and-was to-branch in-palm-his.',
     englishNatural:
-      'And He-Who-Is (YHWH) said to Drawn-Out (Moses), "Send-out your hand and seize its tail." And he sent-out his hand and seized it, and it was a branch in his palm.',
+      'And He-Who-Is (YHWH) said to Drawn-Out (Moses), "Send-out your hand and seize its tail." And he sent-out his hand and handled it, and it was a branch in his palm.',
     kjv: 'And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-26' },
+  },
 };

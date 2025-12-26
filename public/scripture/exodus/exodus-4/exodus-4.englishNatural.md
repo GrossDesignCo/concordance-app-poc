@@ -14,7 +14,7 @@ and Drawn-Out (Moses) fled from its face.
 
 And He-Who-Is (YHWH) said to Drawn-Out (Moses), 
 "Send-out your hand and seize its tail." 
-And he sent-out his hand and seized it, 
+And he sent-out his hand and handled it, 
 and it was a branch in his palm.
 
 "For their sake they will believe that he was-seen to you, 

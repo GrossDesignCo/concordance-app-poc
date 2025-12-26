@@ -9,7 +9,7 @@ And-hurled-it land-ward, and-was to-snake,
 and-fled Drawn_Out (Moses) from-face-its.
 
 And-said He_Who_Is (YHWH) to- Drawn_Out (Moses) "send hand-your and-seize in-tail-its." 
-And-sent hand-his and-seized in-it, and-was to-branch in-palm-his.
+And-sent hand-his and-handled in-it, and-was to-branch in-palm-his.
 
 "for-sake-of will-believe that- was_seen to-you He_Who_Is (YHWH), Gods-of fathers-their, Gods-of Exalted_Father (Abraham), Gods-of He_Laughs (Isaac), and-Gods-of Heel_Grasper (Jacob)."
 
