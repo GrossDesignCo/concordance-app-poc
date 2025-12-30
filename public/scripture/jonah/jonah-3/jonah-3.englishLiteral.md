@@ -37,7 +37,7 @@ and-waters not- they-will-drink;
 
 And-they-will-be-covered sackcloth,
 the-Earth (Adam) and-the-beast, 
-and-they-will-call_out to- Gods in-strength; 
+and-they-will-call_out to- Gods in-intensity; 
 and-return man from-way-his the-bad 
 and-from- the-violence which in-palms-their.
 

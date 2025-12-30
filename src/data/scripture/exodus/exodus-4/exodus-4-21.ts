@@ -279,8 +279,8 @@ export const exodus_4_21: Verse = {
     {
       hebrew: 'אֲחַזֵּק',
       transliteration: 'achazek',
-      englishLiteral: 'will-strengthen',
-      englishNatural: 'will strengthen',
+      englishLiteral: 'will-intensify',
+      englishNatural: 'will intensify',
       root: 'chazaq',
       order: 18,
       morphology: {
@@ -387,10 +387,10 @@ export const exodus_4_21: Verse = {
     transliteration:
       'vaYomer YHWH el-Moshe beLekhtkha lashuv mitzraymah reeh kol-haMoftim asher-samti veYadekha vaAsitam lifnei Paroh vaAni achazek et-libbo veLo yeshallach et-haAm',
     englishLiteral:
-      'And-said He_Who_Is (YHWH) to- Drawn_Out (Moses) "in-going-your to-return Narrow_Place (Egypt)-ward, see all- the-wonders which- placed in-hand-your and-do-them to-face-of Pharaoh, and-I will-strengthen ↳ heart-his and-not will-send ↳ the-people."',
+      'And-said He_Who_Is (YHWH) to- Drawn_Out (Moses) "in-going-your to-return Narrow_Place (Egypt)-ward, see all- the-wonders which- placed in-hand-your and-do-them to-face-of Pharaoh, and-I will-intensify ↳ heart-his and-not will-send ↳ the-people."',
     englishNatural:
-      'And He-Who-Is (YHWH) said to Drawn-Out (Moses), "In your going, to return to Narrow-Place (Egypt), see all the wonders which I have placed in your hand and do them before Pharaoh, but I will strengthen his heart and he will send-out not the people."',
+      'And He-Who-Is (YHWH) said to Drawn-Out (Moses), "In your going, to return to Narrow-Place (Egypt), see all the wonders which I have placed in your hand and do them before Pharaoh, but I will intensify his heart and he will send-out not the people."',
     kjv: 'And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go.',
-    lastReviewed: { name: 'Matt Gross', date: '2025-12-24' },
-},
+    lastReviewed: { name: 'Matt Gross', date: '2025-12-30' },
+  },
 };

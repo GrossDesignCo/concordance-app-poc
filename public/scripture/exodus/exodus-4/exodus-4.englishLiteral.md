@@ -17,4 +17,4 @@ And-took Drawn_Out (Moses) ↳ woman-his and-↳ sons-his and-caused-to-ride-the
 and-took Drawn_Out (Moses) ↳ branch-of the-Gods in-hand-his.
 
 And-said He_Who_Is (YHWH) to- Drawn_Out (Moses) "in-going-your to-return Narrow_Place (Egypt)-ward, see all- the-wonders which- placed in-hand-your and-do-them to-face-of Pharaoh, 
-and-I will-strengthen ↳ heart-his and-not will-send ↳ the-people."."
+and-I will-intensify ↳ heart-his and-not will-send ↳ the-people."."

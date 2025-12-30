@@ -29,4 +29,4 @@ and Drawn-Out (Moses) took the branch of the God in his hand.
 
 And He-Who-Is (YHWH) said to Drawn-Out (Moses), "In your going, to return to Narrow-Place (Egypt), 
 see all the wonders which I have placed in your hand and do them before Pharaoh, 
-but I will strengthen his heart and he will send-out not the people."."
+but I will intensify his heart and he will send-out not the people."."

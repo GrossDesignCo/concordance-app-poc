@@ -40,7 +40,7 @@ And-now cursed you, from- the-earth;
 which she-opened ↳ her-mouth to-take ↳ blood-of your-brother from-your-hand.
 
 When you-serve ↳ the-earth,
-not- it-will-add give- her-strength to-you;
+not- it-will-add give- her-ability to-you;
 wandering and-fugitive you-will-be in-land."
 
 And-he-said Acquired (Cain) to He_Who_Is (YHWH),

@@ -39,7 +39,7 @@ The voice of the blood of your brother is crying-out to me from the earth.
 And now cursed are you, from the earth;
 which has opened her mouth to take the blood of your brother, from your hand.
 When you serve the earth,
-it will add not, to give her strength to you;
+it will add not, to give her ability to you;
 wandering and fugitive you will be in the land."
 
 And Acquired (Cain) said to He-Who-Is (YHWH),

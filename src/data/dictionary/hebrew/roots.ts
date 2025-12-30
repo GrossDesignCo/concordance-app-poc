@@ -2022,6 +2022,7 @@ const ROOTS = {
     englishLiteral: 'strength',
     englishNatural: 'strength',
     type: 'noun',
+    description: 'general hebrew word for strength/power',
   },
   adon: {
     hebrew: 'אדון',
@@ -4237,10 +4238,11 @@ const ROOTS = {
   koach: {
     hebrew: 'כֹּחַ',
     transliteration: 'koach',
-    englishLiteral: 'strength',
-    englishNatural: 'strength',
+    englishLiteral: 'ability',
+    englishNatural: 'ability',
     type: 'noun',
-    description: 'strength, power, might',
+    description:
+      'ability, capability, the power/strength to accomplish/do things, power, might',
   },
   na: {
     hebrew: 'נָע',
@@ -5020,13 +5022,24 @@ const ROOTS = {
   },
   // Jonah 3:8 additions
   chazaq: {
-    hebrew: 'חזק',
+    hebrew: 'חָזַק',
     transliteration: 'chazaq',
-    englishLiteral: 'strength',
-    englishNatural: 'strength',
+    englishLiteral: 'to intensify',
+    englishNatural: 'to intensify',
+    type: 'verb',
+    description:
+      'to be strong, grow strong, strengthen, harden, intensify; in Qal: be/grow strong; in Piel: strengthen, make firm; in Hiphil: seize, grasp firmly, hold fast; with heart as object: to make obstinate/unyielding',
+    related: ['chozeq'],
+  },
+  chozeq: {
+    hebrew: 'חֹזֶק',
+    transliteration: 'chozeq',
+    englishLiteral: 'intensity',
+    englishNatural: 'intensity',
     type: 'noun',
     description:
-      'strength, force, might; with "be-" prefix means "with strength/mightily"',
+      'intensity, strength, force, might; the quality of being strong or intense',
+    related: ['chazaq'],
   },
   chamas: {
     hebrew: 'חמס',

@@ -1,23 +1,19 @@
 {
   "key": "chazaq",
-  "hebrew": "חזק",
+  "hebrew": "חָזַק",
   "transliteration": "chazaq",
-  "englishLiteral": "strength",
-  "englishNatural": "strength",
-  "type": "noun",
-  "description": "strength, force, might; with \"be-\" prefix means \"with strength/mightily\"",
+  "englishLiteral": "to intensify",
+  "englishNatural": "to intensify",
+  "type": "verb",
+  "description": "to be strong, grow strong, strengthen, harden, intensify; in Qal: be/grow strong; in Piel: strengthen, make firm; in Hiphil: seize, grasp firmly, hold fast; with heart as object: to make obstinate/unyielding",
+  "related": [
+    "chozeq"
+  ],
   "wordIndexes": {
     "exodus": {
       "4": {
         "21": [
           17
-        ]
-      }
-    },
-    "jonah": {
-      "3": {
-        "8": [
-          7
         ]
       }
     }

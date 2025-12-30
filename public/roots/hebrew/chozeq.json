@@ -1,0 +1,23 @@
+{
+  "key": "chozeq",
+  "hebrew": "חֹזֶק",
+  "transliteration": "chozeq",
+  "englishLiteral": "intensity",
+  "englishNatural": "intensity",
+  "type": "noun",
+  "description": "intensity, strength, force, might; the quality of being strong or intense",
+  "related": [
+    "chazaq"
+  ],
+  "wordIndexes": {
+    "jonah": {
+      "3": {
+        "8": [
+          7
+        ]
+      }
+    }
+  },
+  "usage": {},
+  "translationConnections": []
+}

@@ -37,7 +37,7 @@ and waters they will drink not;
 
 And they will be covered sackcloth,
 the Earth (Adam) and the beast, 
-and they will call-out to God in strength; 
+and they will call-out to God in intensity; 
 and return man from the bad of his way 
 and from the violence which is in their hands.
 
